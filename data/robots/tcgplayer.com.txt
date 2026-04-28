@@ -1,0 +1,9 @@
+User-agent: *
+Crawl-Delay: 10
+Allow: /
+Disallow: /*?*seller=*
+Disallow: /login
+Disallow: /search/articles
+Disallow: /content/*/deck/
+Disallow: /content/*/decks/player
+Sitemap: https://www.tcgplayer.com/sitemap/index.xml

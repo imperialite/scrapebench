@@ -1,0 +1,90 @@
+Welcome to Kompas.com , a news site managed by Kompas Cyber ​​Media (hereinafter referred to as "the manager" or "we"). The following Terms of Use are the terms and conditions for using the site, content, services, and features on Kompas.com .
+
+Please read these Terms of Use carefully. By accessing and using Kompas.com , you understand and agree to be bound by all applicable regulations on this site. If you do not agree to be bound by all applicable regulations, please do not use this site.
+
+CHANGES TO TERMS OF USE
+The Administrator may change, add to, or modify these Terms of Use at any time. You are bound by any such changes and should therefore periodically review this page to review the current Terms of Use that apply to you.
+
+REGISTERED VISITORS
+Some services on this site, such as the Forum or Blog, are available only to registered visitors and require a user ID to use them. As a registered visitor, you are required to comply with all terms and conditions for using these services.
+
+ADDITIONAL TERMS OF USE
+Some areas or services of Kompas.com , such as pages where you can upload or download documents or files, may have usage guidelines and rules that supplement these Terms of Use. By using these services, you agree to be bound by these applicable guidelines and rules.
+
+PRIVACY POLICY
+Kompas.com's privacy policy discloses its policies regarding the handling of your personal data when you access Kompas.com . Your continued use of Kompas.com indicates your agreement to the administrator's Privacy Policy. You can read the Privacy Policy by accessing the "Privacy Policy" button at the bottom of the Kompas.com page .
+
+CHANGES TO KOMPAS.COM
+The administrator may discontinue or change services or features on Kompas.com at any time and without prior notice.
+
+USER OBLIGATIONS
+Use of Kompas.com must comply with the laws and regulations of the Republic of Indonesia. You are prohibited from uploading or transmitting through Kompas.com any material or other material that:
+
+violate or infringe upon the rights of others, including without limitation, patent, trademark, trade secret, copyright, publicity or other proprietary rights.
+violate the law, threaten, insult, harass, slander, defame, deceive, cheat, or cause hatred towards certain people or groups.
+harass, abuse, degrade or intimidate an individual or group of individuals based on religion, gender, sexual orientation, race, ethnicity, age or physical disability.
+violating moral norms, obscene, pornographic.
+advocating or suggesting unlawful acts.
+offend, trigger conflict and/or hostility between ethnic groups, religions, races and inter-groups (SARA).
+contains words or images that are frightening, rude, dirty, obscene, or contain curses.
+spreading certain ideologies or teachings which are in principle prohibited by the laws in force in the territory of the Republic of Indonesia
+contains viruses or other computer code, files or programs that may interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment, or permit unauthorized use of a computer or computer network
+violate the Terms of Use, instructions or other policies on Kompas.com
+In using Kompas.com . You agree to:
+
+provide accurate, current and complete information about yourself when filling out the registration form on Kompas.com
+keep your password and identification secure
+maintain and periodically update information about yourself and other information accurately, recently and completely
+accept all risks of illegal access to registration information and data
+responsible for the protection and backup of data and/or equipment used
+You are not permitted to use Kompas.com in any manner or under any conditions that could damage, disable, overload, or disrupt Kompas.com's servers or network . You are also not permitted to access services, user accounts, computer systems, or networks unauthorized by hacking, password mining, or any other means.
+
+The administrator will fully cooperate with any law enforcement officials or court order requesting or directing the administrator to disclose the identity of anyone posting any such materials or information.
+
+RIGHT OF OWNERSHIP
+All designs, images, artwork, audio, video and programming codes (hereinafter referred to as "content") on this site are the copyright of the administrator. You are not permitted to modify, copy, change or add designs, images, artwork, audio, video and programming codes in this facility under any circumstances or conditions.
+
+KOMPAS.COM LICENSE TO USE
+You are permitted to use Kompas.com and the content it offers solely for personal, non-commercial use. You may use content permitted for download, such as photos and audio recordings, for personal use and in accordance with the applicable content's regulations.
+
+You are not permitted to reproduce, print, copy, store, publish, display, distribute, modify, translate, publish, transfer, sell, lend or distribute Kompas.com content without written permission from the administrator.
+
+TERMS AND CONDITIONS
+By using this service, users are deemed to have read, understood, and agreed to the following terms:
+
+Content on the Service
+Content on this service may be used solely for personal, non-commercial purposes. All content is protected by copyright, trademark, and other applicable laws.
+Users may download content for personal use, provided they retain the copyright notice. Content may not be used to train or develop artificial intelligence (AI) or as a data asset in any form.
+Some of the content on this service comes from third parties. We are not responsible for any errors, inaccuracies, or losses arising from such third-party content.
+User Generated Content
+Every user uploading content must ensure they have the legal rights to it and that it does not violate any laws or the rights of others. Content that is defamatory, obscene, abusive, misleading, contains malware, or is controlled by automation (bots) is prohibited.
+Users are required to maintain community ethics, namely:
+You must be polite and not insult or threaten other parties.
+It is mandatory to use polite, respectful language and be free from discrimination and hate speech.
+Discussion and differences of opinion are welcome, but personal attacks of any kind are prohibited.
+Violations in the form of hate speech or personal attacks can result in permanent suspension of the user's account.
+KOMPAS.COM reserves the right to monitor direct messages through an automated system to maintain the security and comfort of the service.
+Prohibited Use of Content, Products, Data or Information
+The use of Content, Products, Data or Information prohibited by Users from the Services provided for personal and non-commercial purposes is not used for artificial intelligence ( AI ) Project Development tools or automatic data retrieval using automatic devices , including but not limited to Users, namely not allowed to use or try to use Content, Products, Data or Information from the Services provided in a way that can harm kompas.com or third parties. Users are also prohibited from using Content, Products, Data or Information in a way that violates the law, intellectual property rights, or the rights of other parties, either directly or indirectly without prior written consent from kompas.com to:
+
+Using Content, Products, Data or Information from the Services provided for the development of software programs, models, algorithms, or artificial intelligence (AI ) or generative Artificial Intelligence/AI tools , including but not limited to training, fine-tuning , grounding , or operating machine learning/ AI systems, or using Content, Products, Data or Information as part of a retrieval-augmented generation mechanism ;
+Using any robot, spider, script, service, software, or other manual or automatic device designed to extract or retrieve data from the Content, Products, Data, or Information from the Services provided, or using, accessing, or collecting Content, Products, Data, or Information from the Services through other automated means;
+Using services, software, or other manual or automatic tools/tools to circumvent any restrictions, conditions, or technological measures governing access to Content, Products, Data, or Information from the Services provided, including by disabling security features, bypassing access or use restrictions, or failing to comply with exclusion protocols such as the Robots Exclusion Protocol or Automated Content Access Protocol (kompas.com's robots.txt is not considered as written consent from kompas.com under these Terms of Service);
+Carrying out temporary storage or archiving of Content, Products, Data or Information except for the use of spiders by public search engines to create search indexes in the form of links and short snippets (not snippets resulting from Artificial Intelligence/AI synthesis ) of Content, Products, Data or Information from the Services provided in search results;
+Taking any action that places an unreasonable or excessive burden on the kompas.com network or infrastructure;
+Accessing or attempting to access any part of the Content, Products, Data or Information of the Services provided that you do not have permission or authorization to access, or for which access has been revoked by kompas.com;
+Providing, transferring or granting access to archived or cached data sets containing Content, Products, Data or Information from Services provided to other parties, whether individuals or legal entities;
+CONTENT CONTAINED FOR PUBLIC CONSUMPTION
+Some areas or services on Kompas.com allow you to post content that can be accessed and viewed by other visitors, including the general public. You are only permitted to post content on public pages on Kompas.com that you created yourself or that you have permission to post. You are not permitted to post content that violates these Terms of Use. The administrators do not claim ownership of the content you post. However, by posting content on public areas of Kompas.com , you grant us, our affiliates, and distributors the right to use, copy, display, perform, distribute, adapt, and promote such content in various media.
+
+SUPERVISION
+You agree that we are not responsible for content provided by others. We have no obligation to review such content, but we reserve the right to refuse to publish or edit any submitted content. We reserve the right to remove content for any reason, but we are not responsible for any failure or delay in removing such material.
+
+OTHER SITE LINKS
+Kompas.com may provide links to third-party sites, including those provided on search results pages. Some of these links may contain objectionable, illegal, or inaccurate material. These links do not imply our endorsement of those third-party sites. You acknowledge and agree that we are not responsible for the content or other materials contained on those third-party sites. Any agreements and transactions between you and advertisers on Kompas.com are between you and the advertiser, and you acknowledge and agree that we are not responsible for any losses or claims arising from any agreements or transactions between you and the advertiser.
+
+YOUTUBE
+We use YouTube API services and the video player we use on the website is an unbranded version of YouTube.
+
+When you access the kompas.com website, you are bound by the YouTube Terms of Service ( https://www.youtube.com/t/terms ).
+YouTube may also collect data during your interactions or use of the YouTube video player in accordance with Google's Privacy Policy ( https://www.google.com/policies/privacy ).

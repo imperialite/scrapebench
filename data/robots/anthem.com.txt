@@ -1,0 +1,131 @@
+User-agent: *
+Disallow: /wps/
+Disallow: /medicalpolicies
+Disallow: /ca/medicalpolicies
+Disallow: /*.pdf$
+Disallow: /nsecurepdf/
+Disallow: /member/
+Disallow: /visitor/
+Disallow: /ca/member/
+Disallow: /ca/visitor/
+Disallow: /shared/
+Disallow: /consumer
+Disallow: /Sitemanager
+Disallow: /includes
+Disallow: /images
+Disallow: /maintenance
+Disallow: /search
+Disallow: /ca/search
+Disallow: /medicalpolicies/
+Disallow: /wps/contenthandler/
+Disallow: /health-insurance/providerreimagine-directory/
+# Below two items are to exclude bad URLs from Google Bot as of 6/2014
+Disallow: /health-insurance/providerdirectory/memberinsurance
+Disallow: /health-insurance/providerdirectory/fileexport
+Disallow: /health-insurance/provider-directory/*?qs
+Disallow: /health-insurance/about-us/pressreleasedetails/*/*/*/health-insurance/home/external-site/
+Disallow: /consumer/customercare/*?qs
+Disallow: /producer/news/
+Disallow: /ca/producer/news/
+Disallow: /health-insurance/plans-and-benefits/
+Disallow: /bsmh/
+Disallow: /wex/
+
+# Micro Sites
+Disallow: /aig/
+Disallow: /aso-learnmore/
+Disallow: /associates/
+Disallow: /bankofamerica/
+Disallow: /ca/aso-learnmore/
+Disallow: /ca/calpers/
+Disallow: /ca/caltech/
+Disallow: /ca/cityofla/
+Disallow: /ca/colb/
+Disallow: /ca/countyoflosangeles/
+Disallow: /ca/countyoforange/
+Disallow: /ca/employertoolkit/
+Disallow: /ca/guestmembership/
+Disallow: /ca/ibewlocal18/
+Disallow: /ca/intel/
+Disallow: /ca/intelretiree/
+Disallow: /ca/lacerswellness/
+Disallow: /ca/learnmore/
+Disallow: /ca/leidos/
+Disallow: /ca/llns/
+Disallow: /ca/pge/
+Disallow: /ca/sisc/
+Disallow: /ca/ucberkeley/
+Disallow: /ca/yourhealth/
+Disallow: /ca/yourpartner/
+Disallow: /capitalone/
+Disallow: /carmax/
+Disallow: /cova/
+Disallow: /ctpartner/
+Disallow: /cuhealthplan/
+Disallow: /eap/verizon/
+Disallow: /employertoolkit/
+Disallow: /guestmembership/
+Disallow: /guestmembership/conv/
+Disallow: /kehp/
+Disallow: /learnmore/
+Disallow: /mainehealth/
+Disallow: /marriott/
+Disallow: /meabt/
+Disallow: /mercy/
+Disallow: /newenglandchoice/
+Disallow: /peracare/
+Disallow: /provider/router/
+Disallow: /shbp/
+Disallow: /shbpretirees/
+Disallow: /siteofservicenh/
+Disallow: /statect/
+Disallow: /stateofnhsaves/
+Disallow: /terex/
+Disallow: /tlc/
+Disallow: /traderjoes/
+Disallow: /uchealth/
+Disallow: /usg/
+Disallow: /vaprovider/router/
+Disallow: /westrock/
+Disallow: /woodward/
+Disallow: /yourhealth/
+Disallow: /yourpartner/
+Disallow: /ca/alads/
+Disallow: /rtx/
+Disallow: /contraceptive/
+
+# bcbsga.com
+Disallow: /wps/portal/chpmemberbcbsga/
+Disallow: /wps/portal/chpvisitorbcbsga/
+
+# unicare.com
+Disallow: /wps/portal/chpmemberunicare/
+Disallow: /wps/portal/chpvisitorunicare/
+
+#unicaremass.com
+Disallow: /members/preapproval-requirements/
+Disallow: /members/health-wellness/
+
+# Internal Search Bots
+User-agent: Anthem-ProdB
+Disallow: /search
+Disallow: /ca/search
+Disallow: /health-insurance/provider-directory/*?qs
+Disallow: /health-insurance/about-us/pressreleasedetails/*/*/*/health-insurance/home/external-site/
+Disallow: /consumer/customercare/*?qs
+User-agent: Anthem-ProdA
+Disallow: /search
+Disallow: /ca/search
+Disallow: /health-insurance/provider-directory/*?qs
+Disallow: /health-insurance/about-us/pressreleasedetails/*/*/*/health-insurance/home/external-site/
+Disallow: /consumer/customercare/*?qs
+Disallow: /content/dam/anthem/pdf/AnthemProducerAgreementCompanies.pdf
+Disallow: /AnthemProducerAgreementCompanies
+
+
+
+Sitemap: https://www.anthem.com/u65-sitemap.xml
+Sitemap: https://www.anthem.com/medicare-sitemap.xml
+Sitemap: https://www.anthem.com/general-sitemap.xml
+Sitemap: https://www.anthem.com/blog-sitemap.xml
+Sitemap: https://www.anthem.com/sitemap.xml

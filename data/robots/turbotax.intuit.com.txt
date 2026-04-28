@@ -1,0 +1,137 @@
+# robots.txt for https://turbotax.intuit.com/
+# Updated: October 7, 2025
+# Purpose: Allow access for major LLM/AI crawlers for GEO (Generative Engine Optimization) visibility and training inclusion.
+
+User-agent: *
+Disallow: /25back/
+Disallow: /api/
+Disallow: /bookclub/
+Disallow: /ci/
+Disallow: /cobranding/
+Disallow: /dev/
+Disallow: /devcookie/
+Disallow: /devdoc/
+Disallow: /deverror/
+Disallow: /devgruntconsole/
+Disallow: /devhelperfunction/
+Disallow: /devinstalldependencies/
+Disallow: /devinstallgrunt/
+Disallow: /devinstallnode/
+Disallow: /devmanagedependencies/
+Disallow: /devurl/
+Disallow: /dtoffer/
+Disallow: /DTOffer/
+Disallow: /download_error.jsp
+Disallow: /downloads/
+Disallow: /externalcontent/
+Disallow: /eliminator/
+Disallow: /feedback/reviews/submit-review.jsp
+Disallow: /feedback/reviews/submit/
+Disallow: /feedback/thankyou.jsp
+Disallow: /fudcarousel/
+Disallow: /ha/
+Disallow: /hb/
+Disallow: /images/email/auth/
+Disallow: /login
+Disallow: /library/
+Disallow: /lineup/
+Disallow: /lp/
+Disallow: /lp2/
+Disallow: /modal/
+Disallow: /modals/
+Disallow: /modules/
+Disallow: /offerexpired.jsp
+Disallow: /personal-taxes/cd-download/cash-back.htm
+Disallow: /personal-taxes/cd-download/unlocks/
+Disallow: /personal-taxes/mycd/
+Disallow: /qa/
+Disallow: /reimagine/
+Disallow: /rules/
+Disallow: /services/
+Disallow: /sitemap.jsp
+Disallow: /sitemap-index.jsp
+Disallow: /status/
+Disallow: /system_requirements_check.jsp
+Disallow: /tax-tools/article-templates/
+Disallow: /tax-tools/audit-support-center
+Disallow: /testing/
+Disallow: /ttd_payment/
+Disallow: /ttd/
+Disallow: /tto/
+Disallow: /site-performance/
+Disallow: /audience/
+Disallow: /proxy/t/cj/11007/*
+
+User-agent: Googlebot-image
+Disallow:
+
+User-agent: AdsBot-Google
+Allow: /lp/
+
+# Explicitly allow LLM/AI crawlers for Generative Search and AI inclusion
+
+# OpenAI
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: oai-searchbot
+Allow: /
+
+# Anthropic / Claude
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Google Extended Access (AI / Gemini / SGE)
+User-agent: Google-Extended
+Allow: /
+
+# Microsoft Copilot / Bing AI
+User-agent: Microsoft-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: CoPilot
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# Apple AI / Apple Intelligence
+User-agent: Applebot-Extended
+Allow: /
+
+# Meta (LLaMA / AI Assistants)
+User-agent: meta-externalagent
+Allow: /
+
+# Amazon (AI and product recommendation models)
+User-agent: Amazonbot
+Allow: /
+
+# You.com / YouBot (AI search and chat)
+User-agent: YouBot
+Allow: /
+
+# DuckDuckGo (DuckAssist / AI answers)
+User-agent: DuckAssistBot
+Allow: /
+
+# ByteDance / TikTok (AI data gathering)
+User-agent: Bytespider
+Allow: /
+
+# Sitemaps
+Sitemap: https://turbotax.intuit.com/sitemap_index.xml
+Sitemap: https://turbotax.intuit.com/product-pages-sitemap.xml
+Sitemap: https://turbotax.intuit.com/tax-articles-sitemap.xml
+Sitemap: https://turbotax.intuit.com/tax-tools-sitemap.xml
+Sitemap: https://turbotax.intuit.com/other-sitemap.xml

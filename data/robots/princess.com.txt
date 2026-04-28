@@ -1,0 +1,33 @@
+User-agent: *
+Disallow: /excursion/popupPortPOI.do*
+Disallow: /excursion/shareShx.do*
+Disallow: /excursion/videopopup.do*
+Disallow: /excursion/videopopup.page*
+Disallow: /find/cruiseDetails.do*
+Disallow: /find/displayItineraryDetails.do
+Disallow: /find/displayItineraryPopup.do*
+Disallow: /find/emailCruiseDetails.do*
+Disallow: /find/promoSpecialService.do*
+Disallow: /find/pssResponsive.do*
+Disallow: /find/searchResults.do*
+Disallow: /find/voyagePricing.do*
+Disallow: /find/recentlyViewedResults.do*
+Disallow: /find-a-cruise/
+Disallow: /find-a-cruise/cruisetours/
+Disallow: /pdf/academy/
+Disallow: /util/
+Disallow: /campaigns/
+Disallow: /downloads/pdf/RefundRequestGuide.pdf
+Disallow: /downloads/pdf/PNGDeclarationForm.pdf
+Disallow: /html/global/promotions/
+Disallow: /cruise-deals-promotions/disclaimers/
+Disallow: /learn/
+
+
+Sitemap: https://www.princess.com/sitemap.xml
+Sitemap: https://www.princess.com/sitemap_legacy.xml
+Sitemap: https://www.princess.com/en-au/sitemap.xml
+Sitemap: https://www.princess.com/en-uk/sitemap.xml
+Sitemap: https://www.princess.com/en-sg/sitemap.xml
+Sitemap: https://www.princess.com/en-hk/sitemap.xml
+Sitemap: https://www.princess.com/en-int/sitemap.xml

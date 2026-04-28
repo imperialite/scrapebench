@@ -1,0 +1,196 @@
+Privacy Policy — Chrono24
+Skip to main content
+1. Standard guidelines (Art. 13 GDPR)
+In this privacy policy, we provide you with information about the type, scope, purposes and legal basis for the collection and processing of your personal data when you use our website and the rights you have under the General Data Protection Regulation (GDPR).
+All personal data that are collected when you visit our website are processed by us in accordance with the statutory provisions on data protection and with the need to preserve information security.
+Data controller
+The controller for data processing in relation to the use of this website within the meaning of Art. 4(7) GDPR is:
+Chrono24 GmbH
+(hereinafter “Chrono24”)
+Haid-und-Neu-Str. 18
+76131 Karlsruhe, Germany
+Email:
+info@chrono24.com
+Tel:
++49 (0)721 96693-0
+Fax:
++49 (0)721 96693-990
+Data protection officer
+For information, questions, suggestions and complaints about data protection, please contact our data protection officer.
+The company data protection officer of Chrono24 can be contacted at the above address, FAO Data Protection Department, or at
+datenschutz@chrono24.com
+.
+Scope of the Privacy Policy
+This Privacy Policy applies to all the pages in the domain
+https://about.chrono24.com/
+2. Your rights
+You may obtain information at any time regarding the data stored about you by us using the contact details above.
+You also have the right to rectification of incorrect personal data or, if the legal conditions are met, to demand rectification, restriction or erasure of your data.
+You can object to the use of your personal data for purposes of direct marketing, market research or for the appropriate design of telemedia at any time in no specific format.
+You can object to the use of web analysis tools, tracking services, re-targeting services and generally to the collection of your usage data under the links to those services in this Privacy Policy.
+You can withdraw the consent you give on this page by using the contact details for the data protection officer provided above in no specific format or via the withdrawal links on this website. This does not affect the lawfulness of the processing carried out on the basis of your consent up to the point of withdrawal.
+On request, we will transfer to you the data you have provided to us for processing in a structured, standard and machine-readable format that you can use for further processing. Please send your request in this connection to the contact address given above.
+You have the right to contact our data protection officer at any time with complaints about data protection using the contact details above. You can also lodge a complaint with the relevant data protection supervisory authority:
+https://www.baden-wuerttemberg.datenschutz.de/
+3. Security of transmission
+By default this website transmits personal data using the so-called TLS security system (Transport Layer Security) in conjunction with at least 128 bit encryption to protect data from accidental or intentional manipulation, loss, destruction or access by unauthorised persons. The security measures are continually being adapted to keep pace with technological developments.
+4. Collection of user data when visiting this website
+When you use our website, a range of information is recorded about you as a user, which can be related to a specific user at least in theory via the IP address, the specific user settings or other identification options. Those data are used for technical purposes relating to the presentation of the site and for optimisation of the site by means of the statistical recording of user behaviour; however, they may also be used to display information or inputs already entered to the user following an interruption. Below we describe the user data collected on this site and the other services used on it.
+The option to object to services from third-party providers is given in the description of the service in question (see below).
+Transfer of browser data and settings
+If you use the website purely for information purposes, i.e. you do not register or pass on any other information to us, we collect only the personal data that your browser transfers to our server to display our website to you and ensure its stability and security. The legal basis for processing is Art. 6(1) section (f) GDPR (legitimate interest):
+IP address of the requesting computer
+Date and time of access
+Content of the request (specific page)
+Access status / https or http status code
+Data volume transferred
+Website from which access was made (referrer URL)
+User browser
+Operating system
+Language and version of the browser software
+Cookies / flash cookies
+Session ID
+User agent
+Name of the access provider
+Other technical parameters, e.g.
+JavaScript support
+Number and type of plug-ins installed
+Size of the browser window
+Resolution of the screen
+Languages supported
+Fonts installed
+This information is stored temporarily in a so-called logfile. It is collected without your active participation and erased automatically after 30 days.
+Objection to tracking
+This website respects the “do not track” function. By means of the link below, you can adjust your browser settings accordingly. We cannot provide any guarantee that our third-party providers respect and implement the “do not track” option. If you enable the option, we cannot track your visits:
+Firefox
+Microsoft Internet Explorer
+Microsoft Edge
+Chrome
+Safari
+Opera
+5. Application Process
+5.1. Active Sourcing Through Chrono24
+Chrono24 conducts active sourcing by having members of its Talent Acquisition Team contact users on professional social networks such as LinkedIn, Xing, or comparable platforms, provided that their profiles indicate potential suitability for an open position.
+To support this process, Chrono24 uses the tool Aurio, a cloud-based recruiting management platform provided by Aurio Technology GmbH (Kaufingerstraße 15, 80331 Munich, Germany). Aurio enables Chrono24 to efficiently identify and contact suitable candidates. Through a LinkedIn interface, publicly available data of potential candidates, such as professional experience, qualifications, and profile pictures, are analyzed and processed. The tool generates automated, personalized video messages and text communications, conducts follow-ups, and updates the status of candidates in the respective recruitment process.
+The following personal data may be processed as part of this processing activity:
+- Your first and last name
+- Your personal data, and
+- Additional publicly available information on these platforms.
+The processing of this personal data is lawful under Art. 6(1)(f) GDPR, as it is in Chrono24’s legitimate interest. Active sourcing allows Chrono24 to target qualified professionals for open positions efficiently and optimize the recruitment process. This contributes to Chrono24’s competitiveness as a company and its ability to attract highly qualified talent. Additionally, potential candidates are only contacted on professional social networks that explicitly allow and encourage such contact.
+Chrono24 has entered into a data processing agreement with Aurio Technology GmbH in accordance with Art. 28 GDPR. This ensures that Aurio processes the data exclusively on behalf of Chrono24 and in compliance with the GDPR. The data is stored exclusively on servers within the European Union, ensuring a high level of data protection.
+If, in the context of active sourcing, special categories of personal data as defined in Art. 9(1) GDPR are processed, this processing is lawful under Art. 9(2)(e) GDPR, as only publicly available data is used.
+For scheduling interviews in the context of active sourcing, Chrono24 uses the scheduling tool provided by Calendly LLC (115 E Main St., Ste A1B, Buford, GA 30518, USA; hereinafter referred to as "Calendly"). If an interview is scheduled, Chrono24 sends a link to Calendly, allowing candidates to select and book an available time slot.
+The following personal data is processed as part of scheduling through Calendly:
+- Your first and last name,
+- Your email address, and
+- Appointment-related data, such as the date, time, and duration of the appointment.
+The legal basis for this data processing is Art. 6(1)(b), (f) GDPR. The legitimate interest lies in optimizing Chrono24’s appointment scheduling processes with candidates. The processed data is deleted once the purpose of the processing has been fulfilled.
+Chrono24 has entered into a data processing agreement with Calendly LLC in accordance with Art. 28 GDPR, ensuring that Calendly processes the data on behalf of Chrono24 and in compliance with the GDPR.
+If potential candidates express interest in an open position at Chrono24 during the active sourcing process, their data will be transferred to the application process in accordance with Section 5.2. Otherwise, all data collected during active sourcing will be stored for a period of six months and subsequently deleted. Candidates also have the option to consent, in accordance with Section 5.3, to their data being retained in Chrono24’s talent pool for a period of two years.
+5.2 Application Procedure at Chrono24
+You have the opportunity to apply for a position advertised by Chrono24 using the application form at
+https://about.chrono24.com/en/bewerbungsformular/
+. As part of the application process, you will be redirected to an application form in which the following personal data must be provided:
+Your first and last name
+Your email address
+Your telephone number
+Your curriculum vitae.
+The processing of this personal data is carried out in accordance with Art. 6(1)(b) GDPR and is lawful, as it is necessary for the implementation of pre-contractual measures that are carried out at your request.
+This data is transmitted via an interface to the applicant management tool Personio of our processor Personio SE & Co KG (Seidlstraße 3, 80335 Munich, Germany). In addition to Art. 6(1)(b) GDPR, the transfer required for processing is based on our legitimate interests in accordance with Art. 6(1)(f) GDPR. The use of an applicant management tool enables efficient and structured management of the application process, reduces administrative effort, and ensures that application documents are processed and stored in compliance with the GDPR.
+Your application data will then be processed by our Talent Attraction Team. In addition, the respective managers will be informed about the receipt of your application documents. Thus, your application data will be made available to the department responsible for the position. All parties involved in the application process are contractually obliged to maintain the confidentiality of your application documents.
+We have concluded a data processing agreement with Personio SE & Co KG in accordance with Art. 28 GDPR, which ensures that Personio SE & Co KG processes all data on our behalf in accordance with the GDPR and guarantees the rights of the data subjects.
+We use the appointment booking tool from Personio, which uses the software from Cronofy B.V. to book appointments. (Apollolaan 151, Amsterdam, 1077 AR, Netherlands). Cronofy B.V. is a subcontractor of Personio SE & Co KG and offers a calendar synchronization service to coordinate suitable appointments with our Talent Attraction Team and later with the relevant managers. Cronofy processes the data exclusively on servers held in Germany. We have contractually obliged Personio SE & Co. KG within the framework of the existing processing relationship to ensure that Cronofy B.V. guarantees an appropriate level of data protection that corresponds to that of Personio SE & Co. KG.
+Your application documents will be deleted six months after completion of the application process, unless you have consented to further storage of your data in the applicant pool in accordance with section 5.3.
+5.3. Consent to the Further Storage of Your Data in our Applicant Pool
+If you have given your consent to the further storage of your application data and the associated contact details, your application will be included in our applicant pool for a maximum period of two years. This enables us to consider you for suitable positions at a later date.
+If new positions need to be filled, the applicant pool is searched for suitable candidates. In this context, we may contact you to inquire about your interest in what we consider to be a suitable position at Chrono24.
+The legal basis for storing, processing, and contacting you as part of the applicant pool is your consent in accordance with Art. 6(1)(a) GDPR.
+You have the right to withdraw your consent at any time. In this case, your application data will be deleted from the applicant pool immediately and will no longer be available for future application searches. To withdraw your consent, please send an email to
+jobs@chrono24.com
+.
+6. External services
+Google Fonts
+We use so-called web fonts from Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland (“Google”) to display fonts.
+Google is certified under the “Privacy Shield” (https://www.privacyshield.gov/), which is intended to guarantee compliance with the level of data protection applicable in the EU.
+When you access a page, your browser loads the web fonts required so that it can display text and fonts correctly. For this purpose, your browser makes a connection to Google, as a result of which Google is informed that our website has been accessed via your IP address.
+Google Fonts are used in the interest of a consistent and appealing presentation of our website. If your browser does not support Google Fonts or web fonts, a standard font will be used by your end device.
+You will find further information about Google Fonts and Google’s privacy policy at the following web address:
+https://fonts.google.com/
+http://www.google.de/policies/privacy
+The legal basis for the processing of personal data when using Google Fonts is Art. 6(1) Section (f) GDPR (legitimate interest).
+7. Analysis services
+We use various tracking services for purposes of the appropriate design of the website, measurement of reach, analysis of general user behaviour on the website and optimisation of our commercial operations.
+We create user profiles for purposes of marketing, market research and the appropriate design of our telemedia. In accordance with the German Telemedia Act (TMG), these are created and managed exclusively using a pseudonym, provided that you have not objected to this procedure as a user. The user profiles are never combined with data about the individual behind the pseudonym.
+Cookies
+Function and types of cookies
+Cookies are small text files that are stored on your computer by your browser. They contain various pieces of information, e.g. the duration of your website visit and user inputs. They may be provided both by us as the website provider (so-called first-party cookies) and, in the case of collaboration with third parties, by those third parties (so-called third-party cookies) and for various periods of storage (duration of use of the site, or for several weeks or years). You can restrict or prevent cookies from being saved and read, but you will then be unable to use all the functions of the website.
+First-party cookies
+Our website uses so-called “session cookies”. They are used to store relevant data about the website visit or to recognise your computer during your visit and when you return (e.g. easier password input). These cookies ensure that you can use all the technical functions of the website. The legal basis for processing is Art. 6(1) Section (f) GDPR.
+Third-party cookies
+Insofar as we use cookies for third-party services, we provide you with specific information about their use and the scope of the information collected in the following sections on the respective third-party service providers.
+Google Analytics
+We use Google Analytics, a web analysis service from Google Ltd. (“Google”, Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland) for the purposes of user-based web design, to analyze general user behavior on the website, and to optimize our business operations.
+Google Analytics uses so-called “cookies” to enable the analysis of your use of this website. The information stored by the cookie about your website use is transmitted to a Google server in the USA and stored there. The transfer of personal data takes place on the basis of standard data protection clauses. We have also taken additional technical measures to ensure an equivalent level of data protection for the transmitted personal data. We use IP anonymization on this website, meaning Google shortens your IP address within the European Union or in another state of the European Economic Area before it is further transmitted or used. In exceptional cases, a full IP address may be sent to a Google server in the USA and shortened there. Google uses this information on our behalf to evaluate your use of the website, compile reports on website activity, and provide other services related to website activity and internet usage to the website operator.
+You can find more information about Google’s data usage, settings, and opt-out options on Google’s website:
+https://policies.google.com/technologies/partner-sites
+(“How Google Uses Information From Sites or Apps That Use Our Services”)
+https://policies.google.com/technologies/ads
+(“Advertising”)
+https://adssettings.google.com/
+(“Ad Personalization”)
+The IP address transmitted by your browser as part of Google Analytics will not be merged with any other data by Google. You can prevent the use of cookies by adjusting your browser software accordingly. However, if you disable cookies, you may not be able to use all the functions of our website.
+You can also prevent Google from collecting data stored on cookies related to your website use (including your IP address) and from processing this data by downloading and installing the following browser plug-in:
+http://tools.google.com/dlpage/gaoptout
+We also use “Google Ads,” an online advertising program provided by Google Marketing Services. Every Google Ads customer (i.e., every website operator) receives a unique “conversion cookie.” These cookies cannot be tracked through Google Ads customers’ websites, i.e., we cannot carry out our own analysis of the information provided by the conversion cookie. The information retrieved is used to create so-called conversion statistics for our website. This means evaluating previously defined actions a user has carried out on the website. Google reports the total number of users who have clicked on an ad and were redirected to a page with a conversion tracking tag. We do not receive any information that allows us to personally identify a specific user. We also use Google Analytics to evaluate data from Google Ads and the DoubleClick cookie for statistical purposes. If you do not want AdWords evaluation to be used, you can deactivate the service in Google Ads’ settings (
+http://www.google.com/settings/ads/onweb/
+).
+Automatic language recognition
+Automatic language recognition is a technically necessary cookie that recognizes you the first time you visit about.chrono based on the browser language and redirects you to the corresponding domain of about.chrono. If you choose a specific language, it will be stored for 30 days. This automatic redirection is stored as a WPML cookie.
+WPML is a multilingual plugin for WordPress from the company OnTheGoSystems Limited (22/F 3 Lockhart Road, Wanchai, Hong Kong).
+The cookies are set to recognize your current language and the language of your last visit to about.chrono to ensure full functionality of the website. In addition, it serves the purpose of displaying about.chrono directly to potential applicants in the appropriate language, so that job postings are displayed in the corresponding language.
+8. Social Media
+Facebook, Twitter, Instagram, Pinterest, YouTube
+On the basis of Art. 6(1) Sentence 1 Section (f) GDPR, we use links to the social networks Facebook, Twitter, Instagram and YouTube on our website to raise the profile of our company.
+These are not links that do not require consent pursuant to Art. 6(1) Section (a) GPDR. Responsibility for ensuring operations in accordance with data protection lies with the respective provider. Social media buttons are integrated using a solution that prevents connection to a social network as soon as a page with a social media button is opened without clicking on that button. This means that no information is transmitted to the social network until you click on the button.
+Facebook
+On our website you have the option to be taken directly to our Facebook page. This is not a link that does not require consent pursuant to Art. 6(1) Section (a) GPDR.
+The controller responsible for this external link is Facebook Ireland Ltd., 4 Grand Canal Square, Dublin 2, Ireland. Further information can be found in its privacy policy at:
+https://www.facebook.com/full_data_use_policy
+.
+X
+X Internet Unlimited Company (X) offers a so-called microblogging service on which short messages can be distributed by registered users. The individual messages are referred to as “tweets”.
+On our website you have the option to be taken directly to our Twitter page. This is not a link that does not require consent pursuant to Art. 6(1) Section (a) GPDR.
+The controller responsible for this external link is X Internet Unlimited Company (X), One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland. Further information can be found in its privacy policy at:
+https://x.com/en/privacy
+.
+Instagram
+On our website you have the option to be taken directly to our Instagram page. This is not a link that does not require consent pursuant to Art. 6(1) Section (a) GPDR.
+The controller responsible for this external link is Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland.
+Further information can be found in its privacy policy at:
+https://help.instagram.com/519522125107875
+.
+Pinterest
+On our website you have the option to be taken directly to our Pinterest page. This is not a link that does not require consent pursuant to Art. 6(1) Section (a) GPDR.
+The controller responsible for this external link is Pinterest Europe Ltd. Palmerston House, 2nd Floor Fenian Street, Dublin 2, Ireland.
+Further information can be found in its privacy policy at:
+https://policy.pinterest.com/de/privacy-policy
+YouTube
+On our website you have the option to be taken directly to our YouTube page. This is not a link that does not require consent pursuant to Art. 6(1) Section (a) GPDR.
+The controller responsible for this external link is Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland.
+Further information can be found in its privacy policy at:
+https://policies.google.com/privacy?hl=de&gl=de
+resp.
+https://www.youtube.com/static?gl=DE&template=terms&hl=de
+9. Transfers to third countries
+In the course of your use of the website, it may be necessary to forward your personal data to third countries. This occurs only in compliance with the measures for ensuring an appropriate level of data protection in Art. 44 et seq. GDPR. If the country of the recipient does not have an adequacy decision from the Commission and the recipient is not covered by the Privacy Shield agreement, standard contractual clauses are used. You can obtain further information about this from the data protection officer using the contact details above.
+Go to Marketplace
+About us
+Contact
+info@chrono24.com
++49 721 50956-100
+Connect
+©
+2026
+Chrono24.
+All rights reserved
+.

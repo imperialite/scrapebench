@@ -1,0 +1,308 @@
+Terms Of Service | QuillBot
+Upgrade to Premium
+Paraphraser
+Grammar Checker
+AI Detector
+Plagiarism Checker
+AI Humanizer
+AI Chat
+AI Image Generator
+Translate
+Summarizer
+Citation Generator
+Paraphraser
+Grammar Checker
+AI Detector
+Plagiarism Checker
+AI Humanizer
+AI Chat
+AI Image Generator
+Translate
+Summarizer
+Citation Generator
+Paraphraser
+Grammar Checker
+AI Detector
+Plagiarism Checker
+AI Humanizer
+AI Chat
+AI Image Generator
+Translate
+Summarizer
+Citation Generator
+QUILLBOT TERMS OF SERVICE
+IF YOUR COUNTRY OF RESIDENCE IS OUTSIDE OF THE EUROPEAN ECONOMIC AREA (“EEA”) OR THE UNITED KINGDOM, THE QUILLBOT TERMS OF SERVICE FOR NON-EUROPEAN USERS APPLY TO YOU.
+Last updated: October 24, 2024
+Effective date: November 24, 2024
+Previous QuillBot Terms of Service (
+here)
+.
+Welcome to QuillBot! You are seeing these terms of service (“
+QuillBot Terms of Service
+” or “
+QuillBot Service Terms
+”) because you (“
+you
+” or “
+your
+”) are using a website, mobile application, extension, widget, application programming interface (API), or other products and services (collectively, the “
+QuillBot Service
+”) provided by QuillBot, a Learneo, Inc. business, which is located at 303 East Wacker, Suite 2101, Chicago, Illinois 60601 (“
+QuillBot
+,” “
+we
+,” “
+us
+,” and “
+our
+”).
+ACCEPTANCE OF TERMS
+The QuillBot Terms of Service form a binding contract between you and QuillBot, and they supplement and amend the
+Learneo Terms of Service
+, which are incorporated into the QuillBot Terms of Service by reference. It is important for you to read the QuillBot Terms of Service and the Learneo Terms of Service because, together, they govern your use of the QuillBot Service.
+Any capitalized terms used but not defined in the QuillBot Terms of Service have the meaning given in the Learneo Terms of Service. The QuillBot Terms of Service and the Learneo Terms of Service may be referred to together as these “
+Terms.
+”
+By accessing or using the QuillBot Service, you agree to be bound by these Terms. If you do not agree to these Terms, you must not access or use the QuillBot Service.
+CREATING A USER ACCOUNT
+To access certain features of the QuillBot Service, you may need to create a User Account. You must safeguard the confidentiality of your account credentials, and you will be responsible for all activity that occurs under your User Account, including unauthorized activity. If you become aware of unauthorized access or suspicious activity related to your User Account, please
+contact us
+immediately.
+USING THE QUILLBOT SERVICE AND RESTRICTIONS
+When using the QuillBot Service, you must comply with these Terms and all applicable laws, and you may only use the QuillBot Service for your own non-commercial, personal purposes. You must also follow any other applicable guidelines or supplemental terms we provide to you, which may include additional rules for your User Content and what we consider to be acceptable behavior when using the QuillBot Service, as well as how we enforce them.
+When using the QuillBot Service, you must not do, attempt to do, encourage, or assist others in doing any of the following:
+Rent, lease, sell, distribute, offer in a service bureau, sublicense, or otherwise make available the QuillBot Service to any third party, except as permitted under these Terms;
+Access or use the QuillBot Service for purposes of performance benchmarking;
+Access or use the QuillBot Service for purposes of building or marketing a competitive product or service;
+Use or retain any content on the QuillBot Service for the purpose of creating, training, or improving (directly or indirectly) a translation service, product, or platform, or an artificial intelligence detector, or any comparable technologies, including any other machine learning algorithms, machine translation, or paraphrasing system;
+Display or make available, publicly, more than 300,000 characters of Output (defined below) from the QuillBot Service or Input (defined below) to and Output from the QuillBot Service in proximate comparative fashion (e.g., side-by-side);
+Use the QuillBot Service to collect, store, or distribute any information about any other person;
+Use the QuilBot Service in violation of the policies and rules of your employer or educational institution;
+Reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code, object code, or underlying models, structure, ideas, or algorithms of the QuillBot Service, except when these restrictions are prohibited by applicable law;
+Modify, adapt, translate, or create any derivative works of the QuillBot Service or merge the QuillBot Service into any other software
+Except when accessing the QuillBot Service through a QuillBot approved API or when we explicitly permit it, use any technique or method to extract data from the QuillBot Service; or
+Unless otherwise agreed by the parties in writing, use the QuillBot Service to augment datasets to improve natural language processing systems.
+YOUR USER CONTENT
+The QuillBot Service generally allows you to submit textual content ("
+Input
+") and receive rephrased textual content ("
+Output
+"). Input and Output are part of “
+User Content
+” as defined in Section IV of the Learneo Terms of Service.
+The Output you receive may resemble the Output produced for other users of the QuillBot Service. Nothing in these Terms should be construed as giving you ownership of the Output generated for other users. Please note that we cannot guarantee that the Output will be entirely accurate or error-free. You are fully responsible for the use of the Output, which includes the responsibility of assuring its accuracy and suitability for your intended use.
+QUILLBOT’S PAID SERVICE
+There are no fees for the use of many aspects of the QuillBot Service. However, certain services, features, and products may be available only as a Paid Service. If you elect to subscribe to a Paid Service, you must create a User Account (or log in if you already have one) and provide the relevant payment by one of our accepted payment methods (“
+Payment Method
+”). You can cancel the order process at any time or change the information provided in the various fields right up until the point at which you subscribe to the Paid Service by clicking on the “
+check out
+” (or other words of similar import) button at checkout.
+When you click the “
+check out
+” (or other words of similar import) button at checkout and subscribe to the Paid Service, you will be making a binding offer to enter into an agreement. The agreement is concluded when QuillBot receives your payment and provides you the confirmation notice. QuillBot will provide the QuillBot Service immediately after the conclusion of the agreement.
+If you decide to subscribe to a Paid Service, you agree to pay the prices shown to you for the Paid Service you have selected (the "
+Fees
+"), and you authorize us to charge the Payment Method you have provided. If you purchase an automatically renewing subscription and do not cancel it as specified below, your subscription will renew automatically, and you authorize us to charge your Payment Method for the Fees on a recurring interval that was disclosed to you prior to your purchase.
+From time to time, we may make changes to the Fees. If we increase the Fees associated with any Paid Service, we will provide you with an opportunity to review and accept the additional Fees before you are charged.
+You may be able to cancel or pause your subscription to a Paid Service at any time through your User Account’s account settings page. Unless otherwise communicated to you, your subscription benefits will continue if you cancel your subscription until the end of your then-current subscription term, but your subscription will not renew after that term expires. Please see
+here
+for additional information and guidance on how to cancel or pause a subscription.
+All Fees are nonrefundable, and there will be no refunds or credits (including for partially used subscription terms), except (i) as otherwise provided in writing herein or at the time of your initial purchase of the Paid Service, (ii) at QuillBot’s sole and absolute discretion (exercised reasonably), or (iii) as required by applicable law. These Terms do not override any mandatory local laws regarding your cancellation or refund rights.
+If you purchase a subscription to a Paid Service through a third party, your use of the QuillBot Service may be subject to separate terms and conditions from that third party, in addition to these Terms. Please contact the third party about refunds or how to manage your subscription.
+THIRD PARTY SERVICES
+Third Party Services may be linked or connected to the QuillBot Service. We are not responsible for the Third Party Services provided by third parties. It is recommended that you review the privacy policies and terms of use agreements that are applicable to the Third Party Services, which include the following:
+YouTube API;
+YouTube Terms of Service
+.
+TERM AND TERMINATION
+These Terms remain in effect from the moment you access or use the QuillBot Service until terminated. These Terms will terminate automatically without notice if you breach these Terms or any documentation, guidelines, or policies we may make available to you. We reserve the right, in our sole discretion and without prior notice to you, at any time and for any reason, to: (i) remove or disable access to all or any portion of the QuillBot Service; (ii) suspend your access to or use of all or any portion of the QuillBot Service; and (iii) terminate these Terms.
+Notwithstanding the previous paragraph, to the extent you are a consumer pursuant to Article 3 of the Spanish Consumer Protection Law, the following shall apply:
+If you seriously breach these Terms, QuillBot may unilaterally terminate them, notifying you via email of the time at which termination occurs and the rationale behind it. If QuillBot elects to terminate these Terms for any other reason, it will notify you of the termination and give at least ten (10) days' notice.
+Any part of these Terms that by their nature should survive after termination of these Terms will survive.
+TAKE-DOWN REQUESTS
+We expressly prohibit you from uploading, posting, or otherwise distributing through the QuillBot Service any User Content which may violate applicable laws, another party’s intellectual property rights, privacy, publicity, or other rights. You agree to comply with our Copyright Policy, incorporated by reference herein.
+If any party believes any User Content on the QuillBot Service violates or otherwise infringes upon any of their rights, they are encouraged to contact us immediately to request that the allegedly offending content (“
+Offending Content
+”) be removed from the QuillBot Service. Please read our Copyright Policy for how to make a takedown request.
+It should be noted that individuals making misrepresentations in alleging that material appearing on the QuillBot Service constitutes copyright infringement may be liable for damages.
+ADDITIONAL TERMS AND POLICIES APPLICABLE TO ALL USERS
+Privacy Policy
+You acknowledge that your use of the QuillBot Service is subject to our Privacy Policy.
+Learneo Terms of Service
+. The Learneo Terms of Service is incorporated herein by reference and apply to your use of the QuillBot Service. In the event there is a conflict between the QuillBot Terms of Service and the Learneo Terms of Service, the QuillBot Terms of Service will control with respect to the QuillBot Service only.
+Team Plan Terms
+. If you purchase a QuillBot team plan (“
+Team Plan
+”) or use the QuillBot Service under a Team Plan, additional Team Plan terms (“
+Team Plan Terms
+”) apply to you, which are attached to these Terms as “
+Annexure 1 – Team Plan Terms
+”. To the extent that (i) the terms of the Team Plan Terms apply and (ii) such terms conflict with these Terms, the terms of the Team Plan Terms will control.
+Additional Policies.
+The additional Learneo policies linked below also apply to your use of the QuillBot Service.
+Learneo Copyright Policy
+Learneo Community Guidelines
+CONTACTING EACH OTHER
+If you have any questions about these Terms, please contact us at support@quillbot.com. We may send you electronic communications related to our services. Where required, we’ll get your consent before sending you direct marketing, and we’ll make it easy for you to opt out.
+QuillBot 303 East Wacker, Suite 2101 Chicago, IL 60601
+United States of America
+phone no.:+1 (833) 982-1803
+You can also contact our customer service team through email at support@quillbot.com.
+MISCELLANEOUS
+These Terms cover the entire agreement between you and QuillBot for your use of our QuillBot Service.
+If you are a consumer within the meaning of the French Consumer Code, you may submit any claims against QuillBot on the online platform provided by the International Consumer Protection and Enforcement Network.
+We may amend these Terms or provide notices related to these Terms from time to time. Where required by applicable law, we will provide requisite notice of the amendments and/or ask for your consent to the amended terms.
+QuillBot reserves all rights not expressly granted herein. QuillBot’s rights and remedies are cumulative. No failure or delay by QuillBot in exercising any right will waive any further exercise of that right.
+ANNEXURE 1 – TEAM PLAN TERMS
+These Team Plan Terms apply if you purchase a QuillBot Team Plan or use the QuillBot Service under a Team Plan. For purposes of this Annexure 1, “
+Owner
+” refers to the purchaser of a Team Plan, “
+Writers
+” refer to multiple individual users who are authorized and invited by Owner or an Administrator (defined below) to simultaneously access the benefits of the QuillBot Service under the Team Plan, and “
+Administrator
+” refers to a Writer that has been granted permission by the Owner to add or remove Writers.
+These Team Plan Terms are binding and effective on the date Owner, Writers, or Administrators begin using the Team Plan. If at any point the Owner transfers ownership of the Team Plan to a new account Owner, by accessing and using the Team Plan account, the new Team Plan Owner hereby agrees to be bound by these Team Plan Terms.
+Use of Team Plan
+Acceptable Use. The QuillBot Service offered under the Team Plan are at all times subject to these Terms.
+Owner Responsibility. Owner of a Team Plan is responsible for:
+The use of the QuillBot Service under the Team Plan by any Writer, Administrator, and any new Writer invited by the Owner or an Administrator; and
+Maintaining the confidentiality of any non-public authentication credentials associated with a Writer’s or Administrator’s use of the Team Plan. Owner must promptly notify our customer support team about any possible misuse of the accounts or authentication credentials, or any security incident related to the Team Plan.
+Maximum Number of Team Plan Users. Owner acknowledges and agrees that the maximum number of concurrent Writers or Administrators who access or otherwise use the QuillBot Service under the Team Plan shall not exceed the permitted number of Writers, Administrators, or other limits imposed by QuillBot, if any, at the time. Fees and conditions apply if the Owner wants to add additional Writers to the Team Plan.
+Effective Date, Term, and Renewal Term.
+The effective date for your Team Plan subscription will be the date, as determined by QuillBot, of the Owner's purchase of the Team Plan and shall continue until it is terminated. Subject to applicable law, Team Plan subscriptions shall automatically commence on the one (1) year anniversary of the effective date.
+Writer Account Termination and Team Plan Termination
+.
+Writer Account Termination. Access to a Writer account under the Team Plan may be removed by the Owner or an Administrator at any time. A Writer may terminate their Team Plan account by removal from the Owner, an Administrator, or by directly contacting QuillBot's customer support team.
+Team Plan Termination. A Team Plan may be terminated at any time by the Owner in the Owner's account page or by contacting QuillBot's customer support team directly. When the Team Plan is terminated, all accounts under the Team Plan will be downgraded from a premium account to a free account.
+Pausing Your Team Plan. A Team Plan subscription cannot be paused. Writer accounts within a Team Plan subscription cannot be paused.
+Transferring Writer Account(s). A Writer cannot transfer their Team Plan account to a third party. Only the Owner and an Administrator can add or remove Writers from the Team Plan.
+QuillBot Rights
+Verification. QuillBot reserves the right, but shall have no obligation, to verify that Writers have been authorized and verified by the Owner or an Administrator and to restrict access to the QuillBot Service if, in QuillBot's reasonable judgment and in QuillBot's own discretion, a Writer cannot be verified. QuillBot reserves the right to investigate any violation or potential violation of these Terms or in cases of suspected fraud.
+Suspension. QuillBot may, acting reasonably, suspend all accounts under the Team Plan if:
+Owner, or any of Writers, including any Administrators, use of the QuillBot Service poses a risk to the QuillBot Service, QuillBot (including, but not limited to, QuillBot's infrastructure, security, and third-party relationships), or QuillBot's other users or customers;
+Owner or any Team Plan users, including any Administrators, use the QuillBot Service in a manner that could subject QuillBot to liability;
+Owner's payment of the subscription Fees of the Team Plan is late; or
+Owner or any Team Plan users, including any Administrators, are otherwise in breach of these Terms (including these Team Plan Terms), or in cases of suspected fraud.
+Publicity. If the Owner purchases a Team Plan on behalf of an entity, the Owner consents to allow QuillBot to use and display the entity's name and logo on QuillBot's website and in QuillBot's promotional materials to identify the entity as a customer, subject to the entity's trademark guidelines.
+QuillBot’s Use of User Content
+.
+Notwithstanding anything to the contrary elsewhere in these Terms, QuillBot will only use Input that is provided under a Team Plan solely to the extent necessary (i) to provide the QuillBot Service including personalization and customization of the Owner, Administrators, and Writers' individual QuillBot experience, (ii) for security and quality control purposes, and (iii) to comply with applicable law.
+QuillBot will provide Owner with prompt notice of any suspension.
+Extensions & Apps
+QuillBot for Chrome
+QuillBot for Edge
+QuillBot for Safari
+QuillBot for Android
+QuillBot for iOS
+QuillBot for Windows
+QuillBot for macOS
+QuillBot for Word
+Premium
+Plan Details
+Pricing
+For Teams
+Affiliates
+Request a Demo
+Tools
+Writing Tools
+AI Humanizer
+Paraphrasing Tool
+Sentence Rewriter
+Rewording Tool
+Summarizer
+Word Counter
+Paragraph Rewriter
+Language Correction
+Grammar Checker
+AI Proofreader
+Spell Checker
+Punctuation Checker
+Essay Checker
+Translate
+Citing and Originality
+AI Detector
+AI Image Detector
+Plagiarism Checker
+Citation Generator
+APA Citation Generator
+MLA Citation Generator
+Chicago Citation Generator
+Content Certification
+AI Tools
+AI Chat
+AI Search
+Ask AI
+AI Website Builder
+AI Presentation Maker
+Emoji Generator
+PDF Tools
+Chat PDF
+PDF Editor
+Merge PDF
+Split PDF
+Delete PDF Pages
+Rearrange pdf Pages
+Rotate PDF Pages
+Extract PDF Pages
+PDF Converter
+Image Tools
+AI Image Generator
+Background Remover
+AI Image Editor
+Image to Text
+AI Logo Generator
+AI Tattoo Generator
+AI Art Generator
+AI Character Generator
+AI Background Generator
+AI Random Image Generator
+Color Tools
+Color Wheel
+Color Palette Generator
+Other Tools
+Invisible Character Tool
+QR Code Generator
+Speech to Text
+Text to Speech
+Emoji
+Word Cloud Generator
+Converter Tools
+PDF to Word Converter
+Word to PDF Converter
+PDF to PNG Converter
+PDF to JPG Converter
+PDF to Excel Converter
+Excel to PDF Converter
+PPT to PDF Converter
+PDF to PPT Converter
+JPG to PDF Converter
+PNG to PDF Converter
+Company
+About
+Trust Center
+Careers
+Help Center
+Contact Us
+Resources
+AI Writing Tools
+Image Tools
+AI Tools
+PDF Tools
+Converter Tools
+For Students
+For Professionals
+Educational Courses
+Paraphrasing Guide
+AI Writing Assistant
+QuillBot Blog
+Follow us on social
+QuillBot, a Learneo, Inc. business
+Privacy Policy
+Terms of Service
+Cookie Policy
+Cookie Preferences
+Copyright, Community Guidelines, DSA and other Legal Resources
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply
+Made with
+at
+UIUC

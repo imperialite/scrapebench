@@ -1,0 +1,79 @@
+Consumer Cellular Acceptable Use Policy
+LAST UPDATED: October 7, 2024
+
+This Consumer Cellular, Incorporated (“Consumer Cellular,” “we,” “our” or “us”) Acceptable Use Policy (“AUP”) applies to persons or entities using our Services (“you,” “your” or “their”) and applies to their use of our wireless products, features, platforms, networks, software, tools, websites (e.g., My Account) and applications (e.g., My CC), including our voice, wireless data and messaging services (collectively, “Services(s)”). While most common uses of the Services for calling, internet browsing, messaging, emailing, GPS navigation, streaming/downloading content and other customary mobile internet-enabled capabilities are permitted by your agreement with Consumer Cellular and your service plan with us, there are certain uses of the Services and your devices (“Device(s)”) that are unlawful or otherwise not approved by us on our wireless network and/or our network supplier (together, “Wireless Network”) and are therefore prohibited. You agree to comply with this AUP as a condition of your use of the Services. This AUP is in addition to any other applicable terms and conditions contained in our Wireless Customer Agreement at consumercellular.com/agreement. Keep in mind, our rate plans are not designed for heavy data users, even for those enrolled in our largest data plan.
+
+We may modify, suspend, or discontinue any function or feature of any Services or terminate your Services entirely at any time without notice for any reason that may include, but is not limited to:
+
+For any conduct that we believe violates our Wireless Customer Agreement.
+If we determine excessive or unusual usage patterns that we think may be fraudulent or abusive are harmful to, interfere with, or may adversely affect the Services, our Wireless Network, or that of any other provider.
+For copying, decompiling, reverse engineering, disassembling, reproducing, attempting to derive the source code of, decrypting, modifying, defeating protective mechanisms, combining with other software, or creating derivative works of the Services or any portion thereof.
+If you tamper with, reprogram, alter, or otherwise modify your Device to circumvent any of our policies or violate or infringe any intellectual property rights.
+For altering, bypassing, copying, deactivating, removing, reverse-engineering or otherwise circumventing or reproducing the encoded information stored on, or the encryption mechanisms of, your SIM card.
+If you resell, or attempt to resell, the Services either alone or as part of any other product or service.
+If we have reasonable cause to believe that your Device or the Services are being used for an unlawful purpose or in a way that:
+Interferes with the use or enjoyment of any Services received by others.
+Requires a specific rate plan or feature that you have not subscribed to.
+Engages in activity that would be inconsistent with reasonable personal use patterns (e.g., unlimited talk and text is for direct communications between two (2) individuals and not meant for group calling or group chats).
+Exceeds your off-net usage allowances or international or domestic roaming thresholds.
+Results in false, misleading content or information being disseminated or content or material that is likely to mislead or deceive.
+Results in the publication of threatening, obscene or offensive material or sexually explicit content or images.
+Generates spam or other abusive messaging or calling, a security risk, or a violation of privacy.
+Harasses or threatens another person.
+Generates significant or serious customer complaints.
+Masks the sender/originator of a message.
+Promotes or facilitates violence, discrimination, or illegal activities.
+Violates any law or regulation.
+If we believe that your Device or use of the Services are causing or could cause excessive network capacity issues or interference with our Wireless Network or that you are using the Services in violation of this AUP or applicable law. Examples of prohibited network uses include, without limitation, the following:
+Server devices or host computer applications designed for unattended use, including, but not limited to, webcam posts or broadcasts, automatic data feeds, automated machine-to-machine connections, or peer-to-peer file sharing.
+As a substitute or backup for private lines, wirelines or full-time or dedicated data connections, as a replacement for home broadband service (i.e., home internet) or redirecting television signals for viewing on another device.
+Software or other devices that maintain continuous active internet connections when a computer’s connection would otherwise be idle or any “keep alive” functions (such as using the Services for web broadcasting, operating servers, telemetry devices and/or supervisory control and data acquisition devices).
+“Auto-responders,” “cancel-bots,” or similar automated or manual routines that generate excessive amounts of net traffic or which disrupt net user groups or email use by others.
+“Spam” or unsolicited commercial or bulk email or messaging (or activities that have the effect of facilitating unsolicited commercial email or messaging or unsolicited bulk email or messaging).
+Tethering to any other device (such as a mobile hotspot, computer, laptop, smartphone, media player, notebook, tablet, gaming console, television, or other technology with similar functions) in any manner (using wired or wireless technology) in excess of our monthly tethering (or mobile hotspot) data usage limit.
+Using your SIM card on a device (such as a tablet, laptop, or other technology with similar functions) without subscribing to a data plan specifically designated for that device and/or such usage, or if the primary source of your data usage is on a device other than a smartphone or tablet. 
+Any activity that adversely affects the ability of other people or systems to use either our Wireless Network or another parties’ internet-based resources, including “denial of service attacks” against another network host or individual user.
+Accessing, or attempting to access without authority, the accounts of others, or to penetrate, or attempting to penetrate, security measures of our Wireless Network or any other entity’s systems.
+The determination of what constitutes excessive use or harm to our Wireless Network or heavy data usage for your service plan (for example, we notice that the majority of the Services are used as a substitute for home internet service or for tethering to other devices) shall be made by Consumer Cellular in its sole and absolute discretion, which we may determine by reviewing your account's data usage and usage patterns, the Device or Devices used on your account, or in any other manner we determine appropriate.
+
+Consumer Cellular’s Rights to Ensure Compliance.
+You agree that we have the right to take any and all actions necessary to enforce this AUP if you use the Services in any manner that is prohibited, including, but not limited to, the following actions:
+
+
+We reserve the right to take measures to protect our Wireless Network and other users from harm, compromised capacity or degradation in performance. We may interrupt, modify, suspend, cancel, or terminate your Services (including slowing speeds for excessive usage) without advance notice for misuse, abnormal use, interference with our Wireless Network or ability to provide quality service to other users or any violation of this AUP or the Wireless Customer Agreement. If your Services are suspended or terminated before the end of your billing cycle because we determined that you violated our AUP or Wireless Customer Agreement, we will not prorate charges to the date of termination, and you will not receive a credit or refund for any unused Services. You acknowledge and agree that we may provide you with notice from time to time of an AUP violation via email or other means to allow you to promptly correct such violation.
+We may engage in any reasonable network management practice to enhance the Services, to reduce network congestion, to adapt to advances and changes in technology, and/or to respond to the availability of wireless bandwidth and spectrum. We may reduce your data throughput speeds at any time or place if your data usage exceeds an applicable, identified usage threshold during any billing cycle, even if your rate plan is designated as unlimited data usage. We will provide you with advanced notice of the usage threshold applicable to your rate plan or any changes to the applicable usage threshold either by a bill insert, email, text message or other appropriate means. For more information about how Consumer Cellular manages our Wireless Network, please visit our Mobile Broadband Disclosure at consumercellular.com/network-management. Please visit our website to find the rates and fees applicable to our Services and descriptions of our Service plan offers, including the amount of tethering (or mobile hotspot) data usage available to you during any billing cycle, which may vary by rate plan, at consumercellular.com/fcclabels and consumercellular.com/shopping/choose/plan.
+Consumer Cellular may, but is not required to, monitor your compliance or the compliance of other subscribers with this AUP and Consumer Cellular’s other terms, conditions, or policies.
+We may revise this AUP from time to time by posting a new version on the Consumer Cellular website at consumercellular.com. 
+
+
+Call Us: (888) 345-5509
+
+Facebook
+Twitter
+YouTube
+Instagram
+Pinterest
+Line Protection
+Sitemap
+Enabler IQ
+Privacy & Security
+Terms & Conditions
+Mobile Broadband Information
+FCC Broadband Labels (Machine Readable)
+Accessibility Statement
+Do Not Sell or Share My Personal Information
+© 2026 Consumer Cellular, Inc. All rights reserved. Learn more at (888) 345-5509. All other products are trademarked by their respective manufacturers.
+
+Up to half the cost savings based on cost of Consumer Cellular’s single-line, 1GB, 5GB and 10 GB data plans with unlimited talk and text compared to lowest cost, single-line post-paid unlimited talk, text and data plans offered by T-Mobile and Verizon, January 2025.
+
+AARP member benefits are provided by third parties, not by AARP or its affiliates. Provides pay a royalty fee to AARP for the use of its intellectual property. These fees are used for the general purposes of AARP. Some provider offers are subject to change and may have restrictions. Please contact the provider directly for details.
+
+2025 ACSI® Survey of customers rating their own wireless service provider. ACSI and its logo are registered trademarks of the American Customer Satisfaction Index LLC. For more about the ACSI, visit www.theacsi.org.
+
+Terms and Conditions subject to change. New service activation on approved credit. Cellular service is not available in all areas and is subject to system limitations.
+
+On single-line unlimited data plans, access to high-speed data will be reduced after 35GB of usage; on multi-line unlimited data plans, high-speed access will be reduced after 50GB of usage. You will experience reduced speeds for the remainder of your billing cycle.
+
+The totals shown here are costs for monthly service only. They do not include any state or local taxes. Plans include a $5 monthly credit for participation in AutoPay and E-Billing. If you’re not completely satisfied within 30 days (data use is limited to 500MB) of activation of your service, cancel and pay nothing.
+
+Unlimited data plan offer is only for customers age 50+. Age validation required.

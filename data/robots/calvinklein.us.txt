@@ -1,0 +1,25 @@
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: FatBot 2.0
+Disallow: /
+
+User-agent: *
+Disallow: /webapp/wcs/stores/servlet/UnregisteredCheckoutView
+Disallow: /webapp/wcs/stores/servlet/OrderShippingBillingConfirmation
+Disallow: /webapp/wcs/stores/servlet/AjaxLogonForm
+Disallow: /webapp/wcs/stores/servlet/AddressBookForm
+Disallow: /webapp/wcs/stores/servlet/UserRegistrationForm
+Disallow: /webapp/wcs/stores/servlet/TrackOrderStatus
+Disallow: /webapp/wcs/stores/servlet/AjaxOrderItemDisplayView
+Disallow: /webapp/wcs/stores/servlet/OrderShippingBillingView
+Disallow: /webapp/wcs/stores/servlet/SingleShipmentOrderSummaryView
+Disallow: /*wishlist
+Disallow: /*shopping-bag
+Disallow: /*myaccount
+Disallow: /*search?
+Disallow: /*logon
+Disallow: /signin
+Disallow: /register
+
+Sitemap: https://www.calvinklein.co.uk/sitemap.xml 

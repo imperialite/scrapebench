@@ -1,0 +1,381 @@
+Terms of Use:
+
+These Terms of Use apply when you use our Studocu Platform (from StudeerSnel B.V.) through our websites and App. Read these Terms of Use carefully to make sure that you are aware of your rights and obligations when using our Platform. You can download and print this document.
+
+ 
+
+Article 1. Definitions
+
+We use some capitalized words, such as Platform, Profile and Study Material. In this article, we explain what they mean.
+
+In these Terms of Use, the terms listed below have the following meaning:
+
+1.1.  AI: third party software that uses artificial intelligence techniques to generate output. We make use of third party LLM operators. The terms and conditions of these operators may apply.
+
+1.2. AI Input: all the study documents, summaries, notes, assignments, recordings and other materials and content that are uploaded and/or included by Students to Studocu AI to generate AI Output.
+
+1.3. AI Output: all the output that Studocu AI generates at the direction of Students and the basis of their AI Input. AI Output may include, but is not limited to, summaries, notes and quizzes, as well as answers and instructions that AI generates in response to questions submitted by Students.
+
+1.4. AI Project: your personal project within Studocu AI, where you can include AI Input and create AI Output.
+
+1.5. Ask AI: a section of Studocu AI enabling Students to submit questions in specific subject areas related to their studying, which are then answered by AI.
+
+1.6. Chat Messages: messages shared by Students in Group Chats about their studies or other student-life related topics.
+
+1.7. Group Chats: a separate section on the Platform, which enables Students to communicate and interact with other Students via Chat Messages.
+
+1.8. Information: all information placed on the Platform by Studocu itself, including – but not limited to – the layout and look and feel of the Platform, the logos and trademarks as well as texts. The Information does not include User Content.
+
+1.9. Intellectual Property Rights: any and all intellectual property rights and associated rights such as copyrights, trademark rights, patent rights, model rights, trade name rights, database rights and neighbouring rights as well as the rights to know-how and unfair competition.
+
+1.10. Platform: the online environment developed and offered by Studocu, which enables Students from around the world to study more efficiently, exchange Study Materials and interact with each other. The Platform contains a separate Studocu AI section where Students can make use of AI to help them study more efficiently. The Platform can be accessed through the websites www.studocu.com and www.studeersnel.nl including all underlying domains and web pages, as well as mobile versions of the website and the Studocu application for tablets and smartphones (“App”).
+
+1.11. Premium Account: a subscription that gives Students access to the most popular Study Materials (“Premium Material”) on the Platform, as well as to certain features and functionalities, such as downloading and printing Study Materials.
+
+1.12. Profile: an individual section created and maintained by you when you register for the Platform.
+
+1.13. Student / you: a user of the Platform.
+
+1.14. Study Material: all the study documents, summaries, notes, assignments and other study materials that are provided by Students or that Students make accessible or publish using the Platform, as well as all AI Output and AI Input that Students submit and create by using Studocu AI.
+
+1.15. Studocu: StudeerSnel B.V., a private limited company, having its registered offices at Keizersgracht 424 sous, 1016 GC Amsterdam and registered at the Dutch Chamber of Commerce with company registration number 56829787. 
+
+1.16. Studocu AI:a separate section on the Platform, where Students can study more efficiently with use of AI and create AI Projects. Students can, among others, create AI Output, such as notes, summaries and quizzes, and ask questions which will be answered with AI (Ask AI).
+
+1.17. Terms of Use: these Terms of Use of Studocu. 
+
+1.18. User Content: the collection of all that is posted on the Platform by the Students and all interactions that took place by the Students on our Platform, including but not limited to: Study Materials, AI Output, AI Input, Chat Messages, (comments posted in) user-created Chat Groups, Studylists, comments in Study Materials. 
+
+ 
+
+Article 2. Applicability
+
+These Terms of Use apply when you use our platform. We may change them now and then and we will let you know when it significantly affects you. You can always stop using our Platform if you do not agree with our changes.
+
+2.1. These Terms of Use govern every use of the Platform. By using the Platform, you accept these Terms of Use. The applicability of any other terms and conditions is excluded.
+
+2.2. Studocu is entitled to amend or supplement these Terms of Use. The most up-to-date Terms of Use can be found on the Platform. In the event of an amendment or supplementation that significantly affects your rights or obligations, Studocu will bring these changes to your attention during the use of the Platform.
+
+2.3. In the event that you continue the use of the Platform after these Terms of Use have been amended or supplemented, you thereby irrevocably accept the amended or supplemented Terms of Use. If you do not agree with the amended or supplemented Terms of Use, the only option you have is to no longer use the Platform and to terminate your Profile.
+
+ 
+
+Article 3. The Platform
+
+Our Platform is here to help you excel as a student. We offer a Platform to share your summaries and notes with fellow students and offer AI tools to help you study more efficiently. The materials available on our platform are all posted by Students, without our involvement. We are not responsible for this content. We are continuously working on giving you the best study experience and we may change our platform and features now and then.
+
+3.1. Studocu’s mission is to empower Students to excel at their studies by providing the best tools to study more efficiently. Studocu offers a Platform where Students can exchange Study Materials. The Platform also contains a separate Studocu AI section, where Students can improve their studying with help of AI (for the terms governing Studocu AI, see article 8).
+
+3.2. Through the platform Students gain access to millions of Study Materials posted by other Students.Studocu accepts no liability whatsoever for the Study Materials and/or User Content offered by you or other Students by means of the Platform.
+
+3.3. You accept that the Platform contains only the functionalities and other characteristics as found on the Platform at the time of use ("as is basis"). You also accept that the functionalities may change. Studocu expressly excludes any explicit and tacit guarantees, undertakings and warranties of any nature whatsoever including, but not limited to, with regard to the quality, safety, lawfulness, integrity and accuracy of the Platform, unless explicitly stated otherwise in these Terms of Use.
+
+3.4. Studocu is at any time entitled to change, alter or shut down the Platform without any prior notification and without becoming liable to you in any way. If you do not agree with the changes and/or amendments made by Studocu, your only remedy is to cease the use of the Platform and to delete your Profile.
+
+3.5. Studocu does not guarantee that the Platform or any part thereof will be accessible at all times and without any interruptions or failures. Failures in the Platform can occur as a result of failures in the internet or phone connection or by viruses or faults/defects. Studocu is not liable or obliged to Students to pay compensation in any way whatsoever for any damage resulting or arising from the website being (temporarily) unavailable.
+
+3.6. The Platform may contain links to third party websites that are not owned or controlled by Studocu. Studocu has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites.
+
+ 
+
+Article 4. Profile
+
+You will need a Profile to get access to all our documents and study tools. You can use our platform if you are 13 years or older, but you may need consent from your parents or representatives. Keep your password secret and safe and do not share it with others. Your name may be published on our Platform if you share documents or use Studocu AI.
+
+4.1. In order to view Premium Materials and to be able to use certain functionalities, you have to create a Profile in the way described on the Platform. When creating a Profile, you must give an email address and password which will allow you to access the Platform and your Profile. You can also register using your existing Facebook or Google-account.
+
+4.2. You are only allowed to use the Platform when aged thirteen (13) or older. If you are between the age of thirteen (13) and sixteen (16) (or any age that requires consent from your legal representative in your country) , you accept that you need the consent of your legal representative(s) (your guardian or (one of) your parents) before creating a Profile and/or taking out a subscription. By doing so, you confirm that your legal representative(s) have reviewed and agreed to these Terms of Use.
+
+4.3. You are responsible for maintaining secrecy with regard to your registration details. As soon as you know or have reason to assume that your username and/or password has come into the hands of unauthorized persons, you must inform Studocu of this, without prejudice to your own obligation to take immediate effective measures yourself such as changing your password. You accept and acknowledge that you are at all times responsible and liable for the use of the Platform by third parties via your Profile. 
+
+4.4. The personal data you provide during the registration process will be processed in accordance with Studocu's Privacy Policy.
+
+4.5. You acknowledge and agree that by creating a Profile your user name, university and (if provided) profile picture are visible to other Students if you post Study Materials, AI Output, AI Input or other User Content on our Platform.
+
+ 
+
+Article 5. Premium Account
+
+If you want to have access to all our features and documents, you need a Premium Account. You can get a quarterly or yearly subscription to get Premium access or, for temporary access, you can upload Study Materials. We automatically renew subscriptions until you cancel it.
+
+5.1. Some Premium Materials and functionalities of our Platform are only available for Students with a Premium Account. Certain functionalities and features of the Platform, such as downloading and printing Study Materials, also require a Premium Account.
+
+5.2. Students can obtain Premium access by either posting Study Material to the Platform or by taking out a quarterly or yearly subscription. The prices are communicated on the Platform.
+
+5.3. Payment is due in the manner described on the Platform.
+
+5.4. For every document that you post, you can earn days of Premium access. The number of days will be communicated via the Platform.
+
+5.5. Studocu offers a temporary free trial subscription, which allows you to view Premium Material available on the Platform. The length of the trial period is communicated on the Platform. Additional features such as printing and downloading Study Materials, remain exclusive to the full Premium subscription. After the trial period ends, your trial subscription automatically extends into a quarterly or yearly Premium subscription, unless you cancel the subscription prior to that date. During the trial period, you can unsubscribe at any time via your Profile and no deductions will be made.
+
+5.6. It is possible that Studocu offers longer/shorter free trial subscriptions in specific circumstances, such as actions for study societies. The applicable conditions will then be communicated by Studocu.
+
+5.7. Studocu may introduce or change the subscription fees from time to time, for which we will give you advance notice. If your current subscription is still running, the price will remain in force for the fixed term. If you do not agree with the price change, you must cancel your subscription by the end of the then-current subscription term. If you do not cancel your subscription after the price change goes into effect, you agree to pay the changed price.
+
+5.8. Studocu may suspend or cancel your Premium Account if a payment is not successfully settled.
+
+5.9. The subscription period will be renewed automatically for the selected subscription period, unless you have cancelled your subscription on time (before the last day of your subscription). In case your subscription is automatically renewed, you have the right to cancel the subscription at any time after such renewal with a cancellation term of one (1) month. In case of cancellation you may request reimbursement of part of the subscription fee. This means that you pay for the period until the cancellation enters into force.
+
+ 
+
+Article 6. Study Materials
+
+You can share your Study Materials on our Platform, such as your lecture notes and summaries. You are responsible for the materials that you share. We only automatically check the materials that are uploaded to our platform. In this way, we can ensure that clearly illegal materials or low quality materials are blocked from our Platform.
+
+6.1. By means of the Platform Students can post Study Material for the courses and university selected by them. This Study Material can subsequently be viewed and downloaded by other users. 
+
+6.2. You have the possibility to create so-called Studylists, containing Study Materials selected by you relating to a certain course or subject. These Studylists are visible to other Students. 
+
+6.3. Your Profile will state what Study Material you offer on the Platform.
+
+6.4. For new postings, you may earn access to Premium Materials for a limited number of days.
+
+6.5. The manner in which the Study Material can be posted to the Platform as well as the permitted formats are stated on the Platform. 
+
+6.6. You understand and accept that you are responsible and accountable for the Study Material you post on the Platform. You decide what Study Material you post on the Platform. Studocu is not liable to you or any third party for any damages arising out of or in relation to the Study Material created and shared by you within the Platform.
+
+6.7. You understand and accept that Studocu does not, and is under no obligation to, check or (re)view Study Material of other Students. Studocu only conducts a technical and automated check before documents are posted to the Platform. This check is designed to automatically identify clearly unlawful and/or low quality content based on specific characteristics and identifiers of a document. Studocu has no knowledge of, influence on and/or involvement with the Study Materials posted by Students.
+
+6.8. Studocu reserves the right to use the Study Materials for the purpose of the platform, to convert the Study Materials you uploaded to another format and to automatically insert a watermark and/or advertisements in the Study materials.
+
+6.9. If you or a visitor of the Platform are of the opinion that certain Study Material is unlawful, you can report this to Studocu. Studocu retains the right to remove Study Materials in accordance with article 12.
+
+6.10. Studocu retains the right to decline or remove Study Material from the Platform (for example if the Study Material in question is reported and/or gets negative ratings) and/or to relocate the Study Material, without accepting any responsibility or liability for its contents, without being held liable for any damage and without being obliged to pay any compensation.
+
+6.11. You can delete your Study Materials via our Support Page.
+
+ 
+
+Article 7. Downloading and sharing Study Material
+
+If you have a Premium Account, you can download the Study Materials for personal use. You are not allowed to share them. If you want to share documents with fellow students, you can use a link to the document on our platform.
+
+7.1. Students with a Profile and a Premium Account have the ability to download Study Materials from the Platform for personal use only. Your Profile will show what Study Material you have downloaded.
+
+7.2. Downloading Study Material is allowed, provided that you do not violate our fair use policy, which includes a fixed number of downloads per day and month.
+
+7.3. You accept and acknowledge that sharing Study Materials is only permitted using a link to the Platform. You are not permitted to share Study Materials that you have downloaded by other means than a link.
+
+ 
+
+Article 8. Studocu AI
+
+We also offer Studocu AI to help you with your studies. With this tool, you can create notes or summaries, ask questions to AI or record your classes, all within your own AI Project. Use it responsibly: do not infringe copyrights, do not copy AI Output and submit it as your own and always ask permission when you record a class. It is also important that you check the output from AI, as it may contain errors. We only facilitate the AI tools we offer, we are not responsible for the way in which you use it or for the AI output.
+
+8.1. By means of the separate Studocu AI section on the Platform, Students can use AI to help them with their studies. With Studocu AI Students can create AI Output, such as notes, summaries and quizzes, and ask questions which will be answered with AI (Ask AI).
+
+8.2. Studocu offers paid and unpaid subscriptions for Studocu AI. If you choose an unpaid subscription, your AI Output and AI Input will automatically be made available on our platform after it has been technically and automatically checked based on the same technical and automated measures as set out in article 6.7. If you choose a paid subscription, you have the option to keep your AI Output and AI Input private. Studocu reserves the right to change the terms of its subscription to Studocu AI.
+
+8.3. With Studocu AI, you can make your own AI Projects. These projects are your personal study space that show your AI Input and AI Output in one place. You have the option to share your AI Projects with other Students of our Platform, who can edit the AI Project as well.
+
+8.4. By using Studocu AI, you agree and represent that you:
+
+will only use Studocu AI for legitimate study purposes;
+will not use Studocu AI for any illegal, harmful or abusive activities and you will comply with applicable laws;
+will not infringe upon the Intellectual Property rights of others;
+own the copyrights regarding AI Input or have express permission from the owners to use and upload the AI Input to Studocu AI;
+act in accordance with your obligations set out in article 10 of these Terms of Use.
+8.5. When using the class recording feature, you accept and agree that:
+
+before you start recording, you have consent from the person(s) included in your recording;
+you follow to the internal rules of your university or other educational institution regarding the recording of classes;
+you do not record private or confidential conversations;
+the summaries (and, if any, additional content) that is generated by AI based on the class recording is automatically made available on the Platform.
+8.6. You accept and agree that Studocu solely facilitates the Studocu AI tool, which enables Students to use AI to help them with their studies. All AI Output is created with third party LLM operators. The Terms and Conditions of these third parties may apply.
+
+8.7. You agree to only use Studocu AI for legitimate (study) purposes and to act with academic integrity. This means, inter alia, that you will not misuse Studocu AI for cheating purposes and/or that you will not copy AI Output directly from our Platform and submit them as your own work.
+
+8.8. Studocu AI and the AI Output is to be used for general information purposes only, not as a substitute for in-person evaluation or specific professional advice. You understand and accept that AI Output may not always be accurate and may contain errors. You must always evaluate AI Output for accuracy and appropriateness for your study purpose. Studocu is not liable for the accuracy or completeness of the AI Output.
+
+8.9. When using Ask AI, you accept and acknowledge that academic relevant questions and answers are automatically made available on the Platform and may be read, collected and used by other Students. If you have a paid Studocu AI subscription, you have the option to keep your questions and answers private. The questions and answers are automatically checked on academic relevance. You understand and accept that Studocu does not, and is under no obligation to, check or (re)view the questions and answers of Ask AI. Studocu may, however, (automatically) translate the questions and answers of Ask AI in more languages, so that more Students can benefit from them.
+
+8.10. Studocu is not responsible and cannot be held accountable for the AI Output and/or AI Input. Studocu is not liable to you or any third party for any damages arising out of, or in relation to, the AI Input, AI Output or other use of the Studocu AI section.
+
+8.11. Studocu retains the right to remove AI Input and/or AI Output in accordance with article 12.
+
+
+
+
+Article 9. Group Chats
+
+With our Group Chats feature, you can communicate with fellow students. Use it responsibly and do not post illegal or harmful information.
+
+9.1. By means of the separate section on the Platform, Students can join Group Chats to communicate with other Students, via Chat Messages.
+
+9.2. To submit Chat Messages in Group Chats, you will need to create a Profile.
+
+9.3. The manner in which the Group Chats can be accessed or created and that Chat Messages can be posted to the Platform are stated on the Platform. Studocu reserves the right to limit the availability of Group Chats based on for example the Student’s region. Studocu can limit the number of Chat Messages a Student can submit per hour (or other time unit).
+
+9.4. Students accept and acknowledge that the Chat Messages and the Chat Groups shall be made available via a database on the Platform and may be read, collected and used by other Students.
+
+9.5. Students agree to not send Chat Messages or create Chat Groups that:
+
+contain information that might be deemed false or illegal
+advertise products or services not related to the Platform
+are pornographic, contains depictions of nudity or violence, or is otherwise inappropriate
+threaten, harass, insult, bully or may offend others
+facilitate cheating or breach academic integrity in any way
+have content or link to other websites that conflict with your obligations under Article 10
+9.6. Students can notify Studocu if a Chat Message does not meet these requirements using the "Report" button or via email to Studocu. Moreover, third parties can submit a notice of alleged unlawful material in accordance with Article 12 of these terms.
+
+9.7. You understand and accept that Studocu does not, and is under no obligation to, control or review the Chat Messages shared in Chat Groups.
+
+9.8. Studocu retains the right to decline, remove Chat Messages or Group Chats from the Platform, or disable access to them, if they are unlawful or in violation of these Terms of Use, without accepting any responsibility or liability for its contents, without being held liable for any damage and without being obliged to pay any compensation.
+
+9.9. You understand and accept that you are responsible and accountable for the Chat Messages shared in Group Chats. Studocu is not liable to you or any third party for any damages arising out of, or in relation to, the Chat Messages you submit in Group Chats.
+
+9.10. If you disagree with the removal, decline, or disabling of Chat Messages or Group Chats, you can raise an objection by sending an email to support@Studocu.com.
+
+ 
+
+Article 10. Your obligations and use of the Platform
+
+Use our Platform responsibly. We are here to help you with your studies, but not to replace your studying. Do not submit (e-)books or other infringing materials, do not violate someone's privacy and do not submit any User Content from our Platform as your own work. Otherwise, we may suspend or terminate your use of our Platform.
+
+10.1. You will only use the Study Materials and/or AI Output offered on the Platform as a study aid and in accordance with academic integrity.
+
+10.2. You may not resell, distribute, or in any other way make profit of the Platform.
+
+10.3. You shall not post entire (e-)books to the Platform.
+
+10.4. You are not permitted to use the Platform for a purpose as listed below, make Study Material available or upload AI Input:
+
+which is unrelated to the purpose of Studocu;
+as your own work if it is not, as this is in breach of copyright. This is also plagiarism and constitutes academic misconduct at all academic institutions;
+which, at the discretion of Studocu, is discriminating or is otherwise deemed hurtful, offensive or inappropriate;
+in which personal data of others is made available, other than in compliance with applicable law;
+which contains scrapers, spiders, viruses, Trojan horses, worms, bots or other software which can damage or delete the Platform or make it unusable or inaccessible, or which or which is intended to circumvent technical protection measures of Studocu, the Website and/or the computer systems of Studocu;
+which use means to search or index (parts of) our Platform, User Content and Information, such as robots or spiders, other than as set forth in our robots.txt protocol;
+which infringes the rights of Studocu and/or third parties, including but not limited to intellectual property rights or rights concerning the protection of privacy;
+which qualifies as or transmits unwanted or unsolicited material or content (spam);
+if you are a minor and you do not have permission of your legal representative(s) (your guardian or (one of) your parents), as mentioned in Article 4.2 of these Terms of Use;
+is contrary to these Terms of Use or any applicable laws or regulations, is in any other manner unlawful or which could prejudice the interests and reputation of Studocu.
+10.5. You may not incorporate any material obtained via the Platform in any material submitted by you for an assessment task, noting that any breach of this term may breach copyright or other laws.
+
+10.6. Studocu will not be obliged to perform any payment, taxation, levy or deduction of any nature whatsoever to anyone as a result of Study Materials or AI Input uploaded by you, including to persons or parties whose work, model, brand or performance is included in the Study Materials or AI Input, including to collective rights organizations.
+
+10.7. Studocu reserves the right, without prior notice, to abridge, alter, refuse and/or remove User Content if this is necessary in Studocu’s opinion, without this resulting in any liability.
+
+10.8. Studocu is entitled to (temporarily) restrict or suspend your activities in connection with the Platform and/or to delete your Profile in the event you violate these Terms of Use.
+
+ 
+
+Article 11. Intellectual property rights
+
+Your work remains your property. You keep your rights to all your Study Materials, AI Input, AI Output and other User Content that you submit to our platform. You give us a non-exclusive license to use this content. This license cannot be terminated. The license also allows us to make this content available to parties that collaborate with us. When you upload content to our Platform, you confirm that it does not infringe other rights. Similarly, our work remains our property. We own the rights to our Platform and you receive a license to use it, if you follow the rules from these Terms of Use.
+
+11.1. The Intellectual Property Rights in relation to the Platform, including the intellectual property rights with respect to the Information, are held by Studocu or its licensors. Nothing in the Terms of Use is intended to entail any transfer of Intellectual Property Rights to you.
+
+11.2. Under the conditions set out in these Terms of Use, Studocu grants you a limited, personal, revocable, non-exclusive, non-sub licensable and non-transferable right to access and use the Platform, including the Information, insofar as is necessary for the use of the Platform. 
+
+11.3. The collection of Study Materials, Information and AI Input and AI Output, that is collected by Studocu and displayed on the Platform is a legally protected database. Studocu is the producer of the database and therefore has the exclusive right to grant permission for i) the extraction or re-utilization of the entirety or a substantial part, from a quantitative and/or qualitative point of view, of the contents of the database and ii) the repeated and systematic extraction or re-utilization of non-substantial parts, from a quantitative and/or qualitative point of view, of the contents of the database, in so far as this is in conflict with the normal operation of the database or causes unjustified damage to Studocu’s lawful interests. You may only request or reuse data from the database if and in so far as this is permitted under these Terms of Use.
+
+11.4. You retain all Intellectual Property Rights to your User Content posted by you on the Platform. By making User Content available via the Platform, you automatically grant Studocu a free, unencumbered, global, non-exclusive, perpetual, transferable and irrevocable licence, including the right to (sub)licence, use, copy, modify, adapt and distribute this User Content across all existing and future media formats and distribution channels worldwide. This licence also grants us the right to make User Content available for syndication and distribution by parties that collaborate with Studocu. This licence does not end when you remove your Profile and/or you discontinue the use of the Platform.
+
+11.5. You hereby waive your moral rights to User Content, in so far as applicable and in so far as possible.
+
+11.6. You warrant that there are no (Intellectual Property) Rights of third parties which preclude you from making the User Content available through the Platform and/or providing the licence as mentioned in Article 11.4. 
+
+11.7. You shall refrain from any act that infringes the Intellectual Property Rights of Studocu, including – but not limited to – the registration of domain names, trademarks or Google Adwords that are identical or similar to any object to which Studocu holds Intellectual Property Rights, as well as the reproduction, modification, reverse engineering or publishing of the Platform, including the Information, for other purposes than those listed in the Terms of Use.
+
+ 
+
+Article 12. Notice of alleged unlawful material & repeat infringers
+
+We have a Notice-and-Action procedure to report unlawful content, such as copyright infringements or privacy violations. When we receive a notice, we will assess it and where appropriate remove the notified content in question. We may also impose other measures, such as suspension or termination of the user account. A notice must contain specific information, such as the URL to the exact location of the unlawful content. Otherwise, we cannot follow up on your notice. If you do not agree with our decision, you can dispute it.
+
+12.1. Studocu respects the (Intellectual Property) Rights of others and takes the protection of (Intellectual Property) Rights seriously. Although Studocu is not liable for any damages in connection with the (illegal) use of the Platform by Students, Studocu will, under the conditions as set out in this Article, remove Study Material(s) AI Input, AI Output and/or any other User Content that is (are) infringing, unlawful and/or violate our Terms of Use and stop manifestly unlawful behaviour after receiving a notification that is sufficiently precise and adequately substantiated.
+
+12.2. A notification must contain at least the following information:
+
+a sufficiently substantiated explanation of the reasons why the reported content is illegal;
+the exact location of the reported content, by providing a hyperink to the studocu.com URL where the information is located;
+the name and email address of the individual or entity submitting the notice, except in the case of an anonymous report involving one of the offences referred to in articles 3 to 7 of Directive 2011/93/EU;
+a statement confirming the bona fide belief that the information and allegations contained in the notice are accurate and complete.
+12.3. If you claim that certain Study Material, AI Input, AI Output or any other User Content infringe on your (Intellectual Property) Rights or is manifestly unlawful, you can report this to Studocu by filling in the contact form or by notifying our Compliance team, via StudeerSnel B.V., attn. Compliance team, Keizersgracht 424 sous, 1016 GC Amsterdam or via DMCA@studocu.com. We will examine the notice and, if possible and necessary, take the measures stated in this article.
+
+12.4. Studocu may impose the following restrictions or measures:
+
+Remove and/or disable access to the notified Study Materials, AI Input, AI Output and/or any other User Content;
+Suspend or terminate the ability to use specific services on our Platform, such as posting Study Materials or submitting AI Input;
+Suspend or terminate access to our Platform;
+In serious cases of unlawful or illegal activities, such as the availability of information or materials that may pose a threat to the safety of individuals, we may be required to make a report to the relevant authorities.
+12.5. Where possible, we will first send a warning before imposing restrictions or measures.
+
+12.6. Studocu does not use algorithmic decision-making when imposing measures or restrictions, and there is in principle human control over all decisions.
+
+12.7. Studocu reserves the right to not grant a request to remove Study Materials, AI Input, AI Output or any other User Content or to stop an activity in case it has reasonable grounds to doubt the accuracy of the notification or in case a balancing of interest requires this. In such a situation, Studocu can require a court order from a competent court, to demonstrate that the material or the activity is manifestly unlawful.
+
+12.8. Prior to removal of any alleged unlawful Study Material(s), AI Input, AI Output or any other User Content, Studocu may request and the notifying party shall provide, additional information substantiating that the notifying party is indeed the rightsholder and substantiating why the reported content is unlawful.
+
+12.9. Studocu will not be a party in a dispute between the person making the report and any third party arising out of or in connection with a notification.
+
+12.10. Studocu has a policy of suspending, and in appropriate circumstances terminating, the accounts of Students who repeatedly infringe the copyrights or other Intellectual Property Rights of others, engage in unlawful behaviour or otherwise violate our Terms of Use. Studocu may also suspend or terminate access to filing notices if you repeatedly and intentionally file manifestly unfounded complaints. Where possible, we will first send a warning.
+
+12.11. The notifying party indemnifies Studocu against all claims of third parties in relation to the blocking or removal of User Content or the stopping of activities as a result of the notification. The indemnification includes all damages and costs Studocu suffers, could suffer or which Studocu must incur in relation to such a claim, including but not limited to the compensation of legal assistance.
+
+12.12. Studocu respects and protects the privacy of those who provide notifications. All personal data that it receives as part of a notification will only be used to process the notice.
+
+12.13. Studocu reserves the right to forward the notice to the Student responsible for the User Content to which the notice refers.
+
+12.14. If you do not agree with a measure or restriction that is imposed on you or if you do not agree with a decision following your notice, you can complain by using our contact form. Users covered by the European Union’s Digital Services Act are also entitled to bring disputes related to these complaints to a certified out-of-court dispute settlement body, which are listed here.
+
+ 
+
+Article 13. Liability
+
+We are not liable for any damages that may arise from the use of our Platform.
+
+13.1. Studocu accepts no liability whatsoever for damages resulting from the provision of the Platform, including damage resulting from or in connection with the use of the Platform or from wrongful acts or otherwise, in so far as this is permitted pursuant to mandatory law. 
+
+13.2. In the event that Studocu – despite the above – is liable, this liability is limited to direct damages the Student suffers as a result of a shortcoming or wrongful act that can be attributed to Studocu. Direct damage only includes material damage to goods, reasonable costs incurred to prevent or limit direct damage and reasonable costs incurred to determine the cause of the damage. Studocu shall in no event be liable for any special, incidental or consequential damages whatsoever (“indirect damages”), including – but not limited to – loss and/or damage of data (including Study Material), loss of profits and lost sales, is excluded.
+
+13.3. Studocu’s liability is in any case limited to the highest of the following amounts: (i) the amount actually paid by Studocu's insurance company, or (ii) € 1.000 (thousand euros).
+
+13.4. The limitations and exclusions of liability mentioned in the preceding paragraphs of this article will lapse if and in so far as the damage is the result of intentional or willful recklessness on the part of Studocu or its managers (“own actions”).
+
+ 
+
+Article 14. Indemnities and warranties
+
+You guarantee that you will use our Platform responsibly and in accordance with our Terms of Use. You also indemnify us if you violate the rights of others. We are not responsible for the User Content on our Platform and we cannot guarantee that this content is accurate or complete.
+
+14.1. You guarantee that you will not use the Platform in a way that (i) infringes the rights of Studocu or third parties, including – but not limited to – Intellectual Property Rights or rights in relation to the protection of privacy, (ii) is contrary to any current legislation or regulations, or (iii) is contrary to any provision in these Terms of Use.
+
+14.2. You are liable and indemnify Studocu against any and all claims of third parties based on the allegation that the User Content infringes any Intellectual Property Right or other right of third parties or is otherwise unlawful against third parties as well as against all claims resulting from your actions in violation with these Terms of Use. All costs incurred and damages suffered by Studocu which are in any way related to the abovementioned claims will be remunerated by you.
+
+14.3. Studocu does not guarantee (i) the Platform’s fitness for a particular purpose or that the Platform shall meet any of your requirements, (ii) that the Platform shall be available to you at all times and without interruptions or disturbances; (iii) that the User Content and/or Information on the Platform are accurate, up to date or complete.
+
+ 
+
+Article 15. Force Majeure
+
+If anything unexpected or unforeseen happens, we are not responsible.
+
+15.1. In the case of force majeure, the non-fulfillment of the agreement between you and Studocu cannot be counted as an attributable failure and Studocu is released from all contractual obligations and liability.
+
+15.2. Force majeure includes, but is not limited to, illness of employees and/or absence of personnel crucial for the provision of the Platform, disruptions of the electricity supply, fire, natural disasters, strikes, floods, failures to perform by third parties hired by Studocu, disturbances in the internet connection, hardware disruptions, disruptions in the (telecommunications) networks and other unforeseen circumstances.
+
+ 
+
+Article 16. Termination
+
+You can terminate your Profile and stop using our Platform. The content that you have uploaded to our Platform will stay accessible, unless you have deleted it.
+
+16.1. You are entitled to discontinue your use of the Platform and to terminate your Profile.
+
+16.2. You accept and acknowledge that any User Content you made available on our platform will in principle remain accessible via the Platform, unless you have deleted the content before you terminated your account or sent a deletion request to our Support team.
+
+ 
+
+Article 17. Miscellaneous
+
+The laws of the Netherlands apply to these Terms of Use and disputes should in principle be brought to the Dutch Court of Amsterdam, the Netherlands. We may assign any rights and obligations to third parties, but we will always notify you of it.
+
+17.1. These Terms of Use and the use of the Platform are governed by and construed in accordance with the laws of The Netherlands. 
+
+17.2. Any and all disputes arising from or related to the Platform or the Terms of Use will be brought before the competent court in Amsterdam, unless compulsory law mandates otherwise.
+
+17.3. If at any time any provision of these Terms of Use is or becomes illegal, void or invalid for any reason whatsoever, such invalidity shall not affect the validity of the remainder of the Terms of Use and such invalid provision shall be replaced by another provision which, being valid in all respects, shall have effect as close as possible to that of such replaced one.
+
+17.4. Studocu is entitled to assign any rights and obligations that result from these Terms of Use to third parties, in which case it will notify you. In the event that you cannot agree with the assignment, your only remedy is to cease the use of the Platform and delete your Profile.

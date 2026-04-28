@@ -1,0 +1,386 @@
+LoopNet | Terms of Use
+Skip to main content
+LoopNet Terms of Use
+YOUR USE OF THIS WEBSITE CONSTITUTES YOUR AGREEMENT TO BE BOUND BY THESE TERMS OF USE.
+1.
+Definitions
+.
+As used herein, the following terms shall have the following meanings:
+Advertising Agreement
+: A contract between Company and an individual or entity that authorizes access to a Company service (including but limited to (i) a written and signed contract, or (ii) an online contract formed by online registration and acceptance of these Terms of Use).
+Basic Listing
+: The base level Listing with no or limited exposure on the Website.
+Company
+: CoStar Realty Information, Inc., through its “LoopNet” brand and suite of products and services.
+Company Information
+:
+The information, directories, text, forms, agreement, videos, photographic and other imagery, and data provided by Company.
+Company Parties
+: Company and its affiliates and their respective partners, officers, directors, employees, agents, and third-party suppliers, and each of their successors and assigns.
+CPI
+: For the United States, Canada, and the Caribbean: Consumer Price Index for All Urban Consumers (CPI-U); for the European Union: European Union Consumer Price Index (I:EUCPI); for all other locations, Consumer Price Index published by the United Kingdom’s Office for National Statistics.
+DMCA
+:
+Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act (17 U.S.C. § 512).
+Interface
+: Company’s interface for managing Listings.
+Listing
+: A listing for the sale or lease of commercial real estate.
+LoopLink Service
+: Collectively, the Website, the Interface, and Internet-based marketing tools, including, the LoopLink Site, and functionality related to publishing the Listings on the LoopLink Site and/or your proprietary website. (LoopLink Service does not include Silver Listing or Signature Listing exposure.)
+LoopLink Site
+: A single dedicated website and software hosted by Company branded for a user and containing the user’s Listings.
+Passcode
+: The username and password and any other authentication method used to access the Product.
+Premium Listing Plan
+: Company’s paid subscription product for bulk Silver Listing exposures for individual subscribers.
+Privacy Notice
+: Company’s privacy notice located at
+https://www.costar.com/about/privacy-notice
+.
+Product
+: The Website, Listings, Company Information, the Interface, the LoopLink Service, and all other information and content contained in or provided through the Website, including any updates or modifications thereto, and any information derived therefrom, the proprietary organization, layout, design and structures for categorizing sorting, and displaying it, the collaboration features therein, and the related tools and software.
+Silver Listing
+: The LoopNet Listing level that provides greater exposure than a Basic Listing, but less exposure than a Signature Listing.
+Signature Listing
+: A Gold, Platinum, or Diamond LoopNet Listing.
+Submitted Content
+: Any information, data, text, videos, photographs, imagery, graphics, messages, links, expressions of ideas and other content you submit to the Product to be publicly displayed on the Product, used by Company in connection with researching activity, or for some other purpose.
+Website
+: The Company website and mobile application in which these Terms of Use are referenced.
+2.
+Acceptance of Terms of Use
+.
+The Website is operated by Company. You must be at least 18 years old to use the Website. By accessing or using the Website (or any part thereof), you agree to be legally bound by these Terms of Use, as Company may modify them from time to time. These Terms of Use apply to your use of the Website, including Company’s services offered via the Website. They constitute a legal contract between you and Company, and by accessing or using any part of the Website you represent and warrant that you have the right, power and authority to agree to and be bound by these Terms of Use. If you do not agree to the Terms of Use, or if you do not have the right, power, and authority to agree to and be bound by these Terms of Use, you may not use the Website. Notwithstanding anything to the contrary herein, if you and Company have entered into a separate Advertising Agreement that covers your use of a Company service, the terms and conditions of such agreement shall control with respect to such service to the extent they are inconsistent with these Terms of Use. You also agree to be contractually bound by the Privacy Notice, which is hereby incorporated into, and made part of, these Terms of Use.
+3.
+Permitted Uses
+.
+(a) Subject to the prohibitions set forth below, you may, in the ordinary course of business, use the Product to view Listings of properties for which you may be interested, and to designate, create and review Listings for properties owned, controlled or represented by you
+for inclusion in, and to market Listings on, the Website (and, if applicable, the LoopLink Site
+and/or your proprietary website), as
+described in any applicable Advertising Agreement.
+(b) Where your Listing on the Website incorporates Company Information, you are granted a limited, revocable, and non-sub-licensable license to use such Company Information strictly in connection with your Listing on the Website.
+(c) You may, in the ordinary course of business, provide a hyperlink to the home page of the Website or to any Listings provided that you must remove any such hyperlink upon request from Company and no such hyperlink may be included in any website or application of a competitor of Company.
+(d) For additional information about how Company’s
+videos, photographic and other imagery may be used, see
+https://www.costar.com/about/anti-piracy/costar-media-rights-faqs
+.
+4.
+Prohibited Uses
+.
+(a) Except as specifically set forth in the “Permitted Uses” section above, you shall not:
+distribute, disclose, copy, reproduce, make available, upload, post, communicate to the public by telecommunication, display, publish, transmit, assign, sublicense, transfer, provide access to, sell, directly or indirectly, any portion of the Product by any means (including without limitation the Internet, any bulletin board system, electronic network, listing service, or any other data sharing arrangement) to anyone, or modify, adapt or create derivative works of the Product;
+store, copy or export any portion of the Product into any database or other software program; or
+link to or frame any portion of the Product.
+(b) Notwithstanding any other provision herein, you shall not, without the express written permission from Company:
+use any portion of the Product to create, directly or indirectly, any database or product;
+access or use the Product if you are a direct or indirect competitor of, or provide any portion of the Product to any direct or indirect competitor of, Company or its affiliates;
+modify, merge, scrape, disassemble or reverse engineer any portion of the Product, or use any data mining, gathering or extraction tool, or any robot, spider or other automatic device or manual process, to monitor or copy any portion of the Product or the data generated from it;
+use, reproduce, publish, or compile any portion of the Product in connection with any other
+listing service, device or data sharing arrangement
+;
+use any portion of the Product in a manner that would violate any applicable law, regulation, rule, ordinance or common-law principle, including those relating to real estate practice, competition, marketing, advertising, defamation, securities, spam and privacy; or
+in connection with the offer or sale of securities, use any portion of the Product, directly or indirectly, in any securities offering materials, registration statement, prospectus, or other filing with the United States Securities and Exchange Commission or any other federal, provincial, state, local or foreign governmental authority.
+(c) You may not use the Product or any portion thereof in any manner that:
+is threatening, abusive, harassing, hateful, harmful, false, misleading, obscene, vulgar, racially or ethnically offensive, invasive of the privacy, publicity or other rights of any party, or is otherwise objectionable, in Company’s sole discretion;
+infringes any patent, copyright, trademark, trade secret, or other proprietary right of any party or violates the privacy or publicity rights of any party; or
+exposes the Product to software viruses or any other computer code, files or programs that are designed to or have the capability to interrupt, modify, damage, improperly access, disable, destroy or limit the functionality of the Product or servers or networks connected thereto or the activities of other users of the Product or of any computer software or hardware or telecommunications equipment.
+(d) You may not use the Product or any portion thereof to market properties or otherwise communicate with contacts acquired from the Product without first obtaining the appropriate consents and permissions as required by applicable law.
+(e) You may not impersonate any person or entity or falsely state or otherwise misrepresent any registration information, or otherwise disguise the origin of any information, data, text, software, photographs, imagery, graphics, or other content posted on or transmitted through the Product.
+5.
+Term
+.
+Subject to the terms of any applicable Advertising Agreement:
+(a) For Signature Listings:
+Signature Listings may be purchased for a minimum initial term of 6 months.
+An upgrade from a lower Signature Listing level to a higher Signature Listing level initiates a new 6 month initial term for such Signature Listing.
+After the initial term, each Signature Listing will
+automatically renew for successive periods of one month each
+unless (A) at least 14 days prior to the last day of the then-current term either party has provided the other
+written notice of nonrenewal
+for such Listing, or (B) during the then-current term the property is moved off market or a different listing contact has purchased a Signature Listing for the property.
+(b) Other member subscriptions will
+automatically renew for successive periods equaling the original term
+(e.g., month, quarter, or year, as applicable) unless at least 3 days prior to the last day of the then-current term either party has provided the other
+written notice of nonrenewal
+for such Listing.
+(c) Account updates, including non-renewal requests should be made using the “My Account” tab when logged into
+www.loopnet.com
+. If you have any questions, you may contact Company at
+help@loopnet.com
+. Any non-renewal requests will be processed within 5 business days. Once processed, a confirmation email will be sent to your email account on record with Company.
+6.
+Termination and Interruption of Access
+.
+Subject to the terms of any applicable Advertising Agreement:
+(a) You acknowledge and agree that Company may interrupt, terminate, suspend, discontinue, or block your access to the Product or portions thereof at any time, including without limitation upon Company’s determination that you have violated these Terms of Use or the terms of any other agreement between the parties or their affiliates.
+Upon your breach of any term
+of these Terms of Use that leads to a termination of your access to the Product, Company’s remedies shall include any damages and relief available at law or in equity.
+You acknowledge that any breach of these Terms of Use will cause irreparable harm and injury to Company for which there is no adequate remedy at law, and therefore in addition to all other remedies available at law or in equity, you agree that Company shall be entitled to injunctive relief.
+If Company retains any third party to obtain any remedy to which it is entitled under these Terms of Use, Company shall be entitled to recover all costs, including attorney’s fees and collection agency commissions, Company incurs.
+In addition, any individual or entity that violates any term of these Terms of Use is precluded from enforcing, agrees not to enforce, and covenants not to sue to enforce, any similar contract, including terms and conditions, terms of use and terms of service, asserted by such individual or entity, or any affiliate thereof, as binding upon any of the Company Parties.
+(b) Company is continuously updating and changing the Product, and reserves
+the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Product or any part thereof with or without notice; you agree that Company shall not be liable to you or to any third party for any modification, suspension or discontinuance of the Product or any part thereof. In the event the Product or any portion thereof is discontinued,
+(i) you shall only be responsible for paying fees associated with that portion of the Product (if any) that continue to be provided after the effective date of such discontinuance, and (ii) Company shall refund any fees (if any) paid for provision of the discontinued portion of the Product after the effective date of such discontinuance.
+(c) Upon any termination, you shall cease using any portion of the Product, and within 10 days thereafter permanently delete or destroy all elements of the Product within your control; upon request from Company, you shall certify your compliance with the terms of this paragraph in writing reasonably satisfactory to Company.
+7.
+Fees
+.
+Subject to the terms of any applicable Advertising Agreement:
+(a) You are responsible for the timely payment, using the currency and payment method indicated, of any fees incurred by your use of the Product and any services available on the Website or via links to other websites, whether ordered through the Website, Company’s sales team or otherwise. If applicable, you give Company express authorization to place a preauthorization to hold such fees and initiate recurring charges to or debits from your electronic payment provider for all fees owed on the due date.
+If you owe any past due fees to Company or its affiliate pursuant to any prior Agreement(s), you hereby authorize Company to charge to or debit from your electronic payment provider a one-time payment, or initiate recurring charges to or debits from such provider, in either case, to satisfy such past due fees.
+(b) Company reserves the right to change the nature and amount of fees charged for access to the Product, payment frequency, and acceptable methods of payment at any time, provided Company will provide timely notice of any such changes.
+For yearly subscriptions, Company may increase subscription prices annually, on the anniversary of the subscription’s start date, by a percentage equal to the percentage increase in the CPI.
+(c) The fees paid for services are non-refundable, regardless of whether the service is
+terminated, or recurring debits or charges are canceled, prior
+to the end of the then-current term or billing period. No mid-term cancellations will be permitted.
+(d) Company may send invoices for such fees by email, postal mail, or both. All payments received after the due date may be subject to a late payment charge from such due date until paid at a rate equal to the maximum rate permitted under applicable law. In all cases, all fees payable under these Terms of Use shall be paid in full without any right of set-off or deduction. Company may accept any payment without prejudice to its rights to recover the balance due or to pursue any other right or remedy. No endorsement or statement on any check, payment, or elsewhere will be construed as an accord or satisfaction. The fees do not include value added, sales, use, excise or any other taxes or fees now or hereafter imposed by any governmental authority with respect to the Product. Company shall not be bound to use any third-party payment vendor or accept credit card payments, and any fees by such vendors or costs incurred from such credit card payments may be added to the amounts payable hereunder. At Company’s option, you shall pay any such taxes or additional fees directly or pay them to Company immediately upon invoicing by Company.
+Company may be required to collect sales tax in some jurisdictions, and recurring charges will include such sales tax if applicable.
+(e) Loyalty or product bundle discounts are subject to cancellation.
+(f) You must notify Company about any billing problems or discrepancies within 180 days after charges first appear on the account statement; if it is not brought to Company’s attention within such period, you agree to waive the right to dispute such problems or discrepancies.
+(g) It is your responsibility to keep current your contact and billing information (including phone number, email address, credit card numbers, etc.).
+8.
+Administration of Listings
+.
+(a) It is your sole responsibility to upload Listings that you would like to designate for inclusion on the Website, and you shall provide all information, data and/or imagery necessary to include such Listing on the Website. You shall ensure that all such information, data and/or imagery is accurate at all times.
+No robot, spider or other automated service may be used to submit Listings to the Website.
+(b) You represent and warrant that, for each Listing you submit to the Website, you have the right and authority to submit such Listings and associated information to Company, and you are not submitting the Listing on behalf of any party not authorized to list on the Website.
+(c) You agree to provide Company with, and to maintain, accurate contact information (including a valid phone number and email address) in order to submit and maintain active Listings on the Website.
+(d) You shall not post a Listing on the Website under a name, or using a contact, other than the property owner or the licensed real estate broker or agent that has been engaged by the property owner to market the Listing under a duly executed listing agreement with the owner.
+(e) You agree to allow submitted Listings, or any part thereof, to be searched, displayed, accessed, viewed, downloaded, copied and otherwise used by users of the Website and other Company partner and affiliated websites. Company shall have the sole authority to choose the manner in which any Listing will be searched, displayed, accessed, viewed, downloaded, copied, and otherwise used on such websites.
+(f) Company shall have no obligation to monitor or verify the accuracy or proper use of the Website by others. However, Company may, in its sole discretion but without any obligation, search for and remove or modify Listings that are alleged to have been submitted in violation of these Terms of Use. Company reserves the right to remove all or any part of a Listing in its sole discretion. Company shall have no obligation to resolve any disputes that arise among users of the Website.
+(g) Listings that are not modified or renewed within a 75-day period may be automatically changed to “Off Market” and/or removed from the Website.
+(h) Contact lists that you upload to the “Marketing Tools” portion of the Website is for your use only; Company agrees not to use such contact lists.
+(i) When you register on the Website, which is free, you become a basic member and eligible to (i) use the Product to search Listings and (ii) submit Listings on the Website (which, Listings will only be available to be fully accessed and viewed in the search results generated on Company’s affiliated website costar.com, unless and until such Listings are upgraded to a paid Listing).
+(j) For Signature Listings:
+Purchase of a Signature Listing applies only to the specific property/listing ID—swaps are prohibited.
+A limited number of Diamond and Platinum Listings are available per submarket; when a submarket/exposure tier is sold out, Company will maintain a wait list and notify waitlisted users of any available slot, and the price may be subject to increase.
+9.
+Premium Listing Plan
+Subscriptions
+.
+(a) Premium Listing Plan subscriptions are granted by Company to individuals exclusively, and may not be assigned, sublicensed, distributed, shared, viewed, accessed, or otherwise transferred to anyone other than the individual subscriber. A Premium Listing Plan subscriber may only submit Listings for properties that the subscriber owns or represents as the listing broker and is the primary contact in the Listing, and may not use a Premium Listing Plan subscription to list properties on behalf of, or for the benefit of, any other person, regardless of whether such other person works for the same company or at the same place of business as the individual subscriber.
+(b) Premium Listing Plan subscriptions are subject to change from time to time and may be subject to property listing, property searching, and member directory searching limitations.
+(c) Any Listing on which the primary contact is a Premium Listing Plan subscriber and is within its plan will receive Silver Listing exposure; Listings in excess of the number allocated in the subscriber’s plan will not receive Silver Listing exposure, but will still receive exposure on Company’s
+www.costar.com
+site.
+(d) Premium Listing Plan subscribers may upgrade their subscription level to a higher plan online or by contacting Company at
+help@loopnet.com
+. For any such upgrade, the subscriber will be charged a prorated change plan fee for the remaining days in current billing cycle, and the subscription rate will be adjusted commencing with the next bill date. If the subscriber was above its plan, the most recently created Basic Listings will be upgraded to Silver Listings until the subscriber is within its plan.
+(e) Premium Listing Plan subscribers may downgrade their subscription level to a lower plan by clicking “Change Plan” under “My Account” or by contacting Company at
+help@loopnet.com
+. Any such change will take effect at the end of the applicable term (e.g. month, quarter, or year, as applicable). Once effective, any Silver Listings beyond those allocated under the chosen subscription level will be converted to a Basic Listing, beginning with the earliest created Silver Listing.
+(f) Company reserves the right to deactivate complimentary subscriptions at any time.
+10.
+Submitted Content
+.
+The Product may include opportunities for users to submit, upload, post, email or otherwise transmit Submitted Content to or via the Product.
+(a) All Submitted Content, whether publicly posted or privately transmitted, is the sole responsibility of the person from which such content originated. This means that you, and not Company, are entirely responsible for your Submitted Content, and for making any redactions necessary to protect any confidential or sensitive information relating to third parties. Company has no obligation to monitor or screen Submitted Content and is not responsible for Submitted Content. However, Company reserves the right, in its sole discretion, to monitor Submitted Content, refuse to post Submitted Content, edit Submitted Content or delete Submitted Content at any time for any reason or no reason, and employ a combination of automated and manual processes to moderate Submitted Content on the Website by detecting, reviewing and removing Submitted Content that violates these Terms of Use, applicable law, Company’s guidelines, and/or Company’s specific policies.
+(b) With respect to all Submitted Content you elect to submit,
+upload, post, email or otherwise transmit to or via the Product,
+you retain any applicable ownership rights that you may have with respect to your Submitted Content, and
+you grant Company and its licensees a royalty-free, perpetual, irrevocable, non-exclusive and fully sub-licensable right and license (through multiple tiers) to use, reproduce, communicate
+to the public by telecommunications, make available, adapt, perform, display, publish, translate, prepare derivative works from, modify, distribute, sell, rent and take any other action with respect to such Submitted Content (in whole or part) worldwide and/or to incorporate it in other works in any form, media, or technology now known or later developed. You further acknowledge and agree that Company may preserve any such Submitted Content and may also disclose such Submitted Content in its sole discretion. The foregoing license is without restrictions of any kind and without payment due from Company.
+(c) You also hereby forever waive and agree never to assert any and all “moral rights”, “droit moraux”, or any similar right you may have in or with respect to any Submitted Content under judicial or statutory law of any country in the world, or under any treaty. For greater certainty, these so-called “moral rights” or “droits moraux” shall not include the so-called “paternal right”.
+(d) You represent and warrant that: Submitted Content is accurate to the best of your knowledge; you own or have the full right, power and authority to grant to Company use of and rights in and to all Submitted Content that you submit, upload, post, email or otherwise transmit to or via the Product; your license of such content to Company hereunder does not, and the use or license of such content by Company to third parties will not, infringe any right or interest owned or possessed by any third party; there are no claims, judgments or settlements to be paid by you, or pending claims or litigation, relating to such Submitted Content; and the Submitted Content is free of any viruses, Trojan horses, or other malware.
+(e) Although Company undertakes reasonable efforts to back up data, you are solely responsible for retaining copies of all Submitted Content.
+11.
+Brokers and Agents
+.
+(a)
+Any person who identifies themselves as a broker or agent on the Website hereby represents and warrants that such person is validly licensed as identified and is in compliance with applicable broker requirements in all jurisdictions in which such person is required to be licensed. Company may, in its sole discretion, but shall have no obligation to, (i) verify the licensure of such person as a broker or agent, (ii) verify the existence of applicable representation agreements, and (iii) remove from the list of brokers any person whom Company believes is not a licensed broker or agent in any applicable jurisdiction.
+(b) Company does not and shall not have any obligation to independently verify the licensure of individuals identified as brokers and agents on the Website; it is your responsibility to confirm the licensed status of any brokers listed on the Website.
+12.
+Access, Passcodes, and Security
+.
+(a) You must maintain the confidentiality of any Passcodes assigned to you and may not share them with or allow them to be used by any other person.
+(b) Company may use Passcodes as a means to authenticate your identity when you access and use the Product. Company is under no obligation to confirm the actual identity or authority of any party accessing the Product under any Passcode or other authentication method.
+(c) Unauthorized attempts to defeat or circumvent Passcodes or other security features, use the Website or the Product for other than intended purposes, or obtain, alter, damage or destroy information or otherwise to interfere with the system of its operation, are not permitted and may result in a loss of access to the Product. Evidence of such acts may also be disclosed to law enforcement authorities and result in criminal prosecution under the laws of the United States, Canada, the United Kingdom, the European Union, or such other jurisdictions as may apply. You agree to notify Company via email at
+accountsecurity@costargroup.com
+immediately if you become aware of any unauthorized use of any Passcode, any authorized use of the Product, or any other breach of security.
+(d) If you create any settings, saved searches, fields or functions in the Product or input, add or export any data into or from the Product, none of the Company Parties shall have any liability or responsibility for any such information or the loss, destruction or use by third parties thereof; it is your responsibility to make back-up copies of such information. Company may limit the amount of storage space allocated for such information.
+(e) If you cause a technical disruption of the Product, you agree to be responsible for any and all liabilities, costs and expenses (including reasonable attorneys’ fees, fines, and costs of enforcement) arising from or related to that disruption.
+13.
+Information
+.
+If you are party to an Advertising Agreement and are a real estate broker, investor, or developer, you agree to use reasonable efforts to keep Company informed about commercial and investment space available for lease and/or sale and transaction information with respect to properties that you own, control, represent or hold exclusives. You hereby grant to Company and its affiliates an irrevocable, non-exclusive license to gather, use, modify, reproduce and sublicense real estate information available on your website or otherwise provided by you. Company acknowledges that if you provide Company with any information or imagery, you retain your rights to such information and imagery.
+14.
+Ownership
+.
+You acknowledge that the Product is comprised of data that is owned by Company and its licensors and that Company and its licensors have and shall retain exclusive ownership of all proprietary rights to the Product (including without limitation all photos, videos, and other imagery created by Company pursuant to an advertising or listing package, plan or agreement for use in the Product), including all United States, United Kingdom, Canadian, European Union or other international intellectual property and other rights such as patents, trademarks, copyrights and trade secrets. This is a license agreement and not an agreement for sale. You shall have no right or interest in any portion of the Product except the right to use the Product as set forth in these Terms of Use and any Advertising Agreement between you and Company. You acknowledge that the Product constitutes the valuable property and confidential and copyrighted information of Company and its licensors and agree to (a) comply with all copyright, trademark, trade secret, patent, contract and other laws necessary to protect all rights in such information, (b) not challenge Company’s and its licensors’ ownership of (or the validity or enforceability of their rights in and to) such information, and (c) not remove, conceal, obliterate or circumvent any copyright or other rights management information, notice, license or anti-piracy technological measure included in the Product. You shall be liable for any violation of the provisions of these Terms of Use and, if applicable, the Advertising Agreement by your employees, contractors, affiliates and agents and for any unauthorized use of the Product by such persons. You may not use or reproduce any trademark, service mark or trade name of Company or its licensors without Company’s written consent. Nothing in these Terms of Use will restrict Company from freely using for any purpose, without compensation, any of your ideas, suggestions, enhancements or other feedback relating to the Product or new products, features or tools.
+You assign Company the right to pursue enforcement of copyright and other intellectual property claims against third parties that have, without authorization, and in violation of these Terms of Use, scraped, copied, or distributed content from your Submitted Content and for which you have not granted such third parties a separate license to use.
+NOTICE -- U.S. Government Rights/Commercial Technical Data and Software Unpublished, Rights Reserved Under the Copyright Laws of the United States
+The Website contains commercial technical data and computer software that have been privately developed and are normally vended commercially under a license or lease agreement restricting their use, disclosure and reproduction. In accordance with FAR 12.211, 12.212, 27.405(b)(2) and 52.227-19 and DFARS 227.7202, 227.7102 and 252.227-7015, as well as other applicable supplemental agency regulations, use, reproduction, disclosure and dissemination of this commercial technical data and computer software are governed strictly in accordance with Company’s commercial agreements, including these Terms of Use.
+15.
+Other Websites; Third Party Data Providers
+.
+(a) For your convenience, the Product may include links to other websites, some of them owned and operated by Company and some of them owned and operated by third parties. Under no circumstances shall Company be deemed to be associated or affiliated with, or viewed as endorsing or sponsoring, any third party websites or any service or product that may be offered through such websites. Company has not necessarily reviewed any or all of the content of such other websites, does not guarantee the accuracy or timeliness of such websites, and expressly disclaims responsibility for the content and services available therein. Different terms, conditions, and privacy notices may apply to your use of any linked websites. It is your responsibility to review any such terms, conditions, and privacy notices in connection with your use of any such websites. Any issues or disputes that may arise with respect to any such websites shall solely be between you and the applicable third party.
+(b) You acknowledge that the Product includes data sourced from various providers, including without limitation certain providers listed here:
+https://www.costar.com/about/data-providers
+. Company has not necessarily reviewed any or all of the content from such providers, does not guarantee the accuracy of such content, and expressly disclaims responsibility for such content.
+16.
+Procedure for Making Notification of Claims of Copyright Infringement
+.
+Company respects the intellectual property of others, and Company asks those posting or transmitting any content to or through the Website to respect copyright law. It is the policy of Company to restrict and/or terminate in appropriate circumstances the ability to submit content and/or use the Product by individuals or entities that repeatedly submit infringing content in violation of these Terms of Use.
+(a) If you believe that your work has been copied and is available on the Website or Company’s other online services in a way that constitutes copyright infringement, you may send Company a written notice according to the requirements of the DMCA and any other applicable law. Such DMCA notice must include substantially the following:
+your physical or electronic signature;
+identification of the copyrighted work you believe to have been infringed or, if the claim involves multiple works on the Website, a representative list of such works;
+identification of the material you believe to be infringing in a sufficiently precise manner to allow us to locate that material;
+adequate information by which Company can contact you (including your name, postal address, telephone number, and, if available, email address);
+a statement that you have a good faith belief that use of the copyrighted material is not authorized by the copyright owner, its agent, or the law;
+a statement that the information in the written notice is accurate; and
+a statement, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
+If you fail to comply with all of the requirements of Section 512(c)(3) of the DMCA, your DMCA notice may not be effective.
+Please be aware that if you knowingly materially misrepresent that material or activity on the Website is infringing your copyright, you may be held liable for damages (including costs and attorneys’ fees) under Section 512(f) of the DMCA.
+(b) If you believe that material you posted was removed or access to it was disabled by mistake or misidentification, you may send Company a written counter notice according to the requirements of the DMCA and any other applicable law. Such DMCA counter notice must include substantially the following:
+your physical or electronic signature;
+an identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access disabled;
+adequate information by which Company can contact you (including your name, postal address, telephone number, and, if available, email address);
+a statement, under penalty of perjury, by you that you have a good faith belief that the material identified was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled; and
+a statement that you will consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located (or if you reside outside the United States for any judicial district in which the Website may be found) and that you will accept service from the person (or an agent of that person) who provided us with the complaint at issue.
+The DMCA allows us to restore the removed content if the party filing the original DMCA notice does not file a court action against you within 10 business days after receiving the copy of your counter notice.
+Our designated copyright agent to receive all DMCA notices is:
+General Counsel
+CoStar Realty Information, Inc.
+1201 Wilson Boulevard
+Arlington, VA 22209
+Phone:
+202-346-6500
+Email:
+copyright@costargroup.com
+17.
+No Warranties
+.
+ALTHOUGH COMPANY MAKES EFFORTS TO PROVIDE AN ACCURATE PRODUCT, THE PRODUCT AND ALL PARTS THEREOF ARE PROVIDED “AS IS”, “WITH ALL FAULTS” AND “AS AVAILABLE”. THE COMPANY PARTIES DO NOT MAKE, AND HEREBY EXPRESSLY EXCLUDE AND DISCLAIM, ANY AND ALL REPRESENTATIONS, WARRANTIES OR GUARANTEES OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION (a) MERCHANTABILITY, FITNESS FOR ORDINARY PURPOSES AND FITNESS FOR A PARTICULAR PURPOSE, WORKMANLIKE EFFORT, QUIET ENJOYMENT AND NO ENCUMBRANCES OR LIENS, (b) THE QUALITY, ACCURACY, TIMELINESS OR COMPLETENESS OF THE PRODUCT, (c) THOSE ARISING THROUGH COURSE OF DEALING, COURSE OF PERFORMANCE OR USAGE OF TRADE, (d) THE PRODUCT CONFORMING TO ANY FUNCTION, DEMONSTRATION OR PROMISE BY ANY OF THE COMPANY PARTIES, (e) THAT ACCESS TO OR USE OF THE PRODUCT WILL BE UNINTERRUPTED, ERROR-FREE OR COMPLETELY SECURE, AND (f) AS TO ANY TITLE OR NON-INFRINGEMENT. ANY RELIANCE UPON THE PRODUCT IS AT YOUR OWN RISK.
+BY VIEWING, USING OR ACCESSING THE PRODUCT, INCLUDING BY USING ANY TOOL, FORM OR AGREEMENT PROVIDED ON THE SITE, OR BY UPLOADING ANY OTHER FORM OR AGREEMENT TO THE SITE, YOU (i) ACKNOWLEDGE THAT COMPANY IS NOT A PARTY TO THE TRANSACTION CONTEMPLATED BY SUCH FORM OR AGREEMENT, (ii) AGREE THAT THESE TERMS OF USE, INCLUDING THE WARRANTY DISCLAIMERS, LIMITATIONS OF LIABILITY AND INDEMNIFICATION SET FORTH IN THESE TERMS OF USE APPLY TO SUCH TOOLS, FORMS AND AGREEMENTS AND YOUR USE THEREOF, AND (iii) ACKNOWLEDGE THAT COMPANY PARTIES MAKE NO REPRESENTATIONS OR WARRANTIES AS TO THE SUFFICIENCY, LEGAL EFFECT OR ENFORCEABILITY OF ANY SUCH TOOLS, FORMS AND AGREEMENTS AND BY YOUR USE OF THE SAME YOU CONFIRM THAT YOU HAVE MADE YOUR OWN INDEPENDENT ANALYSIS OF THE SUFFICIENCY, LEGAL EFFECT AND ENFORCEABILITY OF ANY SUCH TOOLS, FORMS AND AGREEMENTS WITHOUT RELIANCE UPON COMPANY OR COMPANY PARTIES. FURTHER, YOU ACKNOWLEDGE AND AGREE THAT COMPANY PARTIES MAKE NO REPRESENTATIONS OR WARRANTIES AS TO THE SUFFICIENCY, LEGAL EFFECT OR
+ENFORCEABILITY OF ANY ELECTRONIC SIGNATURES INCLUDING WITHOUT LIMITATION WHAT LAW MAY GOVERN ANY SUCH ELECTRONIC SIGNATURES AND YOU CONFIRM THAT YOU HAVE MADE YOUR OWN INDEPENDENT ANALYSIS OF THE SUFFICIENCY, LEGAL EFFECT, GOVERNING LAW AND ENFORCEABILITY OF ANY SUCH ELECTRONIC SIGNATURES.
+ANY DOCUMENTS, PICTURES, OR OTHER INFORMATION AVAILABLE THROUGH THE SERVICE ARE FOR INFORMATIONAL PURPOSES ONLY, AND MAY NOT REPRESENT THE CONDITION OF A PROPERTY, OR THE PRESENCE OR CONDITION OF ANY ITEMS ON THE PROPERTY, AT ANY GIVEN TIME, INCLUDING WITHOUT LIMITATION AT THE TIME OF LISTING OR ANY TRANSACTION. YOU ARE ENCOURAGED TO CONDUCT YOUR OWN DUE DILIGENCE AND INVESTIGATE ALL MATTERS RELATING TO ANY PROPERTIES. YOU SHOULD SEEK INDEPENDENT ADVICE, INCLUDING LEGAL ADVICE, TO PERFORM YOUR DUE DILIGENCE AND THAT YOU USE GOOD FAITH EFFORTS IN DETERMINING THAT THE CONTENT OF ALL INFORMATION PROVIDED TO OR OBTAINED BY YOU IS ACCURATE.
+18.
+Limitation on Liability
+.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COMPANY PARTIES WILL NOT BE LIABLE FOR ANY LOSS, COST OR DAMAGE SUFFERED OR INCURRED BY YOU OR ANY THIRD PARTY INCLUDING WITHOUT LIMITATION THOSE ARISING OUT OF OR RELATED TO ANY FAULTS, INTERRUPTIONS OR DELAYS IN THE PRODUCT, OR ANY INACCURACIES, ERRORS OR OMISSIONS IN THE INFORMATION CONTAINED IN THE PRODUCT, REGARDLESS OF HOW SUCH FAULTS, INTERRUPTIONS, DELAYS, INACCURACIES, ERRORS OR OMISSIONS ARISE, OR FOR ANY UNAUTHORIZED USE OF THE PRODUCT.
+NOTWITHSTANDING ANY PROVISION CONTAINED HEREIN TO THE CONTRARY, AND TO THE MAXIMUM EXTENT PERMISSIBLE BY LAW, IN NO EVENT WILL THE AGGREGATE, CUMULATIVE LIABILITY OF THE COMPANY PARTIES FOR ANY AND ALL REASONS TO ANY PARTY FOR DAMAGES, DIRECT OR OTHERWISE, ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OF USE, THE PRODUCT, OR A SEPARATE ADVERTISING AGREEMENT EXCEED THE TOTAL AMOUNT OF FEES ACTUALLY PAID TO COMPANY UNDER THE RELEVANT ADVERTISING AGREEMENT DURING THE 12-MONTH PERIOD IMMEDIATELY PRECEDING THE DATE SUCH CLAIM AROSE. RECOVERY OF THIS AMOUNT SHALL BE YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY APPLICABLE DAMAGES.
+TO THE MAXIMUM EXTENT PERMISSIBLE BY LAW, UNDER NO CIRCUMSTANCES WILL ANY OF THE COMPANY PARTIES BE LIABLE FOR LOST PROFITS HOWSOEVER ARISING OR FOR ANY INDIRECT, INCIDENTAL, PUNITIVE, EXEMPLARY, SPECIAL OR CONSEQUENTIAL OR ANY OTHER DAMAGES, INCLUDING WITHOUT LIMITATION, ANY SUCH DAMAGES ARISING OUT OF, BASED ON, RESULTING FROM, OR IN CONNECTION THESE TERMS OF USE, THE PRODUCT, OR YOUR USE OR INABILITY TO USE ANY OF THE FOREGOING, EVEN IF COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE EXCLUSION OF DAMAGES IN THIS PARAGRAPH IS INDEPENDENT OF THE EXCLUSIVE REMEDY DESCRIBED ABOVE AND SURVIVES IN THE EVENT SUCH REMEDY FAILS.
+NO ACTION ARISING OUT OF OR PERTAINING TO THESE TERMS OF USE MAY BE BROUGHT BY YOU MORE THAN ONE YEAR AFTER THE CAUSE OF ACTION HAS ARISEN. THE PROVISIONS OF THIS SECTION APPLY WITHOUT REGARD TO THE CAUSE OR FORM OF ACTION, WHETHER THE DAMAGES ARE GROUNDED IN CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY, OR ANY OTHER CAUSE OF ACTION.
+THE WAIVERS AND RELEASES SET FORTH IN THESE TERMS OF USE INCLUDE CLAIMS OF WHICH YOU ARE PRESENTLY UNAWARE OR WHICH YOU DO NOT PRESENTLY SUSPECT TO EXIST WHICH, IF KNOWN BY YOU, WOULD MATERIALLY AFFECT YOUR WAIVER AND RELEASE SET FORTH ABOVE.
+IF YOU ARE A CALIFORNIA RESIDENT, YOU SPECIFICALLY WAIVE CALIFORNIA CIVIL CODE SECTION 1542, WHICH SAYS: “A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE AND THAT, IF KNOWN BY HIM OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR RELEASED PARTY.”
+THE NEGATION OF DAMAGES SET FORTH ABOVE IS A FUNDAMENTAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN COMPANY AND YOU. THE PRODUCT WOULD NOT BE PROVIDED TO YOU WITHOUT SUCH LIMITATIONS. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM COMPANY THROUGH THE PRODUCT CREATE ANY WARRANTY, REPRESENTATION AND/OR GUARANTEE NOT EXPRESSLY STATED IN THESE TERMS OF USE.
+19.
+Indemnification
+.
+You agree to defend, indemnify, and hold harmless the Company Parties from and against any third party action, suit, claim or demand and any associated losses, expenses, damages, costs and other liabilities (including reasonable attorneys’ fees), arising out of or relating to your (and your users’) Submitted Content, use or misuse of any portion of the Product, or your violation of these Terms of Use. You shall cooperate as fully as reasonably required in the defense of any such claim or demand. If the foregoing indemnity is unavailable to any of the Company Parties with respect to any claim, demand or action under any laws, rules or regulations for any reason, Company shall be entitled to seek in a court of competent jurisdiction your contribution to such claim, demand or action under any legal or equitable theories available to it.
+20.
+Assignment
+.
+Your obligations hereunder are binding on your successors, legal representatives and assigns. You may not assign, sublicense or otherwise transfer (by operation of law or otherwise) these Terms of Use, or any rights to use the Product, in whole or in part, without the prior written consent of Company.
+21.
+Privacy
+.
+(a)
+Use
+of the Product is subject to the Privacy Notice, which is hereby incorporated into, and made part of, these Terms of Use.
+(b) You grant Company the right to market or list your name or company name as a user or searcher on the Website.
+(c) Company may send to you and your employees communications Company determines may be relevant to you, including without limitation communications about new features or products, available Listings, product updates and other marketing content. You may opt out of marketing messages to the extent required by law.
+(d) Company prohibits the use of its system or its tools to generate or send unsolicited commercial email or any commercial email that would violate the anti-spam law or regulation of any country. By using Company’s email services, you agree to include a link to your privacy policy and a functioning unsubscribe mechanism required by law, and that you will give effect to any request to unsubscribe from receiving future commercial emails, as required by law. Company has the right, but not the obligation, to revoke the privileges of any party who breaches these terms.
+(e) Company is committed to respecting the privacy of your personal information in connection with your use of the Website. Company takes great care to keep your personal information confidential and secure. However, the Internet is not a totally secure medium of communication. For this reason, Company cannot guarantee the privacy of any information you input on the Website, send to Company, or request be delivered to you on the Internet. Company will not be responsible for any damages you or others may suffer as a result of the loss of confidentiality of any such information.
+22.
+Website Auditing and Monitoring
+.
+Company reserves the right to audit and monitor (manually or through automated means) the use of the Product and the Website to ensure compliance with these Terms of Use, to screen, block, filter, edit or remove content, and to maintain and improve the Product and the Website. You acknowledge, consent, and agree that we may access, preserve, and disclose information about your use of the Product and the Website, including without limitation your communications and Submitted Content, if required to do so by law or in a good faith believe that such access, preservation, or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce these Terms of Use; (c) respond to claims that any Submitted Content violates the rights of third parties; (d) respond to your requests for customer service; or (e) protect the rights, property or personal safety of us, our users and the public.
+23.
+Notices
+.
+Except as otherwise expressly provided herein, all notices to Company given hereunder must be in writing and delivered by registered or certified mail (return receipt requested, where available) or delivered by a well-recognized overnight courier company to CoStar Realty Information, Inc., 1201 Wilson Boulevard, Arlington VA 22209, attention General Counsel.
+24.
+Force Majeure
+.
+None of the Company Parties shall have any liability for any damages resulting from any failure to perform any obligation hereunder or from any delay in the performance thereof due to causes beyond Company’s control, including industrial disputes, acts of God or government, public enemy, war, fire, pandemic, epidemic, other casualty, failure of any link or connection whether by computer or otherwise, or failure of technology or telecommunications or other method or medium of storing or transmitting the Product.
+25.
+Choice of Law; Jurisdiction
+.
+These Terms of Use and your use of this Product shall be governed by and construed under the laws of Delaware without regard to choice of law principles. Unless otherwise agreed to in writing, the federal and state courts located in Virginia shall be the exclusive jurisdiction for any action brought against Company in connection with these Terms of Use or use of the Product. You irrevocably consent to the jurisdiction and venue of the federal and state courts located in Virginia, and to the jurisdiction of the federal, provincial and/or state courts located in any State or Province where you are located, for any action brought against you in connection with these Terms of Use or use of the Product.
+EACH PARTY HEREBY KNOWINGLY, VOLUNTARILY, AND INTENTIONALLY WAIVES ITS RIGHT TO PARTICIPATE IN A CLASS OR COLLECTIVE ACTION AGAINST THE OTHER PARTY IN ANY DISPUTE OR PROCEEDING (WHETHER BASED ON CONTRACT, STATUTE, TORT, OR ANY OTHER THEORY).
+26.
+Export Restrictions
+.
+The Website is controlled and operated by Company from its offices within the United States. Company makes no representation that any portion of the Product or other material accessed through the Website is appropriate, enforceable, compliant with local law, or available for use, in other locations, and access to them from other countries where their contents are illegal is prohibited. If any material in this Product, or your use of the Product, is contrary to the laws of the place where you are when you access it, or if Company is not licensed as required by applicable laws or regulations in such locale, the Product is not intended for you, and Company asks you not to use the Product. You are responsible for informing yourself of, and complying with, the laws of your jurisdiction. You may not export or re-export any portion of the Product except in full compliance with all applicable laws and regulations, these Terms of Use, and, if applicable, the associated Advertising Agreement. In particular, no portion of the Product may be exported or re-exported in violation of the sanctions, export control laws and regulations of any applicable country, or exported or re-exported into (or to a national or resident of) any country to which the United States embargoes goods, or to anyone on the United States Treasury Department’s list of Specially Designated Nationals or the United State Commerce Department’s Table of Denial Orders.
+27.
+Changes to these Terms of Use
+.
+Company reserves the right, in Company’s complete and sole discretion, to change these Terms of Use at any time by posting revised terms on the Product. It is your responsibility to check periodically for any changes Company may make to the Product and these Terms of Use. Your continued use of this Product following the posting of changes to these terms or other policies means you accept the changes.
+28.
+Miscellaneous
+.
+(a) The parties are independent contractors, and nothing in these Terms of Use will create any partnership, joint venture, agency, franchise, sales representative, or employment relationship between them.
+(b) These Terms of Use contain the entire understanding of the parties with respect to the Product and supersede any prior oral or written statements and documents with respect to such subject matter, provided that these Terms of Use do not supersede any written Advertising Agreement between the parties.
+(c) The failure of Company at any time to require full performance of any provision hereof will in no manner affect Company’s right at a later time to enforce the same.
+(d) Each party acknowledges its responsibilities in accordance with applicable anti-bribery and anti-corruption legislation, and represents and warrants that it has not, and will not offer, give, solicit or accept any bribe from any person, organization or company with the intent to coerce or induce a person, organization or company to act improperly in the course of their duties.
+(e) If any provision of these Terms of Use not being of a fundamental nature is held to be invalid, illegal or unenforceable, the validity, legality and enforceability of the remainder of these Terms of Use will not be affected. If a provision is held to be invalid, illegal or otherwise unenforceable, it shall be deemed to be replaced with an enforceable provision that retains the intent and benefits of the original provision.
+(f) Headings are for reference only.
+(g) Any provision of these Terms of Use that by its nature should survive expiration or termination of these Terms of Use shall survive expiration or termination of these Terms of Use, including without limitation restrictions imposed on you with respect to information or materials viewed and/or downloaded in respect of the Product and the disclaimers, indemnities, waivers, releases and limitations of liabilities set forth herein.
+(h) The English language version of these Terms of Use shall be binding. Any translated version is for convenience only, and shall not control the meaning or application of these Terms of Use.
+(i) The use of and access to the Product is available only to individuals who can enter into legally binding contracts under applicable law.
+(j) The Website is intended to provide information about real estate and Company. The information and services offered on or through the Website are provided solely for general business information, do not constitute real estate, legal, tax, accounting, investment or other professional advice, or an offer to sell or lease real estate, and may not be used for or relied upon for these purposes. No lawyer-client, advisory, fiduciary or other relationship is created by your accessing or using the Website or communicating by way of email or chat through the Website.
+Company subscriptions are for business purposes only, and not for personal, family or household purposes.
+You shall not use information and services offered on or through the Website to determine an individual’s eligibility for credit, insurance, employment, or government license or benefit. You shall also not use the Website in any way that is intended to cause information therein to constitute a “consumer report” under the Fair Credit Reporting Act, 15 U.S.C. § 1681 et seq. or in any other manner that is intended to be construed as a consumer report by any governmental authority.
+29.
+Jurisdiction-Specific Clauses
+.
+(a)
+Outside of the United States, Canada, the Caribbean, and China.
+For users located outside of the United States, Canada, the Caribbean, and China only, the following additional provisions shall apply, and in the event of a conflict, shall supersede any conflicting provision in these Terms of Use:
+The defined term “Company” shall mean CoStar UK Limited and/or any of its subsidiaries.
+These Terms of Use, and any dispute or claim (including without limitation non-contractual disputes or claims) arising out of or in connection with it or its subject matter or formation shall be governed by, and construed in accordance with, the law of England and Wales. Each party irrevocably agrees that, for the sole benefit of Company and subject as provided in this paragraph, the courts of England and Wales shall have exclusive jurisdiction to settle any dispute or claim (including without limitation non-contractual disputes or claims) arising out of or in connection with these Terms of Use or their subject matter or formation. Nothing in these Terms of Use shall limit the right of Company to take proceedings against you in any other court of competent jurisdiction, nor shall the taking of proceedings by Company in any one or more jurisdictions preclude the taking of proceedings by Company in any other jurisdictions, whether concurrently or not, to the extent permitted by the law of such other jurisdiction.
+NOTHING IN THESE TERMS OF USE SHALL EXCLUDE OR LIMIT A PERSON’S LIABILITY FOR DEATH OR PERSONAL INJURY CAUSED BY ITS NEGLIGENCE, FOR FRAUD, OR FOR ANY LIABILITY THAT CANNOT BE LIMITED OR EXCLUDED BY LAW.
+You acknowledge that Company is not authorised by the Financial Conduct Authority in the United Kingdom.
+All notices to Company given hereunder must be in writing and delivered by registered mail or delivered by a well-recognized overnight courier company to CoStar UK Limited, c/o Corporation Service Company (Uk) Limited, 5 Churchill Place, 10th Floor, London, United Kingdom, E14 5HU.
+(b)
+European Economic Area, Switzerland, or United Kingdom.
+For users located in the European Economic Area, Switzerland or United Kingdom, if Company processes personal data on your behalf (e.g., if you send emails to contacts through Company's platform for certain products or features), then the Data Processing Addendum located at
+https://www.costar.com/about/terms-conditions-costar-dpa
+shall apply to all such processing undertaken by Company on your behalf.
+(c)
+European Union.
+We use recommender systems to provide the user with a better experience through more relevant recommendations. This applies to our search results. The display of search results on the Website depends on a variety of factors. For instance, the following factors have an impact on how search results are ranked:
+Listing level (for example, Signature Listings will sort higher than non-Signature Listings, and higher value Signature Listings will sort higher than lower value Signature Listings);
+price paid by the advertiser (for example, an advertiser who pays more may sort higher);
+property rating or size (for example, a property with a higher rating or larger size may sort higher);
+quantity of information in the Listing (for example, Listings with photos will sort higher than Listings without photos, and Listings with displayed addresses will sort higher than Listings without displayed addresses);
+recency of the Listing (newer Listings may sort higher than older Listings); and
+user’s location (for example, a user in a particular location may default to seeing properties in that location).
+You may influence how the search results are ranked at any time by filtering search results using various filters, such as: location, property type, property size, etc. A user’s search parameters will have the largest impact on search results in order to produce the most relevant results that you are looking for. You may also sort results using various sorting tools on the Website using various sorting tools, such as “Newest”, “Oldest”, “City”, “Has Video”, etc.
+Last Revised: May 7, 2025
+Advertise Now
+Connect with us
+© 2026 CoStar Group
+Search
+Properties For Sale
+Properties For Lease
+Businesses For Sale
+Find a Broker
+Products & Services
+Advertise With Us
+LoopLink
+Help
+Marketplace
+Showcase
+CityFeet
+Bureaux Locaux
+Land.com
+BizBuySell
+Apartments.com
+Homes.com
+Resources
+Contact Us
+Mobile
+Site Map
+CRE Explained
+Company
+About Us
+Careers
+Terms of Use
+Privacy Notice
+Cookie Policy
+Exercise Your Rights
+Licensing
+Accessibility Commitment

@@ -1,0 +1,60 @@
+Mathematica Terms and Conditions :  TechWeb : Boston University
+Skip to search form
+Skip to main content
+Go to the homepage
+Skip to service alerts
+Important alerts
+
+Turnitin – students unable to view grades or feedback
+Incident Discovery Time: 03:35pm on 02/25/2026 Services Impacted: Assessment Systems Description of Impact Turnitin is experiencing a known issue where students can’t view their grades or feedback within the Tii platform. Current Status IS&T teams have not yet identified the cause of the incident, but are investigating with the vendor. Additional Information Students can still…
+[read more]
+Breadcrumb navigation
+
+Home
+···
+Services
+Client Computing & Collaboration
+Desktop Computing
+Software Licensing & Distribution
+Mathematical & Scientific Software
+Mathematica
+Terms and Conditions
+x
+Mathematica Terms and Conditions
+These terms and conditions are what Affiliated Individuals must agree to as part of the Academic Site License Agreement between Wolfram Research, Inc. and Boston University. Some terms of the Mathematica
+License Agreement
+are superseded by these terms and conditions.
+Definitions
+This license allows use of the Mathematica software to individuals affiliated with Boston University. An Affiliated Individual is: any person who a faculty member, staff member, student, or academic guest of the University.
+All Affiliated Individuals can use the software and documentation obtained under this agreement on Eligible Computers, computers owned or leased by Boston University and normally located in a Boston University-owned facility. The purpose must be solely for the use or support of instruction and academic research.
+In addition, there are two types of licenses for personally owned "home" computers: for Students and for all other Affiliated Individuals.
+In each case, the Eligible Student Home User or the Eligible Faculty Home User, can use the software and documentation on a computer owned by them, and used primarily for the use or support of instruction and academic research.
+Mathematica software may also be installed on a portable computer or a computer located at the residence of an Eligible Home User. Again, the software is for the sole use of the Eligible Home User and is used primarily for teaching and/or research.
+Agreement with Wolfram
+I agree not to copy any documentation that has been copyrighted by Wolfram Research, Inc. (WRI). Copying documentation is not legal under this site license. I also understand that hard-copy documentation is not distributed as part of this site license program. However, a substantial amount of HTML documentation is available at
+WRI Indexbook
+.
+I agree not to copy, modify, lease, loan, rent, or distribute WRI software and documentation. I agree not to provide access to Mathematica software, including pass codes for the software, to individuals who are not Affiliated Individuals.
+I agree not to use WRI software or media granted to me under this site license for commercial or income purposes. Use of the software granted under this agreement is strictly restricted to instruction and academic research use.
+I agree not to decompile the object code portion of the products. I agree that the right, title or intellectual property rights embodied in or associated with the products reside with WRI.
+I agree to remove the software from my computer when I become non-affiliated with Boston University. Not doing so is a breach of this contract.
+BU Conditions
+Boston University maintains a Mathematica email list of all Affiliated Users, registered with Wolfram Research and/or the University, to occasionally notify them of new features and/or technical issues with the software.
+Technical support to end users of Mathematica at Boston University is provided initially by local support personnel ( the systems administrator or consultant for the department or the system on which Mathematica executes). Licensing and purchasing questions are handled by wri-site-admin@bu.edu.
+See Also
+Linux Virtual Lab
+Contact Us
+
+617-353-HELP (4357)
+
+ithelp@bu.edu
+•
+Contact Us
+•
+Feedback
+•
+Privacy Statement
+RSS
+ATOM
+@buithelp
+@bumcit

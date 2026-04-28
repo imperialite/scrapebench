@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /app/download
+Disallow: /app/
+Disallow: /chat/
+
+Sitemap: https://gemini.google.com/sitemap.xml

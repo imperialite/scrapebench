@@ -1,0 +1,18 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /articles/preview/
+Disallow: /articles/search/
+Disallow: /deckpreview/
+
+Sitemap: https://edhrec.com/articles/sitemap.xml
+Sitemap: https://edhrec.com/sitemaps/cards.xml
+Sitemap: https://edhrec.com/sitemaps/combos.xml
+Sitemap: https://edhrec.com/sitemaps/combos-details.xml
+Sitemap: https://edhrec.com/sitemaps/tags.xml
+Sitemap: https://edhrec.com/sitemaps/average-decks.xml
+Sitemap: https://edhrec.com/sitemaps/commanders.xml
+Sitemap: https://edhrec.com/sitemaps/decks.xml
+Sitemap: https://edhrec.com/sitemaps/commanders-tags.xml
+Sitemap: https://edhrec.com/sitemaps/average-decks-tags.xml
+Sitemap: https://edhrec.com/sitemaps/decks-tags.xml
+Sitemap: https://edhrec.com/sitemaps/everything-else.xml

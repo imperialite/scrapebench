@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /search/
+Disallow: /*?*sort=
+Disallow: /*?*jw_start=
+Disallow: /*?*amenity=
+Disallow: /*?*utm_
+
+Sitemap: https://www.moviefone.com/sitemaps/movies-sitemap.xml
+Sitemap: https://www.moviefone.com/sitemaps/shows-sitemap.xml
+Sitemap: https://www.moviefone.com/sitemaps/celebrity-sitemap.xml
+Sitemap: https://www.moviefone.com/sitemaps/videos-sitemap.xml
+Sitemap: https://www.moviefone.com/sitemaps/keywords-sitemap.xml
+Sitemap: https://www.moviefone.com/sitemaps/news-sitemap.xml

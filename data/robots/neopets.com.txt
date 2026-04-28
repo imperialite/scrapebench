@@ -1,0 +1,25 @@
+User-agent: *
+Crawl-delay: 60
+Disallow: /objects.phtml
+Disallow: /signup/*
+Disallow: /*process_*
+
+User-agent: *
+Allow: /ads.txt
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: proximic
+Disallow:
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Mediapartners-Google
+Allow: /objects.phtml
+Disallow: /signup/*
+Disallow: /*process_*
+
+User-agent: IAB-Tech-Lab
+Allow: /ads.txt

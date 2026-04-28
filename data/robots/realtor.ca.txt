@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Noindex: /sitemap/*
+Noindex: /sitemap.xml

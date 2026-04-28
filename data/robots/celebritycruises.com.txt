@@ -1,0 +1,13 @@
+User-agent: *
+Sitemap: https://www.celebritycruises.com/sitemap.xml
+Disallow: /spacontent/
+Disallow: /_jcr_content/
+Disallow: /modern-luxury/*
+Disallow: /account/
+Disallow: /checkin/
+Disallow: /find-your-reservation/
+Disallow: /pcp-reservation/
+Disallow: /search/
+Disallow: /booking/
+Disallow: /booking-cruise/*
+Disallow: /refreshed-hp

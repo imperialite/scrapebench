@@ -1,0 +1,47 @@
+User-agent: *
+Disallow: */my-account*
+Disallow: */*?callingPageUrl*
+Disallow: */*?Country=*
+Disallow: */international-delivery
+Disallow: */archivelot*
+Disallow: */*?preview*
+Disallow: */*&preview*
+Disallow: */url-for-lot-number*
+Disallow: */timed-bid-details*
+Disallow: */sitemap.xml.gz/* 
+Disallow: *.well-known*
+Disallow: */favourite-auctioneers*
+Disallow: */signupwizard*
+Disallow: */login*
+Disallow: */buyitnow*
+
+
+Disallow: */*?pgSearchTerm*
+
+
+
+
+
+
+
+
+
+Disallow: */en-gb*
+Disallow: */fr-fr*
+Disallow: */de-de*
+Disallow: */search-filter*
+
+
+
+
+Sitemap: https://www.bidspotter.com/sitemapindex
+Sitemap: https://www.bidspotter.com/lots_sitemapindex
+Sitemap: https://www.bidspotter.com/auctions_sitemapindex
+Sitemap: https://www.bidspotter.com/categories_sitemapindex
+Sitemap: https://www.bidspotter.com/filteredpages_sitemapindex
+Sitemap: https://www.bidspotter.com/auctioneers_sitemapindex
+
+
+
+
+Sitemap: https://www.bidspotter.com/secondary_categories_sitemapindex

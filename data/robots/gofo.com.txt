@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://www.gofo.com/sitemap.xml
+Sitemap: https://www.gofo.com/us/sitemap.xml

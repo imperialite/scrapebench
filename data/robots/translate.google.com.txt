@@ -1,0 +1,15 @@
+User-agent: Mediapartners-Google*
+Disallow:
+
+User-agent: *
+Disallow: /m?
+Disallow: /m/?
+Disallow: /translate
+Disallow: /translate_a
+Disallow: /translate_suggestion
+Disallow: /translate_t
+Disallow: /toolkit/
+Disallow: /manager/
+Disallow: /globalmarketfinder/
+Allow: /globalmarketfinder/*.html
+Sitemap: http://translate.google.com/sitemap.xml

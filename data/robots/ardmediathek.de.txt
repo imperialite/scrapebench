@@ -1,0 +1,123 @@
+User-agent: *
+Disallow: /tp/
+Disallow: /t/
+Disallow: /embed/
+Disallow: /subtitle/
+Disallow: /tv/
+Disallow: /*?externalUrl=
+Disallow: /*?externalArdPlusUrl=
+
+Sitemap: https://www.ardmediathek.de/detailsitemap.xml
+Sitemap: https://www.ardmediathek.de/videositemap.xml
+
+User-agent: Amazonbot
+Disallow: /
+
+# Anthropic
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-User
+Disallow: /
+
+User-agent: Claude-SearchBot
+Disallow: /
+
+User-agent: claude-web
+Disallow: /
+
+# Apple
+User-agent: Applebot-Extended
+Disallow: /
+
+# ByteDance
+User-agent: Bytespider
+Disallow: /
+
+User-agent: TikTokSpider
+Disallow: /
+
+# Cohere
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: cohere-training-data-crawler
+Disallow: /
+
+# Common Crawl
+User-agent: CCBot
+Disallow: /
+
+# Diffbot
+User-agent: DiffBot
+Disallow: /
+
+# DuckDuckGo
+User-agent: DuckAssistBot
+Disallow: /
+
+# Google
+User-agent: Google-Extended
+Disallow: /
+
+# Huawei
+User-agent: PetalBot
+Disallow: /
+
+User-agent: PanguBot
+Disallow: /
+
+# Meta
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+# Mistral
+User-agent: MistralAI-User
+Disallow: /
+
+# OpenAI
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: ChatGPT-User/2.0
+Disallow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Perplexity-User
+Disallow: /
+
+# Webz.io
+User-agent: omgili
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: Webzio-Extended
+Disallow: /
+
+# You.com
+User-agent: YouBot
+Disallow: /
+
+# Zyte
+User-agent: Scrapy
+Disallow: /

@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /todays-hurdle
+Disallow: /hurdle
+Disallow: /games/hurdle
+Disallow: /games/todays-hurdle
+Disallow: /es/juegos/todays-hurdle
+Disallow: /fr/jeux/todays-hurdle
+Disallow: /it/giochi/todays-hurdle
+Disallow: /de/spiele/todays-hurdle
+Disallow: /en-us/games/todays-hurdle
+Disallow: /en-gb/games/todays-hurdle
+Disallow: /en-au/games/todays-hurdle
+Disallow: /en-nz/games/todays-hurdle
+Sitemap: https://games.usatoday.com/sitemap.xml

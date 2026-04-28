@@ -1,0 +1,42 @@
+# Start with the most specific user agents.
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: GrapeshotCrawler
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: peer39_crawler/1.0
+Disallow: /
+
+User-agent: carbon-umbrella-bot/1.0
+Disallow: /
+
+User-agent: CriteoBot/0.1
+Disallow: /
+
+User-agent: ias-ie/3.3
+Disallow: /
+
+User-agent: Verity/1.1
+Disallow: /
+
+User-agent: weborama-fetcher
+Disallow: /
+
+User-agent: *
+Disallow: /*directory
+Disallow: /*expire
+Disallow: /*cache
+Disallow: /profile/*
+Disallow: */athletes/*
+Disallow: /*/leaderlist*
+Disallow: /*/allleaderlist*
+Disallow: /*/leaders*
+Disallow: /*/calendar*
+Crawl-Delay: 10

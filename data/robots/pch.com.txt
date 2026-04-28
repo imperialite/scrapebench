@@ -1,0 +1,7 @@
+User-agent: * 
+Disallow: /video-entryconfirmation 
+Disallow: /video-entryconfirmation-sweeps 
+Disallow: /videoentryconfirmation 
+Disallow: /entryconfirmation 
+Disallow: /promo-entryconfirmation 
+Disallow: /video-interstitial

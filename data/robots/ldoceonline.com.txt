@@ -1,0 +1,24 @@
+
+
+User-agent: AmazonAdBot
+Disallow: /autocomplete/
+Disallow: /autocomplete
+
+User-agent: proximic
+Disallow:
+
+User-agent: *
+
+Sitemap: https://www.ldoceonline.com/sitemap.xml
+
+Disallow: /spellcheck/
+Disallow: /autocomplete/
+Disallow: /spellcheck
+Disallow: /autocomplete
+
+User-agent: Verity/1.1
+Crawl-delay: 3
+
+User-agent: SirdataBot
+Crawl-delay: 3
+

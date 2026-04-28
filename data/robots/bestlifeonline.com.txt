@@ -1,0 +1,18 @@
+User-agent: AmazonAdBot
+Allow: /?s=
+Allow: /page/*/?s=
+
+User-agent: *
+Disallow: /search/
+Disallow: /?s=
+Disallow: /page/*/?s=
+Disallow: *&s=
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+# ---------------------------
+# END YOAST BLOCK
+Sitemap: https://bestlifeonline.com/sitemap.xml
+Sitemap: https://bestlifeonline.com/google-news.xml

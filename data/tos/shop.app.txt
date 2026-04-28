@@ -1,0 +1,157 @@
+Shopify Consumer Terms of Service
+Last Updated: March 2, 2026
+
+1. Preamble
+1.1 Welcome to Shopify! Shopify helps make it easier for you to shop and manage your purchases and to find products you love. These Terms apply when you access, use or interact with Shopify and our consumer services (collectively, "Shopify Consumer Services"). Shopify Consumer Services include Shopify's shopping mobile and web application ("Shop"), Shopify's accelerated checkout option ("Shop Pay"), Shopify's features and services on Merchants' storefronts or third party sites, integrations between Shopify and your third-party email and shopping providers and other products, features, contents, websites, tools, and services that we provide to you.
+
+1.2. These Terms form an agreement between the applicable Shopify entity defined below ("Shopify," "Shop," "we," "our," or "us") and you ("you" or "your") and represent the terms and conditions of your access to and use of the Shopify Consumer Services. The Shopify entity you contract with, and that provides the Shopify Consumer Services to you, together with its affiliates, depends on where you live:
+
+If you live in the United States or Canada, you are contracting with Shopify Inc., a Canadian corporation, with offices located at 151 O'Connor Street, Ground floor, Ottawa, Ontario, K2P 2L8 and, where the Shopify Consumer Services include payment activities that are regulated under the Canadian Retail Payment Activities Act, Shopify Payment Activities Inc., a Canadian corporation, with offices located at 151 O'Connor Street, Ground floor, Ottawa, Ontario, K2P 2L8.
+If you live in the Asia Pacific region (including Australia, New Zealand, China, Japan, Singapore), you are contracting with Shopify Commerce Singapore Pte. Ltd, a corporation formed under the laws of Singapore, with offices located at 77 Robinson Road, #13-00 Robinson 77, Singapore 068896.
+If you live in the EMEA region or other jurisdictions not listed above, including Europe and Russia, the Middle East, Africa, South America, Caribbean, or Mexico, you are contracting with Shopify International Limited, a private company limited by shares, incorporated in Ireland under registration number 560279, with its registered offices located at 2nd Floor Victoria Buildings, 1-2 Haddington Road, Dublin 4, D04 XN32, Ireland, VAT number IE 3347697KH and its website is at https://www.shopify.com/.
+1.3. By accessing or using any of the Shopify Consumer Services, you agree to be bound by these Terms.
+
+1.4. Our Consumer Privacy Policy describes how we collect and use your Personal Data to provide the Shopify Consumer Services and is part of these Terms and your agreement with Shopify.
+
+2. The Services We Provide To You
+2.1. We provide the Shopify Consumer Services to further our mission of making shopping better for everyone, including by helping you:
+
+2.1.1. Connect with Merchants: Shopify helps you discover, browse, and shop at merchants that use Shopify's services ("Merchants"). Using Shopify Consumer Services, you can browse products and make purchases easily from Merchants around the globe, from their storefront or from Shop. You can also see and share product ratings with other Shopify users to help you make informed decisions when you shop.
+
+2.1.2. Experience a simpler, faster and more streamlined shopping experience: Shopify makes it easier and faster for you to shop with Merchants in various ways, such as by providing Shop Pay, providing personalized product recommendations based on your purchase and browsing history, and syncing your shopping activity between Shop and Merchant stores.
+
+2.1.3. Manage your purchases in one place: Shopify provides updates about the status of your purchases from Merchants and makes it possible for you to find and manage details about all of your purchases in one place in Shop, such as tracking the location, status, and delivery of items you have purchased, and letting you know when you have received a refund from a Merchant. If you choose to allow Shopify access to third-party email providers and third-party shopping partners you use, Shopify will also provide order updates of items you have purchased, including from non-Merchants.
+
+2.1.4. Find products we think you will love: Shopify customizes your online shopping experience on Shop and on Merchant stores and provides tailored product recommendations to you based on your use of Shopify Consumer Services, including by helping you discover new products, brands, and Merchants.
+
+2.1.5. Continuously improve your shopping experience wherever you shop: Shopify is continuously working to build and improve your shopping experience online and offline and to develop and add new and improved features for you based on how you use our services.
+
+2.1.6. Participate in promotions or earn rewards: Shopify may provide opportunities for you to participate in promotional offers or to earn rewards through our Shop Rewards Program. If you participate in our Shop Rewards Program, the Shop Rewards Terms will apply.
+
+3. Your Commitments and Use of Shopify Consumer Services
+3.1. To be eligible to use Shopify Consumer Services, you must be at least eighteen years old or the age of majority in your country of residence. If you are using Shopify Consumer Services, you must be permitted to agree to these Terms under the laws of the country you live in, including having sufficient legal capacity. If you are a parent or guardian who allows your child under 18 to use Shopify Consumer Services on your account, you provide all consents necessary for your child's use of Shopify Consumer Services and agree to be legally responsible for all activity of your child on your account.
+
+3.2. You agree to provide truthful and accurate information about yourself when registering for and using Shopify Consumer Services, including your name and contact information, and you agree to keep this information updated and current.
+
+3.3. You agree not to share your Shopify password with others, give access to your Shopify account to others, or transfer your account to anyone else without our permission. If you think someone knows your account login details or has accessed your account without your permission, you should reset your password. You are solely responsible for the unauthorized use of your credentials. In the event of unauthorized access to your account, you must promptly notify Shopify.
+
+4. Use of Shop Pay
+4.1. When you choose to use Shop Pay, you are required to provide account and contact information and to link your Shop Pay account to a valid payment method. You warrant and represent that you are the legal owner of all payment accounts you provide and link to Shop Pay, and that all information you provide when signing up for Shop Pay is truthful, current and accurate.
+
+4.2. Shopify reserves the right to prohibit or restrict your ability to make transactions using Shop Pay at any time for any reason, without notice to you, or to request additional information from you before you can use or continue to use Shop Pay.
+
+4.3. Installment payments on Shop Pay are supported and managed by Third Party partner Affirm, and if you choose to pay in installments or to purchase and pay later when using Shop Pay, you are contracting with Affirm and eligibility determinations and repayment of your purchase obligation are governed by Affirm's terms of service, which are presented to you during checkout. Shopify is not a party to any agreement between you and Affirm, and expressly disclaims all liability with respect to such agreements.
+
+5. License, Prohibitions and Restrictions
+5.1. Shopify grants you a limited, non-exclusive, non-sublicensable, non-transferable, and revocable license to access and use the Shopify Consumer Services consistent with these Terms. You may not use the Shopify Consumer Services for any other purpose than as authorized. Shopify reserves all rights not expressly granted.
+
+5.2. In connection with using or accessing Shopify Consumer Services or interacting with Shopify, you agree to comply with these Terms, in addition to any other applicable Shopify terms and policies that may apply to your use of specific Shopify Consumer Services, and to comply with all applicable laws, regulations and rules that apply to your use of Shopify Consumer Services.
+
+5.3. In addition, you agree not to do (or help others to do) any of the following in connection with your use of Shopify Consumer Services or when shopping with a Merchant:
+
+5.3.1. You will not purchase or attempt to purchase products and services that are unlawful for you to purchase in your country of residence using Shopify Consumer Services or that breach or circumvent any applicable laws or regulations, including products that require you to be an age that you have not reached.
+
+5.3.2. You will not infringe or violate someone else's rights under Shopify's terms and policies or applicable laws and regulations, including their intellectual property rights, induce someone to infringe or violate Shopify's terms, or interfere with any person's or third party's use or enjoyment of the Shopify Consumer Services or Shopify's platform.
+
+5.3.3. You will not submit false, inaccurate, deceptive, or misleading information to Shopify or in connection with your use of the Shopify Consumer Services.
+
+5.3.4. You will not upload or transmit viruses or malicious code or take any action that would interfere with, disable, overburden, or impair the proper working, security, integrity, operation, appearance, or enjoyment of the Shopify Consumer Services, including by Merchants or other users.
+
+5.3.5. You will not compromise, interfere with, or circumvent any of the security or authorization access features that are part of the Shopify Consumer Services.
+
+5.3.6. You will not modify, translate, reverse engineer, disassemble, reconstruct, decompile, copy, or create derivative works of the Shopify Consumer Services.
+
+5.3.7. You will not use any robot, spider, scraper, data gathering and extraction tools, automatic devices or processes, AI tools (including but not limited to agentic AI) or automated or manual means to access, interact with, copy, or extract the Shopify Consumer Services for any purpose, except with Shopify's prior express permission.
+
+5.3.8. You will not bypass any robot exclusion headers or other measures we employ to monitor or restrict access to the Shopify Consumer Services.
+
+6. User Generated Content
+6.1. You are solely responsible for any content you submit, post, or display on or through the Shopify Consumer Services, including, but not limited to, any Product Reviews (as defined in these Terms), photos, comments, or your name/username (collectively, "UGC"). All UGC must comply with these Terms, applicable policies, laws and regulations. This includes, but is not limited to, laws concerning endorsements and advertising, which require transparent disclosure of any material connection between you and any commercial entity mentioned in your UGC.
+
+6.2. We encourage you to post feedback, comments and reviews about products you have purchased, which is an important part of the Shopify experience (collectively, "Product Reviews"). You agree that your reviews will be truthful, accurate and based on your actual experience with the product, will comply with our Product Review Policies and will comply with all applicable laws, regulations, and regulatory guidance. As a reminder, our Product Review Policies prohibit you from submitting reviews in exchange for money, discounts, free products or refunds. You agree that you will have no right to any payment or revenue participation from Shopify in connection with any such Product Reviews that you post when using the Shopify Consumer Services.
+
+6.3. We can take action, including through the use of automated tools, against UGC that violates these Terms, our policies, or where we are permitted or required by law, such as by removing, restricting, or limiting access to, or distribution of, the UGC. While Shopify reserves the right to remove UGC at any time and for any reason, we do not generally verify UGC for accuracy or endorse any opinions expressed therein and we are not responsible or liable to any third party for the content or accuracy of any UGC posted by you or any other user.
+
+6.4 You grant Shopify a worldwide, nonexclusive, royalty-free, perpetual, irrevocable, transferable, and fully sublicensable right to host, expose, run, use, store, reproduce, modify, adapt, publish, publicly perform and communicate (including by telecommunication), broadcast, make available, translate, copy, create derivative works from, distribute, and display your UGC, and related content, in any media, without limitation. You represent, warrant, and agree that you have all necessary rights to the UGC you submit, post or display to grant this license. You waive, in favor of Shopify, any moral rights you may have in all UGC. This means, for example, your UGC may appear publicly on Shop and may be shared with the Merchant whose product or service you are reviewing, where applicable. Use of your UGC by a Merchant outside of Shop is subject to that Merchant's own terms and policies, not these Terms. Shopify respects the valid intellectual property rights of others and any violative UGC can be removed at our discretion. If you believe that any UGC on Shop infringes your intellectual property rights, you can report it here. You can also learn more about our intellectual property policies here.
+
+7. Third-Party Services
+7.1 The Shopify Consumer Services may integrate with, or provide access to, services, features, or apps developed by third parties ("Third Party Services"). These Third Party Services are made available via Shopify but are developed and operated independently by third party developers or service providers (each, a "Third Party").
+
+7.2 Shopify is not responsible for any Third Party Services. You may choose to use, or sign up for, Third Party Services at your discretion and risk. Shopify's provision of access to Third Party Services does not imply endorsement, approval, or recommendation by Shopify of the Third Party or the Third Party Services. Any support, maintenance, or assistance for Third Party Services is provided by the respective Third Party, not by Shopify. Any disputes, claims, or issues arising from your use of a Third Party Service must be resolved directly with the Third Party. Shopify does not guarantee the functionality, security, reliability, or continued availability of any Third Party Service. Third Party Services may be modified, suspended, or discontinued by Shopify or the Third Party, with or without notice.
+
+7.3  Your use of any Third Party Services, including the handling of any Personal Data you share with a Third Party, is subject to the terms and privacy policy of the respective Third Party. It is your responsibility to review these documents carefully. By accessing or using a Third Party Service, you acknowledge and agree to be bound by such Third Party's terms and privacy policy.
+
+8. Shopify Rights
+8.1. Permission to update Shopify software: If you download or use Shopify's software, including Shop, you give Shopify permission to download and install updates to the software where available, including on services where software may update automatically on your device when a new version or feature becomes available. You may adjust your automatic update settings on some devices.
+
+8.2. Communications: To provide you with Shopify Consumer Services, Shopify may communicate with you via email, our messaging tools, or through text/short message service ("SMS") to the extent permitted by applicable law and/or consistent with your permissions. You're responsible for any mobile charges you may incur for using any of the SMS services, including text-messaging (e.g., SMS, MMS) and data charges.
+
+8.3. Marketing and Advertising: In addition, Shopify may market, advertise, and promote Shopify Consumer Services or Merchants' products or services to you on and off Shopify, including on third-party services.
+
+8.4. Access Third-Party Emails to provide Shopify Consumer Services: If you link your Shopify account with a third-party email service or third-party shopping platform for order tracking, you consent to give Shopify access to the contents of your emails and to your shopping history. Shopify only uses this information to provide Shopify Consumer Services to you, and does not use information obtained from third-party partners you integrate with Shopify to show or target advertising to you. You can revoke this consent at any time by de-linking these accounts in Shop.
+
+9. Merchants & Shopify's Role
+9.1. All Merchants use Shopify's platform for business purposes and are solely responsible for ensuring consumer rights.
+
+9.2. Shopify helps you find and improve your shopping experience with Merchants, but it is not a party to the purchase agreements you make with Merchants, nor is Shopify responsible for fulfilling transactions or products purchased through Merchants or using Shopify Consumer Services.
+
+9.3. As a provider of the Shopify Consumer Services, Shopify does not own, control, or manage any Merchant. You agree that Shopify is not liable or responsible for the actions, product, and content of Merchants. Purchases from Merchants are subject to the Merchant's terms of service and policies, and not these Terms.
+
+9.4. You may choose to use other businesses' services to support your purchases from Merchants, such as a third-party payment service or wallet to complete your purchase. Shopify is not a party to these transactions and is not responsible or liable for payment failure, fraud, or any other issues that may arise out of these transactions.
+
+10. Account Suspension and Termination
+10.1. Shopify retains the right to suspend or terminate your account and use of Shopify and the Shopify Consumer Services for any reason, including to investigate potential violations of these Terms.
+
+10.2. If you do not agree with our current Terms, you may discontinue your use of the Shopify Consumer Services at any time by closing all Shopify accounts, discontinuing your use of Shopify Consumer Services, and refraining from interacting with Shopify.
+
+11. Limitation of Liability; Disclaimer of Warranties
+11.1. DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITIES: TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOU EXPRESSLY UNDERSTAND AND AGREE THAT IN NO EVENT WILL SHOPIFY, ITS AFFILIATES, SUBSIDIARIES, EMPLOYEES, AGENTS, SUPPLIERS OR INDEPENDENT CONTRACTORS (THE "DISCLAIMING ENTITIES") BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR INTERRUPTION, LOSS OF INCOME, BUSINESS, PROFITS, GOODWILL, USE, DATA, SAVINGS OR OTHER PECUNIARY OR INTANGIBLE LOSSES, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY (INCLUDING NEGLIGENCE), WHETHER SUCH DAMAGES ARE ALLEGED IN TORT, CONTRACT, OR ANY OTHER LEGAL OR EQUITABLE THEORY, AND WHETHER OR NOT ANY OF THE DISCLAIMING ENTITIES HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. UNDER ALL CIRCUMSTANCES, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE MAXIMUM AGGREGATE LIABILITY OF THE DISCLAIMING ENTITIES, INCLUDING SHOPIFY, ITS PARENTS, SUBSIDIARIES, AND AFFILIATES, AND EACH OF THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AND ADVISORS, ARISING OUT OF OR RELATING TO THESE TERMS OR USE OF, OR WITH REGARD TO, SHOPIFY CONSUMER SERVICES, WILL NOT EXCEED THE GREATER OF $100 OR THE AMOUNT YOU HAVE PAID US IN THE PAST 12 MONTHS. YOU ACKNOWLEDGE AND AGREE THAT THE LIMITATIONS SET FORTH IN THIS SECTION ARE INTEGRAL TO THE SHOPIFY CONSUMER SERVICES AND AMOUNTS CHARGED BY THE DISCLAIMING ENTITIES FOR SERVICES AND THAT IF THE DISCLAIMING ENTITIES WERE TO ASSUME FURTHER LIABILITY OTHER THAN AS SET FORTH HEREIN, THE FEES WOULD, OF NECESSITY, BE SUBSTANTIALLY INCREASED.
+
+11.2. Indemnification: You agree to indemnify, defend, and hold harmless Shopify and the disclaiming entities from all claims, losses, damages, penalties, liability, and costs, including reasonable attorneys' fees, of any kind or nature arising out of or related to a claim (a) alleging that your use of Shopify Consumer Services infringes or violates the rights of a third party (including any merchant) or violates applicable law; or (b) arising out of your breach of these Terms or the documents they incorporate by reference.
+
+11.3. Use at Own Risk: Your use of the Shopify Consumer Services is at your sole risk. Shopify Consumer Services are provided on an "as is" and "as available" basis without any warranty or condition, express, implied or statutory.
+
+11.4. No Representation Regarding Merchant Products or Services: To the fullest extent permitted by law, Shopify and the Disclaiming Entities make no representation or warranty of any kind whatsoever for the Shopify Consumer Services, the content, materials, information, and/or functions available through Shopify Consumer Services, or for any breach of security associated with the transmission of information (including sensitive information) through Shopify Consumer Services.
+
+11.5. Errors & Inaccuracies: Any reliance on the material or information made available through Shopify Consumer Services is at your own risk. We do not warrant that the Shopify Consumer Services will be uninterrupted, timely, secure or error-free, or that any errors will be corrected. We do not warrant that the result obtained from use of the Shopify Consumer Services will be accurate or reliable.
+
+12. Agents
+12.1 This section applies if you use, allow, enable, or cause the deployment of an Agent to access, use, or interact with any Shopify Consumer Service. "Agent" means any software or service that takes autonomous or semi-autonomous action on behalf of, or at the instruction of, any person or entity and that can be executed on behalf of, or using a person's device, without direct supervision.
+
+12.2 No Agent may access, use, or interact with Shopify Consumer Services unless authorized to do so by Shopify in writing. At all times, the Agent must identify itself and operate in strict accordance with the requirements in section 12.4 below. In addition, no Agent may access, use, or interact with Shopify Consumer Services if we have requested that the Agent refrain from accessing, using, or interacting with any service.
+
+12.3 At Shopify's discretion, we may limit, including by technical measures, whether and how any Agent accesses, uses, and interacts with Shopify Consumer Services.
+
+12.4 Agents must: (i) in all HTTP/HTTPS requests, identify that the request is from an Agent and disclose the name of the Agent by including the following in the request's user agent string: "Agent/[agent name]"; (ii) not conceal or obfuscate that any access, use, or interactions are from an Agent, such as by (a) mimicking human behavior and interaction patterns, or (b) completing or circumventing CAPTCHAs or measures intended to distinguish computer use from humans, (iii) respond truthfully to any question or prompt seeking to determine if interactions are coming from a human or a computer, (iv) not circumvent or otherwise avoid any measure intended to block, limit, modify, or control whether and how Agents access, use, or interact with any Shopify Consumer Services, and (v) not scrape, collect, retain, or use data from Shopify Consumer Services for any purpose other than strictly automating reasonably expected user activity that would otherwise be permitted under these Terms if performed manually by a user of Shopify Consumer Services, and in no event for the purpose of training, developing, improving, or fine-tuning any machine learning or artificial intelligence system, model, or technology.
+
+13. Additional Provisions
+13.1. Modifications to the Service: We may change, remove, or discontinue any part of the Shopify Consumer Services at any time.
+
+13.2. Governing Law and Venue: For any claim, cause of action, or dispute you have against us that arises out of or relates to these Terms or the Shopify Consumer Services, you agree that it will be resolved exclusively in the provincial and federal courts of the Province of Ontario. You also agree to submit to the personal jurisdiction of these courts for the purpose of litigating any such claim. These Terms will be governed by and interpreted in accordance with the laws of the Province of Ontario and the laws of Canada applicable therein, without regard to principles of conflicts of laws.
+
+13.3. No Rights in Third Parties: Nothing expressed or referred to in these Terms will be construed to give any individual or entity other than the parties to these Terms any legal or equitable right, remedy or claim under or with respect to these Terms or any provision of these Terms.
+
+13.4. Assignment: You may not assign these Terms or any rights or obligations hereunder without our prior written approval and any such attempted assignment will be void. We reserve the right to freely assign these Terms and the rights and obligations hereunder, to any third party without notice or consent, including in connection with a merger, acquisition, or sale of assets by Shopify, by operation of law or otherwise. Subject to the foregoing, these Terms will be binding upon and inure to the benefit of the parties hereto, their successors and permitted assigns.
+
+13.5. Severability: In the event that any provision of these Terms is determined by a court of competent jurisdiction to be unlawful, void or unenforceable, such provision will nonetheless be enforceable to the fullest extent permitted by applicable law, and the unenforceable portion will be deemed to be severed from these Terms, and such determination will not affect the validity and enforceability of any other remaining provisions.
+
+13.6. No Waiver: Our failure to exercise or enforce any right or provision of these Terms will not constitute a waiver of such right or provision.
+
+13.7. Entire Agreement: These Terms, the Consumer Privacy Policy, and the other policies or operating rules incorporated into these Terms or notified to you in respect of additional Shopify Consumer Services you use shall constitute the entire agreement and understanding between you and us, and govern your use of the Shopify Consumer Services, superseding any prior or contemporaneous agreements, communications and proposals, whether oral or written, between you and us (including, but not limited to, any prior versions of the Terms).
+
+13.8. Reservation of Rights: We reserve all rights not expressly granted to you.
+
+13.9. Contacting Us: If you have any questions about the Shopify Consumer Services or these Terms, please visit our support portal.
+
+13.10. Survival: Upon termination of your use of Shop or termination of these Terms for any reason, the following sections will survive termination: Preamble, Sections 4.3, 6 (User Generated Content), 9 (Merchants & Shopify's Role), 11 (Limitation of Liability; Disclaimer of Warranties), 13 (Additional Provisions), 14 (Updating these Terms).
+
+14. Updating these Terms
+14.1. Shopify may need to update these Terms from time to time, and reserves the right to make such updates, so we encourage you to check them periodically for updates.
+
+14.2. Shopify will provide you with reasonable advance notice of any changes that materially adversely affect your use of Shopify Consumer Services or your rights under the Terms by sending an email, providing notice through the Shopify Consumer Services, or by similar means consistent with requirements under applicable law. However, if Shopify needs to make changes to the Terms (i) for legal, regulatory, fraud and abuse prevention, or security reasons; or (ii) to restrict products or activities that we deem unsafe, inappropriate, or offensive, Shopify may make those changes with immediate effect and without notice, even if those changes may materially affect your experience.
+
+14.3. By continuing any access or use of the Shopify Consumer Services or interacting with Shopify after notice of any update to these Terms or after we post such updated Terms, you agree to be bound by the Terms, as amended.
+
+14.4. If you do not agree to the amended Terms, your sole and exclusive remedy is to terminate your use of Shopify Consumer Services.
+
+14.5. Any new features, services or tools which are added to Shopify Consumer Services will also be subject to these Terms, unless indicated otherwise.

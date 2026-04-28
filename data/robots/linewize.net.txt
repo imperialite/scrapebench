@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /sample-*
+Disallow: /blog/sample-*
+Disallow: /stage/*
+Disallow: linewize-5840292.hs-sites.com
+Disallow: /test-blog*
+Disallow: linewize-5840292.hs-sites.com/*
+Sitemap: https://www.linewize.com/sitemap.xml
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+Disallow: /hs/preferences-center/
+Disallow: /*?*hs_preview=*
+Disallow: /*?*hsCacheBuster=*

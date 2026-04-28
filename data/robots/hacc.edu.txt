@@ -1,0 +1,17 @@
+Sitemap: https://www.hacc.edu/sitemap.xml
+#Sitemap: https://hacc.edu/sitemap.xml
+
+User-agent: *
+Disallow: /commonspot
+
+User-agent: UT-Dorkbot
+Crawl-delay: 5
+
+User-agent: Amazonbot
+Crawl-delay: 5
+
+#User-agent: AhrefsBot
+#Disallow: /Calendar
+
+#User-agent: Arachni
+#Disallow: /

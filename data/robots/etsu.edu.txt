@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /_19t/
+Disallow: /_testing/
+Disallow: /_training/
+Disallow: /_syllabi-test/
+Disallow: /_zz-dev/
+Disallow: /_zz-development/
+Disallow: /_23t/
+Disallow: /etsu/news/
+Disallow: /students/mcc/programs/discover/forms/map.php
+Disallow: /etsu-news/2020/03-march/covid-19-testing.php
+Sitemap: https://www.etsu.edu/sitemap.xml 
+
+# Certain social media sites are whitelisted to allow crawlers to access page markup when links to /images are shared. 
+User-agent: Twitterbot
+Allow: /
+Allow: /pictures
+User-agent: facebookexternalhit
+Allow: /
+Allow: /pictures

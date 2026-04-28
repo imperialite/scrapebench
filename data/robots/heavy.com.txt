@@ -1,0 +1,47 @@
+Sitemap: https://heavy.com/news-sitemap.xml
+
+Sitemap: https://heavy.com/sitemap_index.xml
+Sitemap: https://heavy.com/video-sitemap_index.xml
+
+User-agent: *
+Disallow: /search/
+Disallow: /25816858/
+Disallow: /incoming/
+Disallow: /post/
+Disallow: /ve/
+Disallow: /collections/vendors
+Disallow: /tag/
+Disallow: /?s=
+Disallow: /*%7B%7Burl$
+Disallow: /nhl/player/
+Disallow: /https://
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: PiplBot
+Disallow: /
+
+User-agent: CCbot
+Disallow: /
+
+User-agent: *
+Disallow: /wp-admin/
+
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+# ---------------------------
+# END YOAST BLOCK

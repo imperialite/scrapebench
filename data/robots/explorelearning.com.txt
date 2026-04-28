@@ -1,0 +1,8 @@
+User-agent: AdsBot-Google
+Disallow: /gated/
+Disallow: /RemoteResources/
+
+User-agent: *
+Disallow: /gated/
+Disallow: /RemoteResources/
+Sitemap: https://www.explorelearning.com/sitemap.xml

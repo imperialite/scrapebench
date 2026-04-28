@@ -1,0 +1,6 @@
+# www.ForRent.com robots.txt 
+User-agent: * 
+Disallow: /activity/visit 
+Disallow: /bff/* 
+User-agent: GPTBot 
+Allow: /

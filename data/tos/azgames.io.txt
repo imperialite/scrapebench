@@ -1,0 +1,218 @@
+Privacy Policy - A-Z Games
+Clicker
+Io
+Adventure
+2 player
+Shooting
+Sports
+Car
+Puzzle
+Casual
+Kids
+My games
+Recent
+Favorites
+Liked
+Privacy Policy
+Last updated:
+Oct 18, 2025
+AZ Games (“
+AZ Games
+,” “
+we
+,” “
+our
+,” or “
+us
+”) is committed to protecting the privacy of all visitors who use our sites and applications, including users above the age of 13 (“
+General Users
+”) and users under the age of 13 (“
+Children Users
+”) — together, the “
+Users
+”.
+This Privacy Policy (“
+Policy
+”) explains our privacy practices and principles for information we collect from General Users through our web platform, mobile applications, publishing services, and other general-audience sites and apps (the “
+General Site
+”), as well as information we may collect from Children Users through our separate kids site (the “
+Kids Site
+”).
+By using the General Site, you agree to this Policy and consent to the collection and use of information as described herein. If you are a parent or legal guardian, allowing your child to use the Kids Site means you agree to this Policy on your child’s behalf.
+If you have any questions about this Policy, please contact
+[email protected]
+.
+1. General Information
+Our features are available
+without user registration
+; we do
+not
+request personal data such as email addresses or phone numbers for general access.
+We may collect certain
+electronic data
+(e.g., IP address, cookies, device ID) to operate and improve the service.
+When you leave the Kids Site for a third-party site/app, this Policy no longer applies. Any personal data provided on third-party sites/apps is governed by their privacy statements. AZ Games is
+not
+the data controller or processor for that data.
+2. Data Collection & Purposes
+Our servers automatically recognize visitors’ domain names and IP addresses. We may collect
+anonymous traffic data
+(e.g., page visits, visit frequency, session length, browser type, referrer info) to:
+Operate, maintain, and improve our services;
+Analyze usage and performance;
+Support marketing in aggregate and anonymous form.
+Advertisers on the General Site may receive
+cookie-based
+information for targeted advertising (see
+Section 5: Cookies
+).
+3. Data Retention
+We may retain data as reasonably necessary to:
+Develop new features and improve the Site;
+Support subsequent customer service inquiries;
+Improve safety and security;
+Comply with legal obligations.
+4. Third-Party Games
+This Policy does
+not
+apply to personal data processing by third-party game providers available on our Site. Each provider is responsible for compliance with applicable data protection laws.
+Generally, we do
+not
+allow third-party content providers to collect personal data about Users. If collection occurs, we require contractual compliance with relevant laws.
+5. Cookies
+Like many sites/apps, we (and advertising networks on our General Site) use
+cookies
+and similar technologies to:
+Operate and improve offerings;
+Help authenticate users;
+Remember preferences;
+Measure and research effectiveness;
+Customize content;
+Show targeted ads (General Site).
+You can refuse or delete cookies via your browser settings. Guidance is available in your browser’s help resources (e.g., Internet Explorer, Chrome, Firefox).
+Note: Deleting/disabling standard cookies does
+not
+remove
+Flash cookies
+; see Adobe’s website for instructions.
+Some areas/features may only function with cookies enabled.
+Questions about cookies? Contact
+[email protected]
+.
+6. Links to Third-Party Websites
+Our General Site may link to third-party services (e.g., YouTube, Facebook, Instagram, WhatsApp, Twitter, Kik).
+We use technology and moderation to monitor outbound links for inappropriate content, but we do not have full control over third-party content.
+7. Sharing Information
+We may share
+persistent identifiers
+and technical information (e.g., IP address, device ID) in these circumstances:
+Security/Legal:
+When required by law, governmental request, or to protect the rights, property, or safety of AZ Games, partners, customers, or others.
+Aggregate Info:
+Non-identifying, aggregated statistics (e.g., number of visitors in a period).
+Advertising:
+With advertising partners for targeted ads on the
+General Site
+. On the
+Kids Site
+, information is shared
+only
+for contextual advertising and frequency capping.
+8. International Data Transfers
+We may work with third parties outside the EEA and transfer data accordingly. For EU-origin data, we rely on Standard Contractual Clauses, consent, or contractual necessity, as applicable.
+Questions?
+[email protected]
+.
+9. Children Users (COPPA)
+We provide a separate, age-appropriate experience for Children Users via the Kids Site or an
+age-gate
+within certain games on the General Site.
+We do
+not
+process personal data of children under the applicable minimum age for
+behavioral advertising
+.
+No registration is required on the Kids Site; any ads shown are
+age-appropriate
+and
+contextual
+(no behavioral targeting).
+We may collect
+IP addresses and persistent identifiers
+(including cookies) from Children Users
+only
+to support internal operations (e.g., site/app function, network communications, authentication, content personalization on the Kids Site, contextual ads and frequency capping).
+If you are a Child User, use the Kids Site only with a parent/guardian’s permission.
+Learn more about COPPA:
+https://www.kidsafeseal.com/knowaboutcoppa.html
+10. Lawful Bases for Processing (EU Users)
+We process data only where legal bases apply, including:
+Legitimate interests
+(e.g., preventing fraud, improving service/security);
+Consent
+for specific purposes;
+Contractual necessity
+;
+Legal obligations
+.
+Where we rely on legitimate interests, you may
+object
+(see
+Section 11
+). Where we rely on consent, you may
+withdraw
+it at any time by contacting
+[email protected]
+.
+Examples:
+Network/security (IP address, user/device ID)
+Support/fraud prevention (email, if provided in support contexts)
+Product improvement (activity logs)
+11. Individual Rights
+You may have rights over your personal data, including:
+Delete your data
+(“right to be forgotten”).
+Restrict processing
+(limit use to specific purposes).
+Data portability
+(obtain copies in a common format).
+Object
+to processing for direct marketing or (in some cases) legitimate interests.
+We may request additional information to verify identity and will respond within a reasonable timeframe. In some cases, we may decline or charge a reasonable fee for unfounded/excessive requests, and we’ll explain why.
+Contact:
+[email protected]
+.
+12. Privacy Policy for Leaderboard-Enabled Games
+Some games include
+leaderboards
+, which require collecting and displaying limited player data (e.g.,
+display name
+and
+score
+).
+We do
+not
+collect personally identifiable information (e.g., emails, phone numbers) for leaderboards.
+Data collected is
+strictly necessary
+for leaderboard functionality.
+Users remain
+anonymous
+except for the display name they provide.
+We apply a
+profanity filter
+to prevent inappropriate names.
+Data is stored only to maintain fair competition, improve the game experience, and ensure proper leaderboard operation.
+Questions about leaderboard data?
+[email protected]
+.
+Contact
+If you have questions about this Policy or our practices, contact
+[email protected]
+.
+About us
+Copyright infringement notice procedure
+Contact us
+Privacy policy
+Term of use
+© 2026 Azgames.io. All rights reserved.

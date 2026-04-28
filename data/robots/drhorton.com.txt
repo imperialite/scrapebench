@@ -1,0 +1,194 @@
+User-agent: *
+Disallow: /All-Promotions
+Disallow: /All-Promotions/
+Disallow: /all-promotions
+Disallow: /all-promotions/
+Disallow: /approvals
+Disallow: /approvals/
+Disallow: /Approvals
+Disallow: /Approvals/
+Disallow: /control-panel-page
+Disallow: /community-finder
+Disallow: /scanner
+Disallow: /scanner/
+Disallow: /brand
+Disallow: /browse
+Disallow: /committed-to-you
+Disallow: /committed-to-you-ty
+Disallow: /Community Finder
+Disallow: /Comparison Landing
+Disallow: /control-panel-rte
+Disallow: /control-panel-RTE
+Disallow: /control-panel-brands
+Disallow: /control-panel-page
+Disallow: /EditAccount
+Disallow: /Favorites
+Disallow: /giving-you-more
+Disallow: /giving-you-more-ty
+Disallow: /GlobalMapOnly
+Disallow: /globalmaponly
+Disallow: /Global-Shared-Content
+Disallow: /Global-Shared-Content/
+Disallow: /global-shared-content
+Disallow: /global-shared-content/
+Disallow: /global shared content
+Disallow: /global shared content/
+Disallow: /Global Shared Content
+Disallow: /Global Shared Content/
+Disallow: /Homes-Ready-TY
+Disallow: indiana/indianapolis/IndyFuel
+Disallow: indiana/indianapolis/indyfuel
+Disallow: /Inventory
+Disallow: /landing-page
+Disallow: /loading
+Disallow: /Messages
+Disallow: /My Points of Interests
+Disallow: /My Saved Searches
+Disallow: /New Custom Content Page
+Disallow: /New-Home-Inquiry-TY
+Disallow: /new-mexico/albuquerque/rio-rancho/discover-ty
+Disallow: /pages/
+Disallow: /Pages/
+Disallow: /Profile Notes
+Disallow: /Project
+Disallow: /real-estate-agents
+Disallow: /real-estate-agents-TY
+Disallow: /red-tag-event-c
+Disallow: /red-tag-event-C
+Disallow: /red-tag-event-C-go
+Disallow: /red-tag-event-n
+Disallow: /red-tag-event-N
+Disallow: /red-tag-event-n-go
+Disallow: /red-tag-event-N-go
+Disallow: /red-tag-event-n-reg
+Disallow: /red-tag-event-N-reg
+Disallow: /red-tag-event-n-thank-you
+Disallow: /red-tag-event-N-thank-you
+Disallow: /red-tag-event-r
+Disallow: /red-tag-event-R
+Disallow: /red-tag-event-r-n
+Disallow: /red-tag-event-R-N
+Disallow: /red-tag-event-r-n-go
+Disallow: /red-tag-event-R-N-go
+Disallow: /red-tag-event-r-n-reg
+Disallow: /red-tag-event-R-N-reg
+Disallow: /red-tag-event-r-go
+Disallow: /red-tag-event-R-go
+Disallow: /red-tag-event-r-thank-you
+Disallow: /red-tag-event-R-thank-you
+Disallow: /red-tag-event-over
+Disallow: /RFI-success
+Disallow: /SAT-success
+Disallow: /Smart-Home-TY
+Disallow: /still-building-N
+Disallow: /still-building-N-thank-you
+Disallow: /still-building-R
+Disallow: /still-building-R-thank-you
+Disallow: /still-building-test
+Disallow: /still-building-test-thank-you
+Disallow: /tabletkiosk
+Disallow: /third-party-property-managers
+Disallow: /Third-Party-Property-Managers
+Disallow: /view-hotsheet
+Disallow: /Warranty-TY
+Disallow: /Website Shared Content
+Disallow: /what-is-red-tag-event
+Disallow: /zillow-offers
+
+NoIndex: /All-Promotions
+NoIndex: /All-Promotions/
+NoIndex: /all-promotions
+NoIndex: /all-promotions/
+NoIndex: /approvals
+NoIndex: /approvals/
+NoIndex: /Approvals
+NoIndex: /Approvals/
+NoIndex: /scanner*
+NoIndex: /brand
+NoIndex: /browse
+NoIndex: /committed-to-you
+NoIndex: /committed-to-you-ty
+NoIndex: /Community Finder
+NoIndex: /Comparison Landing
+NoIndex: /control-panel-rte
+NoIndex: /control-panel-RTE
+NoIndex: /control-panel-brands
+NoIndex: /control-panel-page
+NoIndex: /EditAccount
+NoIndex: /Favorites
+NoIndex: /giving-you-more
+NoIndex: /giving-you-more-ty
+NoIndex: /GlobalMapOnly
+NoIndex: /globalmaponly
+NoIndex: /Global-Shared-Content
+NoIndex: /Global-Shared-Content/
+NoIndex: /global-shared-content
+NoIndex: /global-shared-content/
+NoIndex: /global shared content
+NoIndex: /global shared content/
+NoIndex: /Global Shared Content
+NoIndex: /Global Shared Content/
+NoIndex: /Homes-Ready-TY
+NoIndex: /Inventory
+NoIndex: /indiana/indianapolis/IndyFuel
+NoIndex: /indiana/indianapolis/indyfuel
+NoIndex: /landing-page
+NoIndex: /loading
+NoIndex: /Messages
+NoIndex: /My Points of Interests
+NoIndex: /My Saved Searches
+NoIndex: /New Custom Content Page
+NoIndex: /New-Home-Inquiry-TY
+NoIndex: /new-mexico/albuquerque/rio-rancho/discover-ty
+NoIndex: /pages/
+NoIndex: /Pages/
+NoIndex: /Profile Notes
+NoIndex: /Project
+NoIndex: /real-estate-agents
+NoIndex: /real-estate-agents-TY
+NoIndex: /red-tag-event-c
+NoIndex: /red-tag-event-C
+NoIndex: /red-tag-event-c-go
+NoIndex: /red-tag-event-C-go
+NoIndex: /red-tag-event-n
+NoIndex: /red-tag-event-N
+NoIndex: /red-tag-event-n-go
+NoIndex: /red-tag-event-N-go
+NoIndex: /red-tag-event-n-reg
+NoIndex: /red-tag-event-N-reg
+NoIndex: /red-tag-event-n-thank-you
+NoIndex: /red-tag-event-N-thank-you
+NoIndex: /red-tag-event-r
+NoIndex: /red-tag-event-R
+NoIndex: /red-tag-event-r-n
+NoIndex: /red-tag-event-R-N
+NoIndex: /red-tag-event-r-n-go
+NoIndex: /red-tag-event-R-N-go
+NoIndex: /red-tag-event-r-n-reg
+NoIndex: /red-tag-event-R-N-reg
+NoIndex: /red-tag-event-r-go
+NoIndex: /red-tag-event-R-go
+NoIndex: /red-tag-event-r-thank-you
+NoIndex: /red-tag-event-R-thank-you
+NoIndex: /red-tag-event-over
+NoIndex: /RFI-success
+NoIndex: /SAT-success
+NoIndex: /scanner
+NoIndex: /scanner/
+NoIndex: /Smart-Home-TY
+NoIndex: /still-building-N
+NoIndex: /still-building-N-thank-you
+NoIndex: /still-building-R
+NoIndex: /still-building-R-thank-you
+NoIndex: /still-building-test
+NoIndex: /still-building-test-thank-you
+NoIndex: /tabletkiosk
+NoIndex: /third-party-property-managers
+NoIndex: /Third-Party-Property-Managers
+NoIndex: /view-hotsheet
+NoIndex: /Warranty-TY
+NoIndex: /Website Shared Content
+NoIndex: /what-is-red-tag-event
+NoIndex: /zillow-offers
+
+Sitemap: https://www.drhorton.com/sitemaps/website.xml Sitemap: sitemaps/website.xml

@@ -1,0 +1,58 @@
+User-agent: *
+
+Allow: /*.css*
+Allow: /*.eot*
+Allow: /*.jpg*
+Allow: /*.jpeg*
+Allow: /*.js*
+Allow: /*.gif*
+Allow: /*.otf*
+Allow: /*.pdf*
+Allow: /*.png*
+Allow: /*.svg*
+Allow: /*.ttf*
+Allow: /*.webp*
+Allow: /*.woff*
+
+# Template CSS and JS files
+Allow: /components/com_sppagebuilder/assets/css
+Allow: /templates/shaper_helixultimate/css
+Allow: /plugins/system/helixultimate/assets/css
+Allow: /components/com_sppagebuilder/assets/js
+Allow: /templates/shaper_helixultimate/js
+Allow: /plugins/system/helixultimate/assets/js
+
+Disallow: /administrator
+Disallow: /bin
+Disallow: /cache
+Disallow: /cli
+Disallow: /components
+Disallow: /includes
+Disallow: /installation
+Disallow: /language
+Disallow: /layouts
+Disallow: /libraries
+Disallow: /lists
+Disallow: /logs
+Disallow: /modules
+Disallow: /plugins
+Disallow: /site-settings
+Disallow: /submit-an-article
+Disallow: /template-settings
+Disallow: /tmp
+Disallow: /your-profile
+Disallow: /404
+
+#CareerSafe Campus Reserved URIs
+Allow: /campus
+Disallow: /api
+Disallow:  /campus/cart
+Disallow: /djadmin
+Disallow: /django_admin
+Disallow: /ecommerce
+Disallow: /import
+Disallow: /tools
+
+# JSitemap entries
+Sitemap: https://www.careersafeonline.com/index.php?option=com_jmap&view=sitemap&format=xml
+Sitemap: https://www.careersafeonline.com/index.php?option=com_jmap&view=sitemap&format=videos

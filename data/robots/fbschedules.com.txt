@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /downloads/*.pdf
+Disallow: /helmets/fbs/*.pdf
+
+Sitemap: https://fbschedules.com/sitemap_index.xml

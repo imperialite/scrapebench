@@ -1,0 +1,98 @@
+NTT DOCOMO Website Terms of Use | NTT DOCOMO
+NTT DOCOMO Website Terms of Use
+These website terms and conditions apply to all the websites owned or operated by NTT DOCOMO, INC. (hereinafter referred to as "DOCOMO"). Any persons who access DOCOMO website (hereinafter referred to as the "Site"), shall read the following terms of use. Please agree and accept that the terms of use listed below may change without notice.
+Warranty / Limitation of Liability
+Use of this Site shall be made at the user’s own risk. Information on this Site has been carefully prepared and managed; however, DOCOMO does not guarantee the accuracy, usefulness, completeness, etc. of that information. DOCOMO bears no responsibility for any damages incurred from use of that information or from inability to use that information.
+DOCOMO may alter all or part of the information on this Site without prior notice. Furthermore, DOCOMO may suspend or halt operation of this Site.
+DOCOMO bears no responsibility for any damages incurred from use of information acquired from third-party websites linked to from this Site or from third-party websites that link to this Site.
+Users may be unable to use this Site as intended depending on their communications or computer environment, or for other reasons.
+Copyrights
+The copyrights of materials (documents, photographs, illustrations, animations, sounds, software, etc.) on this Site are the possession of DOCOMO or other third parties and are protected by the Copyright Act as well as other laws and agreements. Excluding the extent of quotation and reproduction for private use that is approved in the Copyright Act, without the consent of the party owning the copyright, the reproduction, adaptation or public transmission of copyrighted material is prohibited.
+DOCOMO products and service names that are on this Site are trademarks or registered trademarks of DOCOMO.
+Governing Law and Jurisdiction
+This Site is managed and maintained by DOCOMO. Although this Site can be accessed from countries around the world with differing laws, users of this Site and DOCOMO both agree that the use of this Site is governed by and construed in accordance with the laws of Japan and the regulations of the city of Tokyo.
+DOCOMO makes no statement, indication or representation about whether the content of this Site is compatible with the environment of users who accesses this Site. Users who access this Site do so of their own free will, and the users who access this Site are responsible for the use of this Site.
+Unless stipulated otherwise, the Tokyo District Court in Tokyo, Japan shall have the exclusive jurisdiction of the first trial for all disputes in connection with all controversies and disputes arising out of or relating to the use of this Site.
+Links to this Site
+Links to this Site, whether commercial or non-commercial, are permitted without contacting DOCOMO in advance. However, please refrain from setting links that apply or may apply to the following.
+Links from websites that include contents that slander DOCOMO and DOCOMO products, services, etc. or otherwise defame DOCOMO
+Links from websites that include illegal information
+Links from websites that include contents that violate public order and standards of decency or accepted social ethics
+Links such as frame links or image links, which obscure the fact that information is from this Site
+(Set the link so that the browser screen will change to this Site or a separate screen will open and this Site will be displayed.)
+Links that may cause the viewer to misinterpret that there is some kind of alliance or partnership with DOCOMO or that DOCOMO acknowledges or approves the website linked to this Site
+You may be asked to change the way that the link has been set up or delete the link even if the above conditions do not apply. Also, please note that the URL for this Site may be changed or deleted without advance notice.
+Recommended Environment
+For safer and more comfortable use of this Site, DOCOMO recommends the following operating systems and browsers for browsing.
+Some pages may not function properly depending on the operating system and browser of the PC or smartphone.
+Recommended Environment
+OS
+Browser
+Windows
+The official latest versions of the following
+Microsoft Edge
+Firefox
+Google Chrome
+macOS
+The official latest versions of the following
+Safari
+Firefox
+Google Chrome
+Android OS
+The official latest versions of the following
+Standard browser
+Google Chrome
+iOS
+The official latest versions of the following
+Safari
+Plug-in Software
+In order to view PDF files, you must have the
+Adobe® Reader®
+plug-in offered free of charge from Adobe Systems, Inc. When viewing the PDF files with Adobe® Acrobat®, use version 10 or later.
+In order to view QuickTime files, you must have the
+QuickTime® Player
+plug-in offered free of charge from Apple Computer, Inc.
+In order to view Windows Media files, you must have the
+Windows Media® Player
+plug-in offered free of charge from Microsoft Corporation.
+Link Icons
+Link Icons
+Link Icons
+A use
+Normal link
+Return to the previous page
+Return to the top of the page
+Shown in relation to the local navigation and signifies a link within the page
+Link which will display in a new/popup window
+Link to download an application
+Link that will activate your e-mail application
+Link to display a PDF file
+JavaScript
+Some pages on this Site utilize JavaScript for more convenient use. If you have disabled JavaScript on your browser, some functions may not work correctly or may be displayed incorrectly. We recommend that you turn on JavaScript on your browser when using this Site.
+Collection of Website Access Information Using DOCOMO's Information Collection Module
+This website collects customer data, including website browsing information, using external services. As this information is related to your privacy, we have provided the following list of external services, as well as details on the data collected by each service, how the data is used, and how to discontinue the usage of your data.
+Enable JavaScript if it is disabled.
+For details on the data to be collected with DOCOMO's information collection module, visit the following site.
+DOCOMO's Collection and Use of Information on Websites Customers Visit
+About Security
+DOCOMO takes great care in protecting customer's personal information on this site, and implements various measures from both a technical standpoint and specification standpoint in addition to using 128-bit SSL encryption for data exchange.
+About SSL
+This site uses the secure sockets layer (SSL) protocol to protect customer's personal information. The site supports 128-bit SSL encryption, which may not be supported by your browser, so please use a browser recommended for this site.
+SSL is a security function for the purpose of protecting personal information and other important information exchanged over the Internet from interception by third parties, and encrypts customer's personal information input on this site before sending and receiving.
+This site uses an SSL digital certificate issued by GlobalSign.
+Web Accessibility Policy
+Check out the web accessibility policy for this Site.
+Web Accessibility Policy
+News & Notices
+Disaster Status Confirmation Services
+News & Notices
+Disaster Status Confirmation Services
+Japanese
+NTT DOCOMO Privacy Policy
+Information Security Policy
+Terms of Use
+External Transmission of Information Collected from Customer Devices
+Site Map
+NTT DOCOMO GROUP
+©NTT DOCOMO
+JP

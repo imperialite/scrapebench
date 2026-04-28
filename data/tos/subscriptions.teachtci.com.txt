@@ -1,0 +1,123 @@
+Terms of Use | TCI
+Skip to Main Content
+What can we help you find?
+Search Site
+Terms of Use
+Effective April 23, 2025
+The following Terms of Use (“Terms”) govern your access and use of teachtci.com and its subdomains (“Website”), including the online store and the Teacher and Student online application service (“Application”) (all together collectively, the “Services”). The Services are provided to you by Teachers’ Curriculum Institute (hereinafter referred to as “TCI”, “we”, “our” or “us”). By accessing or using our Services, you agree to be bound by these Terms. If you do not agree to these Terms, please exit our Services immediately and refrain from any further use of our Services.
+For information on our use of your personal information collected by or provided to us as part of our Services see our
+Privacy Policy
+.
+For clarity, these Terms apply to the Services generally and our
+Business Terms
+apply to portions of the Services that are subject to a purchase, such as where you access the Services as part of a paid subscription on behalf of any school, school district, education center, or other entity. To the extent that both these Terms and the Business Terms apply to you and there are any inconsistencies between the two documents, the Business Terms shall govern.
+PLEASE READ THESE TERMS CAREFULLY BEFORE USING OUR SERVICES. THESE TERMS AFFECT YOUR LEGAL RIGHTS, INCLUDING WAIVER OF YOUR RIGHT TO TRIAL BY JURY AND WAIVER OF YOUR RIGHT TO PARTICIPATE IN ANY CLASS ACTION OR REPRESENTATIVE PROCEEDING IN THE EVENT OF DISPUTES, AS SET OUT IN MORE DETAIL IN SECTION 13.
+1. Intellectual Property
+Our Services may contain: (i) materials and other items relating to TCI and its services, including software, layout, information, databases, articles, posts, text, data, files, images, scripts, designs, graphics, instructions, illustrations, photographs, sounds, pictures, videos, advertising copy, URLs, technology, interactive features, and the “look and feel” of the Services; (ii) logos, service marks, trademarks, trade names, trade dress, and trade identities of various parties, including those of TCI; and (iii) other forms of intellectual property (all together collectively, the “Materials”).
+Unless otherwise indicated, the Materials are the property of TCI or its licensors and are protected, without limitations, pursuant to U.S. and foreign copyright, trademark and other intellectual property laws. TCI’s trademarks, service marks, logos and product and service names (“TCI Marks”) are the property of TCI. The names of other companies and products mentioned herein may be the trademarks of their respective owners (“Third Party Marks”). Nothing in these Terms or any Materials shall convey to you an ownership interest in any TCI Marks and/or Third-Party Marks. You agree not to display or use in any manner any TCI Marks and/or Third-Party Marks without our prior written permission and shall not remove or in any way alter any trademark, copyright, or other proprietary notice.
+2. Limited License
+Subject to your compliance with these Terms, TCI grants you a limited, revocable, non-exclusive license to access and use our Services for your lawful, personal, non-commercial use only. You may not modify, copy, distribute, republish, or commercially exploit any of the Materials without the prior written consent of TCI. No intellectual property or other rights in and to our Services or the Materials, other than the limited rights set forth above, are transferred to you.
+3. Artificial Intelligence
+You agree not to use, nor to authorize the use of, any Materials to: (i) create, train (whether directly or indirectly), and/or improve any generative or other artificial intelligence and/or machine learning models, applications, systems or technologies and any datasets therefor, whether now existing or hereafter created, in any manner, means, or media and/or for any purpose whatsoever (e.g., machine learning, generative technology, data mining, cognitive computing, natural language processing, natural learning processes, computer vision, etc.) (“AI Technology”); (ii) create, generate, edit, reproduce, translate, copy, publicly perform, distribute, transmit, adapt, modify, create any simulations and/or derivative works of, and/or manipulate, any TCI Marks; (iii) design, enable and/or otherwise be utilized for any AI Technology mimicking, replicating and/or simulating human appearance, thought processes, speech, emotions or actions; (iv) extract, scrape, harvest, or collect any Materials for use in connection with AI Technology; (v) discover, reverse engineer, decompile, disassemble, or attempt to derive the Materials’ source code or algorithms; or (vi) process, collect, arrange, or otherwise use the Materials into or in connection with datasets that are or may be used to train or otherwise in connection with AI Technology.
+4. No Warranties
+TCI MAKES NO REPRESENTATIONS OR WARRANTIES WITH RESPECT TO OUR SERVICES OR THE MATERIALS, WHICH ARE PROVIDED FOR USE “AS IS” AND “AS AVAILABLE.” TCI DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, SATISFACTORY QUALITY, RELIABILITY, ACCURACY, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO OUR SERVICES. THIS ALSO INCLUDES ANY WARRANTIES THAT MAY ARISE FROM ANY COURSE OF DEALING, COURSE OF PERFORMANCE, OR USAGE OF TRADE. IF APPLICABLE LAW DOES NOT ALLOW THE EXCLUSION OF SOME OR ALL OF THE IMPLIED WARRANTIES CONTAINED IN THIS SECTION, THE EXCLUSIONS IN THIS SECTION WILL APPLY TO YOU TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+TCI ALSO MAKES NO REPRESENTATIONS OR WARRANTIES AS TO WHETHER OUR SERVICES OR THE MATERIALS ARE ACCURATE, COMPLETE, CURRENT, TIMELY, OR USEFUL. IT IS YOUR RESPONSIBILITY TO EVALUATE THE ACCURACY AND COMPLETENESS OF ALL INFORMATION, OPINIONS, AND OTHER MATERIAL ON THIS WEBSITE OR ANY WEBSITE WITH WHICH IT IS LINKED. TCI FURTHER DOES NOT WARRANT THAT YOUR USE OF OUR SERVICES OR THE MATERIALS WILL BE UNINTERRUPTED, ERROR-FREE OR SECURE, THAT DEFECTS WILL BE CORRECTED, OR THAT OUR SERVICES, THE SERVER(S) ON WHICH OUR SERVICES ARE HOSTED OR INFORMATION ARE SECURE OR FREE FROM VIRUSES OR OTHER HARMFUL COMPONENTS.
+5. Hyperlinks to Non-TCI Websites
+Our Services may contain hyperlinks to websites operated by parties other than TCI, including access to content, products, and services that are not maintained or controlled by TCI. Such hyperlinks are provided for your reference only. TCI does not control such websites, the contents therein, or the products/services offered by such third parties. TCI recommends that you read the policies and terms of use posted on other websites regarding privacy and other topics before using those sites. TCI is not responsible (either directly or indirectly) for any loss or damage caused or alleged to be caused by or in connection with your use of or reliance on any content, advertising, materials, goods, or services available on or through any third-party sites and/or dealing with any third party. If you use these websites, you will leave our Services. If you decide to visit any linked site, you do so at your own risk and it is your responsibility to take all protective measures to guard against viruses or other destructive elements. You are solely responsible for complying with the terms of use of any such third-party website and you shall bear all risks associated with the use of such websites.
+You assume total responsibility for establishing such procedures for data back-up and virus checking as you consider necessary.
+6. Account Registration and Administration
+To access certain features of our Services, you may be asked to register with us on, and such registration may require you to provide personal information such as your name, address, and email address.
+You agree that you are the age of majority where you reside (18 in most countries). If you are under the age of 18 but at least 13 years of age, you may have a registered account only under the supervision of a parent or legal guardian who agrees to be bound by these Terms. If you are a parent or legal guardian agreeing to these Terms on behalf of a child between the ages of 13 and 18, you acknowledge and agree that you are fully responsible for the child’s use of the Services, including any legal liability the child may incur. You also acknowledge that a teacher or other educational party or entity may register your child for educational purposes.
+You agree to provide true, accurate, current, and complete information about yourself as prompted by the applicable registration form. If we have reasonable grounds to suspect that such information is untrue, inaccurate, or incomplete, we reserve the right to suspend or terminate your account and refuse any and all current or future use of our Services.
+Your access to our Services may be controlled and administered by your school district or other similar entity that facilitates your use of our Services (the “Administrator”), including control of your account, username, and password. You acknowledge that your access to our Services may be modified, suspended or terminated by the Administrator at any time in its own discretion and such actions are outside the control of TCI. Please contact your Administrator directly if you have problems with or questions regarding your access to our Services. If you would like to learn whether your access is controlled by an Administrator or need the contact information of your Administrator, please contact us via email at
+[email protected]
+.
+7. User Content and Postings
+You acknowledge and agree that you retain all legal rights, title, and interest to any and all content, information, Postings (as defined below), images, and materials submitted, posted or displayed by you on or through our Services (the “User Content”). You further acknowledge and agree that you are responsible for protecting those rights, titles, and interests as appropriate. This means that you, and not TCI, are entirely responsible for all User Content that you upload, post, transmit, or otherwise make available on or through our Services. By submitting User Content to us or posting or displaying User Content on or through our Services, you are representing that (i) the User Content shall not infringe any proprietary or other rights of third parties, (ii) the User Content shall not contain any viruses or other contaminating or destructive devices or features, (iii) the User Content shall not contain any defamatory, indecent, offensive, tortuous, or otherwise unlawful material or content and (iv) the User Content shall not be used to carry out or solicit any unlawful activity and/or be used to make commercial solicitations.
+To the extent that portions of our Services (such as “discussion groups”, “shared assessment questions”, or “blogs”) provide users an opportunity to post and exchange information, ideas, and opinions (“Postings”), BE ADVISED THAT TCI HAS NO OBLIGATION TO SCREEN, EDIT, OR REVIEW POSTINGS PRIOR TO THEIR APPEARANCE ON OUR SERVICES, and Postings do not necessarily reflect the views of TCI. To the fullest extent permitted by applicable law, TCI shall in no event have any responsibility or liability for the Postings or for any claims, damages, or losses resulting from their use and/or appearance on our Services.
+By submitting User Content, you agree that we, including our partners, agents, affiliates and service providers (collectively, “Third Party Providers”), may reproduce, modify, and distribute such User Content, as we see fit in any medium and for any purpose. You grant us the royalty-free, perpetual, irrevocable, non-exclusive and fully sublicensable right and license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform and display the User Content (in whole or part), and/or to incorporate it in other works in any media now known or later developed during the full term of the copyright therein. We also reserve the right (but assume no obligation) to delete, move, or edit any User Content that comes to our attention that we consider infringing any third party’s intellectual property or proprietary rights, violates these Terms, or is offensive, unacceptable or inappropriate, whether for legal or other reasons.
+8. Changes to Access and Use of the Services
+You acknowledge and agree that we may establish, add, or change any general practices, limits, and restrictions concerning access and use of our Services, including the posting of User Content by users of our Services. You further acknowledge and agree that we may change, modify, suspend, or discontinue access and use of our Services, in whole or in part, without notice or liability to you. We assume no responsibility or liability for the deletion, corruption, or loss of any User Content, or for our failure to receive or store User Content for any reason, including, without limitation, malfunctioning of any network, hardware, or software.
+9. Online Conduct
+You agree not to use our Services for any purpose that is unlawful or prohibited by these Terms. TCI reserves the right to deny access to any part of our Services in our sole discretion.
+Specifically, you agree NOT to use our Services to:
+upload, post, or transmit any content for purposes of political campaigning or commercial solicitation or that is unlawful, defamatory, vulgar, obscene, libelous, invades the privacy of another, threatens another person or entity, or is otherwise objectionable;
+impersonate another user of our Services including an employee of TCI;
+intentionally or unintentionally violate any local, state, or federal law;
+upload, post, or transmit any software or files that contain software viruses or other harmful computer code;
+interfere with the operation of TCI’s web servers or other computers or Internet or network connections or restrict or inhibit any other user from using our Services;
+upload, post, or transmit any information, pictures, graphics, or other content that violates the copyright, patent, trademark, or trade-secret rights of another party;
+upload, post, or transmit any unsolicited or unauthorized advertising, including spam, or gain or harvest any email addresses or other personal information posted by other users of our Services for commercial or unlawful purposes;
+alter, damage, or delete any content or other communications that is not your own or otherwise interfere with the ability of others to access our Services;
+post or transmit through our Services any unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, sexually explicit, profane, hateful, or otherwise objectionable material of any kind, including, but not limited to, any material that encourages conduct that would constitute a criminal offense, give rise to civil liability, or otherwise violate any applicable local, state, national, or international law;
+gain unauthorized access to our Services or any other user account;
+obtain or attempt to obtain any materials or information through any means not intentionally made available on our Services; or
+attempt to hack our Services or underlying software, or to defeat or overcome any encryption and/or digital rights management technology implemented by TCI.
+If TCI is notified of any of the above violations, TCI may investigate the allegation, including cooperating with law enforcement authorities and/or pursuing prosecution of users who are involved in such violations and determine in its sole discretion whether to remove or request the removal of such content and terminate your use of this Website. TCI may disclose any content or electronic communication of any kind: (i) to satisfy any law, regulation, or government request; (ii) if such disclosure is necessary or appropriate to operate this Website; or (iii) to protect the rights or property of TCI.
+10. DMCA
+If you are a copyright owner who believes your copyrighted material has been reproduced, posted or distributed via our Services in a manner that constitutes copyright infringement, please inform our designated copyright agent by sending written notice by U.S. Mail to Ellen Hardy at 3790 El Camino Real #1224, Palo Alto, CA 94306 and/or by email to
+[email protected]
+. Please include the following information in your written notice: (1) a detailed description of the copyrighted work that is allegedly infringed upon; (2) a description of the location of the allegedly infringing material on our Services; (3) your contact information, including your address, telephone number, and, if available, email address; (4) a statement by you indicating that you have a good-faith belief that the allegedly infringing use is not authorized by the copyright owner, its agent, or the law; (5) a statement by you, made under penalty of perjury, affirming that the information in your notice is accurate and that you are authorized to act on the copyright owner’s behalf; and (6) an electronic or physical signature of the copyright owner or someone authorized on the owner’s behalf to assert infringement of copyright and to submit the statement. Please note that the contact information provided in this paragraph is for suspected copyright infringement only.
+11. Limited Liability
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAWS, TCI AND ITS TRUSTEES, OFFICERS, DIRECTORS, AFFILIATES, EMPLOYEES, AGENTS, SUPPLIERS, AND CONTRACTORS (COLLECTIVELY, THE “TCI PARTIES”) SHALL IN NO EVENT BE LIABLE FOR ANY INJURIES, CLAIMS, DAMAGES, LOSSES, OR ANY COMPENSATORY, INCIDENTAL, DIRECT, INDIRECT, SPECIAL, PUNITIVE, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, FEES, FINES, PENALTIES, OR OTHER DAMAGES (INCLUDING, WITHOUT LIMITATION, THOSE RESULTING FROM LOSS OF USE, LOSS OF DATA, LOSS CAUSED BY A COMPUTER OR ELECTRONIC VIRUS, LOSS OF INCOME OR PROFIT, LOSS OF OR DAMAGE TO PROPERTY, CLAIMS OF THIRD PARTIES, OR OTHER LOSSES OF ANY KIND OF CHARACTER), WHETHER BASED IN CONTRACT, TORT, EQUITY, STRICT LIABILITY, OR OTHERWISE, EVEN IF TCI HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR LOSSES, ARISING OUT OF OR IN CONNECTION WITH THE USE OF OUR SERVICES, INCLUDING THE MATERIALS, USER CONTENT, OR ANY FAILURE OR DELAY IN THE OPERATIONS OF OUR SERVICES.
+TO THE EXTENT ANY ASPECTS OF THE FOREGOING LIMITATIONS OF LIABILITY ARE NOT ENFORCEABLE, TCI’S MAXIMUM AGGREGATE LIABILITY ARISING FROM OR IN CONNECTION WITH YOUR ACCESS AND USE OF OUR SERVICES WILL BE LIMITED TO $100 (ONE HUNDRED U.S. DOLLARS).
+12. Indemnity
+Unless you are prohibited from doing so by state constitution, statute, regulation and/or law, you agree to indemnify and hold harmless the TCI Parties from any (i) claim, liability, demand, cause of action, cost, expense, and damages of any nature, in law or equity, or otherwise, arising out of or related to any User Content, Postings, or materials submitted to or displayed on our Services by you or by others using your user account, whether arising from negligence or any other acts or omissions by TCI, and (ii) actual and direct losses, liabilities, claims, costs, or expenses (including reasonable attorneys’ fees) the TCI Parties may suffer as a result of third-party claims, demands, actions, investigations, settlements, or judgments against them arising out of or in connection with your use of our Services, your violation or alleged violation of these Terms, or your violation of any rights of another, whether arising from negligence, wrongful acts, or omissions by you or your dependents or agents.
+13. DISPUTE RESOLUTION
+The following terms shall govern all disputes, claims, and causes of action arising out of or relating to our Services or these Terms (collectively, “
+Disputes
+”).
+CLASS ACTION WAIVER
+. YOU AGREE THAT, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY AND ALL DISPUTES WILL BE RESOLVED ON AN INDIVIDUAL BASIS, WITHOUT RESORT TO ANY FORM OF CLASS ACTION OR MASS ACTION.
+Time Limitation
+. You agree to bring any and all Disputes against us within one year from the date of accrual of a cause of action, and that actions brought after this date will be deemed time-barred.
+14. Applicable Law and Jurisdiction
+All Disputes are governed by and construed in accordance with the internal laws of the State of California without giving effect to any choice or conflict of law provision or rule (whether of the State of California or any other jurisdiction) that would cause the application of the laws of any jurisdiction other than those of the State of California. Any action, litigation, or proceeding of any kind whatsoever arising from or relating to these Terms, including all exhibits, schedules, attachments, and appendices attached to these Terms, and all contemplated transactions, will be instituted exclusively in the federal courts of the United States located within the State of California or the courts of the State of California, and each party irrevocably submits to the exclusive jurisdiction of such courts in any suit, action, or proceeding.
+15. Changes to this Policy
+TCI may, in its sole discretion, modify or revise these Terms at any time by posting an updated version on our Services and will update the Effective Date of these Terms to reflect the date of the changes. Your access to and continued use of our Services after the changes are posted shall constitute acceptance of the revised Terms of Use Policy. You should visit this page periodically to review the most current Terms of Use Policy because they are binding on you.
+16. General
+Entire Agreement
+. These Terms supersede all prior understandings, assurances, orders, and offers, whether written or oral, and shall exclusively govern the relationship between you and TCI in regard to the provisions of the Services. Any amendments or additional terms must be agreed to by TCI in writing.
+Waiver
+. The failure by us to enforce any right or provision of these Terms will not constitute a waiver of future enforcement of that right or provision. The waiver of any right or provision will be effective only if in writing and signed by a duly authorized representative of TCI.
+No Third-Party Beneficiaries
+. These Terms do not and are not intended to confer any rights or remedies upon any person other than you (and specifically including any other parties that may use any of our Services accessed or used by you).
+Severability
+. If any provision of these Terms is invalid, illegal, void or unenforceable, then that provision will be deemed severed from these Terms and will not affect the validity or enforceability of the remaining provisions of these Terms.
+Never Miss a TCI Update
+Sign up to get the latest on TCI programs, products, and professional development offerings.
+Sign Up Today
+Contact Support
+Science
+Elementary Science
+Middle School Science
+Middle School Integrated Science
+Social Studies
+Elementary Social Studies
+Middle School Social Studies
+High School Social Studies
+Resources
+Blog
+TCI Product Updates
+Events
+Support
+Ordering FAQs
+Manage My Order
+Company
+About Us
+Careers
+Shop
+News
+© 2026 TCI
+Terms of Use
+TCI Privacy Policy
+Accessibility Statement
+Business Terms
+System Requirements and Integrations
+Sitemap
+Follow TCI on Facebook
+Follow TCI on Instagram
+See TCI on LinkedIn
+Follow TCI on Twitter
+Watch TCI on YouTube
+Contact Sales

@@ -1,0 +1,2614 @@
+NJ
+E-ZPassÂ®
+Mobile Application Privacy
+Policy
+Effective Date:
+December 29, 2020
+USE
+OF
+THE
+MOB
+ILE
+APPLICATION
+IS
+EVIDE
+NCE
+THAT
+YOU
+AGREE
+WITH
+THE
+MOBILE
+APPLICATION
+TERMS
+OF
+USE
+AGREEMENT
+AND
+THIS
+PRIVACY
+POLICY.
+IF
+YOU
+DO
+NOT
+AGREE
+WITH
+OUR
+POLICIES
+AND
+PR
+ACTICES,
+DO
+NOT
+DOWNLO
+AD,
+REGISTER WITH,
+OR
+USE
+THIS
+MOBILE
+A
+PPLICATI
+ON
+OR,
+IF
+INSTALLED,
+DELETE
+THE
+MOBILE
+A
+P
+P
+FROM
+YOUR
+DEV
+ICE.
+In
+trod
+uct
+ion
+Thank y
+ou f
+or in
+stalling the
+NJ
+E-ZPassÂ®
+Mo
+bile
+application
+(â
+Mobile
+Applicationâ)
+for
+E-ZPassÂ®
+Â®,
+T
+oll
+by Plate or Violation Notice
+customers. T
+his Mobile Application is op
+erated by service pro
+viders on behalf
+of
+the
+New
+Jersey
+E-
+ZPassÂ®
+Pro
+gram,
+comprised
+of
+following
+transpor
+tation
+agencies: New
+Jersey
+Turnpike
+Authority, South Jerse
+y Transportation Authority, Dela
+ware River Por
+t
+Authority, Delaware River and B
+ay
+Authority,
+Burlington
+County Bridge
+Co
+mmission,
+Delaware River
+Jo
+int
+T
+oll
+Bridge
+Commission and
+Cape
+May
+County
+B
+ridge
+Co
+mmission
+(âAut
+horities
+â,
+âAuthorit
+yâ,
+or
+âWeâ).
+This
+Mo
+bile
+Application
+is
+designed
+to
+make
+it
+easier
+and
+more
+effic
+ient
+for customers
+to
+get
+information about
+E-ZPassÂ®
+Â®,
+Violations
+or Toll B
+ills and to maintain their NJ E
+-ZPassÂ®
+ac
+counts or p
+ay their E-ZPassÂ®
+Violations or T
+oll Bills.
+This policy describes the
+NJ
+E-ZPassÂ®
+pr
+ivacy practices regarding infor
+mation collected from users
+of
+this
+Mobile A
+pplication and
+ho
+w
+such inf
+ormation
+is
+used. Your
+use
+of
+the
+NJ
+E-Z
+PassÂ®
+Authoritiesâ
+respective
+web
+sites,
+mobile
+ap
+plications
+and
+https://
+www.ezpassnj.co
+m
+are
+governed
+by
+the
+pr
+ivacy
+p
+olicies
+and
+statements and ter
+ms listed on such sites o
+r mobile applications and t
+his Privacy Policy.
+For
+the p
+urposes
+of
+this
+Mobile
+Application
+P
+rivacy P
+olicy,
+âpersonal
+infor
+mationâ
+means
+any
+information
+concerning
+a
+natural
+person,
+as
+opposed
+to
+a
+corporate
+entity,
+which,
+because
+of
+name,
+number,
+symbol,
+mark, or other identifier, can b
+e used to identi
+f
+y that natural person.
+Children Under
+the Age
+of
+16
+The Mob
+ile Application
+is
+not intended
+for children under
+16
+years
+of
+age, and
+we
+do
+not knowingly collec
+t
+personal information from children under
+16.
+If
+we
+learn
+we
+have collected
+or
+received personal information
+from
+a child un
+der
+16
+without
+verification
+of
+parental consent,
+we
+will
+delete that information.
+If
+y
+o
+u believe
+we might have any infor
+mation from or about a child under 1
+6, please contact us at:
+Chief
+Information Offic
+er
+New Jersey
+Turnpike Auth
+ority
+,
+PO
+BOX 5042, Woodbridge,
+NJ
+0
+7095-
+5042
+Not Intend
+ed for Customers
+Outside the
+Un
+ited S
+tates
+We
+are based
+in
+the United States, and the i
+nformation
+we
+collect
+is
+governed
+by
+U.S. law and relate only to
+your u
+se
+of
+toll roads
+in
+New
+Jersey
+,
+Delaware and
+Pennsylvania,
+in
+the United
+States.
+By
+accessing
+or
+usin
+g
+the Mobile Application,
+or
+otherwise
+providing infor
+mation
+to
+u
+se, you hereby confirm and warrant
+that you
+are
+located
+in
+the United
+State
+s at
+all
+times
+while
+using
+this
+Mob
+ile
+Application.
+If
+you
+are
+not
+a
+reside
+nt
+of
+the
+United Stat
+es,
+do
+not
+set
+up
+a
+NJ
+E-ZPassÂ®
+account.
+Please use the co
+ntact information belo
+w
+if
+you have a question or co
+ncern about the p
+olicies or manner in
+which we treat your person
+al information.
+Information
+Collected Automatically
+When
+You
+Use This
+Mobile Ap
+plicat
+ion
+When
+you
+use
+this
+Mob
+ile
+Ap
+plication,
+the
+Authorities
+or
+th
+eir
+ser
+vice
+pro
+vider
+automaticall
+y
+collect
+a
+nd
+store the following infor
+mation about your use:
+ï·
+User
+Unique
+Identifier (UUID), a
+32
+-digit s
+equence unique
+to
+the
+applicatio
+n
+and device, used
+to
+ensure
+Push Notifications are se
+nt to the correct device
+and application
+ï·
+The Operating
+System version
+of
+y
+our dev
+ice
+ï·
+Your
+transaction
+or
+r
+equest submitted
+or
+rec
+eived through the
+Mobile A
+pplicat
+ion.
+ï·
+Content Size.
+The content size,
+in
+bytes,
+of
+any
+data
+sent
+to
+and received
+by
+y
+ou
+.
+The
+Authorities
+use
+the
+information
+that
+is
+co
+llected
+automatically
+to
+improve
+this
+Mo
+bile
+A
+pplication's
+content,
+security,
+detect
+and
+prevent
+fraud
+(including
+protecting
+against
+and/or
+prosecuting
+malicious,
+deceptive,
+fraudulent,
+or
+illegal
+activ
+ity)
+and
+to
+help
+the
+Au
+thorities
+understand
+how
+users
+are
+in
+teracting
+with
+t
+he
+Mo
+bile
+A
+pplication.
+The
+Authorities
+collect
+thi
+s
+infor
+mation
+for
+statistical
+analysis,
+to
+determine
+what
+infor
+mation
+is
+of
+most and least
+interest
+to
+our users,
+and
+to
+improve
+the utili
+ty
+of
+the material
+a
+vailable
+on
+the
+Mo
+bile
+Applicatio
+n.
+The
+in
+formation
+is
+not
+collected
+for
+commercial
+marketi
+ng
+purposes
+and
+the
+Authorities
+do
+not
+sell
+or
+otherwise
+disclose
+the
+infor
+mation
+collected
+fro
+m
+this
+Mob
+ile
+Application
+for
+commercial m
+arketing pu
+rposes
+.
+Information You Provide
+to
+Us
+The in
+formation
+we
+collect
+on
+or
+through
+our Mobile
+Application may in
+clude:
+ï·
+Information
+that
+you
+pro
+vide
+by
+filling
+in
+for
+ms
+o
+n
+o
+ur
+Mobile
+Application
+(
+this
+includes
+information
+provided
+at the
+time
+of
+registe
+ring
+to
+use
+the Mo
+bile Application,
+creating
+an
+account,
+and/o
+r subscribing
+to
+our service.
+We
+may
+also ask y
+ou for information when you report a problem
+with our Mobile Application);
+ï
+ï·
+Records and copies o
+f your correspondence (including e
+mail addresses and phone n
+umbers), if you contact
+us
+;
+ï
+ï·
+Your
+responses
+to
+surveys conducted
+by
+our service provider for the
+benefit
+of
+the Au
+thorit
+ies
+;
+ï
+ï·
+Details of transactions
+you carry out through t
+he Mobile Applicatio
+n which may contain
+your
+E
+-ZPassÂ®
+account and financial infor
+mation; and/or
+ï
+ï·
+Your search
+q
+ueries
+on
+the Mobile App
+li
+cati
+o
+n.
+ï
+We
+use third party
+service providers
+to
+help
+deliver, manage and maintain this app and th
+e
+NJ
+E-ZPassÂ® System.
+These s
+ervice
+pro
+viders
+may
+have
+acce
+ss
+to
+y
+our
+personal information
+solely f
+or
+t
+hese
+purp
+oses;
+a
+nd
+these service
+providers are r
+equired by contract to not use your per
+sonal information for an
+y other purposes whatsoever.
+ï·
+Payments:
+If
+you
+choose
+to
+fun
+d
+y
+our
+NJ
+E-Z
+P
+assÂ®
+Account
+or
+pay
+T
+oll
+b
+y
+Mail
+invoices
+o
+r
+T
+oll
+violation
+s
+through this
+site, our
+t
+hird
+party
+payment processor w
+ill receive y
+o
+ur
+payment information
+and related
+transac
+tion
+information,
+i
+ncluding
+y
+our
+name,
+your
+account
+number,
+and
+your
+credit
+card,
+debit
+car
+d
+or
+other
+payment
+information.
+If
+you do not wish to
+make payment through this portal,
+you ca
+n mail your payment
+s to:
+E-ZPassÂ®
+ACCOUNT
+PA
+YMENTS
+NJ
+E-ZPassÂ®
+Custo
+mer
+Servi
+ce
+Center
+PO Box 4973
+Newark, NJ 08
+650
+VIOLATION
+P
+AYMENTS
+NJ
+E-ZPassÂ®
+Custo
+mer
+Servi
+ce
+Center
+PO Box 4971
+Newark,
+NJ
+08650
+The third
+party payment processor
+is
+PCI
+compliant, tokenizes
+(masks) your credit card num
+ber
+when
+processing
+your pa
+yment and
+is co
+ntractually restric
+ted fro
+m
+using
+your
+payment in
+formation for
+any
+purpose o
+ther than t
+o
+facilitate your payment due to
+the Authoritie
+s.
+How
+We Use
+Your In
+form
+ation
+We u
+se information that
+we
+collect about you
+or
+that you provide
+to
+us,
+including any personal inf
+orm
+ation
+:
+ï·
+To
+fulf
+ill
+or
+meet the r
+eason
+you
+provided
+the information
+(for exa
+mple,
+if
+you share
+your
+name and contact
+information
+to
+ask
+a
+q
+uestion
+about
+our
+service
+s,
+we
+will
+us
+e
+that
+personal
+infor
+mation
+to
+respo
+nd
+to
+your
+in
+qui
+ry);
+ï·
+To
+pro
+vide, su
+pport, personalize, and develop ou
+r Mobile Application, an
+d se
+rvi
+ces;
+ï·
+To
+create and maintain,
+your E-ZPassÂ®
+acco
+unt with u
+s
+;
+ï·
+To
+process
+your
+requests,
+transactio
+ns,
+and
+p
+ayments,
+whether
+through
+y
+our
+E
+-ZPassÂ®
+account,
+T
+oll
+by
+Plate, or Vio
+lation Notice process, and prevent and/or
+detect transactional fra
+ud;
+ï·
+To
+provide you with information
+or
+services
+that y
+ou request
+fr
+om
+us
+;
+ï·
+To
+provide
+y
+ou
+w
+ith
+support
+and
+to
+r
+espond
+to
+your
+inquir
+ies,
+including
+to
+investigate
+and
+address
+your
+concerns and
+monitor and improve our respo
+nses;
+ï·
+Notify you when updates
+to
+the Mobile Application are available, and
+of
+changes
+to
+any services w
+e offer or
+provide though it;
+ï·
+To
+help maintain t
+he safet
+y, security, a
+nd integrit
+y of
+our Mo
+bile Applicatio
+n, services,
+databases
+and o
+ther
+technology assets, and b
+usiness;
+ï·
+For
+testing,
+research,
+anal
+ysis,
+and
+product
+d
+evelopment,
+including
+to
+develop
+and
+improve
+our
+Mobile
+Application, products, and ser
+vices;
+ï·
+To
+r
+espond
+to
+la
+w
+enforce
+ment and/or any
+administrative
+agency requests
+and
+as
+required
+by
+applicable law,
+court orde
+r, or governmental regulations;
+ï·
+To carry out our obligations and enforce
+our rights arising from any contracts entered
+into bet
+ween you and
+us, including for billing a
+nd collection;
+ï·
+In
+any other way
+we
+may describe when you
+pr
+ovide the information; an
+d
+ï·
+For any other
+purpose with your con
+sen
+t.
+Information
+and C
+hoic
+e
+You m
+ay choose not
+to
+send
+the Auth
+orities
+an
+e
+-mail, submit
+an
+o
+nline f
+o
+rm
+or
+initiate a transaction
+or
+view
+and modify
+an
+existing E
+-ZPassÂ® account
+or
+pay tolls throu
+gh the Toll
+by
+Plate
+or
+Violation Notice
+process
+through
+t
+he
+Mo
+bile
+Application. While
+your
+choice not
+to
+participate
+in
+t
+hese
+ac
+tivities may
+li
+mit
+your ability
+to
+receive
+specific
+services
+o
+r
+products
+through
+this
+Mo
+bile
+Applicatio
+n,
+it
+will
+not
+prevent
+y
+ou
+fro
+m
+requesting
+services o
+r
+products fro
+m the
+Authorities
+by ot
+her
+means and
+should
+not have
+an
+impact on
+your
+ability to take advantage o
+f other features of the Mob
+ile Application.
+Mobile Device Acc
+ess
+The
+Mobile
+Application
+m
+a
+y
+request
+access
+or
+per
+mission
+to
+certain
+fea
+tures
+fro
+m
+your
+mobile
+device,
+including your mobile
+deviceâs
+functions, such
+as
+Camera, Bluetooth,
+or
+Microphone.
+If
+you wish
+to
+c
+han
+ge
+the access or per
+missions, you may do so in your device
+âs settings.
+Mobile Device
+D
+at
+a
+Device
+information
+s
+uch
+a
+s
+your
+mobile
+device
+ID
+number
+(UDID),
+m
+od
+el,
+an
+d
+manufacturer,
+version
+of
+your operating syste
+m are used as part o
+f the Mobile Applicationâs T
+wo factor authentication process.
+Push No
+tif
+ic
+atio
+ns
+We
+m
+a
+y
+req
+uest
+to
+send
+you
+push
+notifications
+regarding
+your
+account
+or
+the
+Mobile
+A
+pplication.
+If
+you
+wish
+to
+opt-out
+from
+receivin
+g
+these
+types
+o
+f
+n
+otifications
+through
+the
+Mobile
+A
+pplicatio
+n,
+y
+ou
+may
+t
+urn
+them off in your deviceâs
+settings or in the Notificatio
+ns settings in t
+he Mob
+ile Application.
+Voice Search Ass
+istants
+on
+Your D
+evice
+The voice
+search assistant functions
+on
+your
+device may request
+to
+learn
+from
+the application and y
+o
+ur usage
+of
+th
+e Mobile Application.
+If
+you wish
+to
+opt
+-out
+from participating, you may turn them off
+in
+your
+dev
+iceâ
+s
+settings.
+W
+e do not collect or store this data.
+Disclosure
+of
+Information
+Collected Through This
+M
+obile A
+pp
+lica
+tio
+n
+Your
+participation
+in
+a tr
+ansaction
+resulting
+in the
+disclosure
+of per
+sonal infor
+mation to
+the
+Authorities
+and
+their service pro
+vider,
+whether solicited
+or
+unsolicited
+, constitutes co
+nsent
+to
+the
+Authoritiesâ
+co
+llection and
+disclosure
+of
+the information for
+th
+e purposes f
+or which you disclosed the
+i
+nformation
+to
+the Au
+thorities and
+their
+service
+provider
+,
+as
+was
+rea
+sonably
+ascertainable
+fro
+m
+the
+nature
+a
+nd
+terms
+of
+th
+e
+transaction
+(e.g.
+replenishment of your E
+-ZPassÂ® accou
+nt, payment of a toll o
+r payment of a toll
+violation).
+However, the Authoritie
+s and their service p
+rovider may collect or
+disclose personal information
+without
+your
+co
+nsent
+if
+the
+collectio
+n
+or
+disclosure is:
+(1) n
+ecessary
+to
+perform
+the
+statutory
+duties
+of
+the
+Authorities,
+or necessary for the
+Authorities to oper
+ate a program authorized by law, or authorized
+by state or feder
+al
+statute
+or
+regulation;
+(2) m
+ade pursu
+ant
+to
+a court
+order, subpoena
+or
+by
+law;
+(
+3)
+for the
+purpose
+of
+validating
+the identity of the user; (4
+) to enforce or app
+ly ourTerms and Conditions , available
+at:
+[https://www.ezpass
+nj.com/en/abo
+ut/terms.shtml
+]]
+and
+other
+agree
+ments,
+including
+for
+billing
+and
+collectio
+n
+purposes; (5) if
+we believe disclosure is necessar
+y or appropriate to p
+rotect the rights, propert
+y, or safety of
+the
+Authorities,
+o
+ur
+customers,
+or
+others,
+and
+(
+6)
+to
+enforce
+your
+obligations
+as
+a
+user
+of
+the
+E
+-ZPassÂ®
+sys
+tem.
+We
+may
+disclose
+ag
+gregated
+information
+about
+o
+ur
+users,
+an
+d
+infor
+mation
+that
+does
+not
+id
+entify
+any
+individual, without restric
+tion.
+The
+Authorities
+and
+their
+se
+rvice
+provider
+may
+disclose
+personal
+information
+to
+federal
+or
+state
+la
+w
+enforcement
+authorities
+to
+enforce
+the
+Authoritiesâ
+and
+t
+heir
+service
+pr
+ovidersâ
+rights
+a
+gainst
+unauthorized
+access
+or
+atte
+mpted
+unauthorized
+access
+to
+the
+Authorit
+iesâ
+a
+nd
+their
+ser
+vice
+providerâs
+infor
+mation
+technology assets or
+against other inappropr
+iate uses of this Mobile Application.
+Further,
+for
+the
+Authorities,
+an
+d
+their
+service
+provider
+wh
+en
+a
+cting
+on
+behal
+f
+of
+the
+Aut
+horities,
+the
+disclosure
+of
+information,
+including
+per
+sonal
+information,
+co
+llected
+through
+this
+Mob
+ile
+Application
+is
+subjec
+t
+to
+the
+provisions of the New Jer
+sey State Freedo
+m of Information Act.
+Retention
+of
+Information Collected
+Through this
+M
+obile A
+ppl
+ic
+ation
+In
+general,
+the
+Aut
+horities
+â
+and
+their
+service
+provider
+âs
+Internet
+serv
+ices
+logs,
+co
+mprised
+o
+f
+electronic
+files
+or
+automated
+logs
+created
+to
+m
+o
+nitor
+access
+and
+use
+of
+Authorities
+and
+their
+service
+provider
+services
+provided
+through
+this
+Mobile
+Application,
+w
+ill
+be
+retained
+fo
+r
+as
+long
+as
+required
+by
+applicable
+law
+or
+authorities
+retention
+policies.
+Information,
+including
+p
+ersonal
+in
+formation,
+that
+you
+submit
+in
+an
+e
+-m
+ail
+or
+when
+you initiate
+an
+online
+transaction
+such
+as
+opening
+an
+E
+-ZPassÂ®
+account
+or
+viewing
+and
+modifying an
+existing
+E-ZPassÂ®
+account
+or
+paying to
+lls
+through
+the
+Toll
+by
+Plate
+or
+Violation
+No
+tice
+process
+is r
+etained
+in
+acco
+rdance
+w
+ith
+t
+he
+reco
+rds
+retention
+and
+d
+isposition
+sc
+hedule
+estab
+lished
+f
+or
+the
+records
+of
+the
+NJ
+E
+-
+ZPassÂ® program.
+Access
+to
+and Correction
+of
+Per
+sonal Information Collected T
+hrough this
+M
+obile Ap
+pl
+ica
+tion
+Any
+user
+m
+ay
+submit
+a
+request
+to
+th
+e
+Chief
+In
+formation
+O
+fficer
+of
+th
+e
+Ne
+w
+J
+ersey
+Turn
+pike
+Authorit
+y
+to
+determine whet
+her p
+ersonal infor
+mation per
+taining
+to
+that user
+has b
+een collected
+through
+this Mob
+ile
+App.
+Any
+such
+r
+equest
+shall
+be
+made
+in
+w
+riting
+to
+the
+ad
+dress
+below
+and
+must
+be
+accompanied
+by
+r
+easonable
+proof
+of
+identity o
+f the
+user.
+Reasonable
+proof
+of
+identity
+may
+include
+verification
+of
+a
+signature,
+inclusio
+n
+of
+an
+identifier
+gen
+erall
+y
+known
+only
+to
+the
+user,
+or
+sim
+ilar
+appropriate
+identif
+ication.
+The
+addr
+ess
+of
+the
+Chief Information Officer is:
+Chief
+Information Offic
+er
+New Jersey
+Turnpike Auth
+ority
+,
+PO
+BOX 5042, Woodbridge,
+NJ
+0
+7095-
+5042
+The
+Chief
+In
+formation
+Office
+r
+shall,
+within
+fifteen
+(15)
+business
+da
+ys
+of
+the
+date
+o
+f
+the
+r
+eceipt
+of
+a
+proper
+request:
+(i)
+provide
+access
+to
+the
+personal
+information;
+(ii)
+deny
+access
+in
+w
+riting,
+explaining
+t
+he
+rea
+sons
+therefore;
+or
+(iii)
+ack
+nowledge
+the
+receipt
+o
+f
+t
+he
+request
+in
+writi
+ng,
+statin
+g
+t
+he
+approximate
+d
+ate
+when
+the
+request
+w
+ill
+be
+granted
+or
+denied,
+which
+date
+shall
+not
+be
+m
+o
+re
+th
+an
+t
+hirty
+(30
+)
+da
+ys
+from
+t
+he
+date
+of
+the
+ack
+now
+ledgment
+.
+In
+th
+e event that the Authorities have collected personal information pertaining
+to
+a user through this Mobile
+Application
+and
+that
+in
+formation
+is
+to
+be
+pro
+vided
+to
+the
+user
+pursuant
+to
+the
+userâs
+req
+uest,
+the
+Chief
+Information
+Officer
+shall
+inform
+t
+he
+user
+o
+f
+his
+o
+r
+her
+rig
+ht
+to
+request
+that
+the
+personal
+information
+be
+amended or corr
+ected under applicab
+le New Jersey state law.
+You can
+also s
+ubmit req
+uests
+to
+change or
+update
+your
+Account
+information,
+add
+vehicles
+to
+your Acco
+unt,
+view
+your
+Account
+balance,
+vie
+w
+statements
+and
+transactions
+p
+osted
+to
+your
+Acco
+unt,
+an
+d
+make
+pa
+yments
+to
+y
+o
+ur
+A
+ccount.
+By
+using
+this
+Mo
+bile
+A
+pplication
+to
+m
+a
+ke
+changes
+to
+your
+Account,
+you
+consent
+to
+the
+modification
+of
+your
+i
+nformation within
+the New
+Jerse
+y
+E-ZP
+assÂ®
+r
+ecord sy
+ste
+m
+and,
+in
+the
+case
+of
+a
+c
+hange
+in
+credit/debit
+card
+or
+bank
+account
+infor
+mation,
+y
+ou
+autho
+rize
+New
+J
+ersey
+E-ZPassÂ®
+to
+ch
+arge
+that
+credit/debit
+card
+or b
+ank account
+for
+the
+amounts
+necessar
+y to
+satisfy your
+obligations
+ass
+ociated
+with
+your
+E-ZPassÂ® account.
+Confidentiality and I
+ntegrity
+of
+Personal
+Information Collected T
+hrough this Mobile A
+ppl
+ica
+tion
+The
+Authorities
+and
+their
+service
+provider
+undertake
+reasonable
+measures
+to
+p
+rotect
+your
+personal
+information
+collec
+ted
+through
+this
+Mobile
+Applicatio
+n.
+T
+he
+Authorities
+and
+their
+service
+provider
+limit
+employee access
+to
+per
+sonal information collected
+through this Mobile Applicatio
+n
+to
+only those employees
+who need access
+to
+the infor
+mation
+in
+the performance
+of
+their official and/or contractual duties. Emplo
+yees
+who
+have
+access
+to
+thi
+s
+information
+are
+required
+to
+follow
+ap
+propriate
+pr
+ocedures
+in
+co
+nnection
+with
+any
+disclosure of personal in
+formation.
+In
+addition,
+the
+Author
+ities
+a
+nd
+their
+service
+pr
+ovider
+have
+imple
+mented
+procedures
+intend
+ed
+to
+safeguard
+the integrity
+of
+their infor
+mation technology assets, includin
+g, but not limited to, authentication, monitori
+ng,
+auditing,
+and
+encryption.
+These
+security
+procedures
+have
+been
+integrated
+into
+t
+he
+design,
+implementation,
+and day-
+to
+-day operatio
+ns
+of
+this
+Mobile
+Application as
+part
+of
+the
+Author
+itiesâ
+and
+their
+service
+providerâs
+continuing
+commitment
+to
+the
+sec
+urity
+of
+electronic
+content
+a
+s
+w
+ell
+as
+the
+electronic
+transmi
+ssion
+of
+inf
+ormati
+on.
+Unfortunately,
+the
+transmissio
+n
+of
+information
+via
+the
+internet
+and
+mobile
+applications
+is
+not
+co
+mpletely
+secure.
+Although
+the
+Authorities
+have
+reasonab
+le
+measures
+in
+place
+desig
+ned
+to
+protect
+your
+personal
+information,
+we
+cannot
+guarantee
+th
+e
+security
+of
+y
+our
+personal
+information
+transmitted
+to
+or
+through
+our
+Mobile Application.
+Dis
+claim
+er
+The information provided
+in this privacy polic
+y should
+not be construed as gi
+ving business, legal, or o
+ther
+advice, or
+warranting as fail proof the security o
+f information provided
+through this Mobile Application.
+Link
+s
+In
+ord
+er
+to
+provide
+users
+with
+certain
+information,
+the
+Authorities
+may
+provide
+lin
+ks
+t
+o
+the
+mobile
+applications
+of
+local,
+State,
+and
+f
+ederal
+g
+overnment
+ag
+encies,
+and
+to
+the
+mobile
+applications
+of
+other
+organizations.
+A
+li
+nk
+does
+not
+constitute
+an
+endorsement
+of
+the
+content,
+viewpoint,
+ac
+curacy,
+opinions,
+policies, pro
+ducts, services,
+or
+accessibility
+of
+that
+mobile ap
+plication. Once
+you connect
+to
+another
+website
+or
+mobile
+app
+lication
+from
+this
+Mob
+ile
+Application,
+includi
+ng o
+ne
+maintained
+b
+y
+the
+State,
+you ar
+e
+subject
+to
+the
+terms
+and
+conditions
+of
+that
+mobile
+applicatio
+n
+o
+r
+website,
+incl
+uding,
+but
+not
+limited
+to,
+its
+Internet
+privacy po
+licy. T
+herefore,
+it
+is
+your
+sole
+responsibility to
+evaluate third
+part
+y sites or
+mobile
+applications to
+determine
+whether
+they
+are
+suited
+to
+your
+needs,
+i
+ncluding,
+among
+other
+things,
+wheth
+er
+the
+content
+is
+reliable,
+w
+hether
+y
+o
+ur
+privacy
+w
+ill
+be
+protected
+and
+whether
+the
+level
+of
+security
+provide
+d
+is
+adequate
+for
+your particular use.
+Changes
+to
+this
+Privacy Poli
+cy
+It
+is
+our polic
+y
+to
+post
+any changes
+we
+make
+to
+our
+pr
+ivacy polic
+y
+on
+this page.
+If
+we
+make material changes
+to
+ho
+w
+we
+tr
+eat
+our
+users
+'
+personal
+information,
+a
+notice
+w
+i
+ll
+b
+e
+po
+sted
+o
+n
+the
+mobile
+ap
+p
+infor
+ming
+users
+that
+a
+material
+cha
+nge
+has
+been
+made
+to
+the
+privacy
+po
+licy.
+T
+he
+date
+the
+privac
+y
+policy
+was
+last
+revised
+is
+identified
+at
+the top
+of
+t
+he page. You are responsible for periodically visiting this privacy policy
+to
+check for
+any changes.

@@ -1,0 +1,8 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+Sitemap: https://tradingeconomics.com/sitemap.xml
+Sitemap: https://tradingeconomics.com/sitemap.ashx?db=articles

@@ -1,0 +1,79 @@
+Last Revision Date — June 24, 2024
+
+The University of Michigan (U-M) recognizes and values the privacy of its community members and guests. We strive to be leaders and best in the ways we manage your personal information. We are committed to transparency by giving you an understanding of what personal information we collect, how we use it, and when we share it.
+
+At a Glance
+If you don’t have time for the detailed privacy notice below, here is what you need to know:
+
+The University of Michigan is a large institution with many websites. This notice relates to our main website, umich.edu. Individual U-M units and organizations may have their own privacy notices.
+Our goal is to limit the information we collect to what we need to support our academic, research, and healthcare missions.
+We are committed to using your personal information only for the purposes for which it was collected.
+We never sell your personal information and when we share it outside U-M, it is only to enable operations and services on the university’s behalf, meet legal obligations, or protect the safety, property, or rights of the university, its community and guests,
+We strive to give you choices about the personal information collected on our website.
+If you have any questions or concerns about your privacy on the umich.edu website, you can contact the ITS Privacy Office.
+Scope
+This privacy notice applies to our practices for handling personal information on the University of Michigan main website (umich.edu). The general privacy statement describes activities conducted by the University of Michigan that involve the collection and processing of personal information.
+
+U-M schools, departments, units, clubs, labs, and other groups may have privacy notices specific to their collection and processing of your personal information, especially if it differs from the practices described in this notice.
+
+What Information We Collect
+The University of Michigan website collects personal information in the following ways:
+
+When you directly provide it to us, such as when you sign up for a newsletter. This information may include your name and contact information.
+When technology captures your information automatically, such as when a cookie is placed on your device. Automatically collected information may include:
+The Internet domain you use
+Your device’s IP address
+The type of browser
+The date and time of visit
+The address of the website that linked to umich.edu.
+When third-party advertising and marketing providers, such as Google Analytics, capture your information on our behalf. Examples of information captured by third-party service providers include:
+Content viewed during the visit
+Date and time of visit
+Amount of time spent on the website
+Visitor location based on IP address
+Demographic information
+Search terms entered on the website.
+How We Use Personal Information
+The University of Michigan uses information about your interactions with our website to:
+
+Maintain our website by monitoring website performance and making improvements to functionality and user experience.
+Better connect with prospective students and the global community by offering relevant information about university services, events, and educational programs.
+We may occasionally use personal information for other legitimate and specific purposes. When these situations occur, we will do our best to inform you.
+With Whom We Share Personal Information
+We do not sell or rent your personal information collected here. We may share it with service providers that support our operations and activities. We require our service providers to keep your personal information secure and use or share it only to provide services on our behalf.
+
+We may also share your personal information when required by law, or when we believe sharing will help to protect the safety, property, or rights of the university, members of the university community, and university guests.
+
+What Choices You Can Make About Your Information
+When you visit umich.edu, “cookies” are placed on your computer or device. Cookies are files that store information about your website visits and interactions. When you access umich.edu, the following cookies may be placed on your device, depending on your web browser settings:
+
+U-M Cookies
+Cookie name	Purpose	Duration
+alerts-collapsed	Stores current user's alert banner open/close status.	Session (auto-deletes when you quit your browser)
+um_privacy_consent	Stores current user's cookie preference.	1 Year
+um_cookie_consent	Stores current user's cookie preference. (deprecated)	1 Year
+Third-Party Cookies
+Cookie type	Purpose	Opt-out
+Cloudflare Cookies	Cloudflare uses various cookies to maximize network resources, manage traffic, and protect sites from malicious traffic. See Cloudflares' privacy policy.	These cookies are considered strictly necessary.
+DoubleClick Cookies	DoubleClick, which is run by Google, uses cookies to improve advertising. The cookies collect information specific to your browsing activity and keep it linked to your unique cookie ID. See DoubleClick’s cookie policy .	You can opt out of Google’s add personalization from Google Ads Settings.
+Google Analytics Cookies	Google Analytics cookies count visits and traffic sources in order to measure and improve the performance of our website. See details about Google Analytics’ usage of cookies on websites and privacy policy .	Find out more about managing cookies through your browser.
+CrazyEgg Cookies	CrazyEgg Cookies provide information on how visitors use our website. See here the Privacy Policy and the Cookie Policy of CrazyEgg.	Find out here on how to opt out.
+Manage Privacy Preferences
+Below you can manage what types of cookies are placed on your device by our website.
+
+Privacy Preferences
+Social Media Plugins
+Some of the pages on our website have embedded social media sharing buttons. When you interact with these buttons, social media platforms place cookies or other tracking technologies on your device. We do not have access to, or control of, any information collected through these buttons. The social media platforms are responsible for how they use your information. For specific information on how these platforms use cookies, see the cookie policies of X (Twitter) , Facebook , Pinterest , LinkedIn , Instagram and YouTube.
+
+How We Keep Personal Information Secure
+The University of Michigan recognizes the importance of maintaining the security of the information it collects. We strive to protect information from unauthorized access and damage, and ensure reasonable security measures are in place to keep your personal information secure.
+
+Privacy Notice Changes
+This privacy notice may be updated from time to time. We will post the date our notice was last updated at the top of this privacy notice.
+
+Who to Contact with Questions or Concerns
+If you have any concerns or questions about how your personal data is used, please contact the ITS Privacy Office.
+
+Special Notices
+Persons under the age of 13 or their parents or guardians
+Persons within the European Union

@@ -1,0 +1,140 @@
+User-agent: *
+User-agent: Screaming Frog SEO Spider
+
+# Allow List
+Allow: /*?p=
+Allow: /media/
+
+# Disallow Directories
+Disallow: */account/
+Disallow: */address/
+Disallow: */app/
+Disallow: */bin/
+Disallow: */cart/
+Disallow: */catalogsearch/
+Disallow: */checkout/
+Disallow: */contacts/
+Disallow: */control/
+Disallow: */customer/
+Disallow: */CVS/
+Disallow: */dev/
+Disallow: */giftcard/
+Disallow: */guest/
+Disallow: */index.php/
+Disallow: */newsletter/
+Disallow: */order/
+Disallow: */phpserver/
+Disallow: */product_compare/
+Disallow: */review/
+Disallow: */sales/
+Disallow: */sendfriend/
+Disallow: */storecredit/
+Disallow: */setup/
+Disallow: */update/
+Disallow: */vault/
+Disallow: */vendor/
+Disallow: */wishlist/
+Disallow: /catalog/product/view/
+Disallow: /review/product/list/id/
+
+# Disallow Old Directories
+Disallow: /error_log
+Disallow: */404/
+Disallow: */cgi-bin/
+Disallow: */downloader/
+Disallow: */errors/
+Disallow: */includes/
+Disallow: */lib/
+Disallow: */pkginfo/
+Disallow: */report/
+Disallow: */shell/
+Disallow: */var/
+Disallow: */christmascloth/
+Disallow: */itssewemma/
+Disallow: */ecc/
+Disallow: */magmi/
+Disallow: */scripts/
+Disallow: */.well-known/pki-validation/
+Disallow: /poll/
+Disallow: /tag/
+Disallow: /catalogsearch/result/
+
+# Disallow Files & Parameters
+Disallow: */CHANGELOG.md
+Disallow: */composer.json
+Disallow: */composer.lock
+Disallow: */CONTRIBUTING.md
+Disallow: */CONTRIBUTOR_LICENSE_AGREEMENT.html
+Disallow: */COPYING.txt
+Disallow: */Gruntfile.js
+Disallow: */ISSUE_TEMPLATE.md
+Disallow: */LICENSE.html
+Disallow: */LICENSE.txt
+Disallow: */LICENSE_AFL.txt
+Disallow: */nginx.conf.sample
+Disallow: */package.json
+Disallow: */package.json.sample
+Disallow: */php.ini.sample
+Disallow: */RELEASE_NOTES.txt
+Disallow: /cron.php
+Disallow: /cron.sh
+Disallow: /install.php
+Disallow: /LICENSE_EE.html
+Disallow: /LICENSE_EE.txt
+Disallow: /*.php$
+Disallow: /*SID=
+Disallow: /*.CVS
+Disallow: /*.Idea$
+Disallow: /*.Sql$
+Disallow: /*.Svn$
+Disallow: /*.Tgz$
+Disallow: /*.Zip$
+Disallow: /*?*=
+
+# Google's Ad & Shopping Bots
+User-agent: Storebot-Google
+User-agent: Mediapartners-Google
+User-agent: AdsBot-Google
+Allow: /
+
+# Disallow Bad Bots
+User-agent: Baiduspider
+User-agent: 360Spider
+User-agent: Yisouspider
+User-agent: PetalBot
+User-agent: AhrefsBot
+User-agent: DotBot
+User-agent: MJ12bot
+User-agent: rogerbot
+User-agent: BrandVerity
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+User-agent: Sogou web spider
+Disallow: /
+User-agent: Sogou inst spider
+Disallow: /
+User-agent: Robozilla
+Disallow: /
+User-agent: yahoo-mmcrawler
+Disallow: /
+User-agent: psbot
+Disallow: /
+User-agent: asterias
+Disallow: /
+User-agent: yahoo-blogs/v3.9
+Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: brands-bot
+Disallow: /
+User-agent: brands-bot-logo
+Disallow: /
+
+User-agent: Pinterestbot
+Crawl-delay: 1
+
+Sitemap: https://www.fatquartershop.com/sitemap.xml

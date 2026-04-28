@@ -1,0 +1,23 @@
+# go away
+
+# Allow Google and Bing to search.
+User-Agent: GoogleBot
+User-Agent: Bingbot
+User-agent: msnbot
+User-agent: Slurp
+User-agent: ia_archiver
+User-agent: *
+
+Allow: /
+
+Disallow: /_resources/
+
+Disallow: /_migration/
+
+Disallow: /_showcase/
+
+Disallow: /_testing/
+
+Disallow: /_widgets/
+
+Sitemap: https://www.sfcollege.edu/sitemap.xml

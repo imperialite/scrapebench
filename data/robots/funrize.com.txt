@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /*?*
+Disallow: /deep-link/*
+Disallow: /lobby?*
+Disallow: /auth/*
+Disallow: /signup/*
+Disallow: /signin/*
+Disallow: /feed/
+Disallow: *action=
+Disallow: /news/?p
+Disallow: /articles/?p
+Disallow: /affiliates
+Disallow: /registration-complete
+Disallow: /__prometheus_metrics
+Disallow: /__prometheus_health

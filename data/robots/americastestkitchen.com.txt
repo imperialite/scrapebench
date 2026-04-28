@@ -1,0 +1,96 @@
+# Wildcard Rules
+
+  User-Agent: *
+    Disallow: *?*hpv=*
+    Disallow: *?*sqn=*
+    Disallow: /*/email_friend
+    Disallow: /*/shopping_list
+    Disallow: /*/user_favorite
+    Disallow: /admin
+    Disallow: /favorites
+    Disallow: /friends
+    Disallow: /gift_membership
+    Disallow: /interstitial
+    Disallow: /interstitials
+    Disallow: /partner
+    Disallow: /radio
+    Disallow: /reebok
+    Disallow: /register
+    Disallow: /test-recipe
+    Disallow: /sso/login
+    Disallow: /search
+
+
+  # Disallow Rules
+
+    User-agent: Amazonbot
+    Disallow: /
+
+    User-agent: anthropic-ai
+    Disallow: /
+
+    User-agent: AwarioRssBot
+    Disallow: /
+
+    User-agent: AwarioSmartBot
+    Disallow: /
+
+    User-agent: Bytespider
+    Disallow: /
+
+    User-agent: CCBot
+    Disallow: /
+
+    User-agent: ChatGPT-User
+    Disallow: /
+
+    User-agent: ClaudeBot
+    Disallow: /
+
+    User-agent: Claude-Web
+    Disallow: /
+
+    User-agent: cohere-ai
+    Disallow: /
+
+    User-agent: DataForSeoBot
+    Disallow: /
+
+    User-agent: EasouSpider
+    Disallow: /
+
+    User-agent: FacebookBot
+    Disallow: /
+
+    User-agent: Google-CloudVertexBot
+    Disallow: /
+
+    User-agent: Google-Extended
+    Disallow: /
+
+    User-agent: GPTBot
+    Disallow: /
+
+    User-agent: magpie-crawler
+    Disallow: /
+
+    User-agent: OAI-SearchBot
+    Disallow: /
+
+    User-agent: omgili
+    Disallow: /
+
+    User-agent: omgilibot
+    Disallow: /
+
+    User-agent: peer39_crawler
+    Disallow: /
+
+    User-agent: peer39_crawler/1.0
+    Disallow: /
+
+    User-agent: PerplexityBot
+    Disallow: /
+
+
+Sitemap: https://www.americastestkitchen.com/sitemap.xml

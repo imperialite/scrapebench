@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /recommended/
+
+Sitemap: https://www.inchcalculator.com/sitemap_index.xml

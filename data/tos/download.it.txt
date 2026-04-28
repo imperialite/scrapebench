@@ -1,0 +1,49 @@
+Privacy Policy of download.it
+This Application collects some Personal Data from its Users.
+
+Personal Data processed for the following purposes and using the following services:
+Advertising
+Google AdSense and Prebid
+Personal Data: Trackers; Usage Data
+
+Analytics
+Google Analytics (Universal Analytics), StatCounter and Quantcast Measure
+Personal Data: Trackers; Usage Data
+
+Commercial affiliation
+VigLink
+Personal Data: Trackers; Usage Data
+
+Contacting the User
+Contact form
+Personal Data: email address
+
+Content commenting
+Facebook Comments
+Personal Data: Trackers; Usage Data
+
+Displaying content from external platforms
+Google Fonts
+Personal Data: Usage Data; various types of Data as specified in the privacy policy of the service
+
+Font Awesome
+Personal Data: Usage Data
+
+Infrastructure monitoring
+Datadog
+Personal Data: various types of Data as specified in the privacy policy of the service
+
+Tag management
+Google Tag Manager
+Personal Data: Trackers; Usage Data
+
+Information on opting out of interest-based advertising
+In addition to any opt-out feature provided by any of the services listed in this document, Users may learn more on how to generally opt out of interest-based advertising within the dedicated section of the Cookie Policy.
+
+Contact information
+Owner and Data Controller
+Download.it
+
+Owner contact email: team@download.it
+
+Latest update: December 28, 2022

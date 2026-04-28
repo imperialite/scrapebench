@@ -1,0 +1,75 @@
+User-agent: *
+Dis
+allow: /Account-Show
+Dis
+allow: /Account-EditProfile
+Dis
+allow: /Address-List
+Dis
+allow: /Cart-AddProduct
+Dis
+allow: /Cart-Show
+Dis
+allow: /COBilling-Start
+Dis
+allow: /COShipping-Start
+Dis
+allow: /COSummary-Start
+Dis
+allow: /COSummary-Submit
+Dis
+allow: /Login-Show
+Dis
+allow: /Order-History
+Dis
+allow: /PaymentInstruments-Add
+Dis
+allow: /PaymentInstruments-List
+Dis
+allow: /cart*
+Dis
+allow: /on/demandware.store/*
+Dis
+allow: /*/account/
+Dis
+allow: /*/checkout/
+Dis
+allow: /*/cart
+Dis
+allow: *srule
+Dis
+allow: *cgid
+Dis
+allow: *demandware.store
+Dis
+allow: *Product-Variation
+Dis
+allow: *Product-Detail
+Dis
+allow: *search?
+Dis
+allow: *prefn
+Dis
+allow: *prefv
+Dis
+allow: *?source=
+Dis
+allow: *?sz=
+Dis
+allow: *psortd
+Dis
+allow: *pmax
+Dis
+allow: *pmin
+Dis
+allow: *?q=
+Dis
+allow: /search?q=
+Dis
+allow: *start=
+Sitemap: https://funko.com/csitemap_index.xml
+Sitemap: https://funko.com/csitemap_index_en_CA.xml
+Sitemap: https://funko.com/csitemap_index_en_EU.xml
+Sitemap: https://loungefly.com/csitemap_index.xml
+Sitemap: https://loungefly.com/csitemap_index_en_CA.xml
+Sitemap: https://loungefly.com/csitemap_index_en_EU.xml

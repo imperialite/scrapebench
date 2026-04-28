@@ -1,0 +1,528 @@
+HT Digital Streams Limited Terms and Conditions – Live Hindustan
+Terms of use
+HT DIGITAL STREAMS LIMITED
+Applies to: hindustantimes.com, livemint.com, livehindustan.com, healthshots.com and their mobile apps, emails/newsletters, APIs, widgets, RSS feeds, and any online service we operate (collectively, the “Services”).
+These Terms of Use (the “Terms”) are a legally binding contract between HT Digital Streams Limited (“HTDSL”) and you (“User”, “you”, “your”). For ease of reference, references to “we”, “us”, “our” include HTDSL and, where the context permits, other group companies of The Hindustan Times Limited, our affiliates and permitted assigns. By using the Services—whether as a visitor or registered user—you agree to these Terms and to the policies they reference (our Privacy Policy and Cookie Policy, together, the “Policies”). If you do not agree, please do not use the Services.
+1) Who we are & how these Terms work
+These Terms govern your use of the editorial/news and other Services of Hindustantimes.com, livehindustan.com and Livemint.com, including other features offered through our websites, apps, newsletters, widgets, APIs, and feeds.
+2) Other documents that also apply
+Our Privacy Policy and Cookie Policy form part of these Terms. Certain features (e.g., APIs/embeds) may have additional terms.
+3) Changes we may make
+We may update these Terms or the Services at any time by posting the updated Terms and, where required by law, providing additional notice. Your continued use after updates means you accept the changes. We may modify, suspend, or discontinue features or the Services for business, legal, or operational reasons.
+4) Who can use the Services
+You must be 18+ and have the legal capacity to contract under Indian law. If you are under 18, you may browse only with the involvement and supervision of a parent/guardian who accepts these Terms on your behalf.
+5) Your account, security & fair access
+• Some features require registration or a paid plan. Provide accurate, up to date information and keep it current.
+• Credentials are individual and nontransferable. Do not share logins, bypass paywalls/meters, or attempt to defeat access controls.
+• You are responsible for all activity under your account. Notify us immediately of any unauthorized use.
+• We may deactivate inactive free accounts; paid subscriptions remain unaffected while active.
+6) What you’re allowed to do (licence)
+We grant you a revocable, nonexclusive, nontransferable licence to access the Services and view content strictly for personal, non-commercial use.
+7) Prohibited Uses:
+• Copy, reproduce, republish, distribute, publicly display/perform, adapt, translate, or create derivative works from our content except where a Service feature (e.g., built in share tools) expressly permits it.
+• Republish, systematically copy, or share content beyond built in share tools without our written permission or a separate licence.
+• Remove copyright notices; reverse engineer; interfere with security or access controls; or use the Services for unlawful purposes.
+• Use the Services in violation of export controls/sanctions or others’ IP/proprietary rights.
+7A) Automated access; bots, crawlers & AI/ML
+Except for public search engines creating searchable indices in line with robots.txt, you must not use robots, spiders, crawlers, scrapers, or similar tools to access, copy, cache, archive, or index the Services. You must not use our content or metadata to train, fine tune, evaluate, benchmark, or improve AI/ML systems without a written licence. We may enforce via technical measures and legal claims.
+7B) APIs, embeds & scraping
+Use of our APIs, data feeds, widgets, and embeds may be subject to separate terms. We may use keys, rate limits, and technical controls and can revoke access at any time. Automated scraping/crawling/bulk downloading is prohibited.
+8) User content & submissions (UGC)
+• You confirm you own UGC or have rights to post it; it must be lawful, not obscene/defamatory, and not infringe others’ rights.
+• You grant us a worldwide, perpetual, nonexclusive, royalty free licence (with the right to sub licence) to host, store, use, reproduce, adapt, publish, translate, distribute, display, and create derivative works in any media (print or electronic).
+• We may edit, moderate, refuse, or remove UGC at our discretion and may restrict access if you abuse features. You agree to indemnify us against third party claims arising from your UGC.
+9) Graphic/photo submissions
+If you send photos/graphics, you confirm you took them or have permission and grant us a nonexclusive, royalty free licence to publish/use them on our Services. Images must be lawful and non-defamatory. We may edit/crop/remove them and may publish your name unless you request otherwise (subject to editorial discretion). No payment is due unless expressly stated.
+10) Editorial independence, ads, sponsored content & affiliates
+You may see ads, sponsored/native content, or affiliate links. Advertisers are solely responsible for their material and for compliance with law. Sponsored content will be labelled. We may earn commissions from affiliate links and are not responsible for third party offers, products, or services.
+11) Subscriptions, trials, billing & refunds
+• We offer free and paid plans (e.g., HT Premium / Livemint Premium). Paid plans renew automatically unless you cancel in your account settings before renewal.
+• Fees are nonrefundable except where required by law or as stated in a specific offer.
+• Free trials convert to paid unless cancelled beforehand.
+• If you buy via app stores, that store’s billing/refund rules apply. Fees are in INR unless stated otherwise; you’re responsible for bank/payment gateway charges.
+11A) Corporate & group access
+Personal subscriptions are for individual use only and may not be shared within an organisation. Enterprise or newsroom use requires a separate written agreement.
+12) Professional disclaimers (no advice)
+Our content is informational only. It is not investment, financial, tax, legal, medical, or other professional advice. Market/news data may be delayed or contain errors; do not make decisions based solely on our content—seek qualified professional advice as needed.
+13) Privacy, marketing & data use
+Our Privacy Policy explains what data we collect and your choices.
+14) Third party sites & services
+Links may lead to third party sites/services. They’re not under our control, and we aren’t responsible for their content, policies, or practices. Your dealings with third parties are solely between you and them.
+15) Under 18 guidance
+Get a parent/guardian’s permission before engaging in features that allow posting. Never post personal information (e.g., phone number, address, email) except in line with our Policies.
+16) IP complaints (notice & takedown)
+To report copyright infringement, write to our Grievance Officer with: (i) your contact details; (ii) identification of the copyrighted work; (iii) URL(s) of the allegedly infringing material; (iv) a good faith statement the use is unauthorized; (v) a statement the notice is accurate and you are the owner/agent; and (vi) your signature. We may disable/terminate repeat infringers where appropriate.
+17) Service provided “as is” (warranties)
+We strive for accuracy, but the Services are provided “as is” and “as available.” We do not warrant that the Services will be uninterrupted, timely, secure, or error free, or that information is complete or reliable.
+18) Limitation of liability
+To the fullest extent permitted by law, we are not liable for indirect, incidental, special, consequential, exemplary, or punitive damages (including loss of data, revenue, business, opportunity, goodwill, or reputation), whether foreseeable or not.
+19) Your responsibility to us (indemnity)
+You agree to indemnify and hold harmless HTDSL and its affiliates, officers, directors, employees, and agents from claims, losses, and costs (including reasonable legal fees) arising from your use of the Services, your UGC, your breach of these Terms or law, or your infringement of others’ rights.
+20) Suspension & termination
+We may suspend or terminate access (with or without notice) if we believe you’ve breached these Terms or law, or to protect the Services or users. On termination, your right to use the Services ceases immediately. Clauses that should survive (licence restrictions, disclaimers, liability limits, indemnity, governing law) continue.
+21) Availability
+We’ll do our best to provide constant, uninterrupted access, but we don’t guarantee it and aren’t responsible for interruptions or delays.
+22) Safety
+Do not share personal addresses or sensitive information publicly. If you have a useful address or tip to share, use Contact Us so our teams can evaluate and publish if appropriate.
+23) Force majeure
+We’re not liable for delays or failures caused by events beyond our reasonable control (e.g., natural disasters, war, government actions, epidemics, major cyber incidents, internet/telecom outages).
+24) Legal notices, contact, governing law & jurisdiction
+General/editorial support: support@hindustantimes.com • support@livemint.com • support@livehindustan.com
+Postal: HT Digital Streams Limited, 5th Floor, Lotus Tower, A Block, Community Centre, New Friends Colony, New Delhi — 110025, India
+Grievance Officer (IT Rules, 2021): Details published on our Contact/Grievance page; you may also write to the postal address above referencing “Grievance Officer.”
+Governing law: India. Jurisdiction: Courts at New Delhi (subject to arbitration for partner/regulated journey disputes under Clause 31).
+For Editorial/General (
+Livemint
+& Hindustan Times):
+Grievance Officer: Mr.Binoy Prabhakar
+Address: HT Digital Streams Limited, 5th Floor, Lotus Tower, A Block, Community Centre, New Friends Colony, New Delhi – 110025
+Phone: + 91 11 66561123
+Email:
+grievance@htdigital.in
+Timings: 9am–5pm, Monday–Friday (excluding public holidays)
+For Financial Services (Marketplace/Credit/Loans/Insurance/Investments):
+Grievance Officer: Mr. Neelabh Vikram Mall
+Address: HT Digital Streams Limited, 5th Floor, Lotus Tower, A Block, Community Centre, New Friends Colony, New Delhi – 110025
+Phone: 0124 411 7763
+Email:
+grievance.fs@htdigital.in
+Timings: 9am–5pm, Monday–Friday (excluding public holidays)
+25) Governing law & jurisdiction (editorial Services)
+These Terms are governed by the laws of India. Subject to Part B (where arbitration applies for Financial Services (Loans / Credit Cards/ Insurance) disputes with HTDSL), the courts at New Delhi shall have exclusive jurisdiction.
+26) Assignment
+You cannot assign your rights or obligations without our written consent. We may assign our rights/obligations to an affiliate or as part of a merger, acquisition, or sale of assets.
+27) General legal provisions
+If any part of these Terms is invalid, the rest remains effective. Our failure to enforce a right is not a waiver. These Terms do not create a partnership, agency, or employment relationship. The English version controls where we publish translations.
+28.1 HTDSL’s Role.
+HTDSL is an intermediary that helps you explore/apply for various products including financial products offered by regulated third parties—Lending Partners (loans), Card Partners (credit cards), Insurance Partners (insurance), and Investment Partners/RTAs (investments). HTDSL does not itself provide services.
+28.2 Partner Decisions & Terms.
+Approvals, limits, pricing, features, tenures, coverage, and all product terms are set solely by the respective partner and governed by their T&Cs and privacy policies (in addition to this Agreement and HTDSL’s Privacy Policy).
+28.3 Your Information.
+You authorize HTDSL to share your information with relevant partners/RTAs/ credit bureaus/ institutions/ transaction platforms to run eligibility/credit checks, and customise solutions including credit offerings.
+28.4 No Guarantees; Displayed Data.
+HTDSL does not guarantee approvals, issuances, disbursals, policy issuance, transaction execution, or investment performance. Product information shown is partner-provided/public and you should verify with the partner before proceeding.
+28.5 Fees/Commissions.
+HTDSL may receive fees/commissions from partners for facilitation.
+28.6 Payments/NACH (Loans).
+If you avail a loan/credit facility, you may need to set up a NACH or similar mandate; cancelling it while dues are outstanding requires an acceptable alternative instrument.
+28.7 Transactions & Platforms.
+Transactions (including investments) are executed on partner/RTAs/transaction platforms and are subject to their terms. HTDSL is not liable for their delays/errors/failures.
+28.8 Termination.
+Termination of your HTDSL profile (Clause 20) does not affect obligations under any partner-issued product already availed; you must manage such products directly with the partner thereafter.
+29) Specific terms for Credit Information Services
+29.1. By accessing/ using these services and/ or by accepting these terms, you appoint HTDSL as your authorized representative to obtain your Credit Information Report and Score from CICs.
+29.2. HTDSL may access, use, analyze, aggregate, display and retain your Credit Information to: (a) show your report/score and changes; (b) provide insights/education (not financial advice); (c) surface/recommend products and offers; and (d) take related actions to provide these services.
+29.3. Reports are provided by CICs. HTDSL does not control their accuracy/completeness; disputes must be raised directly with the relevant CIC.
+29.4. Your use is also governed by the applicable CIC terms and privacy policy (shared/linked as an annexure). You expressly consent to CRIF High Mark – Credit Score Terms of Use (Annexure A).
+29.5. Insights are informational only; personal use unless otherwise permitted. You must not misuse/share your report with unauthorized parties.
+29.6. Retrieval can fail if your particulars do not match CIC records or due to CIC policies (including free-pull frequency caps). Additional authentication may be required.
+29.7. The service is currently free; HTDSL may charge later.
+29.8. Liability & Indemnity. Liability is limited per Clause 18; you indemnify HTDSL per Clause 19 for breaches/inaccuracies/misuse. You also release the CIC for delivery of your data to HTDSL and HTDSL-authorized uses.
+29.9. Third Parties & Notices. CICs are third-party providers; service unavailability due to their actions/inactions is not HTDSL’s responsibility. Notices, governing clauses, dispute resolution and grievance redress follow Clauses 24, 25, and 31 respectively.
+29.10. Voluntary Use. You avail the service voluntarily; display does not imply HTDSL’s endorsement or verification.
+29.11 You may withdraw consent at any time via communication to the Grievance Officer (Clause 24).
+30) Suspension & termination (partner/regulated journeys)
+30.1. We may suspend/terminate access (in whole or part) for breach or for legal/operational reasons.
+30.2. Your obligations under agreements with Third Party Providers continue after termination.
+30.3. We may retain data post-termination as permitted by law and our Privacy Policy.
+31) Dispute resolution (arbitration) (partner/regulated journeys)
+31.1. Subject to mandatory law, disputes between you and HTDSL relating to partner/regulated journeys shall be finally settled by arbitration in New Delhi, India, under the Arbitration and Conciliation Act, 1996, by a sole arbitrator appointed by HTDSL. Seat/venue: New Delhi. Language: English. Confidentiality applies; the award is final and binding.
+31.2. Disputes between you and any Third Party Provider must be resolved directly with that provider per its terms.
+ANNEXURE A
+CRIF High Mark - Credit Score Terms of Use
+In connection with submission of the application for my credit information ("Consumer Credit Information") offered by CRIF High Mark Credit Information Services Pvt. Ltd. ("CIC") through HT Digital Streams Limited (referred to as the "Company") and delivery of the Consumer Credit Information to the Company, I hereby acknowledge and agree to the following:
+The Company is my lawfully appointed agent, and he / it has agreed to be my agent obtain my Credit Information Report and Credit Score from CRIF High Mark Credit Information Services Pvt. Ltd (CRIF High Mark) for the purpose of rendering financial services such as but not limited to loans, credit cards, insurance, investment products etc ("Purpose") and not for any other purposes.
+This consent shall be valid for a maximum period of 6 months or till such time the credit information is required to be retained to satisfy the Purpose for which it was intended, or I withdraw my consent at any time, by informing the same to the Company, at their registered office address, website, assigned email id or mobile application, whichever is earlier.
+I further authorize the Company to share with CICs, my personal information/details to procure my Credit Information on a monthly frequency and use the same to provide me with the said service.
+I confirm that this consent is given by my free will and not due to any solicitation by any person/entity.
+I hereby expressly grant unconditional consent to, and direct, CIC to deliver and / or transfer my Consumer Credit Information to the Company on my behalf.
+Your continued access/ use of our services constitutes your specific authorisation in our favor to be able to implement and give effect to these terms.
+I shall not hold CIC responsible or liable for any loss, claim, liability, or damage of any kind resulting from, arising out of, or in any way related to: (a) delivery of my Consumer Credit Information to the Company; (b) any use, modification or disclosure by the Company of the contents, in whole or in part, of my Consumer Credit Information, wherever authorized by me; (c) any breach of confidentiality or privacy in relation to delivery of my Consumer Credit Information to the Company;
+I acknowledge and accept that: (a) CIC has not made any promises or representations to me in order to induce me to provide my Consumer Credit Information or seek any consent or authorization in this regard; and (b) the implementation of the Agreement between CIC and the Company is solely the responsibility of the Company.
+I agree that I may be required to record my consent / provide instructions electronically or physically as the case may be, and in all such cases I understand that by clicking on the "I Accept" button below or signing this Consent physically, I am providing "written instructions" to the Company authorizing Company to obtain my Consumer Credit Information from my personal credit profile from CRIF High Mark. I further authorize the Company to obtain such information to confirm my identity and display my Consumer Credit Information to me. Further in all such cases by checking this box and clicking on the Authorize button or signing this Consent physically, I agree to the terms and conditions, acknowledge receipt of CIC privacy policy and agree to its terms, and confirm my authorization for Company to obtain my Consumer Credit Information.
+I understand that in order to deliver the Credit Information Report and Credit Score to me, I hereby authorize the Company to obtain my Consumer Credit Information from CIC.
+By submitting this registration form, I understand that I am providing express written instructions for the Company to request and receive a copy of my consumer credit report and score from CIC.
+I understand that the Credit Information Report and Credit Score is provided on an "as-is", "as available" basis and CIC expressly disclaims all warranties, including the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+I shall not sue or otherwise make or present any demand or claim, and I irrevocably, unconditionally and entirely release, waive and forever discharge CIC, its officers, directors, employees, agents, licensees, affiliates, successors and assigns, jointly and individually (hereinafter "Releasee"), from any and all manner of liabilities, claims, demands, losses, claims, suits, costs and expenses (including court costs and reasonable attorney fees) ("Losses"), whatsoever, in law or equity, whether known or unknown, which I ever had, now have, or in the future may have against the Releasee with respect to the submission of my Consumer Credit Information and / or my decision to provide CIC with the authority to deliver my Consumer Credit Information to the Company. I agree to defend, indemnify, and hold harmless the Releasee from and against any and all losses resulting from claims made against CIC by third parties arising from and in connection with this letter.
+I agree that the terms of this confirmation letter shall be governed by the laws of India and shall be subject to the exclusive jurisdiction of the courts located in Mumbai in regard to any dispute arising hereof.
+This consent shall be valid for a maximum period of 6 months or till such time the credit information is required to be retained to satisfy the Purpose for which it was intended, or I withdraw my consent at any time, by informing the same to the Company, at their registered office address, website, assigned email id or mobile application, whichever is earlier.
+I further authorize the Company to share with CICs, my personal information/details to procure my Credit Information on a monthly frequency and use the same to provide me with the said service.
+I confirm that this consent is given by my free will and not due to any solicitation by any person/entity.
+I hereby expressly grant unconditional consent to, and direct, CIC to deliver and / or transfer my Consumer Credit Information to the Company on my behalf.
+Your continued access/ use of our services constitutes your specific authorisation in our favor to be able to implement and give effect to these terms.
+I shall not hold CIC responsible or liable for any loss, claim, liability, or damage of any kind resulting from, arising out of, or in any way related to: (a) delivery of my Consumer Credit Information to the Company; (b) any use, modification or disclosure by the Company of the contents, in whole or in part, of my Consumer Credit Information, wherever authorized by me; (c) any breach of confidentiality or privacy in relation to delivery of my Consumer Credit Information to the Company;
+I acknowledge and accept that: (a) CIC has not made any promises or representations to me in order to induce me to provide my Consumer Credit Information or seek any consent or authorization in this regard; and (b) the implementation of the Agreement between CIC and the Company is solely the responsibility of the Company.
+I agree that I may be required to record my consent / provide instructions electronically or physically as the case may be, and in all such cases I understand that by clicking on the "I Accept" button below or signing this Consent physically, I am providing "written instructions" to the Company authorizing Company to obtain my Consumer Credit Information from my personal credit profile from CRIF High Mark. I further authorize the Company to obtain such information to confirm my identity and display my Consumer Credit Information to me. Further in all such cases by checking this box and clicking on the Authorize button or signing this Consent physically, I agree to the terms and conditions, acknowledge receipt of CIC privacy policy and agree to its terms, and confirm my authorization for Company to obtain my Consumer Credit Information.
+I understand that in order to deliver the Credit Information Report and Credit Score to me, I hereby authorize the Company to obtain my Consumer Credit Information from CIC.
+By submitting this registration form, I understand that I am providing express written instructions for the Company to request and receive a copy of my consumer credit report and score from CIC.
+I understand that the Credit Information Report and Credit Score is provided on an "as-is", "as available" basis and CIC expressly disclaims all warranties, including the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+I shall not sue or otherwise make or present any demand or claim, and I irrevocably, unconditionally and entirely release, waive and forever discharge CIC, its officers, directors, employees, agents, licensees, affiliates, successors and assigns, jointly and individually (hereinafter "Releasee"), from any and all manner of liabilities, claims, demands, losses, claims, suits, costs and expenses (including court costs and reasonable attorney fees) ("Losses"), whatsoever, in law or equity, whether known or unknown, which I ever had, now have, or in the future may have against the Releasee with respect to the submission of my Consumer Credit Information and / or my decision to provide CIC with the authority to deliver my Consumer Credit Information to the Company. I agree to defend, indemnify, and hold harmless the Releasee from and against any and all losses resulting from claims made against CIC by third parties arising from and in connection with this letter.
+I agree that the terms of this confirmation letter shall be governed by the laws of India and shall be subject to the exclusive jurisdiction of the courts located in Mumbai in regard to any dispute arising hereof.
+I further authorize the Company to share with CICs, my personal information/details to procure my Credit Information on a monthly frequency and use the same to provide me with the said service.
+I confirm that this consent is given by my free will and not due to any solicitation by any person/entity.
+I hereby expressly grant unconditional consent to, and direct, CIC to deliver and / or transfer my Consumer Credit Information to the Company on my behalf.
+Your continued access/ use of our services constitutes your specific authorisation in our favor to be able to implement and give effect to these terms.
+I shall not hold CIC responsible or liable for any loss, claim, liability, or damage of any kind resulting from, arising out of, or in any way related to: (a) delivery of my Consumer Credit Information to the Company; (b) any use, modification or disclosure by the Company of the contents, in whole or in part, of my Consumer Credit Information, wherever authorized by me; (c) any breach of confidentiality or privacy in relation to delivery of my Consumer Credit Information to the Company;
+I acknowledge and accept that: (a) CIC has not made any promises or representations to me in order to induce me to provide my Consumer Credit Information or seek any consent or authorization in this regard; and (b) the implementation of the Agreement between CIC and the Company is solely the responsibility of the Company.
+I agree that I may be required to record my consent / provide instructions electronically or physically as the case may be, and in all such cases I understand that by clicking on the "I Accept" button below or signing this Consent physically, I am providing "written instructions" to the Company authorizing Company to obtain my Consumer Credit Information from my personal credit profile from CRIF High Mark. I further authorize the Company to obtain such information to confirm my identity and display my Consumer Credit Information to me. Further in all such cases by checking this box and clicking on the Authorize button or signing this Consent physically, I agree to the terms and conditions, acknowledge receipt of CIC privacy policy and agree to its terms, and confirm my authorization for Company to obtain my Consumer Credit Information.
+I understand that in order to deliver the Credit Information Report and Credit Score to me, I hereby authorize the Company to obtain my Consumer Credit Information from CIC.
+By submitting this registration form, I understand that I am providing express written instructions for the Company to request and receive a copy of my consumer credit report and score from CIC.
+I understand that the Credit Information Report and Credit Score is provided on an "as-is", "as available" basis and CIC expressly disclaims all warranties, including the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+I shall not sue or otherwise make or present any demand or claim, and I irrevocably, unconditionally and entirely release, waive and forever discharge CIC, its officers, directors, employees, agents, licensees, affiliates, successors and assigns, jointly and individually (hereinafter "Releasee"), from any and all manner of liabilities, claims, demands, losses, claims, suits, costs and expenses (including court costs and reasonable attorney fees) ("Losses"), whatsoever, in law or equity, whether known or unknown, which I ever had, now have, or in the future may have against the Releasee with respect to the submission of my Consumer Credit Information and / or my decision to provide CIC with the authority to deliver my Consumer Credit Information to the Company. I agree to defend, indemnify, and hold harmless the Releasee from and against any and all losses resulting from claims made against CIC by third parties arising from and in connection with this letter.
+I agree that the terms of this confirmation letter shall be governed by the laws of India and shall be subject to the exclusive jurisdiction of the courts located in Mumbai in regard to any dispute arising hereof.
+I confirm that this consent is given by my free will and not due to any solicitation by any person/entity.
+I hereby expressly grant unconditional consent to, and direct, CIC to deliver and / or transfer my Consumer Credit Information to the Company on my behalf.
+Your continued access/ use of our services constitutes your specific authorisation in our favor to be able to implement and give effect to these terms.
+I shall not hold CIC responsible or liable for any loss, claim, liability, or damage of any kind resulting from, arising out of, or in any way related to: (a) delivery of my Consumer Credit Information to the Company; (b) any use, modification or disclosure by the Company of the contents, in whole or in part, of my Consumer Credit Information, wherever authorized by me; (c) any breach of confidentiality or privacy in relation to delivery of my Consumer Credit Information to the Company;
+I acknowledge and accept that: (a) CIC has not made any promises or representations to me in order to induce me to provide my Consumer Credit Information or seek any consent or authorization in this regard; and (b) the implementation of the Agreement between CIC and the Company is solely the responsibility of the Company.
+I agree that I may be required to record my consent / provide instructions electronically or physically as the case may be, and in all such cases I understand that by clicking on the "I Accept" button below or signing this Consent physically, I am providing "written instructions" to the Company authorizing Company to obtain my Consumer Credit Information from my personal credit profile from CRIF High Mark. I further authorize the Company to obtain such information to confirm my identity and display my Consumer Credit Information to me. Further in all such cases by checking this box and clicking on the Authorize button or signing this Consent physically, I agree to the terms and conditions, acknowledge receipt of CIC privacy policy and agree to its terms, and confirm my authorization for Company to obtain my Consumer Credit Information.
+I understand that in order to deliver the Credit Information Report and Credit Score to me, I hereby authorize the Company to obtain my Consumer Credit Information from CIC.
+By submitting this registration form, I understand that I am providing express written instructions for the Company to request and receive a copy of my consumer credit report and score from CIC.
+I understand that the Credit Information Report and Credit Score is provided on an "as-is", "as available" basis and CIC expressly disclaims all warranties, including the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+I shall not sue or otherwise make or present any demand or claim, and I irrevocably, unconditionally and entirely release, waive and forever discharge CIC, its officers, directors, employees, agents, licensees, affiliates, successors and assigns, jointly and individually (hereinafter "Releasee"), from any and all manner of liabilities, claims, demands, losses, claims, suits, costs and expenses (including court costs and reasonable attorney fees) ("Losses"), whatsoever, in law or equity, whether known or unknown, which I ever had, now have, or in the future may have against the Releasee with respect to the submission of my Consumer Credit Information and / or my decision to provide CIC with the authority to deliver my Consumer Credit Information to the Company. I agree to defend, indemnify, and hold harmless the Releasee from and against any and all losses resulting from claims made against CIC by third parties arising from and in connection with this letter.
+I agree that the terms of this confirmation letter shall be governed by the laws of India and shall be subject to the exclusive jurisdiction of the courts located in Mumbai in regard to any dispute arising hereof.
+I hereby expressly grant unconditional consent to, and direct, CIC to deliver and / or transfer my Consumer Credit Information to the Company on my behalf.
+Your continued access/ use of our services constitutes your specific authorisation in our favor to be able to implement and give effect to these terms.
+I shall not hold CIC responsible or liable for any loss, claim, liability, or damage of any kind resulting from, arising out of, or in any way related to: (a) delivery of my Consumer Credit Information to the Company; (b) any use, modification or disclosure by the Company of the contents, in whole or in part, of my Consumer Credit Information, wherever authorized by me; (c) any breach of confidentiality or privacy in relation to delivery of my Consumer Credit Information to the Company;
+I acknowledge and accept that: (a) CIC has not made any promises or representations to me in order to induce me to provide my Consumer Credit Information or seek any consent or authorization in this regard; and (b) the implementation of the Agreement between CIC and the Company is solely the responsibility of the Company.
+I agree that I may be required to record my consent / provide instructions electronically or physically as the case may be, and in all such cases I understand that by clicking on the "I Accept" button below or signing this Consent physically, I am providing "written instructions" to the Company authorizing Company to obtain my Consumer Credit Information from my personal credit profile from CRIF High Mark. I further authorize the Company to obtain such information to confirm my identity and display my Consumer Credit Information to me. Further in all such cases by checking this box and clicking on the Authorize button or signing this Consent physically, I agree to the terms and conditions, acknowledge receipt of CIC privacy policy and agree to its terms, and confirm my authorization for Company to obtain my Consumer Credit Information.
+I understand that in order to deliver the Credit Information Report and Credit Score to me, I hereby authorize the Company to obtain my Consumer Credit Information from CIC.
+By submitting this registration form, I understand that I am providing express written instructions for the Company to request and receive a copy of my consumer credit report and score from CIC.
+I understand that the Credit Information Report and Credit Score is provided on an "as-is", "as available" basis and CIC expressly disclaims all warranties, including the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+I shall not sue or otherwise make or present any demand or claim, and I irrevocably, unconditionally and entirely release, waive and forever discharge CIC, its officers, directors, employees, agents, licensees, affiliates, successors and assigns, jointly and individually (hereinafter "Releasee"), from any and all manner of liabilities, claims, demands, losses, claims, suits, costs and expenses (including court costs and reasonable attorney fees) ("Losses"), whatsoever, in law or equity, whether known or unknown, which I ever had, now have, or in the future may have against the Releasee with respect to the submission of my Consumer Credit Information and / or my decision to provide CIC with the authority to deliver my Consumer Credit Information to the Company. I agree to defend, indemnify, and hold harmless the Releasee from and against any and all losses resulting from claims made against CIC by third parties arising from and in connection with this letter.
+I agree that the terms of this confirmation letter shall be governed by the laws of India and shall be subject to the exclusive jurisdiction of the courts located in Mumbai in regard to any dispute arising hereof.
+Your continued access/ use of our services constitutes your specific authorisation in our favor to be able to implement and give effect to these terms.
+I shall not hold CIC responsible or liable for any loss, claim, liability, or damage of any kind resulting from, arising out of, or in any way related to: (a) delivery of my Consumer Credit Information to the Company; (b) any use, modification or disclosure by the Company of the contents, in whole or in part, of my Consumer Credit Information, wherever authorized by me; (c) any breach of confidentiality or privacy in relation to delivery of my Consumer Credit Information to the Company;
+I acknowledge and accept that: (a) CIC has not made any promises or representations to me in order to induce me to provide my Consumer Credit Information or seek any consent or authorization in this regard; and (b) the implementation of the Agreement between CIC and the Company is solely the responsibility of the Company.
+I agree that I may be required to record my consent / provide instructions electronically or physically as the case may be, and in all such cases I understand that by clicking on the "I Accept" button below or signing this Consent physically, I am providing "written instructions" to the Company authorizing Company to obtain my Consumer Credit Information from my personal credit profile from CRIF High Mark. I further authorize the Company to obtain such information to confirm my identity and display my Consumer Credit Information to me. Further in all such cases by checking this box and clicking on the Authorize button or signing this Consent physically, I agree to the terms and conditions, acknowledge receipt of CIC privacy policy and agree to its terms, and confirm my authorization for Company to obtain my Consumer Credit Information.
+I understand that in order to deliver the Credit Information Report and Credit Score to me, I hereby authorize the Company to obtain my Consumer Credit Information from CIC.
+By submitting this registration form, I understand that I am providing express written instructions for the Company to request and receive a copy of my consumer credit report and score from CIC.
+I understand that the Credit Information Report and Credit Score is provided on an "as-is", "as available" basis and CIC expressly disclaims all warranties, including the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+I shall not sue or otherwise make or present any demand or claim, and I irrevocably, unconditionally and entirely release, waive and forever discharge CIC, its officers, directors, employees, agents, licensees, affiliates, successors and assigns, jointly and individually (hereinafter "Releasee"), from any and all manner of liabilities, claims, demands, losses, claims, suits, costs and expenses (including court costs and reasonable attorney fees) ("Losses"), whatsoever, in law or equity, whether known or unknown, which I ever had, now have, or in the future may have against the Releasee with respect to the submission of my Consumer Credit Information and / or my decision to provide CIC with the authority to deliver my Consumer Credit Information to the Company. I agree to defend, indemnify, and hold harmless the Releasee from and against any and all losses resulting from claims made against CIC by third parties arising from and in connection with this letter.
+I agree that the terms of this confirmation letter shall be governed by the laws of India and shall be subject to the exclusive jurisdiction of the courts located in Mumbai in regard to any dispute arising hereof.
+I shall not hold CIC responsible or liable for any loss, claim, liability, or damage of any kind resulting from, arising out of, or in any way related to: (a) delivery of my Consumer Credit Information to the Company; (b) any use, modification or disclosure by the Company of the contents, in whole or in part, of my Consumer Credit Information, wherever authorized by me; (c) any breach of confidentiality or privacy in relation to delivery of my Consumer Credit Information to the Company;
+I acknowledge and accept that: (a) CIC has not made any promises or representations to me in order to induce me to provide my Consumer Credit Information or seek any consent or authorization in this regard; and (b) the implementation of the Agreement between CIC and the Company is solely the responsibility of the Company.
+I agree that I may be required to record my consent / provide instructions electronically or physically as the case may be, and in all such cases I understand that by clicking on the "I Accept" button below or signing this Consent physically, I am providing "written instructions" to the Company authorizing Company to obtain my Consumer Credit Information from my personal credit profile from CRIF High Mark. I further authorize the Company to obtain such information to confirm my identity and display my Consumer Credit Information to me. Further in all such cases by checking this box and clicking on the Authorize button or signing this Consent physically, I agree to the terms and conditions, acknowledge receipt of CIC privacy policy and agree to its terms, and confirm my authorization for Company to obtain my Consumer Credit Information.
+I understand that in order to deliver the Credit Information Report and Credit Score to me, I hereby authorize the Company to obtain my Consumer Credit Information from CIC.
+By submitting this registration form, I understand that I am providing express written instructions for the Company to request and receive a copy of my consumer credit report and score from CIC.
+I understand that the Credit Information Report and Credit Score is provided on an "as-is", "as available" basis and CIC expressly disclaims all warranties, including the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+I shall not sue or otherwise make or present any demand or claim, and I irrevocably, unconditionally and entirely release, waive and forever discharge CIC, its officers, directors, employees, agents, licensees, affiliates, successors and assigns, jointly and individually (hereinafter "Releasee"), from any and all manner of liabilities, claims, demands, losses, claims, suits, costs and expenses (including court costs and reasonable attorney fees) ("Losses"), whatsoever, in law or equity, whether known or unknown, which I ever had, now have, or in the future may have against the Releasee with respect to the submission of my Consumer Credit Information and / or my decision to provide CIC with the authority to deliver my Consumer Credit Information to the Company. I agree to defend, indemnify, and hold harmless the Releasee from and against any and all losses resulting from claims made against CIC by third parties arising from and in connection with this letter.
+I agree that the terms of this confirmation letter shall be governed by the laws of India and shall be subject to the exclusive jurisdiction of the courts located in Mumbai in regard to any dispute arising hereof.
+I acknowledge and accept that: (a) CIC has not made any promises or representations to me in order to induce me to provide my Consumer Credit Information or seek any consent or authorization in this regard; and (b) the implementation of the Agreement between CIC and the Company is solely the responsibility of the Company.
+I agree that I may be required to record my consent / provide instructions electronically or physically as the case may be, and in all such cases I understand that by clicking on the "I Accept" button below or signing this Consent physically, I am providing "written instructions" to the Company authorizing Company to obtain my Consumer Credit Information from my personal credit profile from CRIF High Mark. I further authorize the Company to obtain such information to confirm my identity and display my Consumer Credit Information to me. Further in all such cases by checking this box and clicking on the Authorize button or signing this Consent physically, I agree to the terms and conditions, acknowledge receipt of CIC privacy policy and agree to its terms, and confirm my authorization for Company to obtain my Consumer Credit Information.
+I understand that in order to deliver the Credit Information Report and Credit Score to me, I hereby authorize the Company to obtain my Consumer Credit Information from CIC.
+By submitting this registration form, I understand that I am providing express written instructions for the Company to request and receive a copy of my consumer credit report and score from CIC.
+I understand that the Credit Information Report and Credit Score is provided on an "as-is", "as available" basis and CIC expressly disclaims all warranties, including the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+I shall not sue or otherwise make or present any demand or claim, and I irrevocably, unconditionally and entirely release, waive and forever discharge CIC, its officers, directors, employees, agents, licensees, affiliates, successors and assigns, jointly and individually (hereinafter "Releasee"), from any and all manner of liabilities, claims, demands, losses, claims, suits, costs and expenses (including court costs and reasonable attorney fees) ("Losses"), whatsoever, in law or equity, whether known or unknown, which I ever had, now have, or in the future may have against the Releasee with respect to the submission of my Consumer Credit Information and / or my decision to provide CIC with the authority to deliver my Consumer Credit Information to the Company. I agree to defend, indemnify, and hold harmless the Releasee from and against any and all losses resulting from claims made against CIC by third parties arising from and in connection with this letter.
+I agree that the terms of this confirmation letter shall be governed by the laws of India and shall be subject to the exclusive jurisdiction of the courts located in Mumbai in regard to any dispute arising hereof.
+I agree that I may be required to record my consent / provide instructions electronically or physically as the case may be, and in all such cases I understand that by clicking on the "I Accept" button below or signing this Consent physically, I am providing "written instructions" to the Company authorizing Company to obtain my Consumer Credit Information from my personal credit profile from CRIF High Mark. I further authorize the Company to obtain such information to confirm my identity and display my Consumer Credit Information to me. Further in all such cases by checking this box and clicking on the Authorize button or signing this Consent physically, I agree to the terms and conditions, acknowledge receipt of CIC privacy policy and agree to its terms, and confirm my authorization for Company to obtain my Consumer Credit Information.
+I understand that in order to deliver the Credit Information Report and Credit Score to me, I hereby authorize the Company to obtain my Consumer Credit Information from CIC.
+By submitting this registration form, I understand that I am providing express written instructions for the Company to request and receive a copy of my consumer credit report and score from CIC.
+I understand that the Credit Information Report and Credit Score is provided on an "as-is", "as available" basis and CIC expressly disclaims all warranties, including the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+I shall not sue or otherwise make or present any demand or claim, and I irrevocably, unconditionally and entirely release, waive and forever discharge CIC, its officers, directors, employees, agents, licensees, affiliates, successors and assigns, jointly and individually (hereinafter "Releasee"), from any and all manner of liabilities, claims, demands, losses, claims, suits, costs and expenses (including court costs and reasonable attorney fees) ("Losses"), whatsoever, in law or equity, whether known or unknown, which I ever had, now have, or in the future may have against the Releasee with respect to the submission of my Consumer Credit Information and / or my decision to provide CIC with the authority to deliver my Consumer Credit Information to the Company. I agree to defend, indemnify, and hold harmless the Releasee from and against any and all losses resulting from claims made against CIC by third parties arising from and in connection with this letter.
+I agree that the terms of this confirmation letter shall be governed by the laws of India and shall be subject to the exclusive jurisdiction of the courts located in Mumbai in regard to any dispute arising hereof.
+I understand that in order to deliver the Credit Information Report and Credit Score to me, I hereby authorize the Company to obtain my Consumer Credit Information from CIC.
+By submitting this registration form, I understand that I am providing express written instructions for the Company to request and receive a copy of my consumer credit report and score from CIC.
+I understand that the Credit Information Report and Credit Score is provided on an "as-is", "as available" basis and CIC expressly disclaims all warranties, including the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+I shall not sue or otherwise make or present any demand or claim, and I irrevocably, unconditionally and entirely release, waive and forever discharge CIC, its officers, directors, employees, agents, licensees, affiliates, successors and assigns, jointly and individually (hereinafter "Releasee"), from any and all manner of liabilities, claims, demands, losses, claims, suits, costs and expenses (including court costs and reasonable attorney fees) ("Losses"), whatsoever, in law or equity, whether known or unknown, which I ever had, now have, or in the future may have against the Releasee with respect to the submission of my Consumer Credit Information and / or my decision to provide CIC with the authority to deliver my Consumer Credit Information to the Company. I agree to defend, indemnify, and hold harmless the Releasee from and against any and all losses resulting from claims made against CIC by third parties arising from and in connection with this letter.
+I agree that the terms of this confirmation letter shall be governed by the laws of India and shall be subject to the exclusive jurisdiction of the courts located in Mumbai in regard to any dispute arising hereof.
+By submitting this registration form, I understand that I am providing express written instructions for the Company to request and receive a copy of my consumer credit report and score from CIC.
+I understand that the Credit Information Report and Credit Score is provided on an "as-is", "as available" basis and CIC expressly disclaims all warranties, including the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+I shall not sue or otherwise make or present any demand or claim, and I irrevocably, unconditionally and entirely release, waive and forever discharge CIC, its officers, directors, employees, agents, licensees, affiliates, successors and assigns, jointly and individually (hereinafter "Releasee"), from any and all manner of liabilities, claims, demands, losses, claims, suits, costs and expenses (including court costs and reasonable attorney fees) ("Losses"), whatsoever, in law or equity, whether known or unknown, which I ever had, now have, or in the future may have against the Releasee with respect to the submission of my Consumer Credit Information and / or my decision to provide CIC with the authority to deliver my Consumer Credit Information to the Company. I agree to defend, indemnify, and hold harmless the Releasee from and against any and all losses resulting from claims made against CIC by third parties arising from and in connection with this letter.
+I agree that the terms of this confirmation letter shall be governed by the laws of India and shall be subject to the exclusive jurisdiction of the courts located in Mumbai in regard to any dispute arising hereof.
+I understand that the Credit Information Report and Credit Score is provided on an "as-is", "as available" basis and CIC expressly disclaims all warranties, including the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+I shall not sue or otherwise make or present any demand or claim, and I irrevocably, unconditionally and entirely release, waive and forever discharge CIC, its officers, directors, employees, agents, licensees, affiliates, successors and assigns, jointly and individually (hereinafter "Releasee"), from any and all manner of liabilities, claims, demands, losses, claims, suits, costs and expenses (including court costs and reasonable attorney fees) ("Losses"), whatsoever, in law or equity, whether known or unknown, which I ever had, now have, or in the future may have against the Releasee with respect to the submission of my Consumer Credit Information and / or my decision to provide CIC with the authority to deliver my Consumer Credit Information to the Company. I agree to defend, indemnify, and hold harmless the Releasee from and against any and all losses resulting from claims made against CIC by third parties arising from and in connection with this letter.
+I agree that the terms of this confirmation letter shall be governed by the laws of India and shall be subject to the exclusive jurisdiction of the courts located in Mumbai in regard to any dispute arising hereof.
+I shall not sue or otherwise make or present any demand or claim, and I irrevocably, unconditionally and entirely release, waive and forever discharge CIC, its officers, directors, employees, agents, licensees, affiliates, successors and assigns, jointly and individually (hereinafter "Releasee"), from any and all manner of liabilities, claims, demands, losses, claims, suits, costs and expenses (including court costs and reasonable attorney fees) ("Losses"), whatsoever, in law or equity, whether known or unknown, which I ever had, now have, or in the future may have against the Releasee with respect to the submission of my Consumer Credit Information and / or my decision to provide CIC with the authority to deliver my Consumer Credit Information to the Company. I agree to defend, indemnify, and hold harmless the Releasee from and against any and all losses resulting from claims made against CIC by third parties arising from and in connection with this letter.
+I agree that the terms of this confirmation letter shall be governed by the laws of India and shall be subject to the exclusive jurisdiction of the courts located in Mumbai in regard to any dispute arising hereof.
+I agree that the terms of this confirmation letter shall be governed by the laws of India and shall be subject to the exclusive jurisdiction of the courts located in Mumbai in regard to any dispute arising hereof.
+COOKIE POLICY
+A- Our Cookie Policy
+This is the cookie policy, managed by HT Digital Streams Limited.
+In this cookie policy we explain what cookies are, how we use them and how you can manage them for both our site and other websites you might use.
+B- What are Cookies?
+A cookie is a small piece of data (text file) that a website – when visited by a user – asks your browser to store on your device in order to remember information about you, such as your language preference or login information. If you want to know more about cookies, go to
+Those cookies are set by us and called first-party cookies. We also use third-party cookies – which are cookies from a domain different than the domain of the website you are visiting – for our advertising and marketing efforts.
+C- How we use cookies?
+We use cookies to make our website work, or work more efficiently. We also use cookies to track what you've done on the site so we can understand what you like and use or don't like and don't use to provide a more enjoyable, customised service and experience, as well as to help us develop and deliver better content, products and services tailored to our customers' interests and needs.
+Our cookies don't hold personal information such as your name. They simply let us find information once you're logged in or help link your browsing information to you and your personal information when you choose to register for a service, white paper or newsletter.
+To do this we sometimes use persistent cookies. We take looking after your personal information seriously – we're always monitoring and improving how we protect it.
+We've put our cookies into the following categories, to make it easier for you to understand why we need them:
+Essential (always on)-
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+Cookies Name
+Cookies
+objective
+Cookies Nature
+Cookies
+type
+GA
+Analytics
+Essential
+3rd party
+Comscore cookies
+Analytics
+Essential
+3rd party
+HTFP cookies / Snowplow
+Analytics
+Essential
+1st Party
+DAP
+Analytics
+Essential
+3rd party
+GAM
+Ad
+Essential
+3rd party
+Akamai
+CDN
+Essential
+3rd party
+New relic
+Tech Analytics
+Essential
+3rd party
+HT internal cookies
+Business Logics
+Essential
+1st party
+Razorpay
+Payments
+Essential
+3rd party
+PayU
+Payments
+Essential
+3rd party
+Performance -
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+Cookies Name
+Cookies
+objective
+Cookies Nature
+Cookies Type
+FB pixel
+Retargeting
+Performance
+3rd party
+Other CDN
+CDN
+Performance
+3rd party
+Webengage
+Analytics
+Performance
+3rd party
+Moengage
+Analytics
+Performance
+3rd party
+Personalization
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less personalized advertising.
+Cookies Name
+Cookies
+objective
+Cookies Nature
+Cookies Type
+Piano
+Analytics
+Personalized
+3rd party
+Personalized Ad (GAM/other Ad provides)
+Ad
+Personalized
+3rd party
+Direct Ad based cookies (NA)
+Ad
+Personalized
+3rd party
+Pubmatic
+Ad
+Personalized
+3rd party
+RubiCon
+Ad
+Personalized
+3rd party
+APS
+Ad
+Personalized
+3rd party
+Index exchange
+Ad
+Personalized
+3rd party
+Taboola
+Ad
+Personalized
+3rd party
+Disqus
+User interaction
+Personalized
+3rd party
+Zoho
+Create/Update Customer
+Personalized
+3rd party
+D- Controlling your Cookies
+If you change your cookie settings in your browser, your experience with us won't be tracked.
+For more information on how to control cookies, please visit
+What Are Caches and Cookies?
+Caches and cookies are like little notes your web browser stores when you visit websites so your browser can remember it the next time you visit those websites again.
+Your browser tends to save these files. Even if they are relatively small, they will accumulate over time. It could cause performance and privacy issues on your browser.
+Clear Cache and Cookies on Google Chrome
+Open Google Chrome.
+Click the menu button ⋮ > More Tools > Clear browsing data.
+On the Clear browsing data window, select which time range you want to clear.
+Put a check beside Cookies and other site data and Cached images and files, and then click Clear data.
+Clear Cache and Cookies on Mozilla Firefox
+Open Mozilla Firefox.
+Click the menu button ☰, then select Settings.
+Select Privacy & Security, scroll to Cookies and Site Data, and then click Clear Data.
+Check both Cookies and Site Data and Cached Web Content, and then click Clear.
+A confirmation box will appear. Click Clear Now to proceed.
+Clear Cache and Cookies on Microsoft Edge
+Open Microsoft Edge.
+Click the menu button … > Settings.
+Under Clear browsing data, click Choose what to clear.
+Tick Cookies and save the website and Cached data and files, and then click Clear.
+Top Performing Section common
+Hindi News
+Career
+Astrology
+Uttar Pradesh
+Cricket
+National
+NCR
+Entertainment
+Business
+Lifestyle
+Bihar
+Web Stories
+Auto
+Gadgets
+International
+Rajasthan
+Weather
+Madhya Pradesh
+Maharashtra
+Photos
+Videos
+Results
+State
+Haryana News
+Uttarakhand News
+Jharkhand News
+MP News
+UP News
+Bihar News
+Delhi News
+Maharashtra news
+Rajasthan News
+Election Schedule
+Weather
+Independence day quiz
+Astrology
+Astrology News
+Aaj Ka Rahifal
+Aaj Ka Panchang
+Ank Jyotish
+Vastu Tips
+Aaj Ka Tula Rashifal
+Aaj Ka Kumbh Rashifal
+Aaj Ka Mesh Rashifal
+Aaj Ka Vrishabh Rashifal
+God Shiva
+2026 Horoscope
+ग्रह गोचर 2026
+2026 में ग्रहण
+हिन्दू कैलेंडर 2026
+Long Weekends in 2026
+Hanuman Chalisa
+Bajrang Baan
+Shani Chalisa
+Numerology Prediction
+Panchang
+Mahamrityunjay Mantra
+Shiv Ji Ki Aarti
+Shiv Stuti
+Business
+Business News
+Share Market
+Petrol Prices
+Diesel Prices
+ITR
+Personal Investment
+Budget
+Market Stats
+Career
+बोर्ड रिजल्ट्स 2026
+बिहार बोर्ड रिजल्ट 2026
+यूपी बोर्ड रिजल्ट 2026
+राजस्थान बोर्ड रिजल्ट 2026
+Career News
+Education
+Engineering
+Medical
+Entertainment
+Entertainment News
+TV News
+Web Series
+Movie Review
+Bigg Boss
+Cricket
+क्रिकेट शेड्यूल
+T20 वर्ल्ड कप 2026
+T20 वर्ल्ड कप 2026 शेड्यूल
+T20 वर्ल्ड कप 2026 प्वाइंट टेबल
+T20 वर्ल्ड कप 2026  टॉप गेंदबाज़
+T20 वर्ल्ड कप 2026 टॉप बल्लेबाज़
+क्रिकेट न्यूज़
+लाइव क्रिकेट स्कोर
+Lifestyle
+Lifestyle Tips
+Health
+Fashion
+Parenting tips
+Travel
+Fitness
+Web Stories
+Entertainment
+Sports
+Health
+Trending
+Beauty
+Faith
+Connect with us
+Download App
+आरएसएस
+विज्ञापन र॓ट
+हमार॓ साथ काम करें
+हमारे बारे में
+संपर्क करें
+गोपनीयता
+साइट जानकारी
+Advertise with us
+About us
+Careers
+Privacy
+Contact us
+Sitemap
+Code Of Ethics
+Partner sites:
+Hindustan Times
+Mint
+HT Tech
+Shine
+HT Telugu
+HT Bangla
+HT Tamil
+HT Marathi
+HT Auto
+Healthshots
+HT Smartcast
+FAB Play
+Copyright © 2025 HT Digital Streams Limited. All Rights Reserved.
+Privacy and cookie settings

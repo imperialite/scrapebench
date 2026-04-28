@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /en-US/login
+Allow: /es-US/login
+Allow: /en-US/faq
+Allow: /es-US/faq
+Disallow: /

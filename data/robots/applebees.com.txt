@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /Campaigns
+Disallow: /-/media/applebees/lto/*.mp4$ 
+Disallow: /-/media/applebees/lto/*.jpg$
+Disallow: /-/media/applebees/lto/*.png$
+Disallow: /en/restaurants/user/
+Disallow: /wip/
+Sitemap: https://www.applebees.com/sitemap.xml
+Sitemap: https://restaurants.applebees.com/sitemap.xml
+Sitemap: https://franchise.applebees.com/sitemap.xml

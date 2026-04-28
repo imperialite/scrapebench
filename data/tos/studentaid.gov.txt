@@ -1,0 +1,218 @@
+Skip to content
+Terms and Conditions for Edfinancial Services’ Online Account Services
+ Print
+
+Date of Most Recent Update: September 12, 2023
+
+These terms of use (“Terms“) constitute a legally binding agreement between you, whether personally or on behalf of an entity, (“you”, “I” and “your”) and Edfinancial Services, LLC, along with its respective subsidiaries, affiliates, agents, successors, assignees, vendors, or service provider(s) (collectively, “Edfinancial Services, “Edfinancial“, “the Company“, “we“, “us“, and “our“). These Terms state the terms and conditions that govern your access to and use of the websites, web services, webbased applications, mobile applications, and any other media channel offered by Edfinancial or linked or otherwise connected to https://edfinancial.studentaid.gov (collectively, the “Site”). By accessing or using any of the information, materials, or functions available on or through the Site, you agree to and understand, and are legally bound by, these Terms.
+
+Supplemental terms and conditions that may be posted on the Site in the future are hereby expressly incorporated herein by reference. We reserve the right, at our sole discretion, to make changes or modifications to these Terms at any time and for any reason. We will alert you about any changes by updating the “Last updated” date at the bottom of this document. Please ensure you check the applicable Terms every time you use our Site so that you understand which Terms apply to you. You will be subject to and will be deemed to have been made aware of and to have accepted any changes in this document by your continued use of the Site after the date of such revised Terms.
+
+This site is intended for users who are at least seventeen years of age. All users who are minors in the jurisdiction in which they reside (a “minor”) must have the permission of and be directly supervised by their parent or guardian to use the Site. If you are a minor, you must have your parent or guardian read and agree to these Terms prior to you using the Site.
+
+Please read these terms and conditions carefully. If you do not agree to all of these Terms, then you are expressly prohibited from using the Site and must discontinue immediately. By clicking “Accept” or “I Accept”, accessing, or using the Site, you agree to the following:
+
+User Representations
+
+By using the Site, you represent that: 1) all registration information you submit will be true, accurate, current, and complete; 2) you will maintain the accuracy of such information and promptly update such registration information as necessary; 3) you have the legal capacity and you agree to comply with these Terms; 4) you are not under the age of seventeen; 5) you are not a minor in the jurisdiction in which you reside, or if a minor, you have parental or guardian permission to use the Site; 6) you will not access the Site through automated or non-human means, whether through a bot, script, or otherwise; 7) you will not use the Site for any illegal or unauthorized purpose; and 8) your use of the Site will not violate any applicable law or regulation.
+
+User Registration
+
+You may be required to register with the Site. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable.
+
+Prohibited Activities
+
+You may not access or use the Site for any purpose other than that for that for which we make the Site available. The Site may not be used in connection with any commercial endeavors except for those that are specifically endorsed or approved by us.
+
+As a user of the Site, you agree not to:
+
+Systemically retrieve data, information, documentation, or other content (the “Content”) from the Site to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us (please also see section: Copyrights, Trademarks, and Servicemarks)
+Trick, defraud, or mislead us or other users, especially in any attempt to learn sensitive account information such as user passwords.
+Circumvent, disable, or otherwise interfere with security-related features of the Site, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Site and/or the Content contained therein.
+Make improper use of our support services or submit false reports of abuse or misconduct.
+Use the Site in a manner inconsistent with any applicable laws or regulations.
+Engage in unauthorized framing or linking to the Site.
+Use any information obtained from the Site in order to harass, abuse, or harm another person.
+Upload or transmit (or attempt to upload or transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Site or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Site.
+Engage in any automated use of the Site, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
+Delete the copyright or other proprietary rights notice from any Content.
+Upload or transmit (or attempt to upload or transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats (“gifs”), 1×1 pixels, web bugs, web beacons, cookies or other similar devices (sometimes referred to as “spyware”).
+Interfere with, disrupt, or create an undue burden on the Site or the networks or services connected to the Site.
+Harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Site to you.
+Attempt to bypass any measure of the Site designed to prevent or restrict access to the Site or any portion of the Site.
+Copy or adapt the Site’s software including, but not limited to, Flash, PHP, HTML, JavaScript, or other code.
+Except as permitted by applicable law, decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up part of the Site.
+Except as may be the result of standard search engine or internet browser usage, use, launch, develop, or distribute any automated system including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Site, or using or launching any unauthorized script or other software.
+Make any attempt to collect usernames and/or e-mail addresses of users by electronic or other means for the purpose of sending unsolicited e-mail or creating user accounts by automated means or under false pretenses.
+Sell or otherwise transfer your profile.
+Use the Site to advertise or offer to sell goods and/or services.
+User Generated Contributions
+
+While the Site does not offer users the ability to submit or post content for third parties to access or use, we may provide you with the opportunity or need to create, submit, display, transmit, perform, or distribute data, information, documentation, or materials to us through the Site, including but not limited to text, writings, graphics, comments, suggestions, personal information, or other material (collectively “Contributions”). Contributions may be viewable by other, authorized users of the Site such as your lender, our service provider, Fiserv, Inc., (“Fiserv”), and auditors or regulators as may be permitted by law. As such, any contributions you transmit will be treated in accordance with the Site Privacy Policy, which can be viewed at Edfinancial.StudentAid.gov/privacy as well as the privacy policy of our service provider which can be viewed at Fiserv.com/privacy.
+
+You agree that we may access, store, process, and use any information and personal data that you provide in accordance with the terms of the Privacy Policy and your choices.
+
+We do not assert any ownership over your Contributions. We are not liable for any statements or representations in your Contributions. You are solely responsible for your Contributions to the Site, and you expressly agree to hold us harmless for any action which may arise from your Contributions or use of the Site.
+
+Submissions
+
+You acknowledge and agree that any questions, comments, suggestions, ideas, feedback, or other information regarding the Site (“Submissions”) provided by you to us are non-confidential and shall become our sole property. We shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of these Submissions for any lawful purpose, commercial or otherwise, without acknowledgement or compensation to you. You hereby waive all rights to any such Submissions, and you hereby warrant that any such Submissions are original to you or that you have the right to submit such Submissions. You agree there shall be no recourse against us for any alleged or actual infringement or misappropriation of any proprietary right in your Submissions.
+
+Site Management
+
+This Site is managed by a third party, our service provider, Fiserv, Inc., (Fiserv). Fiserv is a Wisconsin company. Fiserv and Edfinancial, reserve the right, but not the obligation to: 1) monitor the Site for violations of these Terms; 2) take appropriate legal action against anyone who, in our sole discretion, violates the law or these Terms including, without limitation, reporting such user to law enforcement authorities, 3) in our sole discretion and without limitation, refuse, restrict access to, limit the availability of, or disable any of your Use or Contributions 4) in our sole discretion and without limitation, notice, or liability, to remove from the Site or otherwise disable all files and content that are in any way burdensome to our systems; and 5) otherwise manage the Site in a manner that is designed to protect our rights and property and to facilitate the proper functioning of the Site.
+
+You may access Fiserv’s Terms of Use (fiserv.com/en/about-fiserv/terms-of-use.html) and Privacy Policy (fiserv.com/privacy) directly.
+
+Electronic Communication Agreement
+
+Accessing or using the Site, sending us e-mails, and completing online forms constitute electronic communications. In doing so, you hereby grant Edfinancial Services the right to communicate with you (i.e., to record you as having “opted-in” to such communications) about your account using methods of electronic communication including, but not limited to, automated telephone dialing systems, artificial or prerecorded voice or text messages, or e-mail to any e-mail address, number assigned to a paging service, cellular telephone service, specialized mobile radio service or other radio common carrier service, or any service for which the called party is charged for the call.
+
+Using the Site to initiate an electronic transaction, such as completing an online form to submit a deferment, forbearance, due date change, or repayment schedule change request constitutes your consent to receive disclosures, agreements or other notices related to that transaction. The transaction and related disclosures, agreements, and notices initiated or received through your online account are referred to as “Electronic Records.” You agree that the deferment, forbearance, due date change, repayment schedule change, or similar online request and all documents related to that transaction will be in electronic form only, and you agree that Edfinancial Services may provide Electronic Records as we elect based on your consent. You agree that your consent to receive agreements, notices, disclosures, and other communications we provide to you electronically satisfies any legal requirement that such communication be in writing. You hereby waive any right or requirements under any statutes, regulations, rules, ordinances, or other laws in any jurisdiction which require an original signature or delivery or retention of non-electronic records or payments. Your consent will also apply to any other person named on your account. Electronic Records will not be distributed in paper unless you contact Edfinancial Services and request a paper version of a particular Electronic Record.
+
+If you request a paper copy of a particular Electronic Record, the paper copy will be mailed to you at no charge. To obtain a paper copy of an Electronic Record you may contact us. At any point in this process, you will be able to print and read the information that is presented to you using your browser print option. At any time prior to submitting your electronic signature, you may opt out of the electronic signature process and continue with a paper process.
+
+To sign electronically, you will be prompted to enter your name and the date you signed the request. This information will appear on the electronic document along with the words “Electronically Signed.” You will be prompted to enter the password you created for your Edfinancial Services account. Selecting “Submit” completes the electronic signature process.
+
+After signing the document, you should print a copy for your records. Note: The document you print upon completion of the electronic-sign process may not be a complete version of the Electronic Record due to system limitations and differences of technology. If you would like to receive a true and exact copy of an Electronic Record, you may contact us.
+
+You may at any time withdraw your consent to receive Electronic Records. Regardless, the deferment, forbearance, due date change, repayment schedule change, or similar request you signed electronically will be enforceable. To withdraw consent please contact us.
+
+You agree to ensure Edfinancial Services has the correct information to contact you electronically (e.g. providing any changes in e-mail address).
+
+Viewing Electronic Records
+
+We are required by law to provide certain information to you in writing and, in some circumstances, on paper. You have a right to obtain any of the aforementioned documents in paper form by contacting a customer service representative at 1-855-337- 6884 or by written request mailed to Edfinancial Services Legal Department, P.O. Box 36008, Knoxville, TN 37930-6008.
+
+To conduct transactions electronically or to view Electronic Records, you will need the following computer hardware and software:
+
+a computer with an Internet connection
+a current web browser that includes 128-bit encryption with cookies enabled
+the ability to open documents in PDF format
+you will need access to software which permits you to receive and access PDF files, such as Adobe Acrobat Reader – available to download for free at https://get.adobe.com/reader/
+you can test your ability to open PDF documents by clicking the test link here: https://edfinancial.studentaid.gov/media/pdfs/Information-Release-DL.pdf
+a valid e-mail address
+sufficient storage space to save past communications or an installed printer to print them
+the ability to view Hypertext Markup Language (HTML) files
+the ability to view Portable Network Graphics (PNG) files
+
+If you are using a desktop browser or mobile operating system that is not supported, your ability to view and interact with this site and view your electronic correspondence may be significantly impaired.
+
+To access information and send e-mail via Company Sites, you will need a browser that supports the use of Secure Sockets Layer. This encryption technology helps ensure the authenticity of your online sessions and secures data being transmitted over the public Internet.
+
+Supported browsers: The latest release for Google Chrome, Mozilla Firefox, and Apple Safari.
+
+Use the following links to download and install the appropriate desktop browser.
+
+For Windows:
+
+Get Chrome
+Get Firefox
+Get Safari
+
+For Apple:
+
+Get Chrome
+Get Firefox
+Get Safari
+
+Note: To identify the browser currently running on your computer, use the “Help” menu item on your browser and select “About [your browser name here]”.
+
+For optimal mobile experience, you will need one of the following Apple and Android supporting operating system versions:
+
+iOS12
+iOS 13 Beta
+5 (Lollipop)
+7 (Nougat)
+8 (Oreo)
+9 (Pie)
+
+Documents are presented in an Adobe portable document format (PDF) and can be viewed by using the free Adobe Reader. Adobe Acrobat Reader 6.0 or later versions is required. You may obtain a free copy of Adobe Acrobat Reader from the Adobe website at http://get.adobe.com/reader. You can test your ability to open PDF documents by clicking the test link here.
+
+Some correspondence may be provided by e-mail; therefore, it is essential that you provide us with an up-to-date e-mail address. If your e-mail address or other contact information is changed or if you selected “Send Me Emails” by mistake, you must notify Edfinancial Services of the change immediately via our online form, or you may contact one of our customer service representatives by phone at 1-855-337-6884. Complete our online form at https://customercare.edfinancial.studentaid.gov.
+
+You may print correspondence if you have a printer connected to your computer and/or you may download and save a copy of the correspondence if you have sufficient harddrive space. You may need additional software to view or print your Electronic Record. Access to a printer will be required to obtain a paper copy of your Electronic Record.
+
+Privacy Policy
+
+It is our policy to respect the privacy of individuals who visit the Site. Our Privacy Policy, which you may view at Edfinancial.StudentAid.gov/Privacy (“Privacy Policy“), is incorporated herein by reference. By accepting these Terms, you expressly consent to the use and disclosure of your personally identifiable information and other information as described in the Privacy Policy.
+
+Edfinancial Services wants you to understand how we collect, protect, and use your personally identifiable information (“your information”) and the choices you have about how your information is used. This policy covers the information handling practices of the Company; however, certain departments and/or products within the Company may have more restrictive information handling practices.
+
+Please be advised the Site is hosted in the United States. If you access the Site from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Site, you are transferring your data to the United States and you agree to have your data transferred to, and processed in the United States. Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children’s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of seventeen has provided personal information to us without the requisite and verifiable parental/guardian consent, we will delete that information from the Site as quickly as is reasonably practical.
+
+You are responsible for maintaining the confidentiality of your username and password and for restricting access to your computer, in an effort to help secure the privacy of your information. You agree to accept all risk and responsibility for all activities that occur under your username and password.
+
+Warranty Disclaimer
+
+THE SITE, ANY SERVICE OFFERED ON OR THROUGH THE SITE, AND THE ENTIRE CONTENTS AND SOFTWARE ON THE SITE, ARE PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT WARRANTY OF ANY KIND WHATSOEVER. EDFINANCIAL SERVICES EXPRESSLY DISCLAIMS ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF PERFORMANCE OR COURSE OF DEALING. EDFINANCIAL SERVICES MAKES NO WARRANTY OR GUARANTY THAT THE CONTENTS OF THE SITE ARE COMPLETE, ERROR-FREE, OR THAT THE SITE WILL OPERATE IN A MANNER THAT IS SECURE (UNLESS OTHERWISE INDICATED), UNINTERRUPTED OR ERROR-FREE, OR THAT THE SITE IS OR WILL BE MAINTAINED FREE OF VIRUSES OR OTHER HARMFUL CODE. IT IS UP TO YOU TO TAKE ANY AND ALL PRECAUTIONS TO ENSURE THAT THE INFORMATION YOU ACCESS AND USE FROM THE SITE IS FREE OF SUCH ITEMS AS VIRUSES, WORMS, TROJAN HORSES, AND OTHER ITEMS OF A DESTRUCTIVE NATURE. CHANGES MAY BE MADE TO THE CONTENTS AND SOFTWARE ON THE SITE, AND THE PRODUCTS AND SERVICES DESCRIBED WITHIN OR OFFERED ON THE SITE, AT ANY TIME WITHOUT NOTICE. EDFINANCIAL SERVICES USES REASONABLE EFFORTS TO INCLUDE ACCURATE AND UP TO DATE INFORMATION ON THE SITE. EDFINANCIAL SERVICES IS NOT RESPONSIBLE FOR TECHNICAL, HARDWARE, OR SOFTWARE FAILURES OF ANY KIND; LOST OR UNAVAILABLE NETWORK CONNECTIONS; OR INCOMPLETE, GARBLED, OR DELAYED COMPUTER TRANSMISSIONS.
+
+Limitation of Liability
+
+BY USING THE SITE, YOU AGREE THAT EDFINANCIAL SERVICES WILL NOT FOR ANY REASON OR CIRCUMSTANCE, AND REGARDLESS OF LEGAL THEORY, WHETHER IN TORT, CONTRACT, OR OTHERWISE, BE LIABLE TO YOU OR ANY OTHER PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, OR ANY OTHER DAMAGES, HOWEVER CAUSED, AND REGARDLESS OF CHARACTER, INCLUDING WITHOUT LIMITATION LOST PROFITS, LOST SAVINGS, LOSS OF PROGRAMS, OR OTHER DATA ON YOUR INFORMATION HANDLING SYSTEM OR OTHERWISE, EVEN IF EDFINANCIAL SERVICES HAS BEEN ADVISED OF THE POSSIBILITY OF ANY SUCH DAMAGES. THE FOREGOING LIMITATION OF LIABILITY APPLIES, BY WAY OF EXAMPLE BUT WITHOUT LIMITATION, TO ANY DAMAGES ARISING OUT OF OR IN CONNECTION WITH (I) YOUR ACCESS TO, USE OF, OR INABILITY TO USE THE SITE (INCLUDING ANY SERVICE OFFERED ON OR THROUGH THE SITE), OR (II) ANY ERRORS OR OMISSIONS IN THE CONTENT OF, OR PERFORMANCE OF THE SOFTWARE ON, THE SITE (INCLUDING ANY SERVICE OFFERED ON OR THROUGH THE SITE). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO SUCH EXCLUSIONS MAY NOT APPLY TO YOU. HOWEVER, SUCH EXCLUSIONS SHALL BE ENFORCEABLE TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+Indemnification
+
+You agree to defend, indemnify, and hold Edfinancial Services harmless from and against any and all claims, losses, damages, liabilities, costs, and expenses (including, but not limited to, attorneys’ fees) arising from or related to your (i) use of the Site or (ii) violation of any of these Terms.
+
+Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action or proceeding which is subject to this indemnification upon becoming aware of it.
+
+Copyrights, Trademarks, and Service marks
+
+The Site and all Content posted in or on the Site are copyright 1995-2023 of Edfinancial Services. All rights reserved. Unless stated to the contrary, all Content is the property of Edfinancial Services or its third-party licensors. By making this Content available on the Site, Edfinancial Services is not waiving any proprietary rights (including copyrights or trademarks) in such Content and is not transferring its rights to you or any third party. The Content is protected by United States and international copyright laws. The product and service names and logos on the Site, and the appearance of the Site, including icons and graphics (“Marks”), are service marks/trademarks, registered service marks/trademarks and/or trade dress of Edfinancial Services or its third-party licensors. Unauthorized use is prohibited.
+
+You agree not to remove copyright, trademark, or other notices from any Content or Marks you may get from the Site. You cannot download or copy any content from the Site without the prior written consent of Edfinancial Services except for your individual use. Provided that you are eligible for use of this Site, you are granted limited permission to access and use the Site to download or print a copy of the content described in Viewing Electronic Documents section of this Terms of Use document and only after you have properly gained access solely for your personal, non-commercial use. No right, title or interest in any downloaded materials is transferred to you as a result of any such downloading or copying. You may not reproduce (except as noted above), publish, transmit, distribute, display, modify, create derivative works from, sell or participate in any sale of, or exploit in any way, in whole or in part, any of the Content, Marks, the Site, or any related software.
+
+If you believe that your copyrighted work or the copyrighted works of others have been infringed, please send a written notification of claimed infringement to Edfinancial Services copyright agent with the following information: (i) an electronic or physical signature of the copyright owner or the person authorized to act on behalf of the copyright owner; (ii) a description of the copyrighted work that you claim has been infringed; (iii) a description of where the allegedly infringing material is located on the Site; (iv) your telephone number, address, and e-mail address; (v) a statement that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law, and (vi) a statement by you, made under penalty of perjury, that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.
+
+Edfinancial Services’ agent for notice of claims of copyright infringement on the Site is: Edfinancial Services Legal Department
+P.O. Box 36008 Knoxville, TN 37930-6008
+
+Upon receipt by Edfinancial Services of notice of claimed copyright infringement containing the information specified above, Edfinancial Services will promptly remove the allegedly infringing material from the Site. Edfinancial Services shall have no liability to any user of the Site for the removal of any such material.
+
+External Links
+
+To the extent links are provided from the Site to other websites, Edfinancial Services does not operate or control any information, products, or services on, nor endorse nor approve any products, services or information offered at those sites.
+
+Termination
+
+These Terms are effective until terminated by Edfinancial Services. Edfinancial Services may terminate all or part of the Site at any time without notice to you.
+
+Law that Governs the Site
+
+Information on the Site includes descriptions of products and services available only in the United States of America. These Terms are governed by and interpreted pursuant to the laws of the State of Tennessee, United States of America, notwithstanding any conflicts of laws principles, and venue shall rest exclusively in the courts situated in the State of Tennessee, Knox County. If any part of these Terms is unlawful, void, or unenforceable, that part will be deemed severable and will not affect the validity and enforceability of the remaining Terms.
+
+Entire Agreement
+
+These Terms constitute the complete and exclusive statement of the mutual understanding of the parties and supersede and cancel all previous written and oral agreements and communications relating to the subject matter hereof. No failure or delay in exercising, on the part of either party, any privilege, power or right hereunder will operate as a waiver thereof.
+
+Contact Us
+
+In order to resolve a complaint regarding the Site or to receive further information regarding the use of the Site, please contact us at:
+
+Edfinancial, LLC
+PO Box 32489
+Knoxville, TN 37930
+
+California Users and Residents
+
+If any complaint with us is not satisfactorily resolved, you can contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834 or by telephone at (800) 952-5210 or (916) 445-1254.
+
+NEED HELP?
+We Are Here For You
+
+Representatives are available Monday 8am - 11pm, Tuesday - Friday 8am - 8pm, Saturday 10am - 2pm Eastern Time
+
+ Your Online Account
+
+Log In 
+
+ 
+ Give Us a Call  
+
+855-337-6884 
+
+ 
+ Chat Assistance 
+
+Chat with Us

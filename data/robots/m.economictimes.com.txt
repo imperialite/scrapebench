@@ -1,0 +1,194 @@
+User-agent: *
+Allow: /
+Disallow: /PDAET/
+Disallow: /7176/
+Disallow: */notify.htm?*
+Disallow: /default1.cms
+Disallow: /default.cms
+Disallow: /*rssarticleshow*
+Disallow: /*cms.dll*
+Disallow: /*/opinions/
+Disallow: /pmcomment/
+Disallow: /logtopickeywords.cms
+Disallow: /logtopickeywords.cms?query=
+Disallow: /researchview.cms?searchid=
+Disallow: /researchviewcomm.cms?searchid=
+Disallow: /articleshow_cmtofartac/
+Disallow: /cmtofart/
+Disallow: /cmtofartac_lp/
+Disallow: /comments/
+Disallow: /comment/
+Disallow: /announcements.cms
+Disallow: /analysis.cms
+Disallow: *?adcode=*
+Disallow: /etvertical_articleshow/
+Disallow: /articleshow1/
+Disallow: */params/smecompany/entityid-*
+Disallow: /smelistings*
+Disallow: *primeshow*
+Disallow: */login.cms*
+Disallow: /topic/*/photos*
+Disallow: /topic/*/ampphoto*
+Disallow: */topics_amp/*
+Disallow: /top-trending-products/*/primearticleshow/*
+Disallow: /etvertical_taglist*
+Disallow: */hindi/*
+Disallow: *?language=HIN
+Disallow: *,language-HIN.cms
+Disallow: *?language=BEN
+Disallow: *,language-BEN.cms
+Disallow: *?language=GUJ
+Disallow: *,language-GUJ.cms
+Disallow: *?language=MAR
+Disallow: *,language-MAR.cms
+Disallow: *?language=TAM
+Disallow: *,language-TAM.cms
+Disallow: *?language=TEL
+Disallow: *,language-TEL.cms
+Disallow: *?language=MAL
+Disallow: *,language-MAL.cms
+Disallow: *?language=KAN
+Disallow: *,language-KAN.cms
+Disallow: */blogs/*
+Disallow: */comments/*
+Disallow: /topic/*(*
+Disallow: /topic/*{*
+Disallow: /topic/*[*
+Disallow: /topic/*seo9*
+Disallow: /topic/*1*
+Disallow: /topic/*2*
+Disallow: /topic/*3*
+Disallow: /topic/*4*
+Disallow: /topic/*5*
+Disallow: /topic/*6*
+Disallow: /topic/*7*
+Disallow: /topic/*8*
+Disallow: /topic/*9*
+Disallow: *(*
+Disallow: *)*
+Disallow: *?companyid=*
+Disallow: *?intenttarget=*
+Disallow: *?scode=*
+Disallow: *?utm=*
+Disallow: *?save_layout=*
+Disallow: *?filter=*
+Disallow: *?articleno=*
+
+Disallow: */commentsdata.cms?appkey=*
+Disallow: */amp_lazyload_definitionmore.cms?feedtype=*
+Disallow: */feeds/manifest_appinstall/v-2.cms*
+Disallow: */primefeed_blocker.cms?msid=*
+Disallow: */ads_v1.cms?*
+
+
+
+Sitemap: https://m.economictimes.com/companylisting_stocks.cms
+Sitemap: https://m.economictimes.com/etstatic/sitemaps/m-et/news/sitemap-today.xml
+Sitemap: https://m.economictimes.com/etstatic/sitemaps/m-et/news/sitemap-yesterday.xml
+Sitemap: https://economictimes.indiatimes.com/etstatic/sitemaps/et/news/sitemap-index.xml
+Sitemap: https://economictimes.indiatimes.com/sitemapxml.cms
+Sitemap: https://economictimes.indiatimes.com/etstatic/sitemaps/et/video/sitemap-index.xml
+
+
+
+
+
+
+
+
+
+
+User-agent: Googlebot-News
+Allow: /
+Disallow: /PDAET/
+Disallow: /7176/
+Disallow: */notify.htm?*
+Disallow: /default1.cms
+Disallow: /default.cms
+Disallow: /*rssarticleshow*
+Disallow: /*cms.dll*
+Disallow: /*/opinions/
+Disallow: /pmcomment/
+Disallow: /logtopickeywords.cms
+Disallow: /logtopickeywords.cms?query=
+Disallow: /researchview.cms?searchid=
+Disallow: /researchviewcomm.cms?searchid=
+Disallow: /articleshow_cmtofartac/
+Disallow: /cmtofart/
+Disallow: /cmtofartac_lp/
+Disallow: /comments/
+Disallow: /comment/
+Disallow: /announcements.cms
+Disallow: /analysis.cms
+Disallow: *?adcode=*
+Disallow: /etvertical_articleshow/
+Disallow: /articleshow1/
+Disallow: */params/smecompany/entityid-*
+Disallow: /smelistings*
+Disallow: *primeshow*
+Disallow: */login.cms*
+Disallow: /topic/*/photos*
+Disallow: /topic/*/ampphoto*
+Disallow: */topics_amp/*
+Disallow: /top-trending-products/*/primearticleshow/*
+Disallow: /etvertical_taglist*
+Disallow: */hindi/*
+Disallow: *?language=HIN
+Disallow: *,language-HIN.cms
+Disallow: *?language=BEN
+Disallow: *,language-BEN.cms
+Disallow: *?language=GUJ
+Disallow: *,language-GUJ.cms
+Disallow: *?language=MAR
+Disallow: *,language-MAR.cms
+Disallow: *?language=TAM
+Disallow: *,language-TAM.cms
+Disallow: *?language=TEL
+Disallow: *,language-TEL.cms
+Disallow: *?language=MAL
+Disallow: *,language-MAL.cms
+Disallow: *?language=KAN
+Disallow: *,language-KAN.cms
+Disallow: */blogs/*
+Disallow: */comments/*
+Disallow: /topic/*(*
+Disallow: /topic/*{*
+Disallow: /topic/*[*
+Disallow: /topic/*seo9*
+Disallow: /topic/*1*
+Disallow: /topic/*2*
+Disallow: /topic/*3*
+Disallow: /topic/*4*
+Disallow: /topic/*5*
+Disallow: /topic/*6*
+Disallow: /topic/*7*
+Disallow: /topic/*8*
+Disallow: /topic/*9*
+Disallow: *(*
+Disallow: *)*
+Disallow: *?companyid=*
+Disallow: *?intenttarget=*
+Disallow: *?scode=*
+Disallow: *?utm=*
+Disallow: *?save_layout=*
+Disallow: *?filter=*
+Disallow: *?articleno=*
+
+Disallow: */commentsdata.cms?appkey=*
+Disallow: */amp_lazyload_definitionmore.cms?feedtype=*
+Disallow: */feeds/manifest_appinstall/v-2.cms*
+Disallow: */primefeed_blocker.cms?msid=*
+Disallow: */ads_v1.cms?*
+
+
+
+Sitemap: https://m.economictimes.com/companylisting_stocks.cms
+Sitemap: https://m.economictimes.com/etstatic/sitemaps/m-et/news/sitemap-today.xml
+Sitemap: https://m.economictimes.com/etstatic/sitemaps/m-et/news/sitemap-yesterday.xml
+Sitemap: https://economictimes.indiatimes.com/etstatic/sitemaps/et/news/sitemap-index.xml
+Sitemap: https://economictimes.indiatimes.com/sitemapxml.cms
+Sitemap: https://economictimes.indiatimes.com/etstatic/sitemaps/et/video/sitemap-index.xml
+
+
+User-agent: AmazonAdBot
+Allow: /

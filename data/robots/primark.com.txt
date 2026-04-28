@@ -1,0 +1,63 @@
+# For StoreBot-Google only: allow access to cart and checkout
+
+User-agent: StoreBot-Google
+
+Allow: /checkout
+
+Allow: /*/shopping-bag
+
+
+# For all robots
+
+User-agent: *
+
+Disallow: /*/shopping-list
+
+Disallow: /*/shopping-bag
+
+Disallow: /*/auth/login
+
+Disallow: /*/auth/logout
+
+Disallow: /*/order-confirmation
+
+Disallow: /*/profile
+
+Disallow: /*/sign-in
+
+Disallow: /*/sign-up
+
+Disallow: /*/ByEmail/Primark/ChooseProduct
+
+Disallow: /checkout
+
+Disallow: /api/
+
+Disallow: /metrics/gtag/
+
+Disallow: /metrics/g/
+
+Disallow: /tag_path/
+
+
+# Sitemap Files
+
+Sitemap: https://www.primark.com/en-gb/sitemap/sitemap-index.xml
+Sitemap: https://www.primark.com/de-at/sitemap/sitemap.xml
+Sitemap: https://www.primark.com/fr-be/sitemap/sitemap.xml
+Sitemap: https://www.primark.com/nl-be/sitemap/sitemap.xml
+Sitemap: https://www.primark.com/cs-cz/sitemap/sitemap.xml
+Sitemap: https://www.primark.com/de-de/sitemap/sitemap.xml
+Sitemap: https://www.primark.com/es-es/sitemap/sitemap.xml
+Sitemap: https://www.primark.com/fr-fr/sitemap/sitemap.xml
+Sitemap: https://www.primark.com/en-ie/sitemap/sitemap.xml
+Sitemap: https://www.primark.com/it-it/sitemap/sitemap.xml
+Sitemap: https://www.primark.com/nl-nl/sitemap/sitemap.xml
+Sitemap: https://www.primark.com/pl-pl/sitemap/sitemap.xml
+Sitemap: https://www.primark.com/pt-pt/sitemap/sitemap.xml
+Sitemap: https://www.primark.com/ro-ro/sitemap/sitemap.xml
+Sitemap: https://www.primark.com/sl-si/sitemap/sitemap.xml
+Sitemap: https://www.primark.com/en-gb/sitemap/sitemap.xml
+Sitemap: https://www.primark.com/en-us/sitemap/sitemap.xml
+Sitemap: https://www.primark.com/sk-sk/sitemap/sitemap.xml
+Sitemap: https://www.primark.com/hu-hu/sitemap/sitemap.xml

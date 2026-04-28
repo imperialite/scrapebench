@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /profile
+Disallow: /sign-in
+Disallow: /sign-up
+Disallow: /reset-password
+Disallow: /api
+
+Sitemap: /sitemap.xml

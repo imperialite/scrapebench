@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /*?wptouch_switch
+Disallow: /*?load_after
+Disallow: /*?load_before
+
+# cleaning up crawl errors
+Disallow: /search
+Disallow: /*?redirect_to
+Disallow: /*?fvtc_order
+Disallow: /*?fv-home
+Disallow: /*?s
+Disallow: /*/email
+
+Sitemap: https://www.mlbtraderumors.com/wp-sitemap.xml
+
+User-agent: * 
+Crawl-delay: 1

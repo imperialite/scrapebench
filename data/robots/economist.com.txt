@@ -1,0 +1,48 @@
+# robots.txt # Sitemaps 
+Sitemap: https://www.economist.com/sitemap.xml 
+Sitemap: https://www.economist.com/googlenews.xml # Bot Directives 
+User-agent: GPTBot 
+Disallow: / 
+User-agent: Google-Extended 
+Disallow: / 
+User-agent: ChatGPT-User 
+Disallow: / 
+User-agent: CCBot 
+Disallow: / 
+User-agent: PiplBot 
+Disallow: / 
+User-agent: anthropic-ai 
+Disallow: / 
+User-agent: Claude-Web 
+Disallow: / 
+User-agent: TurnitinBot 
+Disallow: / 
+User-agent: PetalBot 
+Disallow: / 
+User-agent: MoodleBot 
+Disallow: / 
+User-agent: magpie-crawler 
+Disallow: / 
+User-agent: ia_archiver 
+Disallow: / 
+User-agent: Applebot-Extended 
+Disallow: / 
+User-agent: PerplexityBot 
+Disallow: / 
+User-agent: Perplexity-User 
+Disallow: / 
+User-Agent: Bytespider 
+Disallow: / 
+User-Agent: Mozilla/5.0 (compatible; parse.ly scraper/0.16; +http://parsely.com) 
+Disallow: /checkout # Disallow all bots from select paths 
+User-agent: * 
+Disallow: /5605/ 
+Disallow: /pubads.g.doubleclick.net/ 
+Disallow: /assets/infographic/ 
+Disallow: /search/ 
+Disallow: /search?q= 
+Disallow: /graphql 
+Disallow: /subscribe/getstarted/ 
+Disallow: /checkout 
+Disallow: /switch* 
+Disallow: /audio-edition-podcast/*/index.xml

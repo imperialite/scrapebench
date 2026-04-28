@@ -1,0 +1,148 @@
+User-agent: AI2Bot
+Disallow: /
+
+User-agent: Ai2Bot-Dolma
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: FriendlyCrawler
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: ICC-Crawler
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: VelenPublicWebCrawler
+Disallow: /
+
+User-agent: Webzio-Extended
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: iaskspider/2.0
+Disallow: /
+
+User-agent: img2dataset
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: *
+Disallow: /tncms/tracking/
+Disallow: /_services/
+Disallow: /sports/high-school-sports/new-glarus/
+Disallow: /test/
+Disallow: /tncms/weather/
+Disallow: /tncms/webservice/
+Disallow: /tncms/auth/
+Disallow: /tncms/openid2/
+Disallow: /tncms/media/
+Disallow: /tncms/messaging/
+Disallow: /tncms/search/
+Disallow: /tncms/counter/
+Disallow: /tncms/block/
+Disallow: /tncms/tax/
+Disallow: /tncms/dmp/
+Disallow: /tncms/csrf/
+Disallow: /tncms/gtm/
+Disallow: /tncms/admin/
+Disallow: /tncms/track/
+Disallow: /tncms/openweb/*
+Disallow: /content/tncms/
+Disallow: /tncms/calendar/
+Disallow: /calendar/search/
+Disallow: /content/tncms/assets/v3/form/
+Disallow: /content/tncms/form/
+Disallow: /tncms/user/
+Disallow: /users/admin/
+Disallow: /users/*/?
+Disallow: /marketplace/*action=srch
+Disallow: /tncms/disqus/
+
+Sitemap: https://www.channel3000.com/sitemap.xml
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2002
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2003
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2004
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2005
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2006
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2007
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2008
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2009
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2010
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2011
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2012
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2013
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2014
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2015
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2016
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2017
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2018
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2019
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2020
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2021
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2022
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2023
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2024
+Sitemap: https://www.channel3000.com/tncms/sitemap/editorial.xml?year=2025

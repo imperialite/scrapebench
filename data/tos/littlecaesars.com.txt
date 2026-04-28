@@ -1,0 +1,506 @@
+LCE Privacy Site
+Terms of Service
+LittleCaesars.com - Terms of Service
+Last Updated: January 8, 2024
+PLEASE READ THESE TERMS OF SERVICE CAREFULLY, AS THEY ARE A LEGALLY BINDING AGREEMENT BETWEEN YOU AND LITTLE CAESAR ENTERPRISES, INC., AND/OR RELATED AND AFFILIATED ENTITIES (COLLECTIVELY, “LCE” OR “WE,” “OUR” OR “US”).
+Introduction and Overview
+These Terms of Service, together with any applicable Additional Terms (collectively, “Terms”), govern your use of our Service. As used herein, “Service” means any online or digital product or service owned or operated by us, including our websites (including littlecaesars.com), mobile apps (“App”), features, widgets, plug-ins, applications, communications (including chats and emails), content, downloads, platform and other products and services that post or link to, or are otherwise stated to be governed by, these Terms. These Terms do not apply to “Third-Party Services” (defined below). When applicable, to the extent there is a conflict between the Terms and an Addendum, the Addendum will control.
+Each time you access and/or use the Service you agree to be bound by and comply with these Terms. Therefore, do not use the Service if you do not agree. If you are under the age of majority, you may use the Service only with involvement of a parent or guardian who agrees to these Terms and to be responsible for your use. We may, from time-to-time, update these Terms, as described more fully in
+Section 16
+Arbitration Agreement. These Terms include an
+Arbitration Agreement
+that governs any disputes between you and us. This Arbitration Agreement and other provisions will:
+Eliminate your right to a trial by jury to the extent allowable under applicable law; and
+Substantially affect your rights, including preventing you from bringing, joining, or participating in class or consolidated proceedings in arbitration and litigation.
+Privacy.
+By using the Service, you acknowledge and accept the Service’s
+Privacy Policy
+and consent to the collection and use of your data in accordance with the
+Privacy Policy
+.
+Additional Terms.
+In some instances, additional or different terms and/or conditions will apply to your use of the Service or to a service or product offered via the Service (in each such instance, and collectively (“Additional Terms”). To the extent there is a conflict between the Terms of Use and any Additional Terms, the Terms of Use will control unless the Additional Terms expressly state otherwise. References to “these Terms” herein includes any applicable Additional Terms that may apply, unless stated otherwise.
+Table of Contents
+1.
+Service Content, Ownership, Limited License, and Rights of Others
+2.
+Content You Submit and Community Usage Rules
+3.
+Acceptable Use
+4.
+Accounts
+5.
+Procedure for Alleging U.S. Copyright Infringement
+6.
+Procedure for Alleging Infringement of Your Trademark or Other Non-Copyright IP
+7.
+Notices, Questions, Complaints, and Customer Service
+8.
+Offers, Pricing, Typographical Errors, In-Service Orders and Purchases
+9.
+Links By You to the Service
+10.
+Third-Party Services, Advertisements, Dealings with Third Parties, Terms Applicable for Apple iOS
+11.
+Mobile Features and Messages, Communications
+12.
+Dispute Resolution
+13.
+Disclaimer of Representations and Warranties
+14.
+Limitations of Our Liability
+15.
+Waiver of Injunctive or Other Equitable Relief
+16.
+Updates to Terms
+17.
+General Provisions
+If You Want to Use the Service,
+then carefully read these entire Terms (including all links to details), as they constitute a written agreement between you and us and they affect your legal rights and obligations. The summaries of provisions and section headings are provided for convenience only and do not limit the full Terms. If you are under the age of majority, you may use the Service only with involvement of a parent or guardian who agrees to these Terms and to be responsible for your use.
+Each time you access and/or use the Service (other than to simply read these Terms), you agree to be bound by and comply with the Terms and any Additional Terms (defined below) then posted (subject to
+Section 16
+). Therefore, do not use the Service if you do not agree. The business realities associated with operating the Service are such that, without the conditions that are set forth in these Terms – such as your grants and waivers of rights, the limitations on our liability, your indemnity of us, and our arbitration of certain disputes – we would not make the Service available to you.
+In some instances, both these Terms and separate guidelines, rules, or terms of service or sale setting forth additional or different terms and/or conditions will apply to your use of the Service or to a service or product offered via the Service (in each such instance, and collectively “Additional Terms”). To the extent there is a conflict between these Terms and any Additional Terms, the Additional Terms will control unless the Additional Terms expressly state otherwise. Please also review the terms of the Service’s
+Privacy Policy
+, which you accept by using the Service.
+1.
+SERVICE CONTENT, OWNERSHIP, LIMITED LICENSE, AND RIGHTS OF OTHERS
+A.
+CONTENT
+.
+The Service contains a variety of: (i) materials and other items relating to LCE and its products and services, and similar items from our licensors and other third parties, including all layout, information, articles, posts, text, data, files, images, scripts, designs, graphics, button icons, instructions, illustrations, photographs, audio clips, music, sounds, pictures, videos, advertising copy, URLs, technology, software, interactive features, the “look and feel” of the Service, and the compilation, assembly, and arrangement of the materials of the Service and any and all copyrightable material (including source and object code); (ii) trademarks, logos, trade names, trade dress, service marks, and trade identities of various parties, including those of LCE (collectively, “Trademarks”); and (iii) other forms of intellectual property (all of the foregoing, collectively, “Content”).
+B.
+OWNERSHIP
+.
+All right, title, and interest in and to the Service and the Content available via the Service (including past, present, and future versions of each of the foregoing) are the property of and are owned or controlled by LCE and our licensors or certain other third parties. LCE owns the copyright in the selection, compilation, assembly, arrangement, and enhancement of the Content on the Service.
+C.
+LIMITED LICENSE
+.
+Subject to your strict compliance with these Terms, LCE grants you a limited, non-exclusive, revocable, non-assignable, personal, and non-transferable license to access and use the Service and Content, in particular (i) to download (temporary storage only of web site and a single Device download and storage of the mobile app), display, view, use, play, and/or print one copy of the Content (excluding source and object code in raw form or otherwise, other than as made available to access and use to enable display and functionality) on a personal computer, or mobile device, or other Internet enabled device (each, a “Device”) for your personal, non-commercial use only, and (ii) to use certain Content that we may from time to time make available on the Service explicitly for you for use as part of your User-Generated Content (“LCE Licensed Elements”), but only for such purposes as may be explicitly stated at the time that the LCE Licensed Elements are made available on the Service; but we and our licensors and certain other third parties, as the case may be, retain ownership of such LCE Licensed Elements. The foregoing limited license (i) does not give you any ownership of, or any other intellectual property interest in, any Content, and (ii) may be immediately suspended or terminated for any reason, in LCE’s sole discretion, and without advance notice or liability. In some instances, we may permit you to have greater access to and use of Content and/or LCE Licensed Elements, subject to certain Additional Terms.
+These Terms include only narrow, limited grants of rights to Content and to use and access the Service. No right or license may be construed, under any legal theory, by implication, estoppel, industry custom, or otherwise. All rights not expressly granted to you are reserved by LCE and its licensors and other third parties.
+D.
+RIGHTS OF OTHERS
+.
+In using the Service, you must respect the intellectual property and other rights of LCE and others. Your unauthorized use of Content may violate copyright, trademark, privacy, publicity, communications, and other laws, and any such use may result in your personal liability, including potential criminal liability. LCE respects the intellectual property rights of others. If you believe that your intellectual property rights have been infringed by means of an improper posting or distribution of it via the Service, then please see
+Section 5
+and
+Section 6
+below.
+Return to Terms summary and navigation
+2.
+CONTENT YOU SUBMIT AND COMMUNITY USAGE RULES
+A.
+USER-GENERATED CONTENT
+.
+(I) GENERAL.
+LCE may now or in the future offer users of the Service the opportunity to create, build, post, upload, display, publish, distribute, transmit, broadcast, or otherwise make available on or submit through the Service (collectively, “submit”) messages, avatars, text, illustrations, files, images, graphics, photos, comments, responses, sounds, music, videos, information, content, ratings, reviews, data, questions, suggestions, personally identifiable information, or other information or materials and the ideas contained therein (collectively, but excluding any content and/or LCE Licensed Elements included therein, “User-Generated Content” or “UGC”). LCE may allow you to do this through forums, blogs, message boards, social networking environments, content creation tools, game play, social communities, contact us tools, email, and other communications functionality. Subject to the rights and license you grant in these Terms, you retain whatever legally cognizable right, title, and interest that you have in your UGC and you remain ultimately responsible for it.
+(II) NON-CONFIDENTIALITY OF YOUR UGC.
+Except as otherwise described in the Service’s posted Privacy Policy or any Additional Terms, you agree that (a) your UGC will be treated as non-confidential – regardless of whether you mark them “confidential,” “proprietary,” or the like – and will not be returned, and (b) LCE does not assume any obligation of any kind to you or any third party with respect to your UGC. Upon LCE’s request, you will furnish us with any documentation necessary to substantiate the rights to such content and to verify your compliance with these Terms. You acknowledge that the Internet and mobile communications may be subject to breaches of security and that you are aware that submissions of UGC may not be secure, and you will consider this before submitting any UGC and do so at your own risk.
+In your communications with LCE, please keep in mind that we do not seek any unsolicited ideas or materials for products or services, or even suggested improvements to products or services, including, without limitation, ideas, concepts, inventions, or designs for music, websites, apps, books, scripts, screenplays, motion pictures, television shows, theatrical productions, software or otherwise (collectively, “Unsolicited Ideas and Materials”). Any Unsolicited Ideas and Materials you post on or send to us via the Service are deemed UGC and licensed to us as set forth below. In addition, LCE retains all of the rights held by members of the general public with regard to your Unsolicited Ideas and Materials. LCE’s receipt of your Unsolicited Ideas and Materials is not an admission by LCE of their novelty, priority, or originality, and it does not impair LCE’s right to contest existing or future intellectual property rights relating to your Unsolicited Ideas and Materials.
+(III) LICENSE TO LCE OF YOUR UGC.
+Except as otherwise described in any applicable Additional Terms (such as a contest official rules), which specifically govern the submission of your UGC, you hereby grant to LCE, and you agree to grant to LCE, the non-exclusive, unrestricted, unconditional, unlimited, worldwide, irrevocable, perpetual, and cost-free right and license to use, copy, record, distribute, reproduce, disclose, sell, re-sell, sub license (through multiple levels), display, publicly perform, transmit, publish, broadcast, translate, make derivative works of, and otherwise use and exploit in any manner whatsoever, all or any portion of your UGC (and derivative works thereof), for any purpose whatsoever in all formats, on or through any means or medium now known or hereafter developed, and with any technology or devices now known or hereafter developed, and to advertise, market, and promote the same. Without limitation, the granted rights include the right to: (a) configure, host, index, cache, archive, store, digitize, compress, optimize, modify, reformat, edit, adapt, publish in searchable format, and remove such UGC and combine same with other materials, and (b) use any ideas, concepts, know-how, or techniques contained in any UGC for any purposes whatsoever, including developing, producing, and marketing products and/or services. You understand that in exercising such rights metadata, notices and content may be removed or altered, including copyright management information, and you consent thereto and represent and warrant you have all necessary authority to do so. In order to further effect the rights and license that you grant to LCE to your UGC, you also hereby grant to LCE, and agree to grant to LCE, the unconditional, perpetual, irrevocable right to use and exploit your name, persona, and likeness in connection with any UGC, without any obligation or remuneration to you. Except as prohibited by law, you hereby waive, and you agree to waive, any moral rights (including attribution and integrity) that you may have in any UGC, even if it is altered or changed in a manner not agreeable to you. To the extent not waivable, you irrevocably agree not to exercise such rights (if any) in a manner that interferes with any exercise of the granted rights. You understand that you will not receive any fees, sums, or remuneration for any of the rights granted in this Section.
+(IV) EXCLUSIVE RIGHT TO MANAGE OUR SERVICE.
+LCE may, but will not have any obligation to, review, monitor, display, post, store, maintain, accept, or otherwise make use of, any of your UGC, and LCE may, in its sole discretion, reject, delete, move, re-format, remove or refuse to post or otherwise make use of UGC without notice or any liability to you or any third party in connection with our operation of UGC venues in an appropriate manner. Without limitation, we may do so to address content that comes to our attention that we believe is offensive, obscene, lewd, lascivious, filthy, violent, harassing, threatening, abusive, illegal or otherwise objectionable or inappropriate, or to enforce the rights of third parties or these Terms, including, without limitation, the content restrictions set forth below in the Rules (defined in
+Section 2(B))
+. Such UGC submitted by you or others need not be maintained on the Service by us for any period of time and you will not have the right, once submitted, to access, archive, maintain, or otherwise use such UGC on the Service or elsewhere, except that California minors have certain rights to have certain content about them that they have themselves posted on the Service prospectively removed from public display. Click
+here
+for more information.
+(V) REPRESENTATIONS AND WARRANTIES RELATED TO YOUR UGC.
+Each time you submit any UGC, you represent and warrant that you are at least the age of majority in the jurisdiction in which you reside and are the parent or legal guardian, or have all proper consents from the parent or legal guardian, of any minor who is depicted in or contributed to any UGC you submit, and that, as to that UGC, (a) you are the sole author and owner of the intellectual property and other rights to the UGC, or you have a lawful right to submit the UGC and grant LCE the rights to it that you are granting by these Terms, all without any LCE obligation to obtain consent of any third party and without creating any obligation or liability of LCE; (b) the UGC is accurate; (c) the UGC does not and, as to LCE’s permitted uses and exploitation set forth in these Terms, will not infringe any intellectual property or other right of any third party; and (d) the UGC will not violate these Terms (including the Rules) or any Additional Terms, or cause injury or harm to any person.
+(VI) ENFORCEMENT.
+LCE has no obligation to monitor or enforce your intellectual property rights to your UGC, but you grant us the right to protect and enforce our rights to your UGC, including by bringing and controlling actions in your name and on your behalf (at LCE’s cost and expense, and to the extent permitted under applicable law, you hereby consent and irrevocably appoint LCE as your attorney-in-fact, with the power of substitution and delegation, which appointment is coupled with an interest).
+B. COMMUNITY USAGE RULES.
+We may from time-to-time offer online forums, message boards, or other community features, including those that may allow you to interact with other users or post Submissions in public or semi-private areas (such as those that are available only to account holders) (“Community(ies)”). As a user of the Service, these Community usage rules (“Rules”) are here to help you understand the conduct that is expected of users of any Community features.
+(I) NATURE OF RULES.
+Your participation in any Communities is subject to all of the Terms, including these Rules:
+Your User-Generated Content.
+All of your UGC either must be your original creation or, if it was created or is owned by a third party (such as a friend or any other person or company), you must have permission from that third party to submit it to the Service. Your UGC should not contain any visible logos, phrases, or trademarks that belong to third parties. Do not use any UGC that belongs to other people and pass it off as your own; this includes any content that you might have found elsewhere online.
+Speaking of Photos: No Pictures, Videos, or Images of Anyone Other Than You and Your Friends and Family.
+If you choose to submit photos to the Service, link to embedded videos, or include other images of real people, then make sure they are of you or of you and someone you know – and only if you have their express permission (or in the case of minors, their parents’ express permission) to submit it.
+Act Appropriately.
+All of your Service activities must be venue appropriate, as determined by us. Be respectful of others. Cursing, harassing, stalking, insulting comments, personal attacks, gossip, and similar actions are prohibited. Your UGC must not do any of the following: (i) threaten, abuse, or harm others; (ii) include any negative comments that are connected to race, national origin, gender, sexual orientation, or disability; (iii) be defamatory, slanderous, indecent, obscene, pornographic, or sexually explicit; or (iv) exploit any individuals, including children under the age of 18.
+Do Not Use for Commercial or Political Purposes.
+Your UGC must not advertise or promote a product or service or other commercial activity, or a politician, public servant, or law.
+Do Not Send Unwanted Communications.
+Do not collect email addresses or other contact information from other users of the Services for any purpose, including for the purpose of sending unsolicited emails or other unsolicited communications.
+Do Not Use for Inappropriate Purposes.
+Your UGC must not promote any infringing, illegal, or other similarly inappropriate activity.
+Be Honest and Do Not Misrepresent Yourself or Your UGC.
+Do not impersonate any other person, user, or company, and do not submit UGC that you believe may be false, fraudulent, deceptive, inaccurate, or misleading, or that misrepresents your identity or affiliation with a person or company.
+Take Care when Submitting Personal Information Where Others Can See.
+Do not submit personal information that would permit others to contact or locate you, or that is particularly sensitive, such as your contact information, social security number, payment information, or any other similar information, in public or semi-public areas, or in private messages.
+Don’t Share Other Peoples’ Personal Information.
+You should not submit other individuals personal information except in limited circumstances where a feature of the Service requests it, such as in a “send to a friend” feature.
+Don’t Damage the Service or Anyone’s Computers or Other Devices.
+Your UGC must not submit viruses, Trojan horses, spyware, or any other technologies or malicious code that could impact the operation of the Service or any computer or other Device.
+If you submit UGC that LCE reasonably believes violates these Rules, then we may take any legally available action that we deem appropriate, in our sole discretion. However, we are not obligated to take any action not required by law. We may require, at any time, proof of the permissions referred to above in a form acceptable to us. Failure to provide such proof may lead to, among other things, the UGC in question being removed from the Service.
+(II) YOUR INTERACTIONS WITH OTHER USERS; DISPUTES.
+You are solely responsible for your interaction with other users of the Service, whether online or offline. We are not responsible or liable for the conduct or content of any user. We reserve the right, but have no obligation, to monitor or become involved in disputes between you and other users. Exercise common sense and your best judgment in your interactions with others (e.g., when you submit any personal or other information) and in all of your other online activities.
+C.
+ALERTING US OF VIOLATIONS.
+If you discover any content that violates these Terms, then you may report it to us
+here
+.
+Return to Terms summary and navigation
+3.
+ACCEPTABLE USE
+A.
+SERVICE USE RESTRICTIONS
+.
+You agree that you will not use the Service except as expressly permitted in these Terms. Without limiting the generality of the foregoing or the remainder of these Terms, you agree that you will not, nor permit a third party, to do any of the following: (i) use the Service for any political or commercial purpose (including, without limitation, for purposes of advertising, soliciting funds, collecting product prices, and selling products), provided that this is not intended to limit the use of our Service by our franchisees for express purposes the Service is made available to them; (ii) use any metatags or any other “hidden text” utilizing any Trademarks; (iii) engage in any activities through or in connection with the Service that seek to attempt to or do harm any individuals or entities or are unlawful, offensive, obscene, lewd, lascivious, filthy, violent, threatening, harassing, or abusive, or that violate any right of any third party, or are otherwise objectionable to LCE; (iv) reverse engineer, decompile, disassemble, reverse assemble, or modify source or object code or any software or other products, services, or processes accessible through any portion of the Service; (v) engage in any activity that interferes with a user’s access to the Service or the proper operation of the Service, or otherwise causes harm to the Service, LCE, or other users of the Service; (vi) interfere with or circumvent any security feature of the Service or any feature that restricts or enforces limitations on use of or access to the Service, the Content, or the UGC; (vii) harvest or otherwise collect or store any information (including other users’ personal information); or (viii) attempt to gain unauthorized access to the Service, other computer systems or networks connected to the Service, through password mining or any other means.
+B.
+CONTENT USE RESTRICTIONS
+.
+You also agree that, in using the Service, you will not use the Content except as expressly permitted in these Terms or with the prior express consent of LCE. Without limiting the generality of the foregoing or the remainder of these Terms, you agree that you will not, nor permit a third party to, do any of the following: (i) monitor, gather, copy, or distribute the Content on the Service by using any robot, rover, “bot”, spider, scraper, crawler, spyware, engine, device, software, extraction tool, or any other automatic device, utility, or manual process of any kind; (ii) frame or utilize framing techniques to enclose any such Content; (iii) remove or obscure any Trademark, copyright, and other intellectual property rights and other notices contained in such Content; (iv) use Content or otherwise take any actions in a manner that suggests an association with any of our or our licensors’ products, services, brands, or Content; (v) make any modifications to the Content without the prior express consent of LCE; (vi) copy, modify, reproduce, archive, sell, lease, rent, exchange, create derivative works from, publish by hard copy or electronic means, publicly perform, display, disseminate, distribute, broadcast, retransmit, circulate or transfer to any third party or on any third-party application or website, or otherwise use or exploit the Content in any way for any purpose except as specifically permitted by these Terms or with the prior written consent of an officer of LCE or, in the case of Content from a licensor, the owner of the Content; or (vii) engage in any activity that interferes with a user’s access to the Content.
+C.
+AVAILABILITY OF SERVICE AND CONTENT
+.
+LCE may immediately suspend or terminate the availability of the Service and Content (and any elements and features of them), in whole or in part, for any reason, in LCE’s sole discretion, and without advance notice or liability.
+Return to Terms summary and navigation
+4.
+ACCOUNTS
+In order to access or use some of the features on the Service, or parts of it you may be required to create an account. The Service’s practices governing any resulting collection use, disclosure and management of your personal information are disclosed in our
+Privacy Policy
+. If you are under the age of thirteen (13), then you are not permitted to register as a user, or otherwise use the Service or submit personal information to us.
+If you register for any feature that requires a password and/or username, then you will select your own password at the time of registration (or we may send you an email notification with a randomly generated initial password) and you agree that: (i) You will not use a username (or email address) that (1) is already in use, (2) may impersonate another person, (3) belongs to another person, (4) violates the intellectual property or other right of any person or entity, or (5) is offensive. We may reject the use of any password, username, or email address for any other reason in our sole discretion; (ii) You will provide true, accurate, current, and complete registration information about yourself in connection with the registration process and, as permitted, continuously and promptly update such information to ensure that it is at all times, accurate, current, and complete; (iii) You are solely responsible for all activities (including purchases and redemptions) that occur under your account, password, and username – whether or not you authorized the activity; (iv) You are solely responsible for maintaining the confidentiality of your password and for restricting access to your Device so that others may not access any password protected portion of the Service using your account, username, or password; (v) You will immediately notify us of any unauthorized use of your account, password, or username, or any other breach of security (See
+Section 7
+); and (vi) You will not sell, transfer, or assign your account or any account rights.
+We will not be liable for any loss or damage (of any kind and under any legal theory) to you or any third party arising from your inability or failure for any reason to comply with any of the foregoing obligations.
+If any information that you provide, or if we have reasonable grounds to suspect that any information that you provide, is false, inaccurate, outdated, incomplete, or violates these Terms or any applicable law, then we may suspend or terminate your account. We also reserve the more general and broad right to terminate your account or suspend or otherwise deny you access to it or its benefits – all in our sole discretion, for any reason, and without advance notice or liability.
+Return to Terms summary and navigation
+5.
+PROCEDURE FOR ALLEGING U.S. COPYRIGHT INFRINGEMENT
+A.
+DMCA NOTICE
+.
+LCE will respond appropriately to notices of alleged U.S. copyright infringement that comply with the U.S. Digital Millennium Copyright Act (“DMCA”), as set forth below. If you own a U.S. copyright in a work (or represent such a copyright owner) and believe that your (or such owner’s) U.S. copyright in that work has been infringed by an improper posting or distribution of it via the Service, then you may send us a written notice that includes all of the following:
+(I)
+a legend or subject line that says: “DMCA Copyright Infringement Notice”;
+(II)
+a description of the copyrighted work that you claim has been infringed or, if multiple copyrighted works are covered by a single notification, a representative list of such works;
+(III)
+a description of where the material that you claim is infringing or is the subject of infringing activity is located that is reasonably sufficient to permit us to locate the material (please include the URL of the Service on which the material appears);
+(IV)
+your full name, address, telephone number, and email address;
+(V)
+a statement by you that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law;
+(VI)
+a statement by you, made under penalty of perjury, that all the information in your notice is accurate, and that you are the copyright owner (or, if you are not the copyright owner, then your statement must indicate that you are authorized to act on the behalf of the owner of an exclusive right that is allegedly infringed); and
+(VII)
+your electronic or physical signature.
+LCE will only respond to DMCA Notices that it receives by mail, email, or facsimile at the addresses below:
+By Mail: Attn: Legal/Marketing, 2211 Woodward Ave, Detroit, MI 48201
+By E-Mail:
+Click here
+It is often difficult to determine if your copyright has been infringed. LCE may elect to not respond to DMCA Notices that do not substantially comply with all of the foregoing requirements, and LCE may elect to remove allegedly infringing material that comes to its attention via notices that do not substantially comply with the DMCA.
+Please note that the DMCA provides that any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
+We may send the information that you provide in your notice to the person who provided the allegedly infringing work. That person may elect to send us a DMCA Counter-Notification.
+Without limiting LCE’s other rights, LCE may, in appropriate circumstances, terminate a repeat infringer’s access to the Service and any other website owned or operated by LCE.
+B.
+COUNTER-NOTIFICATION
+.
+If access on the Service to a work that you submitted to LCE is disabled or the work is removed as a result of a DMCA Notice, and if you believe that the disabled access or removal is the result of mistake or misidentification, then you may send us a DMCA Counter-Notification to the addresses above. Your DMCA Counter-Notification should contain the following information:
+(I)
+a legend or subject line that says: “DMCA Counter-Notification”;
+(II)
+a description of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled (please include the URL of the Service from which the material was removed or access to it disabled);
+(III)
+a statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled;
+(IV)
+your full name, address, telephone number, email address, and the username of your account;
+(V)
+a statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located (or, if the address is located outside the U.S.A., to the jurisdiction of the United States District Court for the Eastern District of Michigan), and that you will accept service of process from the person who provided DMCA notification to us or an agent of such person; and
+(VI)
+your electronic or physical signature.
+Please note that the DMCA provides that any person who knowingly materially misrepresents that material or activity was removed or disabled by mistake or misidentification may be subject to liability.
+If we receive a DMCA Counter-Notification, then we may replace the material that we removed (or stop disabling access to it) in not less than ten (10) and not more than fourteen(14) business days following receipt of the DMCA Counter-Notification. However, we will not do this if we first receive notice at the addresses above that the party who sent us the DMCA Copyright Infringement Notice has filed a lawsuit asking a court for an order restraining the person who provided the material from engaging in infringing activity relating to the material on the Service. You should also be aware that we may forward the Counter-Notification to the party who sent us the DMCA Copyright Infringement Notice.
+Return to Terms summary and navigation
+6.
+PROCEDURE FOR ALLEGING INFRINGEMENT OF your TRADEMARK OR OTHER Non-Copyright IP
+A.
+INFRINGEMENT NOTICE
+.
+If you own intellectual property other than a U.S. copyright and believe that your intellectual property (such as your trademark or service mark) has been infringed by an improper posting or distribution of it via the Service, then you may send us a written notice to the addresses set forth above that includes all of the following:
+a) a legend or subject line that says: “Intellectual Property Infringement Notice”;
+b) a description of the intellectual property that you claim has been infringed;
+c) a description of where the material that you claim is infringing or is the subject of infringing activity is located that is reasonably sufficient to permit us to locate the material (please include the URL of the Service on which the material appears);
+d) your full name, address, telephone number, and email address;
+e) a statement by you that you have a good faith belief that use of the material in the manner complained of is not authorized by the owner of the intellectual property, its agent, or the law;
+f) a statement by you, made under penalty of perjury, that all the information in your notice is accurate, and that you are the owner of the intellectual property at issue (or, if you are not the owner, then your statement must indicate that you are authorized to act on the behalf of the owner of the intellectual property that is allegedly infringed); and
+g) your electronic or physical signature.
+We will act on such notices in our sole discretion. Any user of the Service that fails to respond satisfactorily to LCE with regard to any such notice is subject to suspension or termination. We may send the information that you provide in your notice to the person who provided the allegedly infringing material.
+B.
+COUNTER-NOTIFICATION
+.
+If access on the Service to a work that you submitted to LCE is disabled or the work is removed as a result of an infringement notice, and if you believe that the disabled access or removal is the result of mistake or misidentification, then you may send us a counter notification to the addresses above. Your counter notification should contain the following information:
+(I)
+a legend or subject line that says: “Counter-Notification”;
+(II)
+a description of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled (please include the URL of the Service from which the material was removed or access to it disabled);
+(III)
+a statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled;
+(IV)
+your full name, address, telephone number, email address, and the username of your account;
+(V)
+for persons who are not a resident of Quebec, a statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located (or, if the address is located outside the U.S.A., to the jurisdiction of the United States District Court for the Eastern District of Michigan), and that you will accept service of process from the person who provided notification to us or an agent of such person; and
+(VI)
+your electronic or physical signature.
+Please note that if you knowingly materially misrepresents that material or activity was removed or disabled by mistake or misidentification may be subject to liability. If we receive a counter notification, then we may replace the material that we removed (or stop disabling access to it). You should also be aware that we may forward the counter notification to the party who sent us the infringement notice.
+Return to Terms summary and navigation
+7.
+NOTICES, QUESTIONS, COMPLAINTS AND CUSTOMER SERVICE
+You agree that: (1) we may give you notices of new, revised or changed terms and other important matters by prominently posting notice on the home page of the Service, or in another reasonable manner; and (2) to the extent permitted under applicable law, we may contact you by mail or email sent to the address provided by you. All legal notices to us must be sent to: Little Caesar Enterprises, Inc. (Attn: Legal Notices), 2125 Woodward Ave, Detroit, MI 48201.
+If you have a question or complaint regarding using the Service, you may contact LCE Customer Support by sending an email
+here
+or by mail sent to: Little Caesar Enterprises, Inc. (Attn: Customer Support), 2125 Woodward Ave., Detroit, MI 48201. You acknowledge that the provision of customer support is at LCE’s sole discretion and that we have no obligation to provide you with customer support of any kind. We may provide you with customer support from time to time, at our sole discretion, and may pass your inquiries to our franchisee and/or corporate stores to respond to you.
+Return to Terms summary and navigation
+8.
+OFFERS, PRICING, TYPOGRAPHICAL ERRORS, IN-SERVICE ORDERS AND PURCHASES
+We do our best to describe every offer made on this Service as accurately as possible. However, we are human, and therefore we do not warrant that offer terms and conditions, product specifications, pricing, or other content on the Service is complete, accurate, reliable, current, or error-free. We reserve the right to change, add to or withdraw offers and coupons upon notice on the Service. In the event of any errors relating to the pricing or specifications of our offers and coupons, LCE may refuse or cancel any orders in its sole discretion. If we charged your credit card or other account prior to cancellation, we will reissue credit to your account. If a product you purchased from us is not as described, to the extent permitted by local laws, your sole remedy is to return it to cancel the purchase and receive a credit for the purchase price. Offers made off of the Service by our franchisees (which are independently owned and operated) do not apply to us or other stores not operated by that franchisee. Additional Terms may apply. Not all offers and services (e.g., delivery and drive-thru) will be available in all areas or stores and available quantities may be limited.
+Some portions of the Service offer in-Service ordering and/or purchase options (e.g., ordering or purchasing a pizza through the Service) (collectively, “Online Ordering”). You may only use Online Ordering if you are at least the age of majority where you reside. Online Ordering may be subject to Additional Terms, which will be presented to you before the purchase transaction is made. Where Online Ordering is used merely to order, and payment and pickup at one of our or our franchisees’ stores is required, the actual offer and acceptance will occur when you arrive at the store and complete the transaction. However, if Online Ordering is used to purchase product on the Service (“Online Purchase”), the transaction is completed when we accept and process your order, even if you do not timely pick-up the product at the applicable store location. It is your responsibility to timely pick up such orders. Upon completing your Online Purchase, you will receive an order confirmation on your screen and an emailed confirmation, delivered to the email you provide us. If you complete an Online Purchase on an App, you may also receive an in-App notification (if you have not disabled this function on your Device) confirming your order. Each order confirmation will include an order number along with other information regarding your purchase, such as products and/or services ordered and amount paid.
+Without limiting the generality of any other section of these Terms, LCE reserves the right to limit or refuse any order you place with us. Further, we reserve the right to verify the validity of all orders and/or cancel any order if we find evidence of fraud and/or any other violation of these Terms. All orders are subject to verification by LCE at any time and for any reason. We reserve the right, in our sole and absolute discretion, to require proof of identity (in a form acceptable to LCE): (i) for the purposes of verifying the legitimacy of any order and/or other information; and/or (ii) for any other reason we deem necessary, in our sole and absolute discretion, for the purposes of fulfilling an order in accordance with our interpretation of these Terms. We may, in our sole and absolute discretion, limit or cancel quantities purchased per person, per household or per order. These restrictions may include orders placed by or under the same account, the same credit card, and/or orders that use the same billing and/or shipping address. In the event that we are unable to or choose not to complete an order, you will be notified accordingly and the amount for that order charged to you will be reduced accordingly.
+In using Online Ordering, with respect to franchisees’ stores, you acknowledge and agree that LCE (a) is only facilitating your transaction with the franchisee store that you have selected to provide you with the products and/or services you have ordered; (b) does not provide you with any products and/or services; (c) does not store any payment information and only facilitates online payments for the benefit of the franchisee store from which you have ordered products and/or services; and (d) does not make any representations or warranties with respect to any products and/or services provided to you by the franchisee store. You further acknowledge and agree that by using Online Ordering to order products and/or services from a franchisee store, you are entering into a contract for the purchased items with that store and not LCE, provided, however, you still agree to these Terms with respect to your use of the Service.
+Any loyalty programs or stored value programs are subject to applicable Additional Terms. For any purchases made through a third party, such as Apple, Google, or Vantiv, their terms, conditions and policies, also apply and you agree to look solely to them regarding any disputes related thereto. See
+Section 10
+.
+Contact those providers directly for further information.
+Return to Terms summary and navigation
+9.
+LINKS BY YOU TO THE SERVICE
+We grant you a limited, non-exclusive, revocable, non-assignable, personal, and non-transferable license to create hyperlinks to the Service, so long as: (a) the links only incorporate text, and do not use any Trademarks, (b) the links and the content on your website do not suggest any affiliation with LCE or cause any other confusion, and (c) the links and the content on your website do not portray LCE or its products or services in a false, misleading, derogatory, or otherwise offensive matter, and do not contain content that is unlawful, offensive, obscene, lewd, lascivious, filthy, violent, threatening, harassing, or abusive, or that violate any right of any third party or are otherwise objectionable to LCE. LCE reserves the right to suspend or prohibit linking to the Service for any reason, in its sole discretion, without advance notice or any liability of any kind to you or any third party.
+Return to Terms summary and navigation
+10.
+THIRD-PARTY SERVICES, ADVERTISEMENTS, DEALINGS WITH THIRD PARTIES, TERMS APPLICABLE FOR APPLE IOS
+A.
+THIRD-PARTY CONTENT AND SITES; ADVERTISEMENTS
+.
+The Service may contain third party plug-ins and/or applications, and/or links to third-party platforms, websites or other services that are not owned, controlled or operated by LCE, and the Service may also include links to third-party ads on the Service or otherwise, and to or from third-party websites and other services (collectively, “Third-Party Services”), including websites operated by advertisers, licensors, licensees, and certain other third parties who may have business relationships with LCE such as www.littlecaesarsstuff.com. LCE may have no control over the content, operations, policies, terms, or other elements of Third-Party Services, and LCE does not assume any obligation to review any Third-Party Services. LCE does not necessarily endorse, approve, or sponsor any Third-Party Services, or any third-party content, advertising, information, materials, products, services, or other items. Furthermore, LCE is not responsible for the quality or delivery of the products or services offered, accessed, obtained by or advertised at such Third-Party Services. Finally, LCE will under no circumstances be liable for any direct, indirect, incidental or special loss or other damage, whether arising from negligence, breach of contract, defamation, infringement of copyright or other intellectual property rights, caused by the exhibition, distribution or exploitation of any information or content contained within these Third-Party Services. Any activities you engage in connection with any of the same are subject to the privacy and other policies, terms and conditions of use and/or sale, and rules issued by the operator of the Third-Party Services. LCE disclaims all liability in connection therewith.
+B.
+DEALINGS WITH THIRD PARTIES
+.
+Any interactions, correspondence, transactions, and other dealings that you have with any third parties found on or through the Service (including on or via Third-Party Services or advertisements or the provision of delivery services) are solely between you and the third party, even if LCE collects any fee on behalf of such third parties. This includes issues related to the content of third-party advertisements, payments, delivery of goods, warranties (including product warranties), privacy and data security, and the like. LCE disclaims all liability in connection therewith. If you have a complaint about any interaction, correspondence, transaction, or other dealing you had with any third parties found on or through the Service, you may contact LCE
+here
+. LCE may, in its sole discretion, attempt to resolve the complaint, but LCE is under no obligation to resolve any issues between you and any third party.
+C.
+TERMS APPLICABLE FOR APPLE IOS.
+If you are accessing or using the Service through an Apple Device, Additional Terms and conditions located here apply and are incorporated into the Terms by this reference.
+A. To the extent that you are accessing the Service through an Apple Device, you acknowledge that these Terms are entered into between you and LCE and, that Apple, Inc. ("Apple") is not a party to these Terms other than as third-party beneficiary as contemplated below.
+B. The license granted to you in
+Section 1
+of these Terms is subject to the permitted Usage Rules set forth in the App Store Terms of Service (see:
+http://www.apple.com/legal/itunes/us/terms.html
+) and any third party terms of agreement applicable to the Service.
+C. You acknowledge that LCE, and not Apple, is responsible for providing the Service and Content thereof.
+D. You acknowledge that Apple has no obligation whatsoever to furnish any maintenance or any support services to you with respect to the Service.
+E. To the maximum extent not prohibited by applicable law, Apple will have no warranty obligation whatsoever with respect to the Service.
+F. Notwithstanding anything to the contrary herein, and subject to the terms in these Terms, you acknowledge that, solely as between Apple and LCE, LCE, and not Apple is responsible for addressing any claims you may have relating to the Service, or your possession and/or use thereof, including, but not limited, to: (i) product liability claims; (ii) any claim that the Service fails to confirm to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation.
+G. Further, you agree that if the Service, or your possession and use of the Service, infringes on a third party's intellectual property rights, you will not hold Apple responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claims.
+H. You represent and warrant that you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country and that you are not listed on any U.S. Government list of prohibited or restricted parties.
+I. You acknowledge and agree that Apple, and Apple's subsidiaries, are third-party beneficiaries of these Terms, and that, upon your acceptance of the terms and conditions of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third-party beneficiary thereof.
+J. When using the Service, you agree to comply with any and all third-party terms that are applicable to any platform, website, technology or service that interacts with the Service.
+K. You may direction any questions or complaints with regard to the Service to us as set forth in
+Section 7
+.
+Return to Terms
+Return to Terms summary and navigation
+11.
+MOBILE FEATURES AND MESSAGES, COMMUNICATIONS
+A.
+MOBILE FEATURES
+.
+The Service may offer certain features and services that are available to you via your mobile Device. These features and services may include the ability to access the Service’s features and upload content to the Service, receive messages from the Service, and download applications to your mobile Device (collectively, “Mobile Features”).
+B.
+TERMS OF MOBILE FEATURES
+.
+You agree that as to the Mobile Features for which you are registered for, or that you otherwise download, enable or use, to the extent permitted by applicable law, we may send communications via such features or apps to your mobile Device regarding us or other parties (e.g., chat, push notifications and in-Service messaging). Further, we may collect information related to your use of the Mobile Features. If you have registered via the Service for Mobile Features, then you agree to notify LCE of any changes to your mobile contact information (including phone number) and update your accounts on the Service to reflect the changes. If the Service includes push notifications or other mobile communication capability, to the extent permitted by applicable law, you hereby approve our delivery of electronic communications directly to your mobile Device. These notifications, including badge, alert or pop-up messages, may be delivered to your Device even when it is running in the background. You may have the ability, and it is your responsibility, to control the notifications you do, or do not, receive via your Device through your Device settings, if available. Standard message, data and other fees may be charged by your carrier, and carriers may deduct charges from pre-paid amounts or data allowances, for which you are responsible. Your carrier may prohibit or restrict certain Mobile Features and certain Mobile Features may be incompatible with your carrier or mobile Device. Contact your carrier with questions regarding these issues.
+C.
+EMAIL MESSAGES
+.
+You may cancel or modify our email marketing communications you receive from us by following the instructions contained within our promotional emails. This will not affect subsequent subscriptions; if your unsubscribe request or opt-out is limited to certain types of emails, the unsubscribe request or opt-out will be so limited. Please note that we reserve the right to send you certain communications relating to your account or use of our Service, such as administrative and service announcements and these transactional account messages may be unaffected if you choose to unsubscribe or opt-out from receiving our marketing communications.
+D.
+LOCATION-BASED FEATURES
+.
+If you have enabled GPS, geo-location or other location-based features on any mobile app(s) or feature(s), you acknowledge that your Device location may be tracked and may be shared with others consistent with the
+Privacy Policy
+. Some mobile app(s) or feature(s) allow for you to disable location-based features or manage preferences related to them. However, you can terminate Device location tracking by us via an App by uninstalling the App. The location-based services offered in connection with our mobile app(s) or feature(s) are for individual use only and should not be used or relied on as an emergency locator system, used while driving or operating vehicles, or used in connection with any hazardous environments requiring fail-safe performance, or any other situation in which the failure or inaccuracy of use of the location-based services could lead to death, personal injury, or severe physical or property damage. Location-based / geo-location services are used at your own risk and location data may not be accurate.
+E.
+DEVICE ACCESS AND SETTINGS
+.
+By using the Service, you agree that LCE may change, alter, or modify the settings or configurations on your Device in order to allow for or optimize your use of the Service. For instance, our App may access and read accounts, data and/or content on your Device, add content to your Device, and change settings of your Device, for reasons such as showing you the closest Little Caesars to you; saving App images, sound files and writing usage logs to the Device; sending Facebook and Twitter messages you initiate; sending and receiving data needed for App operations; and to provide you notice when you are not connected to a network. You consent to these activities by installing the App or otherwise using the Service. Your Device settings may enable you to disable, change or limit some of these activities, and you can disable all of them associated with the App by uninstalling the App.
+Return to Terms summary and navigation
+12.
+DISPUTE RESOLUTION
+A. Generally.
+You and we (referred to individually in this Section 12 (“
+Arbitration Agreement
+”) as “party” and collectively as “parties”) each agree that any and all controversies, disputes, allegations, or claims at law or equity that have arisen or may arise between you and us relating in any way to or arising out of this or previous versions of these Terms, your use of or access to the Service, the Content, or your UGC (“Dispute”), SHALL BE RESOLVED EXCLUSIVELY THROUGH FINAL AND BINDING ARBITRATION, rather than through other legal proceedings in court. Arbitration is more informal than a lawsuit filed in court. It uses a neutral arbitrator instead of a judge or jury, allows for more limited discovery than in court, and is subject to limited review by courts.
+B. Informal Dispute Resolution First.
+i. You and we agree that, prior to initiating an arbitration or other legal proceeding, you and we will attempt to negotiate an informal resolution of the Dispute. To begin this process, and before initiating any arbitration or legal proceeding against us, you must send a Notice of Dispute (“Notice”) by certified mail to the attention of our Legal Department at 2125 Woodward Ave., Detroit, MI 48201.
+ii. Your Notice to us must contain all of the following information: (1) your full name, address, and the email address and phone number associated with your use of the Service or any Service account or that you have otherwise used to transact with us; (2) a detailed description of the nature and basis of the Dispute; (3) a description of the relief you want, including any money damages you request; and (4) your signature verifying the accuracy of the Notice and, if you are represented by counsel, authorizing us to disclose information about you to your attorney.
+iii. After receipt of your Notice, you and we shall engage in a good-faith effort to resolve the dispute for a period of 60 days, which both sides may extend by written agreement (“Informal Dispute Resolution Period”). During the Informal Dispute Resolution Period, neither you nor we may initiate an arbitration or other legal proceeding.
+iv. If the Dispute is not resolved during the Informal Dispute Resolution Period, you may initiate an individual arbitration as provided below (or if your Dispute is excluded from the Arbitration Agreement pursuant to
+Section 12(F)
+, you may initiate your Dispute in the appropriate venue).
+C. Arbitration Procedures
+i. The assigned independent arbitrator, and not any federal, state, or local court or agency, shall have exclusive authority to resolve any Dispute arising out of or relating to the interpretation, applicability, enforceability or formation of these Terms, any part thereof, including, but not limited to, any claim that all or any part of these Terms are void or voidable. Notwithstanding the foregoing sentence, only a court of competent jurisdiction as set forth in
+Section 17(B)
+of these Terms (and not an arbitrator) shall have the exclusive authority to resolve any claim that all or part of the Class Action Waiver set forth in
+Section 17(B)
+or the Additional Procedures for Multiple Case Filings set forth in this Arbitration Agreement are unenforceable, unconscionable, void, or voidable.
+ii. Conducting Arbitration and Arbitration Rules. Any arbitration must be initiated with and conducted by National Arbitration & Mediation (“NAM”) pursuant to its Comprehensive Dispute Resolution Rules and Procedures and/or its Mass Filing Supplemental Dispute Resolution Rules and Procedures (together, the “NAM Rules”), except as modified by these Terms. The NAM Rules are available at
+www.NAMADR.org
+, by calling NAM at
+1-800-358-2550
+. In any instance where the applicable NAM Rules and these Terms are inconsistent, these Terms shall control.
+iii. An arbitration demand filed with NAM must include a certification signed by the filing party verifying compliance with the Initial Dispute Resolution requirements and other requirements set out in this Arbitration Agreement.
+iv. If NAM fails or declines to conduct the arbitration for any reason, you and we will mutually select a different arbitration administrator. If we cannot agree, a court will appoint the arbitration administrator.
+v. Any arbitration hearing will take place in or nearest to the county or municipality where you live, unless you and we agree to a different location or to a virtual hearing.
+D. Additional Procedures for Multiple Case Filings.
+i. You and we agree that these “Additional Procedures for Multiple Case Filings” in this
+Section 12(D)
+shall also apply if you or we are subject to twenty-five (25) or more individual arbitration demands of a substantially similar nature with the assistance of the same law firm, group of law firms, or organizations (“Multiple Case Filing”). For the avoidance of doubt, this includes where you choose to participate in a Multiple Case Filing against us; for example, where your counsel asserts your Dispute against us in a Multiple Case Filing. Please be aware that if you do so, the resolution of your Dispute might be delayed and ultimately proceed in court. You and we agree that as part of these procedures, the parties’ counsel shall meet and confer in good faith in an effort to resolve the Disputes, streamline procedures, address the exchange of information, modify the number of Disputes to be adjudicated, and conserve the parties’ and the arbitrator’s resources.
+The limitations period(s) applicable to each arbitration demand within a Multiple Case Filing, including any applicable statutes of limitations and the requirement to file within one (1) year in
+Section 17(B)
+below, shall remain tolled from the time a party makes a pre-arbitration demand to the time when that party files the arbitration demand with the arbitration provider.
+ii.
+STAGE ONE
+: If at least twenty-five (25) disputes are submitted as part of the Multiple Case Filing, you and we shall select sixteen (16) Disputes (eight (8) per side) to proceed as cases in individual arbitrations (“Bellwether Arbitrations”) as part of this initial staged process. The number of Disputes to be selected to proceed in Stage One can be increased by agreement of counsel for the parties (and if there are fewer than 50 disputes, all shall proceed individually in Stage One). While the Bellwether Arbitrations are adjudicated, no other demand for arbitration that is part of the Multiple Case Filing may be processed, administrated, or adjudicated, and no filing or other administrative costs for such a demand for arbitration shall be due from either party to the arbitration provider. If, contrary to this provision, a party prematurely files non-Bellwether Arbitrations with the arbitration provider, the parties agree that the arbitration provider shall hold those demands in abeyance.
+Following resolution of the Bellwether Arbitrations, the parties shall participate in a global mediation of all the remaining demands from the Multiple Case Filings, with a mediator jointly selected by counsel of the parties in an effort to resolve the remaining Disputes that are a part of the Multiple Case Filing.
+iii.
+STAGE TWO
+: If the remaining Disputes from the Multiple Case Filings have not been resolved at the conclusion of Stage One, you and we shall select fifty (50) Disputes (twenty-five (25) per side) to proceed as cases in individual arbitrations as Bellwether Arbitrations as part of Stage Two. The number of Disputes to be selected to proceed as part of Stage Two can be increased by agreement of counsel for the parties (and if there are fewer than 50 Disputes, all shall proceed individually in Stage Two).
+The remaining Disputes shall not be filed or deemed filed in arbitration nor shall any arbitration fees be assessed or collected in connection with those claims. After this second set of staged proceedings, the parties shall engage in a global mediation session of all remaining Disputes from the Multiple Case Filing with a retired mediator jointly selected by counsel in an effort to resolve the remaining Disputes (as informed by the adjudications of cases in Stages One and Two).
+Upon the completion of the mediation set forth in Stage Two, each remaining Dispute (if any) that is not settled or not withdrawn shall be opted out of arbitration and may proceed in a court of competent jurisdiction consistent with the remainder of these Terms. Notwithstanding the foregoing, counsel for the parties may mutually agree in writing to proceed with the adjudication of some or all of the remaining disputes in individual arbitrations consistent with the process set forth in Stage Two (except Disputes shall be randomly selected and mediation shall be elective by agreement of counsel) or through another mutually agreeable process. A court of competent jurisdiction shall have the authority to enforce the Additional Procedures for Multiple Case Filings, including the power to enjoin the filing or prosecution of arbitrations and the assessment or collection of arbitration fees.
+The Additional Procedures for Multiple Case Filings provision and each of its requirements are essential parts of this Arbitration Agreement. If, after exhaustion of all appeals, either an arbitrator or a court of competent jurisdiction decides that the Additional Procedures for Multiple Case Filings apply to your Dispute and are not enforceable, then, notwithstanding
+Section 17(F)
+(Severability; Interpretation), your Dispute shall not proceed in arbitration and shall only proceed in a court of competent jurisdiction consistent with the remainder of the Terms.
+iv. Timing of Bellwether Arbitrations. The parties shall work in good faith with the arbitrator to complete each Bellwether Arbitration (in each respective stage, i.e., Stage One, Stage Two, and, if agreed, subsequent stages) within one hundred and twenty (120) calendar days of its initial pre-hearing conference. The parties agree that the Bellwether Arbitration process is designed to achieve an overall faster, more efficient, and less costly mechanism for resolving Multiple Case Filings, including the claims of individuals who are not selected for a Bellwether Arbitration.
+E. Costs of Arbitration.
+Payment of all filing, administration and arbitrator fees will be governed by the NAM Rules. For claims under $10,000, we will reimburse you for all arbitration fees, including the initial filing fee, if you are deemed the prevailing party by the arbitrator. For the global mediations (if any) that take place according to this Arbitration Agreements, we will pay the mediator’s fee.
+F. Exceptions to Arbitration.
+This Arbitration Agreement shall not require arbitration of the following types of claims brought by either you or we: (i) small claims court actions, if the requirements of the court are met and the claims are only on an individual basis; and (ii) claims pertaining to intellectual property rights, including trademarks, trade dress, domain names, trade secrets, copyrights and patents.
+G. Opt-Out Procedure.
+You may reject this Arbitration Agreement and opt out of arbitration by sending an email to
+privacy@lcecorp.com
+within thirty (30) calendar days of the date you first agree to these Terms. An opt-out notice that purports to opt out multiple parties will be invalid as to all such parties. No individual (or their agent or representative) may effectuate an opt out on behalf of other individuals. Your notice to opt-out must include your first and last name, address, the email address associated with any Service account, and an unequivocal statement that you decline this Arbitration Agreement. If you do decide to opt out, that opt out will apply to this Arbitration Agreement and all previous versions thereof, and neither party will have the right to compel the other to arbitrate any Dispute. However, all other parts of this Arbitration Agreement will continue to apply to you, and opting out of this Arbitration Agreement has no effect on any other arbitration agreements that you may enter into in the future with us.
+Return to Terms summary and navigation
+13. DISCLAIMER OF REPRESENTATIONS AND WARRANTIES
+AS PERMITTED BY APPLICABLE LAW, YOUR ACCESS TO AND USE OF THE SERVICE IS AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON AN “AS IS”, “AS AVAILABLE”, AND “WITH ALL FAULTS” BASIS. Therefore, to the fullest extent permissible by applicable law, Little Caesar Enterprises, Inc. and its subsidiaries and franchisees, and each of their respective employees, directors, members, managers, shareholders, agents, vendors, licensors, licensees, contractors, successors, and assigns (collectively, “LCE Parties”) hereby disclaim and make no representations, warranties, endorsements, or promises, express or implied, as to:
+a) the Service (including the Content and the UGC);
+b) the functions, features, or any other elements on, or made accessible through, the Service;
+c) security associated with the transmission of your UGC transmitted to LCE or via the Service;
+d) whether the Service or the servers that make the Service available are free from any harmful components (including viruses, Trojan horses, and other technologies that could adversely impact your Device);
+e) whether the information (including any instructions) on the Service is accurate, complete, correct, adequate, useful, timely, or reliable;
+f) whether any defects to or errors on the Service will be repaired or corrected;
+g) whether your access to the Service will be uninterrupted;
+h) whether the Service will be available at any particular time or location; and
+i) whether your use of the Service is lawful in any particular jurisdiction.
+EXCEPT FOR ANY SPECIFIC WARRANTIES PROVIDED HEREIN OR IN ADDITIONAL TERMS PROVIDED BY A LCE PARTY, LCE PARTIES HEREBY FURTHER DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR MISAPPROPRIATION OF INTELLECTUAL PROPERTY RIGHTS OF THIRD PARTIES, TITLE, CUSTOM, TRADE, QUIET ENJOYMENT, SYSTEM INTEGRATION, AND FREEDOM FROM COMPUTER VIRUS.
+NOTWITHSTANDING THE FORGOING, THIS SECTION DOES NOT EXPAND OR LIMIT (i) ANY EXPRESS, WRITTEN PRODUCT WARRANTY OR RELATED DISCLAIMERS THAT ARE PROVIDED BY LCE PARTIES OR THEIR SUPPLIERS WITH REGARD TO A PHYSICAL PRODUCT SOLD OR PROVIDED BY LCE PARTIES TO YOU, OR ANY WARRANTY ON A PHYSICAL PRODUCT TO THE EXTENT REQUIRED BY APPLICABLE LAW; (ii) LIABILITY FOR PERSONAL INJURY TO YOU CAUSED BY LCE PARTIES TO THE EXTENT NOT WAIVABLE UNDER APPLICABLE LAW; OR (iii) ANY CAUSE OF ACTION YOU MAY HAVE AGAINST LCE PARTIES THAT IS NOT WAIVABLE UNDER APPLICABLE LAW.
+Return to Terms summary and navigation
+14. LIMITATIONS OF OUR LIABILITY
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES WILL ANY LCE PARTIES BE RESPONSIBLE OR LIABLE FOR ANY LOSS OR DAMAGES OF ANY KIND, including personal injury or death or for any direct, indirect, economic, exemplary, special, punitive, incidental, or consequential losses or damages that are directly or indirectly related to:
+a) the Service (including the Content and the UGC);
+b) your use of or inability to use the Service, or the performance of the Service;
+c) any action taken in connection with an investigation by LCE Parties or law enforcement authorities regarding your access to or use of the Service;
+d) any action taken in connection with copyright or other intellectual property owners or other rights owners;
+e) any errors or omissions in the Service’s technical operation; or
+f) any damage to any user’s computer, hardware, software, modem, or other equipment or technology, including damage from any security breach or from any virus, bugs, tampering, fraud, error, omission, interruption, defect, delay in operation or transmission, computer line, or network failure or any other technical or other malfunction, including losses or damages in the form of lost profits, loss of goodwill, loss of data, work stoppage, accuracy of results, or equipment failure or malfunction.
+The foregoing limitations of liability will apply even if any of the foregoing events or circumstances were foreseeable and even if LCE Parties were advised of or should have known of the possibility of such losses or damages, regardless of whether you bring an action based in contract, negligence, strict liability, or tort (including whether caused, in whole or in part, by negligence, acts of god, telecommunications failure, or destruction of the Service).
+EXCEPT AS MAY BE PROVIDED IN ANY ADDITIONAL TERMS, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL LCE PARTIES’ TOTAL LIABILITY TO YOU, FOR ALL POSSIBLE DAMAGES, LOSSES, AND CAUSES OF ACTION IN CONNECTION WITH YOUR ACCESS TO AND USE OF THE SERVICE AND YOUR RIGHTS UNDER THESE TERMS, EXCEED AN AMOUNT EQUAL TO THE AMOUNT YOU HAVE PAID LCE IN CONNECTION WITH THE TRANSACTION(S) THAT UNDERLIE THE CLAIM(S); PROVIDED, HOWEVER, THIS PROVISION WILL NOT APPLY IF A TRIBUNAL WITH APPLICABLE JURISDICTION FINDS SUCH TO BE UNCONSCIONABLE.
+FOR PURPOSES OF CLARITY, THIS SECTION DOES NOT EXPAND OR LIMIT ANY EXPRESS, WRITTEN PRODUCT TERMS THAT ARE PROVIDED TO YOU BY LCE PARTIES OR THEIR SUPPLIERS WITH REGARD TO A PHYSICAL PRODUCT SOLD OR PROVIDED BY LCE PARTIES TO YOU OR LIABILITY FOR DIRECT DAMAGES FOR PERSONAL INJURY CAUSED BY A PHYSICAL PRODUCT SOLD OR PROVIDED BY LCE PARTIES TO YOU.
+Return to Terms summary and navigation
+15.
+WAIVER OF INJUNCTIVE OR OTHER EQUITABLE RELIEF
+AS PERMITTED BY APPLICABLE LAW, IF YOU CLAIM THAT YOU HAVE INCURRED ANY LOSS, DAMAGES, OR INJURIES IN CONNECTION WITH YOUR USE OF THE SERVICE, THEN THE LOSSES, DAMAGES, AND INJURIES WILL NOT BE IRREPARABLE OR SUFFICIENT TO ENTITLE YOU TO AN INJUNCTION OR TO OTHER EQUITABLE RELIEF OF ANY KIND. THIS MEANS THAT, IN CONNECTION WITH YOUR CLAIM, YOU AGREE THAT YOU WILL NOT SEEK, AND THAT YOU WILL NOT BE PERMITTED TO OBTAIN, ANY COURT OR OTHER ACTION THAT MAY INTERFERE WITH OR PREVENT THE DEVELOPMENT OR EXPLOITATION OF ANY WEBSITE, APPLICATION, CONTENT, UGC, PRODUCT, SERVICE, OR INTELLECTUAL PROPERTY OWNED, LICENSED, USED OR CONTROLLED BY LCE (INCLUDING YOUR LICENSED UGC) OR A LICENSOR OF LCE.
+Return to Terms summary and navigation
+16.
+UPDATES TO TERMS
+.
+These Terms, in the form posted at the time of your use of the applicable services to which it applies, governs such use (including transactions entered during such use). AS OUR SERVICE EVOLVES, THE TERMS AND CONDITIONS UNDER WHICH WE OFFER THE SERVICE MAY PROSPECTIVELY BE MODIFIED AND WE MAY CEASE OFFERING THE SERVICE UNDER THE TERMS OR ADDITIONAL TERMS FOR WHICH THEY WERE PREVIOUSLY OFFERED. ACCORDINGLY, EACH TIME YOU SIGN IN TO OR OTHERWISE USE THE SERVICE YOU ARE ENTERING INTO A NEW AGREEMENT WITH US ON THE THEN APPLICABLE TERMS AND CONDITIONS AND YOU AGREE THAT WE MAY NOTIFY YOU OF OTHER TERMS BY POSTING THEM ON THE SERVICE (OR IN ANY OTHER REASONABLE MANNER OF NOTICE WHICH WE ELECT), AND THAT YOUR USE OF THE SERVICE AFTER SUCH NOTICE CONSTITUTES YOUR GOING FORWARD AGREEMENT TO THE OTHER TERMS FOR YOUR NEW USE AND TRANSACTIONS. Therefore, you should review the posted terms of service and any applicable Additional Terms each time you use the Service (at least prior to each transaction or submission). The Additional Terms will be effective as to new use and transactions as of the time that we post them, or such later date as may be specified in them or in other notice to you. However, the Terms (and any applicable Additional Terms) that applied when you previously used the Service will continue to apply to such prior use (i.e., changes and additions are prospective only) unless mutually agreed. In the event any notice to you of new, revised or additional terms is determined by a tribunal to be insufficient, the prior agreement will continue until sufficient notice to establish a new agreement occurs. You should frequently check the home page, and the email you given us (if applicable), both of which you agree are reasonable manners of providing you notice. You can reject any new, revised or Additional Terms by discontinuing use of the Service and related services.
+Return to Terms summary and navigation
+17.
+GENERAL PROVISIONS
+A.
+LCE’S CONSENT OR APPROVAL.
+As to any provision in these Terms that grants LCE a right of consent or approval, or permits LCE to exercise a right in its “sole discretion,” LCE may exercise that right in its sole and absolute discretion. No LCE consent or approval may be deemed to have been granted by LCE without being in writing and signed by an officer of LCE.
+B. GOVERNING LAW; JURISDICTION AND VENUE; CLASS ACTION AND JURY TRIAL WAIVER; ONE YEAR FILING LIMITATION.
+(i) Governing Law; Jurisdiction and Venue. These Terms will be governed by and construed in accordance with, and any Dispute and Excluded Dispute will be resolved in accordance with, the laws of the State of Michigan in the United States of America, without regard to its conflicts of law provisions, except that the Federal Arbitration Act governs provisions relating to arbitration and federal intellectual property laws govern provisions and Disputes relating to intellectual property. Except as otherwise provided in
+Section 12
+, the parties consent to the exclusive jurisdiction and venue of the state and federal courts located in and serving Oakland County, Michigan, and the federal courts in the Eastern District of Michigan, provided that nothing shall prevent the parties from initiating a proceeding relating to intellectual property rights before the applicable federal administrative agency with jurisdiction over the same.
+(ii) CLASS ACTION WAIVER. YOU AND WE EACH AGREE THAT ANY PROCEEDING, WHETHER IN ARBITRATION OR IN COURT, WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS, COLLECTIVE, CONSOLIDATED, PRIVATE ATTORNEY GENERAL, OR REPRESENTATIVE ACTION. YOU AND WE AGREE TO WAIVE ANY RIGHT TO BRING OR TO PARTICIPATE IN SUCH AN ACTION IN ARBITRATION OR IN COURT TO THE FULLEST EXTENT ALLOWABLE BY APPLICABLE LAW. NOTWITHSTANDING THE FOREGOING, THE PARTIES RETAIN THE RIGHT TO PARTICIPATE IN A CLASS-WIDE SETTLEMENT.
+(iii) JURY TRIAL WAIVER. TO THE FULLEST EXTENT ALLOWABLE BY APPLICABLE LAW, YOU AND WE WAIVE THE RIGHT TO A JURY TRIAL.
+(iv) REQUIREMENT TO FILE WITHIN ONE YEAR. TO THE EXTENT PERMITTED BY APPLICABLE LAW, AND NOTWITHSTANDING ANY OTHER STATUTE OF LIMITATIONS, ANY CLAIM OR CAUSE OF ACTION UNDER THIS AGREEMENT (WITH THE EXCEPTION OF DISPUTES UNDER
+SECTION 12(F)
+(EXCEPTIONS TO ARBITRATION) MUST BE FILED WITHIN ONE (1) YEAR AFTER SUCH CLAIM OR CAUSE OF ACTION AROSE, OR ELSE THAT CLAIM OR CAUSE OF ACTION WILL BE PERMANENTLY BARRED. THE STATUTE OF LIMITATIONS AND ANY ARBITRATION COST DEADLINES SHALL BE TOLLED WHILE THE PARTIES ENGAGE IN THE INFORMAL DISPUTE RESOLUTION PROCESS REQUIRED BY
+SECTION 12(B)
+AND AS OTHERWISE STATED IN
+SECTION 12
+.
+C. INDEMNITY.
+You agree to, and you hereby, defend, indemnify, and hold LCE Parties harmless from and against any and all claims, damages, losses, costs, investigations, liabilities, judgments, fines, penalties, settlements, interest, and expenses (including attorneys’ fees) that directly or indirectly arise from or are related to any claim, suit, action, demand, or proceeding made or brought against any LCE Party, or on account of the investigation, defense, or settlement thereof, arising out of or in connection with, whether occurring heretofore or hereafter: (i) your UGC; (ii) your use of the Service and your activities in connection with the Service; (iii) your breach or alleged breach of these Terms; (iv) your violation or alleged violation of any laws, rules, regulations, codes, statutes, ordinances, or orders of any governmental or quasi-governmental authorities in connection with your use of the Service or your activities in connection with the Service; (v) information or material transmitted through your Device, even if not submitted by you, that infringes, violates, or misappropriates any copyright, trademark, trade secret, trade dress, patent, publicity, privacy, or other right of any person or entity; (vi) any misrepresentation made by you; and (vii) LCE Parties’ use of the information that you submit to us (including your UGC) (all of the foregoing, “Claims and Losses”). You will cooperate as fully required by LCE Parties in the defense of any Claim and Losses. Notwithstanding the foregoing, LCE Parties retain the exclusive right to settle, compromise, and pay any and all Claims and Losses. LCE Parties reserve the right to assume the exclusive defense and control of any Claims and Losses. You will not settle any Claims and Losses without, in each instance, the prior written consent of an officer of a LCE Party.
+D. OPERATION OF SERVICE; AVAILABILITY OF PRODUCTS AND SERVICES; INTERNATIONAL ISSUES.
+LCE controls and operates the Service from its U.S.-based offices in the U.S.A., and LCE makes no representation that the Service is appropriate or available for use beyond the U.S.A. If you use the Service from other locations, you are doing so on your own initiative and are responsible for compliance with applicable local laws regarding your online conduct and acceptable content, if and to the extent local laws apply. The Service may describe products and services that are available only in the U.S.A. (or only parts of it) and are not available worldwide. We reserve the right to limit the availability of the Service and/or the provision of any content, program, product, service, or other feature described or available on the Service to any person, entity, geographic area, or jurisdiction, at any time and in our sole discretion, and to limit the quantities of any content, program, product, service, or other feature that we provide. You and we disclaim any application to these Terms of the Convention on Contracts for the International Sale of Goods.
+E. EXPORT CONTROLS.
+Software related to or made available by the Service may be subject to export controls of the U.S.A. No software from the Service may be downloaded, exported, or re-exported (i) into(or to a national or resident of) any country or other jurisdiction to which the U.S.A. has embargoed goods, software, technology or services (which, as of the effective date of these Terms, includes Cuba, North Korea, Iran, Sudan, and Syria), or (ii) to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Commerce Department’s Table of Deny Orders, or (iii) to anyone on the U.S. Department of Commerce’s Bureau of Industry and Security Entities List as published in the Export Administration Regulations (including entities engaged in weapons of mass destruction proliferation in various countries and persons and entities that are suspected of diverting U.S. origin items to embargoed countries or terrorist end-uses). You are responsible for complying with all trade regulations and laws both foreign and domestic. Except as authorized by U.S. law, you agree and warrant not to export or re-export the software to any county, or to any person, entity, or end-user subject to U.S. export controls, including as set forth in subsections (i) – (iii) above.
+F. SEVERABILITY; INTERPRETATION.
+If any provision of these Terms is for any reason deemed invalid, unlawful, void, or unenforceable by a court or arbitrator of competent jurisdiction, then that provision will be deemed severable from these Terms, and the invalidity of the provision will not affect the validity or enforceability of the remainder of these Terms (which will remain in full force and effect). To the extent permitted by applicable law, you agree to waive, and you hereby waive, any applicable statutory and common law that may permit a contract to be construed against its drafter. Wherever the word “including” is used in these Terms, the word will be deemed to mean “including, without limitation.” The summaries of provisions and section headings are provided for convenience only and do not limit the full Terms.
+G. ELECTRONIC COMMUNICATIONS AND CONTRACTING.
+When you communicate with us electronically, such as via email, you consent to receive communications from us electronically. We will try to promptly respond to all inquiries, but we are not obligated to do so. You agree that all agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing. You agree that any time you electronically agree, consent or transact with us via the Service, that act will be deemed to be an electronic signature which binds you as if you had signed on paper. You agree that your use of the Service, other than to read the Terms and Privacy Policy, constitutes agreement to the Terms, and any applicable Additional Terms, then posted without further action by you.
+H. INVESTIGATIONS; COOPERATION WITH LAW ENFORCEMENT; TERMINATION; SURVIVAL.
+You agree that LCE has the right, without any limitation, to: (i) investigate any suspected breaches of its Service security or its information technology or other systems or networks, (ii) investigate any suspected breaches of these Terms, (iii) use and/or disclose any information obtained by LCE in connection with the forgoing or to comply with law enforcement requests or legal requirements in accordance our
+Privacy Policy
+, (iv) involve and cooperate with law enforcement authorities in investigating any of the foregoing matters, (v)prosecute violators of these Terms, and (vi) discontinue the Service, in whole or in part, or, except as may be expressly set forth in any Additional Terms, suspend or terminate your access to it, in whole or in part, including any user accounts or registrations, at any time, without notice, for any reason and without any obligation to you or any third party. Any suspension or termination will not affect your obligations to LCE under these Terms. Upon suspension or termination of your access to the Service, or upon notice from LCE, all rights granted to you under these Terms will cease immediately, and you agree that you will immediately discontinue use of the Service. The provisions of these Terms, which by their nature should survive your suspension or termination will survive, including the rights and licenses you grant to LCE in these Terms, as well as the indemnities, releases, disclaimers, and limitations on liability and the provisions regarding jurisdiction, choice of law, no class action, and mandatory arbitration.
+I. ASSIGNMENT.
+LCE may assign its rights and obligations under these Terms, in whole or in part, to any party at any time without any notice. These Terms may not be assigned by you, and you may not delegate your duties under them, without the prior written consent of an officer of LCE.
+J. NO WAIVER.
+No failure or delay by LCE in exercising any of its rights, powers or remedies will operate as a waiver of that or any other right, power or remedy, and no waiver or modification of these Terms will be effective as to LCE unless in writing and signed by LCE.
+K.
+CALIFORNIA CONSUMER RIGHTS AND NOTICES
+.
+Residents of California are entitled to the following specific consumer rights information: you may contact the Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs by mail at: 1625 North Market Blvd., Suite N-112, Sacramento, California 95834, or by telephone at 800.952.5210 or (916) 445-1254. Their website is located at: http://www.dca.ca.gov.
+L. CONNECTIVITY.
+You are responsible for obtaining and maintaining all Devices and other equipment and software, and all internet service providers, mobile service, and other services needed for your access to and use of the Service and you will be responsible for all charges related to them.
+Return to Terms summary and navigation
+COMPANY
+Today's Deals
+Nutrition
+Our History
+Hometown Pride
+Hot-N-Ready® Shop
+Gift Cards
+CAREERS
+Careers
+Restaurant Jobs
+Corporate Jobs
+Distribution Jobs
+FRANCHISING
+Getting Started
+Franchising Inquiries
+International franchising
+COMMUNITY
+Love Kitchen
+Little Caesars Fundraising
+Veterans Program
+AAA Hockey
+Ilitch Charities
+CONNECT WITH US
+Frequently Asked Questions
+Contact Us
+For the Media
+ORDER ON OUR MOBILE APP
+Terms of Service
+Privacy Policy
+Consumer Health Data
+U.S State Privacy Notice
+Your Privacy Choices
+¿Español?
+©2003-2025 Little Caesar Enterprises, Inc. All rights reserved. The Little Caesars® Pizza name, logos and related marks are trademarks licensed to Little Caesar Enterprises, Inc.
+If you are using a screen reader and having difficulty please call
+1-800-722-3727
+.
+This site is protected by reCAPTCHA and the
+Google Privacy Policy
+and
+Google Terms of Service
+apply.

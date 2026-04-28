@@ -1,0 +1,54 @@
+User-agent: *
+Disallow: /*/hotelcheckout
+Disallow: */redirect/
+Disallow: /*/searchloading
+
+# Spain Spanish
+Disallow: /es-ES$
+Disallow: /es-ES?
+Disallow: /es-ES/
+
+# French
+Disallow: /fr$
+Disallow: /fr?
+Disallow: /fr/
+Disallow: /fr/hotels/fr*
+Disallow: /fr/*/booking
+Allow: /*/fr
+
+# German
+Disallow: /de$
+Disallow: /de?
+Disallow: /de/
+Disallow: /de/hotels/de*
+Disallow: /de/*/booking
+Allow: /*/de
+
+# Brazilian Portuguese
+Disallow: /pt$
+Disallow: /pt?
+Disallow: /pt/
+Disallow: /pt/hotels/pt*
+Disallow: /pt/*/booking
+Allow: /*/pt
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: AhrefsBot
+Crawl-Delay: 15
+
+User-agent: dotbot
+Crawl-Delay: 15
+
+User-agent: Expanse
+Crawl-Delay: 15
+
+User-agent: ClaudeBot
+Crawl-Delay: 15
+
+User-agent: AwarioRssBot
+User-agent: AwarioSmartBot
+Crawl-delay: 15
+
+Sitemap: https://www.guestreservations.com/sitemap_index.xml

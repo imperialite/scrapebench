@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /QUERYID/
+Disallow: /resources/_shared/images/collection/
+Disallow: /profile/
+Disallow: /profile/me/
+Disallow: /orchestration/
+Disallow: /api/
+Disallow: /cgi-bin/
+Disallow: /blog/wp-content/
+Disallow: /homepage
+Disallow: /uk/homepage
+Disallow: /*search/
+Disallow: /claims
+Disallow: /order-tracking
+Disallow: /order/
+Disallow: /password/reset
+
+
+User-agent: Pinterest
+Crawl-delay: 120
+
+# Sitemap indexes
+Sitemap: https://www.freepeople.com/sitemapindex.xml
+Sitemap: https://www.freepeople.com/uk/sitemapindex.xml
+Sitemap: https://www.freepeople.com/fpmovement/sitemapindex.xml
+Sitemap: https://www.freepeople.com/uk/fpmovement/sitemapindex.xml
+Sitemap: https://www.freepeople.com/france/sitemapindex.xml
+Sitemap: https://www.freepeople.com/france/fpmovement/sitemapindex.xml

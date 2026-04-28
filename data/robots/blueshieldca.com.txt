@@ -1,0 +1,28 @@
+User-agent: Ultraseek
+Disallow:
+
+User-agent: AdsBot-Google 
+Disallow:
+
+User-agent: Googlebot
+Disallow: /PERS
+Disallow: /HearingAids
+
+User-agent: *
+Disallow: */downloads/
+Disallow: */download/
+Disallow: */css/
+Disallow: */inc/
+Disallow: */js/
+Disallow: /bsc/servlet/
+Disallow: /bsca/bsc/mysite/
+Disallow: /bsca/bsc/member/
+Disallow: /!ut/
+Disallow: */graphics/
+
+Disallow: /es/home/about-blue-shield/corporate-information/leadership*
+Disallow: /en/home/about-blue-shield/corporate-information/leadership*
+Disallow: /vi/home/about-blue-shield/corporate-information/leadership*
+Disallow: /zh/home/about-blue-shield/corporate-information/leadership*
+
+Sitemap: https://www.blueshieldca.com/sitemap.xml

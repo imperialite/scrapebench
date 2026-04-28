@@ -1,0 +1,17 @@
+user-agent: *
+disallow: /ajax/
+disallow: /search/
+disallow: /monitor/home
+disallow: /search
+disallow: /search?=
+disallow: /mobile/search/
+disallow: /mobile/monitor/home
+disallow: /mobile/search
+disallow: /mobile/search?=
+disallow: /search
+sitemap: https://www.11alive.com/sitemap.xml
+sitemap: https://www.11alive.com/feeds/googlenews
+sitemap: https://www.11alive.com/feeds/googlevideos
+user-agent: AmazonAdBot
+allow: /
+disallow: /ajax/

@@ -1,0 +1,44 @@
+User-Agent: Googlebot
+Allow: /
+
+User-Agent: Googlebot-image
+Allow: /
+
+User-Agent: AmazonAdBot
+Allow: /
+
+User-Agent: SemrushBot
+Disallow: /
+
+User-Agent: SemrushBot-SA
+Disallow: /
+
+User-Agent: SemrushBot-BA
+Disallow: /
+
+User-Agent: SemrushBot-SI
+Disallow: /
+
+User-Agent: SemrushBot-SWA
+Disallow: /
+
+User-Agent: SemrushBot-CT
+Disallow: /
+
+User-Agent: SemrushBot-BM
+Disallow: /
+
+User-Agent: SemrushBot-SEOAB
+Disallow: /
+
+User-Agent: *
+Disallow: /admin
+Disallow: /orders/*
+Disallow: /house-plans/search
+Disallow: /users
+Disallow: /users/*
+Disallow: /not-found
+Disallow: /designer_portal/*
+Disallow: /cdn-cgi/rum
+
+Sitemap: https://www.architecturaldesigns.com/sitemap.xml

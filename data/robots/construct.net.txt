@@ -1,0 +1,17 @@
+User-Agent: *
+
+Sitemap: https://www.construct.net/sitemaps/forum.xml
+Sitemap: https://www.construct.net/sitemaps/forumforum.xml
+Sitemap: https://www.construct.net/sitemaps/forumtopic.xml
+Sitemap: https://www.construct.net/sitemaps/staticpage.xml
+Sitemap: https://www.construct.net/sitemaps/productrelease.xml
+Sitemap: https://www.construct.net/sitemaps/assetstoreitem.xml
+Sitemap: https://www.construct.net/sitemaps/assetstorebundle.xml
+Sitemap: https://www.construct.net/sitemaps/arcadegame.xml
+Sitemap: https://www.construct.net/sitemaps/arcadecategory.xml
+Sitemap: https://www.construct.net/sitemaps/addon.xml
+Sitemap: https://www.construct.net/sitemaps/blog.xml
+Sitemap: https://www.construct.net/sitemaps/blogpost.xml
+Sitemap: https://www.construct.net/sitemaps/tutorial.xml
+Sitemap: https://www.construct.net/sitemaps/tutorialcourse.xml
+Sitemap: https://www.construct.net/sitemaps/manual.xml

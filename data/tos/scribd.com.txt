@@ -1,0 +1,267 @@
+Global Terms of Use
+Updated 2 months ago
+
+1.0 Acceptance of the Terms.
+These Global Terms of Use (“Terms”) govern Your use of websites (“Sites”), mobile applications (“Apps”), software, content, and all products and services (collectively, the “Services”) provided by Scribd, Inc. (“the Company”, “We”, “Our”, or “Us”), including Everand™, Scribd®, and Slideshare®. The following additional terms, policies, guidelines, agreements, and rules (the “Guidelines”) are expressly incorporated herein and form a binding part of these Terms as if reproduced fully herein:
+
+Scribd, Inc. Global Privacy Policy (https://scribd.com/privacy)
+Everand Subscriber Agreement (https://support.scribd.com/hc/articles/210129486)
+Scribd Premium Terms of Sale (https://support.scribd.com/hc/articles/43178587356564)
+Uploader Agreement for Scribd and Slideshare (https://support.scribd.com/hc/articles/210129466)
+Prohibited Activity and Content Notice (https://support.scribd.com/hc/articles/210129166-Prohibited-Activity-and-Content)
+Gift Subscription Terms and Conditions (https://support.scribd.com/hc/articles/210129546)
+Recommender System Transparency (https://support.scribd.com/hc/articles/24002669613204-Recommender-System-Transparency)
+BY REGISTERING FOR, ACCESSING, BROWSING, POSTING TO, DOWNLOADING FROM, SIGNING UP TO, SUBSCRIBING TO, OR USING ANY OF THE SERVICES THAT WE PROVIDE, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD, AND AGREE TO BE BOUND BY, ALL RULES, TERMS, CONDITIONS, GUIDELINES, RESTRICTIONS, AND NOTICES IN THE GLOBAL TERMS OF USE.
+
+PLEASE READ THESE TERMS CAREFULLY, AS THEY GOVERN YOUR USE OF THE SITE AND SERVICES, PARTICULARLY SECTION 15, WHICH AFFECTS YOUR RIGHTS IN THE EVENT OF A DISPUTE BETWEEN US.
+
+We reserve all rights not expressly granted in these Terms. If You do not agree to these Terms Of Use, then You may not use the Services.
+
+
+2.0 Definitions
+An “Account” refers to a basic Scribd or Slideshare account maintained by an individual person or a single entity (“You”, “Your”, “User”, or, collectively, “Users”). A “Subscription” refers to any paid subscription that allows Users to access exclusive premium content (“Subscription Content”) during the Subscription period through Everand™.
+
+
+3.0 Jurisdiction
+Our Operations are based in the United States. If You are located in the greater European Economic Area (“EEA+”) or the United Kingdom (“U.K.”), then these terms are an agreement between You and Scribd Netherlands B.V. If You are not located in the EEA+ or the U.K., then these terms are an agreement between You and Scribd, Inc. For the purposes of these Terms, Scribd, Inc. and Scribd Netherlands B.V. are collectively referred to as “Scribd, Inc.” or “the Company.”
+
+The Services may not be appropriate or available for use in some jurisdictions outside of the United States. If You use the Services, You do so at Your own risk, and You are responsible for complying with local laws, rules, and regulations. We may limit availability of the Services, in whole or in part, to any person, geographic area, or jurisdiction we choose, at any time, and in our sole discretion.
+
+
+4.0 Your Eligibility to Use the Services
+You must be at least 18 years old to use the Services. The Services are not available to Users whose access to any Service was administratively suspended or revoked.
+
+If You are using or opening an Account or Subscription on behalf of a company, legal entity, or organization (collectively, “Entity”), then You represent and warrant that You are an authorized representative of that Entity with the authority to bind the Entity to these Terms; and agree to be bound by these Terms on behalf of the Entity. In that case, “You” and “Your” will refer to the Entity.
+
+BY USING THE SERVICES, YOU REPRESENT THAT You meet the eligibility requirements in this Section.
+
+
+5.0 Your Personal Information and Privacy
+Your privacy and the security of Your Personal Information is extremely important to Us. We take significant technical and organizational measures to protect Your Personal Information. Please read the Global Privacy Policy carefully for information on how we collect, use, and disclose Your personal information.
+
+You acknowledge and agree that Your use of the Services is subject to the Global Privacy Policy. You acknowledge and agree that all information You provide to Us is true, accurate, and complete; that You are solely responsible for the accuracy of Your information; and that evidence of inaccurate account information may lead to the suspension or termination of Your Account and/or Subscription. You agree to not disclose Your passwords to anyone and that You are responsible for all activities that occur under Your Account and/or Subscription, whether or not You are aware of them when they occur. If You have reason to believe that Your Account and/or Subscription is no longer accurate or secure, then You agree to immediately notify Us via the Help Center (https://support.scribd.com) or by email at support@scribd.com.
+
+
+6.0 Intellectual Property
+We respect the intellectual property rights of authors, publishers, and creators, and we expect our Users to comply with all applicable intellectual property laws. It is Our policy to comply with the United States Digital Millennium Copyright Act (17 U.S.C. §512) and to terminate Account holders who repeatedly infringe, or are believed to repeatedly infringe, intellectual property rights. Scribd’s copyright-related policies and procedures are further described in the Help Center.
+
+The Company's trademarks, logos, service marks, and trade names (collectively, the “Trademarks”) displayed on the Sites and Apps are registered and unregistered trademarks of Scribd, Inc. and may not be used in connection with products or services that are not related to, associated with, or sponsored by the Company. All Trademarks not owned by the Company, if they appear anywhere within any of the Services, are the property of their respective owners.
+
+
+7.0 License Grants.
+
+7.1 License Grants to Mobile Applications.
+Subject to Your compliance with these Terms, the Company grants to You a limited, non-exclusive, non-transferable, freely revocable license to download and install a copy of any App provided by the Company on any mobile device or computer that You own or control, and to run such copy of the App solely for Your own personal non-commercial purposes, and to make a reasonable number of backup copies of the App. Except as expressly permitted in these Terms, You may not: (i) copy, modify or create derivative works based on the Apps; (ii) distribute, transfer, sublicense, lease, lend or rent the App to any third party; (iii) reverse engineer, decompile or disassemble the App; or (iv) make the functionality of the App available to multiple users through any means. The Company reserves all rights in and to the App not expressly granted to You under these Terms.
+
+
+7.2 License Grant to Download User-Generated Content.
+Subject to Your compliance with these Terms, the Company grants to You a limited, non-exclusive, non-transferable, freely revocable license to view, download (including, without limitation, to a portable device), print, and have printed select user-generated content (“UGC”, “Content”, or “User Content”) for personal use, except as the Company may restrict or block at the request of the uploader or on its own initiative. UGC does not include Subscription Content published through Everand (as defined in the Everand Subscriber Agreement).
+
+
+8.0 Content Disclaimers
+You understand and acknowledge that the content that You receive from the Services is intended for information and entertainment purposes only; it does not constitute legal, financial, professional, educational, medical, or healthcare advice or diagnosis and cannot be used for such purposes. You understand and acknowledge that when using the Services You will be exposed to content from a variety of sources, and You agree the Company is not responsible for the accuracy, usefulness, or intellectual property rights of, or relating to, such content. You further understand and acknowledge that You may be exposed to content that is inaccurate, offensive, indecent, or objectionable, and You agree to waive, and do waive, any legal or equitable rights or remedies You have or may have against the Company with respect thereto. The Company does not endorse any content or any opinion, recommendation, or advice expressed therein, and expressly disclaims any and all liability in connection with such content. If notified of content that allegedly does not conform to these Terms, the Company may investigate the allegation and determine in its sole discretion whether to remove the content, which it reserves the right to do at any time and without notice. The Company does not permit activities that infringe intellectual property rights or privacy rights on any of the Services.
+
+Content provided through the Services may include links or references to other web sites or services solely as a convenience to Users (“Reference Sites”). Unless otherwise expressly stated by the Company, the Company does not endorse any such Reference Sites or the information, materials, products, or services contained on or accessible through Reference Sites. In addition, Your correspondence or business dealings with, or participation in promotions of advertisers found on or through the Services are solely between You and such advertisers. Access and use of Reference Sites, including the information, materials, products, and services on or available through Reference Sites is solely at Your own risk.
+
+
+9.0 Prohibited Conduct.
+It is Our goal to create an experience where anyone can read or listen to books and other creative works in a comfortable and safe environment. We have developed rules that are designed to help achieve this goal. In addition to the general rules below, additional restrictions are enumerated in the Prohibited Activity and Content Notice. We reserve the right to, in our sole discretion, determine and decide whether, and to what extent, a rule has been broken. The Company reserves the right to exercise whatever lawful means it deems necessary to prevent unauthorized or prohibited uses of the Services.
+
+
+9.1(a) By using the Services, You agree not to:
+Use the Services if You are under the age of thirteen (13) years old;
+Use the Services for any illegal purpose, or in violation of any local, state, national, or international law, including, without limitation, laws governing intellectual property and other proprietary rights, and data protection and privacy;
+Use the Services for any purpose other than to post, receive, and engage with original and/or appropriately licensed content, and to add Descriptive Information to original content;
+Impersonate any person or Entity, falsely claim an affiliation with any person or Entity, forge another persons’ digital signature, misrepresent the source, identity, or content of information transmitted via the Services, or perform any other similar fraudulent activity;
+Access the Accounts and/or Subscriptions of others without permission;
+Delete, modify, or alter the copyright or other proprietary rights notices provided by the Services or associated with any content available via the Services;
+Make unsolicited offers, advertisements, proposals, or send junk mail or spam to other Users of the Services;
+Defame, harass, abuse, menace, threaten or defraud Users of the Services;
+Collect, or attempt to collect, personal information about Users or third parties without their consent;
+Remove, circumvent, disable, damage or otherwise interfere with rights enforcement and other security-related features that prevent or restrict use or copying, printing, storing, transferring, or sharing of any content accessible through the Services, or features that enforce limitations on the use of the Services or any content available via the Services;
+Reverse engineer, decompile, disassemble or otherwise attempt to discover the source code or any part of the Sites, Apps, and/or Services, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation;
+Modify, adapt, translate or create derivative works based upon works provided through the Services, or any part thereof, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation;
+Restrict, intentionally interfere with or damage the operation of the Services or any User’s enjoyment of any part thereof, by any means, including uploading or otherwise disseminating viruses, adware, spyware, worms, or other malicious code;
+Use any robot, spider, scraper, or other automated means to access the Services, or copy, print, access, store, transfer, or share any content accessible through the Services, for any purpose or to bypass any measures the Company may use to prevent or restrict access, or the ability to copy, print, access, store, transfer, or share content;
+Use any automated means, including but not limited to bots, scrapers, or text/data mining tools, to access, collect, or extract text or data from the Services, Content or Subscription Content;
+Forge headers or otherwise manipulate identifiers in order to disguise the origin of any content transmitted through the services;
+Misuse any reporting, flagging, complaint, dispute, or appeals process, including by making groundless, vexatious, or frivolous submissions;
+Interfere with or disrupt servers or networks related to the operation of the Services, or disobey any requirements, procedures, policies or regulations of networks connected to the Services;
+Clone, copy, duplicate, or create a database of the Services by systematically downloading and storing all or any content provided through the Services;
+Run contests, sweepstakes, or other similar events on or through the Services without Our prior written permission;
+Access, post, or download content from or within a country or territory subject to comprehensive sanctions in the United States; or
+Use any portion of any content provided through the Services for the purposes of training a large language model.
+
+9.1(b) By using the Services, You agree not to upload, post, distribute, or otherwise make available through the Services:
+Any Content and/or Descriptive Information that is, or may be, defamatory, libelous, tortious, or inaccurate;
+Any Content and/or Descriptive Information that is, or may be illegal or unlawful;
+Any unsolicited advertising, promotional materials, or other solicitation materials, bulk commercial advertising (spam), chain mail, informational announcements, charity requests, and petitions for signatures;
+Any Content and/or Descriptive Information that a reasonable person could deem to be objectionable, offensive, indecent, pornographic, invasive of another’s privacy, harassing, threatening, menacing, embarrassing, distressing, hateful, racially or ethnically offensive, or otherwise inappropriate;
+Any Content and/or Descriptive Information that would give rise to criminal or civil liability; that encourages conduct that constitutes a criminal offense; or that encourages or provides instructional information about illegal activities or activities;
+Any Content and/or Descriptive Information, whether photographic or artistic (including computer-generated imagery), of a person under the age, or apparently under the age, of 18 in a state of undress, or otherwise posed or presented in a lewd, lascivious, provocative, or titillating manner. This includes, but is not limited to, any content that may be deemed abusive, harmful, indecent, obscene, invasive of privacy or publicity rights, harassing, libelous, threatening, or otherwise objectionable toward minors. Content that depicts minors in a sexual, violent, or otherwise exploitative context is explicitly forbidden;
+Any lewd or lascivious imagery of unclothed persons of any age;
+Any Content and/or Descriptive Information that infringes any person’s legal right to privacy or publicity;
+Any Content and/or Descriptive Information that is designed to aid search engine optimization, or other Content that in the Company’s sole opinion detracts from the User experience;
+Any Content and/or Descriptive Information that is determined to violate one or more conditions of Prohibited Activity and Content notice.
+
+10.0 Termination; Terms of Use Violations.
+
+10.1 Scribd and Slideshare
+You agree that We, at Our sole discretion, may terminate any account You have with the Company or Your use of the Services, and remove any part of Your account, subscription, user profile, and content, at any time, with or without notice. Termination may occur for any reason, including but not limited to, extended inactivity on Your account, abuse of the Website or technical services, or abuse of Our support services. We may also discontinue providing access to the Services, or any part thereof, at any time, with or without notice.
+
+You agree that termination of Your access to the Services or any account and/or subscription You have, or any part thereof, may occur with or without notice, and You agree that the Company will not be liable to You or any third party for such termination. Any suspected fraudulent, abusive, or illegal activity may be referred to law enforcement authorities. These remedies are in addition to any other legal or equitable remedies available to the Company.
+
+
+10.2 Everand
+We will not terminate Your Everand Subscription for inactivity if You continue to pay Subscription Fees. Please see the Everand Subscriber Agreement for additional terms applicable to the cancellation of Your Subscription.
+
+
+10.3 How to Cancel Your Account or Subscription and Terminate this Agreement
+You can cancel Your Account and/or Subscription through Your Account settings; or by sending a cancellation request to Our Customer Support team via the Help Center or at support@scribd.com. You can terminate these Terms at any time by canceling all of Your Accounts and Subscriptions and discontinuing Your uses of the Services. Your only remedy with respect to any dissatisfactions with (i) the Company, (ii) the Services, (iii) any term of these Terms, (iv) any policy or practice of the Company, or (iv) any Content or information transmitted through the Services, is to cancel Your Accounts and Subscriptions and to stop using the Services.
+
+
+10.4 The Effects of Cancellation or Termination
+Upon any cancellation or termination, the rights and licenses granted to You under these Terms and any additional terms and conditions will automatically terminate and the following provisions will survive: “The Effects of Cancellation or Termination,” “Our Proprietary Rights,” “Indemnification,” “Disclaimers; No Warranties,” “Limitation of Liability and Damages,” “Dispute Resolution,” “Miscellaneous,” and “Claims.”
+
+
+11.0 Our Proprietary Rights
+The visual interfaces, graphics, design, compilation, information, computer code (including source code and object code), products, and all other elements of the Services provided by the Us (the “Materials”) are protected by United States copyright, trade dress, patent, and trademark laws, international conventions, and all other relevant intellectual property and proprietary rights, and applicable laws. We acknowledge that You retain ownership of any Content and Descriptive Information that You post on Scribd and/or Slideshare, subject however to Your grant to the Company of a perpetual, irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, store, distribute, publicly display, and adapt them for use in conjunction with the operations of the Services. All Materials contained on the Services are the property of the Company or its subsidiaries or affiliated companies and/or third-party licensors. All trademarks, service marks, and trade names are proprietary to the Company or its affiliates and/or third-party licensors. Except as expressly authorized by the Company, You agree not to sell, license, distribute, copy, modify, publicly perform or display, transmit, publish, edit, adapt, create derivative works from, or otherwise make unauthorized use of the Materials or Services. The Company reserves all rights not expressly granted in these Terms.
+
+
+12.0 Indemnification
+You agree to indemnify, save, and hold Us, Our affiliated companies, contractors, employees, agents and Our third-party suppliers, licensors, and partners harmless from any claims, losses, damages, liabilities, including legal fees and expenses, arising out of Your use or misuse of the Services, any violation by You of these Terms, or any breach of the representations, warranties, and covenants made by You herein. We reserve the right, at Your expense, to assume the exclusive defense and control of any matter for which You are required to indemnify Us, and You agree to cooperate with Our defense of these claims. We will use reasonable efforts to notify You of any such claim, action, or proceeding upon becoming aware of it.
+
+
+13.0 Disclaimers; No Warranties
+TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, THE COMPANY, AND ITS AFFILIATES, PARTNERS, AND SUPPLIERS DISCLAIM ALL WARRANTIES, STATUTORY, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF PROPRIETARY RIGHTS. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM THE COMPANY OR THROUGH THE SERVICES WILL CREATE ANY WARRANTY NOT EXPRESSLY STATED HEREIN. YOU EXPRESSLY ACKNOWLEDGE THAT AS USED IN THIS SECTION 13, THE TERM THE COMPANY INCLUDES THE COMPANY’S OFFICERS, DIRECTORS, EMPLOYEES, SHAREHOLDERS, AGENTS, LICENSORS AND SUBCONTRACTORS.
+
+
+14.0 Limitation of Liability and Damages
+
+14.1 Limitation of Liability
+UNDER NO CIRCUMSTANCES, INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE, WILL THE COMPANY OR ITS AFFILIATES, CONTRACTORS, EMPLOYEES, AGENTS, OR THIRD-PARTY PARTNERS, LICENSORS, OR SUPPLIERS BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, RELIANCE, OR EXEMPLARY DAMAGES (INCLUDING WITHOUT LIMITATION DAMAGES ARISING FROM ANY UNSUCCESSFUL COURT ACTION OR LEGAL DISPUTE, LOST BUSINESS, LOST REVENUES OR LOSS OF ANTICIPATED PROFITS OR ANY OTHER PECUNIARY OR NON-PECUNIARY LOSS OR DAMAGE OF ANY NATURE WHATSOEVER) ARISING OUT OF OR RELATING TO THESE TERMS OR THAT RESULT FROM YOUR USE OR YOUR INABILITY TO USE THE MATERIALS AND CONTENT ON THE SERVICES OR ANY REFERENCE SITES, OR ANY OTHER INTERACTIONS WITH THE COMPANY, EVEN IF THE COMPANY OR AN AUTHORIZED REPRESENTATIVE OF THE COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+14.2 Limitation of Damages
+IN NO EVENT WILL THE TOTAL LIABILITY OF THE COMPANY OR ITS AFFILIATES, CONTRACTORS, EMPLOYEES, AGENTS, OR THIRD-PARTY PARTNERS, LICENSORS, OR SUPPLIERS TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION ARISING OUT OF OR RELATING TO THESE TERMS, YOUR USE OF THE SERVICES OR YOUR INTERACTION WITH OTHER USERS OF THE SERVICES (WHETHER IN CONTRACT, TORT INCLUDING NEGLIGENCE, WARRANTY, OR OTHERWISE), EXCEED THE AMOUNT PAID BY YOU, IF ANY, FOR ACCESSING THE SERVICES DURING THE THREE (3) MONTHS IMMEDIATELY PRECEDING THE DATE OF THE CLAIM OR ONE HUNDRED DOLLARS, WHICHEVER IS GREATER.
+
+
+14.3 Reference Sites
+THESE LIMITATIONS OF LIABILITY ALSO APPLY WITH RESPECT TO DAMAGES INCURRED BY YOU BY REASON OF ANY PRODUCTS OR SERVICES SOLD OR PROVIDED ON ANY REFERENCE SITES OR OTHERWISE BY THIRD PARTIES OTHER THAN THE COMPANY AND RECEIVED THROUGH OR ADVERTISED ON THE SERVICES OR RECEIVED THROUGH ANY REFERENCE SITES.
+
+
+14.4 Basis of the Bargain
+YOU ACKNOWLEDGE AND AGREE THAT THE COMPANY HAS OFFERED ITS PRODUCTS AND SERVICES, SET ITS PRICES, AND ENTERED INTO THESE TERMS IN RELIANCE UPON THE WARRANTY DISCLAIMERS AND LIMITATIONS OF LIABILITY SET FORTH HEREIN, THAT THE WARRANTY DISCLAIMERS AND LIMITATIONS OF LIABILITY SET FORTH HEREIN REFLECT A REASONABLE AND FAIR ALLOCATION OF RISK BETWEEN YOU AND THE COMPANY, AND THAT THE WARRANTY DISCLAIMERS AND LIMITATIONS OF LIABILITY SET FORTH HEREIN FORM AN ESSENTIAL BASIS OF THE BARGAIN BETWEEN YOU AND THE COMPANY. THE COMPANY WOULD NOT BE ABLE TO PROVIDE SERVICES TO YOU ON AN ECONOMICALLY REASONABLE BASIS WITHOUT THESE LIMITATIONS.
+
+
+14.5 Limitations by Applicable Law
+CERTAIN JURISDICTIONS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF YOU RESIDE IN SUCH A JURISDICTION, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS. THE LIMITATIONS OR EXCLUSIONS OF WARRANTIES, REMEDIES OR LIABILITY CONTAINED IN THESE TERMS APPLY TO YOU TO THE FULLEST EXTENT SUCH LIMITATIONS OR EXCLUSIONS ARE PERMITTED UNDER THE LAWS OF THE JURISDICTION WHERE YOU ARE LOCATED.
+
+
+15.0 Dispute Resolution.
+PLEASE READ THIS SECTION CAREFULLY. IT AFFECTS YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE OR PARTICIPATE IN A LAWSUIT IN COURT.
+
+
+15.1 Governing Law
+For the Company’s customers, these Terms will be governed and construed in accordance with the laws of the State of California, without giving effect to any principles of conflicts of law. For customers of Scribd México S.A. de C.V., these Terms will be governed and construed in accordance with the laws of the United Mexican States (México). For customers of Scribd Netherlands B.V., these Terms will be governed and construed in accordance with the laws of the Netherlands.
+
+
+15.2 Informal Dispute Resolution Procedure
+If a Dispute (as defined below) arises between Us, We are committed to working with You to try to reach a reasonable resolution. For any such Dispute, both parties acknowledge and agree that they will first use good faith efforts to settle the Dispute informally and directly through consultation and negotiations before initiating any formal dispute resolution proceeding in arbitration or otherwise. Such informal resolution requires first sending a written description of the dispute to the other party. For any Dispute You initiate, You agree to send the written description of the Dispute along with the email address associated with Your account, if applicable, to Scribd, Inc., 460 Bryant Street, Ste. 300, San Francisco, CA 94107, and to legal@scribd.com. The written description must be on an individual basis and provide, at minimum, the following information: Your name and contact information; a description of the nature or basis of the claim or dispute; the specific relief sought; and proof of Your relationship with Us. Unless the parties agree to extend the period for informal resolution, if the Dispute is not resolved within sixty (60) days after receipt of the written description of the Dispute, You and the Company agree to the further Dispute resolution provisions below.
+
+The informal dispute resolution procedure in this section 15.2 is a prerequisite and condition precedent to commencing any formal dispute resolution proceeding. The parties agree that any relevant limitations period and filing fees or other deadlines will be tolled while the parties engage in this informal dispute resolution procedure.
+
+Residents of the European Union have the option to initiate proceedings with an EU-certified out-of-court dispute resolution and settlement agency, or they may choose to address disputes through judicial proceedings at any time. Out-of-court dispute resolution fees are set by the EU-certified agency before engaging in dispute resolution settlement. Scribd will bear any fees related to out-of-court disputes decided in favor of an EU resident.
+
+15.3 Mutual Arbitration Agreement
+If the informal dispute resolution procedure does not lead to resolution, then either party may initiate binding arbitration as the sole means to resolve Disputes, (except as provided in herein) subject to the terms set forth below and the applicable National Arbitration and Mediation (“NAM”) rules. If You are initiating arbitration, a copy of the demand shall also be emailed to legal@scribd.com. If You have an account with Us, any demand filed by You initiating arbitration must include the email address You used to log onto any of Our Services, as well as any other identifying information associated with that account that is controlled by You.
+
+You and the Company agree that the terms of this Section 15 (collectively the “Arbitration Agreement”) govern any and all disputes between Us including but not limited to claims arising out of or relating to any aspect of the relationship between Us, the Terms, or Your use of the Services, whether based in contract, tort, statute, fraud, misrepresentation or any other legal theory (each a “Dispute” and collectively “Disputes”).
+
+The parties further agree that the determination of the scope, enforceability, or applicability of this Arbitration Agreement, including, but not limited to any claim that all or any part thereof of this Arbitration Agreement is void or voidable, whether a claim is subject to arbitration, and any dispute regarding the payment of administrative or arbitrator fees (including the timing of such payments and remedies for nonpayment) will be resolved exclusively by final and binding arbitration in accordance with this Section 15.
+
+The only matters excluded from this Arbitration Agreement are the litigation of certain intellectual property and small court claims, as provided below.
+
+This Arbitration Agreement supersedes any prior Arbitration Agreement entered by the parties and is applicable to unfiled claims that arose, were asserted, or involve facts occurring before the existence of this Arbitration Agreement or any prior agreement as well as claims that may arise after the termination of this Arbitration Agreement, in accordance with the notice and opt-out provisions set forth herein.
+
+The parties agree that this Arbitration Agreement is made pursuant to a transaction involving interstate commerce, and shall be governed by the Federal Arbitration Act (“FAA”), 9 U.S.C. §§ 1-16.
+
+Notwithstanding the parties’ decision to resolve all Disputes through arbitration, each party retains the right to (i) elect to have any claims resolved in small claims court on an individual basis for disputes and actions within the scope of such court’s jurisdiction, regardless of what forum the filing party initially chose; (ii) bring an action in state or federal court to protect its intellectual property rights (“intellectual property rights” in this context means patents, copyrights, moral rights, trademarks, and trade secrets and other confidential or proprietary information, but not privacy or publicity rights) or for defamation; and (iii) seek a declaratory judgment, injunction, or other equitable relief in a court of competent jurisdiction regarding whether a party’s claims are time-barred or may be brought in small claims court. Seeking such relief shall not waive a party’s right to arbitration under this Arbitration Agreement, and any filed arbitrations related to any action filed pursuant to this paragraph shall automatically be stayed pending the outcome of such action.
+
+
+15.4 Class Arbitration and Collective Relief Waiver
+YOU AND THE COMPANY ACKNOWLEDGE AND AGREE THAT, TO THE MAXIMUM EXTENT ALLOWED BY LAW, EXCEPT AS SET OUT OTHERWISE IN SECTION 15.7 BELOW, ANY ARBITRATION SHALL BE CONDUCTED IN AN INDIVIDUAL CAPACITY ONLY AND NOT AS A CLASS OR COLLECTIVE ACTION AND THE ARBITRATOR MAY AWARD RELIEF ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO RESOLVE AN INDIVIDUAL PARTY’S CLAIM. NOTWITHSTANDING THIS ACKNOWLEDGEMENT AND AGREEMENT, ANY ARBITRATION INVOLVING YOU MAY PROCEED ON A CONSOLIDATED BASIS IF AND ONLY IF THE COMPANY PROVIDES ITS CONSENT TO CONSOLIDATE IN WRITING.
+
+With the exception of this subpart (15.4) and subparts (15.7) and (15.8) below, if any part of this Arbitration Agreement is deemed to be invalid, unenforceable or illegal, or otherwise conflicts with the rules of NAM, then the balance of this Arbitration Agreement shall remain in effect and shall be construed in accordance with its terms as if the invalid, unenforceable, illegal or conflicting provision were not contained herein. If, however, this subpart (15.4) or subparts (15.7) or (15.8) are found to be invalid, unenforceable or illegal, then the entirety of this Arbitration Agreement shall be null and void, and neither You nor the Company shall be entitled to arbitrate their Dispute.
+
+
+15.5 Arbitration Rules
+The arbitration will be administered by NAM and conducted before a single arbitrator in accordance with the rules of NAM, including, as applicable, NAM Comprehensive Dispute Resolution Rules and Procedures, Fees For Disputes When One of the Parties is a Consumer and the Mass Filing Supplemental Dispute Resolution Rules and Procedures in effect at the time any demand for arbitration is filed with NAM, excluding any rules or procedures governing or permitting class or representative actions. The applicable NAM rules and procedures are available at www.namadr.com or by emailing National Arbitration and Mediation’s Commercial Dept at commercial@namadr.com.
+
+
+15.6 Arbitration Location and Procedure
+For all U.S. residents, the arbitration shall be held (i) at a location determined under the applicable NAM rules and procedures that is reasonably convenient for You and is no more than 100 miles from Your home or place of business; or (ii) at another location You and we agree upon. For non-U.S. residents outside the EU, the arbitration shall be held in San Francisco, California (unless otherwise agreed by the parties). The parties agree that California law shall apply consistent with the FAA, that applicable statutes of limitations shall apply, and that claims of privilege recognized at law shall be honored. The arbitrator or arbitration body shall be empowered to grant whatever relief would be available in a court under law or in equity. The arbitrator has the right to impose sanctions in accordance with the NAM rules and procedures for any frivolous claims or submissions the arbitrator determines have not been filed in good faith, as well as for a party’s failure to comply with the Informal Dispute Resolution Procedure contemplated by this Arbitration Agreement.
+
+If the amount in controversy does not exceed $10,000 and You do not seek injunctive or declaratory relief, then the arbitration will be conducted solely on the basis of documents You and the Company submit to the arbitrator, unless the arbitrator determines that a hearing is necessary, or the parties agree otherwise. If the amount in controversy exceeds $10,000 or seeks declaratory or injunctive relief, either party may request (or the arbitrator may determine) to hold a hearing, which shall be via videoconference or telephone conference unless the parties agree otherwise.
+
+Subject to the applicable NAM rules and procedures, the parties agree that the arbitrator will have the discretion to allow the filing of dispositive motions if they are likely to efficiently resolve or narrow issues in dispute. Unless otherwise prohibited by law, all arbitration proceedings will be confidential and closed to the public and any parties other than You and the Company (and each of the parties’ authorized representatives and agents), and all records relating thereto will be permanently sealed, except as necessary to obtain court confirmation of the arbitration award (provided that the party seeking confirmation shall seek to file such records under seal to the extent permitted by law).
+
+
+15.7 Mass Arbitration
+To increase the efficiency of administration and resolution of arbitrations, in the event 100 or more similar arbitration demands (those asserting the same or substantially similar facts or claims, and seeking the same or substantially similar relief) presented by or with the assistance or coordination of the same law firm(s) or organization(s) are submitted to NAM against the Company (a “Mass Filing”), the parties agree (i) to administer the Mass Filing in batches of 10 demands per batch (to the extent there are fewer than 10 arbitration demands left over after the batching described above, a final batch will consist of the remaining demands) with only one batch filed, processed, and adjudicated at a time; (ii) to designate one arbitrator for each demand within the batch (the same arbitrator may preside over multiple demands in a batch if the relevant claimants and the Company so agree); (iii) to accept applicable fees, including any related fee reduction determined by NAM in its discretion; (iv) that no other demands for arbitration that are part of the Mass Filing may be filed, processed, or adjudicated until the prior batch of 10 is filed, processed, and adjudicated; (v) that fees associated with a demand for arbitration included in a Mass Filing, including fees owed by the Company and the claimants, shall only be due after Your demand for arbitration is included in a set of batch proceedings and that batch is properly designated for filing, processing, and adjudication; (vi) that the staged process of batched proceedings, with each set including 10 demands, shall continue until each demand (including Your demand) is adjudicated or otherwise resolved; and (vii) to make good faith efforts to resolve each batch of demands within 180-days to the extent possible, failing which any of the claimants or the Company may cease arbitration and file in a court of competent jurisdiction.
+
+Arbitrator selection for the demands in each batch shall be conducted to the greatest extent possible in accordance with the applicable NAM rules and procedures for such selection, and the arbitrator will determine the location where the proceedings for each demand within a batch will be conducted.
+
+You agree to cooperate in good faith with the Company and the arbitration provider to implement such a “batch approach” or other similar approach to provide for an efficient resolution of claims, including the payment of combined reduced fees, set by NAM in its discretion, for each batch of demands. The parties further agree to cooperate with each other and the arbitration provider or arbitrator to establish any other processes or procedures that the arbitration provider or arbitrator believe will provide for an efficient resolution of claims. Any disagreement between the parties as to whether this provision applies or as to the process or procedure for batching shall be resolved by a procedural arbitrator appointed by NAM. This “Batch Arbitration” provision shall in no way be interpreted as increasing the number of demands necessary to trigger the applicability of NAM’s Mass Filing Supplemental Dispute Resolution Rules and Procedures or authorizing class arbitration of any kind. Unless the Company otherwise consents in writing, the Company does not agree or consent to class arbitration, private attorney general arbitration, or arbitration involving joint or consolidated claims under any circumstances, except as set forth in this subpart (15.7). If Your demand for arbitration is included in the Mass Filing, Your claims will remain tolled until Your demand for arbitration is decided, withdrawn, or is settled.
+
+The parties agree that this batching provision is integral to the Arbitration Agreement insofar as it applies to a Mass Filing. If the batching provision in this subpart (15.7) or the engagement of a mediator in subpart (15.8) is found to be invalid, unenforceable or illegal, then the entirety of this Arbitration Agreement shall be null and void, and neither You nor the Company shall be entitled to arbitrate any claim that is a part of the Mass Filing.
+
+
+15.8 Mediation Following First Batch in a Mass Filing
+Following the determination of the first batch of demands, the parties will enlist a NAM mediator to attempt to resolve the remaining demands within a reasonable time frame (the “Mediation Period”). The NAM mediator may be selected from a group of five (5) mediators initially proposed by NAM, with the Company and the remaining claimants’ counsel being able to strike one mediator each and then rank the remaining mediators and the highest collectively ranked mediator being selected. The selected mediator will try to facilitate a resolution of the remaining demands in the Mass Filing. If the parties are unable to resolve the outstanding demands during the Mediation Period, and cannot agree on a methodology for resolving them through further arbitrations, either the Company or any remaining claimant may opt out of the arbitration process and have the demand(s) proceed in a court of competent jurisdiction. Notice of the opt-out will be provided in writing within 60 days of the close of the Mediation Period. If neither the Company nor the remaining claimants opt out and they cannot agree to a methodology for resolving the remaining demands through further arbitration, the arbitrations will continue with the batching process. Absent notice of an opt-out, the arbitrations will proceed in the order determined by the sequential numbers assigned to demands in the Mass Filing.
+
+
+15.9 Arbitrator’s Decision
+The arbitrator shall issue a written reasoned decision in accordance with  the applicable NAM rules and procedures. Judgment on the arbitration award may be entered in any court having jurisdiction thereof. The arbitrator will have the authority to award monetary damages on an individual basis and to grant, on an individual basis, any non-monetary remedy or relief available to an individual to the extent available under applicable law, the arbitral forum’s rules, and this Arbitration Agreement. The parties agree that the damages and/or other relief must be consistent with the terms of the “Limitation of Liability and Damages” section of these Terms as to the types and the amounts of damages or other relief for which a party may be held liable. No individual arbitration award or decision will have any preclusive effect as to issues or claims in any dispute with anyone who is not a named party to the arbitration. Attorneys’ fees will be available to the prevailing party in the arbitration if authorized under applicable substantive law governing the claims in the arbitration.
+
+
+15.10 Fees
+If You are able to demonstrate that the costs of arbitration will be prohibitive as compared to the costs of litigation, the Company will reimburse any filing and hearing fees in excess of $250 that the arbitrator deems necessary to prevent the arbitration from being cost-prohibitive regardless of the outcome of the arbitration, unless the arbitrator determines that Your claim(s) were frivolous or asserted in bad faith, in which case arbitration fees (including attorneys’ fees) may be imposed upon You consistent with the Arbitrator’s Rules and the standard for sanctions set forth in Federal Rule of Civil Procedure 11. You are responsible for Your own attorneys’ fees unless the arbitration rules and/or applicable law provide otherwise, including as set forth in this Arbitration Agreement.
+
+The parties agree that NAM has discretion to reduce the amount or modify the timing of any administrative or arbitration fees due under NAM’s Rules where it deems appropriate (including as specified in subpart (vi)) provided that such modification does not increase the costs to You, and You further agree that You waive any objection to such fee modification. The parties also agree that a good-faith challenge by either party to the fees imposed by NAM does not constitute a default, waiver, or breach of this Arbitration Agreement while such challenge remains pending before NAM, the arbitrator, and/or a court of competent jurisdiction, and that any and all due dates for those fees shall be tolled during the pendency of such challenge.
+
+
+15.11 Thirty Day Right to Opt Out
+You have the right to opt out and not be bound by the Arbitration Agreement by sending a written notice of Your decision to opt out to legal@scribd.com with the subject line, “ARBITRATION OPT-OUT.” The notice must be sent within thirty (30) days of (i) 17 February 2024; or (ii) Your first use of the Services, whichever is later. Otherwise, You shall be bound to arbitrate disputes in accordance with the terms of these paragraphs. If You opt out of the Arbitration Agreement, You may exercise Your right to a trial by jury or judge, as permitted by applicable law, but any prior existing agreement to arbitrate disputes under a prior version of the Arbitration Agreement will not apply to claims not yet filed. If You opt out of the Arbitration Agreement, and the Company also will not be bound by it.
+
+
+15.12 Changes
+The Company will provide thirty (30) days’ notice of any material changes to this “Dispute Resolution” section. Any such changes will go into effect 30 days after the Company provides notice and will apply to all claims not yet filed regardless of when such claims may have accrued. If the Company changes this “Dispute Resolution” section after the date You first accepted this Arbitration Agreement (or accepted any subsequent changes to this Arbitration Agreement), You agree that Your continued use of the Service 30 days after such change will be deemed acceptance of those changes.
+
+
+16.0 Miscellaneous; Assignment; Merger
+This Agreement does not create any partnership, joint venture, employer-employee, principal-agent, or franchisor-franchisee relationship between You and Us. These Terms and related Guidelines, and any rights and licenses granted hereunder, may not be transferred or assigned by You, but may be assigned by the Company without restriction. Any assignment attempt made in violation of these Terms shall be void. If any provision of these Terms or any Guidelines is held to be unlawful, void, or for any reason unenforceable, then that provision will be limited or eliminated from these Terms to the minimum extent necessary and will not affect the validity and enforceability of any remaining provisions. You agree that a printed version of this Agreement and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to this Agreement to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
+
+Our failure to exercise or enforce any right or provision of these Terms will not constitute a waiver of such right or provision. Any waiver of any provision of these Terms will be effective only if in writing and signed by an authorized agent of the Company. Upon termination of these Terms, any provision which, by its nature or express terms should survive, will survive such termination or expiration, including, but not limited to, sections 6-16.
+
+These Terms (including all Guidelines, Notices, and Terms incorporated herein), are the entire agreement between You and the Company relating to the subject matter herein and will not be modified except in writing, signed by both parties, or by a change to these Terms or Guidelines made by the Company as set forth in Section 20.0. The heading references herein are for convenience purposes only, do not constitute a part of these Terms, and will not be deemed to limit or affect any of the provisions hereof.
+
+
+17.0 Claims
+YOU AND THE COMPANY AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE COMPANY MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
+
+
+18.0 Promo Codes
+Please refer to Section 7 of the Everand Subscriber Agreement.
+
+
+19.0 Gift Subscriptions.
+Please refer to the Gift Subscription Terms and Conditions.
+
+
+20.0 Changes to the Agreement
+We may occasionally update these Terms and Our other Agreements and Guidelines. We will notify You, as required by applicable laws, whenever We make material changes to these Terms. We encourage You to review these Terms, and all Guidelines, periodically to keep Your self aware of any changes. Changes to this Agreement will take effect immediately after We post it to https://scribd.com/terms. You can determine when We last changed this Agreement by referring to the “LAST UPDATED” legend above. You acknowledge that Your use of the Services following changes to these Terms will constitute Your acceptance of those changes; provided, however, any material change to this Agreement shall not apply retroactively to any claim or dispute between You and Us in connection with this Agreement that arose prior to the “LAST UPDATED” date applicable to that version of this Agreement. This Agreement may not reflect pending or recent legislation.
+
+
+21.0 How to Contact Us
+We welcome Your questions about our Terms by email at support@scribd.com or by post at: Scribd, Inc. 460 Bryant Street, Suite 300, San Francisco, CA 94107-2594. We respond to all inquiries within 30 days.  If You are a California resident, You may have this same information emailed to You by sending a letter to the foregoing address with Your email address and a request for this information.

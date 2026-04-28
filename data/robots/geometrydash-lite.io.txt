@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /logs/
+Disallow: /search
+Disallow: /game/

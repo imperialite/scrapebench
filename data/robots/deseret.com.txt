@@ -1,0 +1,35 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-Agent: omgili
+Disallow: /
+
+User-Agent: omgilibot
+Disallow: /
+
+User-agent: PiplBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: *
+Disallow:
+
+Sitemap:  https://www.deseret.com/arc/outboundfeeds/sitemap-index/
+Sitemap:  https://www.deseret.com/arc/outboundfeeds/sitemap-news-index/
+Sitemap:  https://www.deseret.com/arc/outboundfeeds/sitemap-section-index/
+Sitemap:  https://www.deseret.com/arc/outboundfeeds/sitemap-index-year/
+Sitemap: https://uploads.deseret.com/sitemaps/deseretnews/sitemap-index.xml

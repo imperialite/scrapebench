@@ -1,0 +1,100 @@
+Terms of Use Agreement
+Introduction
+Thank you for your interest in the University of California, Berkeley School of Information’s (the “School”) Master of Information and Data Science and Master of Information and Cybersecurity online programs (the “Program”). The following terms and conditions (“Terms of Use”) govern your use of or access to the Program the ischoolonline.berkeley.edu domain name (the “Website”), including all content, information, and functionality displayed or available through the Website, as administered by the Program’s technology partner and Website provider, 2U, LLC (“2U,” “we,” or “us”). By using or accessing the Website, you agree to be bound by all of the Terms of Use set forth herein, including without limitation the Program’s Privacy Policy and any supplemental terms, legal notices, and other communications provided to you, all of which are incorporated into these Terms of Use by reference.
+
+Please read these Terms of Use carefully as they contain important information related to your legal rights, remedies, and obligations in connection with your use of the Website. If you do not agree to be bound by these terms of use, please immediately stop accessing or using this website. by using the sites and/or services, you have agree to be bound by these terms of use.
+
+Modifications to the Terms of Use
+We reserve the right to modify or change these Terms of Use without notice. Your use of the Website is subject to the most current version of the Terms of Use posted on the Website at the time of your use.
+
+Privacy and Protection of Your Information
+Your privacy is very important to us. Our Privacy Policy explains how we may collect and use information from and about you when you visit the Website. If you are currently enrolled as a student in the Program, please also refer to your rights under the Family Education Rights and Privacy Act of 1974, as amended.
+
+Communication
+By providing your email address, phone number, or other points of contact through the Website, you agree that 2U may communicate with you electronically or over the phone about the Program or other university programs offered through 2U or the School. You agree to receive communications from or on behalf of 2U at any email address, phone number, or other point of contact you provide through the Website. You further agree that all terms and conditions, agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications would satisfy if they were provided to you in writing.
+
+Use of Website Materials
+We own and/or license all content and other materials on the Website, including but not limited to all text, designs, logos, graphics, pictures, information, data, software, routines, documentation, technology, sound files, other files, and the selection and arrangement thereof (collectively “Materials”). The Materials are copyrighted and/or trademarked, and any unauthorized use of the Materials may violate copyright, trademark, and/or other laws.
+
+You may view, access, download or print hard copies of the Materials for your personal, educational, and non-commercial use only. You may not change the Materials in any way or reproduce, publicly display, distribute, or otherwise use them for any public or commercial purpose. We strictly prohibit any use of the Materials for any purpose not specifically identified or authorized in these Terms of Use or expressly permitted by 2U.
+
+Digital Millennium Copyright Act
+Any copyright owner or its agent that believes that any Materials or other content on the Website infringes upon its copyright(s) should give written notice to 2U’s authorized agent, listed below, in accordance with the Digital Millennium Copyright Act (“DMCA”). The notice to 2U shall contain the following information:
+
+A physical or electronic signature of the copyright owner or the individual authorized to act on behalf of the owner of a copyright that has allegedly been infringed upon;
+Identification of the copyrighted work claimed to have been infringed, or a representative list of such works;
+Identification of the copyrighted work that is claimed to be infringing or to be the subject of infringing activity that is reasonably sufficient to permit 2U to locate the material;
+The contact information of the copyright owner or the individual authorized to act on behalf of the copyright owner, such as an address, telephone number, and, if available, an email address;
+A statement that the copyright owner or the individual authorized to act on behalf of the copyright owner has a good faith reasonable belief that the particular use of the identified material is not authorized by the copyright owner, its agent, or the law; and
+A statement, under penalty of perjury, that the information in the notification is accurate, and that the individual submitting the notice is authorized to act on behalf of the owner of the copyright that has been allegedly infringed.
+Any copyright owner or its agent may provide written submissions of alleged infringements of alleged infringements to 2U’s designated Copyright Agent, privacy@2u.com, 7900 Harkins Drive, Lanham, MD 20706. A notice may not be valid if it fails to comply with all of the above-listed requirements.
+
+Intellectual Property
+Trademarks, logos, and service marks displayed or otherwise used on the Website, including, but not limited to “University of California, Berkeley” and “2U” (collectively the “Intellectual Property”), are registered trademarks of 2U and/or the School. The Intellectual Property is protected by law. All rights in the Intellectual Property are reserved to 2U, the School, or their licensors, affiliates, principals, or partners.
+
+Nothing contained on the Website should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any Intellectual Property displayed on the Website without the written permission of 2U or the third party that may own the Intellectual Property displayed on the Website. Your misuse of the Intellectual Property displayed on the Website is strictly prohibited. 2U will aggressively enforce its intellectual property rights to the fullest extent of the law.
+
+Eligibility
+By using or accessing the Website, you represent that you are at least 18 years of age and capable of agreeing to the terms and conditions set forth in these Terms of Use.
+
+User Code of Conduct
+You agree that you will not:
+
+Use the Website in any unlawful or inappropriate manner, as determined by 2U or the Program in their sole discretion, or in any other manner that could damage, disable, overburden, or impair the Website;
+Use automated scripts to collect information from or otherwise interact with the Website;
+Impersonate any person or entity, or falsely state or otherwise misrepresent yourself, your age, your qualifications, and/or your affiliation with any person or entity; or
+Publish, upload, display, or transmit or otherwise make publicly available on the Website any private information of any third party, including but not limited to addresses, phone numbers, email addresses, Social Security numbers, and credit card numbers.
+Accuracy of Information
+2U believes but does not guarantee that all of the information that appears on the Website or in any e-mail or other alerts or communications provided in connection with the Website or Program is accurate. Notwithstanding the foregoing, we recommend that you independently verify all information prior to making any educational or educational financing decisions.
+
+Hyperlinks
+The Website may contain links to other websites (“Third Party Links”) that we provide solely as a convenience to you during your use of the Website. 2U does not endorse such websites and is not responsible for any content contained therein. If you decide to access any Third Party Links, you do so entirely at your own risk.
+
+Disclaimers and Warranties
+YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT YOUR USE OF THE WEBSITE IS AT YOUR SOLE RISK AND THAT THE FUNCTIONS OF THE WEBSITE ARE PROVIDED “AS IS” AND “AS AVAILABLE.” IN PARTICULAR, 2U AND THE SCHOOL, THEIR SUBSIDIARIES, AGENTS, AFFILIATES, AND/OR LICENSORS DO NOT REPRESENT OR WARRANT TO YOU THAT:
+
+(A) YOUR USE OF THE WEBSITE WILL MEET YOUR REQUIREMENTS;
+
+(B) YOUR USE OF THE WEBSITE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR FREE FROM ERROR;
+
+(C) ANY INFORMATION OBTAINED BY YOU AS A RESULT OF YOUR USE OF THE WEBSITE WILL BE ACCURATE OR RELIABLE; OR
+
+(D) DEFECTS IN THE OPERATION OR FUNCTIONALITY OF ANY SOFTWARE PROVIDED TO YOU AS PART OF THE WEBSITE WILL BE CORRECTED.
+
+ANY MATERIAL DOWNLOADED BY OR THAT YOU OTHERWISE OBTAIN THROUGH THE USE OF THE WEBSITE IS DONE AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR OTHER DEVICE OR LOSS OF DATA THAT RESULTS FROM SUCH DOWNLOAD.
+
+NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM 2U OR THE SCHOOL, OR THROUGH OR FROM THE FUNCTIONS OR YOUR USE OF THE WEBSITE, SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THE TERMS OF USE AGREEMENT.
+
+2U AND THE SCHOOL FURTHER EXPRESSLY DISCLAIM ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+Limitation of Liability
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT 2U AND THE SCHOOL, THEIR SUBSIDIARIES, AGENTS, AFFILIATES, AND/OR LICENSORS SHALL NOT BE LIABLE TO YOU FOR:
+
+(A) ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES WHICH MAY BE INCURRED BY YOU, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY. THIS SHALL INCLUDE, BUT NOT BE LIMITED TO, ANY LOSS OF GOODWILL OR BUSINESS REPUTATION, ANY LOSS OF DATA SUFFERED, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR OTHER INTANGIBLE LOSS;
+
+(B) ANY LOSS OR DAMAGE WHICH MAY BE INCURRED BY YOU, INCLUDING BUT NOT LIMITED TO LOSS OR DAMAGE AS A RESULT OF:
+
+(1) ANY CHANGES WHICH 2U MAY MAKE TO THE WEBSITE, OR FOR ANY PERMANENT OR TEMPORARY CESSATION IN THE PROVISION OF THE WEBSITE (OR ANY FEATURES WITHIN THE WEBSITE);
+
+(2) THE DELETION OF, CORRUPTION OF, OR FAILURE TO STORE, ANY CONTENT AND OTHER COMMUNICATIONS DATA MAINTAINED OR TRANSMITTED BY OR THROUGH YOUR USE OF THE WEBSITE; OR
+
+(3) YOUR FAILURE TO PROVIDE 2U WITH ACCURATE INFORMATION.
+
+THESE LIMITATIONS ON 2U’s AND/OR THE SCHOOL’S LIABILITY TO YOU SHALL APPLY WHETHER OR NOT EITHER HAS BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING.
+
+NOTHING IN THESE TERMS OF USE SHALL EXCLUDE OR LIMIT 2U’S OR THE SCHOOL’S WARRANTY OR LIABILITY FOR LOSSES WHICH MAY NOT BE LAWFULLY EXCLUDED OR LIMITED BY APPLICABLE LAW. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR CONDITIONS OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR LOSS OR DAMAGE CAUSED BY NEGLIGENCE, BREACH OF CONTRACT OR BREACH OF IMPLIED TERMS, OR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, ONLY THE LIMITATIONS WHICH ARE LAWFUL IN YOUR JURISDICTION WILL APPLY TO YOU, AND 2U’S AND/OR THE SCHOOL’S LIABILITY WILL BE LIMITED TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+
+Applicable Laws
+You acknowledge and agree that any and all disputes, claims, and causes of action arising out of, or in connection with, in whole or in part, your use of the Website shall be resolved individually, without resort to any form of class action, and exclusively by a court of competent jurisdiction located in Prince George’s County, Maryland. All issues and questions concerning the construction, validity, interpretation, and enforceability of these Terms of Use, your rights and obligations, or the rights and obligations of 2U or the School, shall be governed by, and construed in accordance with, the laws of Maryland, without giving effect to any choice of law or conflict of law rules (whether of Maryland or any other jurisdiction), which would cause the application of the laws of any jurisdiction other than Maryland.
+
+Indemnification
+You agree to indemnify, defend, and hold harmless 2U and the School, and each of their subsidiaries, agents, affiliates, and/or licensors against any claim, liability, expense, or damages arising from or relating to your use of the Website. Your obligation to defend and indemnify 2U shall survive the termination of your use of the Website.
+
+Severability
+The various provisions contained within the Terms of Use and Privacy Policy are separate and independent, and should any term be declared unlawful, invalid, or unenforceable for any reason by a court or other appropriate tribunal, the remaining provisions and terms shall remain in full force and effect.
+
+Entire Agreement
+The Terms of Use and Privacy Policy shall constitute the entire agreement between you and 2U with respect to the Website. The Terms of Use and Privacy Policy shall be binding on the parties and their respective successors and assigns.
+
+Questions and Contact Information
+If you have any questions or comments related to the Website, please contact 2U at marketing+ucb-mids@2u.com.

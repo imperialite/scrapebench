@@ -1,0 +1,20 @@
+# a simple bug created due to next.js localization
+User-agent: *
+Disallow: /en/en/
+
+# Disallow all invalid learn pages
+User-agent: *
+Allow: /*/vocab/subcategory/*/learn/review
+Allow: /*/vocab/subcategory/*/learn/flashcard
+Allow: /*/vocab/subcategory/*/learn/spelling
+Allow: /*/vocab/subcategory/*/learn/quiz
+Allow: /*/vocab/subcategory/*/learn/result
+Disallow: /*/vocab/subcategory/*/learn/*
+
+# Disallow profile page
+Disallow: /*/user/profile
+
+User-agent: *
+Allow: /
+
+Sitemap: https://langeek.co/sitemap.xml

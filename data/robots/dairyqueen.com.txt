@@ -1,0 +1,11 @@
+User-agent: * 
+Disallow: /*/order/?storeNo=* 
+Disallow: /*/order/pickup/* 
+Disallow: /*/order/n/* 
+Disallow: /*/sign-in/?* 
+Disallow: /*/migrate-account/?* 
+Disallow: /*/faq-* 
+Disallow: /*/FAQ-* #Sitemap declarations below! # EN-US 
+Sitemap: https://www.dairyqueen.com/en-us/sitemap.xml # FR-CA 
+Sitemap: https://www.dairyqueen.com/fr-ca/sitemap.xml # EN-CA 
+Sitemap: https://www.dairyqueen.com/en-ca/sitemap.xml

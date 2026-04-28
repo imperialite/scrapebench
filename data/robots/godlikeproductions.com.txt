@@ -1,0 +1,28 @@
+User-agent: Googlebot
+Disallow: /forum1/message*/reply*/copyright
+Disallow: /forum1/message*/reply*/abusive
+
+User-agent: bingbot
+Disallow: /forum1/message*/reply*/copyright
+Disallow: /forum1/message*/reply*/abusive
+Disallow: /forum1/message*/copyright
+Disallow: /forum1/message*/abusive
+Disallow: /forum1/message*/reply*
+
+User-agent: BoardReader
+Disallow: /
+
+User-agent: JikeSpider
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: *
+Disallow: /feeds/messages/
+Disallow: /bbs/reply.php
+
+User-agent: ia_archiver
+Disallow: /
+
+Sitemap: https://www.godlikeproductions.com/sitemaps/sitemap.xml

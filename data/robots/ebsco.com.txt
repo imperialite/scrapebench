@@ -1,0 +1,65 @@
+# Robots.txt for EBSCO Atlas Application
+# Allow legitimate search engines and research bots while protecting sensitive areas
+
+# Allow all legitimate crawlers
+User-agent: *
+Allow: /
+
+# Block access to authentication-required areas
+# These contain user-specific content that shouldn't be indexed
+Disallow: /(authenticated)/
+Disallow: /knowledge/article/
+Disallow: /api/
+
+# Block development and debug endpoints
+Disallow: /api/debug-auth/
+Disallow: /api/debug-headers/
+Disallow: /(demo)/
+
+# Block system files and assets that don't need indexing
+Disallow: /_next/
+Disallow: /static/
+Disallow: /*.json$
+Disallow: /*.xml$
+
+# Allow important public content areas
+Allow: /research-starters/
+Allow: /who-we-are/
+Allow: /terms/
+Allow: /images/
+Allow: /pdfs/
+
+# Special rules for major search engines
+User-agent: Googlebot
+Allow: /
+Disallow: /(authenticated)/
+Disallow: /api/
+Disallow: /(demo)/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /(authenticated)/
+Disallow: /api/
+Disallow: /(demo)/
+
+# Research and academic bots (important for EBSCO's mission)
+User-agent: ia_archiver
+Allow: /research-starters/
+Allow: /who-we-are/
+Disallow: /(authenticated)/
+
+# Block aggressive crawlers and scrapers
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# Crawl delay for respectful crawling
+Crawl-delay: 1
+
+#sitemap link
+Sitemap: https://a101334.sitemaphosting3.com/3981381/sitemap_3981381.xml

@@ -1,0 +1,287 @@
+
+Indie.io - Terms of Service
+Last modified September 8, 2025
+
+​
+ 
+
+Overview
+​
+Hello, and welcome. Our products and services are provided by Freedom Games LLCs (the “Company”) or our corporate affiliates. This document is a legal agreement that sets out the terms and conditions (the “Terms”) between you and the Company, which you accept and agree to be bound by when you sign up for, download from, access, or otherwise use our websites or other services listed below or which reference these terms (individually a “Service”, and collectively the “Services”):
+
+ 
+
+https://freedom.gg
+https://wiki.gg
+https://indie.io
+
+https://indiepass.gg 
+Indie.io “Gamepass”
+
+
+By using any Service, you also accept and agree to be bound by applicable third party terms of service. For example, for Services that access or use Steam, the Google Play App Store, or the Apple App Store, you are subject to their respective terms of service.
+
+
+If you are using the Services on behalf of a company or other legal entity, you represent that you have the authority to bind such entity, its affiliates, and all users who access the Services through your account to these Terms. If you do not have such authority or if you do not agree to these Terms, you may not use the Services.
+
+
+Please note a Service may be additionally governed by supplemental terms or contracts with the Company which are specific to that Service, those additional terms become part of your agreement with us if you use those Services.
+
+ 
+
+Use or access of the Services by anyone under the age of 13 is strictly prohibited. If you are over 13, but still a minor or lack the legal capacity to enter into a contract where you live, you represent that you have obtained permission from your parent or legal guardian to use the Services, and your parent or legal guardian has agreed to be bound by these Terms on your behalf.
+
+​
+
+​
+
+Account Security
+
+In order to access some features or services of the Services, you will have to create an account. It is prohibited to use another user's account without their written permission.
+
+
+You alone are responsible for your account and anything that happens while your account is signed into or being used. You are responsible for keeping your account secure. Maintain strict confidentiality of your credentials and do not share your login details. You must notify the Company immediately of any breach of security or unauthorized use of your account. Although the Company will not be liable for your losses caused by any unauthorized use of your account, you may be liable for the losses of the Company or others due to such unauthorized use.
+
+ 
+
+ 
+
+Third-Party Websites and Services
+
+The Services may incorporate or contain links to third-party websites or services that are not owned or controlled by the Company. The Company assumes no responsibility for the content, policies, or practices of any third-party websites. By using the Services, you expressly relieve the Company from any and all liability arising from your use of any third-party website. The Company may modify or discontinue your use of, or access to, any third-party website, or any content or services available thereunder, at any time in its sole absolute discretion with or without notice to you.
+
+ 
+
+ 
+
+Usage Rights
+
+
+The Company grants you personal, worldwide, non-assignable, non-transferable, revocable, and non-exclusive permission to access and use the Services for personal, non-commercial purposes which is conditioned on your compliance with the Terms. All other rights are expressly excluded without the Company's prior written consent.
+
+
+The Company may offer to provide certain services or software, as described more fully on the Services, that have been selected by you, solely for your own use, and not for the benefit of any third party. The Company may change, suspend, or discontinue the Services at any time, including the availability of any feature, database, or content. The Company may also impose limits on certain features and services or restrict your access to parts or all of the Services without notice or liability.
+
+
+When a Service requires or includes downloadable software, this software may download and update automatically on your device once a new version or feature is available. Some software may let you adjust your automatic update settings.
+
+
+The Services are exclusively owned by the Company or its licensors (such as game developers); using the Services does not give you ownership of any accounts, intellectual property rights, or the content you access. You may not use content from our Services unless otherwise agreed in writing, as explicitly communicated on a Service by Company, or as otherwise permitted by law. These Terms do not grant you the right to use any branding or logos used in our Services.
+
+
+Our platform partners or other third parties may enable you to make purchases to access certain components of the Services (such as games, game content, or virtual goods). If you make such a purchase from a third party, that purchase is governed by the applicable third-party terms, including as related to refunds and disputes (but your access and use of the Services is still subject to these Terms of Service). 
+
+
+In connection with your use of the Services, the Company may send you service announcements, administrative messages, and other information. You may opt out of some of those communications.
+
+ 
+
+Purchases and Subscriptions
+
+​
+
+Purchases and Fees: The Services may allow you to purchase games, downloadable content (DLC), virtual goods, or other digital items, and may also offer subscription programs (such as our Gamepass subscription service) providing access to a library of games or content. You agree to pay all fees and applicable taxes for any purchases or subscriptions you elect to obtain. If a purchase is made through one of our platform partners or a third-party storefront (for example, an app store or game distribution platform), that transaction is governed by the third party’s terms (including their payment, refund, and dispute policies). However, your access to and use of any purchased content or subscription via our Services remains subject to these Terms of Service. All fees paid to the Company (or our authorized partners) are non-refundable, except as expressly provided in these Terms or required by applicable law.
+
+
+Subscriptions and Auto-Renewal: By enrolling in a subscription Service (for example, the Gamepass service), you authorize the Company (or its payment processor) to charge the subscription fee to your designated payment method automatically at the beginning of each subscription period (e.g. monthly or annually), until you cancel. Subscriptions renew automatically for successive periods under the same conditions. You may cancel a subscription at any time by following the instructions provided in the Services; cancellation will prevent future charges but will not result in a refund for the then-current subscription period (except as stated below). You are responsible for ensuring that your payment information (e.g. credit card, PayPal, or other payment method) is current and valid. If we are unable to process your payment, we may suspend or terminate your subscription at our discretion.
+
+
+Refunds and Service Discontinuation: Except as expressly stated in these Terms, the Company will not provide refunds or credits for any unused subscription period or purchased content. If the Company discontinues an ongoing subscription service in its entirety (for example, if we terminate the Gamepass program as a whole), or if we cancel your subscription without cause before the end of a period you have already paid for, we will provide you with a pro-rata refund of any pre-paid amounts corresponding to the remaining portion of your subscription term. No refunds are due if your account is terminated for a violation of these Terms or other misuse, as described elsewhere in these Terms of Service.
+
+
+Changes to Subscription Offerings: The Company reserves the right to modify the subscription services at any time. This means we may add, remove, or alter features, content, or offerings included in a subscription (including the specific games or titles available in a Gamepass library), and we may adjust the subscription fees or payment schedules for future billing periods. If we make a material change to the subscription fee or core features, we will provide you notice in accordance with applicable laws (for instance, by email or via the Services). If you do not agree to a materially increased fee or materially reduced core offering, you may cancel the subscription before the change takes effect; if you continue to use the subscription after the change, you will be deemed to have accepted the new terms and charges. The availability of any particular game or content in a subscription is not guaranteed for any minimum period, and individual titles may be added or removed from the service in the normal course of business. Removal of, or modifications to, specific content within a subscription will not entitle you to any refund, credit, or other compensation, as long as the overall subscription service remains available to you, except as required by law.
+
+
+Virtual Goods and In-Game Items: You acknowledge that any digital items, virtual currency, in-game content, or similar virtual goods you obtain through the Services (whether purchased outright or acquired via a subscription or gameplay) have no cash or real-world value. Such items are provided as part of the gameplay or Service experience and are licensed to you on a limited, revocable basis under these Terms. These virtual goods are not property, and you have no ownership or monetary interest in them; they are non-transferable and non-refundable (except as required by law). The Company may modify or remove virtual goods or alter their functionality as permitted by the games or Services, and such changes will not give rise to any liability or refund obligation on the Company’s part.
+
+
+Third-Party Game Content and EULAs: When you access or download a game through our Services (including games made available via a subscription like Gamepass), you understand that such games are developed and provided by independent third-party developers or publishers, not by the Company. Those third parties may require you to agree to their own end-user license agreement (EULA) or terms of use before or during gameplay. Any EULA or terms presented within a game are solely between you and the game’s provider (the developer or publisher). The Company is not a party to, and is not responsible for compliance with, any such third-party EULA. The developers and publishers of the games are solely responsible for the content, quality, functionality, and support of their respective games. Accordingly, the Company makes no warranties or representations regarding any third-party game content and shall not be liable for any claims or damages arising from the content or operation of those games. This includes, for example, any game defects, bugs, instability, infringement, offensive content, or other issues which are the responsibility of the game’s creator. You agree that your use of each game is at your own risk and governed by the applicable game EULA in addition to these Terms.
+
+
+Availability of Subscription Content: The catalog of games or content available through a subscription service (such as Gamepass) is expected to change over time. The Company reserves the right to add or remove games and other content in its sole discretion, for reasons including but not limited to licensing agreements, developer participation, performance considerations, or strategic decisions. No guarantee is made that any particular title or content will be available for any specific duration. You understand that you are subscribing to the overall Service, which provides access to a collection of content that may vary, rather than to any specific game. If a game is removed from the subscription catalog, it may no longer be accessible to you (unless you have an independent license to that game outside of the subscription), and such removal will not be considered a breach of these Terms. The Company will, where feasible, provide general notice of major removals or rotations of content, but is under no obligation to maintain any content in the service for a minimum time. Your subscription remains valid as long as the Service continues to provide you access to an evolving library of content. Aside from the pro-rata refund scenario described above (for a complete discontinuation of the subscription service), you will not be entitled to any refund or credit due to the removal, unavailability, or modification of particular games, titles, or features in the subscription catalog.
+
+
+Digital Rights Management (DRM): Some games or content accessible through the Services may include third-party digital rights management, anti-cheat, or anti-tamper technologies (“DRM”). These DRM systems are designed and implemented by the game developers or publishers (or their licensors) to protect intellectual property rights. You acknowledge that DRM may affect the performance or compatibility of games with certain hardware or software, and may require an active internet connection or periodic online verification. The Company does not guarantee the performance of any third-party DRM and disclaims liability for any issues arising from DRM. This includes, without limitation, any impact on your device’s functionality, any inability to access a game due to a DRM authentication failure or server outage, or any incompatibility between the DRM and your system. Any malfunction or fault of DRM-protected content will be addressed, if at all, by the third-party provider of that technology and/or the game’s developer, not by the Company.
+
+​
+
+Privacy, Content and Submissions
+
+
+Please note that in using the Services, you may be required to provide the Company with certain personal information which is subject to the Company’s Privacy Policy. Your use of the Services signifies that you have read, understand, and agree with the Privacy Policy.
+
+
+In the course of using the Services, you and other users may provide information or content which may be used by the Company and which may be visible to certain other users. You understand that by posting information or content on the Services or otherwise providing content, materials, or information to the Company or in connection with the Services (collectively, “User Submissions”), the Company hereby is and shall be granted a nonexclusive, worldwide, royalty free, perpetual, irrevocable, sub-licensable and transferable right to fully exploit such User Submissions (including all related intellectual property and proprietary rights) in connection with the Services and the Company’s (and its successors’ and assigns’) business, including without limitation for promoting the Services, running advertisements, and to reproduce, modify, or prepare derivative works of, display and perform, such User Submissions. For clarity, the foregoing license grant to the Company does not affect your ownership of the material in your User Submissions, unless otherwise agreed in writing.
+
+
+You understand that
+
+​
+
+all information publicly posted or privately transmitted through the Services is the sole responsibility of the person from which such content originated,
+
+ 
+
+the Company cannot guarantee the identity of any other users with whom you may interact in the course of using the Services,
+
+ 
+
+the Company cannot guarantee the authenticity of any data which users or merchants may provide about themselves. You acknowledge that all content accessed by you using the Services is at your own risk.
+
+ 
+
+ 
+
+Restrictions, Representations, and Your Warranties
+
+​
+
+You warrant, represent, and agree that your use of the Services and any content obtained or sent through the Services will comply with all applicable laws and these Terms. In particular, you will not:
+
+ 
+
+Infringe or violate any intellectual property, proprietary, publicity, privacy, or other rights of any third party;
+
+Violate any applicable terms of service, law, statute, ordinance, or regulation;
+
+Engage in harmful, fraudulent, deceptive, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, or otherwise objectionable conduct;
+
+Conduct commercial activities, sales, or solicitations without the Company’s prior written consent;
+
+Impersonate any person or entity;
+
+Introduce or facilitate any virus, Trojan horse, worm, time bomb, or other malicious code;
+
+use manual or automated software, devices, or other processes to “crawl,” “scrape,” or “spider” any part of the Services
+
+decompile, reverse engineer, or otherwise attempt to obtain the source code of the Services.
+
+ 
+
+You remain solely responsible for all User Submissions you provide in connection with the Services. The Company may remove any User Submissions at its discretion, for any reason or no reason.
+
+ 
+
+You are also responsible for all your activity in connection with the Services. Any fraudulent, abusive, or illegal activity may result in suspension or termination of your account. You may not post or transmit communications intended to harvest credentials or private information from other users. You may not use manual or automated means (e.g., crawling, scraping, spidering) to access the Services. You will not decompile, reverse engineer, decrypt, or disassemble any portion of the Services. You are responsible for all taxes, duties, and related filings associated with your activity.
+
+​
+
+You are responsible for all of your activity in connection with the Services. Any fraudulent, abusive, or otherwise illegal activity is expressly prohibited. Any such activity or any violation of these Terms or an applicable third party’s terms may result in suspension or termination of your account and your usage of the Services. You will be responsible for filing all tax returns and other related documents, and paying all taxes, duties and other governmental assessments associated with your activity in connection with the Services.
+
+ 
+
+ 
+
+Account Termination
+
+ 
+
+The Company may terminate your account and Service access without prior notice if you violate these Terms, any Service-specific terms, or moderation rules for any Service, or for any other reason. You may stop using the Services at any time, unless otherwise agreed in writing.
+
+ 
+
+ 
+
+Disclaimer of Warranties
+
+ 
+
+To the fullest extent permitted by applicable law, the Services (including all content available through the Services, such as third-party games, applications, DLC, and virtual items), as well as all software provided in connection with the Services, are offered on an “as is” and “as available” basis. The Company disclaims any and all warranties and representations, express, implied, or statutory, with respect to the Services and content. This disclaimer includes, without limitation, the implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement, as well as any warranties that the Services or content will be uninterrupted, error-free, secure, or continuously available, or that any specific content (including any particular game or feature) will remain available for access. You understand and agree that use of the Services and any content is at your own risk. No advice or information (oral or written) obtained from the Company or through the Services creates any warranty not expressly stated in these Terms.
+
+ 
+
+ 
+
+Indemnification
+
+ 
+
+You agree to  indemnify and hold the Company, its subsidiaries, affiliates, licensors, licensees (and sub-licensees), suppliers, or their respective officers, directors, employees, agents, successors, and assigns harmless (including, without limitation, from all damages, liabilities, settlements, losses, costs and attorney's' fees) from any claim, suit, action, lawsuit, proceeding, or demand made by any third party due to or arising out of your access to or use of the Services, your violation of these Terms, your User Submissions and related reproduction, publication, public display, or other use of User Submissions, or the infringement by you or any third party using your account of any intellectual property rights, proprietary rights, rights of publicity, or other right of any person or entity. This defense and indemnification obligation will survive these Terms and your use of the Services.
+
+ 
+
+ 
+
+Limitation of Liability
+
+ 
+
+To the maximum extent permitted by law, in no event shall the Company (including its subsidiaries, affiliates, licensors, and suppliers, and each of their officers, directors, employees, and agents) be liable for any matter arising out of or related to the Services or these Terms under any theory of liability (whether in contract, tort, negligence, strict liability, or otherwise), for:
+
+​
+
+any amount in the aggregate exceeding the greater of (i) One Hundred U.S. Dollars (USD $100) or (ii) the total fees actually paid by you to the Company for use of the Services in the twelve (12) months immediately prior to the event giving rise to liability;
+
+any indirect, incidental, special, exemplary, punitive, or consequential damages of any kind whatsoever, even if the Company has been advised of the possibility of such damages or if such damages were foreseeable;
+
+any unavailability of, or removal or modification of, any content or feature of the Services (including the removal, addition, or absence of any particular game or title in a subscription service), or for your inability to access or use the Services or any specific content at any time; or
+
+loss of goodwill, loss of data, lost profits, business interruption, or the cost of procuring substitute goods or services.
+
+​​
+
+In jurisdictions that do not allow the exclusion or limitation of certain damages, the above limitations shall apply to you only to the fullest extent permitted by applicable law.
+
+ 
+
+ 
+
+Integration of All Acts
+
+ 
+
+These Terms constitute the entire understanding between the Company and you relating to the Services and govern your use of the Services, completely superseding any prior or contemporaneous agreements between the Company and you regarding the Services.
+
+ 
+
+ 
+
+Governing Law, Arbitration, Language
+
+ 
+
+These Terms will be construed under, and governed by, the laws of the State of Alabama (“Governing Jurisdiction”) without regard to its principles of choice of law as if all transactions were conducted in the Governing Jurisdiction. You will attempt to settle any disputes related to these Terms through good-faith negotiations or arbitration. For any unsettled disputes related to these Terms, you agree that jurisdiction and venue for any legal proceedings arising from or in any way connected to these Terms will lie in the Governing Jurisdiction.
+
+ 
+
+These Terms were written in English (US). To the extent any translated version of these Terms conflicts with the English version, the English version controls.
+
+ 
+
+ 
+
+Assignment
+
+ 
+
+You may not assign any of your rights, licenses and obligations granted hereunder, but the Company may without restriction.
+
+ 
+
+ 
+
+Non-Waiver
+
+ 
+
+The Company’s failure to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision. No waiver, express or implied, of any breach of or default under these Terms will constitute a continuing waiver of such breach or default or be deemed to be a waiver of any preceding or subsequent breach or default.
+
+ 
+
+ 
+
+Severability
+
+ 
+
+If any provision of this Agreement is held to be invalid or unenforceable for any reason, such provision shall be reformed to the extent necessary to make it enforceable to the maximum extent permissible so as to affect the intent of the parties, and the remainder of this Agreement shall continue in full force and effect. If, however, it is determined that such provision cannot be reformed, then that provision shall be deemed severable from the other provisions and shall not affect the validity and enforceability of any remaining provisions.
+
+ 
+
+ 
+
+Updates and Revisions
+
+ 
+
+We’ll update our Terms from time to time to reflect changes in technology, law, our business operations, or any other reason we determine is necessary or appropriate. When we do make changes, we’ll update the “Last Modified” date at the top of the policy and post it to the Services, which you are expected to regularly visit. If we make material adverse changes to the policy or the ways we process private information, we’ll provide you additional notices as well (such as by prominently posting a notice of the changes on the Services before they take effect or sending you a notification directly). Continued use of the Services after any such changes shall constitute your consent to such changes.

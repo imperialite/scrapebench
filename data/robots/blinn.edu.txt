@@ -1,0 +1,17 @@
+#robots.txt file
+#Created 8/14/24
+#Raul Gonzalez
+
+
+# This file is to prevent the crawling and indexing of certain parts of our site by web crawlers and spiders run by sites like Google. By telling these "robots" where not to go on our site, we save bandwidth and server resources.
+
+# Ensure that this file is always at the root. This file will be ignored within any other directory.
+
+User-agent: *
+Crawl-delay: 10
+
+Sitemap: https://www.blinn.edu/sitemap.xml
+
+
+#Sections
+Disallow: /_demo/

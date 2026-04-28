@@ -1,0 +1,897 @@
+ERMS OF USE
+
+
+Welcome to HBO Max! We hope you enjoy our platform, which offers a personalized user experience with unique and unexpected stories. Our content ranges from the highest quality in scripted programming to the best in unscripted, family-friendly content, including HBO Originals, hit movies and more.
+
+
+FIRST, AN IMPORTANT MESSAGE: PLEASE READ THESE TERMS OF USE (“TERMS,” “TERMS OF USE” OR “AGREEMENT”) CAREFULLY, AS THEY AFFECT YOUR LEGAL RIGHTS AND OBLIGATIONS, INCLUDING, BUT NOT LIMITED TO, WAIVERS OF RIGHTS, LIMITATION OF LIABILITY AND YOUR INDEMNITY TO US. ALSO NOTE THAT, TO THE EXTENT PERMITTED BY APPLICABLE LAW, THESE TERMS REQUIRE THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN COURTS OR JURY TRIALS, AND LIMIT THE REMEDIES AVAILABLE IN THE EVENT OF A DISPUTE. 
+
+
+If any provision of these Terms is determined by a court to be unlawful, void or for any reason unenforceable, that provision is deemed severable from these Terms and shall not affect the validity and enforceability of any remaining provisions. 
+
+
+
+1.    ABOUT THESE TERMS
+
+
+These Terms, together with the additional conditions of your Subscription (as defined in Section 2.2), govern your use of the Platform (as defined in this Section) and constitute a legally binding agreement between you and the entity providing you with access to the Platform, as identified below, and which includes any such entity’s respective subsidiaries or affiliates (individually and collectively referred to herein as “HBO Max,” “us,” “we” or “our”). 
+
+
+If you are in the U.S. Service Area (as defined in Section 5.9) the entity is WarnerMedia Direct, LLC.
+If you are in the LATAM Service Area (as defined in Section 5.9) the entity is WarnerMedia Direct Latin America, LLC.
+If you are in the EMEA Service Area (as defined in Section 5.9) the entities are HBO Nordic AB, HBO Europe s.r.o., Discovery Communications Benelux B.V., or BluTV İleti̇şi̇M Ve Di̇ji̇tAl Yayin Hi̇zmetleri̇ A.Ş., as applicable.
+If you are in the APAC Service Area (as defined in Section 5.9) the entities are WarnerMedia Direct Asia Pacific, LLC or WarnerMedia Direct Australia Pty. Ltd, as applicable. 
+
+The programming, promotional materials and other content, including content available via One-Time Purchases (as defined in Section 2.2), available through the Platform are collectively referred to in these Terms as “Content.” This Content, along with all other elements of the HBO Max premium content streaming service (“HBO Max”), including its features, functionality, user interface, software, associated mobile applications, user communications, websites (such as https://HBOMax.com) and other technology platforms, are collectively referred to in these Terms as the “Platform.” The Platform provides you with access to the Content streamed over the internet to compatible devices. References to “you” and “your” in these Terms includes each person who visits, accesses or otherwise uses the Platform, including without limitation the person whose name is associated with an HBO Max Account (as defined in Section 2.2) (the “Account Holder”) and any person who accesses or otherwise uses the Platform through that HBO Max Account or otherwise, including without limitation any Authorized User (as defined in Section 2.2). Your access or use of the Platform confirms that you have read, understood and agreed to this Agreement on behalf of yourself and on behalf of any Authorized Users. Our Privacy Policy, which describes how we treat your personal information and how we communicate with you, is available at https://hbomax.com/privacy/en-us. Our Children’s Privacy Policy (available at https://hbomax.com/privacy/children/en-us) describes how we handle any personal information collected via a Kid’s Profile (as defined in Section 2.2).
+
+
+
+
+
+2.    SETTING UP YOUR HBO MAX ACCOUNT AND SUBSCRIPTION
+
+
+
+
+2.1.    WHO CAN SUBSCRIBE TO THE PLATFORM IN THE U.S. SERVICE AREA:
+
+
+To subscribe to the Platform in the U.S. Service Area, you must meet the following criteria (the “Eligibility Criteria”) : (a) reside within one of the fifty (50) states of the United States of America (“U.S.”), the District of Columbia or certain U.S. territories as set forth in Section 5.9; and (b) be at least eighteen (18) years old. If you are younger than eighteen (18) years old, you may use the Platform only as an Authorized User of a parent or legal guardian’s HBO Max Account (as defined in Section 2.2). 
+
+
+
+
+2.2.    CREATING YOUR HBO MAX ACCOUNT AND PURCHASING A SUBSCRIPTION OR MAKING A ONE-TIME PURCHASE:
+
+
+To access Content on HBO Max, you must have an HBO Max account (“HBO Max Account”), and you must have an active subscription plan (“Subscription”) with a valid payment method (“Payment Method”) either (a) directly through us or (b) through a third party (e.g., an app store or your internet, mobile or TV provider) that has been authorized to provide Subscriptions to the Platform (each, a “Third Party Provider”). As used in this Agreement, the term “Subscription Provider” refers to us and each Third Party Provider, individually and collectively.
+
+
+Steps to Create an HBO Max Account 
+
+
+If you purchase your Subscription directly through us, you will create your HBO Max Account at the same time you make your initial purchase. If you purchase your Subscription through a Third Party Provider, you may need to take additional steps to set up your HBO Max Account, including leaving your Third Party Provider’s platform to confirm your information with us. 
+
+Your Subscription will be automatically validated each time you sign in to the Platform. However, you will have to connect your Subscription to your HBO Max Account if you enter into a new Subscription with a different Subscription Provider. 
+
+
+The particular country or territory where you subscribe to HBO Max is known as your “Home Country.”
+
+
+Purchasing a Subscription Directly Through Us 
+
+
+You may purchase a Subscription directly through us. Either we or our authorized vendor(s) (the “Payment Service”) will process the Payment Method. You should direct any payment questions to HBO Max Customer Support as detailed in Section 3.7. After your original Subscription ends, it will automatically renew at the then-current applicable rate unless you cancel before the renewal. Renewal charges will be applied to the Payment Method associated with your HBO Max Account. By providing a Payment Method to us, you agree that we and/or our Payment Service are authorized to periodically charge the applicable rate together with any applicable taxes and service fees (collectively, the “Subscription Fee”) on a recurring basis until you duly cancel your Subscription. We and/or our Payment Service will attempt to verify the Payment Method you provide, and may do this by processing an authorization hold, which is a standard practice. If your Payment Method expires, and you do not either update your Payment Method or duly cancel your Subscription before it automatically renews, you authorize us and/or our Payment Service to continue billing, and you will remain responsible for any uncollected amounts. If a valid Payment Method is not activated on your HBO Max Account when a payment becomes due, we may restrict, suspend or cancel your Subscription due to lack of payment.
+
+
+Purchasing a Subscription Through a Third Party Provider
+
+
+If you purchase a Subscription through a Third Party Provider, your Third Party Provider will process your Payment Method and give you further details on how to sign in or create your HBO Max Account. If you have questions about payments through a Third Party Provider, contact that Third Party Provider directly. 
+
+
+Multiple Subscription Offerings and Plan Switching
+
+
+You may be offered multiple plan options, including base plans and add-ons to access the Platform. Your Subscription consists of your base plan and any add-ons. The availability, pricing and offers for Subscriptions to the Platform may vary by Subscription Provider and may change over time without notice (except as may be required by applicable law). Each Subscription option may offer different Content availability, functionality, features, usage rules, device compatibility or have certain conditions or limitations, which will be disclosed during your sign-up or in other materials available on the Platform. Subject to availability with your Subscription Provider, you may be able to change your Subscription from one plan to another. Additional terms applicable to the switching of a Subscription (such as the applicable charges and changes to billing dates) will be provided by your Subscription Provider. 
+
+
+One-Time Purchases
+
+
+From time to time, within your Home Country, we may offer you the ability to make one-time purchases, including pay-per-view events, or certain other Content that is not otherwise included within your Subscription (each, a “One-Time Purchase”). You will be charged at the time of purchase using the Payment Method for your Subscription or you may add another Payment Method to pay for a One-Time Purchase. One-Time Purchases are non-refundable. Unless otherwise specified at the time of purchase, a Subscription is required before you can make and view a One-Time Purchase, including any replays. If your subscription is canceled, paused, or otherwise terminated for any reason, you will lose access to the Content. Trial Subscriptions may not be eligible to make One-Time Purchases. Check Trial Subscription terms for details. ACCESS TO CERTAIN CONTENT ASSOCIATED WITH A ONE-TIME PURCHASE IS LICENSED, NOT SOLD TO YOU. Any use of the terms “own,” “ownership”, “purchase,” “sale,” “sold,” “sell,” “rent” or “buy” on the Platform or in materials related to the Platform or the Content associated with One-Time Purchases does not mean, imply or result in any transfer of ownership or intellectual property rights to you. Your One-Time Purchase provides a limited, revocable, non-transferable license to access solely the Content that is associated with the One-Time Purchase for personal, non-commercial purposes only, and only on the Platform, in accordance with these Terms.
+
+
+Authorized Users
+
+
+You will have the option to create up to five (5) authorized user profiles on your HBO Max Account for people who live with you (the people in your household) (each, an “Authorized User”). We reserve the right to increase or decrease the maximum number of Authorized Users allowed or that can simultaneously use the Platform. People who do not live with you, including family, need to sign up for their own HBO Max Account. Each Account Holder agrees not to allow any person outside of the Account Holder’s household to use the Account Holder’s HBO Max Account. By allowing members of your household to access your HBO Max Account, you acknowledge and agree to these Terms on behalf of such household members, and you represent and warrant that you have the power and authority to consent to these Terms on behalf of each household member, including minor children, who is an Authorized User or who otherwise accesses your HBO Max Account. The Account Holder is responsible for all users of the Account Holder’s HBO Max Account.
+
+
+If you are a parent or legal guardian and would like to make your minor child (users under eighteen (18) years old) an Authorized User, you can create a profile that includes ratings restrictions and additional privacy protections (“Kid’s Profile”) to help control what Content your minor child is allowed to view on the Platform. You are responsible for monitoring whether your minor child uses the Kid’s Profile. Review the Parental Controls information in Section 3.3 to learn how to customize the Content on your HBO Max Account for each Kid’s Profile. By allowing your minor child to access your HBO Max Account and/or by adding a Kid’s Profile, you represent and warrant that you are the parent or legal guardian of each minor child accessing the HBO Max Account and/or affiliated with the Kid’s Profile and that you have the authority to consent to this Agreement, for yourself and each Authorized User, including any Authorized User that is a minor child. 
+
+
+Your HBO Max Account will function as the “master account” for all Authorized Users. EACH AUTHORIZED USER’S VIEWING ACTIVITY, INCLUDING STREAMS BY TITLE, PARENTAL CONTROLS AND ANY CHANGES TO THE AUTHORIZED USER SETTINGS, MAY BE ACCESSIBLE TO THE ACCOUNT HOLDER AND TO EACH OF THE OTHER AUTHORIZED USERS. IT IS THE ACCOUNT HOLDER’S RESPONSIBILITY TO INFORM EACH AUTHORIZED USER OF THIS FEATURE.
+
+
+You are responsible for all activity by each Authorized User and for any other activity under your HBO Max Account, including the devices that are used to access the Platform. You are solely responsible for maintaining the confidentiality of your HBO Max Account email, password, Profile PIN (as defined in Section 3.3) and Parent Code (as defined in Section 3.3), as applicable. In addition, to prevent unauthorized access to your HBO Max Account or the Platform, you and each Authorized User must maintain control over the devices used to access the Platform. Do not permit any unauthorized user to access your HBO Max Account, and do not reveal your email, password or Payment Method to anyone. 
+
+
+
+
+2.3.    FREE TRIALS AND PROMOTIONAL OFFERS:
+
+
+Free Trials
+
+
+From time to time, Subscription Providers may offer you certain Subscriptions on the Platform on a free trial basis for a limited time (each, a “Trial Subscription”). The duration of each Trial Subscription will be specified at sign-up (each, a “Free Trial Period”). Trial Subscriptions are limited to new Platform subscribers, unless otherwise specified. Your status as a new subscriber to the Platform will be determined by your Subscription Provider in its discretion. These Terms apply to any Trial Subscription, unless otherwise specified.
+
+
+At the time of signing up for a Trial Subscription, you must provide a valid Payment Method to use the Platform during the Free Trial Period. Your Payment Method will not be charged during the Free Trial Period.
+
+UNLESS YOU TIMELY CANCEL YOUR TRIAL SUBSCRIPTION BEFORE THE END OF YOUR FREE TRIAL PERIOD, YOUR TRIAL SUBSCRIPTION WILL CONVERT TO A PAID SUBSCRIPTION AT THE END OF YOUR FREE TRIAL PERIOD, THE APPLICABLE SUBSCRIPTION FEE WILL BE CHARGED TO YOUR PAYMENT METHOD AND YOUR SUBSCRIPTION WILL AUTOMATICALLY RENEW ON A RECURRING BASIS AT THE THEN-CURRENT RATE UNLESS AND UNTIL YOU DULY CANCEL. YOU WILL NOT BE NOTIFIED THAT YOUR FREE TRIAL PERIOD IS ABOUT TO END UNLESS SUCH NOTICE IS REQUIRED BY APPLICABLE LAW. 
+
+If you are on a Trial Subscription directly through us, you can find additional details and the most accurate information about your Trial Subscription, including the Free Trial Period end date, by visiting the Subscription setting in your HBO Max Account. If you are on a Trial Subscription through a Third Party Provider, please contact that Third Party Provider directly.
+
+
+If a Subscription Provider offers you a Trial Subscription, the specific terms of the relevant trial will be disclosed during your sign-up or in other materials describing the trial. After your Trial Subscription ends, your Trial Subscription will convert to a paid Subscription, and the applicable Subscription Fee will be charged to your Payment Method unless you cancel before the trial period ends. You may not be notified that your Trial Subscription is about to end unless such notice is required by applicable law. 
+
+
+You agree not to register multiple times for the same Trial Subscription using multiple names, addresses, email addresses or other means.
+
+
+Promotional Offers
+
+
+From time to time, Subscription Providers may offer you certain Subscriptions at a discounted rate or in conjunction with a promotion (each, a “Promotional Offer”). The duration of Promotional Offer will be specified at sign-up (each, a “Promotional Period”). Promotional Offers may take various forms and may be available on a standalone basis or as part of a bundle with other products or services. Promotional Offers cannot be combined.
+
+
+In the event of a new or subsequent Promotional Offer after you sign up for the Platform, no retroactive refunds, adjustments or price protection will be applied to your Subscription Fee. New customers may take advantage of any “new customer” promotion only once. Other requirements for a Promotional Offer will be stated at the time of the Promotional Offer. Each Subscription Provider will determine Promotional Offer eligibility in its sole discretion, and reserves the right to limit the availability of, end or revoke a Promotional Offer in accordance with the published Promotional Offer terms. 
+
+
+UNLESS YOU TIMELY CANCEL YOUR SUBSCRIPTION BEFORE THE END OF YOUR PROMOTIONAL PERIOD, YOUR SUBSCRIPTION WILL CONVERT TO A FULL-PRICE SUBSCRIPTION AT THE END OF YOUR PROMOTIONAL PERIOD, THE APPLICABLE SUBSCRIPTION FEE WILL BE CHARGED TO YOUR PAYMENT METHOD AND YOUR SUBSCRIPTION WILL AUTOMATICALLY RENEW ON A RECURRING BASIS AT THE THEN-CURRENT RATE UNLESS AND UNTIL YOU DULY CANCEL. YOU WILL NOT BE NOTIFIED THAT YOUR PROMOTIONAL PERIOD IS ABOUT TO END UNLESS SUCH NOTICE IS REQUIRED BY APPLICABLE LAW.
+
+
+If you are on a Promotional Offer directly through us, you can find additional details and the most accurate information about your Promotional Offer, including the Promotional Period end date, by visiting the Subscription setting in your HBO Max Account. If you are on a Promotional Offer through a Third Party Provider, please contact that Third Party Provider directly.
+
+
+If a Subscription Provider offers you a Promotional Offer, the specific terms of the relevant offer will be disclosed during your sign-up or in other materials describing the offer. After your Promotional Offer period ends, your Promotional Offer will convert to a full-price Subscription, and the applicable Subscription Fee will be charged to your Payment Method unless you cancel before the Promotional Period ends. You may not be notified that your Promotional Period is about to end unless such notice is required by applicable law. 
+
+
+You agree not to register multiple times for the same Promotional Offer using multiple names, addresses, email addresses or other means. 
+
+
+
+
+2.4.    PAYMENT AND BILLING:
+
+
+Ongoing Subscription
+
+
+By creating an HBO Max Account with a Subscription Provider and providing the Subscription Provider with a Payment Method, you agree to pay the Subscription Provider a Subscription Fee. Subject to Section 2.3, the Subscription Provider will charge the first Subscription Fee to your Payment Method on the date the Subscription Provider confirms your Subscription purchase. After that, the Subscription Fee will be charged to your Payment Method by or on behalf of your Subscription Provider on a recurring basis according to your designated billing cycle, unless you cancel at least twenty-four (24) hours before your renewal date.
+
+
+Billing Cycle
+
+
+The Subscription Fee will be billed at the time you establish your Subscription and on an ongoing basis at the intervals specified when you complete your Subscription purchase, unless you cancel at least twenty-four (24) hours before your renewal date. Please note that the length of your billing cycle will vary based upon the Subscription plan you choose when you subscribe to the Platform. If you switch plans or obtain certain other offerings, such as add-ons, we may prorate your charges accordingly during the applicable billing period. In addition, in the event your Subscription includes a base plan and an add-on, we may consolidate such bills to reduce the number of separate charges you receive. Note that the timing of your billing may change in the event of a problem with your Payment Method (e.g., an expired credit card), in the event you change your Subscription plan or where you start your Subscription on a day not contained in a subsequent month. 
+
+
+If you subscribe through us, you can go to the Subscription setting in your HBO Max Account to see your next billing date. If you subscribe through a Third Party Provider, contact your Third Party Provider to see your next billing date. 
+
+
+Subscription Price Changes
+
+
+Your Subscription Provider may change the amount of the Subscription Fee and will communicate price changes to you in accordance with applicable law.
+
+
+Payment Method
+
+
+Each Subscription Provider may use a Payment Service to process your Payment Method. Depending on the Payment Method you use, your issuer may charge you certain taxes and fees, such as fees per transaction or other fees related to processing or attempting to process your Payment Method. You are solely responsible for any such taxes and fees. 
+
+
+If your Subscription is directly through us, sign in at https://auth.HBOMax.com/subscription and go to the Subscription setting in your HBO Max Account to update your Payment Method. If your Subscription is through a Third Party Provider, where available, you may be able to update your Payment Method by accessing your account with that Third Party Provider. A change in your Payment Method may result in changes to your prior billing cycle. It is your responsibility to update and maintain the Payment Method associated with your Subscription Fee. 
+
+
+If you are outside of your Home Country and would like to update your Payment Method, the new Payment Method must be a valid form of payment issued in, or otherwise authorized from within, your Home Country.
+
+
+Unpaid Amounts
+
+
+You are responsible for all charges incurred in connection with your Subscription.
+
+
+In the event your Payment Method on file with us fails to cover the Subscription Fee, we may suspend your access to the Platform until you update your Payment Method and pay your Subscription Fee. If your Subscription is with a Third Party Provider, and you have unpaid amounts, your Third Party Provider may take any action on your HBO Max Account based on the terms of your Subscription with that Third Party Provider. You may lose the benefit of any Promotional Offer in the event your Payment Method on file with us fails to cover the Subscription Fee. 
+
+
+In the event that your Payment Method on file with us is declined, we or the Payment Service may attempt to charge the Payment Method multiple times to prevent your Subscription from lapsing, and you hereby authorize us or the Payment Service to make such attempts. Your Subscription Provider also may pursue or permit the Payment Service or another third party to pursue any amounts you fail to pay in connection with your Subscription. If debit cards are accepted as a valid Payment Method and you use one as a Payment Method, the bank or other financial institution that issued the Payment Method may impose its own fee each time the Payment Method is declined. Any dispute over such fees should be addressed with the issuer of the Payment Method. Those fees are not charged by your Subscription Provider or the Payment Service, and neither your Subscription Provider nor the Payment Service is responsible for refunding those amounts.
+
+
+Except as specified in Section 5.4, you will remain liable for all amounts and all costs incurred to collect any unpaid amounts, such as bank overdraft fees, collection agency fees, reasonable attorney’s fees and arbitration costs. 
+
+
+Your Right to Cancel
+
+
+YOU CAN CANCEL YOUR SUBSCRIPTION AT ANY TIME AND YOU WILL CONTINUE TO HAVE ACCESS TO THE HBO MAX PLATFORM THROUGH THE END OF THE THEN-CURRENT BILLING PERIOD (I.E., THE SUBSCRIPTION PERIOD THAT HAS ALREADY BEEN PAID FOR). YOU MUST CANCEL YOUR SUBSCRIPTION BEFORE IT RENEWS IN ORDER TO AVOID BEING CHARGED FOR THE NEXT CYCLE’S SUBSCRIPTION FEE. If your Subscription is directly through us, you can find your billing date in your Subscription settings in your HBO Max account. If your Subscription is with a Third Party Provider, you will need to cancel your Subscription directly with that Third Party Provider. Visit the HBO Max Help Center available at https://help.hbomax.com for details. If you cancel your Subscription, the cancellation will become effective at the end of the then-current billing period, and you will continue to have access to your Subscription until the end of that period. If your Subscription is directly through us, you will need to cancel your Subscription through your HBO Max Account settings or go to https://auth.HBOMax.com/subscription and sign into your HBO Max Account. If you obtained your Subscription through a Third Party Provider, you will need to cancel your Subscription directly with that Third Party Provider in accordance with your agreement with that Third Party Provider. 
+
+
+No Refunds
+
+
+UNLESS REQUIRED BY APPLICABLE LAW, SUBSCRIPTION FEES ARE NON-REFUNDABLE. WE DO NOT PROVIDE REFUNDS, CREDIT, OR PRORATED BILLING FOR CANCELED SUBSCRIPTIONS. A Subscription Provider may choose to offer refunds, discounts or other consideration as a discretionary accommodation. However, each circumstance is unique and a Subscription Provider’s election to make such an offer in one instance does not create the obligation to do so in another.
+
+
+
+
+
+3. YOUR USE OF THE PLATFORM
+
+
+
+
+3.1.    SYSTEM AND COMPATIBILITY REQUIREMENTS:
+
+
+To use the Platform, you will need to use a computer, mobile device, streaming media player or other device that meets the Platform’s system and compatibility requirements (which we may update from time to time). Features and functionalities that we make available through the Platform may differ by device. Please check the requirements periodically, as we may change or stop support of any hardware or software platforms at any time. In order to access the Platform, you need a high-speed internet connection for your compatible device. You are responsible for any costs associated with your internet service. Your use of the Platform may count toward your data usage, depending on the terms of your agreement with your internet service provider. From time to time the Platform may be unavailable for any reason, including, without limitation: (a) equipment malfunctions; (b) our periodic maintenance procedures or repairs; or (c) causes beyond our control or that we cannot reasonably foresee. In addition, on a regular basis, we test various aspects of the Platform, including but not limited to Content offerings across Subscription plans, as well as features and functionality that may result in individualized variations to our offers, messaging and user interface.
+
+
+
+
+3.2.    CONTENT LIMITATIONS AND DOWNLOADS:
+
+
+Content Limitations 
+
+
+Access to Content on the Platform, including any One-Time Purchases, is licensed, not sold, to you. Your Subscription grants you a limited, revocable, non-transferrable license to access the Platform and the Platform’s Content solely for your personal, non-commercial use, and only on the Platform in accordance with these Terms. You may access the Platform only within the Service Area. Restrictions may be enforced according to the location from which you are accessing the Platform. We may use different technologies and verification methods to determine whether your use is within the Service Area. When you are accessing the Platform outside of your Home Country, the Content, Content Ratings, as well as other features and functionality of the Platform, may shift based on your location. 
+
+
+The Content available to you may also vary based upon your Subscription. In addition, the periods during which you can view each piece of Content will vary based on the rights available for each piece of Content and the terms of your Subscription. 
+
+
+The Content on the Platform (including the Content within each Subscription plan) will change regularly. This means certain series, films, sporting events and other Content may become available while other Content may become unavailable over the duration of your Subscription.
+
+
+We reserve the right to change the Content (including entire categories of Content) that is available on the Platform without notice. Additionally, you agree that for various reasons, such as restrictions from content licensors and other limitations or considerations from third parties, some Content may specify an access window in which you will be able to view the Content. The access windows will vary, so you should pay close attention to the description provided with the Content. DURING THE ACCESS WINDOW, YOU WILL BE ABLE TO VIEW MOST CONTENT AS MANY TIMES AS YOU WANT BUT ONCE THE ACCESS WINDOW FOR A PARTICULAR CONTENT ITEM ENDS, YOU WILL NO LONGER BE ABLE TO ACCESS THAT CONTENT. It is your responsibility to monitor the access window for each piece of Content you would like to view. We may disable access to any Content at any time, with or without notice, and regardless of the posted access windows or programming schedules. 
+
+
+We use various technologies to provide you with an optimal viewing experience. That said, the viewing quality of Content, including resolution and the time it takes to begin playing Content, may vary based on your Subscription plan, the format of the Content, your location, the speed and bandwidth of your internet or mobile data service and the capabilities of the devices used, among other factors. HD, Ultra HD and 4K Ultra HD availability, as well as Dolby Atmos audio, if and as applicable, for certain Content depends on your Subscription plan, internet service and device capabilities. Not all Subscription plans allow you to access Content in all formats, not all Content is available in all formats and not all Content within each Subscription Plan may be available at the highest video resolution or sound quality. 
+
+
+Additionally, not all Content will be available to all Authorized Users across all compatible devices. Access to certain Content may depend upon your Subscription plan, your geographic location (e.g., you will not be able to access certain Content outside your Home Country), whether you are able to maintain an internet connection, or sufficient bandwidth and the equipment used to access the Platform. Read the detailed description of each piece of Content to determine options for viewing that Content. While we do our best to keep the Content descriptions up to date, we do not guarantee that these descriptions will always be complete, current or accurate. We also do not guarantee the availability of any particular Content at any time. Content associated with One-Time Purchases may be rescheduled or canceled at any time. If this occurs, we will notify you on the Platform and, where applicable, directly (e.g., via email). If you are billed through us and the Content associated with a One-Time Purchase is: (a) rescheduled, you may request a refund for the amount paid or (b) canceled, we will refund the amount paid. If you are billed through a Third Party Provider, contact your Third Party Provider for billing and refund information. Additional details about One-Time Purchases, including your access period, and limitation on concurrent streams, can be found in the HBO Max Help Center available at https://help.HBOMax.com. Each One-Time Purchase is governed by a separate agreement that you enter into at the point of purchase and which ends automatically once your viewing period expires. This does not affect these Terms, including for any other Content or your Subscription to the Platform.
+
+
+Live Content Availability, Blackouts and Interruptions
+
+
+Live Content in the Service Area may be subject to blackouts, device-specific limitations or other restrictions. Blackouts may be applied based upon the city or region in which you are trying to access the Platform and we may use different technologies and methods to verify your location at the time of access to the Live Content. No matter which Subscription plan you select, live Content may contain advertising, sponsorships or other commercial interruptions. 
+
+
+Simultaneous Streams
+
+
+The number of permitted simultaneous streams available to you may vary by Subscription and Content type, including Content purchased via One-Time Purchases. We may control the maximum number of simultaneous streams per HBO Max Account regardless of the number of your devices or Authorized Users who can access the Platform. We may change the maximum number of simultaneous streams and/or impose limits on the number of devices that you may use on each Subscription plan at any time. 
+
+
+Downloads
+
+
+Certain Content on the Platform may be available for temporary download on certain supported devices and on certain Subscription plans in order to allow you to view that Content offline when you do not have a network connection (“Downloadable Content”). To download Content, make sure you have a network connection and sign in to the Platform on your mobile device (e.g., phone or tablet). Choose an episode or movie that you want to download and tap the “Download” icon. We may control the amount of Downloadable Content permissible for each HBO Max Account (across all Authorized Users and devices) and each Subscription Plan, and the expiration rules for each piece of Downloadable Content. In addition, within each Subscription plan certain Content categories (e.g., theatrical films) may be subject to additional download sub-limits. Visit our HBO Max Help Center available at https://help.HBOMax.com/downloads for additional details. The Platform will provide you with information specifying download limits and expiration rules. Once expired you may not be able to renew Downloadable Content while outside of your Home Country. You may not be able to view certain Downloadable Content that you download while in your Home Country when you are outside of your Home Country even though you are within the Service Area. 
+
+
+
+
+3.3.    CONTENT RATINGS/PARENTAL CONTROLS:
+
+
+THE PLATFORM OFFERS CONTENT THAT MAY NOT BE APPROPRIATE FOR ALL AGES OR VIEWERS. CONTENT TYPES, GENRES, CATEGORIES AND DESCRIPTIONS ARE PROVIDED AS SUGGESTIONS TO HELP WITH NAVIGATION. YOU MIGHT DISAGREE WITH HOW PARTICULAR CONTENT IS RATED, SOME CONTENT MAY NOT BE RATED AND/OR MAY CONTAIN STRONG OR PROFANE LANGUAGE, VIOLENCE, ALCOHOL, TOBACCO, DRUG OR SUBSTANCE ABUSE, NUDITY, SEXUAL CONTENT, MATURE THEMES AND/OR MATURE CONTENT INTENDED ONLY FOR ADULTS OR THOSE UNDER SUPERVISION OF ADULTS. Content tends to elicit varying reactions among different people. As is true for many websites and content platforms, you may come across Content that you find objectionable or that you believe may be inappropriate for certain members of your family. By accessing the Content, you acknowledge and accept these risks. 
+
+
+You Control What Content You and Your Family Can Access
+
+
+The Platform allows you to customize your settings to control what Content you and your family are able to access (“Parental Controls”). If you want to restrict Content, you may create and manage a Kid’s Profile. You can set Parental Controls when setting up each Kid’s Profile for the first time and you may change settings by going to the Manage Profiles setting of your HBO Max Account. This will enable you to establish and manage Parental Controls settings for each Kid’s Profile connected to your HBO Max Account. Parental Controls in a Kid’s Profile allow you to: (a) set a maximum rating for each Kid’s Profile and is designed to filter out non-rated Content; and (b) create and manage a code (“Parent Code”), which, when enabled, must be entered in order to exit that Kid’s Profile.
+
+
+In addition to a Parent Code, you may set an additional Parental Control by creating and managing a pin for any Authorized User profile that is not a Kid’s Profile (“Profile PIN”). When enabled, the Profile PIN must be entered in order to access that Authorized User profile. 
+
+
+Please note that changes made to Parental Controls may not take effect immediately, and during some periods there could be a delay before your new settings become effective. 
+
+
+We do not guarantee that any movie or television ratings are accurate. The Parental Controls and privacy protections that attach to those controls may not always be effective in restricting Content that you or any Authorized User consider objectionable. This may happen if: (a) you do not create a Kid’s Profile for any minor child; (b) you do not enable a Parent Code or Profile PIN; (c) you disagree with the Content rating or age classification; (d) changes made to Parental Controls are delayed or do not take effective immediately; (e) an Authorized User of a Kid’s Profile has access to the Profile PIN to view Content from another Authorized User with no or different Parental Control settings; or (f) the user of a Kid’s Profile has access to the Parent Code to change the Parental Control settings. If you choose to access or view, or allow an Authorized User to access or view, any general audience, adult or mature Content on the Platform, you acknowledge that you or they may be exposed to Content that may include nudity, sexual activity, violence, adult language, alcohol, tobacco, drug or substance use, or material otherwise graphic or potentially offensive in nature. You are solely responsible for monitoring and supervising all use of your HBO Max Account, including those of each Authorized User. 
+
+
+
+
+3.4.    ADVERTISEMENTS ON THE PLATFORM AND PROMOTIONAL CONTENT:
+
+
+Certain Content within the Platform regardless of Subscription plan may be ad-supported which means that it contains advertising, sponsorships or other commercial interruptions, and that Content may change from time to time. This includes Content within Subscription plans described as ad-free or containing no ads and may be for reasons such as where our rights require certain Content to stream with advertising or where advertisements are served in live or linear content. Please navigate to our HBO Max Help Center available at https://help.HBOMax.com for additional information on advertising supported Content. We do not endorse any third-party advertiser, product or service featured on the Platform nor do we take any responsibility for any such third-party advertiser, product or service. Any interactions you may have with an advertiser as a result of using the Platform will be between you and such advertiser. If you engage in any transaction with an advertiser featured on the Platform, including providing that advertiser with any personal information, you agree that we are not responsible for such transaction or provision of personal information, and you further agree that we are not liable for any claim or loss that may result from your engagement with any advertiser. Separately, all Subscription plans on the Platform may contain promotional content, including but not limited to trailers, extras, and previews about Content on or coming to HBO Max (including theatrical releases and messaging informing you of upgrade opportunities to view Content mastered in a higher visual or audio format). In addition, from time to time, all Subscription plans on the Platform may contain promotional messaging about content or services distributed by our parent, subsidiary or affiliated entities or that relate to HBO Max Content but are available outside the Platform (including but not limited to events, experiences, companion podcasts and companion video games).
+
+
+
+
+3.5. SERVICE UPDATES AND OTHER PLATFORM UPDATES:
+
+
+Service Updates
+
+
+At various times, we may choose to make available updates, bug fixes or other changes or enhancements to the Platform (collectively, “Service Updates”). By subscribing to the Platform, you consent to receive all Service Updates without further notice. Service Updates may be:
+
+
+(a) Automatic, such as in connection with general website changes and additional features or updates to data required by the Platform; 
+
+
+(b) At your election, in which case you will receive information and instructions for how to authorize optional Service Updates; or
+
+
+(c) Mandatory, in which case you will be required to consent to the Service Update or install or upgrade a third-party plug-in to maintain access to the Platform.
+
+
+Please note that the Platform may be unavailable during a Service Update.
+
+
+Platform Updates
+
+
+We may regularly make updates and changes to the Platform for various reasons, including but not limited to the following to: (i) alter the structure, design or layout of the Platform or any Subscription plan, including changing the name of the Platform, Subscription plans or re-branding, or amending, improving, expanding and/or removing the features and functionalities available on the Platform or as part of a specific Subscription plan; (ii) modify the list of compatible devices and software (including to remove support for the Platform on certain older device types, models, operating systems or categories that are no longer compatible); (iii) maintain the operability of the Platform; (iv) improve security and anti-piracy parameters; or (v) ensure compliance with applicable laws.
+
+
+
+
+3.6.    SUSPENSION AND TERMINATION:
+
+
+Any Subscription Provider may suspend or terminate your Subscription and access to the Platform and/or your HBO Max Account immediately for any reason or for no reason whatsoever, including if any Subscription Provider reasonably determines that you have provided inaccurate account or payment details, you no longer meet the Eligibility Criteria or otherwise violate the Terms. We may also block or modify access or disable features, including for security reasons, to limit the impact of account sharing outside of your household or where we have determined in our discretion that there has been misuse of your HBO Max Account. If suspended or terminated, you must stop using the Platform. If a Subscription Provider suspends or terminates your Subscription and/or access to all or any part of the Platform, you agree not to create another HBO Max Account or attempt to access the Platform without permission. Any Subscription Provider reserves the right to block such attempts.
+
+
+
+
+3.7. CUSTOMER SUPPORT:
+
+
+For Customer Support inquiries related to the Platform or your Subscription directly through us (including your Subscription Fee and Payment Method), visit our HBO Max Help Center available at https://help.HBOMax.com. 
+
+If you are accessing the Platform from the U.S. Service Area and are unable to resolve your question by visiting our HBO Max Help Center available at https://help.HBOMax.com or if you have reason to believe that your HBO Max Account credentials have been compromised or otherwise misappropriated, contact HBO Max Customer Support at 1-855-442-6629 or send us an email at support@HBOMax.com. 
+If you are accessing the Platform from the LATAM Service Area and are unable to resolve your question by visiting our HBO Max Help Center available at https://help.HBOMax.com or if you have reason to believe that your HBO Max Account credentials have been compromised or otherwise misappropriated, contact HBO Max Customer Support available at https://help.HBOMax.com or send us an email at soporte@HBOMax.com (Spanish), suporte@HBOMax.com (Portuguese), or supportca@HBOMax.com (English – Caribbean).
+If you are accessing the Platform from the EMEA Service Area and are unable to resolve your question by visiting our HBO Max Help Center available at https://help.HBOMax.com or if you have reason to believe that your HBO Max Account credentials have been compromised or otherwise misappropriated, contact HBO Max Customer Support available at https://help.HBOMax.com. 
+If you are accessing the Platform from the APAC Service Area and are unable to resolve your question with the links provided above or if you have reason to believe that your HBO Max Account credentials have been compromised or otherwise misappropriated, contact HBO Max Customer Support available at https://help.HBOMax.com or send us an email at help.au@HBOMax.com (Australia), help.hk@HBOMax.com (Hong Kong), help.id@HBOMax.com (Indonesia), help.my@HBOMax.com (Malaysia), help.ph@HBOMax.com (Philippines), help.sg@HBOMax.com (Singapore), help.th@max.com (Thailand) or help.tw@max.com (Taiwan).
+
+For Customer Support related to your Subscription billed through a Third Party Provider (including your Subscription Fee and Payment Method) or other matters relating to billing through your Third Party Provider, contact your Third Party Provider directly.
+
+
+
+
+3.8.    ACCESSIBILITY:
+
+
+For information about accessibility please visit our Accessibility Statement available at https://wbd.com/accessibility-statement. If you have questions or concerns about the accessibility of HBO Max, please visit our HBO Max Help Center available at https://help.HBOMax.com or email us at accessibility@HBOMax.com. Please be sure to specify the nature of the concern in your message, and we will review your inquiry.
+
+
+Captioning 
+
+
+For questions, concerns or complaints regarding the captioning of video programming on HBO Max please contact:
+
+
+Arthur Woo
+
+WarnerMedia Direct, LLC
+
+230 Park Avenue South 
+
+New York, NY 10003
+
+
+Email: accessibility@HBOMax.com 
+
+Phone: 1-833-927-7829
+
+
+To better assist us in addressing your inquiries regarding captioning on HBO Max, please include the following information with your submission:
+
+Your full name, address, telephone number, email address;
+The name of the program with the captioning issue;
+The platform or device used to view the program;
+A description of the captioning concern; and 
+Your preferred method of receiving a response to your inquiry (e.g., email, first class mail, etc.).
+Please include “Online Captioning Concern” in the subject line of your written communication.
+
+
+
+
+3.9.    FEEDBACK, SUBMISSIONS, PHOTO UPLOAD AND POSTINGS:
+
+
+Feedback
+
+
+Portions of the Platform may invite you to provide us with feedback, comments or other information (“Feedback”). We welcome your Feedback, as it helps us to make the Platform an even better product for you and all of our subscribers. By submitting Feedback, you agree that we are free to use the Feedback to improve the Platform or for any other purpose permitted by applicable law. 
+
+
+Unsolicited Submissions
+
+
+We do not accept unsolicited submissions of concepts, creative ideas, suggestions, stories or other potential content. This is to avoid the possibility of a future misunderstanding when projects developed by our staff or agencies might seem to others to be similar to the submitted concepts, creative ideas, suggestions, stories or other potential content. Therefore, please do not send us any unsolicited submissions. If you do, please be aware that no material you send to us will be accepted or considered and will not be treated as confidential. You hereby waive any claim you may have (including without limitation any claim for compensation, intellectual property infringement, idea theft, plagiarism, misappropriation or similar claims) against us in connection with any unsolicited submission. Without limiting the foregoing, you expressly waive any right you may have to seek or obtain injunctive relief to prevent the development, execution or release of any project or materials based on or allegedly based on the unsolicited submission.
+
+
+Photo Upload and Postings
+
+
+If the Platform provides you or other users an opportunity to upload photos, ratings, videos or post and exchange information, content, ideas and opinions (collectively, “Postings”), be advised that we shall have the right, but not the obligation to you, to screen and monitor Postings and may decide to remove or edit any Postings, which we consider to be offensive or otherwise in breach of this Agreement, prior to their appearance on the Platform or elsewhere. Postings do not reflect the views of HBO Max, and we disclaim all responsibility and liability arising from the Postings. 
+
+
+You represent that: (a) you have all necessary rights in all Postings you provide and all material, content and information they contain and that your Postings shall not violate or infringe upon any proprietary right, intellectual property right or other rights of third parties; (b) you will not upload or post any nudity, obscene materials, hate speech or other objectionable, offensive, illegal or otherwise harmful materials to the Platform; and (c) you will not upload or post any sensitive or confidential personal data as part of the Postings.
+
+
+
+
+3.10. OUR COMMUNICATIONS TO YOU:
+
+
+By using the Platform, you acknowledge that your Subscription Provider can send you emails, text messages, in-app notifications, push notifications or other electronic service communications about your HBO Max Account. To the extent permitted by applicable law, you also consent to receive electronic promotional messages, offers, surveys and other materials. You understand that texts, calls or prerecorded messages may be generated by automatic telephone dialing systems. Agreeing to receive these promotional texts is not a condition for purchasing any goods or services. If at any time you no longer want to receive promotional communications, you can opt out by either:
+
+
+Unsubscribing by clicking on the link at the bottom of the electronic communication; 
+For text messages, by responding “STOP”; or 
+Signing into the Platform and updating your “Notifications” preferences in “Settings.” Changes made to your Notifications settings may not take effect immediately, and there could be a delay before your new settings become effective.
+
+
+
+4. COPYRIGHTS AND TRADEMARKS
+
+
+
+
+4.1.    COPYRIGHTS AND TRADEMARKS:
+
+
+The Platform, and all materials incorporated into the Platform are protected by copyrights, patents, trademarks, trade secrets or other legal rights. The copyright holders have licensed this Content for private use only and not for public or commercial exhibition. This means that you may not: (a) show any Content to any public audience or view it in a public location or (b) attempt to circumvent, avoid, bypass, remove, deactivate, impair or otherwise defeat any encryption, rights signaling or copy protection technology for the Content. Unauthorized copying, editing, exhibition, broadcast or distribution of a copyrighted program can result in severe criminal and civil penalties under U.S. or any other applicable laws.
+
+
+Some of the characters, logos or other images on the Platform are also protected as our registered or unregistered trademarks, trade names and/or service marks (“Trademarks”). All other trademarks are the property of their respective owners. Use of our Trademarks or of anyone else’s trademarks is not authorized other than as incorporated into the Platform. 
+
+
+We may gather data on Platform usage and other information to ensure that the Platform is being used in accordance with this Agreement. You agree not to block this transmission of data. If you do so, it will be considered a violation of this Agreement and may result in immediate termination of your Subscription.
+
+
+
+
+4.2.    COPYRIGHT NOTICE: 
+
+
+If you believe that any Content on the Platform infringes your copyright under the laws of the Service Area, submit the following information to our designated Copyright Agent:
+
+
+Your full name, address, telephone number, and email address;
+A description of the copyrighted work that you believe has been infringed;
+The exact URL or a detailed description of where the allegedly infringing material is located;
+A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent or the law;
+An electronic or physical signature of the person authorized to act on behalf of the copyright owner; and
+A statement by you that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.
+
+Copyright Agent
+
+WarnerMedia Direct, LLC
+
+230 Park Ave South
+
+New York, NY 10003
+
+Attn: Legal Department/Copyright Agent
+
+
+Email: copyrightviolations@HBOMax.com
+
+
+
+
+4.3.    RESTRICTIONS ON USE OF THE PLATFORM:
+
+
+Please be aware that it is copyright infringement to make an unauthorized copy of any element or any portion of the Platform, including the Content or underlying software.
+
+
+You are only authorized to access and display Content on the Platform in the Service Area for your non-commercial, personal, entertainment use on compatible devices while your Subscription remains active and in good standing and only as permitted in this Agreement. 
+
+
+You may not: 
+
+
+copy, reproduce, distribute, transfer, sell, license, publish, enter into a database, display, perform publicly, modify, create derivative works, upload, edit, post, link to, frame, transmit, rent, lease, lend or sublicense or in any way exploit any part of the Platform, or attempt to interfere with the operation of the Platform; 
+use any data mining, robots, virus, worms, bugs or other data gathering, scraping and extraction tools on the Platform, or frame any portion of the Platform, or attempt to tamper, hack, corrupt or impair the administration and/or security of the Platform; 
+copy, data mine, scrape or in any way extract any Content or data for the purpose of training any artificial intelligence algorithm, system, model or tool or any large language or machine learning model or any similar technology; 
+use the Content files or other elements of the Platform to construct any kind of database; 
+reverse engineer, copy, decompile, disassemble, derive the source code of, modify, adapt, capture, reproduce, publicly display, publicly perform, transfer, sell, license, create derivative works from or based upon, republish, upload, edit, post, transmit, distribute, exploit, circumvent or otherwise translate, in whole or in part, the Platform or any Content or attempt, or encourage or assist any other person, to take any of the above action; or
+circumvent, disable, or otherwise tamper with any security technology protecting any Content, system resources, accounts or any other part of the Platform or to attempt or assist another person to do so. It is prohibited to use or distribute tools designed for compromising security (e.g., password guessing programs, cracking tools or network probing tools).
+
+If we authorize you to copy any part of the Platform, this authorization is limited to viewing a single copy for non-commercial, personal, entertainment use only, and requires you to keep intact all copyright, trademark and other proprietary notices. Using any material on any other service or networked computer environment is prohibited. 
+
+
+
+
+5.    ADDITIONAL LEGAL TERMS
+
+
+To the fullest extent permitted by applicable law, the following additional legal terms apply:
+
+
+
+
+5.1.    DISCLAIMER OF WARRANTIES:
+
+
+THE PLATFORM IS PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, CONTENT AVAILABILITY AND VIEWING QUALITY AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE PLATFORM WILL BE AVAILABLE, UNINTERRUPTED OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED OR THAT THE PLATFORM OR THE SERVERS THAT MAKE IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. ADDITIONALLY, NO SUBSCRIPTION PROVIDER SHALL BE LIABLE FOR ANY LOSS OR DAMAGE ARISING FROM THE USE OR MISUSE OF YOUR HBO MAX ACCOUNT.
+
+
+
+
+5.2.    LIMITATION OF LIABILITY AND TIME LIMITATION FOR CLAIMS:
+
+
+Limitation of Liability
+
+
+YOU AGREE THAT HBO MAX AND OUR PARENT, SUBSIDIARY AND AFFILIATED ENTITIES, THIRD PARTY PROVIDERS, DISTRIBUTORS, SUPPLIERS, LICENSORS AND ASSIGNS, AND EACH OF THEIR RESPECTIVE EMPLOYEES, OFFICERS, MEMBERS AND DIRECTORS (COLLECTIVELY, THE “RELEASED PARTIES”) ARE NOT LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY OR PUNITIVE DAMAGES OF ANY KIND, INCLUDING FOR ANY LOST PROFITS OR LOST DATA ARISING OUT OF OR IN CONNECTION WITH THE PLATFORM (COLLECTIVELY, THE “RELEASED MATTERS”). THE RELEASED PARTIES’ LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID, IF ANY, BY YOU, SOLELY FOR THE HBO MAX PLATFORM DURING THE TWELVE (12) MONTHS PRIOR TO THE CLAIM. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF SOME TYPES OF DAMAGES. THE ABOVE EXCLUSIONS WILL APPLY ONLY TO THE EXTENT PERMITTED BY APPLICABLE LAW. YOU AGREE THAT ANY DAMAGES YOU INCUR ARISING OUT OF THIS AGREEMENT ARE NOT IRREPARABLE AND ARE INSUFFICIENT TO ENTITLE YOU TO AN INJUNCTION OR OTHER EQUITABLE RELIEF RESTRICTING THE AVAILABILITY OF, OR ANY PERSON’S ABILITY TO ACCESS, ANY PORTION OF THE PLATFORM.
+
+
+Time Limitations for Claims
+
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, ANY CLAIM RELATING IN ANY WAY TO THE PLATFORM OR THIS AGREEMENT MUST BE COMMENCED WITHIN ONE (1) YEAR OF THE EVENTS FIRST GIVING RISE TO THE CLAIM. IF NOT COMMENCED WITHIN THIS ONE (1) YEAR PERIOD, YOU AND WE ARE EACH PERMANENTLY BARRED FROM PURSUING THAT CLAIM. 
+
+
+
+
+5.3.    INDEMNITY:
+
+
+You agree to indemnify and hold harmless the Subscription Provider(s) and their respective parents, subsidiaries, affiliates, partners, agents and licensors, and the officers, directors, employees, members and shareholders of all of the foregoing (collectively, the “Indemnified Parties”), from and against all third party claims, losses, expenses, damages and costs, including reasonable attorney’s fees, resulting from your actual or alleged breach of this Agreement. 
+
+
+You will cooperate as fully and as reasonably required in our defense of any claim. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, and you shall not in any event settle any such matter without our written consent. 
+
+
+
+
+5.4.    DISPUTE RESOLUTION:
+
+
+We endeavor to resolve subscriber concerns as quickly as possible. Please contact HBO Max Customer Support as described in Section 3.7. 
+
+
+In the unlikely event that you are not satisfied with HBO Max Customer Support’s solution and you and we are unable to resolve a dispute through the Informal Dispute Resolution Procedures below, we each agree to resolve the dispute through binding arbitration or small claims court instead of in courts of general jurisdiction. 
+
+
+Arbitration is more informal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, allows for more limited discovery than in court, and is subject to very limited review by courts. Unless expressly limited by this arbitration provision, arbitrators can award the same damages and relief that a court can award. Any arbitration under this Agreement will take place on an individual basis; class arbitrations and class actions are not permitted. In arbitration you may be entitled to recover attorneys’ fees from us to the same extent as you would be in court.
+
+
+ARBITRATION AGREEMENT 
+
+
+(a) Claims Subject to Arbitration: To the fullest extent permitted by applicable law, HBO Max and you agree to arbitrate all disputes and claims between us, except for claims arising from bodily injury or that pertain to enforcing, protecting or the validity of your or our intellectual property rights (or the intellectual property rights of any of our licensors, affiliates and partners). This Arbitration Agreement is intended to be broadly interpreted. It includes, but is not limited to:
+
+claims arising out of or relating to any aspect of the relationship between us, whether based in contract, tort, fraud, misrepresentation or any other statutory or common-law legal theory;
+claims that arose before this or any prior Agreement (including, but not limited to, claims relating to advertising);
+claims for mental or emotional distress or injury not arising out of physical bodily injury;
+claims that are currently the subject of purported class action litigation in which you are not a member of a certified class; and
+claims that may arise after the termination of this Agreement.
+
+References to “HBO Max,” “you,” “we” and “us” in this Arbitration Agreement include our respective predecessors in interest, successors and assigns, as well as our respective past, present and future parents, subsidiaries and affiliates (including Warner Bros. Discovery, Inc. and its affiliates); those entities and our respective agents, employees, licensees, licensors and providers of Content as of the time your or our claim arises; and all authorized or unauthorized users or beneficiaries of the Platform under this or prior Agreements between us. Notwithstanding the foregoing, either party may elect to have claims heard in small claims court seeking only individualized relief, so long as the action is not removed or appealed to a court of general jurisdiction. This Arbitration Agreement does not preclude you from bringing issues to the attention of federal, state, or local agencies. You agree that, by entering into this Agreement, you and we are each waiving the right to a trial by jury or to participate in a class action and to a trial by jury to the fullest extent permitted by applicable law. This Agreement evidences a transaction in interstate commerce, and thus the Federal Arbitration Act (9 U.S.C. §§ 1-16) governs the interpretation and enforcement of this arbitration provision. This Arbitration Agreement shall survive termination of your subscription or this Agreement. 
+
+
+(b) Mandatory Pre-Arbitration Notice and Informal Dispute Resolution Procedures: You and we agree that good-faith, informal efforts to resolve disputes often can result in a prompt, cost-effective, and mutually beneficial outcome. Therefore, a party who intends to initiate arbitration or file a claim in small claims court must first send to the other a written Notice of Dispute (“Notice”). A Notice from you to HBO Max must be emailed to notice@wbd.com (“Notice Address”). A Notice to you by HBO Max must be sent to the email address associated with your HBO Max subscription. Any Notice must include (i) the claimant’s name, address, and email address; and (if different) the email address associated with the relevant HBO Max subscription; (ii) if you are submitting the Notice, how and when you became a subscriber, your subscription history, and current subscription status; (iii) a description of the nature and basis of the claim or dispute, including any relevant facts, and if you are submitting the Notice, facts pertaining to your use of HBO Max and the platform(s) on which you watch it (e.g., via connected TV, iPhone, desktop); (iv) a description of the nature and basis of the specific relief sought, including the damages sought, if any, and a detailed calculation for them; (v) a personally signed statement from the claimant (and not their counsel) verifying the accuracy of the contents of the Notice; and (vi) if you are the claimant and are represented by counsel, your signed statement authorizing HBO Max to disclose your HBO Max Account details to your attorney while seeking to resolve your claim. The Notice must be individualized, meaning it can only concern only your dispute and no other person’s dispute. 
+
+
+After receipt of a completed Notice, the parties shall engage in a good faith effort to resolve the dispute for a period of 60 days (which can be extended by agreement). You and we agree that, after receipt of the completed Notice, the recipient may request an individualized telephone or video settlement conference (which can be held after the 60-day period) and both parties will personally attend (with counsel, if represented). You and we agree that the parties (and counsel, if represented) shall work cooperatively to schedule the conference at the earliest mutually convenient time and to seek to reach a resolution. If we and you do not reach an agreement to resolve the issues identified in the Notice within 60 days after the completed Notice is received (or a longer time if agreed to by the parties), you or we may commence an arbitration proceeding or a small claims court proceeding (if permitted by small claims court rules). 
+
+
+Compliance with this Mandatory Pre-Arbitration Notice and Informal Dispute Resolution Procedures section is a condition precedent to initiating arbitration. Any applicable limitations period (including statute of limitations) and any filing fee deadlines shall be tolled while the parties engage in the informal dispute resolution procedures set forth in this Subsection 5.4(b). All of the Mandatory Pre-Arbitration Notice and Informal Dispute Resolution Procedures are essential so that you and HBO Max have a meaningful opportunity to resolve disputes informally. If any aspect of these requirements has not been met, a court of competent jurisdiction may enjoin the filing or prosecution of an arbitration. In addition, unless prohibited by law, the arbitration administrator may not accept, administer, assess or demand fees in connection with an arbitration that has been initiated without completion of the Notice and Informal Dispute Resolution Procedures. If the arbitration is already pending, it shall be administratively closed. Nothing in this paragraph limits the right of a party to seek damages for non-compliance with these Procedures in arbitration.
+
+
+(c) Arbitration Procedure: The arbitration will be governed by applicable rules of National Arbitration & Mediation (“NAM”) (including the Comprehensive Dispute Resolution Rules and Procedures and/or the Supplemental Rules for Mass Arbitration Filings, as applicable) (“NAM Rules”), as modified by this Arbitration Agreement, and will be administered by the NAM. (If the NAM is unavailable or unwilling to do so, another arbitration provider shall be selected by the parties that will do so, or if the parties are unable to agree on an alternative administrator, by the court pursuant to 9 U.S.C. § 5.) The NAM Rules are available online at https://namadr.com/ by calling NAM at 1-800-358-2550, or by requesting them in writing at the Notice Address. You may obtain a form to initiate arbitration at: https://namadr.com/content/uploads/2020/09/Comprehensive-Demand-for-Arb-revised-9.18.19.pdf or by contacting NAM. 
+
+
+
+You and we agree as otherwise expressly provided herein and except as to the party initiating arbitration must submit a certification that they have complied with and completed the Notice and Informal Dispute Resolution requirements referenced in Subsection 5.4(b) and that they are a party to the Arbitration Agreement enclosed with or attached to the demand for arbitration. The demand for arbitration and certification must be personally signed by the party initiating arbitration (and their counsel, if represented). 
+
+
+All issues are for the arbitrator to decide, except that issues relating to the scope and enforceability of the Arbitration Agreement or whether a dispute can or must be brought in arbitration (including whether a dispute is subject to this Arbitration Agreement or a previous arbitration provision between you and HBO Max), which are for a court of competent jurisdiction to decide. The arbitrator may consider but shall not be bound by rulings in other arbitrations involving different customers. 
+
+
+Unless we and you agree otherwise, or the applicable NAM Rules dictate otherwise, any arbitration hearings will take place in the county (or parish) of your billing address and you and an HBO Max representative will be required to attend in person. At the conclusion of the arbitration proceeding, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the award is based.
+
+
+The arbitrator’s decision is binding only between you and HBO Max and will not have any preclusive effect in another arbitration or proceeding that involves a different party. An arbitrator’s award that has been fully satisfied shall not be entered in any court. 
+
+
+As in court, you and HBO Max agree that any counsel representing a party in arbitration certifies when initiating and proceeding in arbitration that they are complying with the requirements of Federal Rule of Civil Procedure 11(b), including certification that the claim or relief sought is neither frivolous nor brought for an improper purpose. The arbitrator is authorized to impose any sanctions under the NAM Rules, Federal Rule of Civil Procedure 11, or applicable federal or state law, against all appropriate represented parties and counsel.
+
+
+Except as expressly provided in the Arbitration Agreement, the arbitrator may grant any remedy, relief, or outcome that the parties could have received in court, including the awards of attorneys’ fees and costs in accordance with applicable law. Unless otherwise provided by applicable law, the parties shall bear their own attorneys’ fees and costs in arbitration unless the arbitrator awards sanctions or finds that either the substance of the claim, the defense, or the relief sought is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b).
+
+
+(d) Arbitration Fees: The payment of arbitration fees (the fees imposed by the arbitration administrator including filing, arbitrator, and hearing fees) will be governed by the applicable NAM Rules unless you qualify for a fee waiver under applicable law. If after exhausting any potentially available fee waivers, the arbitrator finds that the arbitration fees will be prohibitive for you as compared to litigation, we will pay as much of your filing, arbitrator, and hearing fees in the arbitration as the arbitrator deems necessary to prevent the arbitration from being cost-prohibitive, regardless of the outcome of the arbitration, unless the arbitrator determines that your claim(s) were frivolous or brought for an improper purpose or asserted in bad faith. You and we agree that arbitration should be cost-effective for all parties and that any party may engage with NAM to address the reduction or deferral of fees.
+
+
+(e) Confidentiality: Upon either party’s request, the arbitrator will issue an order requiring that confidential information of either party disclosed during the arbitration (whether in documents or orally) may not be used or disclosed except in connection with the arbitration or a proceeding to enforce the arbitration award and that any permitted court filing of confidential information must be done under seal to the furthest extent permitted by law.
+
+
+(f) Offer of Settlement: In any arbitration between you and HBO Max, the defending party may, but is not obligated to, make a written settlement offer at any time before the evidentiary hearing or, if a dispositive motion is permitted, prior to the dispositive motion being granted. The amount or terms of any settlement offer may not be disclosed to the arbitrator until after the arbitrator issues an award on the claim. If the award is issued in the other party’s favor and is less than the defending party’s settlement offer or if the award is in the defending party’s favor, the other party must pay the defending party’s costs incurred after the offer was made, including any attorneys’ fees. If any applicable statute or case law prohibits the shifting of costs incurred in the arbitration, then the offer in this provision shall serve to cease the accumulation of any costs to which the party bringing the claim may be entitled for the cause of action under which it is suing.
+
+
+(g) Requirement of Individualized Relief: The arbitrator may award declaratory or injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party’s individual claim. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOU AND WE AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR OUR INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, REPRESENTATIVE, OR PRIVATE ATTORNEY GENERAL PROCEEDING. Further, unless both you and we agree otherwise, the arbitrator may not consolidate more than one person’s claims and may not otherwise preside over any form of a representative, class or private attorney general proceeding. If, after exhaustion of all appeals, any of these prohibitions on non-individualized declaratory or injunctive relief; class, representative and private attorney general claims; and consolidation are found to be unenforceable with respect to a particular claim or with respect to a particular request for relief (such as a request for injunctive relief sought with respect to a particular claim), then the parties agree such a claim or request for relief shall be decided by a court of competent jurisdiction, after all other arbitrable claims and requests for relief are arbitrated. You agree that any arbitrations between you and HBO Max will be subject to this Section 5.4 and not to any prior arbitration agreement you had with HBO Max, and, notwithstanding any provision in this Agreement to the contrary, you agree that this Section 5.4 amends any prior arbitration agreement you had with HBO Max, including with respect to claims that arose before this or any prior arbitration agreement. 
+
+
+(h) Opt Out of Future Changes: Notwithstanding any provision to the contrary, if HBO Max makes any future change to this Arbitration Agreement (other than a change to the Notice Address), you may reject any such change by sending HBO Max an email from the email address associated with your HBO Max subscription to notice@wbd.com within 30 days of notice of the change that provides: (i) your full legal name, (ii) your complete mailing address, (iii) your phone number, (iv) if applicable, the username or email address associated with any potential account or newsletter; and (v) when and how you subscribed to HBO Max. Such an opt-out email must be sent by you personally, and not by your agent, attorney, or anyone else purporting to act on your behalf. It must include a statement, personally signed by you, that you wish to reject the change to the Arbitration Agreement. This is not an opt out of arbitration altogether. 
+
+
+(i) Mass Filing: If, at any time, 25 or more claimants (including you) submit Notices or seek to file demands for arbitration raising similar claims against the other party or related parties by the same or coordinated counsel or entities, consistent with the definition and criteria of Mass Filings (“Mass Filing”) set forth in NAM’s Mass Filing Supplemental Dispute Resolution Rules and Procedures (“NAM’s Mass Filing Rules,” available at https://namadr.com/resources/rules-fees-forms/), you and we agree that the additional procedures set forth below shall apply. The parties agree that throughout this process, their counsel shall meet and confer to discuss modifications to these procedures based on the particular needs of the Mass Filing. The parties acknowledge and agree that by electing to participate in a Mass Filing, the adjudication of their dispute might be delayed. Any applicable limitations period (including statute of limitations) and any filing fee deadlines shall be tolled beginning when the Pre-Arbitration Notice and Informal Dispute Resolution Procedures are initiated, so long as the pre-arbitration Notice complies with the requirements in Subsection 5.4(b), until your claim is selected to proceed as part of a staged process or is settled, withdrawn, otherwise resolved, or opted out of arbitration.
+
+Stage One: Counsel for the claimants and counsel for HBO Max shall each select 25 claims per side (50 claims total) to be filed and to proceed in individual arbitrations as part of a staged process. Each of these individual arbitrations shall be assigned to a different, single arbitrator unless the parties agree otherwise in writing. Any remaining claims shall not be filed or deemed filed in arbitration, nor shall any arbitration fees be assessed in connection with those claims unless and until they are selected to be filed in individual arbitration proceedings as part of a staged process. After this initial set of staged proceedings is completed, the parties shall promptly engage in a global mediation session of all remaining claims with a retired federal or state court judge and HBO Max shall pay the mediator’s fee.
+Stage Two: If the remaining claims are not resolved at this time, counsel for the claimants and counsel for HBO Max shall each select 50 claims per side (100 claims total) to be filed and to proceed in individual arbitrations as part of a second staged process, subject to any procedural changes the parties agreed to in writing. Each of these individual arbitrations shall be assigned to a different, single arbitrator unless the parties agree otherwise in writing. Any remaining claims shall not be filed or deemed filed in arbitration, nor shall any arbitration fees be assessed in connection with those claims unless and until they are selected to be filed in individual arbitration proceedings as part of a staged process. After this second set of staged proceedings is completed, the parties shall promptly engage in a global mediation session of all remaining claims with a retired federal or state court judge and HBO Max shall pay the mediator’s fee.
+Stage Three: If the remaining claims are not resolved at this time, counsel for the claimants and counsel for HBO Max shall each select 100 claims per side (200 claims total) to be filed and to proceed in individual arbitrations as part of a third staged process, subject to any procedural changes the parties agreed to in writing. Any remaining claims shall not be filed or deemed filed in arbitration, nor shall any arbitration fees be assessed in connection with those claims unless and until they are selected to be filed in individual arbitration proceedings as part of a staged process. Following this third set of staged proceedings, counsel for claimants may elect to have the parties participate in a global mediation session of all remaining claims with a retired federal or state court judge.
+
+If your claim is not resolved as part of the staged process identified above, either:
+
+Option One: You and HBO Max may separately or by agreement, opt out of arbitration and elect to have your claim heard in court consistent with the Agreement. You may opt out of arbitration by providing your individual, personally signed notice of your intention to opt out by sending HBO Max an email from the email address associated with your HBO Max subscription to notice@wbd.com. Such an opt-out email must be sent by you personally, and not by your agent, attorney or anyone else purporting to act on your behalf. It must include a statement, personally signed by you, that you wish to opt out of arbitration within 30 days after the conclusion of Stage 3 or the elective mediation associated with Stage 3. HBO Max may opt your claim out of arbitration by sending an individual, personally signed notice of its intention to opt out to your counsel within 14 days after the expiration of your 30 day opt out period. Counsel for the parties may agree to adjust these deadlines.
+OR
+
+Option Two: If neither you nor HBO Max elect to have your claim heard in court consistent with Option One, then you agree that your claim will be resolved as part of continuing, staged individual arbitration proceedings as set forth below. Assuming the number of remaining claims exceeds 200, then 200 claims shall be randomly selected (or selected through a process agreed to by counsel for the parties) to be filed and to proceed in individual arbitrations as part of a staged process. If the number of remaining claims is fewer than 200, then all of those claims shall be filed and proceed in individual arbitrations. Any remaining claims shall not be filed or deemed filed in arbitration, nor shall any arbitration fees be assessed in connection with those claims unless and until they are selected to be filed in individual arbitration proceedings as part of a staged process. After each set of 200 claims are adjudicated, settled, withdrawn or otherwise resolved, this process shall repeat consistent with these parameters. Counsel for the parties are encouraged to meet and confer, participate in mediation and engage with each other and with NAM (including through a Procedural Arbitrator) to explore ways to streamline the adjudication of claims, increase the number of claims to proceed at any given time, promote efficiencies, conserve resources, and resolve the remaining claims.
+
+A court of competent jurisdiction shall have the authority to enforce these Mass Filing provisions and, if necessary, to enjoin the mass filing, prosecution, or administration of arbitrations and the assessment of arbitration fees. If these additional procedures apply to your claim, and a court of competent jurisdiction determines that they are not enforceable as to your claim, then your claim shall proceed in a court of competent jurisdiction consistent with this Agreement. 
+
+
+You and HBO Max agree that we each value the integrity and efficiency of arbitration and wish to employ the process for the fair resolution of genuine and sincere disputes between us. You and HBO Max acknowledge and agree to act in good faith to ensure the processes set forth herein are followed. The parties further agree that application of these Mass Filing procedures have been reasonably designed to result in an efficient and fair adjudication of such cases.
+
+
+(j) Severability: If any portion of this Arbitration Agreement is found to be void, invalid, or otherwise unenforceable, then that portion shall be deemed to be severable and, if possible, superseded by a valid, enforceable provision, or portion thereof, that matches the intent of the original provision, or portion thereof, as closely as possible. The remainder of this Arbitration Agreement shall continue to be enforceable and valid according to the terms contained herein.
+
+
+
+
+5.5.    CLASS ACTION AND JURY TRIAL WAIVER:
+
+
+You and HBO Max agree that, to the fullest extent permitted by law, each party may bring claims (whether in court or in arbitration) against the other only in an individual capacity, and not participate as a plaintiff, claimant or class member in any class, collective, consolidated, private attorney general or representative proceeding. This means that you and HBO Max may not bring a claim on behalf of a class or group and may not bring a claim on behalf of any other person unless doing so as a parent, guardian or ward of a minor or in another similar capacity for an individual who cannot otherwise bring their own individual claim. This also means that you and HBO Max may not participate in any class, collective, consolidated, private attorney general or representative proceeding brought by any third party. Notwithstanding the foregoing, you or HBO Max may participate in a class-wide settlement.
+
+
+To the fullest extent permitted by law, you and HBO Max waive any right to a jury trial.
+
+
+
+
+5.6.    INVESTIGATIONS:
+
+
+We may investigate suspected violations of this Agreement. As part of any such investigation, we may collect information from you and take appropriate steps to address any such violations. We will collect and use any such information in accordance with the HBO Max Privacy Policy.
+
+
+
+
+5.7.    HYPERLINKS TO AND FROM THIRD PARTY SITES:
+
+
+The Platform may contain links, URLs or QR codes to other websites, including, without limitation, social media platforms and sites owned or operated by us or Third Party Providers. These sites are not under our control, and you acknowledge that we are not responsible for their content, accuracy, copyright compliance, legality, decency or any other aspect of these sites whether or not these sites are affiliated in any way with HBO Max or any Third Party Provider. You should review the applicable terms of use and privacy policy for any sites you visit to understand your rights.
+
+
+
+
+5.8.    THIRD PARTY SUBSCRIPTION PROVIDER TERMS:
+
+
+This Agreement, together with the additional conditions of your Subscription, constitute an agreement between you and us, and not between you and any other Third Party Provider(s). Unless otherwise specified in these Terms, Third Party Providers will have no obligation to provide technical maintenance for the Platform or respond to product claims regarding the Platform. Third Party Providers are not responsible for any product or intellectual property claims associated with the Platform. Please review your Third Party Provider’s terms of use and user agreements to confirm your compliance with those terms.
+
+
+iOS Subscribers
+
+
+If you access the Platform via an iOS device, you must also comply with the App Store Terms of Use. You acknowledge and agree that Apple, Inc. (“Apple”), and its subsidiaries are third-party beneficiaries of this Agreement. Upon your acceptance of this Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third-party beneficiary hereof.
+
+
+
+
+5.9.    USE IN HOME COUNTRY AND WITHIN THE SERVICE AREA:
+
+
+The Platform is intended for use in your Home Country, and you may also access the Platform within other countries within the Service Area. You are prohibited from using any technology to mask your location or hinder our ability to determine your location. We may use technologies to verify your geographic location. 
+
+
+The Platform is available in the following Service Areas:
+
+
+U.S. Service Area
+
+
+The “U.S. Service Area” includes the U.S., the District of Columbia and the U.S. territories of American Samoa, Guam, Puerto Rico, the Northern Mariana Islands and the U.S. Virgin Islands.
+
+
+U.S. Service Area Contact Information:
+
+
+WarnerMedia Direct, LLC
+
+230 Park Avenue South 
+
+New York, NY 10003
+
+United States of America
+
+
+LATAM Service Area 
+
+
+The “LATAM Service Area” includes Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bolivia, Brazil, British Virgin Islands, Cayman Islands, Chile, Colombia, Costa Rica, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, St. Kitts and Nevis, St. Lucia, St. Vincent and The Grenadines, Suriname, Trinidad and Tobago, Turks and Caicos, Uruguay and Venezuela.
+
+
+LATAM Service Area Contact Information:
+
+
+WarnerMedia Direct Latin America, LLC
+
+230 Park Avenue South 
+
+New York, NY 10003
+
+United States of America 
+
+
+EMEA Service Area
+
+
+The “EMEA Service Area” includes the HBO Nordic Service Area, the HBO Europe Service Area, the DCB Service Area and the BluTV Service Area, as each is defined in this Section.
+
+
+The “HBO Nordic Service Area” includes Andorra, Belgium, Denmark, Finland, France, Norway, Spain, Sweden, Portugal, and the Netherlands.
+
+
+HBO Nordic Area Contact Information (excluding Belgium and France):
+
+
+HBO Nordic AB
+
+Kungsgatan 12
+
+111 35 Stockholm
+
+Sweden
+
+
+The “HBO Europe Service Area” includes Bulgaria, Bosnia Herzegovina, Croatia, Czech Republic, Hungary, North Macedonia, Moldova, Montenegro, Poland, Romania, Serbia, Slovakia and Slovenia.
+
+
+HBO Europe Service Area Contact Information:
+
+
+HBO Europe s.r.o.
+
+Jankovcova 1037/49
+
+170 00 Praha 7
+
+Czech Republic
+
+
+The “DCB Service Area” includes: Albania, Armenia, Cyprus, Estonia, Georgia, Iceland, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Malta and Tajikistan. 
+
+
+DCB Service Area (and France and Belgium) Contact Information:
+
+
+Discovery Communications Benelux B.V.
+
+Kraanspoor 20 Amsterdam 
+
+1033 SE 
+
+Netherlands
+
+
+The “BluTV Service Area” includes Türkiye.
+
+
+BluTV Contact Information:
+
+
+BluTV İleti̇şi̇M Ve Di̇ji̇tAl Yayin Hi̇zmetleri̇ A.Ş
+
+Maslak Mahallesi, AOS 55.Sokak 
+
+42 Maslak A Blok Sitesi No:2/ 140 
+
+34470 Sarıyer/İstanbul
+
+Türkiye
+
+
+APAC Service Area 
+
+
+The “APAC Service Area” includes (a) Singapore, Hong Kong, Taiwan, Malaysia, Philippines, Indonesia and Thailand and (b) Australia. 
+
+
+APAC Service Area Contact Information:
+
+
+For the countries listed in (a) above:
+
+
+WarnerMedia Direct Asia Pacific, LLC 
+
+230 Park Avenue South
+
+New York, NY 10003
+
+United State of America
+
+
+For the countries listed in (b) above:
+
+
+WarnerMedia Direct Australia Pty. Ltd
+
+ABN 43 682 477 274 
+
+Level 6, 203 Pacific Highway
+
+St Leonards NSW 2065 
+
+Australia
+
+
+The U.S. Service Area, the LATAM Service Area, the EMEA Service Area and the APAC Service Area are collectively referred to in these Terms as the “Service Area.”
+
+
+
+
+5.10. GOVERNING LAW AND VENUE:
+
+
+This Agreement shall be governed by the laws of the State of New York, without regard to conflict of law principles. Any dispute that is not subject to arbitration under Section 5.4 of this Agreement or any issues involving arbitrability or enforcement of any provisions under Section 5.4 shall be brought in the appropriate state or federal court located in New York County, New York, and we and you each irrevocably consent to the exclusive jurisdiction and venue of the state or federal courts in New York County, New York for the adjudication of all non-arbitral claims.
+
+
+
+
+5.11.    FORCE MAJEURE:
+
+
+We are not liable for any delay or failure to fulfill our obligations under this Agreement if such delay or failure is caused by a Force Majeure event. “Force Majeure” includes, but is not limited to, any acts of God, storms, fires, casualties, unanticipated work stoppages, power outages, satellite failures, strikes, lockouts, labor disputes, civil disturbances, riots, wars, public health emergencies, epidemics, pandemics, national emergencies, governmental actions or other cause beyond our control.
+
+
+
+
+5.12. EXPORT CONTROLS AND OFAC COMPLIANCE: 
+
+
+You may not use or otherwise export or re-export the software except as authorized by United States law and the laws of the jurisdiction in which the software was obtained. In particular, but without limiting the generality of the foregoing, the software and other relevant elements of the Platform may not be exported or re-exported into any U.S. embargoed countries or to any countries prohibited by U.S. laws, rules or regulations. 
+
+
+By accessing the Platform, you confirm that you are not subject to sanctions imposed by the U.S., and you are not considered by the Office of Foreign Assets Control (OFAC) to be a specially designated national.
+
+
+
+
+5.13.    WHAT HAPPENS IF WE CHANGE THESE TERMS:
+
+
+We reserve the right to modify this Agreement, the Subscription Fee, the benefits associated with any Subscription plan, additional conditions of your Subscription or change any part of the Platform at any time. We will communicate material changes to this Agreement by making the revised Terms available for your review on the Platform. If you access the Platform through a mobile device, we may also communicate changes through updated versions of the Platform software. The date that this Agreement was last modified can be found at the end of these Terms. The modified Terms will become effective and govern your use of the Platform upon the date and time they are posted to the Platform.
+
+
+If any change materially limits the availability of the Platform, then in addition to posting the revised Terms on the Platform, if required by applicable law, we will communicate this limitation by sending an email to the address associated with your HBO Max Account. As such, it is important that you keep your HBO Max Account information up to date. 
+
+
+By continuing to use the Platform after any revised Terms come into effect and, in the case of any Subscription, your decision not to cancel your Subscription before it renews or within any relevant notice period means you agree to be bound to the changes.
+
+
+
+
+5.14.    ADDITIONAL TERMS AND CONDITIONS:
+
+
+You may have to accept additional terms and conditions in order to use certain features offered through the Platform. If there is a conflict or inconsistency between those additional terms and this Agreement, those additional terms will prevail solely with respect to your use of the particular feature to which they apply.
+
+
+
+
+5.15.    MISCELLANEOUS:
+
+
+This Agreement, together with the additional conditions of your Subscription, constitute the entire agreement between you and HBO Max with respect to this subject matter and supersedes all prior or contemporaneous agreements between you and HBO Max, whether written or oral, including but not limited to, any prior HBO Max Account or Subscription. This Agreement may not be amended, nor any obligation waived, without our written authorization.
+
+
+This Agreement between you and HBO Max is personal to you, and no third party is entitled to benefit under it. We reserve the right to assign or transfer this Agreement and your Subscription to any party that acquires ownership or control of the Platform. Your rights and obligations under this Agreement are non-transferrable.
+
+
+
+
+Last updated: August 23, 2025
+
+

@@ -1,0 +1,37 @@
+User-agent: *
+Allow: /content/dam/
+Allow: /content/*/jcr:content/*/treatments/*
+Disallow: /content/
+Disallow: /*site-resources/
+Disallow: /*site-forms/
+Disallow: /*3qa
+Disallow: /*3qb
+Disallow: /*3qc
+Disallow: /*3qc
+Disallow: /*gracias
+Disallow: /*mercie
+Disallow: /*grazie
+Disallow: /*bedankt
+Disallow: /*obrigado
+Disallow: /*vielen-dank
+Disallow: /me/
+Disallow: /lem/
+Disallow: /cx/
+Disallow: /*thank-you$
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://business.linkedin.com/sitemap.xml

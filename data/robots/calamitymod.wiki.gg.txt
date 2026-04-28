@@ -1,0 +1,235 @@
+##
+## wiki.gg robots.txt
+##
+## If you're using content from any of our wikis, please ensure that you follow the licencing terms
+## (usually a Creative Commons licence).
+##
+## Your access to the network may also get restricted if you act too irresponsibly about any traffic
+## generated in an automated way. The network has a lot of pages, and there are some poorly-mannered
+## spiders in the wild that go way too fast.
+##
+## Last updated: 30/05/2025 23:20 UTC
+##
+User-agent: *
+Disallow: /index.php
+Disallow: /es/index.php
+Disallow: /ru/index.php
+Disallow: /api.php
+Disallow: /es/api.php
+Disallow: /ru/api.php
+Disallow: /rest.php
+Disallow: /es/rest.php
+Disallow: /ru/rest.php
+Disallow: /mw-1.41
+Disallow: /mw-1.43
+Disallow: /mw-1.45
+Disallow: /cdn-cgi
+Disallow: /wiki/File:
+Disallow: /wiki/File%3A
+Disallow: /wiki/file:
+Disallow: /*?title=File:
+Disallow: /*?title=File%3A
+Disallow: /*?*&title=File:
+Disallow: /*?*&title=File%3A
+# Action pages that don't need crawling or indexing
+Disallow: /*?action=
+Disallow: /*?*&action=
+Disallow: /*?veaction=
+Disallow: /*?*&veaction=
+# Diffs
+Disallow: /*?diff=
+Disallow: /*?*&diff=
+Disallow: /*?diff-type=
+Disallow: /*?*&diff-type=
+Disallow: /*?oldid=
+Disallow: /*?*&oldid=
+Disallow: /*?curid=
+Disallow: /*?*&curid=
+# PubCo CMP
+Disallow: /*?cmpscreen
+Disallow: /*?*&cmpscreen
+# Search
+Disallow: /*?search=
+Disallow: /*?*&search=
+# RCs
+Disallow: /*?feed=
+Disallow: /*?*&feed=
+# Redirects
+Disallow: /*?from=
+Disallow: /*?*&from=
+Disallow: /*?redirect=
+Disallow: /*?*&redirect=
+# Category navigation
+Disallow: /*?pagefrom=
+Disallow: /*?*&pagefrom=
+Disallow: /*?pageuntil=
+Disallow: /*?*&pageuntil=
+Disallow: /*?filefrom=
+Disallow: /*?*&filefrom=
+Disallow: /*?fileuntil=
+Disallow: /*?*&fileuntil=
+# Modes
+Disallow: /*?uselang=
+Disallow: /*?*&uselang=
+Disallow: /*?useskin=
+Disallow: /*?*&useskin=
+Disallow: /*?printable=
+Disallow: /*?*&printable=
+# Explicit search ban for those bots that don't seem to grasp wildcards
+Disallow: /wiki/Special:Search
+Disallow: /es/wiki/Special:Search
+Disallow: /ru/wiki/Special:Search
+# Special pages from Cargo & PageForms (blocking explicitly)
+Disallow: /wiki/Special:RunQuery
+Disallow: /es/wiki/Special:RunQuery
+Disallow: /ru/wiki/Special:RunQuery
+Disallow: /wiki/Special:Drilldown
+Disallow: /es/wiki/Special:Drilldown
+Disallow: /ru/wiki/Special:Drilldown
+Disallow: /wiki/Special:CargoTables
+Disallow: /es/wiki/Special:CargoTables
+Disallow: /ru/wiki/Special:CargoTables
+Disallow: /zh/wiki/Special:%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90
+# Special pages
+Disallow: /wiki/MediaWiki:
+Disallow: /es/wiki/MediaWiki:
+Disallow: /ru/wiki/MediaWiki:
+Disallow: /de/wiki/Spezial:
+Disallow: /wiki/Special:
+Disallow: /es/wiki/Special:
+Disallow: /ru/wiki/Special:
+Disallow: /wiki/Special%3A
+Disallow: /es/wiki/Special%3A
+Disallow: /ru/wiki/Special%3A
+Disallow: /wiki/special:
+Disallow: /es/wiki/special:
+Disallow: /ru/wiki/special:
+Disallow: /cs/wiki/SpeciÃ¡lnÃ­:
+Disallow: /cs/wiki/Speci%C3%A1ln%C3%AD:
+Disallow: /es/wiki/Especial:
+Disallow: /fr/wiki/Sp%C3%A9cial:
+Disallow: /hu/wiki/SpeciÃ¡lis:
+Disallow: /hu/wiki/Speci%C3%A1lis:
+Disallow: /id/wiki/Istimewa:
+Disallow: /it/wiki/Speciale:
+Disallow: /ja/wiki/%E7%89%B9%E5%88%A5:
+Disallow: /ko/wiki/í¹ì:
+Disallow: /ko/wiki/%ED%8A%B9%EC%88%98:
+Disallow: /pl/wiki/Specjalna:
+Disallow: /pt/wiki/Especial:
+Disallow: /pt-br/wiki/Especial:
+Disallow: /ru/wiki/Ð¡Ð»ÑÐ¶ÐµÐ±Ð½Ð°Ñ:
+Disallow: /ru/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:
+Disallow: /th/wiki/à¸à¸´à¹à¸¨à¸©:
+Disallow: /th/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:
+Disallow: /tr/wiki/Ãzel:
+Disallow: /tr/wiki/%C3%96zel:
+Disallow: /uk/wiki/Ð¡Ð¿ÐµÑÑÐ°Ð»ÑÐ½Ð°:
+Disallow: /uk/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:
+Disallow: /vi/wiki/Äáº·c_biá»t:
+Disallow: /vi/wiki/%C4%90%E1%BA%B7c_bi%E1%BB%87t:
+Disallow: /zh/wiki/ç¹æ®:
+Disallow: /zh/wiki/%E7%89%B9%E6%AE%8A:
+Disallow: /zh-tw/wiki/ç¹æ®:
+Disallow: /zh-tw/wiki/%E7%89%B9%E6%AE%8A:
+Disallow: /*?title=Special:
+Disallow: /*?title=Special%3A
+Disallow: /*?*&title=Special:
+Disallow: /*?*&title=Special%3A
+# Data namespaces
+Disallow: /wiki/Data:
+Disallow: /es/wiki/Data:
+Disallow: /ru/wiki/Data:
+Disallow: /wiki/Data%3A
+Disallow: /es/wiki/Data%3A
+Disallow: /ru/wiki/Data%3A
+# User pages
+Disallow: /wiki/User:
+Disallow: /es/wiki/User:
+Disallow: /ru/wiki/User:
+Disallow: /wiki/User%3A
+Disallow: /es/wiki/User%3A
+Disallow: /ru/wiki/User%3A
+# Template docs
+Disallow: /wiki/Template:*/doc
+Disallow: /wiki/Module:*/doc
+## Noindex directives
+# Redirects
+# WMF Provenance params
+Disallow: /*?wprov=
+
+## SEO and intelligence bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Barkrowler
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+# Appears to be buggy.
+User-agent: MJ12bot
+Disallow: /
+
+# Huawei's crawler
+User-agent: PetalBot
+Disallow: /
+
+## LLM bots that have trouble with attribution or good manners (so all of them)
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: ExteContextCrawl
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: carbon-umbrella-bot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: ShapBot
+Disallow: /
+
+## Other
+# wget in recursive mode is a bit disastrous when --wait is not used - sorry!
+User-agent: wget
+Disallow: /
+
+# Scrapy
+User-agent: Scrapy
+Disallow: /
+
+## Crawl-Delay
+## Some bots don't understand this directive and will get very confused and break; keep these rules
+## at the bottom.
+# Throttle SiteSucker - we're OK with archiving software as long as it's not flooding the network
+User-agent: SiteSucker
+Crawl-delay: 1
+
+Sitemap: https://calamitymod.wiki.gg/sitemaps/sitemap-index-calamitymod_en.xml
+Sitemap: https://calamitymod.wiki.gg/sitemaps/sitemap-index-calamitymod_es.xml
+Sitemap: https://calamitymod.wiki.gg/sitemaps/sitemap-index-calamitymod_ru.xml
+## Sitemaps

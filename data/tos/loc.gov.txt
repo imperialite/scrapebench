@@ -1,0 +1,201 @@
+Classification Web
+TERMS AND CONDITIONS
+(For subscriptions begun July 1, 2004 and after)
+These Terms and Conditions, effective as of the date the Subscriber has received access to the
+Service after having paid the fee, are agreed to between the Library of Congress, Office of
+Business Enterprises, Cataloging Distribution Service (“Publisher”), of 101 Independence
+Avenue, S.E., Washington, D.C. 20540-4910, and subscriber.
+I. Definitions
+A. Publisher: Library of Congress, Cataloging Distribution Service.
+B. Subscriber: Licensee of the Service.
+C. Service: Classification Web, a product providing World Wide Web access to Library of
+Congress Classification schedules and Library of Congress Subject Headings. The Service
+also includes such additional features, including but not limited to enhanced functionality,
+software upgrades, and new data files, as may be added to Classification Web during the term
+of the Subscription. Certain functionality, upgrades, and enhancements may be subject to
+additional conditions prescribed by Publisher beyond those contained in these Terms and
+Conditions; in that event, Subscriber will have the option either to elect access to such
+additional features subject to such additional conditions, or to decline access to such
+additional features. Under the terms of a cooperative agreement with OCLC Online Computer
+Library Center, Inc., the Service also includes a correlation between the Dewey Decimal
+Classification and the Library of Congress Classification, created by the Library by matching
+Dewey Decimal classification numbers as found in Library of Congress bibliographic records
+with corresponding Library of Congress classification numbers and Library of Congress
+subject headings, (the “Correlation”).
+D. Subscription: Access of the Subscriber to the Service for a renewable twelve- month
+period, beginning on the date on which the Subscriber receives user name and password
+access and/or IP address access from the Publisher.
+E. Server: The server, either the Publisher’s server or a third party server designated by the
+Publisher, on which the Service is mounted and may be accessed.
+F. Authorized User: Users who are permitted to access the Service pursuant to the
+Subscription, within the limitations applicable to the subscription type and site.
+G. Solo User: The Authorized User under a Subscription permitting access to the Service by
+one individual. Access is by user name and password from any location where the user has
+Web access.H. Concurrent User: Authorized Users under a Subscription permitting access to the Service
+by a designated number of users who may access the Service at the same time using
+Subscriber user name and password or Subscriber designated IP address.
+I. Subscriber’s Site:
+Public Library Site: is defined by geographic/service area and is limited to a single
+main library and its branches (i.e., libraries under a single director/board of trustees).
+Authorized Users are limited to current library staff and library patrons accessing the
+Service while in the library or by Remote Access.
+Academic Library Site: is limited by geographic site and Authorized Users. Each
+geographically distinct campus shall be treated as a separate site for purposes of the
+Service. Adjunct facilities to a campus may be considered part of an Academic
+Library Site if they are under a single integral institution with one billing address and
+are part of a single student admissions program. An Academic Library Site does not
+include a consortium of libraries, multi-campus institutions, shared local systems,
+statewide networks, or secondary relationships with shared facilities. Authorized
+Users at academic institutions are limited to current faculty and staff, currently
+enrolled students, and authorized patrons of the Subscriber’s library, who are
+primarily affiliated with the licensed campus. On-site and Remote Access are
+permitted.
+Special Library Site: is limited to a single corporate or other special library (e.g., a
+law firm library). A separate subscription is required for each geographically distinct
+operational entity. Authorized Users are limited to current employees or patrons who
+are served by the Special Library. On-site and Remote Access are permitted.
+J. Remote Access: Off-site access requiring the Authorized User to first log on to the library
+system’s local computer using a current authorized library card or other library-controlled
+authorization before accessing the Service.
+K. Fee: The fee for the Service set forth in Publisher’s then-current fee schedule.
+II. Usage Rights
+A. The Publisher grants to the Subscriber the non-exclusive and non-transferable right for
+its Authorized Users to access the Service via the Server, upon payment of the Fee and
+subject to these Terms and Conditions. Access rights consist of the right of Authorized
+Users to view, retrieve, display, and store notes with respect to the Service’s classification
+and subject heading content, as part of routine work activities such as research and
+classification. Access rights do not include the right to redistribute all or any part of the
+Service content to third parties except as specifically permitted in these Terms and
+Conditions.
+B. A Subscription for a Solo User may be used by any one person at any one time,
+without regard to that person’s identity. A Subscription purchasing a right of access forConcurrent Users permits use of the Service by a particular number of individuals at any
+one time without regard to their identities.
+C. Subscriber and Authorized Users acquire no ownership rights to any data or portions
+thereof provided via the Subscription; to the proprietary software underlying the Service;
+or to documentation provided to access the Service.
+D. During any 24-hour period, Subscriber may print up to twenty (20) screens of Service
+content per Solo User, or twenty (20) screens of Service content multiplied by the number
+of Concurrent Users, as applicable.
+E. While the Correlation may provide useful information directing authorized users to the
+proper choice of Dewey Decimal Classification numbers for library resources, the
+Correlation does not constitute the Dewey Decimal Classification authority file and
+therefore should not be relied on exclusively for assigning Dewey Decimal Classification
+numbers to library resources. Rather, the DDC print edition or WebDewey should be
+consulted to confirm the accuracy of Dewey Decimal Classification number assignments
+suggested by the Correlation.
+III. Prohibited Uses – Subscriber and Authorized Users may not:
+A. Download Service content. However, should the Publisher choose to add the ability to
+download Machine Readable Cataloging (MARC) functionality to the Classification Web
+product, individual MARC records may be downloaded for local use.
+B. Print Service content except as authorized in these Terms and Conditions.
+C. Make local electronic copies of all or any part of Service content beyond what is
+required for normal functioning of Web browser software and simple copying-and-pasting
+of up to ten (10) consecutive lines of text at a time and not exceeding a total of three
+hundred (300) lines of text per day, per Solo User or per the number of Concurrent Users,
+as applicable.
+D. Use all or any part of Service content for any commercial use, except as permitted by
+Section II.A.
+E. Distribute all or any part of Service content to anyone other than the Subscriber’s
+Authorized User.
+F. In any way modify, reverse engineer or create derivative works from Service content,
+or the software used in this site, which is provided under a license agreement between
+Minaret Corporation and the Publisher.
+G. Permit access to the Service by persons who are not Authorized Users.H. Engage in activity that may burden Publisher’s server(s), such as computer programs
+that automatically download content, commonly known as web robots, spiders, crawlers,
+wanderers or accelerators.
+I. Utilize any mechanism which would enable the number of Authorized Users
+concurrently accessing the service via the Subscription to exceed the number of
+concurrent logons purchased in the Subscription.
+IV. Publisher Undertakings
+A. Publisher will exert reasonable efforts to provide the Service in accordance with thencurrent published product descriptions, and will periodically update Service content.
+B. Publisher will use reasonable efforts to provide continuous availability of the Service
+subject to periodic unavailability due to maintenance of the Publisher’s server(s), the
+installation or testing of software, the loading of data, and downtime related to equipment
+or services outside of the Publisher’s control.
+V. Subscriber Undertakings
+A. Subscriber will notify Publisher of nonconformities between the Service and product
+descriptions, and of any errors or inaccuracies in the Service content of which Subscriber
+becomes aware.
+B. Subscriber is responsible for all security for and all use of the Service initiated by
+persons using Subscriber’s user names and passwords or accessing the Service through
+Subscriber’s IP address.
+C. Subscriber will use reasonable efforts to notify Authorized Users of these Terms and
+Conditions and will take steps to protect the Service from unauthorized use of the Service
+or other breach of these Terms and Conditions.
+D. Subscriber will issue passwords and user names and other access information only to
+Authorized Users and will use reasonable efforts to ensure that Authorized Users do not
+divulge their passwords, user names, or other access information to any third party.
+E. Subscriber will use reasonable efforts to monitor compliance with these Terms and
+Conditions and immediately upon becoming aware of any unauthorized use of the Service
+or other breach of these Terms and Conditions, or of lost or stolen user names and
+passwords, inform Publisher and take all reasonable and appropriate steps, including
+disciplinary action, both to ensure that the activity ceases and to prevent any recurrence.
+F. When using the Service outside the United States, Subscriber shall be the exporter and
+importer of record of the Service by electronic means or otherwise, and is responsible for
+determining and complying with all applicable United States and foreign export andimport, procurement data and technology transfer laws, rules, regulations, customs, tariffs,
+duties, and fees.
+VI. Legal Notices including information about privacy, security and copyright are located at
+http://classweb.loc.gov/legal.html.
+VII. Warranties
+A. While the Publisher and its suppliers and licensors have attempted to minimize
+inaccuracies and defects in the data and services furnished, the data and services are
+provided AS IS. THE PUBLISHER, ITS SUPPLIERS AND/OR LICENSORS MAKE
+NO EXPRESS WARRANTIES AND DISCLAIM ALL IMPLIED WARRANTIES,
+INCLUDING IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY AND
+FITNESS FOR A PARTICULAR PURPOSE.
+B. Subscriber acknowledges that the Internet is an unsecured, unstable, unregulated
+disorganized and unreliable environment, and that the ability of Publisher to deliver the
+on-line services may be dependent upon the Internet and equipment, software, systems,
+data and services provided by various telecommunications carriers, equipment
+manufacturers, firewall providers and encryption system developers and other vendors
+and third parties. Neither party shall be liable for or have the right to terminate the
+Subscription as a result of any delays or failures to perform any of its obligations
+hereunder to the extent that such delays or failures are due to circumstances beyond its
+reasonable control, including acts of God, strikes riots, acts of war, power failures,
+functions or malfunctions of the Internet, telecommunications services, firewalls,
+encryption systems and security devices, or governmental regulations imposed after the
+date that the Subscription was purchased.
+C. Publisher, its suppliers and/or licensors shall not be liable for any loss or damage
+(including special, exemplary, incidental or consequential damages), lost profits, loss of
+business, loss of or damage to data, downtime or unavailability, resulting from or in
+connection with the use or inability to use the Service. Subscriber hereby acknowledges
+that use of the Service is at Subscriber’s sole risk.
+D. Publisher further makes no warranties respecting any harm that may be caused by the
+transmission of a computer virus, worm, time bomb, logic bomb or other such computer
+program.VIII. Term and Termination
+A. Subscriptions will be offered on an annual basis to commence when Subscriber has
+paid the Fee and received access to the Service from Publisher and terminating one year
+after the date that such access is granted. Beginning three months before the conclusion of
+the Service period, Subscriber will receive bi-weekly e-mails informing Subscriber of the
+termination of the service. If not renewed, the Service will be terminated at the end of the
+Service period. If renewed within sixty (60) days of the conclusion of the Service period,
+the Subscription will be reactivated, subject to these Terms and Conditions.
+B. The Subscription may be terminated if Subscriber commits a material breach of these
+Terms and Conditions. All “Prohibited Uses” listed in Section III of these Terms and
+Conditions shall be considered material breaches.
+C. In the event that either party believes the other has materially breached any obligations
+under these Terms and Conditions, the non-breaching party shall so notify the breaching
+party in writing. That party shall have thirty (30) days from receipt of this notice to cure
+the alleged breach and to notify the non-breaching party in writing that cure has been
+effected. If the breach is not cured within the thirty (30) day period, the non-breaching
+party shall have the right to terminate the Subscription without further notice.
+D. Notwithstanding Section VIII(C), above, in the event that Publisher reasonably
+believes that Subscriber has materially breached its obligation not to download or print
+Service content, except as authorized by these Terms and Conditions, Publisher shall have
+the right to immediately suspend or terminate the Service. Publisher may, in its sole
+discretion, upon notice to Subscriber, permit Subscriber thirty (30) days in which to
+negotiate for resumption of access to the Service.
+E. Notwithstanding anything in these terms to the contrary, the Publisher reserves the
+right to terminate the Subscription at any time. In that case and unless otherwise provided
+under these Terms and Conditions, the Publisher shall promptly refund to the Subscriber
+on a prorated basis fees previously paid by the Subscriber to the Publisher with respect to
+the unexpired portion of the Subscription term.
+F. Publisher reserves the right to remove or purge Subscriber’s data stored with the
+Service more than ninety (90) days beyond the date of termination of the Service.
+IX. Notices Any notices to be served on either of the parties by the other shall be sent by certified
+mail, postage prepaid, and by facsimile. All such notices shall be deemed to have been received
+within seven (7) days of posting/transmission by facsimile. Publisher’s address for notice: Attn: Chief
+of CDS, Office of Business Enterprises, Cataloging Distribution Service, Library of Congress,
+Washington, D.C. 20540-4910. Fax: (202) 707-1771.X. Entire Agreement These Terms and Conditions constitute the entire agreement of the parties and
+supersede all prior communications, understandings and agreements relating to the subject matter of
+these Terms and Conditions, whether oral or written.

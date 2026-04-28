@@ -1,0 +1,7 @@
+User-Agent:*
+Disallow: /*.json$
+Disallow: /*_buildManifest.js$
+Disallow: /*_middlewareManifest.js$
+Disallow: /*_ssgManifest.js$
+Disallow: /native-app
+Sitemap: https://www.geoguessr.com/seterra/sitemap-seterra.xml

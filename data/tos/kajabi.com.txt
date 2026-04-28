@@ -1,0 +1,397 @@
+Privacy Notice
+Last Edit:
+March 6, 2026
+1. Introduction
+As the leading platform for experts, Kajabi, LLC and Kajabi Financial, LLC ("Kajabi") understands that building an online business starts with trust. We posted this privacy notice to outline the measures we employ in safeguarding your personal information. All capitalized terms not defined herein shall have the meaning attributed to them in Kajabi’s Platform Terms of Services (“Platform Terms”). We reserve the right to make changes to this Privacy Notice from time to time.  Your continued use of this Platform after we make changes is deemed to be acceptance of those changes, so please check periodically for updates.
+
+By accessing the Platform or using any of our services, you accept the practices described in this Privacy Notice and acknowledge that we may process and share your personal information. If you do not agree, you must stop using the Platform.
+
+2. Who This Privacy Notice Applies to
+This Privacy Notice applies to any information we collect:
+
+on the Platform; 
+at one of our on-site locations, events, or conferences; or
+in email, text or other electronic messages between you and the Platform.
+It does not apply to information collected by any third party, except as may be described herein, including through any application or content that may link to or be accessible from or on the Platform. Further, it does not apply to Customers, meaning those individuals who are customers of our Heroes. If you are a Customer of a Hero, Kajabi only acts as a service provider or processor of your data. You must contact the Hero directly if you have any questions or would like to exercise your data rights in your applicable jurisdiction. Finally, this does not apply to job applicants, candidates, or workforce members of Kajabi. If you are an applicant, candidate, or workforce member of Kajabi, please visit our Workforce Member Privacy Policy or contact HR for a copy of the Workforce Member Privacy Policy.   
+
+IF YOU ARE UNITED STATES RESIDENT: If you are a resident of California, this entire Privacy Notice applies to you. However, please see Additional Information for United States Residents below, which will inform you in detail about our information collection practices and your specific rights.
+
+IF YOU ARE EEA/UK RESIDENT: If you are a resident of the EEA or the UK, this entire Privacy Notice applies to you. However, please see Additional Information for European Residents below, which will inform you in detail about our information collection practices and your specific rights.
+
+3. Users Must Be At Least 18
+Users of our Platform must be at least 18 years old; any user under 18 is not authorized.  Our Platform is not targeted to children under age 18. Additionally, we do not knowingly collect any personal information from children under 18 years of age.
+
+If you have reason to believe that a child under the age of 18 has provided personal information to Kajabi through this Platform, please contact us, and we will endeavor to delete that information from our databases. ‍
+
+4. Information We Collect and How We Collect It
+We collect several types of information from and about users of the Platform or services, including information:
+
+by which you may be personally identified, such as name, postal address, e-mail address, phone number, or any other identifier by which you may be contacted online or offline ("personal information");
+you may submit to us, including any Content that has personal information;
+about your preferences, partnerships and affiliations, and demographics or
+geolocation, including precise and regional;
+about you individually but does not identify you;
+about your internet connection, the equipment you use to access our Platform, and Platform usage details;
+account information and login credentials;
+chat modules, messaging and email data, including related metrics;
+occupation history;
+financial and economic information, including, without limitation, your revenue;
+survey, participation, and general research data; and
+contests, sweepstakes, giveaways, and prize drawings data.
+We collect this information:
+
+directly from you when you provide it to us, such as when you create an account, or contact us with inquiries; and
+automatically as you use the Platform.  Information collected automatically may include usage details, and information collected through cookies.
+By voluntarily providing us with any such information, you are consenting to our use of it in accordance with this Privacy Notice.  You can choose not to provide us with certain information, but then you may not be able to take advantage of many features or opportunities.
+
+Automatically Collected Information
+
+Upon engaging the Platform or services, the Kajabi automatically receives and records information on our server logs from your browser, including but not limited to your IP address, the type of browser used, identity and type of device used, cookie information, the page you requested, and duration of activity on our Platform. Kajabi may store such information itself or such information may be included in databases owned and maintained by Kajabi and its affiliates within our corporate family, agents or service providers. This information may be used to customize the content you see on our Platform or to communicate with you about opportunities. This information provides us with the type of user who is accessing our Platform and certain browsing activities of that user. We may make extensive use of this data at an aggregated level to understand, among other things, how our Platform is being used. Kajabi may share this aggregate data with its affiliates within our corporate family, agents and business partners.  Kajabi may also disclose aggregated user statistics to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.  Please note that we have the ability to retain any data that you provide or that we collect on our Platform, even if you have not created an account, logged in or if you do not use our Platform. For example, such contact details and data may be used to contact you to share opportunities or for marketing purposes.
+
+Cookies
+
+We use "cookies" and other tracking technologies to improve your experience and to save you time and when visiting the Platform. Cookies are little tags that are placed onto your computer. We assign a cookie to your computer when you first visit us in order to enable us to recognize you each time you return. Cookies allows us to customize the Platform to your individual preferences in order to create a more personalized experience. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they enable you to take advantage of some of the Platform’s features. For more information on our use of cookies and the data they collect, see our Cookie Notice.
+
+Do Not Track
+
+We may track users’ use of the Platform, but because there is no common understanding of what a “Do Not Track” signal is supposed to mean, we will not respond to browser Do Not Track (DNT) signals. For more information on DNT settings generally, please visit https://allaboutdnt.com.
+
+Google API
+
+Kajabi uses Google’s Application Programming Interface (API) Services to enable the use of certain Platform features (i.e. use of your Gmail account to calendar events from the Platform’s Coaching feature). Kajabi’s use of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements. The information collected and used with these API services includes personal data such as email addresses, calendar information, and first and last names. Your Google information is used by our system developers to provide or improve user-facing features that are prominent to your user experience. For clarity, Kajabi does not use the information received through Google API Services for marketing purposes and does not share the same to third parties except with your consent.
+
+5. How We Use Your Information
+We use information that we collect about you or that you provide to us, including any personal information:
+
+To provide the Platform and its contents to you.
+To process transactions and fulfill orders, including billing and collections.
+To register a user.
+To provide you with marketing and promotions, and for us to audit the same.
+To provide you with information, opportunities, or services, including customer support, that you request from us.
+To provide you with notices about your account, promotions, partner agreement, or other agreements.
+To carry out our obligations and rights arising from any contracts entered into between you and us.
+To defend against claims and litigation.
+To enforce our policies and protect against security incidents, including to prevent fraud, malicious, deceptive or illegal activity.
+To notify you about changes to the Platform or any products or services we offer to provide through it.
+To fulfill any other purpose for which you provide it.
+In any other way we may describe when you provide the information.
+For any purpose with your consent.
+You may notify us to opt-out from receiving certain marketing emails and each marketing email will include an opt-out button or unsubscribe link.
+
+SMS / Text Messaging
+
+Kajabi may offer SMS and text messaging programs ("SMS Programs") in connection with the Platform. This section describes the additional data practices specific to those SMS Programs and supplements the information provided elsewhere in this Privacy Notice. The SMS Programs are governed by Kajabi's SMS Terms and Conditions, available at https://legal.kajabi.com/policies/sms-terms.
+
+Information we collect in connection with SMS Programs. When you opt in to receive SMS messages from Kajabi — for example, by providing your phone number on the Platform, clicking a link in an email from Kajabi, or replying with a keyword to a Kajabi text message — we collect your mobile phone number, a record of your consent (including the date, time, and method of opt-in), and information about your SMS interactions (such as message delivery status and opt-out requests). This information is collected and used as described in Sections 4 and 5 of this Privacy Notice.‍
+How we use SMS data. We use your mobile phone number solely to send you text messages related to the Kajabi SMS Program(s) you opted into, which may include account notifications, transactional messages, milestone celebrations, event reminders, product updates, and other communications described at the point of opt-in.‍
+No third-party sharing of SMS data for marketing. Notwithstanding any other provision of this Privacy Notice, your mobile phone number, SMS opt-in data, and consent information will not be sold, rented, or shared with third parties or affiliates for their marketing or promotional purposes. This data may only be shared with service providers who assist us in delivering SMS messages (such as our telephony and communications providers), consistent with the practices described in Section 6 (Disclosure of Your Information). Those providers are contractually prohibited from using your information for any purpose other than delivering messages on our behalf.‍
+Opt-out. You may revoke your consent to receive SMS messages at any time by texting STOP to the number from which you received a message. For additional help, text HELP or contact us at support@kajabi.com.‍
+Data retention. We retain your mobile number and consent records for as long as you remain opted in to an SMS Program and for a reasonable period afterward to comply with applicable legal obligations and to resolve disputes, consistent with the retention practices described elsewhere in this Privacy Notice.
+Notwithstanding any other provision of this Privacy Notice, the protections described in this SMS section govern all data collected in connection with Kajabi's SMS Programs. To the extent any other section of this Privacy Notice describes broader data sharing practices, those practices do not apply to mobile phone numbers, SMS opt-in data, or consent information collected through any SMS Program."
+
+6. Disclosure of Your Information
+Kajabi is not in the business of selling your information. We have the right to disclose aggregated information about our users, and information that does not identify any individual.  We may disclose personal information that we collect or you provide in accordance with this Privacy Notice:
+
+To our subsidiaries and affiliates within our corporate family.
+To contractors, service providers, channel partners, affiliates, vendors, and other third parties we use to support our business.
+To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Kajabi's assets, whether as a going concern or as part of a bankruptcy, liquidation, or similar proceeding, in which personal information held by Kajabi about our Platform users is among the assets transferred.
+To fulfill the purpose for which you provide it.
+For any other purpose disclosed by us when you provide the information.
+To our professional advisors, including lawyers, accountants, consultants, security professionals and other similar parties when disclosure is reasonably necessary.
+With your consent as you may direct.
+To third party advertising partners who may use data to serve ads for us and provide us with analytics.
+To third party vendors who may use data to provide you additional services and products.
+We may also disclose your personal information:
+
+To comply with a subpoena, court order, administrative or governmental order, or any other requirement of law.
+If Kajabi, in its sole discretion, deems it necessary to protect its rights or the rights of others, to prevent harm to persons or property, to fight fraud and credit risk.
+To enforce or apply our Platform Terms, and other agreements or policies, including for billing and collection purposes.
+7. Data Security
+Kajabi takes commercially reasonable steps to protect the personal information provided via the Platform from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. including but not limited to encryption in transit and at rest, role based access controls, strong authentication requirements, and active monitoring of all information shared. However, not all Internet or e-mail transmissions are fully secure or error free. In particular, e-mail or forms sent to or from this Platform may not be fully secure in transit. Therefore, you should take special care in deciding what information you send to us via e-mail or through a form. Please keep this in mind when disclosing any personal information to Kajabi via the Internet. Your Kajabi account personal information is protected by a password and, in some scenarios, we may offer Multi-factor Authentication (MFA) for your privacy and security. You are responsible for protecting against unauthorized access to your account and personal information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. Any transmission of personal information is at your own risk.  We are not responsible for circumvention of any privacy settings or security measures contained on the Platform.
+
+8. Links to Other Websites
+This Privacy Notice applies only to the Platform. This Platform may contain links to other web sites not operated or controlled by Kajabi (the “Third Party Sites”), e.g., Facebook, Twitter, Instagram, YouTube, LinkedIn, and TikTok. The policies and procedures we described here do not apply to the Third Party Sites. The links from this Platform do not imply that Kajabi endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.‍
+
+9. Social Media
+We use social media plug-ins (e.g., Facebook, Twitter, Instagram, TikTok). These features may collect your IP address and/or other information as set forth in each social platform’s Privacy Notice, which page you are visiting on our Platform, and may set a cookie to enable the feature to function properly. Kajabi also has a presence on some social media platforms, including YouTube, Instagram, LinkedIn, TikTok, and Facebook. Through our social media platform or our accounts on social media platforms, we may in some instances collect personal information when you interact with the Kajabi accounts or otherwise communicate with us through those accounts or on these platforms. Any information that you post on social media is governed by each social platform’s privacy notices, and any personal information that we collect via our social media accounts or on our Kajabi forums will be processed in accordance with this Privacy Notice.
+
+10. Other Terms and Conditions
+Your access to and use of this Platform is subject to our Platform Terms.
+
+11. Access to Information and Exercising Any Other Data Rights; Managing Communications; Contacting Kajabi
+To keep your personal information accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct personal information in our possession that you have previously submitted via this Platform. Note that you may also manage your communications preferences and the receipt of any commercial communication by clicking the “unsubscribe” link included at the bottom of all emails from Kajabi.
+
+If you have any questions or concerns regarding this Privacy Notice and our privacy practices, please send us a detailed message to privacy@kajabi.com and we will make every effort to resolve your concerns. You may also contact us at the address below:
+
+Kajabi, LLC 880 Newport Center Dr, Suite 100 Newport Beach, CA 92660
+
+To exercise any rights related to your data, please submit a verifiable request to us by either: toll free call at (866)-477-7510 or online at Data Request Portal.
+12. Additional Information for United States Residents
+This section supplements our Privacy Notice and applies solely to all visitors, users, and others who reside in the United States. We have created this notice in order to comply with the various U.S. Privacy Laws, including, without limitation, the California Consumer Privacy Act of 2018, and the later, California Privacy Rights Act of 2020 (collectively, “CCPA”) (collectively with other data privacy laws, (“U.S. Data Privacy Laws”).
+
+Categories of Information We Collect
+
+We collect the following categories of information as classified by U.S. Data Privacy Laws, in particular, within the last twelve (12) months, we have collected the below:
+
+Personal Identifiers
+Personal Information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))
+Protected classification characteristics under California or federal law
+Professional or employment-related information
+Commercial information
+Internet or other similar network activity
+Inferences drawn from other Personal Information
+Geolocation Data
+Messages, email, and chat data
+Sensory Data
+Government identifiers
+Complete account access credentials
+Other personal information
+As explained in more detail here, we obtain the categories of Personal Information listed above from the following categories of sources:
+
+Directly from you. For example, when you sign up on the Platform or for services. This includes the following categories of Personal Information:
+
+Personal Identifiers
+Personal Information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))
+Protected classification characteristics under California or federal law
+Professional or employment-related information
+Commercial information
+Government identifiers
+Complete account access credentials
+Other personal information
+Indirectly. For example, from observing your actions on our Platform or by use of our services, including by the use of cookies or from third parties. This includes the following categories of Personal Information:
+
+Internet or other similar network activity
+Inferences drawn from other Personal Information
+By observing Consumers’ behavior through their activity on the Platform. This includes the following categories of Personal Information:
+
+Internet or other similar network activity
+Inferences drawn from other Personal Information
+Use of Personal Information
+
+We may use, or disclose the Personal Information we collect for one or more of the following business purposes:
+
+Personal Information Category	Sources Categories	Business Purpose	Sold or Shared	Retention Period
+Personal Identifiers	You (or your device)
+Other Individuals / Sponsors
+Business Service Providers
+Partners / Affiliates
+Governmental Entities	Provide access to and use of the Platform and services;
+Help ensure security and integrity;
+Provide advertising and marketing;
+Perform services such as account maintenance, customer service, and processing transactions	Yes	See General Retention Periods
+California Customer Records Personal Information	You (or your device)
+Other Individuals / Sponsors
+Business Service Providers
+Partners / Affiliates
+Governmental Entities	Provide access to and use of the Platform and services;
+Help ensure security and integrity;
+Provide advertising and marketing;
+Perform services such as account maintenance, customer service, and processing transactions	No	See General Retention Periods
+Protected Classification Characteristics (CA or Federal Law)	You (or your device)
+Other Individuals / Sponsors
+Business Service Providers
+Partners / Affiliates
+Governmental Entities	Perform services such as account maintenance, customer service, and processing transactions	No	See General Retention Periods
+Commercial Information	You (or your device)	Perform services such as account maintenance, customer service, and processing transactions	Yes	See General Retention Periods
+Internet or Other Similar Network Activity	You (or your device)	Provide access to and use of the Platform and services;
+Help ensure security and integrity;
+Provide advertising and marketing;
+Perform services such as account maintenance, customer service, and processing transactions	Yes	See General Retention Periods
+Inferences Drawn from Other Personal Information	You (or your device)
+Other Individuals / Sponsors
+Business Service Providers
+Partners / Affiliates
+Governmental Entities	Perform services such as account maintenance, customer service, and processing transactions	No	See General Retention Periods
+Other Personal Information	Various sources	Perform services such as account maintenance, customer service, and processing transactions	No	See General Retention Periods
+‍
+
+Sensitive Personal Information
+
+Sensitive Personal Information Category	Sources Categories	Business Purpose	Sold or Shared	Retention Period
+Government identifiers (social security, driver's license, state identification card, or passport number)	You (or your device)	Perform services on behalf of the business or service provider, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, or providing similar services	No	See General Retention Periods
+Account login and financial account information, in combination with any required security or access code, password, or credentials allowing access to an account	You (or your device)	Perform services on behalf of the business or service provider, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, or providing similar services;
+Provide customer service;
+Improve the content and general administration of the Platform	No	See General Retention Periods
+Precise geolocation	You (or your device)	Perform services on behalf of the business or service provider, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, or providing similar services;
+Provide customer service;
+Improve the content and general administration of the Platform;
+Provide advertising and marketing;
+Conduct statistical analyses;
+Understand how you access and use the Platform	No	See General Retention Periods
+Contents of mail, email, and electronic messages, except where the business is the intended recipient	You (or your device)	Perform services on behalf of the business or service provider, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, or providing similar services;
+Provide customer service	No	See General Retention Periods
+‍
+
+Kajabi will not collect additional categories of Personal Information or use the Personal Information we collected for materially different, unrelated, or incompatible purposes without providing you notice.
+
+How Long Do We Keep Your Personal information?
+
+General Retention Periods
+
+We use the following criteria to determine our retention periods: the amount, nature and sensitivity of your information, the reasons for which we collect and process your personal data, the length of time we have an ongoing relationship with you and provide you with access to our services and/or Platform, and applicable legal requirements. We will retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to comply with applicable legal, tax or accounting requirements). We will also retain personal information we collect from you, for your convenience, where you have an active account, have not requested to delete or you have asked us to retain it. Additionally, we cannot delete information when it is needed for the establishment, exercise or defense of legal claims (also known as a “litigation hold”). In this case, the information must be retained as long as needed for exercising respective potential legal claims.
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives or you have asked us to keep it or we believe it will be most convenient for you), we will securely store your personal information and isolate it from any analytics tracking until deletion is possible.
+
+For any questions about data retention, please contact privacy@kajabi.com.
+
+Disclosure of Personal Information
+
+Kajabi may disclose your Personal Information to a third party for a business purpose. When we disclose Personal Information for a business purpose, we enter a contract that describes the purpose and requires the recipient to both keep that Personal Information confidential and not use it for any purpose except performing the services for us.
+
+As explained in more detail above, we share your Personal Information with certain categories of third parties who assist us in providing our Platform and with our business.
+
+Disclosures of Personal Information for a Business Purpose
+
+In the preceding twelve (12) months, Kajabi has disclosed the following categories of Personal Information for a business purpose:
+
+Personal Identifiers
+Personal Information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))
+Commercial information
+Internet or other similar network activity
+Inferences drawn from other Personal Information
+Protected classification characteristics under California or federal law
+Government identifiers
+Complete account access credentials
+Other personal information
+We disclose your Personal Information for a business purpose to the following categories of service providers or third parties:
+
+Companies that do things to help us provide the Platform and/or our services: hosting service providers, user engagement and email service providers, certain analytics providers, payment service providers, communication tools, identity verification providers or other tools we may provide you.
+Professional service providers, such as auditors, lawyers, consultants, accountants and insurers.
+Your Rights and Choices
+
+U.S. Data Privacy Laws provide individuals with specific rights regarding their Personal Information, provided that we are able to verify their identities as explained below. This section describes some of your rights and explains how to exercise those rights.
+
+Access to Specific Information and Data Portability Rights
+
+You have the right to request that we disclose certain information to you about our collection and use of your Personal Information over the past 12 months. Once we receive your request and verify your identity (see Exercising Access, Data Portability, and Deletion Rights), we will disclose to you:
+
+The categories of Personal Information we collected about you.
+The categories of sources for the Personal Information we collected about you.
+Our business or commercial purpose for collecting or selling that Personal Information.
+The categories of third parties with whom we share that Personal Information.
+The specific pieces of Personal Information we collected about you (also called a data portability request).
+If we sold or disclosed your Personal Information for a business purpose, two separate lists disclosing:
+sales, identifying the Personal Information categories that each category of recipient purchased; and
+disclosures for a business purpose, identifying the Personal Information categories that each category of recipient obtained.
+Deletion Request and Correction Request Rights
+
+You have the right to request that we delete or correct any of your Personal Information that we collected from you and retained, subject to certain exceptions. Once we receive your request and verify your identity (see Exercising Access, Data Portability, and Deletion Rights), we will delete (and direct our service providers to delete) or correct (and direct our service providers to correct) your Personal Information from our records, unless an exception applies. As an alternative to correction, we may delete the inaccurate information if it does not negatively impact you or if you consent to this deletion. Kajabi reserves the right to deny a correction request if allowed under the law or if we determine that the contested information is more likely than not accurate, based on the totality of circumstances. We may deny your deletion request if retaining the information is necessary for us or our service provider(s) to:
+
+Complete the transaction for which the Personal Information was collected, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, provide products or service requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform our contract with you.
+Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
+Debug products to identify and repair errors that impair existing intended functionality.
+Exercise free speech, ensure the right of another individual to exercise that Consumer’s right of free speech, or exercise another right provided for by law.
+Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.).
+Enable solely internal uses that are reasonably aligned with individual expectations based on your relationship with us.
+Comply with a legal obligation.
+Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
+Limit Use and Disclosure of Sensitive Personal Information
+
+You have the right to request that we limit use, delete any of your Sensitive Personal Information that we collected from you and retained, subject to certain exceptions. Once we receive your request and verify your identity (see Exercising Access, Data Portability, and Deletion Rights), we will delete (and direct our service providers to delete) your Personal Information from our records, unless an exception applies. We may deny your request to limit certain uses and disclosures of your Sensitive Personal Information for the following purposes: 
+
+Providing the Platform or our products and services as reasonably expected;
+Detecting security incidents affecting personal information on our Platform, provided that the use of the individual’s Sensitive Personal Information is reasonably necessary and proportionate for this purpose;
+Resisting malicious, fraudulent, or illegal actions against us and prosecuting persons responsible for such actions, provided that the use of the Consumer’s Sensitive Personal Information is reasonably necessary and proportionate for this purpose;
+Ensuring the physical safety of an individual, provided that the use of the Consumer’s Sensitive Personal Information is reasonably necessary and proportionate for this purpose;
+Short-term, transient use, including non-personalized advertising shown as part of a Consumer’s current interaction with our Platform, provided that we do not build a profile about the individual or alter the individual’s experience outside their current interaction with us;
+Performing services on behalf of another business (g., maintaining accounts, processing orders or transaction);
+Verifying or maintaining the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by us, or improving, upgrading, or enhancing the services or device owned, manufactured, manufactured for, or controlled by us; or
+To collect or process sensitive personal information where such collection or processing is not for the purpose of inferring characteristics about a consumer.
+Exercising Access, Data Portability, and Deletion Rights
+
+Only you, or a person you authorize to act on your behalf, may make a verifiable data request related to your Personal Information. You may also make a verifiable data request on behalf of your minor child.
+
+To exercise the access, data portability, and deletion rights described above, please submit a verifiable request to us by either: toll free call at (800)-452-5224 or online at Data Request Portal. You may only make a verifiable data request for access or data portability twice within a 12-month period. The verifiable data request must:
+
+Provide sufficient information that allows us to reasonably verify you are the person about whom we collected Personal Information or an authorized representative. We consider requests made through our portal with a verified email as a reasonable step toward verification.
+Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+We cannot respond to your request or provide you with Personal Information if we cannot verify your identity or authority to make the request and confirm the Personal Information relates to you. Please note, certain U.S. Data Privacy Laws require us to consider a number of factors to verify your identity, which may occur on a case-by-case basis.
+
+Response Timing and Format
+
+We endeavor to respond to a verifiable data request within forty-five (45) days of its receipt. If we require more time (up to 90 days), we will inform you of the reason and extension period in writing.
+
+If you have an account with us, we will deliver our written response to that account. If you do not have an account with us, we will deliver our written response by mail or electronically, at your option.
+
+Any disclosures we provide will only cover the 12-month period preceding our receipt of the verifiable Consumer’s request. If applicable, our response we provide will also explain the reasons we cannot comply with a request. For data portability requests, we will select a format to provide your Personal Information that is readily usable and should allow you to transmit the information from one entity to another entity without hindrance.
+
+We do not charge a fee to process or respond to your verifiable data request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
+
+Sale; Non-Discrimination
+
+Kajabi does not sell personal information. However, certain laws can define “sale” in a broad manner that captures nearly all business activity. For example, under the CCPA, “personal information” includes information that is not necessarily directly tied to an individual’s identity but may be associated with a device. This includes identifiers such as IP addresses, web cookies, web beacons, and mobile Ad IDs. In many cases, this type of information does not directly identify you, but they are unique identifiers that could be linked to you and therefore covered by the CCPA. The term “sell” is broadly defined by the CCPA to include not just selling in exchange for money, but also sharing personal information (including information that does not directly identify an individual as described above) in exchange for anything of value. Under the CCPA’s broad definition of “sell,” which includes even the common flow of information in the digital analytics and advertising ecosystem, Kajabi could be defined as “selling” personal information. Like most companies that operate websites, Kajabi uses online analytics to measure the ways users engage with our Platform and to provide targeted marketing. These analytics, in turn, inform how we perform online advertising. To provide these analytics and facilitate online advertising, we use third-parties that collect device identifiers and place tags, cookies, beacons, and similar tracking mechanisms on our digital properties and on third-party digital properties as set forth in our Cookie Notice.  You may opt-out of this sharing by submitting a request at our Data Request Portal.
+
+We will not discriminate against you in a manner prohibited by the U.S. Data Privacy Laws because you exercise your rights. While you may request to delete your Personal Information under U.S. Data Privacy Laws, such deletions may affect Kajabi’s ability to offer the Platform or to sell our products and services to you.
+
+13. Additional Information for European Economic Area (“EEA”), Switzerland, or United Kingdom (“U.K.”) Residents.
+This Additional Information for EEA, Switzerland, and U.K. Residents supplements the information contained in the Privacy Notice and applies solely to all visitors, users, and others who reside in EEA, Switzerland, and U.K. We have created this notice in order to comply with the European Union’s General Data Protection Regulation, Switzerland's Federal Act on Data Protection, and U.K. General Data Protection Regulation (collectively, “GDPR”). All capitalized terms not defined in this section shall have the respective meanings given to them in the GDPR. 
+
+Categories of Recipients of Personal Data
+
+The categories of recipients of Personal Data with whom we may share your personal data are listed in Disclosure of Your Personal Information above.
+
+Purpose of the Processing and Legal Bases
+
+Kajabi processes your personal information for a number of different purposes. Some are essential for us to provide the Platform you use or to fulfill our legal obligations, some help us run the Platform efficiently and effectively, and some enable us to provide you with more relevant and personalized offers and information. In all cases we must have a reason and a legal ground for processing your personal information. Some of the most common legal grounds we rely on are briefly explained below.
+
+Performance of a Contract: We may process your personal data for the purpose of performing under the terms of a contract to which you are a party - in other words, your ability to use the Platform. For instance, if you process payments for your end customers through the Platform, we will process your data to carry out the payment transaction.
+Legitimate Interests: We may process personal data where it is necessary for our legitimate business interests, but only to the extent that they are not outweighed by your own interests or fundamental rights and freedoms. We generally rely on legitimate interests to provide and maintain the Platform that works well and securely, to carry out fraud prevention, and to generally improve the Platform. When we rely on this legal basis, if required, we will carry out a legitimate interest assessment to ensure we consider and balance any potential impact on you (both positive and negative), and your rights under data protection laws.
+Consent: Kajabi will rely on consent where it is required, such as when we are asking you to confirm your marketing preferences or when you submit sensitive data. When we rely on consent, you will be asked to confirm that you give your permission to Kajabi to process your personal data. You have the right to withdraw your consent at any time if you no longer want to be part of the Kajabi processing activity where your consent was sought.
+Legal Obligation: Kajabi will on occasion be under a legal obligation to obtain and disclose your personal data or may cooperate in a legal or governmental investigation. Where possible, we will notify you when processing your data due to a legal obligation; however, this may not always be possible. Kajabi may determine that it needs to provide your data to prevent criminal activity or help to detect criminal activity; in which case, we may share information with law enforcement without notifying you. It is essential that Kajabi complies with its legal, regulatory, and contractual requirements, so if you object to this processing, Kajabi will not be able to provide its Platform to you.
+Below are the general purposes and corresponding legal bases (in brackets) for which we may use your personal information:
+
+Providing you access to and use of the Platform [depending on the context, performance of a contract, legitimate interests, and in some cases, legal claims].
+Processing and completing transactions, and sending you related information, including purchase confirmations and invoices and important notices [depending on the context, performance of a contract or legitimate interests].
+Responding to your queries and requests, or otherwise communicating directly with you [depending on the context, performance of a contract, legitimate interests, and in some cases, legal claims].
+Improving the content and general administration of the Platform, including system maintenance and upgrades, enabling new features and enhancements [legitimate interests].
+Detecting fraud, illegal activities or security breaches [legitimate interests].
+Ensuring compliance with applicable laws [compliance with a legal obligation].
+Conducting statistical analyses and analytics by monitoring and analyzing trends, usage, and activities in connection with the Platform [consent where required (e.g. 3rd-party cookies), or legitimate interests].
+Increasing the number of customers who use our Platform through marketing and advertising [consent where required, or legitimate interests].
+Sending commercial communications, in line with your communication preferences, about products and services, features, newsletters, offers, promotions, and events [consent and in some cases, depending on location, with existing customers, legitimate interests].
+Providing information to regulatory bodies when legally required, and only as outlined below in this Privacy Notice [legal obligation, legal claims, legitimate interests].
+How Long Do We Keep Your Personal Data?
+
+We use the following criteria to determine our retention periods: the amount, nature and sensitivity of your information, the reasons for which we collect and process your personal data, the length of time we have an ongoing relationship with you and provide you with access to our Platform, and applicable legal requirements. We will retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to comply with applicable legal, tax, or accounting requirements), when we are unable to reasonably verify your identity, or as may otherwise be required under GDPR. Additionally, we cannot delete information when it is needed for the establishment, exercise, or defense of legal claims (also known as a “litigation hold”). In this case, the information must be retained as long as needed for exercising respective potential legal claims.
+
+When we have no ongoing business need to process your personal information, we will either delete or anonymize it. If you have questions about, or need further information concerning, our data retention periods, please send an email at privacy@kajabi.com. 
+
+Staying in Control of Your Information: Your Rights
+
+If you are in the EEA, Switzerland, or the U.K., you have certain rights in relation to your personal data, including those set forth below. Please note that in some circumstances, we may not be able to fully comply with your request, such as if it is frivolous or extremely impractical, if it jeopardizes the rights of others, if an exception applies, or if it is not required by law, but in those circumstances, we will still respond to notify you of such a decision. In some cases, we may also need you to provide us with additional information, which may include personal data, if necessary to verify your identity and the nature of your request.
+
+Access: You can request more information about the personal data we hold about you and request a copy of such personal data.
+Rectification: If you believe that any personal data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data.
+Erasure: You can request that we erase some or all of your personal data from our systems.
+Withdrawal of Consent: If we are processing your personal data based on your consent (as indicated at the time of collection of such data), you have the right to withdraw your consent at any time. Please note, however, that if you exercise this right, you may have to then provide consent on a case-by-case basis for the use or disclosure of certain of your personal data, if such use or disclosure is necessary to enable you to utilize some or all of our Platform.
+Portability: You can ask for a copy of your personal data in a machine-readable format. You can also request that we transmit the data to another controller where technically feasible.
+Objection: You can contact us to let us know that you object to the further use or disclosure of your personal data for certain purposes, such as for direct marketing purposes.
+Restriction of Processing: You can ask us to restrict further processing of your personal data.
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights) unless your request is clearly unfounded, repetitive, or excessive. Alternatively, we may refuse to comply with your request under those circumstances.
+
+We will respond to all legitimate requests within one month. Occasionally, it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated as required by law.
+
+In addition, if you no longer wish to receive our marketing/promotional information, we remind you that you may withdraw your consent to direct marketing at any time directly from the unsubscribe link included in each electronic marketing message we send to you. If you do so, we will promptly update our databases, and will take all reasonable steps to meet your request at the earliest possible opportunity, but we may continue to contact you to the extent necessary for the purposes of providing our Platform.
+
+Finally, you have the right to make a complaint at any time to the supervisory authority for data protection issues in your country of residence. A list of Supervisory Authorities is available here: https://edpb.europa.eu/about-edpb/board/members_en. We would, however, appreciate the chance to address your concerns before you approach the supervisory authority, so please contact us directly first.
+
+Exercising Your Rights
+
+To exercise the access, data portability, and deletion rights described above, please submit a verifiable request to us  online at Data Request Portal.
+
+Contacting our Representative in the EEA or the U.K.
+
+If you are in the EEA: Kajabi has appointed the European Data Protection Office (EDPO) as its European Representative pursuant to Article 27 of the GDPR. You can contact EDPO regarding matters pertaining to the GDPR:
+by using EDPO’s online request form: https://edpo.com/gdpr-data-request/
+by writing to EDPO at Avenue Huart Hamoir 71, 1030 Brussels, Belgium
+If you are in the U.K.: Kajabi has appointed EDPO UK Ltd as its representative in the U.K. pursuant to the Data Protection Act 2018 (“U.K. GDPR”). You can contact EDPO UK regarding matters pertaining to the U.K. GDPR:
+by using EDPO’s online request form: https://edpo.com/uk-gdpr-data-request/
+by writing to EDPO UK at 8 Northumberland Avenue, London WC2N 5BY, United Kingdom
+14. International Transfers
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Kajabi commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF.
+
+Kajabi complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.  Kajabi has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Kajabi has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  Under certain conditions, individuals may invoke binding arbitration to address complaints about Kajabi's compliance with the DPF Principles that have not been resolved by other means, as set forth in Annex I of the DPF Principles. To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit https://www.dataprivacyframework.gov/
+
+Further, Kajabi's compliance with the DPF is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In accordance with the DPF, Kajabi is also liable for onward transfers to third parties that process personal information in a way that does not follow the DPF unless Kajabi was not responsible for the event giving rise to any alleged damage.
+
+If you are accessing or using our Platform or otherwise providing personal information to us, you are agreeing and consenting to the processing of your personal information in the United States and other jurisdictions in which we operate.

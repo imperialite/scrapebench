@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /logs/
+Disallow: /themes/
+Disallow: /*.ajax$
+Disallow: /dmca
+Disallow: /privacy-policy
+Disallow: /terms-of-use
+Disallow: /terms-of-service
+
+Sitemap: https://geometry-games.io/sitemap.xml

@@ -1,0 +1,17 @@
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: *
+Noindex: /breeder-benefits
+Noindex: /registered-breeder-benefits
+Noindex: /good-breeder-center/good-breeder-discounts
+Noindex: /health_check
+Noindex: /sidekiq
+Noindex: /admin/
+Noindex: /breeder/
+Noindex: /auth/
+Noindex: /account/
+Noindex: /shelters
+Disallow: /rails/
+Disallow: /explore/
+Disallow: /puppy/

@@ -1,0 +1,23 @@
+Terms and Conditions
+S3WaaS is an online service developed for government entities to generate Secure, Scalable & Sugamya websites. It enables government entities to choose from various templates for generating websites as well as customizing and managing the content without any technical know-how, thus empowering them to maintain their online presence.
+
+This website is Designed, Developed, Hosted and Maintained by National Informatics Centre (NIC), Ministry of Electronics and Information Technology, Government of India.
+
+Government entities requiring websites that are primarily informational can use the S3WaaS framework to generate and host websites under the GOV.IN or NIC.IN domain. In order to generate a website users need to contact s3waas[dot]support[at]gov[dot]in. The different onboarding models are as under
+
+Free of cost: S3WaaS is offered free of cost for websites of District administration, Raj Bhawan, State Portal, Divisional Commissioner and Chief Ministers
+Paid Model: Offered for bulk websites in slabs of upto 25, 50, 75 or 100.
+Website as a service: Users may avail website as a Service for a single site through NIC cloud at https://cloud.gov.in/services_website.php.
+24×7 support desk could be contacted in case of any problems either through toll free phone number 1800-111-555 or on mail to s3waas[dot]support[at]gov[dot]in.
+
+Terms and Conditions
+It must be ensured that all the contact details provided at the time of registration and in the authorization letter are correct and the same must be updated as and when there is any change.
+Contact details verification is mandatory for both Technical Contact as well as Administrative Contact. Authorization Letter can only be generated after Administrative contact details are verified.
+The Authorization letter needs to be printed on the official letterhead of the Administrative Contact before signing, stamping and scanning for uploading the Authorization letter in PDF format. The Technical Contact user role is to be created for generating and managing websites and Administrative Contact as a signing authority (collectively referred to as Website Owners).
+The Website Owners are responsible for making the temporary sites live within a period of 45 days from the date/time of generation, after 45 days the temporary site would be automatically purged.
+In case Technical Contact does not use the graphics of defined sizes in the predesigned S3WaaS templates to create a website, such websites would be purged without notice and the Technical Contact may have to recreate the website in line with the framework.
+Purging the contents of the legacy website (pre-S3WaaS, if at all exists) as well as blocking the opened ports and surrendering the legacy Website’s Public IP to the hosting service provider are the responsibilities of the website owners.
+Content is the sole responsibility of the Website Owners. NIC is not responsible for the content being published on the website. The templates are verified for accessibility by STQC; however, adding accessibility compliant content, pdf, images, videos, removing outdated content, getting certification for GIGW compliance etc. are the sole responsibility of the Website Owners.
+No Personal Identification Details such as Aadhaar Number, Bank Account Number etc. should be listed in any of the uploaded documents or HTML pages of the website. In case of non-compliance, penal action in accordance with the Aadhaar Act and subsequent regulations thereunder may be initiated by the concerned competent authorities.
+For security reasons, it is advised to keep all login Credentials confidential and change password at least once in three months. Follow other cyber security best practices to protect your login credentials. Users are requested to install personal firewall software to secure their machine and website management also install the Antivirus software with the latest pattern update periodically and OS patches in their system.
+NIC will take all possible measures to prevent data loss, however, due to unforeseen technical issues, or human error if the same happens, NIC cannot be held responsible.

@@ -1,0 +1,40 @@
+# robots.txt
+User-agent: *
+Disallow:/sponsors/
+Disallow:/classifieds/extratags
+Disallow:/images/
+Disallow:/posts/new
+Disallow:/posts/create
+Disallow:/posts/*/edit
+Disallow:/posts/*/save
+Disallow:/posts/*/delete
+Disallow:/posts/*/activate
+Disallow:/posts/*/deactivate
+Disallow:/posts/*/flag?*
+Disallow:/posts/resendactivation
+Disallow:/currency/change
+Disallow:/currency/picker
+Disallow:/account
+Disallow:/account/edit
+Disallow:/Settings
+Disallow:/account/vendors/*/edit
+Disallow:/PVResources
+Disallow:/account/vendors/*/editimages
+Disallow:/account/sendsupportemail
+Disallow:/account/editpassword
+Disallow:/account/posts
+Disallow:/account/favorites
+Disallow:/account/favoritevendor
+Disallow:/billing
+Disallow:/searchalerts/account
+Disallow:/directmessage/index
+Disallow:/myhomeffl
+Disallow:/WBAG/index
+Disallow:/account/subscribetopv
+Disallow:/ExclusiveCoupon
+Disallow:/RewardTransactions
+Disallow:/blog/manage
+Disallow:/blog/createpost
+Disallow:/blog/editpost/
+Disallow:/ProductDetails/GetRecentlyAddedProduct
+Sitemap: https://www.armslist.com/sitemap.xml

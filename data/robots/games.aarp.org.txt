@@ -1,0 +1,10 @@
+# Robots.txt file created by https://www.aarp.org/
+# For subdomain: https://games.aarp.org/
+# Updated 5-14-19 Raymond Deschenes Site Relaunch
+# This file is not to be altered without AARP Authorization
+# All robots will spider the domain
+
+User-agent: *
+Disallow: /oauth2
+
+Sitemap: https://games.aarp.org/sitemap.xml

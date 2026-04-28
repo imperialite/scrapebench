@@ -1,0 +1,7 @@
+User-agent: * 
+Disallow: *sandbox*
+Disallow: *page-not-found*
+Disallow: *video-resources*
+Disallow: /ceros-packages/5g-v12/index.html
+Disallow: /ceros-packages/5g-v12/index/*
+Sitemap: https://www.business.att.com/sitemap-index.xml

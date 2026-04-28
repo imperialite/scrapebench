@@ -1,0 +1,132 @@
+Sitemap: https://www.betterworldbooks.com/sitemap_index.xml
+Sitemap: https://www.betterworldbooks.com/sitemap_themes.xml
+Sitemap: https://www.betterworldbooks.com/sitemap_landing.xml
+Sitemap: https://www.betterworldbooks.com/sitemap_categories.xml
+
+User-agent: *
+Allow: /go/book_depository_alternative$
+Allow: /go/discover_books_alternative$
+Allow: /go/costco_alternative$
+Allow: /go/sustainability$
+Allow: /go/bargain-bookshelf$
+Allow: /go/bargain-bin$
+Allow: /go/deals$
+Allow: /go/rewards$
+Allow: /go/clearance-aisle$
+Allow: /go/shipping$
+Allow: /go/donate$
+Allow: /go/save-over-amazon$
+Allow: /go/used-books$
+Allow: /go/book-for-book$
+Allow: /go/bcorp$
+Allow: /go/b-corp$
+Allow: /go/mission$
+Allow: /go/dropboxes$
+Allow: /go/Internet_Archive$
+
+Allow: /product/detail/
+Allow: /explore/
+Disallow: /WebVitals/StoreWebVitals
+Disallow: /cdn-cgi/
+Disallow: /explore/featured/college-textbooks-2
+Disallow: /go/textbooks
+Disallow: /Error
+Disallow: /error
+Disallow: /go/
+Disallow: /bag/
+Disallow: /Bag/
+Disallow: /Impact/
+Disallow: /Services/
+Disallow: /processpaypal.aspx
+Disallow: /login.aspx
+Disallow: /account/login
+Disallow: /myaccount.aspx
+Disallow: /basket.aspx
+Disallow: /billinfo.aspx
+Disallow: /cart.aspx
+Disallow: /wishlist.aspx
+Disallow: /vieworder.aspx
+Disallow: /signin.aspx
+Disallow: /signout.aspx
+Disallow: /wish.aspx
+Disallow: /account.aspx
+Disallow: /pay.aspx
+Disallow: /address.aspx
+Disallow: /ship.aspx
+Disallow: /orderview.aspx
+Disallow: /orderprint.aspx
+Disallow: /sendlink.aspx
+Disallow: /redirect.aspx
+Disallow: /BuyBackCart.aspx
+Disallow: /service.aspx
+Disallow: /offer.aspx
+Disallow: /custom.aspx*?f=*
+Disallow: /*-H*.aspx
+Disallow: /images/BWB_Intro_Scan2eBook.png
+Disallow: /Info-Discards-Donations-Program-m-4.aspx
+Disallow: /Info-Donate-Books-m-7.aspx
+Disallow: /Info-Books-We-Accept-m-25.aspx
+Disallow: /Info-RUFIS-m-44.aspx
+Disallow: /Content/booksellers-faq.xml
+Disallow: /Content/recyclers-faq.xml
+Disallow: /content/images/gallery
+Disallow: /images/ifthen1
+Disallow: /content/pdf/
+Disallow: /product/detail/c7c-el-nacimiento-de-un-jotun-spanish-edition-1075056179
+Disallow: /product/detail/hassana-kaur-1684709822
+Disallow: /product/detail/Hassana-Kaur-9781684709823
+Disallow: /product/detail/the-mentor-1475938608
+Disallow: /product/detail/the-mentor-9781475938609
+Disallow: /product/detail/Northern-Oz---Beyond-the-Yellow-Brick-Road--Volume-1--9781478360179
+Disallow: /product/detail/beating-the-lie-based-on-a-true-story-9798598776643
+Disallow: /bag
+Disallow: /My/Account
+Disallow: /My/Wishlist
+Disallow: /product/detail/2083-Book-3--A-European-declaration-of-independence-9781648580963
+Disallow: /go/eBooks
+Disallow: /downloads
+Disallow: /SourceItem
+Disallow: /SourceItem/StoreSourceTitleResults
+
+User-agent: Yandex
+Crawl-delay: 10
+
+User-Agent: Neevabot
+Crawl-delay: 10
+
+User-agent: MSNBot
+Crawl-delay: 5
+
+User-agent: bingbot
+Crawl-delay: 5
+
+User-agent: Amazonbot   
+Crawl-delay: 10
+
+User-agent: FacebookBot   
+Crawl-delay: 10
+
+User-agent: facebookexternalhit
+Crawl-delay: 10
+
+User-agent: Applebot
+Crawl-delay: 5
+
+User-agent: Adidxbot
+Crawl-delay: 5
+
+User-agent: BingPreview
+Crawl-delay: 5
+
+User-agent: Pinterest
+Crawl-delay: 15
+
+User-agent: CCBot
+Crawl-Delay: 10
+
+User-agent: Baiduspider
+Crawl-delay: 10
+
+User-agent: EtaoSpider
+
+User-agent: TurnitinBot

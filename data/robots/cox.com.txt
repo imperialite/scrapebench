@@ -1,0 +1,27 @@
+# Block all robots from tmp and logs directories
+User-agent: *
+Disallow: /news-releases?item=
+Disallow: /video-gallery?item=
+Disallow: /news-releases?l=
+Disallow: /2014-
+Disallow: /2015-
+Disallow: /2016-
+Disallow: /2017-
+Disallow: /2018-
+Disallow: /2019-
+
+
+# example old URLs
+# https://newsroom.cox.com/news-releases?item=12 (2008)
+# https://newsroom.cox.com/news-releases?item=637 (2012)
+# https://newsroom.cox.com/news-releases?item=63 (2008/2007 ish)
+# https://newsroom.cox.com/news-releases?l=100&o=400 (2012)
+# https://newsroom.cox.com/video-gallery?item=1566 (2016)
+# https://newsroom.cox.com/video-gallery?item=1697 (2017)
+# https://newsroom.cox.com/2014-10-16-Photos-Cox-President-Pat-Esser-Visits-First-Gigabit-Internet-Home-in-Arizona
+# https://newsroom.cox.com/2015-05-13-Final-Days-to-Nominate-Volunteers-for-Arizonas-4th-Annual-Cox-Conserves-Heroes-Awards-Program
+# https://newsroom.cox.com/2016-06-20-Cox-and-The-Trust-For-Public-Land-Announce-Lee-Heller-as-Californias-2016-Cox-Conserves-Hero
+# https://newsroom.cox.com/2017-04-24-Survey-Shows-Made-in-America-Resonates-with-Small-Business-Shoppers
+# https://newsroom.cox.com/2018-08-09-Cox-Business-Acquires-RapidScale
+# https://newsroom.cox.com/2019-10-09-Cox-Boosts-Speeds-of-Low-Income-Internet-Product-by-over-65-Percent-Across-Footprint
+# https://newsroom.cox.com/2020-10-28-Henderson-Nevada-Launches-Energy-Efficient-Smart-Lighting-Project-with-Cox-Business

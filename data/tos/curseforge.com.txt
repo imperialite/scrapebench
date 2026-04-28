@@ -1,0 +1,120 @@
+CurseForge 3rd Party API Terms and Conditions: CurseForge support
+Thank you for reaching out to us!
+Your ticket has been successfully submitted.
+You'll receive an email with your ticket details, and our support will contact you within 48-72 hours.
+View my ticket
+Continue to Home
+CurseForge 3rd Party API Terms and Conditions
+Modified on: Wed, 14 Aug, 2024 at  2:54 PM
+PLEASE READ THIS AGREEMENT CAREFULLY; THIS IS A BINDING CONTRACT.
+INDEX
+Definitions
+Use of Platform API
+Restrictions and Obligations of Developer
+Representations and Warranties of Developer
+Intellectual Property Rights
+No Warranty; Limitation of Liability
+Indemnification
+Term and Termination
+Effects of Termination
+Survival
+Publicity
+Miscellaneous
+Notices
+Relationship of Parties
+Entire Agreement; Modification, Amendment, Waiver; Severability
+Assignment; Successors
+Governing Law
+Overwolf Ltd., a company organized under the laws of the State of Israel ("
+Overwolf
+") is the owner of CurseForge (CF) and CurseForge for Studios ("
+CurseForge for Studios
+"), an innovative game modding platform allowing for the creation of third party game related content for the use and enjoyment of the gaming community (the "
+Platform
+"). "
+You
+" or "
+Developer
+" means anyone who desires to develop either applications in relation with the Platform and/or based on the Platform API and SDKs (as defined below).
+Please read these Terms and Conditions (the “
+Terms and Conditions
+” or “
+Terms
+”) carefully. These Terms govern your access to and use of the Platform, Platform API and SDKs (as defined below). By accessing or making use of the Platform API and/or any SDK or clicking "accept", you signify your assent to both these Terms and our Privacy Policy (a current copy of which is available here,
+https://www.overwolf.com/legal/privacy/
+). If you do not agree to any of these Terms and Privacy Policy, you are not authorized to download, access and/or make use of the Platform API and/or any SDK in any way.
+Definitions
+In these Terms the following terms when capitalized shall have the meaning set forth below
+"
+External App
+" means any application created by Developer and using the Platform API and/or any SDK, provided that such application provides substantial functionality above and beyond the functionality and materials provided through the Platform API and/or SDK.
+"
+End User
+" means an end user consumer of the Platform who wishes to use an External App.
+"
+Platform API
+" means CurseForge for Studios application program interface made available by Overwolf which allows Developers to create External Apps, including without limitation any SDK which Overwolf may provide to you.
+“
+SDK
+” means any software development kit created by Overwolf or obtained by a Developer from Overwolf.
+Use of Platform API
+Subject to the terms and conditions hereof, Overwolf shall allow Developer during the term of these Terms the non-exclusive right to use the Platform API solely in order to create applications that are External Apps.
+As a prerequisite to the use of the Platform API and/or any SDK, each Developer will be issued a unique API Key (the “
+API Key
+”), which is non-transferable and may not be shared with any third party. Developer may not disclose the API Key to any third party, except to such employees who are subject to corresponding confidentiality obligations (each, an “
+Authorized Recipient
+”).
+Upon the External App exceeding a certain quota, to be decided and updated from time to time upon Overwolf’s sole discretion, continued use of the Platform API and/or SDK may (at Overwolf’s sole discretion) require Developer to enter into a written licensing agreement with Overwolf, which license agreement may contain payment requirements or other terms and conditions applicable to the continued use of the API or SDK. Overwolf may decline to provide access to any data or services provided through the API or SDK to the extent the External App exceeds such quota determined by Overwolf and the parties do not come to a mutual written agreement regarding an alternative arrangement.
+Restrictions and Obligations of Developer
+Developer shall not, and shall not allow any third party, to (a) copy, sublicense, adapt, modify the Platform, Platform API and/or any SDK; (b) rent, lease, modify, copy, loan, transfer, sublicense, distribute or create derivative works of the Platform, Platform API and/or any SDK; (c) disassemble, reverse engineer, attempt to find the underlying code of, or decompile the Platform, Platform API and/or any SDK; (d) circumvent any security mechanisms of the Platform, Platform API and/or any SDK; or (d) remove or obscure any copyright or other notices from the Platform, Platform API and/or any SDK, (e) conceal your identity or geographic location when accessing the API, including accessing the API through a proxy server or VPN;  or (e) save or cache any data obtained through the API or SDK. In addition, Developer shall not use the API or SDK, or any materials obtained through the API or SDK, in order build any product or service that competes, directly or indirectly, with CF, CurseForge for Studios, or the Platform. To the extent any of the restrictions set forth in this Section are not enforceable under applicable law, Developer shall inform Overwolf in writing in each instance prior to engaging in the activities set forth above. All Platform APIs and SDKs must be used in accordance with applicable documentation.
+Developer represents and warrants that no External App (including any content provided by users) shall (a) contain any defamatory, libelous, obscene, hateful or otherwise offensive materials, (b) infringe or violate any intellectual property rights, moral rights or privacy rights of any third party, (c) violate any applicable law, rule or regulation, (d) include, or transmit any virus, worm, adware, malware, or other malicious software, or any software or programs which could violate the privacy rights of any End User, or (e) send messages (including emails or SMS) to any End User that an End User could possibly find abusive, harassing, needlessly repetitive or any messages that violate any applicable law, rule or regulation.
+Representations and Warranties of Developer
+Developer represents and warrants that it (a) is of at least 18 years of age or otherwise legally competent to enter into a binding agreement or, if it is a corporation, that is authorized to enter into this Agreement, and (b) all information provided to Overwolf by Developer is accurate and correct, and will be promptly updated by Developer as necessary to keep it accurate and correct.
+Intellectual Property Rights
+Overwolf and its licensors have exclusive right, title and interest to the Platform, the Platform API, the SDKs, all materials, data and information provided through the foregoing, any related documentation and all enhancements, derivatives, bug fixes or improvements to the foregoing. Except as expressly provided in these Terms, nothing herein will be construed to confer any ownership interest, license, or other rights upon Developer by implication, estoppel or otherwise as to any technology, intellectual property rights or products of Overwolf or any third party.
+Overwolf grants Developer a limited, non-exclusive license to use the Platform API and/or SDK, including all code and files included therein, and any accompanying documentation files solely for the purposes expressly outlined herein and subject to all terms and conditions of these Terms.
+Developer and its licensors shall have all right, title and interest to all External Apps they develop, subject to Overwolf’s and its licensors’ rights as set forth in Section 5.1.
+No Warranty; Limitation of Liability
+The Platform, Platform API, SDK and any documentation related thereto are provided “AS-IS”. Overwolf expressly disclaims all warranties in respect of the Platform, Platform API, SDK, and information, data or materials provided through the foregoing, and any documentation related thereto including, without limitation, express or implied warranties of merchantability and fitness for a particular purpose. Furthermore, Overwolf shall not have any liability whatsoever in respect of the Platform, Platform API, SDK, and information, data or materials provided through the foregoing, and any documentation related thereto and these Terms. Developer understands that Overwolf is providing the Platform, Platform API, SDK, and information, data or materials provided through the foregoing, and any documentation related thereto only subject to the warranty disclaimers and limitations of liability set forth herein, and Developer expressly agrees to such provisions. Overwolf furthermore expressly disclaims any responsibility with regard to the External Apps including any damage that may be incurred by End Users through the use of any External Apps. Developer shall promptly notify Overwolf of any claim by any third party that the Platform or any External App, or any element of the foregoing, infringes the intellectual property rights, moral rights, or privacy rights of any third party. Developer shall not take any action, legal or otherwise, with respect to such matter without the prior written consent of Overwolf.
+Indemnification
+Developer shall defend, hold harmless and indemnify Overwolf and its employees, consultants and affiliates, from any losses, liabilities, costs, damages or expenses incurred in connection with any claim alleging or relating to (a) the Developer’s breach of these Terms or (b) the infringement by any External App of any applicable laws, rules or regulations, or any third party intellectual property, moral or privacy rights. Developer shall provide Overwolf with prompt written notice of any such claim advanced by a third party, including any governmental authority. Overwolf may be represented in any proceeding regarding such a claim by counsel of its own choosing at its own expense.
+Term and Termination
+Overwolf may terminate these Terms upon written notice if it has justifiable reason to believe that Developer is in material breach of any provision hereof or upon any breach, or misconduct, by the Developer, provided such a breach, or act of misconduct, has not been cured within 14 days of the provision of written notice to that effect. Developer understands that Overwolf requires the ability to terminate without notice in the event of Developer’s material breach in order to protect Overwolf from liability. In addition, Overwolf may at any time terminate these Terms without cause with respect to any specific External App within 30 days of the provision of written notice to that effect.
+Effects of Termination
+Upon termination of these Terms for any reason Developer shall cease the use of the rights licensed hereunder including, for the avoidance of doubt, (a) cease all use of the Platform, Platform API and/or any SDKs, and (b) promptly delete or destroy all copies of any API Key. Developer shall ensure that all Authorized Recipients shall similarly delete or destroy all copies of the API Key. The termination of these Terms solely with respect to one or more specific External Apps shall not affect the parties’ rights hereunder with respect to other External Apps.
+Survival
+The rights and obligations of the parties pursuant to Sections 3 – 12 of the Terms will survive expiration or termination of these Terms for any reason.
+Publicity
+Overwolf shall have the right to include a reference to the Developer, its official name and logo, and the External App on its website, marketing literature, labeling and in its promotional materials.
+Miscellaneous
+Notices
+Any and all notices and communications hereunder shall be in writing and shall be deemed to have been duly given when delivered personally, or received by confirmed facsimile or similar means of communication, or by mail or courier or, with respect to Developer, to the email address of Developer provided to Overwolf, including without limitation, upon registration.
+Relationship of Parties
+Overwolf and Developer are and intend to remain independent parties. Nothing contained in these Terms shall be deemed or construed to create the relationship of principal and agent or of partnership or joint venture, and neither party shall hold itself out as an agent, legal representative, partner, subsidiary, joint venturer, servant or employee of the other.
+Entire Agreement; Modification, Amendment, Waiver; Severability
+This document and its exhibits constitute the entire and sole agreement and understanding between the parties hereto with respect to the subject matter hereof and supersede any prior or contemporaneous understanding, agreements, representations or warranties, whether oral or written, with respect to the subject matter. No party shall be deemed to have waived compliance by any other party with any provision of these Terms unless such waiver is in writing, and the failure of any party at any time to enforce any of the provisions of these Terms shall in no way be construed as a waiver of such or any other provision and shall not affect the rights of any party thereafter to enforce such provisions in accordance with their terms. No waiver of any breach of any provision of these Terms shall be deemed the waiver of any subsequent breach thereof or of any other provision of these Terms. In the event that any provision of these Terms is held invalid or unenforceable in any circumstances by a court of competent jurisdiction, such section shall be interpreted to give maximum effect to its terms as possible under law, and the remainder of these Terms, and the application of such provision in any other circumstances, shall not be affected thereby.
+Assignment; Successors
+Developer shall not assign any of its rights or obligations hereunder without the prior written consent of Overwolf, and any assignments in violation of the foregoing shall be void. Overwolf may assign its rights or obligations hereunder.
+Governing Law
+These Terms shall be governed by and construed and enforced in accordance with the laws of the State of Israel without regard to principles of conflict of laws. Any action, suit or other proceeding arising under or relating to these Terms shall be brought in a court of competent jurisdiction in the city of Tel-Aviv, and the parties hereby consent to the sole jurisdiction of such courts. Notwithstanding the foregoing, Overwolf may seek injunctive relief in any jurisdiction in order to enforce these Terms.
+Did you find it helpful?
+Yes
+No
+Send feedback
+Sorry we couldn't be helpful. Help us improve this article with your feedback.
+Related Articles
+Need more help?
+Contact support
+Tell us more and we help you
+Ask Discord community
+Get Discord community help
+Suggest a feature
+Share your ideas
+back to top
+Ⓒ
+2025
+Overwolf. All rights reserved.
+Terms of service
+Privacy Policy
+Licenses
+Mod Author Terms

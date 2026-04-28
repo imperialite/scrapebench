@@ -1,0 +1,38 @@
+Direct Pay Privacy Policy
+Skip Navigation
+Direct Pay
+Need help?
+Have questions or need additional information?
+Disclosure
+You are using an official United States Government System, which may be used only for authorized purposes. Unauthorized modification of any information stored on this system may result in criminal prosecution. The Government may monitor and audit the usage of this system, and all persons are hereby notified that the use of this system constitutes consent to such monitoring and auditing. Unauthorized attempts to upload information and/or change information on this website are strictly prohibited and are subject to prosecution under the Computer Fraud and Abuse Act of 1986 and Title 18 U.S.C. Sec. 1001 and 1030.
+Direct Pay Privacy Policy
+IRS Direct Pay doesn't collect personal information when you visit our website unless you choose to provide that information.
+Information Collected and Stored Automatically
+When you visit the IRS Direct Pay website, we may store some or all of the following: the Internet address from which you access this site, date and time of your visit, the Internet address of the site from which you reached this site, items clicked on a page, forms or processes you viewed, the browser and operating system used, the location of your device, and various device specific attributes. This information is not associated with individual users other than as specified below.
+This information is used to measure the number of visitors to the various sections of our site and identify system performance or problem areas. We also use this information to help us develop the site, analyze patterns of usage, and to make the site more useful. Additionally, this information is used to monitor and identify possible fraudulent website behavior and/or fraudulent devices used to access the site. This information is not used for associating search terms or patterns of site navigation with individual users. We may share this information, without revealing your personal information, with third-party entities with whom we contract for the purposes of research analysis.
+We also monitor network traffic to identify unauthorized attempts to upload or change information or otherwise cause damage to the website. We focus on website security so that this service remains available to you and other visitors. We may use this network traffic information to identify you if we suspect unauthorized or illegal behavior.
+In addition, when you use this website to initiate a payment, we collect personal information about your identity (including but not limited to your taxpayer identification number) and financial account. This information is used to process tax payments
+Use of Persistent Cookies
+Like many websites, this site uses "persistent cookie" technology. A persistent cookie is a small text file that this site places on your computer so that it can remember you when you show up again later. Office of Management and Budget guidance classifies these cookies as a Tier 2 Web customization and measurement technology.
+We use persistent cookies in two ways, both of which enhance your experience while also protecting your privacy:
+To remember you when you come back to the site so we don't invite you to take our customer satisfaction survey every time you visit.
+Our customer satisfaction survey uses a persistent cookie to ensure we won't invite you to take another survey within 30 days of having completed one.
+To get aggregate metrics on site usage to understand how people are using the site and how we can make it better.
+We use Web metrics services to track activity on this site. We only ever receive traffic statistics anonymously and in the aggregate.
+Most Internet browsers automatically accept persistent cookies. IRS Direct Pay has persistent cookies enabled by default so that we can gather information that will allow us to improve our service. These cookies are provided by Medallia and Google Inc. but are delivered by IRS Direct Pay.
+Although we think using persistent cookies creates a much better experience for you, this site will also work without them. If you don't want to accept cookies, you can
+edit your browser's options
+to stop accepting persistent cookies or to prompt you before accepting a cookie from the Websites you visit.
+Information Collected from Web Form
+This site requires personally identifiable information such as name, address, date of birth, Social Security Number (SSN) and bank account information in order to verify your identity and process your federal tax payment.  Your response is voluntary; however failure to provide all of the requested information may prevent you from being able to utilize this payment method.
+Site Security
+For site security purposes and to ensure that this tax payment service remains available to all users, we use commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits at this site. Raw data logs are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
+When we update this policy, we will post the new version on this site and include the date of revision. Please review this page periodically.
+Version 1.0 (07/15/2013)
+Acceptable Use and Privacy Policy
+Privacy Notice
+Accessibility
+IRS.gov
+USA.gov
+Treasury.gov

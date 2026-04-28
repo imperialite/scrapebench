@@ -1,0 +1,9 @@
+# This document allows for search of production website. Disallows for certain indexing of directories on production site. Test server uses a different file.
+
+User-agent: *
+Disallow: 
+Disallow: /EPiServer/
+Disallow: /en/uibdg/
+Disallow: /es/uibdg/
+Disallow: /edd-brand-manual/
+Sitemap: https://edd.ca.gov/sitemap.xml

@@ -1,0 +1,70 @@
+Terms of Use of Playhop
+Terms of Use of Playhop
+1. General Provisions
+1.1. Direct Cursus Technology L.L.C, UAE, Dubai, Trade Center Second, The Offices 5, Unit No. FLR06-06.04-1, P.O. Box 29095 (the «Company») invites an Internet user (the «User») to use Playhop gaming platform available at:
+https://playhop.com/
+(the «Service»).
+1.2 In all cases not provided for by these Terms, the relations between the Company and the User in connection with the use of the Service shall be governed by the:
+— License agreement for users (
+https://playhop.com/license
+);
+— Privacy Policy (
+https://playhop.com/confidential
+).
+1.3. By starting to use the Service/its certain functions, the User is deemed to have accepted these Terms and terms of the above documents, in full, without any reservations and exceptions. If the User disagrees with any of the provisions of the said documents, the User may not use the Service.
+1.4. These Terms may be amended by Company without any prior notification, the new version of the Terms shall become effective upon its posting on the Internet at the address specified in this paragraph, unless otherwise provided in the new version of the Terms. The current version of the Terms is always available at:
+https://playhop.com/termsofuse
+.
+1.5. If Company makes any amendments to these Terms in the manner provided for by section 1.4. of these Terms, to which the User does not agree, he/she shall stop using the Service.
+1.6. By using the Service, the User consents to receiving informational notices. The User may unsubscribe from the notices by using relevant functions of the Service or following instructions specified in a message received.
+2. User registration / authorization. User account.
+2.1. In order to use some functions of the Service, the User must go through the registration / authorization procedure using the partner platforms of the Service. As a result of registration the User will get a unique account on the Service.
+2.2. During or after registration, the User can upload an image for the account, as well as customize the name that represent the User within the use of the Service. The image of the account and the customized name of User must comply with the requirements of paragraphs 3.7.1 — 3.7.6 of these Terms.
+2.3. The User’s data received when using the Service is processed under the conditions specified in the Privacy Policy published at: (
+https://playhop.com/confidential
+).
+The User is notified and agrees that, subject to authorization in the Service and the User’s posting of materials and publications, and / or participation in the User rating, and/or under other circumstances related to the display of User actions in the Service, the Service may publicly display a name and image (avatar) of the User specified in the User account.
+The above data, as well as other data related to the use of the Service functionality (statistics of visits, results and progress of the Game, purchases made in the Service, and other information) may be transferred to the Rightsholder for the purposes of maintaining the correct operation of the Service and provision of certain functions of the Games, forming User rating tables (leaderboards), posting reviews in the Game interface, collecting and analyzing anonymized statistical data.
+2.4. The User is solely responsible for the security (including guessing stability) of the means of access to the account chosen by the User, and independently ensures their confidentiality. The User is solely responsible for all actions (as well as their consequences) within the Service under the User’s account, including cases of voluntary transfer by the User of data for access to the User’s account to third parties.
+2.5. The User is responsible for the compliance with all the requirements of the applicable legislation on personal data and also guarantees that if the transfer of personal data of third parties to the Service takes place, the Customer has obtained necessary legal basis for processing such data by the Company, and the relevant third parties are notified of the processing of their personal data by the Service (if such notification is required by legislation on personal data).
+2.6. The User must immediately notify the Company of any unauthorized (not authorized by the User) access to the Service using the User’s account and/or any violation (suspicion of violation) of the confidentiality of its means of access to the account. For security purposes, the User is obliged to securely log out of his/her account (the «Logout» button) at the end of each session of working with the Service. The Company is not responsible for possible loss or damage to data, as well as other consequences of any nature that may occur due to the User’s violation of the provisions of this part of the Terms.
+2.7. The Company reserves the right, at its sole discretion, to limit the User’s access to the Service (or its particular functions, if technologically feasible) using User’s account, or completely block the User’s account in case of repeated non-compliance with these Terms or take other measures against the User in order to comply with legislative requirements or respect third-party rights and legitimate interests.
+3. Use of the Service. Certain Functions of the Service. Intellectual Rights
+3.1. The Service is available to Users who have the legal capacity to accept these Terms and have reached the age necessary to use the Service in accordance with the laws of the country of citizenship or residence of the User. The use of the Service by a minor is permitted with the knowledge and consent of his legal representative and under his control provided that the legal representative has read these Terms and fully accepted their provisions on his own behalf.
+3.2. The Service provides the User with free access, viewing and playback on the User’s device html5 games (the «Game») uploaded to the Service by the developer and (or) the rightsholder of the Games (hereinafter «Rightsholder»).
+All currently existing features of the Service, as well as any development of them and / or the addition of new ones, are subject to these Terms.
+3.3. The rights to all components of design of the Service as a whole and to its parts, to Service software are vested in Company. The rights to the Games posted on the Service belong to their rightsholders.
+3.4. The license agreement for the use of the Game is available at: (
+https://playhop.com/license
+).
+3.5. By starting to use the Service, the User guarantees that he does not perform and will not perform any actions aimed at circumventing the technical means of protection against unauthorized use of the objects specified in section 3.3 of these Terms. Any copying, reproduction, modification, distribution, public display, circumvention of technical protection or other use of the above-mentioned objects of the Service beyond the scope of the capabilities provided by the Service, as well as any use for commercial purposes, is prohibited.
+3.6. User also warrants, represents, and undertakes that with respect to these Terms:
+(a) he meets and shall comply with all applicable sanctions and export control laws and regulations, including those administered and enforced by Switzerland, the United States, the United Kingdom, the European Union and relevant Member States, Russia, any other jurisdiction applicable to Rightsholders, the United Nations Security Council or any other body with jurisdiction relevant to these Terms (collectively, «Sanctions») and is not identified on any Sanctions lists.
+(b) User shall promptly notify the Company of the occurrence of any fact or event that would render any representation or warranty in this Section incorrect or misleading. The Company may immediately terminate these Terms in case of any breach by User of any representation or warranty in this clause or if Company reasonably determines that it cannot perform its obligations under these Terms due to Sanctions-related prohibitions.
+3.7. The Service provides authorized Users with the opportunity to publish reviews of Games containing a subjective assessment of the User experience of using the Game, its characteristics, content, etc.
+When publishing a review, it is not allowed to:
+3.7.1. in any way post and/or distribute any content that is illegal, harmful, slanderous, unethical or violates intellectual property rights, promotes hatred and/or racial, ethnic, sexual, religious or social discrimination or is insulting to any persons and/or organizations;
+3.7.2. violate third party rights including underage people and/or cause harm in any way;
+3.7.3. impersonate any other person or representative of an organization and/or community without being authorized to do so, including employees of the Company or Rightolder, moderators of Games, website owners and apply any other forms and methods of unlawful representation of other persons online as well as mislead other users and the Company regarding features and characteristics of any subjects or objects;
+3.7.4. post and/or distribute unauthorized advertising information, spam (including spamdexing), lists of e-mail addresses of other people, pyramid schemes, multilevel marketing (MLM), Internet earning systems and e-mail businesses, chain letters etc.;
+3.7.5. post and/or distribute any materials containing viruses or other computer codes, files or programs designed to breach, destroy or limit the operation of any computer or telecommunication equipment or software, for unauthorized access as well as serial numbers to commercial software and generation programs, logins, passwords and other means to receive authorized access to fee-based online resources, or post links to such information;
+3.7.6. otherwise violate legal standards including international law.
+3.8. By posting a review, the User agrees that the review may be used by the Company on the Service and applications related to the Service, as well as in advertising or marketing materials published on Company resources on the Internet, as well as on other resources and sites on the Internet, to promote the Service, either with or without specifying the name of the User who posted the information, without the need to obtain special permission from the User and without paying royalties, on the territory of all countries of the world without a time limit, with the right of the Company to grant the rights to use such information to third parties.
+Upon complaint, the review can be deleted from the Service if the User violates the rules for publishing reviews.
+4. Restrictions
+4.1. The Service is provided by the Company «as is». The Company does not guarantee the compliance of the Service with User’s goals and expectations, the safety of the data submitted and posted by a User on the Service, uninterrupted and error-free operation of the Service or its features. The Company shall be entitled at any time to partially or fully change the functionality provided by the Service.
+4.2. The Company does not guarantee the absence of the information which does not correspond to the age category of a minor, as well as that the classification of information products provided by the Rightsholder is correct. The Rightsholder is fully responsible for the content of the Games and the proper classification of information products.
+4.3. The Company shall not be liable for the content of the Games or other information published in the Service. The Company also does not guarantee the security of the use of Games for the User’s device, the absence of malware, viruses, or the technical compatibility of Games with the User’s device.
+5. Miscellaneous
+5.1. Any information used in the Service is intended for personal non-commercial use only. At the same time, any copying of the Service’s information, including using automatic and other software tools to gain access to data, its reproduction, processing, distribution, making available to the public (publication) on the Internet, any use in the media and/or for commercial purposes without the prior written permission of the Company is prohibited
+5.2. If there are reasonable assumptions about a possible violation of the law, the rights and interests of third parties by the information posted in the Service, or by the User’s actions, the User can report this by using the special functionality of the Service or via the feedback form at:
+https://playhop.com/support
+.
+Date of publication: 01.09.2023
+©
+2022—2026
+Direct Cursus Technology L.L.C, UAE, Dubai, Trade Center Second, The Offices 5, Unit No. FLR06-06.04-1, P.O. Box 29095
+User agreement
+Privacy policy
+Technical Support
+Digital Services Act

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /secure/
+Disallow: /_dev/
+Disallow: /mobile-content/
+Disallow: /_kryptos/
+Disallow: /employee-tools/
+Disallow: /academics-programs/pimaonline/pgm-landing/
+Disallow: /about-pima/accreditation/assurance-2018/
+Disallow: /index-featured-programs.html

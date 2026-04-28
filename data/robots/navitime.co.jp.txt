@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /ja
+Disallow: /affi
+Disallow: /pcstorage/cntlog
+
+User-agent: Bingbot
+Crawl-delay: 30
+
+User-agent: ClaudeBot
+Crawl-delay: 10
+
+User-agent: GoogleOther
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: meta-external-agent
+Disallow: /

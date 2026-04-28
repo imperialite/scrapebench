@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /bunnycdn_errors/404
+Disallow: /contact
+Disallow: /legal-notice
+Disallow: /licenses
+Disallow: /privacy-policy
+Disallow: /seed-map-embed
+Disallow: /seed-map-embed2
+Disallow: /terms-of-use
+Disallow: /seed-map-new/apps/seed-map
+Disallow: /seed-map-old/apps/seed-map
+
+User-agent: anthropic-ai
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+User-agent: CCbot
+Disallow: /
+User-agent: FacebookBot
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: PiplBot
+Disallow: /
+
+Sitemap: https://www.chunkbase.com/sitemap-index.xml

@@ -1,0 +1,324 @@
+General terms and conditions of use of the franceinfo digital platform
+1. Introduction and terminology
+France Télévisions , a public limited company with a capital of 393,281,000 euros, having its registered office at 7, Esplanade Henri de France 75907 Paris cedex 15, registered with the Paris Trade and Companies Register under number 432 766 947 and Radio France , a public limited company with a capital of 1,560,000 euros, whose registered office is located at 116, Avenue du président Kennedy 75220 Paris Cedex 16, registered with the Paris Trade and Companies Register under number B 326 094 471, are joining forces, within the framework of the continuous public service information offering associating the four public broadcasting partners, to publish and operate an ambitious, pluralistic, innovative, interactive joint digital platform committed to guaranteeing the quality and veracity of information in its processing under the brand "FRANCE INFO".
+
+Hereinafter referred to as the “Digital Platform”.
+
+The digital platform includes a fixed website accessible at the URL https://www.franceinfo.fr , its mobile version and an application. It enriches, extends and complements, on the one hand, the editorial offering of the continuous news channel produced by France Télévisions , broadcast as part of a free-to-air digital terrestrial television service, and on the other hand, the linear radio offering of France Info produced by Radio France .
+
+These two services, as well as that of FRANCE MEDIAS MONDE (FMM), France 24, are also included in full and simultaneously on the Digital Platform.
+
+In addition to France Télévisions and Radio France , the National Audiovisual Institute and France Medias Monde contribute to this Platform by providing content.
+
+The content of the Digital Platform comes from France Télévisions and Radio France , whose respective presidents are in charge of the publication, France Télévisions Content and Radio France Content . They are identifiable by the appropriate notices defined below.
+
+The director of publication of identifiable "France Télévisions" content (as defined below), of the Platform's homepage and of the homepages of its sections is Ms. Delphine ERNOTTE CUNCI, the president of France Télévisions.
+
+The director of publication of the identifiable "Radio France" Content (as defined below) is Ms. Sibyle VEIL, president of Radio France.
+
+France Télévisions and Radio France reserve the right to modify or delete all or part of the Digital Platform without prior notice and without having to inform users (hereinafter "User(s)"). France Télévisions and Radio France shall not be held liable to Users or any third party for any modification of the Digital Platform.
+
+For the purposes of these general terms and conditions of use:
+
+“Terms of Use or General Terms and Conditions of Use”: refers to the provisions set forth herein, accepted by the Users, governing access to and use of the digital Platform.
+“Comment(s)” refers to the text(s) that the User chooses to write in order to comment on the Content (see definition below). User Comments will be visible to all internet users visiting the digital Platform.
+“User Account”: refers to the space reserved for the User (subject to registration) on the digital Platform via a username and password, allowing access to certain Content/Services offered on the digital Platform.
+“Content”: refers broadly to the content and constituent elements of the Digital Platform, including photographs, images, texts, articles, illustrations, sounds, videos as well as the Video Player and the Audio Player (see definitions below).
+“France Télévisions Content”: refers to Content identified on the Digital Platform by a mention which will include “France Télévisions”.
+“Radio France Content”: refers to Content identified on the Digital Platform by a mention which will include “Radio France”.
+“User Content”: refers, without limitation, to texts, illustrations, photos, images, sounds, videos, of any kind, made available by Users within the framework of the Contributory Spaces (see definitions below).
+“Contributory Spaces”: refers to all pages made available to Users on the digital platform presenting interactive functions allowing User participation.
+"Video Player": refers to the tool for streaming and playing video and photo files. The Video Player is exportable, in the form of computer code, and allows third parties to display said files on other websites or blogs, through the Video Player, under the conditions of Article VII-1.
+“Audio Player”: refers to the tool for streaming and playing audio files. The Audio Player is exportable, in the form of computer code, and allows third parties to display said files on other sites or blogs, through the Audio Player under the conditions of Article VII-2.
+“Complaint”: refers to any request made by a third party in relation to the Content.
+“Services”: refers to the services accessible on and/or from the Digital Platform and published respectively by France Télévisions and Radio France.
+“Partner Services”: refers to services published by third-party partners accessible on and/or from the Digital Platform, in particular through hyperlinks placed in different sections.
+2. Scope of application of the general terms and conditions of use of the digital platform
+2.1. Acceptance of the General Terms and Conditions of Use of the Digital Platform
+All access to the Digital Platform, consultation, and use of its Content are governed by these Terms of Service, which define the terms and conditions for using the Services and Content offered on the Digital Platform. Accessing the Digital Platform automatically implies full application and acceptance of the rules and conditions set forth in these Terms of Service. If a User refuses to agree to these Terms of Service, they must refrain from accessing the Digital Platform.
+
+The applicable Terms and Conditions of Use are those in effect on the date of each User's connection to the Digital Platform. It should be noted that France Télévisions and Radio France may modify these Terms and Conditions of Use at any time. Users are notified of these modifications simply by being published online. Therefore, they are deemed accepted without reservation by any User accessing the Digital Platform after their publication. Consequently, Users are encouraged to consult them on each visit to review the latest version available on the Digital Platform.
+
+If changes are made to the data processing rules, the User who created a User Account will be informed and their consent will be requested.
+
+Any complaint concerning France Télévisions content or concerning the home page of the digital platform, and the home pages of the sections of the digital platform must be addressed to France Télévisions.
+
+Any complaint concerning Radio France content must be addressed to Radio France.
+
+2.2. Specific conditions
+2.2.1 Access to certain Services on and/or from the Digital Platform may be subject to the acceptance of specific terms of use and/or sale to which any User wishing to access said services must adhere.
+
+In the event of a conflict between these General Terms and Conditions and the aforementioned specific conditions, the specific conditions shall prevail over the General Terms and Conditions.
+
+2.2.2 Partner Services
+
+The Digital Platform also provides access to third-party services, published by partners, via hyperlinks integrated into various sections of the Digital Platform that link to the websites, content, and services published by these partners. Partner Services may be accessible, in particular, through clickable advertising elements (such as banners and videos).
+
+The User acknowledges that these Partner Services are entirely independent of France Télévisions and Radio France. Therefore, any use of Partner Services via the Digital Platform will be subject exclusively to the terms of use and/or sale specific to each Partner Service, as well as their personal data protection policy.
+
+France Télévisions and Radio France cannot be held liable for the content accessible, the offers, information consulted, or transactions carried out on the Partner Services. Similarly, France Télévisions and Radio France offer no guarantee regarding the compliance of the publishers of the Partner Services with applicable regulations; they are solely responsible for such compliance.
+
+3. System Requirements and Technical Specifications
+The required configuration for the best experience on the Digital Platform is:
+
+Website (fixed and mobile):
+Cookies are enabled (so that the User's favorites are saved from one visit to the next)
+JavaScript enabled
+Minimum resolution: 1024 x 768
+Connection speed ≥ 512 kbs/s
+Browsers:
+Firefox 3.5 or later
+Internet Explorer 9 or later
+Google Chrome 5 or later
+Safari 4 or later
+Operating systems:
+Windows 7, Windows Vista, Windows XP Service Pack 2
+Apple Mac OS X 10.4.8 and later versions
+Application :
+iOS
+iOS 11 and above
+Android
+Android 5.1 and above
+4. Creating the user account
+4.1. Prior registration
+Access to the digital platform is free and does not require prior registration.
+
+However, access to certain services offered on the Digital Platform may be subject to prior registration of the User, identification and use of a User Account.
+
+
+When creating their User Account, the User will be asked to choose their personal username and an associated password.
+
+Furthermore, a registration form will be submitted to the User, requiring them to provide France Télévisions with various pieces of personal information (email address, password, postal code, username), some of which are mandatory and others optional, as indicated on the form. If the User fails to provide the information marked as mandatory, the creation of the User Account cannot be validated.
+
+This personal data is collected and stored with the User's consent and will be processed as defined in Article V.
+
+The User also agrees to only provide accurate and up-to-date information and in particular not to use a pseudonym or email address that could infringe the rights of third parties (including use of a third party's surname, a third party's pseudonym or a trademark registered by a third party, or works protected by intellectual property law).
+
+France Télévisions reserves the right to refuse any registration that does not comply with the conditions stated above.
+
+4.2. Protection of minors
+If the User is a minor, they declare and acknowledge having obtained prior authorization from their parents or legal guardian(s) to register on the Digital Platform. The parent(s) or legal guardian(s) have agreed to be responsible for ensuring compliance with all provisions of these Terms of Service when the minor User uses the Digital Platform. Therefore, parents (or legal guardians) are encouraged to monitor their children's use of the Content and/or Services available on the Digital Platform and to bear in mind that, as legal guardians, it is their responsibility to supervise their child's use.
+
+4.3. Registration Confirmation / Use of Access Codes
+France Télévisions will automatically send the User an email to inform them of the creation of their User Account.
+
+In the event that the data required to create the User Account does not reach France Télévisions, the latter will not be held liable in any way. The same applies if this data reaches France Télévisions partially illegible due to incompatibilities or technical failures attributable in particular to the User's equipment (Internet server, hardware, software, etc.).
+
+The User's username and password are strictly personal and confidential. The User is solely responsible for safeguarding and using this information.
+
+Any connection to the Digital Platform via a User Account and/or transmission of data made using a User Account will be deemed to have been made by the User and under his/her sole responsibility.
+
+In the event of loss or misappropriation of his/her login credentials, the User concerned undertakes to change his/her password and to inform FRANCE TÉLÉVISIONS without delay of the unauthorized use of his/her User Account in writing to the address Monsieur le Responsable du Service Inscription de la Plateforme numérique FRANCE INFO – 7, Esplanade Henri de France 75015 Paris or by email through the “contact” link accessible at the bottom of the page of the Digital Platform.
+
+4.4. Use of third-party service identifiers
+Access to certain features or services, particularly community features, may be conditional upon the use of identifiers from third-party services such as Facebook, Twitter, Google+, LinkedIn or Disqus.
+
+A connection by the User with the specific identifiers of these different third-party services, or where applicable a creation of an account specific to each third-party service, will be required for all community functionalities involving an interaction with said third-party services.
+
+As stated in Article II-2.2 concerning Partner Services, the creation and use of these accounts and the personal data communicated by the User to these third-party services will be governed by the terms of use and the personal data protection policy specific to each third-party service, excluding any liability on the part of France Télévisions and Radio France.
+
+5. Privacy Policy
+The collection of personal data has been the subject of all the necessary declarations to the CNIL.
+
+5.1. Personal Data
+France Télévisions and Radio France are responsible for processing the personal data collected from Users on the website www.franceinfo.fr . The personal data collected during the creation and use of a User Account is necessary for the computer processing of the User's account. This data is intended for the operation of the Digital Platform, as well as for service providers and subcontractors, for the purpose of carrying out tasks related to the operation and/or management of the Digital Platform.
+
+The data collected is as follows:
+When creating a User Account via the form or subscribing to a newsletter:
+e-mail address,
+pseudonym,
+password
+postal code,
+Any personal data that may be communicated when sending an alert message concerning a problem encountered on the Digital Platform,
+Any personal data that would be communicated by the User in the context of the publication of User Content and/or a Comment on the digital Platform.
+The purpose of processing personal data is as follows:
+Create and manage the User Account,
+To allow the User to receive newsletters, information, or alerts,
+To allow the User to participate in competitions,
+Responding to User requests,
+To compile statistics on the usage of the different sections of the digital platform,
+Comply with the legal obligation to identify abusive uses of the digital platform regarding the publication of comments and/or user content.
+When creating or managing their User Account, Users can choose to subscribe to newsletters from the Digital Platform, as well as those from Radio France, France Télévisions, their channels, and services. Users can unsubscribe at any time, either by clicking on the unsubscribe link provided in any email sent to them for this purpose, or through their User Account settings.
+
+It is specified that in the event of a change to the France Info offer, France Télévisions and Radio France will retain the benefit of using personal data in accordance with the purposes of the processing for which it was collected with the consent of the internet user and in accordance with the rules and recommendations of the CNIL in force.
+
+In accordance with Law No. 78-17 of 6 January 1978 on Data Processing, Data Files and Individual Liberties, as amended by Law No. 2004-801 of 6 August 2004, the User has the right to:
+
+Right to object on legitimate grounds to the processing of personal data concerning him/her, and right to object to the use of this data for prospecting purposes, including commercial prospecting;
+Right of access to all personal data;
+Right to request that one's data be rectified, completed, updated, locked or erased when it is inaccurate, incomplete, ambiguous or outdated, or when its collection, use, communication or storage is prohibited.
+Questions, comments, requests, and complaints should be sent by email via the "Contact" link at the bottom of the Digital Platform page, or by mail to France Télévisions - Attn: Mr./Ms. Head of the Registration Department for the FRANCE INFO Digital Platform - 7, Esplanade Henri de France, 75015 Paris, France. All requests will be processed as quickly as possible.
+
+The User may also, for legitimate reasons, object to the processing of data concerning him/her.
+
+5.2. Cookies
+The User is informed that, during visits to the Digital Platform, a cookie may be automatically installed on their browser. A cookie is a file, often anonymous, containing data, including a unique identifier, transmitted by the Digital Platform's server to the User's browser and stored on their hard drive. These cookies allow, during each visit by a User to the Digital Platform, for overall statistical studies to be carried out on the Digital Platform's audience, for the identification of the User where applicable, and for the study of User behavior within the different sections of the Digital Platform, in order to best personalize the Sites and Services in terms of organization, display, and content, including advertising content.
+
+France Télévisions and Radio France are responsible for processing the personal data collected from Users on the website www.franceinfo.fr through cookies placed on the digital platform, in the event that these cookies contain personal data. The data collected through cookies is intended for the internal departments of France Télévisions, those of Radio France, and their service providers for the purpose of carrying out the tasks entrusted to them by France Télévisions or Radio France concerning the operation and/or management of the digital platform.
+
+The cookies used on the digital platform are as follows:
+
+Google Analytics and AT Internet: These cookies are used by the Digital Platform to compile anonymous statistics and traffic volumes. They allow us to count the number of visits, unique visitors, and page views. This helps improve the Site's functionality.
+Krux: these cookies allow the personalization of the offer proposed by the digital platform to the internet user.
+CNIL banner: this cookie is used to inform internet users about the placement of cookies on the digital platform and their ability to manage the activation or deactivation of these cookies.
+Chartbeat: these cookies are a real-time monitoring tool used by the editorial team of the Digital Platform.
+Pop-in display: these cookies are used to display information in Pop-in mode.
+Ad2play: these cookies help improve the advertising experience for the User.
+Stickyadstv: these cookies help improve the advertising experience for the User.
+Nuggad: these cookies allow us to qualify the platform's audience.
+The digital platform also uses "plug-ins" allowing access to third-party service pages under the conditions set out in Article IV.4.
+
+The User can manage, disable or allow cookies by modifying the settings of their Internet browser:
+
+Internet Explorer
+Chromium
+Safari
+Mozilla
+Opera
+It should be noted that changing the settings may alter the User's browsing experience on the Digital Platform and that some access to services requires the use of cookies.
+
+6. Provisions relating to contributory spaces
+6.1. User Code of Conduct
+The digital platform provides all users with Contributory Spaces allowing them in particular to comment on the Content of the digital platform, these Comments being viewable by any internet user visiting the digital platform, and/or to upload, without this list being exhaustive, texts, videos, sounds, images and/or photographs of their choice.
+
+France Télévisions does not perform any prior review of User Content and/or Comments posted online by Users. Users who create User Content and/or Comments are responsible for their content and therefore for everything they choose to post in the Contributor Spaces. Under no circumstances will France Télévisions be held liable for User Content and/or Comments posted by a User who does not hold the necessary rights to post said disputed User Content.
+
+Any User who uploads User Content to the digital platform expressly authorizes France Télévisions, free of charge and on a non-exclusive basis, to store, reproduce, and display said User Content for the entire duration of the intellectual property rights from the date of its publication.
+
+Certain User Content may be featured on the Digital Platform based on factors such as automatic and objective management rules (including the number of votes) or its relevance to the Platform's editorial policy. Some User Content may be reformatted under the conditions described in Article VIII-2 (including font, size, and spelling). No substantive changes will be made to User Content unless FRANCE TÉLÉVISIONS obtains the express written consent of the User who created said User Content.
+
+Freedom of expression must not infringe upon respect for others, human dignity, or public order. Therefore, when using the Contributor Spaces, the User agrees to post User Content and Comments that comply with current French law. It is understood that no illegal content may be published on the Contributor Spaces of the digital Platform, and in particular:
+
+Contrary to public order and morality;
+Defamatory in nature (imputation of a fact which harms the honor or reputation of the natural or legal person, or of the body to which the fact is imputed);
+Of an offensive nature (outrageous expression, term of contempt or invective);
+Likely by their nature to infringe upon respect for the human person and his dignity, equality between women and men and the protection of children and adolescents;
+Encouraging minors to commit illegal or dangerous acts;
+Encouraging the commission of crimes and/or offenses or inciting the consumption of prohibited substances or inciting suicide;
+Inciting discrimination or hatred against a person or group of people because of their origin, membership or non-membership of a particular ethnic group, nation, race or religion;
+Inciting violence, particularly racial violence;
+Glorifying certain crimes, including murder, rape, war crimes and crimes against humanity;
+Of a racist, anti-Semitic, xenophobic, revisionist nature;
+Of a violent, obscene or pornographic nature;
+Of a pedophilic nature;
+Infringing on personality rights, copyright, related rights and trademark rights;
+Harming the image and/or trademarks of France Télévisions, Radio France, the National Audiovisual Institute and France Medias Monde.
+Furthermore, the following Content and Comments must not be posted online:
+
+Crude and obscene remarks;
+Incomprehensible messages;
+Personal insults between participants;
+The "trials" conducted by one or more participants;
+Speculation or revelations about the identity of a particular speaker;
+Messages unrelated to the forum (off-topic, incomprehensible, unargued messages);
+Messages written in a language other than French;
+Classified ads, messages for the purposes of surveys, contests, pyramid schemes or other similar operations, chain letters, junk mail, spam, unsolicited advertising or promotional material, advertisements and links to other sites;
+Messages emanating from trade union or political organizations;
+Physical descriptions;
+Telephone numbers and postal or email addresses, in order to avoid any further harassment;
+Messages inciting or enabling computer hacking (incitement to hack, intrusion into an automated data processing system, provision of pirated software or programs intended for fraudulent use of software);
+Identical or similar repetitive messages saturating the Contributory Spaces.
+6.2. Moderation of User Content
+In consideration of the content of User Content and/or Comment posted online by a User and its incompatibility with applicable laws and regulations, France Télévisions may remove this User Content and/or Comment after it has been posted online by that User.
+
+Any internet user (user or not) has the possibility to report a comment that they consider illegal via the "Report illegal content" link or via the "Alert a moderator" link provided for this purpose and which they would like removed.
+
+Any internet user (whether registered or not) can report User Content they deem illegal via the "Contact" link, which is always accessible at the bottom of the digital platform. The user must specify their username, describe the User Content and/or Comments they wish to have removed (title, date, and time of posting), the reasons for the request, and, if applicable, provide a copy of any correspondence sent to the User who originally posted the disputed User Content and/or Comments. Without this information, the report may be considered incomplete, preventing France Télévisions from promptly removing the disputed User Content and/or Comments.
+
+In the event of non-compliance with the aforementioned provisions, France Télévisions also reserves the right to temporarily or permanently suspend the User's access to their account and therefore to the functionalities that result from it without further formalities, and without prejudice to any action for compensation and/or warranty if the liability of France Télévisions should be sought.
+
+7. Using the players
+7.1. Using the Video Player
+The Video Player available on the Digital Platform is the exclusive property of France Télévisions. All use is strictly personal and private, excluding any commercial use. Therefore, the User may not, in any way other than those expressly offered and authorized by the Digital Platform, reproduce, represent, distribute, alter, market, modify, or license all or part of any element of the Video Player.
+
+The digital platform offers users the option to export the Video Player, solely for non-commercial and personal use by individuals. Consequently, the user is prohibited from reproducing, copying, selling, reselling, modifying, exchanging, or exploiting for commercial purposes or for any remuneration, profit, or advantage, direct or indirect, all or part of the Video Player, any use of the Video Player, or any right of access to the Video Player.
+
+Users wishing to export the Video Player to their website do not have the right to modify, create a service or a derivative work, or block all or part of the functionality of the Video Player, including links that redirect to the Digital Platform.
+
+Since the Video Player can be used for advertising, it is strictly forbidden for anyone to obscure, delete, or modify any advertising messages displayed through the Video Player.
+
+The video content available on the digital platform is authorized for distribution either on the digital platform itself or through the video player only. Consequently, users may not distribute or view the video content offered by France Télévisions outside of the video player or the relevant France Télévisions websites, nor use any hardware or software intended to enable such unauthorized distribution.
+
+7.2. Using the Audio Player
+The Audio Player available on the Digital Platform is the exclusive property of Radio France. All use is strictly personal and private, excluding any commercial use. Therefore, the User may not, in any way other than those expressly offered and authorized by the Digital Platform, reproduce, represent, distribute, alter, market, modify, or license all or part of any element of the Audio Player.
+
+The digital platform offers users the option to export the Audio Player, solely for non-commercial and personal use by individuals. Consequently, the user is prohibited from reproducing, copying, selling, reselling, modifying, exchanging, or exploiting for commercial purposes or for any remuneration, profit, or advantage, direct or indirect, all or part of the Audio Player, any use of the Audio Player, or any right of access to the Audio Player.
+
+Users wishing to export the Audio Player to their website do not have the right to modify, create a service or a derivative work, or block all or part of the features of the Audio Player, including links that refer to the Digital Platform.
+
+As the Audio Player can be used for advertising, it is strictly forbidden for anyone to obscure, delete, or modify any broadcast of advertising messages through the Audio Player.
+
+The audio content available on the digital platform is authorized for distribution either on the digital platform itself or through the Audio Player only. Consequently, users may not distribute or listen to the audio content offered by Radio France outside of the Audio Player or the relevant Radio France websites, nor use any hardware or software intended to enable such unauthorized distribution.
+
+8. Intellectual Property Rights
+8.1. Intellectual Property Rights Relating to the Content of the Digital Platform
+All elements of the Digital Platform (including the structure, all texts, photos, videos, data, posters, logos, trademarks and other reproduced elements) are reserved and protected by intellectual property law, including copyright, related rights, and trademark law.
+
+France Télévisions and Radio France grant the User, respectively, for Content concerning them, the non-transferable, free, non-exclusive, personal and private authorization to use the Services and the digital Platform for purely personal and private use, and in strict compliance with the terms of use established by these Terms of Use.
+
+Any unauthorized use of all or part of the elements of the Services and the digital Platform, and in particular the videos (piracy, counterfeiting, circumvention of broadcasting restrictions, etc.) may give rise to prosecution.
+
+The use and reproduction of names and/or visuals registered by France Télévisions, Radio France, the National Audiovisual Institute (INSA), or France Médias Monde is prohibited without their express prior written consent. In general, any unauthorized reproduction of trademarks, product names, service names, or company names mentioned on the Digital Platform constitutes infringement and is subject to civil and/or criminal prosecution.
+
+8.2 Intellectual property rights relating to User Content posted on the digital Platform
+Each User warrants to FRANCE TÉLÉVISIONS and Radio France that they possess the necessary rights to publish and/or share the Content they upload via the Contributor Spaces. "Rights" refers to those protecting the content as defined by the Intellectual Property Code, including copyright, trademark law, and design rights.
+
+Each User grants, free of charge and on a non-exclusive basis, to France Télévisions and Radio France and for the entire duration of the intellectual property from the date of transmission by any means of their Content, the right to reproduce, represent, copy, transfer, modify, republish, communicate, distribute, adapt and more generally exploit all or part of the Content on the digital Platform and all associated services for the purposes of promoting the activity of the digital Platform.
+
+These rights are granted worldwide for all uses on all media and by all means of distribution known or unknown to date.
+
+The User expressly acknowledges and accepts that certain Content may be reformatted solely for the technical needs of authorized uses; therefore, the User grants the necessary adaptation rights. No substantive changes will be made to User Content unless FRANCE TÉLÉVISIONS obtains the express written consent of the User who created said User Content.
+
+The user expressly acknowledges and accepts that no use of the Content as authorized herein shall give rise to any remuneration whatsoever (in kind or in cash).
+
+9. Liability and guarantees
+France Télévisions and Radio France will make every effort to ensure the accessibility of the Digital Platform and Services. This accessibility may be suspended for maintenance or upgrade purposes to ensure the proper functioning of the Digital Platform, without France Télévisions and Radio France being obligated to provide prior notice to Users.
+
+Thus, France Télévisions and Radio France offer no guarantee regarding the risks of interruption or malfunction related to the connection, network and/or computer system congestion, intrusion by unauthorized third parties and contamination by possible viruses circulating on said networks and services.
+
+France Télévisions and Radio France will not be held liable if the interruption or impairment of the quality of the Digital Platform and Services is due to a force majeure event. Force majeure events include, but are not limited to, exceptional weather conditions, natural disasters, fires and floods, lightning, terrorist attacks, disruptions and blockages of electronic telecommunications networks, damage caused by viruses for which existing security measures on the market do not allow eradication, as well as any legal, regulatory, or public order obligation imposed by the competent authorities that would substantially modify these Terms of Use, or any other event of force majeure or fortuitous event, as defined by applicable law and the case law of the Court of Cassation.
+
+France Télévisions and Radio France undertake to do everything possible to guarantee the truthfulness and accuracy of the information available on the entire Digital Platform but cannot be held responsible for the inaccuracy of this information, nor for the use or interpretation made of it by Users.
+
+In general, the User shall indemnify France Télévisions and Radio France against any claim or action by any person, and any resulting financial consequences, based on or arising directly or indirectly from the User's actions, or from the User's use of the Digital Platform, as well as any alleged violation of the Terms of Service or applicable regulations, and shall hold France Télévisions and Radio France harmless from any claim, including legal proceedings, that may result. This indemnity covers any damages that may be due, as well as legal fees and court costs, within reasonable limits.
+
+10. Protection of the digital platform
+The User is prohibited from using any hardware or software that could alter, hinder or disrupt the operation of the Services and the digital Platform, or from introducing any data into an automated data processing system of France Télévisions that could alter, hinder or disrupt the normal operation of the Services and the digital Platform, and in particular from circumventing the restrictions on use defined by these Terms of Use.
+
+11. Limitation of Liability
+1. France Télévisions and Radio France do not guarantee the performance and modifications of the Digital Platform and Services which may occur depending on the quality of the Internet network and/or technical configurations, which are beyond their control.
+
+France Télévisions and Radio France cannot be held liable for any direct or indirect damage, including but not limited to loss of profits, customers, data or any other loss of intangible assets, lost earnings or any other loss or damage that may arise from the use of, or the inability to access, the Digital Platform, even if France Télévisions and Radio France have been informed of the potential for such damage.
+
+2. In the event that either France Télévisions or Radio France is held liable for a breach by one of them of any of its obligations under these General Terms of Use, compensation by the defaulting party shall be limited to direct, personal, and certain damages. Therefore, compensation for all indirect and intangible damages, such as financial losses, commercial losses, loss of profits and revenue, and data loss, is excluded.
+
+12. Special recommendation for international users
+France Télévisions and Radio France authorize access to the Digital Platform from any country, subject to applicable local laws and restrictions. Any User accessing the Digital Platform from a computer located outside of France expressly acknowledges having read, understood, and accepted without reservation the terms of these General Terms and Conditions of Use and agrees to comply with local laws and all applicable restrictions in the country concerned.
+
+Some Content on the Digital Platform is not accessible from certain countries ("Excluded Territories"), due in particular to territorial restrictions imposed by rights holders or limited broadcasting rights. Consequently, Users accessing the Digital Platform from computers located in Excluded Territories are prohibited from using any system to circumvent geolocation measures intended to allow access to this content from these territories.
+
+13. Text and Data Mining Policy <TDM-RESERVATION: 1>
+13.1. Purpose of the policy
+France Télévisions opposes all harvesting and mining of text and data as defined in Article L. 122-5-3 of the French Intellectual Property Code. France Télévisions' policy aims to regulate automated content collection practices (data mining, scraping, crawling, etc.) on France Télévisions websites and applications and to protect France Télévisions content (including archived or cached content) against unauthorized use, particularly by artificial intelligence models or systems, or automated agents.
+
+13.2. Prohibition of automated data mining
+Unless expressly authorized in advance and in writing by France Télévisions, any form of automated access to France Télévisions' websites and applications for the purpose of extracting, copying, reusing, analyzing, or training an algorithmic system or an artificial intelligence model or system is prohibited. This includes, but is not limited to:
+
+the use for these purposes of indexing robots such as bots, crawlers, or other automated agents;
+content scraping (texts, images, videos, metadata, databases, etc.);
+training AI models from the content of France Télévisions websites and applications.
+13.3. Protected Content
+This policy covers all elements present on the France Télévisions websites and applications, including but not limited to:
+
+Articles, publications, texts, images, videos, logos, sounds, musical works including those from the SACEM repertoire, user interfaces;
+Structured or semi-structured data (e.g., HTML tags, JSON, downloadable files);
+Databases or datasets that can be downloaded or viewed online.
+13.4. robots.txt file and meta tags
+France Télévisions websites and applications may include a robots.txt file and, where applicable, tags <meta name="robots">to technically indicate our intention to exclude users. These tags must be respected. Any circumvention or failure to comply with these restrictions constitutes a violation of this policy.
+
+The absence of metadata associated with the Contents and Sites and Applications of France Télévisions, Site directories, Site Contents does not affect the exercise of the right to object expressed by these general terms of use.
+
+14. Right of reply
+Pursuant to Article 6-IV of Law No. 2004-575 of 21 June 2004 on Confidence in the Digital Economy (LCEN), any natural or legal person named or designated on the Digital Platform may request a right of reply from either France Télévisions or Radio France, depending on whether it concerns Content from France Télévisions or Content from Radio France.
+
+The request to exercise this right of reply must be addressed in writing to the director of publication of the Contents of the digital Platform in question designated in Article I.

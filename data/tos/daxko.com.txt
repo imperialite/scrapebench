@@ -1,0 +1,352 @@
+en
+Login
+Book a Demo
+Solutions
+Membership
+Embark on a transformative membership experience with the best in nonprofit member management software.
+Programs
+Better member experiences, fewer administrative hassles with program management automation.
+Childcare
+Say hello to memorable childcare and camp moments. Say goodbye to complex compliance and safety challenges.
+Fundraising
+Get the donations you need to do the work you're passionate about with tailor-made tools and powerful integrations for nonprofit fundraising.
+Finance
+Finance and accounting software solutions that offer more impact and less complexity for community centers.
+Marketing
+Unleash the power of targeted marketing and meaningful engagement. Understand and reach your community with tailored communication and data-driven insights.
+Facilities
+Discover the power of streamlined facility management. Enhance efficiency, member experience, and operational effectiveness with our comprehensive solutions.
+Mobile App Terms of Use
+
+ 
+
+ 
+
+Terms of Use
+
+ 
+
+These Terms of Use apply to the online member portal and mobile application (the“App”) provided by Daxko, LLC , its subsidiaries and affiliates. The App is owned by Daxko, LLC (“Company”).These Terms of Use also incorporate by reference the Privacy Policy and any other policies and agreements governing or available on the App. BY USING THE APP, YOU AGREE TO THESE TERMS OF USE.
+
+The term “You” as used in this agreement will apply to the current user who browses, accesses, or uses the App on their own behalf or on behalf of an entity or organization. The term “User”refers to any other individual who accesses and uses the App on their own behalf or on behalf of an entity or organization.
+
+The term “Customer” shall refer to any entity authorized by Company to provide services to a User through the App. Customer is subject to the Service Agreement and has been authorized by Company to provide the App to Users. In the event of any conflict between the Terms of Use and the Service Agreement, the Service Agreement shall control. The Application is licensed, not sold, to Customer and Users. User acknowledges access to the App is only provided at the request of Customer according to the terms of the Service Agreement.
+
+Company reserves the right, at its sole discretion, to change, modify, add, or remove portions of these Terms of Use, at any time. You are responsible for periodically reviewing the Terms of Use for changes. By continuing to use the App, you accept any changes at the time they are implemented.
+
+The App is a multi-use application to allow members the ability to register for classes and otherwise manage their membership accounts through a mobile application or member portal.
+
+ 
+
+User Account
+
+ 
+
+You may be required to register for an account to use parts of the App. You must provide accurate, current, and complete information during the registration process and at all other times when you use the App. You are the sole authorized user of any account you create. You are solely and fully responsible for all activities hat occur under your password or account. You agree that you shall monitor your account to prevent use by minors, and you will accept full responsibility for any unauthorized use of your password or your account. You may not authorize others to use your User status, and you may not assign or otherwise transfer your User account to any other person or entity.
+
+Company will not be liable, and you may be liable for losses, damages, liability, expenses, and fees incurred by Company or a third party arising from someone else using your account, regardless of whether you have notified us of such unauthorized use.If you provide any information that is untrue, inaccurate, not current, or incomplete, or Company has reasonable grounds to suspect that such information is untrue, inaccurate, not current, or incomplete, your account may be suspended or terminated. User acknowledges that to download, install, or use the App, Company may use automatic means (including, for example, cookies and web beacons) to collect information about User’s Mobile Device and about User’s use of the Application. Customer and User also may be required to provide certain information about User as a condition to downloading, installing, or using the App or certain of its features or functionality. All information collected through or in connection with this App is subject to the Privacy Policy, which is incorporated by reference. By downloading, installing, using, and providing information to or through this Application, Customer User’s consent to all actions taken by us with respect to Customer User’s information in compliance with the Privacy Policy.
+
+ 
+
+Use of App/Restrictions
+
+ 
+
+Without limiting other rules and prohibitions in this Agreement, by using the App, you agree that:
+
+You will only use the App for lawful purposes; you will not use the App for sending or storing any unlawful material or for deceptive or fraudulent purposes; and you will not engage in conduct that harms other Users, Company Employees, or the community.
+You will only use the App in accordance with all applicable laws, including copyrights, trade secrets, or other rights of any third party, including privacy or publicity rights.
+You will only access the App using means explicitly authorized by Company.
+You will not use another User’s account, impersonate any person or entity, or forge or manipulate headers or identifiers to disguise the origin of any content transmitted through the App.
+You will not use the App to cause nuisance, annoyance, or inconvenience.
+You will not use the App, or any content accessible through the App, for any commercial purpose, including but not limited to contacting, advertising to, soliciting or selling to, any Merchant, User or Contractor, unless given prior permission to do so in writing.
+You will not copy or distribute any information or content displayed through the App, for republication in any format or media.
+You will not compile, directly or indirectly, any content displayed through the App except for your personal, noncommercial use.
+The information you provide to Company when registering an account is accurate. You will promptly notify Company of any changes to such information and will provide Company with proof of identity as reasonably requested.
+You will keep secure and confidential your account password or any identification credentials we provide you which allows access to the App.
+You will use the App for your own use and will not directly or indirectly resell, license, or transfer the information, software, code, or other content contained on theApp to a third party.
+You will not attempt to gain unauthorized access to the App or to any account, resource, or other network.
+You will not attempt to test the vulnerability of any system or network or breach or circumvent any security or authentication measures of Company.
+You will not make use of any robot, spider, web crawler, extraction software, automated process and/or device to scrape, copy, index, frame, or monitor any portion of our App, websites, or any other content.
+You will not scrape or otherwise conduct any systematic retrieval of data or other content from the App.
+You will report any errors, bugs, or any breach of our intellectual property rights that you uncover in your use of the App.
+You will not abuse our promotional or credit code system, by opening multiple accounts to benefit from offers available only to first-time users.
+You will not reverse engineer, decompile, disassemble, or otherwise attempt to uncover the source code or underlying ideas or algorithms of the Services; and/or
+You will not intercept, decrypt, or otherwise misallocate communications transmitted through the Services.
+
+Company reserves the right to suspend or permanently deactivate your account at its sole discretion in the event of any breach of these restrictions.
+
+ 
+
+Content
+
+ 
+
+All content, including, but not limited to, text, graphics, photographs, trademarks, logos, sounds, music, and computer code (that content, the “Content”) arranged to create the design, structure, coordination, expression, appearance and feel of the App is owned, controlled or licensed by or to Company, and is protected by United States and international patent, copyright, trademark and trade secret laws of general applicability.
+
+Except as expressly provided in the Terms ofUse, no part of the App and no Content may be copied, reproduced, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted or distributed in any way to any other computer, server, web App, or other medium for publication or distribution or for any commercial enterprise without Company’s prior express written consent.
+
+The above notwithstanding, you may use information purposefully made available by Company for download from the Appprovided that you: (1) not remove any proprietary notice language in all copies of such documents (2) use such information only for your personal, noncommercial, informational purpose and do not copy or post such information on any networked computer or broadcast it in any media (3) make no modifications to any such information (4) make no additional representations or warranties relating to such documents.
+
+ 
+
+Trademarks and other Intellectual Property
+
+ 
+
+The trademarks registered or used by Daxko and its direct and indirect affiliates are not to be used without permission. Trademarks also include, but are not limited to, the logos associated with any trademarks and used throughout the App. The content included in the App and other resources made available through the App is protected by copyright and is owned or used with permission or under fair use by Company.
+
+ 
+
+License and App Access
+
+ 
+
+As long as you are in compliance with the Terms of Use and Customer is in compliance with the Service Agreement (which is incorporated by reference), Company grants you a personal, non-exclusive, nontransferable, limited privilege to enter and use the App. Access to this App is limited to personal use of the App and is not for downloading (other than page caching) or modifying all or any portion of the App, without the prior express written consent of Company. This license does not include any resale or commercial use of the App or the Content; any collection or use of any product listings, descriptions, or prices; any derivative use of the App or theContent. No part of the App may be reproduced, duplicated, copied, sold, resold, or otherwise exploited for any commercial purpose without the prior express written consent of Company. Any unauthorized use of the App terminates the permission and license granted in this agreement. You are granted a limited, revocable non-exclusive right to create a hyperlink to the App, or any part of the App, as long as the link does not portray Company or any licensors or affiliates in a false, misleading, derogatory, or otherwise offensive matter. You may not use any logos or other proprietary trademarks as part of the link without the prior express written permission of Company.
+
+ 
+
+Third Party Links
+
+ 
+
+Links to other websites or applications are provided for the convenience and information of visitors to the App. Clicking on these links will navigate you to another site. The inclusion of links on the App does not represent, unless specifically noted in the link, an endorsement, authorization, sponsorship, or affiliation with the linked site. Unless otherwise indicated, any Apps linked to from the App are not under the control of Company. Company is not responsible for the content or presentation of any linked App. Company makes no representation regarding the accuracy or completeness of the information contained in any linked Apps. Apps that are included in the above links are those of various social media Apps, such as Facebook, LinkedIn, Instagram, and Twitter.
+
+ 
+
+Blog and Social Media Apps
+
+ 
+
+All editorial comments published through the App reflect the personal opinions of the author and not necessarily the opinion of Company. At times, Company or the authors of the blog may post reviews related to certain products or App. The author of a given entry related to reviews or other product information will give an indication if they or Company was compensated for the review. The above notwithstanding, it is Company’s policy only to endorse products it or its authors would endorse with or without compensation.
+
+For blog entries, you are granted limited rights to copy, distribute, transmit or even adapt the entries from Company as long as you provide a link to the original work and give credit to Company and the original author.
+
+For social media commentary, you are granted limited rights to copy, distribute, transmit or even adapt the entries from Company as long as you provide a link to the original work and give credit to Company and the original author.
+
+ 
+
+Payment Processing
+
+ 
+
+The App allows you to make payments by automated clearing house processing services and those card-based methods accepted by the Customer. These may include card-based payments initiated with cards bearing the trademarks of Visa Inc., MasterCard International Inc., Discover Inc., and American Express Inc. Please note that not all Customers accept all card-based payment methods. Company is not a bank and does not offer banking services as defined by the United States Department of Treasury. Company also does not offer money service business services as defined by the United States Department of Treasury. User can associate with User’s Account any US-issued and most non-US issued credit, debit, pre-paid, or gift cards with a Visa, MasterCard, American Express, or Discover logo. Customer may update at any time the list of card types that User may associate with a User Account.
+
+ 
+
+User’s Representations and Warranties
+
+ 
+
+By using the App, you represent and warrant that:
+
+You are of legal age and sufficient authority to enter a binding agreement.
+All data supplied will be complete and accurate to the best of your ability.  You will not impersonate any person or entity or otherwise misrepresent your affiliation with a person or entity.
+You will not transmit any content that is unlawful, defamatory, obscene, pornographic, trade libelous, threatening, harassing, tortuous, invasive of another’s privacy, hateful, or racially, ethnically, religiously or otherwise objectionable.
+
+ 
+
+Intellectual Property Infringement
+
+ 
+
+It is Company’s policy to respond to claims of intellectual property infringement. Company will promptly process and investigate notices of alleged infringement and take appropriate actions under the Digital Millennium Copyright Act, Title 17, United States Code, Section 512(c)(2) (“DMCA”) and other applicable intellectual property laws. As required by the DMCA, notifications of claimed copyright infringement should be sent to Company’s designated agent (the “Designated Agent”). Below is the information for Designated Agent for the App:
+
+Daxko, LLC
+
+600 University Park Place, Suite 500
+
+Birmingham, Alabama 35209
+
+Attn: Daxko Office of Privacy / Legal Department
+
+legal@daxko.com
+
+or call (847) 597-1740
+
+Any written communication under this section should include the following:
+
+A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online App are covered by a single notification, are presentative list of such works at that App.
+Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material.
+Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted.
+A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+ 
+
+Products or App Offered on the App
+
+ 
+
+Company may make changes to any products or services offered on the App, or to the applicable prices for any such products or App, at any time, without notice. The information on the App regarding products and services may be out of date, and Company is not obligated to update such information on the App.
+
+ 
+
+Disclaimers
+
+ 
+
+COMPANY MAKES NO CLAIM THAT THE APP OR ANY CONTENT, SERVICE OR FEATURE OF THE APP WILL BE ERROR-FREE OR UNINTERRUPTED, ORTHAT ANY DEFECTS WILL BE CORRECTED, OR THAT YOUR USE OF THE APP OR APP OFFERED THROUGH THE APP WILL PROVIDE SPECIFIC RESULTS. THE APP AND ITS CONTENT ARE DELIVERED ON AN “AS-IS” AND “AS-AVAILABLE” BASIS. ALL INFORMATION PROVIDED ONTHE APP IS SUBJECT TO CHANGE WITHOUT NOTICE. COMPANY CANNOT ENSURE THAT ANY FILES OR OTHER DATA YOU DOWNLOAD FROM THE APP WILL BE FREE OF VIRUSES OR CONTAMINATION OR DESTRUCTIVE FEATURES. COMPANY DISCLAIMS ALL WARRANTIES,EXPRESS OR IMPLIED, INCLUDING ANY WARRANTIES OF ACCURACY, NON-INFRINGEMENT,MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. COMPANY DISCLAIMS ANY ANDALL LIABILITY FOR THE ACTS, OMISSIONS AND CONDUCT OF ANY THIRD PARTIES IN CONNECTION WITH OR RELATED TO YOUR USE OF THE APP OR ANY SERVICE. YOU ASSUME TOTAL RESPONSIBILITY FOR YOUR USE OF THE APP AND ANY LINKED SERVICES TO WHICH YOU MAY NAVIGATE FROM THE APP. YOUR SOLE REMEDY AGAINST COMPANY FOR DISSATISFACTION WITH THE APP OR ANY CONTENT IS TO STOP USING THE APP OR ANY SUCH CONTENT. THIS LIMITATION OF RELIEF IS A PART OF THE BARGAIN BETWEEN THE PARTIES.
+
+The above disclaimer applies to any damages, liability or injuries caused by any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communication line failure, theft, or destruction of or unauthorized access to, alteration of, or use of the App, whether for breach of contract, tort, negligence, or any other cause of action.
+
+Company reserves the right to do any of the following, at any time, without notice: (1) modify, suspend or terminate operation of or access to the App, or any portion of the App, for any reason; (2) modify or change the App, or any portion of the App, and any applicable policies or terms; and (3) interrupt the operation of the App, or any portion of the App, as necessary to perform routine or non-routine maintenance, error correction, or other changes.
+
+ 
+
+Updates to App
+
+ 
+
+Company may from time to time in its sole discretion develop and provide App updates, which may include upgrades, bug fixes, patches and other error corrections or new features (collectively, including related documentation, “Updates”). Updates may also modify or delete in their entirety certain features and functionality. Customer and User agree that Company has no obligation to provide any Updates or to continue to provide or enable any particular features or functionality. Based on Customer or User’s Mobile Device settings, when such Mobile Device is connected to the internet either:
+
+(a) the App will automatically download and install all available Updates; or
+
+(b) Customer or User may receive notice of or be prompted to download and install available Updates.
+
+Customer and User shall promptly download and install all Updates and acknowledge and agree that the App or portions of the app may not properly operate should Customer and User fail to do so. Customer and User further agree that all Updates will be deemed part of the App and be subject to the Terms of Use.
+
+ 
+
+Updates and Changes to the Terms of Use
+
+ 
+
+Company may update or amend this Agreement from time-to-time and at any time to incorporate additional or different rules, policies, procedures, and other instructions concerning access to and use of the App or additional features, materials, products, opportunities, or services that Company may make available on or through the Application. All such updates and amendments are effective immediately upon notice thereof, which Company may give by any means, including by posting a revised version of this Agreement in the App or by sending Customer and User a copy of the revised Terms of Use by email.
+
+ 
+
+Right to Refuse Service
+
+ 
+
+Company reserves the right to refuse service to anyone and terminate your account at any time.
+
+ 
+
+Limitation of Liability
+
+ 
+
+Company is not liable to you, except where prohibited by law, for any indirect, consequential, exemplary, incidental, or punitive damages, including lost profits, even if Company has been advised of the possibility of such damages.
+
+ 
+
+Indemnity
+
+ 
+
+You agree to indemnify and hold Company, its officers, directors, shareholders, predecessors, successors in interest, employees, agents, subsidiaries and affiliates, harmless from any demands, loss, liability, claims or expenses (including attorneys’ fees), made against Company by any third party due to or arising out of or in connection with your use of the App.
+
+ 
+
+Violation of These Terms of Use
+
+ 
+
+Company may monitor your use of the App disclose any information about you (including your identity) if it determines such disclosure is necessary in connection with any investigation or complaint regarding your use of the App, or to identify, contact or bring legal action against someone who may be causing injury to or interference with(intentional or not) Company’s rights or property, or the rights or property of visitors to or users of the App, including Company’s customers. Some violations may include:
+
+Using the App without the requisite ability or authority to ratify legally binding contracts, or while temporarily or indefinitely suspended from the App;
+Circumventing or manipulating the billing process, or any fees owed to Company;
+Distributing or posting spam, chain letters, or pyramid schemes;
+Distributing viruses or any other technologies that may harm Company or the interests or property of Company customers;
+Copying, modifying, republishing, or distributing content from the App or Company’s copyrights and trademarks;
+Impersonating another person or otherwise misrepresenting your affiliation with another person or entity;
+Conducting fraud, hiding, or attempting to hide your identity;
+Providing inaccurate contact information;
+Harvesting or otherwise collecting information about users, including email addresses, without their consent; or
+Transmitting to Company or any user any information or materials of any kind that (1) violate, plagiarize or infringe on the intellectual property or contractual rights of any third party (2) are libelous, defamatory, obscene, pornographic, abusive (3) contain any viruses, Trojan horses, worms, time bombs, cancelbots or other computer programming routines that are intended to damage, detrimentally interfere with, surreptitiously intercept or expropriate any system, data or personal information.
+
+Company reserves the right at all times to disclose any information it deems necessary to comply with applicable law, regulation, legal process, or governmental request. Company may also disclose your information when it determines that applicable law requires or permits such disclosure, including exchanging information with other companies and organizations for fraud protection purposes.
+
+You agree that Company may preserve any transmittal or communication from you through the App or any service offered on or through the App, and may also disclose such data if required to do so by law or Company determines that such preservation or disclosure is reasonably necessary to: (1) comply with legal process (2)enforce the Terms of Use (3) respond to claims that any such data violates the rights of others (4) protect the rights, property or personal safety of Company, its employees, users of or visitors to the App, and the public.
+
+You agree that Company may, inits sole discretion and without notice, terminate your access to the App if it determines you have violated these Terms of Use or other agreements or guidelines associated with your use of the App. You also agree that any violation by you of these Terms of Use will constitute an unlawful and unfair business practice that will cause irreparable harm to Company. Because monetary damages for such a violation would be inadequate, you consent to Company obtaining any injunctive or equitable relief it deems necessary or appropriate in such circumstances. These remedies are in addition to any other remedies Company may have at law or in equity.
+
+You agree that Company may, inits sole discretion and without prior notice, terminate your access to the App, for cause, which includes, but is not limited to: (1) requests by law enforcement or other government agencies (2) a request by you (3) discontinuance or material modification of the App or any service offered on or through the App or (4) unexpected technical issues or problems.
+
+If Company does take any legal action against you as a result of your violation of the Terms of Use, it will be entitled to recover from you, and you agree to pay, all reasonable attorneys’ fees and costs of such action, in addition to any other relief granted. You agree that Company will not be liable to you or to any third party for termination of your access to the App as a result of any violation of these Terms of Use.
+
+ 
+
+Term and Termination
+
+ 
+
+The Terms of Use commence when User downloads or installs the App.
+
+The Terms of Use may be terminated by User or Customer by deleting the App and all copies from User’s Mobile Device.
+
+Company may terminate the Terms of Use at any time without notice if it ceases to support the App.
+
+Upon termination, all rights granted to User or Customer under the Terms of Use will terminate and User must cease all use of the App and delete any copies of the App from User’s Mobile Device.
+
+ 
+
+Governing Law; Dispute Resolution
+
+ 
+
+You agree that all matters relating to your access to or use of the App, including all disputes, will be governed by the laws of the United States and by the laws of the state of Alabama without regard to its conflicts of laws provisions. You agree to the personal jurisdiction by and venue in the state and federal courts in Jefferson County, Alabama, and waive any objection to such jurisdiction or venue. Any claim under these Terms of Use must be brought within one (1) year after the cause of action arises, or such claim or cause of action is barred. No recovery may be sought or received for damages other than out-of-pocket expenses, except that the prevailing party will be entitled to costs and attorneys’ fees.
+
+If there is any controversy or dispute between you and Company arising out of or in connection with your use of the App, the terms of the Service Agreement shall govern any dispute resolution.
+
+ANY CAUSE OF ACTION OR CLAIM YOU MAY HAVE ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE APPLICATION MUST BE COMMENCED WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES, OTHERWISE,SUCH CAUSE OF ACTION OR CLAIM IS PERMANENTLY BARRED.
+
+ 
+
+Void Where Prohibited
+
+ 
+
+Company administers and operates the App from its location in Alabama, USA. Although the App is accessible worldwide, it is intended for use within the United States. If you choose to access the App from outside the United States, you are responsible for complying with applicable local laws.
+
+ 
+
+Miscellaneous
+
+ 
+
+You may not use, export or re-export any Content or any copy or adaptation of such Content, or any product or service offered on the App, in violation of any applicable laws or regulations, including, but not limited to, United States export laws and regulations.
+
+Each provision of the Terms of Use shall be considered severable, and if for any reason any provision or provisions herein are determined to be invalid, unenforceable, or illegal under any existing or future law, such invalidity, un-enforceability, or illegality shall not impair the operation of or affect those portions of the Terms of Use which are valid, enforceable, and legal.
+
+Company’s failure to enforce strict performance of the Terms of Use shall not be construed as a waiver by Company of any provision or any right it has to enforce the Terms of Use, nor shall any course of conduct between Company and you or any other party be deemed to modify any provision of the Terms of Use. The Terms of Use shall not be interpreted or construed to confer any rights or remedies on any third parties.
+
+These Terms of Use and all documents referenced and incorporated to the Terms of Use, as amended, constitute the entire agreement between you, Customer, and Company with respect to the App at the time it is being used.
+
+ 
+
+Feedback and Information
+
+ 
+
+Any feedback you provide regarding the App is not considered confidential. Company is free to use such information without restriction.
+
+ 
+
+Violations
+
+ 
+
+Please report any violation of this Terms of Use to Company.
+
+The information contained in this App is subject to change without notice.
+
+© 2024 Daxko, LLC. All rights reserved.
+
+Daxko, LLC
+
+Updated on February 21, 2024.
+
+Notice
+
+We and selected third parties collect personal information as specified in the privacy policy and use cookies or similar technologies for technical purposes and, with your consent, for measurement and “marketing (personalized ads)” as specified in the cookie policy.
+
+You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel. Denying consent may make related features unavailable.
+
+Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+
+Learn more and customize
+RejectAccept

@@ -1,0 +1,121 @@
+Javascript required:
+We're sorry, but Newspapers.com doesn't work properly without JavaScript enabled. You will need to enable Javascript by changing your browser settings.
+Learn how to enable it.
+Skip to main content
+Newspapers.com Affiliate Program
+Do you own or manage
+a history, sports, true crime or family history
+website? Are you looking for ways to earn money for all of the hard work you have put into your site?
+Terms and Conditions
+This Agreement, made and entered by and between Newspapers.com , (referred to henceforth as "Newspapers.com" or "we") with its principal place of business at 1300 W Traverse Parkway, Lehi, UT, and you, the affiliate (referred to henceforth as "you" or "Affiliate"), contains the complete terms and conditions that apply to your participation in the Newspapers.com Affiliate Program (the "Affiliate Program" or "Program").
+Term
+The term of this Agreement will begin upon our acceptance of your Affiliate Application and will end when terminated by either party. Either you or we may terminate this Agreement at any time, with or without cause, by giving the other party written notice of termination. You are only eligible to earn referral fees on referrals occurring during the term.
+Enrollment in the Program
+You will submit a complete Affiliate Program application from our site. We may reject your application (at our sole discretion) if we feel your site is unsuitable or inconsistent with the mission of Newspapers.com. If your site is accepted, Newspapers.com may terminate this Agreement anytime thereafter if your site is determined (at our sole discretion) to be unsuitable for the Program, even if your site has not changed since the time that your Affiliate Program application was accepted.
+Promotion of Our Affiliate Program
+Upon your acceptance as an Affiliate Site, we will make available to you (via Commission Junction) a variety of graphic and textual links (the "Links"), which, subject to the terms and conditions hereof, you may display as often and in as many areas of your approved site as you desire. The Links will serve to channel potential buyers to our site.
+Newspapers.com Agrees to:
+Pay Affiliate a commission (see Referral Commissions for commission details) for each qualified online order completed via your site. Qualified online orders must be made within the return day "window" of 120 days and recognized by Commission Junction.
+Work with Commission Junction to pay Affiliate on a monthly basis when commissions due have reached a minimum of $10.00. Accounts with a balance of less than $10.00 will roll over to the next month. Newspapers.com sends out payments to affiliates on or around the 15th of every month for the previous month's commissions.
+Affiliate Agrees to:
+Place Newspapers.com banners and/or text links on your site.
+Observe Newspapers.com's exclusive right of ownership as to the names of its property , including but not limited to its trademarked name and any variations thereof within all pay-for-placement and other search engines. Newspapers.com grants a limited right to the use of its trademarked names solely for promotional purposes in conjunction with the relationship as described in this agreement.
+Remove all links regarding Newspapers.com promotions on the date such promotions end, and agree to forfeit any commissions earned after the end date of the promotions if you continue to post such links.
+Have sole responsibility for the development, operation, and maintenance of your site and for all the materials that appear on your site.
+Ensure that all materials posted on your site are not illegal and do not infringe on the rights of any person or entity of any kind. We disclaim all liability for all materials on your site.
+Indemnify, defend, and hold us harmless from all claims, damages, and expenses relating to the development, operation, and contents of your site.
+Make sure that your site does not copy or resemble the look and feel of the Newspapers.com Web site or create the impression that your site is our site or a part of our site
+If any immoral or unethical links are added to your site pointing to Newspapers.com , we reserve the right to pursue all legal courses of action against you to the fullest extent possible under the law and you will be responsible for returning all commissions earned as a result of such links to Newspapers.com.
+Referral Commissions
+Newspapers.com Affiliate program pays commissions for each qualified paid subscription net sale*. The affiliate team will audit affiliate referred orders to ensure they are valid. The amount of commissions due to affiliates will increase with affiliate performance and will be as follows for each valid online order submitted by a visitor as a direct result of an affiliate referral:
+20.0 % of total net sales amount
+Additional periodic bonuses and performance incentives
+* Net Sales
+- Are All Paid Subscriptions minus any chargebacks, refunds and returns.
+Additionally Newspapers.com may offer additional periodic bonuses and performance incentives.
+Payment Procedures
+Newspapers.com will issue payment to affiliates 15 days after the end of each calendar month for all commissions earned on sales during the prior month.
+All affiliates who have met the $10 minimum payout requirement will receive the full amount of commissions due, less any amount Newspapers.com determines, in its sole discretion not validly earned from a proper use of the links on an affiliate's Web site.
+Payments will be issued via Newspapers.com only, payable to the affiliate at the address submitted by the affiliate in his or her online registration.
+Tracking
+Commission Junction will be solely responsible for tracking referrals using special software that communicates with the specially encoded URLs assigned to affiliates.
+Commissions are tracked through the use of cookies. In some cases it will not be possible to track traffic from the Affiliate's site to Newspapers.com, because the visitor is using cookie-blocking software. Newspapers.com is only responsible for paying commissions on referrals that can be tracked back to the Affiliate using the technology in use by Newspapers.com.
+Furthermore, Newspapers.com uses a "last Affiliate wins" system, under which a particular Internet user is assigned to the last affiliate site he visited prior to entering the Newspapers.com Web site and then completes a transaction with Newspapers.com. For instance, the user visits Affiliate A; then enters Newspapers.com but does not complete a transaction; then the user later visits Affiliate B; finally enters Newspapers.com again and this time submits an order. In this case the consumer is assigned to Affiliate B, and the commission is paid to Affiliate B
+Newspapers.com will endeavor to do its best to ensure accurate tracking of referrals made by affiliates. Affiliates will themselves be solely responsible for ensuring that these URLs are formatted properly, a necessary prerequisite to accurate tracking of referrals. Notwithstanding the above statement of responsibility by Newspapers.com to track referrals, affiliates hereby acknowledge and accept that the tracking system employed by Newspapers.com is not 100% fail-safe and that there may on occasion be instances of referrals made that are not credited to an affiliate for any of the following reasons:
+Failure by the affiliate to use the proper format of the specially assigned URL in promotions, webpage links, banner ads and so on
+Deliberate or accidental actions by customers to circumvent an affiliate's special URL so that our software is unable to accurately track the referral
+Bugs, glitches or crashes of the tracking software that render it unable to accurately track referrals for a period of time
+Acts of nature that cause irretrievable data loss on the computers and back-up media that store the commission information
+As such, affiliates will not hold Newspapers.com liable to compensate for any claimed commissions that were not tracked and recorded by the tracking software.
+Pay-per-click search engines
+We do not allow our affiliates to bid on any keywords we are bidding on.
+Confidentiality
+Except as otherwise provided in this Agreement or with the consent of the other party hereto, each of the parties hereto agrees that all information, including, without limitation, the terms of this Agreement, business and financial information, customer and vendor lists, and pricing and sales information, concerning us or you, respectively, or any of our Affiliates provided by or on behalf of any of them shall remain strictly confidential and secret and shall not be utilized, directly or indirectly, by such party for its own business purposes or for any other purpose except and solely to the extent that any such information is generally known or available to the public through a source or sources other than such party hereto or its affiliates. This survives the term of the agreement.
+Limitation of Liability
+We will not be liable for indirect, special, or consequential damages, or any loss of revenue, profits, or data, arising in connection with this Agreement or the Affiliate Relationship, even if we have been advised of the possibility of such damages. Further, our aggregate liability arising with respect to this Agreement and the Affiliate Program will not exceed the total commissions paid or payable to you under this Agreement.
+Limited License
+We grant you a nonexclusive, nontransferable, revocable right to link to our site through the Links solely in accordance with the terms of this Agreement, for the sole purpose of linking your site to our site, solely for the purpose of identifying your site as a participant in the Program and assisting in promoting Newspapers.com services. You may not alter, modify, or change the Links in any way. You are only entitled to use the Links to the extent that you are a member in good standing of the Newspapers.com Affiliate Program. We may revoke your license anytime by giving you written notice.
+Disclaimers
+We make no express or implied warranties or representations with respect to the Newspapers.com Web site or the Newspapers.com Affiliate Program (including, without limitation, warranties of fitness, merchantability, non-infringement, or any implied warranties arising out of course of performance, dealing, or trade usage). In addition, we make no representation that the operation of our site will be uninterrupted or error-free, and we will not be liable for the consequences of any interruptions or errors.
+Termination
+The terms of this Agreement will begin upon our acceptance of your application. This Agreement shall commence on the date of approval of your Affiliate Program application and shall continue thereafter in full force and effect until terminated at any time by either party by giving the other party written notice of termination. Upon termination of this Agreement for any reason, you will immediately cease use of, and remove from your site, all Links to our site, and all Newspapers.com trademarks, or those of any Newspapers.com company, trade dress, and logos, and all other materials provided by or on behalf of us to you pursuant hereto or in connection with the Program.
+Newspapers.com reserves the right to terminate any accounts we deem as "inactive" accounts. An affiliate account would be considered "inactive" if it fails to generate any sales for a period of at least six (6) months. In the event of account termination due to inactivity, affiliates will forfeit any commission balance less than the minimum commission payout amount of $10.00.
+Modifications
+We may modify any of the terms and conditions of this Agreement at any time. You will be notified by e-mail, using the e-mail address currently listed in your Affiliate Profile, and a change notice will be posted on our site. If the modifications are unacceptable to you, your only recourse is to terminate this Agreement. Your continued participation in this Affiliate Program after a change notice has been posted will constitute binding acceptance of the change.
+Independent Contractors
+You and Newspapers.com are independent contractors and nothing in this Agreement will create any partnership, joint venture, agency, franchise, sales representative, or employment relationship between the parties. You will have no authority to make or accept any offers or representations on our behalf.
+Representations and Warranties
+You hereby represent and warrant to us as follows:
+This Agreement constitutes your legal, valid, and binding obligation, enforceable against you in accordance with its terms.
+The development, operation, and contents of your site do not infringe upon the copyright, trademark, or any other right of any person or entity.
+Independent Investigation
+You acknowledge that you have read this Agreement and agree to all its terms and conditions. You understand that we may at any time (directly or indirectly) solicit customer referrals on terms that may differ from those contained in this Agreement or operate Web sites that are similar to or compete with your Web site. You have independently evaluated the desirability of participating in the Newspapers.com Affiliate Program and are not relying on any representation, guarantee, or statement other than as set forth in this Agreement.
+Fraud
+If you commit fraud or falsify information in connection with the submission of referrals to Newspapers.com services through the Links on your site, this Agreement will be terminated immediately. In addition, you will be liable to Newspapers.com for any and all damages that Newspapers.com suffers as a result of such actions. You will also be responsible for returning to Newspapers.com all commissions received for fraudulent/falsified referrals submitted, and we will not hesitate to pursue all legal courses of action against you to the fullest extent possible under the law.
+Anti-Predatory Advertising
+Affiliates will be removed from the Newspapers.com Affiliate Program and forfeit any pending commissions if they are utilizing or distributing software downloads that enable diversions of commission from other affiliates in our program.
+Such systems include those commonly known as "ParasiteWare" or that carry out functions commonly known as "Parasitic Marketing." ParasiteWare is software (including, but not restricted to, browser helpers, browser plug-ins, toolbars and pop ups/sliders) that knowingly or unknowingly undermines or removes another affiliate's ability to compete by changing, intercepting or redirecting an affiliate link. ParasiteWare may be installed knowingly or unknowingly by the end user, altering normal web browser functions and/or installing a third party application that works through the user's altered browser.
+Affiliate also agrees not to use any kind of technique that intercepts natural searches to redirect traffic through installed software, thereby causing commission-tracking cookies to be put in place or other commission tracking cookies to be overwritten where a user would under normal circumstances have arrived at the same destination through the results given by the natural search. (Natural search engines being, but not limited to, Google, MSN, Yahoo, Overture, AltaVista, Hotbot, LookSmart and similar search or directory engines)
+Affiliate agrees not to use any technique or marketing program that might reasonably be considered "predatory" or manipulative. Newspapers.com reserves the right to determine whether a technique or program is unreasonable. In the event of a breach of this Agreement by Affiliate and/or a third party or licensee, Newspapers.com shall immediately terminate this agreement, and, in addition to all other remedies available to it, Newspapers.com shall have the right to refuse to make payments to an Affiliate as a result of the Affiliate's efforts promoting Newspapers.com in such a manner.
+Affiliate agrees to indemnify, defend and hold Newspapers.com harmless from any cost, expense or liability arising out of any breach or alleged breach of your obligations under this Anti-Predatory Policy.
+E-mail Marketing
+Affiliate agrees to comply with the requirements of the CAN-SPAM Act of 2003 (the "Act") in its distribution of e-mail that contains messaging regarding Newspapers.com. More specifically, e-mail must meets this criteria:
+May only be sent to recipients who have expressly agreed directly with Affiliate, in advance, to receive such communications from Affiliate.
+Must clearly and conspicuously identify that the message is an advertisement or solicitation, unless recipient has given prior affirmative consent to receipt of the message. Affirmative consent means that the recipient expressly consented to receive the message either in response to a clear and conspicuous request for such consent or at the recipient's own initiative.
+Must clearly and conspicuously notify the recipient of the opportunity to decline to receive further commercial e-mail from Affiliate
+Must provide a valid physical postal address of Affiliate
+Must provide a functioning return e-mail address or other Internet-based mechanism, clearly and conspicuously displayed, that a recipient may use to submit, in a manner specified in the commercial e-mail, a reply e-mail or other Internet-based mechanism a request not to receive future commercial e-mail from Affiliate. The return address or Internet-based mechanism must be capable of receiving such messages for at least 30 days after the transmission of the original message. Affiliate may not send subsequent commercial e-mails more than ten (10) business days after the recipient's request not to receive further e-mails has been received (unless there is a subsequent affirmative consent by the recipient to receive such e-mails.) Once Affiliate receives such a request, Affiliate may not sell, lease, exchange or otherwise transfer or release the e-mail address of the recipient.
+May not contain materially false or materially misleading header information, or deceptive subject heading.
+May not contain sexually oriented material.
+Affiliate may not initiate or assist in the transmission of commercial e-mail using an e-mail address: (1) that was collected through automated means, from a third party web site in violation of that third party's posted privacy policy, or (2) that was generated through automated means by combining names, letters or numbers into numerous permutations. Affiliate may not conduct fraudulent activities related to electronic mail, including but not limited to the material falsification of header or transmission information, the unauthorized use of someone else's computer to send bulk commercial e-mail, and the registration of an e-mail account that materially falsifies the identity of the actual registrant.
+In addition, in the event of a breach of this E-mail Agreement by Affiliate and/or a third party or licensee, in addition to all other remedies available to it, Newspapers.com shall have the right to refuse to make payments to an Affiliate as a result of the Affiliate's efforts promoting Newspapers.com, which efforts cannot be verified by Affiliate as having complied with the terms and conditions of this E-mail Agreement.
+Affiliate agrees to indemnify, defend and hold Newspapers.com harmless from any cost, expense or liability arising out of any breach or alleged breach of your obligations under this E-mail Agreement.
+Assignment
+You hereunder may not assign this Agreement and the rights and obligations without prior written consent of Newspapers.com.
+Reservation of Rights
+Newspapers.com may terminate this Agreement at any time if your site is determined (at our sole discretion) to be unsuitable for the Program, even if your site has not changed since the time that your Affiliate Program application was accepted. Newspapers.com also reserves the right to monitor Affiliate sites at any time to determine whether they are in compliance with this Agreement.
+Governing Law
+The laws of the United States and the State of Utah will govern this Agreement, without reference to rules governing choice of laws. Any action relating to this Agreement must be brought in the federal or state courts located in Lindon, Utah, and you irrevocably consent to the jurisdiction of such courts. You may not assign this Agreement, by operation of law or otherwise, without our prior written consent. Subject to that restriction, this Agreement will be binding on, inure to the benefit of, and enforceable against the parties and their respective successors and assigns. Our failure to enforce your strict performance of any provision of this Agreement will not constitute a waiver of our right to subsequently enforce such a provision or any other provision of this Agreement.
+Become a Newspapers.com Affiliate Today!
+Sign up today
+“Joining the Newspapers.com affiliate program has been one of the best decisions for my website focused on history and genealogy. ”
+Affiliate Member since 2018,
+California
+®
+©
+2026
+Newspapers.com™
+by
+Ancestry
+®
+.
+All rights reserved.
+Terms and Conditions
+·
+Privacy Policy
+·
+CCPA
+Notice at Collection
+United States (English)
+Light theme
+Newspapers.com Affiliate Program - Newspapers.com™

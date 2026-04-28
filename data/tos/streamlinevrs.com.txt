@@ -1,0 +1,349 @@
+Privacy Policy - Streamline
+Partner
+User Login
+Call 888-590-1946
+Privacy Policy
+PRIVACY NOTICE
+Effective as of 2/11/2026
+Privacy Statement
+Inhabit IQ and its family of software brands take pride in conducting business responsibly and ethically. We place the highest regard on the data privacy and security of our customers and on our legal obligations to protect such personal data.
+Streamline Vacation Rental Software
+(“
+Streamline
+”, “
+we
+,” “
+us
+” or “
+our
+”), as Inhabit IQ brand, developed a data privacy program that respects and protects the privacy rights of individuals whose personal information we process. We recognize that data privacy coincides with data protection, thus, we implement reasonable and appropriate data security and protection measures to preserve the confidentiality, integrity, and availability of the personal information we process.
+Contents
+Who are we?
+What is the scope of this Privacy Notice?
+What do we collect?
+How we use the personal information we collect
+How we share and disclose your personal information
+How long we retain personal information
+How do we secure your personal information
+Your Choices and Rights
+Your Choices
+Your Rights
+California Privacy Rights
+Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, Virginia
+GDPR Privacy Rights
+Exercising Your Rights
+How to Exercise Your Rights
+Use of an Authorized Agent
+Minors
+Streamline as a Service Provider
+Changes to this Privacy Notice
+Contact Us
+Cookies
+Streamline Sub-processor List
+Your Privacy Choices
+I. Who are we?
+Streamline Vacation Rental Software (“Streamline”, “we,
+” “
+us
+” or “
+our
+”) is a vacation property management software provider operating under Inhabit IQ, a global PropTech software company serving the residential and vacation property management industries offering software-as-a-service (SaaS) solutions for core areas like accounting and operations, customer relations management, marketing, background screening, rent payment processing, and insurance.
+Streamline provides a vacation rental software and services solutions with all the capabilities property management companies and homeowners need to manage their properties through services such as property management, branding, website and marketing, CRM, lead management, reservation portal, revenue management, B.I. reporting, vendor and billings, payment and guest verification, homeowner acquisition, property care, trust accounting, training, API and integrations, and analytics and reporting, among other. When we use the term “
+Service(s)
+” we mean collectively:
+The information provided through websites owned and controlled by us, including the websites at
+https://www.streamlinevrs.com/
+,
+https://partner.streamlinevrs.com/
+, https://admin.streamlinevrs.com/login and other related mobile application and platforms (the “
+Site(s)
+”);
+The provision of online tools and platforms to those who avails of such tools and services; and
+Our marketing and business development activities, including any social media properties we create, and emails that we send (“
+Marketing
+”).
+We offer these Services to property management companies (“
+Clients
+”). The Services are intended for a general audience and are not targeted to children under the age of 13.
+We are a “Data Controller” under Data Privacy Laws when we process personal information relating to
+our Clients,
+potential Clients, business partners, our suppliers or service providers.
+We are a “Data Processor” under Data Privacy Laws when we process personal information on behalf of our Clients relating to our Client’s guests or homeowners in the performance of our Services. When we process personal information in this capacity, it will be set out in a written contract with our Clients, the Data Controller, and such Data Controller’s Privacy Notice would apply as opposed to this Privacy Notice.
+II. What is the scope of this Privacy Notice?
+We strive to be transparent and keep you informed on how we process your personal information through this notice. This notice sets out how we collect, use, store, share, dispose, and protect your personal information as a Data Controller and a Data Processor.
+This Privacy Notice covers the disclosures that are required by “Data Privacy Laws” governing our processing of personal and sensitive personal information, which include, but are not limited to the following:
+The General Data Protection Regulation and the UK Data Protection Act 2018 and General Data Protection Regulation;
+Canada’s Personal Information Protection and Electronic Documents Act, Alberta and British Columbia’s Personal Information Protection Act (PIPA), Quebec’s Law 25 (Private Sector Act); and
+US state privacy laws currently in effect—including the California Consumer Privacy Act, the Colorado Privacy Act of 2021, the Connecticut Data Privacy Act of 2022, the Delaware Personal Data Privacy Act, the Florida Digital Bill of Rights, the Iowa Consumer Data Protection Act, the Montana Consumer Data Privacy Act, the Nebraska Data Privacy Act, New Hampshire Senate Bill 255, New Jersey Senate Bill 332, the Oregon Consumer Privacy Act, the Texas Data Privacy and Security Act, the Utah Consumer Privacy Act of 2022, and the Virginia Consumer Data Protection Act of 2021—as well as similar state laws such as Indiana Consumer Data Protection Act, Kentucky Consumer Data Protection Act, Maryland Online Data Privacy Act, Minnesota Consumer Data Privacy Act, Rhode Island Data Transparency and Privacy Protection Act, Tennessee Information Protection Act, to the extent they take effect.
+This notice applies as we process personal information as a Data Controller relating to:
+visitors to Streamline Site(s);
+our Clients including their representatives, officers, employees, partners, independent contractors, agents and other authorized internal users; and
+our prospective Clients, including their representatives, officers, employees.
+If you are an individual guest or homeowner of a property managed or owned by a Client who has been invited to use the external-facing features of the Services in a limited capacity (“
+Guest or Homeowner
+”), we process your personal information as a Data Processor for our Clients and the processing of
+your personal information will be governed by your relationship with them.
+Please note that our Clients have their own privacy notices, and this notice does not apply to their collection, use, storage, destruction, disclosure, and/or processing of any personal information they handle.
+This Privacy Notice does not cover the practices of companies we do not own or control or people we do not manage and this Privacy Notice does not apply to any third-party sites that may link to or be accessible from our Sites.
+We use some phrases in this Privacy Notice that are unique to our business or our Services. Below are definitions of some of the key terms.     .
+“
+Personal Information or Personal Data
+”
+refers to information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household. Personal Information does not include anonymized, de-identified or aggregated information, certain information publicly available, or certain other information excluded from the scope of various Data Privacy Laws.
+“Sensitive Personal Information”
+varies depending on the applicable Data Privacy Law
+s
+. Generally, this includes information that could harm an individual if disclosed, this requires a higher level of security and protection and is subject to additional restrictions and regulations. It includes health, financial, biometric data, genetic data and other identifying information.
+“Processing”
+means any operations performed on personal information, including: collecting, storing, retrieving, consulting, analyzing, disclosing or sharing with someone else, erasing, or destroying personal data.
+“Client”
+refers to the Property Management Company who we contract with and provide our Services for.
+“Guest or Homeowner”
+refers to theindividual guest or homeowner of a property managed or owned by a Client who has been invited to use the external-facing features of the Services in a limited capacity whose personal information we may handle on behalf of or upon the instructions of our Clients as part of or as needed by the Services we provide.
+“User”
+refers to individuals who are given access to the platforms we offer our
+Clients
+. They can be Primary Users: representative, staff, vendor, employee or personnel of our
+Clients
+or Secondary Users: the Guests or Homeowners.
+III. What do we collect?
+We collect the following Personal Information from the following categories of individuals and sources.
+A. Data from our Clients, Potential Clients, Primary Users, and Site Visitors
+Directly from you when you interact with our customer support by email, regular mail or telephone; or when you use any of our applications as authorized Primary User of our Client:
+Name, phone number, email address, or unique personal identifiers (wireless device ID, cookies, IP address) (“
+Identifiers
+”).
+Internet or other network or device activity (such as browsing history, browser type and language, operating system or app usage) (“
+Internet Data
+”).
+Usernames, passwords, log-in credentials (“
+Log-in Data
+”)
+Directly from you as a visitor to one of our Site: When you visit our Site, you may choose to provide information to us, such as when you contact us to request or provide information through our “Contact Us”, “Schedule a Call”, “Pricing Page” and log-in pages on the Sites.
+In addition, when you interact with our Sites, we use technology and Google tools (such as Google Analytics, Google AdSense, Google Display Network Impression Reporting) to gather information on how visitors are using the Sites and Services. For more information, see Google’s explanation at “
+How Google uses information from sites or apps that use our services
+.”
+We collect IP address information so that we can properly manage our system and gather information about how our site is being used. This includes the device type and browser you are using, location data, the pages you are viewing and your interactions on the page. Your IP address may be associated with records containing Personal Information. We collect details of visits to our Site, including the volume of traffic received, logs and the resources that you have accessed. We may also collect certain location information such as your mobile device’s GPS signal, or information about nearby WiFi access points and cell towers.We may collect the following categories of information from our Sites:
+Name, company name, phone number, email address, state or province, unique personal identifiers (cookies, IP address), (“
+Identifiers
+”).
+Internet or other network or device activity (such as type of device, internet connection, browser type and version, time zone, operating system and platform, referring/exit pages, account access date/time stamp, UTMs (Urchin tracking modules) for lead source) (“
+Internet Data
+”).
+From our Clients as needed for us to perform our Services for them.
+Name, phone number, email address, information about your real estate assets, and any other information necessary to complete applicable documents or applications provided (“
+Identifiers
+”).
+B. Data from Guests or Homeowners
+Directly from you as a Guests or Homeowners of our Clients who has been invited to use the customer-facing features of the Services in a limited capacity:
+Name, phone number, email address, postal address, state identification card numbers, social security number, driver’s license number or unique personal identifiers, passport number, insurance policy number, bank account number (wireless device ID, cookies, IP address), (“
+Identifiers
+”).
+Employment details, citizenship, homeownership, marital status, military or veteran status, monthly income and size, gender and birthdate (“
+Demographic Data
+”).
+Financial information (such as credit or debit card information, verification number, and expiration date) (“
+Financial Data
+”).
+Usernames, passwords, log-in credentials (“
+Log-in Data
+”)
+Internet or other network or device activity (such as browser type and language, operating system or app usage) (“
+Internet Data
+”).
+From our Clients and from our service providers and business partners as needed for us to perform our Services.
+Name, phone number, email address, postal address, state identification card numbers, social security number, driver’s license number or unique personal identifiers, passport number, insurance policy number, bank account number (wireless device ID, cookies, IP address), (“
+Identifiers
+”).
+Employment details, citizenship, homeownership, marital status, military or veteran status, monthly income and size, gender and birthdate (“
+Demographic Data
+”).
+Financial information (such as credit or debit card information, verification number, and expiration date) (“
+Financial Data
+”).
+IV. How we use the personal information we collect
+We only collect the information reasonably necessary to provide our Services, to carry out our operations, as required by law, and for the other legitimate business purposes, under applicable laws.
+Some of these uses may, under certain circumstances be based on your consent, may be necessary to fulfill our contractual commitments to our Clients, or are necessary to serve our legitimate interests as provided below:
+A. For provision of our Services:
+To facilitate the use of the software application, to maintain and administer our Client account which includes sending transaction records, notice and other documents necessary for the continued use of the application and for other purposes that would be necessary or beneficial to administer our Client’s use of the same (“
+Servicing
+”).
+To continuously provide you or our Client with our services through your use of the platform and access of its database (“
+Servicing
+”).
+To respond to your queries, comments, feedback, or requests and address your complaints and provide customer support (“
+Servicing
+”).
+To verify or ascertain your identity, uniquely identify you or your business and identify potentially fraudulent activity (“
+Fraud Prevention
+”).
+To carry out our obligations arising from of our contracts with our Clients (“
+Servicing
+”).
+To conduct research and gain an understanding of the users of our platform, their experiences and preferences to further improve the platform (“
+Quality Improvement
+”).
+To assist in business development, compile statistics regarding how the Site or our Service is used in order to improve our them, for example, we may use your personal data to improve the layout of our Site based on the click path you utilized to access certain information within the Site (“
+Quality Improvement
+”).
+To run system diagnostics to ensure that platform is functioning properly and to improve the user experience (“
+Quality Improvement
+”).
+To detect or prevent security incidents or other illegal activity, debug, verify or maintain quality or safety or improve or upgrade a service or device owned or controlled by us (“
+Security
+”)
+B. For marketing and advertising activities (
+“Marketing”
+):
+To communicate with our Clients and Potential Clients regarding services, activities, programs, trainings, promotions, services, products or other offers in which they have indicated an interest or to which they’ve subscribed and to contact them with information that may be of interest to them.
+To provide our Clients and Potential Clients newsletters, articles, alerts and announcements and other information we think they may find useful or which they have requested from us.
+To personalize our Clients and Potential Clients’ experience and allow us to deliver individualized content and product offerings according to their specific interests.
+To provide our Clients and Potential Clients with the marketing materials of third parties which we think may interest you.
+Please note that we do not conduct marketing activities to Guests or Homeowners or use any of the Guests or Homeowners personal data for our own marketing purposes.
+We do not sell or share text messaging originator opt-in data and consent status with any third parties for marketing or promotional purposes.
+C. For compliance with our legal obligations, regulatory requirements and for other legal purposes (“
+Legal
+”):
+To process any complaints, implement preventive measures and to investigate act, omission, or misconduct that would constitute a violation of our contracts and of the applicable laws.
+To verify your identity or conduct internal audits or reviews.
+To enforce our Terms and Conditions, Subscription Agreement, and other agreements.
+To gather the necessary information required by law, record keeping and good business practices.
+To comply with our legal obligations and other regulatory requirements.
+To protect our lawful rights and interests in court proceedings and to establish, exercise or as defense from legal claims.
+Interest-Based Advertising
+We and our third-party advertising partners may use cookies or web beacons to collect information for the purposes of interest-based advertising based on your visits to our Site. These cookies identify the pages you view, the links and ads you click on, other actions you take on those websites, and the referring website. Similarly, online advertisers use cookies to deliver advertising to you for companies other than us based on your visits to our Site and other websites.
+V. How we share and disclose your personal information
+The below chart summarizes the categories of personal and sensitive personal information we collect, from where we collect it, how we use it, and with whom we share it.
+This chart is updated in an annual review and reflects the prior twelve (12) months from the date of last review in compliance with the CCPA.
+We generally do not directly sell your Personal Information in the conventional sense (for money). Like many companies, however, we do disclose Personal Information for internal business purposes or operational purposes of our business (servicing, quality improvement, fraud detection, security, legal), and we use services that help deliver interest-based ads to you or analyze our website traffic. Making personal information (such as online identifiers or browsing activity) available to these companies may be considered a “sale” under certain Data Privacy Laws. If you would like to opt out of sales of your personal information that take place via cookies, immediately notify us in accordance with the “
+Your Choices and Rights
+” section below.
+Identifier
+Demographic Data
+Financial Data
+CATEGORIES OF DATA COLLECTED
+EXAMPLE DATA ELEMENTS
+SOURCES WE COLLECT FROM
+PURPOSES BEHIND COLLECTION, USE, AND SHARING
+CATEGORIES OF THIRD PARTIES WE DIS
+CLOSE TO
+Identifier
+Name, phone number, email address, unique personal identifiers (wireless device ID, cookies, IP address)
+From Clients
+Servicing, Marketing, Legal
+Our Service Providers
+Identifiers
+Name, phone number, email address, unique personal identifiers (wireless device ID, cookies, IP address)
+From Guests
+Servicing
+Demographic Data
+Gender and birthdate
+From Guests
+Servicing
+Financial Data
+Bank Account Name and Number
+From Guests and Homeowners
+Servicing
+Identifiers
+Name, phone number, email address, unique personal identifiers (wireless device ID, cookies, IP address)
+From Clients
+Quality Improvement, Fraud Prevention, Legal
+Corporate Subsidiaries and Affiliates
+We share Personal Information with the following categories of recipients for the following business purposes:
+Third-party Service Providers:
+Your Personal Information will only be shared with and processed by our affiliates and non-affiliated third-party service providers as permitted by law and for the purposes described in this Privacy Notice.  We may disclose Personal Information to certain non-affiliated specialized service providers, including professional advisors, consultants, technical service providers, and other third parties, who are bound by contractual obligations to keep Personal Information confidential and use it only for the purposes for which we disclose it to them.  We may disclose your Personal Information to third-party service providers to provide us with services such as Site hosting, including information technology and telephony services, and related infrastructure, customer service, e-mail delivery, auditing, and other similar services.
+Corporate Subsidiaries and Affiliates
+: We share the collected personal information as described in this notice with our subsidiaries and affiliated businesses within the Inhabit IQ, each of which use your personal information consistent with this Privacy Notice.  Those businesses may also use your personal information for each of their own purposes, including marketing purposes. Please visit their Privacy Notice on their website to learn more.
+Business Transfers
+: When applicable, we may share your information in connection with a substantial corporate transaction, such as the sale of a Site, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
+With Your Consent or at Your Direction:
+We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent or direction.
+Other Legal Reasons
+: In addition, we may use or disclose your Personal Information as we deem necessary or appropriate: (1) under applicable law; (2) to respond to requests from public and government authorities including public and government authorities; (3) to pursue available remedies or limit damages we may sustain; (5) to protect our operations or those of any of our affiliates; (6) to protect our rights, privacy, safety or property of, our affiliates, you and others; and (7) to enforce our terms and conditions.
+When the information collected from or about you is not defined as personal information under applicable law, we may share such non-personal, de-identified information or aggregated information with third parties at our discretion.
+VI. How long we retain personal information
+We will retain your Personal Information for as long as the Client’s account is active and for the period necessary to fulfill the purposes outlined in this Privacy Notice and to perform our obligations and provide our Clients our Services. We will also retain your information to comply with our legal obligations, to conduct audits, resolve disputes, and enforce our agreements with our Clients.
+VII. How do we secure your personal information
+We use reasonable organizational, technical and physical measures to maintain the privacy and security of your Personal Information within our organization against any unauthorized access, use, disclosure, loss or alteration, or theft of personal information. We maintain policies and practices to ensure the protection of your personal information. Depending on the volume and sensitivity of the information, the purposes for which it is used and the format in which it is stored, we implement a combination of measures to protect your personal information, including:
+Internal policies and procedures that define the roles and responsibilities of our employees throughout the information life cycle and limits their access to such information on a “need-to-know” basis;
+Technical safeguards such as encryption, firewalls, antivirus software and similar measures to protect information stored in electronic format;
+A designated Privacy Officer to monitor our compliance with applicable privacy laws;
+Employee privacy and data security training; and
+Procedures for receiving, investigating and responding to security incidents involving personal information.
+Unfortunately, no data transmission or storage system can be guaranteed to be secure at all times. Although we work to protect the security of your account and other data that we hold in our records, please be aware that no method of transmitting data over the internet or storing data is completely secure.
+If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “
+Contact Us
+” section below.
+VIII. Your Choices and Rights
+We offer you certain choices and you also may have certain rights in connection with the personal information we collect about you.
+If you are a Guest or a Homeowner of our Client, you may exercise your choices and rights with them. Please note that we only process your personal information on behalf of and upon their instructions and
+the processing of your personal information will be governed by your relationship with them.
+Our Clients have their own policy and procedure in handling your requests to exercise your rights. Please contact your property manager/owner for further assistance.
+A. Your Choices
+To ask us to remove your information from our marketing mailing lists, please contact us as outlined in the
+How to Exercise Your Rights
+Section below.  You also can unsubscribe from our marketing mailing lists by following the “Unsubscribe” link in our emails.  Even if you unsubscribe from our marketing communications, we may still need to send you communications relating to our Services, such as service announcements.
+You also have choices about whether cookies and other similar technologies are placed on your computer or mobile device.
+B. Your Rights
+Subject to applicable Data Privacy Law, you may have certain rights to know, access, update, port your personal data, correct inaccuracies, delete, restrict processing of your personal information in our custody and control.
+For security purposes, we will verify your identity when you request to exercise your data privacy rights.  For certain types of requests, we may also need to ask you for additional information to verify your identity. Once we have verified your identity (and your agent, as applicable), we will respond to your request as appropriate.
+You right over your personal information depends on the Data Privacy Law applicable where you reside:
+1. California Privacy Rights
+For additional information for residents of the State of California, please visit our
+California Privacy Rights page
+.
+2. Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, Virginia
+For additional information for residents of any of these states, visit the
+state rights page
+.
+3. GDPR Privacy Rights
+For additional information for residents of European countries, including the United Kingdom and Switzerland, visit our
+GDPR Privacy Rights page
+.
+C. Exercising Your Rights
+This provides for instructions on how you can exercise your rights under applicable Data Privacy Laws.
+1. How to Exercise Your Rights
+To submit a request to access, rectify, delete, port your personal data you can submit a request to us either:
+by email at
+privacy@streamlinevrs.com
+; or
+by calling us at (888) 590-1946
+Note in the body of the email the specific right you want to exercise. In the subject line, include “<Your State/Country> Consumer Request”.
+To protect the privacy and security of your personal information, we will attempt to verify your identity before acting on your request.  Your request must include details sufficient for us to properly understand, evaluate, and respond to the request.
+Please also note that as part of the verification process, we’re required to consider:
+the difficulty of verifying whether data that we hold and data we have linked to it truly and solely belongs to the data subject making the request, along with; and
+the potential adverse effects on disclosure of personal data to the wrong individual (or a person who is purposefully seeking the information of another) because such improper disclosure would likely adversely affect the privacy rights and freedoms of the relevant data subject/consumer, we limit certain personal data we make available.
+2. Use of an Authorized Agent
+An agent legally authorized to act on your behalf—may make a verifiable request related to your personal information. If you are making a request through an authorized agent, you must provide the authorized agent with written permission to do so, and a power of attorney that fulfills the requirements of the Data Privacy Laws. We may request more information from the authorized agent (or from you) if needed to verify the authorized agent’s identity or to avoid any breach of security or instances of fraud.
+3. Minors
+We do not knowingly collect personal information of minors (minority age depends on the applicable Privacy Laws) under the age of 13, nor are our Sites or Services developed for, offered to, or directed at children under the age of 13. If you believe that we have collected information of a child under the age of 13, please contact us and we will take appropriate action.
+4. Streamline as a Service Provider
+Most of the time we act as a “Service Provider” to other companies, our Clients — for instance, when we help other businesses use their own customers’ information (e.g. Guest’s information) as we provide our Services to them. As to personal information that we hold as a “Service Provider,” you would generally need to reach out to the business (our Clients) or we will refer your request to them so they can act on your request to exercise your rights stated here.
+IX. Changes to this Privacy Notice
+Changes to this Privacy Notice will be posted on this page. If we make a material change to our privacy practices, we will provide notice on our Site or by other means as appropriate. If we are required by applicable data protection laws to obtain your consent to any material changes before they come into effect, then we will do so in accordance with law.
+X. Contact Us
+If you have any questions, or complaints, regarding the collection or use of your personal information or the content of this notice, please contact our Privacy Officer at the coordinates below.
+Privacy Officer
+InhabitIQ
+2035 Lakeside Centre Way, Suite 250, Knoxville, Tn 37922
+privacy@streamlinevrs.com
+We respect your privacy rights and commit to the security of your personal information. If you do not agree to how we process your personal information as discussed in this Privacy Notice, please reach out to us. Please also see our terms of service or agreements for more information about our use of cookies, please read our
+Cookie Policy
+.
+Cookies
+A “cookie” is a small file stored on your device that contains information about your device. We may use cookies to provide basic relevant ads, website functionality, authentication (session management), usage analytics (web analytics), and to remember your settings, and generally improve our websites and Services. For a complete list and more information about our use of cookies, please read our
+Cookie Policy
+.
+Streamline Sub-processor List
+Streamline uses certain Sub-processors to assist in providing our Services. A Sub-processor is an external service provider that is enlisted by Streamline, as part of that service delivery, Streamline may be required to share personal information it processes with these providers.
+Read the
+list of our sub-processors
+.
+Let’s talk Streamline
+Not sure where to start?
+We’re here every step of the way. Schedule a consultation today:
+X
+View Our Brochure!
+X
+X
+X

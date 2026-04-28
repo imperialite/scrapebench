@@ -1,0 +1,47 @@
+# m.imdb.com
+ 
+User-agent: *
+Disallow: /ads/
+Disallow: /*/ads/
+Disallow: /ap/
+Disallow: /*/ap/
+Disallow: /find$
+Disallow: /*/find$
+Disallow: /find/
+Disallow: /*/find/
+Disallow: /registration/
+Disallow: /*/registration/
+Disallow: /_json/*
+Disallow: /*/_json/*
+Disallow: /user/ur*/ratings
+Disallow: /*/user/ur*/ratings
+Disallow: /user/ur*/checkins
+Disallow: /*/user/ur*/checkins
+Disallow: /contribute/*
+Disallow: /*/contribute/*
+Disallow: /search/title/*
+Disallow: /*/search/title/*
+Disallow: /search/name/*
+Disallow: /*/search/name/*
+
+ 
+User-agent: Baiduspider
+Disallow: /list/*
+Disallow: /*/list/*
+Disallow: /user/*
+Disallow: /*/user/*
+
+User-agent: anthropic-ai
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+User-agent: CCbot
+Disallow: /
+User-agent: FacebookBot
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: PiplBot
+Disallow: /

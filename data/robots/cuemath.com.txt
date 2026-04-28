@@ -1,0 +1,30 @@
+User-agent: *
+Sitemap: https://www.cuemath.com/sitemap-index/usa-sitemap.xml
+Sitemap: https://www.cuemath.com/sitemap-index/india-sitemap.xml
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: GeminiBot
+Allow: /
+
+Disallow: /blog/tag/
+Disallow: /centres/search/
+Disallow: /?utm_source=
+Disallow: /wp-admin/
+Disallow: /ncert-solutions-1/
+Disallow: /dsa/
+Disallow: /program/coding/
+Disallow: /program/english/
+Disallow: /program/sat/
+Disallow: /program/science/
+Disallow: /sat*
+Disallow: /subject/coding/
+Disallow: /subject/english/
+Disallow: /subject/science*

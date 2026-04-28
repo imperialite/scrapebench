@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /contracts/tagged/*+*
+Disallow: /contracts/tagged/*%2B*
+Disallow: /signin*
+Disallow: /signup*
+Disallow: /user/*
+Disallow: /api/search
+Disallow: /contracts/*.pdf$
+Disallow: /contracts/*.docx$
+Disallow: /contracts/*.drive$
+Disallow: /clause/*.pdf$
+Disallow: /clause/*.docx$
+Disallow: /clause/*.drive$
+Disallow: /search*
+Sitemap: https://www.lawinsider.com/sitemap.xml

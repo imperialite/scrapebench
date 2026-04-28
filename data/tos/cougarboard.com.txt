@@ -1,0 +1,69 @@
+Privacy Policy
+Personal Information
+The only personal information we collect is what you voluntarily offer during signup, and some basic information related to payments made on the site. We also store certain information we receive related to your use of the site, such as your IP address. Credit card numbers are never received nor stored by CougarBoard, as all processing is handled by a third party. The personal information we do have will never be made available to others, with the following exceptions:
+
+to comply with legal requirements
+to protect any person from death or serious bodily injury
+to help prevent fraud and/or abuse of this site or its users
+to respond to public questions or misinformation by that user.
+In order to perform their duties, site moderators have access to some private information related to duplicate account checking. They also have access to non-public information as part of the moderation of the site, such as deleted posts, abuse reports, appeals, and other information sent by users to the moderators. The appeals committee has access to deleted posts, appeals, and any other information needed in order to handle appeals. Neither the moderators nor the appeals committee are allowed to share any of that non-public information with anyone who is not either a moderator or on the appeals committee, whether on or off this site, unless one of the above exceptions apply.
+
+Deactivating or Deleting Your Account
+You may deactivate your account at any time on the Preferences page. Users with deactivated accounts may request for them to be reactivated at any time using the Contact Us form linked in the footer. You may also request deletion of your account data using the Contact Us form. When deleting your account data, your posts would remain on the board, but your username would be removed as the author, in order to maintain context for replies, etc.
+
+Social Networks
+If you choose to connect your CougarBoard account to a social network account (such as Facebook, Twitter, etc), we will store basic information received from your social network account. This may include account ID, real name, email, and location.
+
+Cookies
+We store a few cookies on your computer, primarily related to logging in and to gathering statistics on unique visitors.
+
+Surveys
+Information you provide in surveys will remain confidential. Survey data will only ever be published in aggregate form.
+
+Message Board Posts, Boardmails, etc.
+This site allows you to post messages in various formats, either to the public, to groups, or to individuals. All messages are owned by whoever posted them. By posting to CougarBoard.com, you agree to allow your message to be published on the Internet by CougarBoard.com.
+
+Posts to the message board may be edited or deleted by the user. Moderators, appeals committee members, and other members of the oversight team may still have access to edited or deleted posts.
+
+Boardmails and other message formats supported by this site do not allow editing or deletion, but have a limited audience. Please be aware of that when posting personal information.
+
+Emails
+Users who have signed up for CougarBoard may occasionally receive administrative, marketing, or transactional emails. You may opt-out of marketing emails.
+
+Analytics
+We collect web analytics information about our users in order to help us run the site more effectively. For example, web analytics allows us to see trending information about page views per day, or even things like what percentage of users are using each browser. Our web analytics are provided by third parties, and their privacy policies apply to the information they collect. We do not provide any personally identifiable information about our users to these services.
+
+Third Party Services
+We use various third party services to help us run the site. These services may collect information about your use of our site, as described in their privacy policies. We do not provide any personally identifiable information about our users to these services, except as necessary for them to provide their services to us. Examples of such services include hosting providers, email service providers, and payment processors.
+
+Third Party Advertising
+CougarBoard.com is supported largely by advertising. We use various third party ad services to provide the ads that you see on the site. We cannot control what (if any) information is stored by these services. We do not provide any personally identifiable information about our users to these services.
+
+Our ad networks use cookies to serve ads on this site. For example, Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit thenai.org/opt-out/.
+
+Mediavine Programmatic Advertising (Ver 1.1)
+The Website works with Mediavine to manage third-party interest-based advertising appearing on the Website. Mediavine serves content and advertisements when you visit the Website, which may use first and third-party cookies. A cookie is a small text file which is sent to your computer or mobile device (referred to in this policy as a “device”) by the web server so that a website can remember some information about your browsing activity on the Website.
+
+First party cookies are created by the website that you are visiting. A third-party cookie is frequently used in behavioral advertising and analytics and is created by a domain other than the website you are visiting. Third-party cookies, tags, pixels, beacons and other similar technologies (collectively, “Tags”) may be placed on the Website to monitor interaction with advertising content and to target and optimize advertising. Each internet browser has functionality so that you can block both first and third-party cookies and clear your browser’s cache. The "help" feature of the menu bar on most browsers will tell you how to stop accepting new cookies, how to receive notification of new cookies, how to disable existing cookies and how to clear your browser’s cache. For more information about cookies and how to disable them, you can consult the information at All About Cookies.
+
+Without cookies you may not be able to take full advantage of the Website content and features. Please note that rejecting cookies does not mean that you will no longer see ads when you visit our Site. In the event you opt-out, you will still see non-personalized advertisements on the Website.
+
+The Website collects the following data using a cookie when serving personalized ads:
+
+IP Address
+Operating System type
+Operating System version
+Device Type
+Language of the website
+Web browser type
+Email (in hashed form)
+Mediavine Partners (companies listed below with whom Mediavine shares data) may also use this data to link to other end user information the partner has independently collected to deliver targeted advertisements. Mediavine Partners may also separately collect data about end users from other sources, such as advertising IDs or pixels, and link that data to data collected from Mediavine publishers in order to provide interest-based advertising across your online experience, including devices, browsers and apps. This data includes usage data, cookie information, device information, information about interactions between users and advertisements and websites, geolocation data, traffic data, and information about a visitor’s referral source to a particular website. Mediavine Partners may also create unique IDs to create audience segments, which are used to provide targeted advertising.
+
+If you would like more information about this practice and to know your choices to opt-in or opt-out of this data collection, please visit National Advertising Initiative opt out page. You may also visit Digital Advertising Alliance website and Network Advertising Initiative website to learn more information about interest-based advertising. You may download the AppChoices app at Digital Advertising Alliance’s AppChoices app to opt out in connection with mobile apps, or use the platform controls on your mobile device to opt out.
+
+For specific information about Mediavine Partners, the data each collects and their data collection and privacy policies, please visit Mediavine Partners.
+
+Future Changes
+If our Privacy Policy changes at any time in the future, we will post the policy changes to this page on our website.

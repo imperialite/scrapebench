@@ -1,0 +1,17 @@
+# Added by savage robots-txt
+User-agent: *
+Disallow: /search
+Disallow: /activity
+Disallow: /members
+Disallow: /*/feed/
+Disallow: /*[\x{0E00}-\x{0E7F}]*
+Disallow: /*utm_*
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://americansongwriter.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

@@ -1,0 +1,9 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.ms.now/sitemap_index.xml
+Sitemap: https://www.ms.now/news-sitemap.xml
+# ---------------------------
+# END YOAST BLOCK

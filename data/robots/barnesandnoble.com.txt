@@ -1,0 +1,17 @@
+#robots.txt for https://www.barnesandnoble.com
+User-agent: *
+Disallow: /account/
+Disallow: /mobile/account/
+Disallow: /checkout/
+Disallow: /mobile/checkout/
+Disallow: */lia.barnesandnoble/
+Disallow: /ajax?
+Disallow: /www/search?
+Disallow: /handler.jsp
+Disallow: /google/ad
+Disallow: /cartridges/
+Disallow: /includes/
+Disallow: /noresults/
+
+Disallow: /s/
+Sitemap: https://www.barnesandnoble.com/sitemap.xml

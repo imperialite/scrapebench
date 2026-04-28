@@ -1,0 +1,265 @@
+ClassLink | Privacy
+
+By clicking
+"Accept"
+, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View our
+Privacy Policy
+for more information.
+Preferences
+Deny
+Accept
+Privacy Preferences
+
+Essential (Always On)
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features. These cannot be turned off.
+Personalization
+These cookies remember user choices and settings, enhancing website functionality and providing personalized content and recommendations.
+Analytics
+These cookies collect data about how users interact with our website, helping to improve its performance and user experience.
+Deny All
+Accept All
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+Preferences
+Privacy
+ClassLink is committed to ensuring data privacy
+Updated August 2025
+ClassLink is committed to ensuring that your information is secure and your privacy is protected. The information below outlines our privacy and security policies. Additional information is contained in our software license and service level agreements. In order to prevent unauthorized access or disclosure, we have put in place physical, electronic and managerial procedures to safeguard and secure the information we store. Learn more about our
+security protocols
+.
+Our Guiding Principles on Personal Data
+Data Ownership:
+ClassLink acknowledges that all personally identifiable information (PII) about students, teachers, administrators, and parents is the property of the customers that ClassLink serves.
+Purpose:
+ClassLink is a trusted steward of personal data. Data received from its customers is to be used solely for purposes of providing educational services. Such data will not be sold or used for marketing purposes. Customers may use ClassLink tools to share data with educational vendors of their choice.
+Type of Data Maintained in ClassLink:
+ClassLink maintains personal data needed for the satisfactory operation of the ClassLink system, and to enable services including single sign-on and rostering for the customers that it serves. This data includes what is generally regarded as
+Directory Information
+such as name, school building affiliation, grade level, and email address. ClassLink may also maintain profile pictures, cell phone numbers for students age 13+ (to send password reset verification codes), student ID numbers, login credentials for various online resources, and personal computer files (temporarily cached for file transfers between cloud drives and stored until deleted by user for the ClassLink cloud drive). ClassLink does not generally maintain information such as mailing address, gender, date of birth, and other personal demographic data.
+Protection:
+ClassLink keeps all personal data confidential and secure. ClassLink team members are bound by contractual non-disclosure agreements. ClassLink’s data security protections include: internal data management policies and procedures, limitations on access to personal data, data encryption (for both data in transit and at rest), data systems monitoring, incident response plans, and safeguards to ensure personal data is not accessed by unauthorized persons when transmitted over communication networks. ClassLink may disclose personal data to public authorities if required by lawful requests.
+Disposal of Data:
+ClassLink permanently deletes personal data after the termination of a contract, when no longer needed, or when advised to do so by the customer.
+Correction:
+ClassLink enables users, or their authorized parents, to review personal information maintained in ClassLink and correct erroneous information.
+Discovery of a Security Breach That Results in Unauthorized Release of Personal Data:
+ClassLink shall promptly notify affected customers of such breach, shall conduct an investigation, and shall restore the integrity of its data systems as soon as possible. ClassLink will fully cooperate and assist with required notices to those individuals affected by such breach.
+Financial Protection:
+ClassLink shall maintain business insurance policies to protect the customers that it serves.
+International
+USA
+Individual States
+Student Data Privacy Consortium (
+SDPC
+)
+ClassLink is a member of the Student Data Privacy Consortium (SDPC).
+The Student Data Privacy Consortium is:
+Designed to address the day-to-day, real-world multi-faceted issues that schools, states and vendors are facing each day in the protection of learner information.
+A Special Interest Group (SIG) of the Access 4 Learning (A4L) Community, which is a unique, non-profit collaboration, composed of schools, districts, local authorities, states, US and International Ministries of Education, software vendors and consultants who collectively address all aspects of learning information management and access to support learning.
+Leverages the work ongoing by various organizations already providing guidance to schools and states regarding student data privacy. Its main focus is on issues being faced by “on-the-ground” practitioners.
+SOC 2 Type II Audit
+A SOC 2 Type II audit provides evidence that a company has a strong commitment to deliver high quality services to its clients by demonstrating they have the necessary internal controls and processes in place.
+ClassLink has successfully completed a SOC 2 Type II audit which was performed by the licensed CPA firm KirkpatrickPrice.  The SOC 2 audit is based on the AICPA's Trust Services Criteria, and focuses on ClassLink's controls as they relate to security, availability, and confidentiality.  A successful SOC 2 audit assures our customers of their reliance on ClassLink's controls to protect their data.
+Data Sovereignty
+Nearly all countries have laws that protect personal data privacy. Some countries require that personal data be stored exclusively on servers located in-country. Further, some countries limit the transfer of personal data outside of their jurisdiction.
+ClassLink software and systems are designed to comply with these various regulations as follows:
+ClassLink customers are always in control over the storage and transmission of their personal data.
+ClassLink software enables the customer to control when and how their data is shared with third party vendors.
+ClassLink customers have the option to host a dedicated ClassLink data server either within their internal data center or utilize a secure data center located within the jurisdiction.
+ClassLink software and system processes can only transmit personal data with the express instruction of the customer.
+European Union – General Data Protection Regulation (
+GDPR
+)
+GDPR is the newest body of regulation regarding the handling of personal data for citizens of the European Union (EU). The primary objective of the GDPR is to give citizens control of their personal data.  Select ClassLink products are compliant with the EU General Data Protection Regulation.
+GDPR includes 11 chapters and nearly 100 articles. Below are some of the most relevant articles.
+Article 5 “Principles relating to processing of personal data”: ClassLink is a trusted steward of personal data. Data received from customers are to be used solely for purposes of providing educational services. Such data will not be sold or used for marketing purposes.
+Article 17 “Right to be forgotten”: Schools can choose to delete users from ClassLink at any time. Individual users can choose to delete any data they’ve added to ClassLink at any time. ClassLink promptly deletes data associated with schools no longer working with ClassLink.
+Article 32 “Security of processing”: ClassLink keeps all personal data confidential and secure. ClassLink team members are bound by contractual non-disclosure agreements. ClassLink’s data security protections include: internal data management policies and procedures, limitations on access to personal data, data encryption (for both data in transit and at rest), data systems monitoring, incident response plans, and safeguards to ensure personal data is not accessed by unauthorized persons when transmitted over communication networks.
+Article 33 “Notification of a personal data breach to the supervisory authority”: GDPR requires notice to the supervisory authority within 72 hours of awareness of a personal data breach. Discovery of a security breach that results in an unauthorized release of personal data: ClassLink shall promptly notify affected customers of such breach, shall conduct an investigation, and shall restore the integrity of its data systems as soon as possible. ClassLink will fully cooperate and assist with required notices to those individuals affected by such breach.
+Article 35: “Data protection impact assessment”: ClassLink conducts various security assessments of our systems. Certain security tests are conducted annually, others more frequently and some other tests are running constantly.
+Article 37: “Designation of a data protection officer”: ClassLink maintains a designated data protection officer who is authorized to engage security reviews and impact product development.
+Article 44: “General principle for transfers”: To promote data sovereignty/data residency in GDPR, the regulation authorizes the
+European Commission
+to decide if a third country or territory, where data may be transferred, meets adequate levels of protection. As GDPR is new, no third country or territory has yet been approved by the Commission. ClassLink customers are always in control over the storage and transmission of their personal data. Customers located in the EU or UK utilize a secure data center located within the EU zone (Frankfurt, Germany). No servers, outside of these options, are used to store data for EU or UK based customers.
+European Union – Privacy Shield
+In July, 2016, the Privacy Shield framework was designed by the U.S. Department of Commerce, the European Commission, and the Swiss Administration to help companies comply with data protection requirements of the EU and Switzerland.
+ClassLink participates in the EU Privacy Shield. A list of participating organizations is available at
+www.privacyshield.gov/list
+.
+On July 16, 2020, the Court of Justice of the European Union, invalidated the privacy shield as a substitute for compliance with the General Data Protection Regulation (GDPR). Privacy Shield continues to be in effect for Switzerland. A key factor contributing to the invalidation was the permissible transfer of personal data from the EU to the US under certain circumstances. ClassLink customers are always in control over the storage and transmission of their personal data. ClassLink software and system processes can only transmit personal data with the express instruction of the customer.
+ClassLink continues to participate in Privacy Shield and adhere to its guiding principles for the benefit of our customers in Switzerland.
+ClassLink conforms to the Privacy Shield Principles as follows:
+Notice: ClassLink publishes online privacy notices, including its participation in the Privacy Shield, its practices on collecting, using, and sharing personal data with third parties, its privacy practices, and choices available to individuals regarding limiting data collection and use.
+Choice: ClassLink will not share the customer’s data with third party vendors. ClassLink customers are always in control over the storage and transmission of their personal data.
+Accountability for Onward Transfer: ClassLink software enables the customer to control when and how their data is shared with third party vendors.
+Security: ClassLink takes all reasonable and appropriate measures to protect the data owned by the customers that it serves from loss, misuse, and unauthorized access.
+Data Integrity and Purpose Limitation: ClassLink takes all reasonable and appropriate measures to limit processing to the purposes for which data has been collected, and to ensure that personal data is reliable for its intended use, accurate, complete, and current.
+Access: ClassLink customers are always in control of their data, and can correct, amend, or delete information that is inaccurate.
+Recourse, Enforcement and Liability: ClassLink protects against the unauthorized access of personal data through a variety of measures, including those enumerated within the EU standard contractual clauses related to data protection.
+ClassLink provides contact information on its website for inquiries or complaints regarding compliance with the Privacy Shield. The ClassLink contact web page is
+classlink.com/contact
+.
+ClassLink participates in the Independent Recourse Mechanism (IRM) provided by the European Union Dispute Resolution Procedures (EU DPAs) for Privacy Shield dispute resolution.
+ClassLink is subject to the investigatory and enforcement powers of the Federal Trade Commission or the appropriate statutory body that will ensure compliance with the Privacy Shield Principles.
+ClassLink recognizes the possibility for an individual to invoke binding arbitration pursuant to the Privacy Shield.
+ISO/IEC 27001
+An international standard for managing information security through an Information Security Management System (ISMS). Certification verifies that an organization systematically manages risks, controls, and continuous improvements.
+ISO/IEC 20000
+An international standard for IT Service Management that ensures an organization delivers reliable, well-governed IT services. It focuses on service delivery, incident management, and continual improvement.
+United States –
+Secure by Design Pledge
+ClassLink is proud to be a founding signatory of the
+Secure by Design pledge
+, developed by The White House, the Department of Education, and the Cybersecurity and Infrastructure Security Agency (CISA).
+This pledge reinforces ClassLink’s ongoing commitment to providing products that are secure-by-design and secure-by-default, ensuring student and district data remain protected.
+As part of this pledge, ClassLink commits to upholding three core principles designed to improve school cybersecurity:
+Take ownership of customer security outcomes
+Embrace radical transparency and accountability
+Lead from the top
+United States – Section 508 & ADA Compliance
+Web Content Accessibility Guidelines
+ClassLink complies with the web content accessibility guidelines of
+WCAG 2.1 Level AA
+as accepted by
+Section 508 of the Rehabilitation Act of 1973
+and the
+Americans with Disabilities Act (ADA)
+.
+StateRAMP
+ClassLink is a member of
+StateRAMP
+, which represents the shared interests of state and local governments, third-party assessment organizations, and service providers with IaaS, SaaS, and PaaS solutions. ClassLink and StateRAMP believe in the values of transparency, standardization, and community. As a
+StateRAMP member
+, we are committed to making the digital landscape a safer, more secure place.
+StateRAMP is based on NIST Special Publication 800-53 Rev. 4 and is modeled after FedRAMP. It implements a "complete once, use many" approach to save time and reduce costs for service providers and governments. It also relies on FedRAMP Authorized Third-Party Assessment Organizations (3PAOs) for assessments.
+United States – Cloud Security Alliance (CSA) Star Recipient
+ClassLink is proud to hold the
+Cloud Security Alliance (CSA) STAR
+. CSA enables solution providers to validate their cloud security and offer proof to current and future customers of the controls in place. The CSA STAR Certification is a rigorous third-party independent assessment of the security of a cloud service provider. The technology-neutral certification leverages the requirements of the ISO/IEC 27001:2013 management system standard together with the CSA Cloud Controls Matrix. Certification certificates follow normal ISO/IEC27001 protocol and expire after three years unless updated.
+United States – Children’s Internet Protection Act (
+CIPA
+)
+‍
+The Children’s Internet Protection Act (CIPA) requires schools and libraries receiving certain e-Rate benefits from the Federal Communications Commission (FCC) to adhere to policies that provide safe internet experiences for minors. These include policies related to:
+Preventing access by minors to inappropriate matter on the Internet;
+The safety and security of minors when using electronic mail, chat rooms and other forms of direct electronic communications;
+Unauthorized access, including so-called “hacking,” and other unlawful activities by minors online;
+Unauthorized disclosure, use, and dissemination of personal information regarding minors; and
+Measures restricting minors’ access to materials harmful to them.
+Although ClassLink does not itself prevent access to inappropriate websites, that burden belongs to the school or library, ClassLink can help create an intentional internet experience for young students by enabling instant access to positive online resources from any device.
+United States – Children’s Online Privacy Protection Act (
+COPPA
+)
+ClassLink is compliant with the regulations put forth by the Children’s Online Privacy Protection Act (COPPA). ClassLink maintains and protects only that information which enables users to operate ClassLink services.
+ClassLink is
+iKeepSafe Certified
+:
+The iKeepSafe COPPA Safe Harbor Certification program ensures that practices surrounding collection, use, maintenance and disclosure of personal information from children under the age of 13 are consistent with principles and requirements of the Children’s Online Privacy Protection Act (COPPA). Companies that comply with the guidelines are awarded a badge, making it easy for parents and schools to identify products that are compliant with COPPA.
+United States – Family Educational Rights and Privacy Act (
+FERPA
+)
+The Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34 CFR Part 99) is a Federal law that protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education. FERPA sets forth protocols for ensuring privacy and security of personally identifiable information of students. ClassLink adheres to the data protection protocols set forth in FERPA.
+ClassLink is
+iKeepSafe Certified
+:
+The iKeepSafe FERPA Certification demonstrates compliance with the federal mandates as well as iKeepSafe’s rigorous guidelines through the published Product Profile.
+California – California Student Privacy Certification (CSPC) issued by iKeepSafe
+The
+CSPC
+builds on iKeepSafe’s FERPA Assessment and COPPA Safe Harbor, which help educators and parents find products that meet the expectations of federal privacy laws. This certification is recommended for operators and providers of websites and online services that are, whole or in part, intended for use in and by schools. Earning the
+iKeepSafe CSPC
+asserts that your technology company is a leader in student privacy.
+The certification assesses for federal and California laws governing student data privacy, including:
+Family Educational Rights and Privacy Act (“FERPA”)
+Protection of Pupil Rights Amendment (“PPRA”)
+California Education Code 49073.6 – Collection of Student Information from Social Media
+California AB 1584, Education Code section 49073.1 – Privacy of Pupil Records: 3rd-Party Digital
+Storage & Education Software
+Student Online Personal Information Protection Act (“
+SOPIPA
+”)
+ClassLink provides contact information on its website for inquiries or complaints regarding compliance with the Privacy Shield. The ClassLink contact web page is
+classlink.com/contact
+.
+In addition to the above guiding principles on personal data:
+Location: ClassLink contracts with educational agencies in California are governed by and construed in accordance with the laws of the State of California. Additionally, educational agencies in the United States are serviced by ClassLink servers and database infrastructure that are based in the United States.
+Colorado - The Student Data Transparency and Security Act
+ClassLink is compliant with the regulations put forth by the Colorado Department of Education. Effective August 10, 2016, the
+Student Data Transparency and Security Act (PDF)
+(HB16-1423; C.R.S.22-16-101 et seq.), brought statewide attention to Student Data Privacy. The purpose of this Law is to increase the transparency and security of all Student Personally Identifiable Information (Student PII) that the Colorado Department of Education (CDE) and
+Local Education Providers
+(LEPs) collect and maintain. The Law aims to maximize trust in the use of student data in the elementary and secondary education system, by having vendors contracting with schools or educational agencies in Colorado contractually agree to comply with certain requirements if they are to collect information from students.
+Connecticut – §
+10-234aa
+through §
+10-234dd
+, Student Data Privacy
+ClassLink is compliant with the regulations put forth by §
+10-234aa
+through §
+10-234dd,
+An Act Concerning Student Data Privacy.
+In addition to the above guiding principles on personal data:
+Location: ClassLink contracts with educational agencies in Connecticut are governed by and construed in accordance with the laws of the State of Connecticut. Additionally, educational agencies in the United States are serviced by ClassLink servers and database infrastructure that are based in the United States.
+Florida – Fla. Stat. § 1002.22, Education records and reports of K-12 students; rights of parents and students; notification; penalty (
+§1002.22
+); and Fla. Stat. § 1002.222, Limitations on collection of information and disclosure of confidential and exempt student records (
+§1002.222
+)
+‍
+ClassLink is compliant with the regulations put forth by Fla. Stat. § 1002.22, Education records and reports of K-12 students; rights of parents and students; notification; penalty (§1002.22); and Fla. Stat. § 1002.222, Limitations on collection of information and disclosure of confidential and exempt student records (§1002.222).
+In addition to the above guiding principles on personal data:
+Biometric data of students, parents, and siblings: ClassLink does not collect biometric information as defined statute for students, parents, and siblings in Florida.
+Location: ClassLink contracts with educational agencies in Florida are governed by and construed in accordance with the laws of the State of Florida. Additionally, educational agencies in the United States are serviced by ClassLink servers and database infrastructure that are based in the United States.
+New York State – Education Law §2-d (
+Section 2-d
+) and the Personal Privacy Protection Law, Article 6-A of the Public Officers Law (
+PPPL
+)
+‍
+ClassLink is compliant with the regulations put forth by the Education Law §2-d and the Personal Privacy Protection Law (PPPL), Article 6-A of the Public Officers Law.
+In addition to the above guiding principles on personal data:
+Location: ClassLink contracts with educational agencies in New York are governed by and construed in accordance with the laws of the State of New York. Additionally, educational agencies in the United States are serviced by ClassLink servers and database infrastructure that are based in the United States.
+Parents’ Bill of Rights
+: ClassLink includes the Parents’ Bill of Rights with every ClassLink contract in New York State.
+Texas Risk and Authorization Management Program (
+TX-RAMP
+)
+The Texas Risk and Authorization Management Program provides a standardized approach for security assessment, certification, and continuous monitoring of cloud computing services that process the data of Texas state agencies. It has two certification levels plus provisional status based on data sensitivity
+Utah – Data Privacy Agreement
+ClassLink is compliant with the regulations put forth for third-party contractors by Title 53E-9-309. This legislation requires schools to include student data privacy provisions in all third-party agreements that receive student personally identifiable information (PII). ClassLink contracts with educational agencies in Utah are governed by and construed in accordance with the laws of the State of Utah. Additionally, educational agencies in the United States are serviced by ClassLink servers and database infrastructure that are based in the United States.
+Mobile SMS Verification - Terms of Service
+This program adds an extra layer of security to user accounts by utilizing SMS-based verification codes. Messages sent through our SMS program are limited to phone number verification codes, MFA verification codes and password recovery codes.
+Our SMS verification program strictly prohibits the transmission of any promotional material. The individual enrolled in this program determines the frequency of SMS messages when they initiate actions such as MFA authentication, phone number verification, or password reset via SMS. Please note there will only be one message per request.
+To learn more about the options available for ClassLink MFA, visit
+classlink.com/mfa
+.
+SMS verification is configured directly by users and can be removed anytime from your ClassLink LaunchPad account.
+To stop receiving SMS messages from ClassLink, reply ‘STOP’ to the SMS message or delete the associated phone number from your security settings. Reply with ‘HELP’ for help or email us at
+helpdesk@classlink.com
+.
+Carriers are not liable for delayed or undelivered messages.
+As always, message and data rates may apply for any messages delivered from ClassLink and any replies you send. If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
+If you are experiencing issues with the messaging program, please email
+helpdesk@classlink.com
+.
+If you have any questions regarding privacy, please read our privacy policy at
+classlink.com/privacy
+.
+Links to Other Websites
+Our ClassLink system and company website contain links to other websites. Once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Cookie Policy - ClassLink Website
+Cookies are small data files sent by a website’s server to a web browser, processor memory or hard drive and stored there. They can be used for a range of different purposes, such as customizing a website for a particular user, helping a user navigate a website, improving that user’s website experience, and storing that user’s preferences and login information.
+Types of cookies we use:
+Essential cookies:
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features. These cannot be turned off.
+Personalization cookies:
+These cookies remember user choices and settings, enhancing website functionality and providing personalized content and recommendations.
+Analytics cookies:
+These cookies collect data about how users interact with our website, helping to improve its performance and user experience.
+Marketing cookies:
+These are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+You can choose to accept or decline cookies. Please use our
+Privacy Manager
+to set your preferred cookie settings. This may prevent you from taking full advantage of the website.

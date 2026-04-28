@@ -1,0 +1,242 @@
+Terms Of Service
+oneSaaS
+Software-as-a-Service, Cloud Services Agreement
+Law Insider Terms of Service
+Cover Page
+The
+Agreement
+comprises of the contents in this
+Cover Page
+, including
+Key Terms
+and
+Supplemental Documentation
+(if any). By accessing or registering for the Services, executing an Order Form, or otherwise indicating your acceptance, the
+Parties
+enter into an Agreement which incorporates the oneSaaS
+Standard Terms
+(available at
+https://www.lawinsider.com/standards/onesaas/terms/v1.0
+) by reference. This Agreement governs your use of the Services provided by Law Insider Inc. ("
+we
+", "
+us
+", "
+our
+" or "
+Law Insider
+"), and is a binding legal agreement between you or the entity you represent ("
+you
+", "
+your
+" or "
+Customer
+"). Capitalized terms that are not defined in this Cover Page will have the meanings given in the oneSaaS Standard Terms.
+By accessing or using the Services:
+You acknowledge that you've read, understood, and accept this Agreement and any additional documents or policies referred to in or incorporated into this Agreement, whether you are participating as a guest or as a registered user;
+If this Agreement has materially changed since you last access or used the Services, you acknowledge and agree that your continued access or use of the Services constitutes your acceptance of the changed Agreement;
+You represent and warrant that (i) you are at least eighteen (18) years of age and have the right, authority, and capacity to enter into this Agreement, either on behalf of yourself or the entity that you represent, (ii) you are not located in a country embargoed by the United States and that you are not on the U.S. Treasury Department's list of Specially Designated Nations, and (iii) you will comply with all applicable laws and regulations in connection with your use of the Services and in accordance with the terms and conditions specified in this Agreement; and
+You consent to receive communications from us electronically, and you agree that such electronic communications, notices, and postings satisfy any legal requirements that such communications be in writing.
+KEY TERMS
+1. GENERAL TERMS
+Agreement Start Date
+The earlier of the date of (a) Customer's initial access to the Services through any online provisioning, registration or order process or (b) the effective date of the first Order Form referencing this Agreement.
+Governing Law
+The laws of the state of Delaware.
+Dispute Resolution Method
+Please be aware that this Agreement includes, among other things, a binding arbitration provision that requires you to submit to binding and final arbitration on an individual basis to resolve disputes, rather than jury trials or class actions.
+Please see below "
+Arbitration Agreement
+":
+For any dispute with Law Insider, you agree to first contact us at
+support@lawinsider.com
+and attempt to resolve the dispute with us informally.
+In the unlikely event that Law Insider has not been able to resolve a dispute it has with you after sixty (60) days, we each agree to resolve any claim, dispute, or controversy (excluding any claims for injunctive or other equitable relief as provided below) arising out of or in connection with or relating to this Agreement, or the breach or alleged breach thereof (collectively, "Claims"), by binding arbitration by JAMS, under the Optional Expedited Arbitration Procedures then in effect for JAMS, except as provided herein. JAMS may be contacted at
+www.jamsadr.com
+.
+The arbitration will be conducted in the State of Delaware unless you and Law Insider agree otherwise.
+If you are using the Services for commercial purposes, each party will be responsible for paying any JAMS filing, administrative and arbitrator fees in accordance with JAMS rules, and the award rendered by the arbitrator shall include costs of arbitration, reasonable attorneys' fees and reasonable costs for expert and other witnesses.
+If you are an individual using the Services for non-commercial purposes: (i) JAMS may require you to pay a fee for the initiation of your case, unless you apply for and successfully obtain a fee waiver from JAMS; (ii) the award rendered by the arbitrator may include your costs of arbitration, your reasonable attorney's fees, and your reasonable costs for expert and other witnesses; and (iii) you may sue in a small claims court of competent jurisdiction without first engaging in arbitration, but this does not absolve you of your commitment to engage in the informal dispute resolution process. Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction.
+Nothing in this Section shall be deemed as preventing Law Insider from seeking injunctive or other equitable relief from the courts as necessary to prevent the actual or threatened infringement, misappropriation, or violation of our data security, intellectual property rights or other proprietary rights.
+Prohibition of Class and Representative Actions and Non-Individualized Relief. You and Law Insider agree that each of us may bring claims against the other only on an individual basis and not as a plaintiff or class member in any purported class or representative action or proceeding. Unless both you and Law Insider agree otherwise, the arbitrator may not consolidate or join more than one person's or party's claims and may not otherwise preside over any form of a consolidated, representative, or class proceeding. Also, the arbitrator may award relief (including monetary, injunctive, and declaratory relief) only in favor of the individual party seeking relief and only to the extent necessary to provide relief necessitated by that party's individual claim(s), except that you may pursue a claim for and the arbitrator may award public injunctive relief under applicable law to the extent required for the enforceability of this provision.
+Waiver of Jury Trial. You and Law Insider hereby waive any constitutional and statutory rights to sue in court and have a trial in front of a judge or a jury.
+You and Law Insider are instead electing that all claims and disputes shall be resolved by arbitration under this Arbitration Agreement, except as specified in subsection (a) above. An arbitrator can award on an individual basis the same damages and relief as a court and must follow this Arbitration Agreement as a court would. However, there is no judge or jury in arbitration, and court review of an arbitration award is subject to very limited review.
+Confidentiality.
+All aspects of the arbitration proceeding, and any ruling, decision, or award by the arbitrator, will be strictly confidential for the benefit of all parties.
+Severability.
+If a court or the arbitrator decides that any term or provision of this Arbitration Agreement (other than the paragraph above titled "Prohibition of Class and Representative Actions and Non-Individualized Relief" above) is invalid or unenforceable, the parties agree to replace such term or provision with a term or provision that is valid and enforceable and that comes closest to expressing the intention of the invalid or unenforceable term or provision, and this Arbitration Agreement shall be enforceable as so modified. If a court or the arbitrator decides that any of the provisions of subsection (b) above titled "Prohibition of Class and Representative Actions and Non-Individualized Relief" are invalid or unenforceable, then the entirety of this Arbitration Agreement shall be null and void, unless such provisions are deemed to be invalid or unenforceable solely with respect to claims for public injunctive relief. The remainder of the Terms will continue to apply.
+Opt-Out.
+Within 30 days of first accepting the Agreement containing this Arbitration Agreement, you can choose to reject this Arbitration Agreement by mailing us a written opt-out notice. The opt-out notice must be postmarked no later than 30 days after the date you accept this Arbitration Agreement for the first time. You must mail the opt-out notice to the notice address provided above. The opt-out notice must include your name, address, phone number, and the email address(es) used to log in to the Services to which the opt-out applies, and can only be submitted on behalf of yourself. You agree to maintain your own copy of any opt-out request that you mail to Law Insider. Mass, group, collective, or consolidated opt-outs are not permitted. This procedure is the only way you can opt out of the Arbitration Agreement. If you opt out of this Arbitration Agreement, all other parts of the Agreement will continue to apply. Opting out of this Arbitration Agreement has no effect on any previous, other, or future arbitration agreements that you may have or may enter into with us. If you do not opt out of this Arbitration Agreement, but reject a future change to arbitration provisions, you agree that you will individually arbitrate any dispute in accordance with the language of this version of the Arbitration Agreement.
+One Year Limitations Period.
+You agree that any claim against Law Insider must be brought within one year of the date on which you first become aware, or reasonably should have become aware, of facts giving rise to such claim. You agree that this one-year limitations period is reasonable and that if you fail to provide notice of intent to initiate an informal dispute resolution conference within such time, your claim will be forever barred and may not be pursued against Law Insider, either in arbitration or a court.
+Documentation
+"
+Documentation
+" refers to the user guides, manuals, technical specifications, and other materials provided by the Provider, in any form or medium that describe the functionality, use, or operation of the Services.
+Publicity
+The Customer permits the Provider to use its name and logo (Customer Marks) during the Agreement Term to identify the Customer as a user of the Services in promotional materials, following any provided usage guidelines. The Provider will not alter the Customer Marks.
+2. SERVICES & USAGE
+Services
+Description of the cloud-based and other services provided by the Provider under the Agreement.
+The cloud-based software-as-a-service solutions provided by the Provider to the Customer under this Agreement. This includes access to and use of the Provider's software, hosting, updates, support, and related services as specified in the applicable Order Form or other applicable
+Documentation. Services exclude any third-party applications, integrations, or services that may interact with or be accessible through the Provider's software unless expressly included in the Agreement.
+Authorized Purpose:
+The specific use of the Services permitted under this Agreement.
+For Customer's internal business purposes, subject to the limitations of Customer's subscription plan.
+Authorized Users:
+Individuals or entities permitted to access and use the Services under this Agreement.
+"
+Authorized User
+" means only those of Customer's or its Affiliates' employees, consultants, contractors, and agents authorized by Customer to access and use the Services under the rights granted to Customer pursuant to this Agreement.
+Affiliates
+Entities that control, are controlled by, or are under common control with a Party to this Agreement.
+"
+Affiliates
+" means, with respect to a Party, any entity that directly or indirectly, through one or more intermediaries, controls, or is controlled by, or is under common control with, such Party, where "control" means at least a 50% ownership interest in such entity or the power to direct the management of such entity, whether through the ownership of voting securities, by contract, or otherwise.
+Affiliate Usage Rights:
+The rights granted under this Agreement allowing Affiliates to access and use the Services, subject to the same terms and conditions.
+The Customer may extend the use of the Services to its Affiliates, provided that such Affiliates comply with the terms of this Agreement. The Customer is responsible for all actions or omissions of its Affiliates as if they were its own.
+Additional Use Rights and Limitations:
+Any additional rights granted to the Customer beyond the standard use of the Services along with any corresponding restrictions, if any.
+You may use the Services only for lawful purposes and in accordance with this Agreement. We are under no obligation to enforce this Agreement on your behalf against another user. We encourage you to let us know if you believe another user has violated this Agreement or otherwise engaged in prohibited or illegal conduct.
+You agree not to, and will not assist, encourage, or enable others to use the Services (or any output generated by the Services):
+To access or copy in bulk, retrieve, harvest, or index any portion of the Services ("Scrape") or use, support, or develop any robot, spider, scripts, or other automatic device, process, or means (such as crawlers, browser plug-ins and add-ons, or other technology) to Scrape the Services for any purpose.
+If you scrape the Services or any portion thereof, we may seek legal action against you, including sending notice letters to you and your customers or end users that you are unlawfully distributing data obtained from the Services in violation of this Agreement.
+To violate this Agreement or any other rules or policies posted by us, including our Code of Conduct, which is hereby incorporated by reference.
+To remove, copy, redistribute, misappropriate, or modify any copyright, trademark, or other proprietary rights that appears on any portion of the Services or that are incorporated within the Services, including without limitation any templates, playbooks, and know-how related to the MS Word Add-In, or o any materials printed or copied from the Services.
+To remove, circumvent, disable, damage, or otherwise interfere with any security-related features or other restrictions of the Services.
+To bypass or ignore instructions that control access to the Service, including attempting to circumvent any rate limiting systems by using multiple API keys, directing traffic through multiple IP addresses, or otherwise obfuscating the source of traffic you send to the Services; or
+To access or use the Services for benchmarking or similar competitive analysis purposes or in order to build a competitive product or service.
+3. PAYMENT TERMS
+Fees:
+Fees payable for the Services.
+https://www.lawinsider.com/pricing
+Billing Frequency:
+Frequency of billing.
+Please be aware that subscriptions will automatically renew. If you purchase Services or participated in a free trial offer for Services, we may, either after an initial free trial period or at the beginning of your access to the Services, charge an automatically-renewing subscription fee. Please see below for more details:
+Automatic Renewal
+. The Services will automatically renew until you cancel them. If you participate in a free trial offer for Services, your payment method will automatically be charged as a subscription for Services unless you cancel your subscription prior to the end of the free trial period. We will continue to bill you automatically until you affirmatively cancel the Services. You must maintain accurate and up-to-date payment information. We assume no responsibility or liability if your access to the Services fails to renew or otherwise expires because of outdated or incorrect payment information.
+Cancellation
+. You can cancel the Services whenever you want. To cancel, please go to your account profile page and follow the instructions there for cancelling your subscription. Cancelling will end the automatic renewals of your Services, but we will keep any fees we have already collected for Services purchased. If you cancel your subscription, your access to the Services will terminate at the end of the subscription term in which you have cancelled.
+Fees
+. Fees for Services will first be charged either at the expiration of your free trial period (if any) or when you purchase Services, unless otherwise specified.
+Payment Terms:
+The terms and process for payments due under the Agreement.
+For any recurring payments, you hereby authorize Law Insider to bill your payment instrument in advance on a periodic basis in accordance with the terms of the applicable payment plan until you cancel your subscription, and you further agree to pay any charges so incurred. If are billed through an invoice, full payment for invoices issued by Law Insider in any given month must be received by Law Insider thirty (30) days after the mailing date of the invoice, or the Services may be terminated.
+4. DATA AND SUSPENSION
+Data Export Period:
+The period within which the Customer can export their data after termination.
+Data Export will not be possible post-termination of the Agreement, unless otherwise provided in the Order Form.
+Data Deletion Period:
+The period after termination within which the Provider must delete Customer Content.
+Customer may request deletion of Customer Content.
+5. USAGE AND LIMITATIONS
+Usage Limits:
+Restrictions on the scope or volume of use of the Services.
+Subject to your compliance with this Agreement and in consideration of your purchase of the applicable Services subscription plan, Law Insider hereby grants you access to the features and content included in your subscription plan purchase ("Paid Content"), for the maximum number of end user "seats" set forth in the Order Form. You shall not combine, incorporate, utilize, or distribute copies of Paid Content with or in connection with any product or system which, alone or in combination with such Paid Content, infringes any other person's or entity's intellectual property rights or any other rights. You shall comply with any and all requirements and restrictions imposed on Paid Content by Law Insider, its present and/or future data licensors, and its suppliers and other related entities. You are responsible for purchasing a sufficient number of end user seats for your usage of the Services and for your end users' compliance with this Agreement. Only one seat may be used per person.
+High-Risk and Sensitive Use Restrictions:
+Limitations on using the Services for high-risk activities or processing sensitive data.
+The Services must not be used in high-risk environments or for processing sensitive personal data unless explicitly agreed in writing by Law Insider.
+Third-Party Integration Connections:
+Integrations established between the Services and third-party applications or systems.
+Law Insider may transmit Customer Content to third-party applications and services configured by the Customer to integrate with the Services, provided such integrations are set forth in the Key Terms. If you elect to use the Law Insider Microsoft Word add-in features ("MS Word Add-In"), you understand and agree that Customer Content may be processed by:
+Microsoft through the Word application, and will be subject to Microsoft's policies and terms, including without limitation Microsoft's privacy and security policies. For more information, please visit:
+https://www.microsoft.com/en-us/trust-center/privacy
+.
+SimpleDocs, Inc. through its cloud infrastructure, and will be subject to SimpleDocs, Inc.'s policies and terms, including without limitation SimpleDocs, Inc.'s privacy and security policies. For more information, please visit:
+https://trust.simpledocs.com/.
+.
+6. SPECIAL PROVISIONS
+Special Provisions:
+AI Features
+. The Services may include certain features, such as chatbot or agent functionality, that use or leverage applications, software, products, or services provided by Law Insider or third parties that utilize artificial intelligence related technology, including large language models, algorithms and models, and machine learning related technology (collectively, "
+AI Features
+").
+You are solely responsible for your use, including any use by your authorized users, of AI Features. You understand and agree that, as an integral and necessary part of Law Insider's delivery of the Services, the information you submit to the Services, including without limitation Customer Content, as applicable, will be transmitted to and processed by such AI Features, including third-party providers thereof. Law Insider does not, and requires that its third-party providers do not, use Customer Content to train artificial intelligence or machine learning models.
+In response, the AI Features may generate suggested text, information, analyses, results, content, recommendations, and other materials (collectively, "Output"), and that, given the probabilistic nature of artificial intelligence technology, the Output may be inaccurate or inappropriate in response to the input provided. All Output is provided "as is" and with "all faults", and Law Insider makes no representations, warranties, or covenants of any kind or nature with respect to any of the AI Features or any Output, including with respect to accuracy, completeness, truthfulness, timeliness, or suitability.
+Any and all decisions made by you or your designee in reliance on any Output are made at your own risk and Law Insider shall have no responsibility or liability arising therefrom. You understand that Output does not constitute medical, legal, accounting, or other advice of a certified or qualified professional. You are solely responsible for evaluating the accuracy, completeness, and suitability of the Output for your intended use cases, and subjecting the Output to appropriate quality control procedures, including human review and verification. You understand that other users of the Services or similar services may provide similar or identical input and may receive Output that is similar or identical to Output. Law Insider does not claim ownership of any Output
+"
+Third Party Service Content
+" means content on the Services licensed by or made available by a third party, including legal clauses and contract templates. The original creators (and assignees and licensors, as applicable) of Third Party Service Content will retain all proprietary rights associated with such Third Party Service Content. We are not responsible or liable to you or any third-party for the content or accuracy of Third Party Service Content. We do not endorse any Third Party Service Content made available through the Services or any opinion, recommendation, or advice expressed therein, and we expressly disclaim any and all liability in connection with such content.
+No Legal Advice
+. The information and services provided by Law Insider, including without limitation any Output, MS Word Add-In, AI Features, workspaces and repositories, Paid Content and any other Content on the Services ("
+Legal Information
+") does not constitute legal advice. We do not review any information you provide us for legal accuracy or sufficiency, draw legal conclusions, provide opinions about your selection of contracts, clauses, or apply the law to the facts of your situation. If you need legal advice for a specific problem, you should consult with a licensed legal advisor. Neither Law Insider nor any Legal Information provided by Law Insider is a substitute for legal advice from a qualified attorney licensed to practice in an appropriate jurisdiction. Your use of the Services does not create an attorney-client relationship between you and Law Insider, or between you and any Law Insider employee or representative. Law Insider is not a "Lawyer Referral Service". Law Insider does not endorse or recommend any attorney nor does it make any warranty as to the qualifications or competency of any attorney.
+7. SUPPLEMENTAL DOCUMENTS
+The following Supplemental Documents are incorporated into the Agreement:
+Order Form:
+The signed order form, statement of work, online registration form, or click-through agreement between the Parties referencing these Terms and specifying the Services to be provided.
+Applicable and available through any order documents, online registration, order descriptions, or order confirmations referencing this Agreement.
+Trial and Beta Use Terms:
+The terms applicable to any trial services or services in beta.
+Applicable and attached as Addendum A
+Data Protection Addendum:
+The agreement between the Provider and the Customer that governs the processing of personal data in connection with the Services.
+Applicable and please see
+URL
+Security Measures:
+The technical, organizational, and administrative safeguards implemented by the Provider to protect the confidentiality, integrity, and availability of the Customer's data and the Services.
+Please see Annex 1 of the DPA
+Addendum A: Trial and Beta Use Terms
+This Addendum is provided under and forms a Supplemental Document to the main Agreement. Capitalized terms not defined in this Addendum have the meaning given to them in the main Agreement.
+This Addendum is subject to the terms and conditions of the main Agreement.
+1. Trial Services Period
+1.1 Trial Services
+means any free trial, proof of concept version, beta version, or any other Services provided free of charge as specified in the Key Terms or otherwise communicated by the Provider.
+1.2 Trial Services Availability
+Trial Services will be available to the Customer until the earlier of:
+(a) the end of the trial, proof of concept, or beta testing period as specified by the Provider;
+(b) the start date of any purchased subscription to the same Services; or
+(c) written notice of termination from the Provider.
+2. Scope of Use
+2.1
+During the Trial Services Period, the Provider grants the Customer a non-exclusive, non-transferable right to access and use the Trial Services for internal evaluation purposes only, subject to the terms of this Agreement and any applicable Documentation.
+3. Data Loss Disclaimer
+3.1
+Any data entered the Trial Services, and any configurations made during the Trial Services Period will be permanently lost unless:
+(a) the Customer purchases a subscription to the same Services; or
+(b) if possible, the Customer exports such data or configurations before the end of the Trial Services Period.
+4. No Guarantee of Features
+4.1
+The Provider makes no guarantee that features or functionality in the Trial Services will be available or the same in the general release version of the Services. The Customer is encouraged to evaluate the features and functionality of the purchased Services separately.
+5. No Warranties or Support
+5.1
+Trial Services are provided "as-is" and "as-available" without any warranties, express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+5.2
+The Provider is under no obligation to provide Support Services for Trial Services.
+6. Limited Liability and Indemnification Exclusion
+6.1
+The Provider's liability for Trial Services is excluded to the maximum extent permitted by law and the Customer's sole remedy for dissatisfaction or breach related to Trial Services is to terminate the Trial Services. The Customer assumes all risks and costs associated with its use of the Trial Services.
+6.2
+The Provider is not obligated to indemnify or defend the Customer for any claims arising from the use of Trial Services.
+Standard Cloud Services Agreement (oneSaaS Version 1.0)
+Law Insider Standards | Licensed under CC-BY 4.0
+Click to learn more about oneSaaS
+LAST UPDATED: [June 23,2025]
+Tools to Draft Better Contracts
+About Us
+Plans & Pricing
+Email Sales
+Email Support
+Contract Standards
+Standards Hub
+oneNDA Template
+oneSaaS Template
+oneDPA Template
+Products
+SimpleAI
+AI Assistant
+Book a Demo
+Public Contracts
+Search
+Contracts
+Clauses
+Dictionary
+Languages
+All contents of the lawinsider.com excluding publicly sourced documents are Copyright © 2013-
+2026
+Law Insider Inc. All rights reserved.
+Terms of Service
+•
+Privacy Policy
+Help Ukraine 🇺🇦

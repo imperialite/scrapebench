@@ -1,0 +1,197 @@
+1. General Provisions
+
+1.1. The subject of this User Agreement (hereinafter referred to as the “US” or “Agreement”) is the relationship between VK LLC (OGRN 1027739850962, Russia, 125167, Moscow, Leningradsky Prospekt 39, building 79), hereinafter referred to as “Mail” or “Company”, which is the copyright holder of websites, services, programs and/or other products (applications), including information, communication, advertising, educational, entertainment and other types of products (hereinafter referred to as “Services”, and individually as the “Service”), available, among other things, on the Internet at
+https://mail.ru/
+(hereinafter referred to as the "Site"), and you (an individual Internet user), hereinafter referred to as the "User", regarding the use of the Company's Services. This Agreement is located at: https://help.mail.ru/legal/terms/common/ua .
+
+1.2. Use of Mail Services, in addition to this Agreement, may be governed by separate rules applicable to a specific Service ("Individual Service Agreement"), which also form part of this Agreement. In addition, the relationship between the Parties is governed by the General Privacy Policy for Mail Services, which is located at https://help.mail.ru/legal/terms/common/privacy , as well as the Privacy Policies for the relevant Service.
+
+1.3. Upon registration, each access to and/or actual use of any of the Services, the User agrees to the terms of this Agreement, the General Privacy Policy of the Mail Services, as well as the terms of the agreements, regulations and rules of the Services used by him/her, which are posted on the pages (in sections) of the relevant Services, in the versions that were in effect at the time of actual use of such Services.
+
+2. Subject of the Agreement
+
+2.1. Under the terms of this Agreement, Mail provides the User with access to Mail Services via a web interface and/or mobile interface and/or applications for personal computers and/or mobile applications and other tools, for the purpose of providing services and/or granting rights to use the Services.
+
+2.2. Mail has the right to establish restrictions on the use of the Services, which may be contained in this Agreement and in the Agreements of individual Services.
+
+2.3. Mail Services are provided free of charge, unless otherwise provided by this Agreement and/or the Agreements for individual Services.
+
+3. Procedure for registering a User in the Services
+
+3.1. To use certain Mail Services or obtain rights to use additional functionality (software) features of the Services, the User must create an Account (Mail ID) by completing the registration process. The User may use the Account login details to log in to third-party resources (partner resources) that allow this feature, subsequently establishing a technological connection with the Mail ID. Use of this authorization method may require the User to comply with certain conditions, including the terms of use of personal and other data by third-party resources. By choosing to authorize using the Mail ID details, the User agrees to the terms of such authorization.
+
+Registration is completed by completing the registration form on the Mail Services. Account creation is also possible through other methods available within the relevant Service (e.g., by logging into the Service through the User's social media account). When completing the registration form, the User independently selects the login and password required for subsequent access to the User Account, provides the required minimum Credentials for registration, and provides information allowing the User to independently restore access to their Account. Mail does not verify the accuracy of the information provided by Users, except in cases where such verification is necessary for Mail to fulfill its obligations to Users.
+
+The use of a number of Mail Services is possible subject to the creation of a separate account for the relevant Service, the procedure for the use of which is determined by this Agreement and/or the Agreement of the individual Service.
+
+3.2. Mail cannot be held liable or guarantee the security of the User Account in the following cases: the User transfers the password and Account Data to third parties (intentionally or through negligence); third parties access the User Account due to the User using forms located on external websites to access the Services, using software that allows for the selection and/or decoding of the password; third parties access the User Account by simply selecting the password and Account Data; the User’s failure to comply with the recommendations specified in this Agreement, the User Agreements for individual Services or the interface of the relevant Service.
+
+3.3. In some cases, to ensure more reliable protection of the User's Account, the Company implements a system for linking the Account to a mobile phone. To use this system, the User provides the Company with one or more of their mobile phone numbers.
+
+To verify the phone number linked to the User's Account, log in to the Account, restore access to the Account (in the event of a lost login or password), and in other cases provided by the Service, the Company uses various verification methods. For example, a code may be sent to the phone number specified by the User via SMS or a verification call. Upon receiving an SMS message containing a code or a verification call, the User must enter the code from the SMS message or the last few digits of the number from which the verification call was made in the appropriate window.
+
+The Company also reserves the right to use other verification methods to ensure the User's secure use of the Service, including through interaction with telecom operators to confirm the User's actual access to the Service. The User agrees to the processing of information by telecom operators for this purpose.
+
+In the event of loss of login and password, the User may be provided with other methods of restoring access to the Account that are valid at the time of logging into the Account.
+
+The User may also use the system of linking an email address to his Account, which will be used as an additional tool to ensure the security of the User's Account in Mail services.
+
+4. Materials posted by Users on the Services
+
+4.1. The User is solely responsible for the content of messages sent or published, as well as for all information, data, text, programs, music, sounds, photographs, graphics, videos, messages, and other materials (hereinafter referred to as "Materials") publicly published and/or transmitted via the Mail Services. This means that the User is entirely responsible for all Materials that the User uploads, sends, receives, transmits, or otherwise makes available via the Mail Services. Mail does not control the Materials transmitted via the Mail Services and, therefore, does not guarantee the accuracy, completeness, or quality of such Materials.
+
+4.2. The User understands that by using some Mail Services, he/she may see Materials that he/she may consider offensive, inaccurate or controversial, and the User understands that the responsibility for posting such Materials lies with the Users of the Mail Services who posted them.
+
+4.3. The User may not upload, transmit, or publish Materials on the Mail Services unless the User has the rights or permission of the relevant copyright holder to post them. In the event of claims from third parties related to the User's posting of Materials, the User will resolve such claims independently and at their own expense.
+
+4.4. The User agrees to the use by the Company and/or other Users of the Service of Materials posted by the User in such Service, if they are used within the functionality selected by the User.
+
+4.5. Certain Company Services allow Users to post Materials that will be publicly accessible to all internet users or to all users of a specific Company Service. By using such Services, the User understands and agrees that by uploading Materials to the Service, the User grants them access by default to the aforementioned persons.
+
+4.6. Except as otherwise provided in this User Agreement or the Agreements for individual Services, as well as the current legislation of the Russian Federation, no Materials may be copied (reproduced), processed, distributed, displayed, published, downloaded, transferred, sold, or otherwise used in whole or in part without the prior permission of Mail or the relevant copyright holder, unless the copyright holder has expressly consented to the free use of the Material.
+
+4.7. The User, by using the functionality of the Mail Services, agrees that certain information may be transferred to Mail's partners solely for the purpose of ensuring that Mail provides the relevant Service to the User, as well as granting the User the right to use additional functional (software) capabilities of the relevant Service provided jointly with these partners, and solely to the extent necessary for the proper provision of such Services and/or functional capabilities, as well as in other cases for the purpose of fulfilling the terms of this Agreement.
+
+5. Rights and obligations of the User when using the Services
+
+5.1. The User has the right to use the Services provided by Mail free of charge, unless otherwise provided by this Agreement or the Agreements for individual Services, to implement their functionality, subject to the rules and conditions for using the Services stipulated by the Company. For the purpose of using the Services as a set of computer programs, the Company grants the User (licensee) the right to use the free functional (software) capabilities of the relevant Service under the terms of a simple (non-exclusive) royalty-free license. Use of additional paid functional (software) capabilities of such Service is granted to the Mail User (licensee) under the terms of a simple (non-exclusive) license for the term stipulated by the relevant additional paid functional (software) capabilities of the Service, by gaining access to the additional paid functional (software) capabilities of the Service and its actual use within the territory in which it is available.
+
+5.2. The User undertakes not to use the Mail Services and other Company products for:
+
+5.2.1. achieving illegal goals, and in the event that Mail establishes special goals for using the Services, to achieve other goals that are not explicitly specified in this Agreement or the User Agreements of individual Services;
+
+5.2.2. uploading, sending, transmitting or publishing in any other way Materials (including by indicating their location by posting a link), which are illegal, harmful, threatening, offensive to morality, contain pornographic materials, slanderous, violate the rights of minors and/or cause them harm in any form, including moral harm, infringe on the rights of various minorities, which the User does not have the right to make available by law or in accordance with any agreements with third parties, including due to the violation of copyright and other intellectual rights of third parties, promote hatred and/or discrimination against people on racial, ethnic, sexual, social grounds, as well as violate the accepted norms and ethics of communication on the Internet, or hinder the work of other users with Mail Services;
+
+5.2.3. uploading, sending, transmitting or publishing in any other way advertising information that is not specifically permitted, including mass, unauthorized and/or unexpected by recipients, unsolicited mailings of an advertising nature, including sendings with a large number of repetitions to one email address (“Spam”), as well as multiple sending of letters/messages to one addressee without the recipient’s consent;
+
+5.2.4. impersonating another person or a representative of any organization and/or community, including Mail support service, Mail employees, or committing other actions aimed at misleading Internet users or other persons;
+
+5.2.5. uploading, sending, transmitting or otherwise publishing any Materials containing viruses or other computer codes, files or programs designed to disrupt, destroy or limit the functionality of any computer or telecommunications equipment or programs, to gain unauthorized access to computer systems, equipment or data of third parties, as well as serial numbers for commercial software products and programs for generating them, logins, passwords and other means for gaining unauthorized access to paid resources on the Internet, as well as posting links to the above information; To reproduce, copy, collect, systematize, store, transmit information posted on the Mail Services, its use in whole or in part in any way, including for commercial purposes, for the purpose of extracting a database from the Mail Services, without the consent of Mail. The use of automated scripts (programs, bots, crawlers) to collect information and (or) interact with the Mail Services without the consent of Mail is prohibited;
+
+5.2.6. collection and storage of personal data of third parties in violation of the requirements of applicable legislation;
+
+5.2.7. disruption of the normal operation of the Services by using pop-up windows;
+
+5.2.8. to commit other actions related to the violation of this Agreement or User Agreements for individual Services, as well as the requirements of applicable legislation.
+
+5.3. Within certain Mail Services, the User may be provided with the functionality to independently send SMS messages to third parties. By sending SMS messages to third parties through Mail Services, the User agrees that such sent SMS messages may be identified as being sent from their phone number and on their behalf, as well as sent on their behalf, not from their phone number. The User is solely responsible for all possible claims related to sending SMS messages to such parties.
+
+6. Rights and obligations of the Company when providing Services
+
+6.1. The Company carries out the ongoing management of the Services, independently determines their structure and appearance, permits or restricts Users' access to the Services in the event of such persons violating the provisions of this Agreement, and exercises other rights belonging to it.
+
+6.2. The Company has the right, without reimbursement of any costs or losses to the User, to block/delete the User's Account and/or suspend, restrict or terminate the User's access to any of the Services, and/or delete all or some of the Materials posted by the User in the Services, in the manner and under the conditions stipulated in Section 7 of this Agreement.
+
+6.3. The Company has the right to:
+
+6.3.1. provide the User with access to the selected Services under the terms and conditions set out in this Agreement or the User Agreements for individual Services;
+
+6.3.2. to make comments to Users, warn, notify, and inform them of any non-compliance with this Agreement or the User Agreements of individual Services. The Company's instructions to the User regarding the use of the Service are binding on such User;
+
+6.3.3. provide, within a reasonable timeframe, technical and information support to the User necessary for accessing the Service and its subsequent use;
+
+6.3.4. collect and process information about Users, including their personal data, in the manner and on the grounds established in the Privacy Policy of the Mail Services and the Privacy Policies of individual Mail Services, as well as collect and process anonymized statistical data on the use of the Mail Services;
+
+6.3.5. place advertisements on the Site or Services, the presence of which is a necessary condition for the User to use the Mail Services;
+
+6.3.6. Send advertising and informational messages (e-mail, SMS, push notifications, and other types of mailings) to Users through the Mail Services and/or third-party services, including from Mail partners to whom the User has consented to receive messages, as well as messages about the introduction of new or the cancellation of old features of the Services. The User has the right to unsubscribe from receiving advertising messages at any time.
+
+The procedure and method for the User to refuse advertising messages:
+
+Opting out of advertising messages from Mail (except for advertising messages from individual Mail Services to which the User has consented to receive them) – by changing the settings in this paragraph.
+
+The user agrees to receive promotional messages from Mail.
+
+refusal of advertising messages from Mail Services (to which the User has given consent) - the procedure and method for such refusal is provided for in the terms of use of the relevant Mail Services.
+
+6.3.7. Establish direct contact with the User using communication tools (by telephone, email or other means) in order to receive information/comments from the User about problems/questions that have arisen when using the Mail Services or feedback about the functioning of the Services, necessary for eliminating errors in the operation of the Mail Services and their further development/improvement;
+
+6.3.8. suspend the provision of Mail Services without prior notice to Users in the event of the need to carry out preventive maintenance on Mail Services, in the event of force majeure, as well as accidents or failures in the software and hardware systems of third parties cooperating with Mail, or actions of third parties aimed at suspending or terminating the operation of all or part of the Mail Services;
+
+6.3.9. prohibit the User from automatically accessing the Mail Services, and also stop receiving any information generated automatically (for example, “Spam”);
+
+6.3.10. take measures not prohibited by law to protect one’s own rights in relation to Mail Services.
+
+7. Termination of the User Account, restoration of access to the Account, deletion of Materials posted by the User
+
+7.1. The User agrees that Mail reserves the right to block/delete the User's Account and/or suspend, restrict, or terminate the User's access to any of the Services and/or delete all or some of the Materials posted by the User to the Services, without explanation of the reasons for such actions and without prior notice to the User. However, Mail will make every effort to prevent such situations. Suspension, restriction, or termination of the User's access to a Service for which registration is required to use other Services may result in the inability to use those Services.
+
+7.2. In particular, Mail may exercise the rights listed in paragraph 7.1. for the following reasons:
+
+7.2.1. if Mail detects signs of a violation of the terms of this User Agreement or the Agreement for the Use of a Specific Service in the User’s actions;
+
+7.2.2. at the relevant request of government authorities and the court, if all requirements of the legislation of the Russian Federation are met;
+
+7.2.3. failure by the User to use the Account to access the Service for an extended period of time (which may be specified in this User Agreement or in the agreement for the use of a separate Service);
+
+7.2.4. due to unforeseen technical problems or circumstances related to safety;
+
+7.2.5. due to interference or any violations in relation to Mail Services, including the use of any devices, software, etc.
+
+7.3. Termination of the User Account may result in:
+
+a) removal of the User’s access to the personal part of the relevant Mail Service;
+
+b) deletion of the User Materials contained in the relevant Mail Service.
+
+7.4. Some Services grant the User the right to terminate their Account by deleting it. If the User deletes their Account and if such functionality is available, the User has the right to restore their Account within the time period specified by the relevant Service by following the Service's instructions received after entering the required login and password in the authorization form.
+
+7.5. If the User loses their Account password, access to it can only be restored if the User accurately, correctly, and completely provides the information specified when creating the Account, as well as if the User provides correct information in response to additional questions from the Company's support team, if such information is necessary for restoring access to the User's Account. If the User fails to accurately, correctly, and completely provide their Account Data or fails to answer additional questions from the support team, the Mail support team will not be able to restore access to the Account upon request.
+
+7.6. In the event of loss of the password for the account created by the User on a third-party resource used to access the Company's Services, such password may be restored by the User exclusively by the methods provided by the third-party resource.
+
+8. Mail's right to intellectual property
+
+8.1. The User’s use of Mail’s means of individualization is permitted with Mail’s consent and subject to the User’s compliance with the Guidelines for the Use of Means of Individualization and its derivatives.
+
+8.2. The User acknowledges and agrees that the Mail Services contain audiovisual works, computer programs, trademarks and other intellectual property, the rights to which belong to Mail (and/or Mail's counterparties), which cannot be used without prior consent from Mail.
+
+8.3. Mail grants the User, subject to the restrictions set forth in this Agreement or in the Agreements for individual Services, a non-exclusive and non-transferable right to third parties to use the software provided within the Mail Services for its intended purpose, and also provided that neither the User nor any other persons with the assistance of the User will copy or modify this software; create programs derivative of the software; penetrate the software in order to obtain program codes; sell, assign, transfer to third parties in any other form the rights in relation to such software, or modify such software, including for the purpose of obtaining unauthorized access to it.
+
+9. Mail's Responsibility
+
+The User understands and agrees that:
+
+9.1. All Mail Services are provided "as is", unless otherwise expressly provided in this Agreement and/or the Agreements for individual Services. Mail does not guarantee that the Services, as well as the results of using the Services, will meet the goals, expectations and requirements of the User; Mail does not guarantee that the Services will be provided uninterrupted, quickly, reliably and without errors; the results that may be obtained by the User will be accurate and reliable; the quality of the Services, as well as the results of using the Services, including information, will meet the User's expectations, and that all errors in the programs will be corrected;
+
+9.2. Mail assumes no liability for the delay, deletion, non-delivery or failure to download any User data, including User settings;
+
+9.3. The User may use any materials (intellectual property) obtained by the User using the Mail Services at his own risk, and the User is responsible for any damage that may be caused to the User’s computer and the User’s data as a result of downloading these materials;
+
+9.4. Mail shall not be liable for any direct or indirect damages arising from the use or inability to use Mail Services, unauthorized access to the User Account, or fraudulent activity by third parties.
+
+10. Mail Privacy
+
+10.1. Mail may use User authentication technologies, including cookies, and may also use these technologies for marketing purposes to study User preferences. However, such identification is non-personalized and generalized; Mail does not track the actions of individual Users or transmit information about them.
+
+10.2. Within the scope of the Mail Services and in compliance with applicable law, the confidentiality of messages and the privacy of information about Mail Users is ensured, except in cases stipulated by the legislation of the Russian Federation.
+
+10.3. The User agrees that if the Service allows sending messages, the User's outgoing and incoming messages, or downloaded Materials, undergo certain automatic processing by Mail programs to ensure the full transmission, reception, and storage of messages/Materials. Mandatory automatic processing of Mail includes the necessary set of measures to identify malicious code in the transmitted information, as well as, if possible, blocking or removing it (depending on the complexity of the code and the Mail Services software). These measures are taken solely to protect the personal computers of Users and to reduce the load on Mail equipment.
+
+11. Feedback and complaints procedure
+
+11.1. A user who believes their rights and interests have been violated by Mail's actions may submit a corresponding request. Mail's User Support Service will review such requests in accordance with the general procedure for reviewing incoming requests.
+
+11.2. The User may send all inquiries, including those regarding the operation of Mail Services, to the User Support Service at https://help.mail.ru .
+
+11.3. The User and Mail agree that all possible disputes regarding the User Agreement will be resolved in accordance with the rules of this User Agreement and the current legislation of the Russian Federation.
+
+12. Amendments and additions to this Agreement
+
+12.1. This Agreement and the Agreements for individual Services may be amended by Mail with notice to the User by posting a new version of the amended Agreement on the Website. Amendments to the Agreement made by Mail shall take effect on the day following the date of publication of such amendments on the Website. The User undertakes to independently review this Agreement and the Agreements for individual Services for any amendments. Failure by the User to review these Terms and Conditions shall not constitute grounds for non-fulfillment of their obligations or non-compliance with the restrictions established by this Agreement and the Agreements for individual Services.
+
+12.2. The User has the right to refuse to accept changes and additions to this Agreement and/or the Agreements for individual Services, which means the User’s refusal to use all and/or individual Mail Services and all rights previously granted to him.
+
+13. Final Provisions
+
+13.1. Nothing in this Agreement shall be understood as establishing between the User and Mail an agency relationship, a partnership relationship, a joint venture relationship, a personal employment relationship, or any other relationship not expressly provided for in the Agreement.
+
+13.2. The recognition by a court of any provision of the Terms of Service as invalid or unenforceable shall not entail the invalidity or unenforceability of other provisions of the Terms of Service.
+
+13.3. Inaction on the part of Mail in the event of a violation by the User or other third parties of the provisions of the User Agreement does not deprive Mail of the right to take appropriate actions to protect its interests at a later date.
+
+This Agreement shall be governed by and interpreted in accordance with the laws of the Russian Federation. Any matters not regulated by this Agreement shall be resolved in accordance with the laws of the Russian Federation.
+
+13.4. All disputes between the parties under this Agreement shall be resolved through correspondence and negotiations using the mandatory pre-trial (claims) procedure. If the parties are unable to reach agreement through negotiations within 60 (sixty) calendar days of the other Party's receipt of a written claim, the dispute shall be referred by either interested party to the court at the location of Mail (excluding the jurisdiction of any other courts).
+
+Revision dated December 2, 2024

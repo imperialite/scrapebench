@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+
+Disallow: /search
+Disallow: /?s=*
+
+
+
+Sitemap: https://www.carscoops.com/latestsitemap.xml
+Sitemap: https://www.carscoops.com/news.xml
+Sitemap: https://www.carscoops.com/tags_map.xml

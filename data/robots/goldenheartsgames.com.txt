@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /*?*
+Disallow: /bingo-zone*
+Disallow: /charity*
+Disallow: /home*
+Disallow: /juicy-jackpot-bingo*
+Disallow: /my-account*
+Disallow: /quick-play-games*
+Disallow: /referral*
+Disallow: *.html
+Sitemap: https://www.goldenheartsgames.com/sitemap.xml

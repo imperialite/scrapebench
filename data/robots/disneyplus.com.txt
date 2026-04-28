@@ -1,0 +1,26 @@
+#robots.txt for www.disneyplus.com/
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: *
+Disallow: /*/episode
+Disallow: /billing
+Disallow: /*/billing
+Disallow: /*/search
+Disallow: /account
+Disallow: /*/account
+Disallow: /app-settings
+Disallow: /*/app-settings
+Disallow: /welcome/responder
+Disallow: /home
+Disallow: /*/enter-password
+Disallow: /enter-password
+
+# Announce Sitemap
+Sitemap: https://www.disneyplus.com/sitemap.xml
+
+# Source: static-root-proxy

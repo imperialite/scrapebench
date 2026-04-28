@@ -1,0 +1,52 @@
+AdBlock Terms Of Use
+Terms Of Use
+Effective Date:
+August 9, 2018
+AdBlock
+We, BetaFish, Inc., ("BetaFish"; "we"), have developed the browser extension AdBlock, which can be downloaded at our
+website
+and other domains. AdBlock is a free extension that allows you to customize your web experience. You can block annoying ads, disable tracking, block domains known to spread malware and lots more. It's available for all major browsers, including Chrome, Firefox, Safari and Edge. AdBlock uses filters that you choose to block unwanted elements.
+What does that mean?
+AdBlock is provided free of charge to you as a user. However, we've reached a point where further Terms of Use, such as these, are necessary. This protects you and it protects us. These Terms of Use apply to your use of AdBlock.
+What does "AdBlock is free to use" mean?
+AdBlock is an open source project, licensed under
+GPLv3
+, and can be used by anyone free of charge. The use of AdBlock is subject to the restrictions of the
+GPLv3
+.
+Non-permitted use of AdBlock
+Please note that some website owners may not permit ad-blocking users to view their website. That must be respected, especially in the following cases:
+You must not use AdBlock on websites where you have agreed not to use it, i.e. by agreeing to Terms of Services on the respective website, not to use any ad blockers.
+You are not permitted to use AdBlock in connection with any tools to circumvent technological measures that effectively control access to websites.
+What are Acceptable Ads?
+BetaFish, Inc. participates in
+Eyeo's
+Acceptable Ads
+program. By default, these nonintrusive ads aren't blocked when using AdBlock in order to support websites (
+learn more
+). You can disable this feature at any time by opting out. This does not affect AdBlock's ability to function.
+Within the Acceptable Ads program the following rules have and always will apply to everyone, without exception:
+Participants cannot pay to avoid the
+criteria
+. Every enabled ad must comply.
+For transparency, Eyeo ads all Acceptable Ads to
+its forum
+so that users can provide feedback.
+If an Acceptable Ads proposal is flagged by the community for a legitimate reason, it will be removed from the whitelist.
+What if AdBlock does not work properly?
+AdBlock is provided "as is" and on an "as available" basis. Your use of AdBlock is at your own risk. BetaFish, Inc. makes no warranty or condition that AdBlock will meet your requirements or be uninterrupted, timely, secure or error-free:
+BetaFish, Inc. makes no warranty or condition that all ads will be blocked; in particular
+Acceptable Ads
+will be shown in AdBlock’s default setting.
+You acknowledge and understand that the filters used may occasionally lead to blocked content. This is an unwanted side effect of some filters and cannot be completely avoided.
+AdBlock itself has no functionality; it does not block anything until you "tell" it what to block by adding external filter lists. Filter lists are essentially an extensive set of rules that tell AdBlock which elements of a website to block. BetaFish, Inc. has no influence on those filter lists.
+In the case that you detect any defect or incorrect blocking, including the blocking of content,
+inform
+us as soon as possible.
+Additional Information
+This Terms of Use shall be governed by the laws of the United States of America. If you have no place of jurisdiction in the United States, if you have transferred your permanent domicile abroad after these Terms of Use take effect or if your domicile or usual place of residence is unknown at the time legal action is taken, the sole place of jurisdiction for all disputes arising from this agreement will be the location of our registered offices.
+We reserve the right to amend and adapt these Terms of Use with effect for the future. You will be notified no later than one month before new Terms of Use take effect. If you do not object to the validity of the new Terms of Use within one month after they take effect, you will be deemed to have accepted the new Terms of Use. We will inform you separately in suitable form about the significance of the one month's notice period, your right to object and the legal consequences of non-objection. This amendment mechanism does not apply to amendments to the parties' main contractual obligations.
+home
+contributors
+support
+blog

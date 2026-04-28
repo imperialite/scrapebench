@@ -1,0 +1,11 @@
+User-Agent: *
+
+Disallow: /*/page_view_timing/aggregate
+Disallow: /*/session_trace/aggregate
+Disallow: /*/spa/aggregate
+Disallow: /*/metrics/aggregate
+Disallow: /*/ajax/aggregate
+Disallow: /*/page_action/aggregate
+
+
+

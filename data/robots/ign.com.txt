@@ -1,0 +1,135 @@
+# Ziff Davis content is made available for your non-commercial use subject to our 
+# Terms of Use here: https://www.ziffdavis.com/terms-of-use
+# Use of any robot, crawler, or other tool to scrape, harvest, extract, or retrieve any content on
+# this website using automated means is prohibited without written permission from Ziff Davis.
+# Prohibited uses include but are not limited to:
+# (1) text and data mining under Art. 4 of the EU Directive on Copyright in the Digital Single
+# Market;
+# (2) development or operation of artificial intelligence or machine learning software or
+# databases, including by training, fine-tuning, embedding, and retrieval-augmented generation;
+# (3) creating data sets containing our content or sharing it with others; and
+# (4) any commercial purposes.
+# Contact licensing@ziffdavis.com for assistance.
+
+User-agent: *
+Disallow: /_views/
+Disallow: /apiproxy
+Disallow: */empty/
+Disallow: /beta
+Disallow: /blogs/
+Disallow: /debug
+Disallow: /pokedex/search
+Disallow: /search
+Disallow: /static/pv_candidate.html
+Disallow: /stf/
+Disallow: /sign-in
+Disallow: /sugarfif.html
+Disallow: /wikis/*/edit
+Disallow: /wikis/*/topcontributors
+Disallow: /wikis/*/compare/*
+
+# Block AI content scrapers
+User-agent: "008"
+User-agent: AddSearchBot
+User-agent: AI2Bot
+User-agent: Ai2Bot-DeepResearchEval
+User-agent: Ai2Bot-Dolma
+User-agent: Amazonbot
+User-agent: AmazonBuyForMe
+User-agent: Anchor Browser
+User-agent: anthropic-ai
+User-agent: Applebot
+User-agent: Applebot-extended
+User-agent: atlassian-bot
+User-agent: AutoRAG
+User-agent: AwarioSmartBot
+User-agent: Big Sur AI
+User-agent: bigsur.ai
+User-agent: Brandwatch
+User-agent: Bravebot
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: Channel3Bot
+User-agent: ChatGLM-Spider
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: Claude-Web
+User-agent: ClaudeBot
+User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
+User-agent: Cotoyogi
+User-agent: Crawl4AI
+User-agent: Datenbank Crawler
+User-agent: DDM*
+User-agent: DDM-DCipher*
+User-agent: DDM-DCipher/1.0.7
+User-agent: DeepSeekBot
+User-agent: Devin
+User-agent: Diffbot
+User-agent: Direqt Anomura
+User-agent: DuckAssistBot
+User-agent: Echobot Bot
+User-agent: FacebookBot
+User-agent: Factset_spyderbot
+User-agent: GPTBot
+User-agent: HTTrack
+User-agent: iAsk
+User-agent: iaskspider
+User-agent: ICC Crawler
+User-agent: ICC-Crawler
+User-agent: ImageSiftBot
+User-agent: imageSpider
+User-agent: Kangaroo Bot
+User-agent: KlaviyoAIBot
+User-agent: Kunato
+User-agent: laion-huggingface-processor
+User-agent: LCC
+User-agent: LINER Bot
+User-agent: LinerBot
+User-agent: LinkupBot
+User-agent: Manus-User
+User-agent: meta-externalagent
+User-agent: meta-externalfetcher
+User-agent: meta-webindexer
+User-agent: mistral.ai
+User-agent: MistralAI-User
+User-agent: netEstate Imprint Crawler
+User-agent: NovaAct
+User-agent: Novellum AI Crawl
+User-agent: Nutch
+User-agent: OAI-SearchBot
+User-agent: Offline Explorer
+User-agent: omgili
+User-agent: PanguBot
+User-agent: PeopleInc-DCipher-Scraper/1.1.0
+User-agent: Perplexity-User
+User-agent: PerplexityBot
+User-agent: PetalBot
+User-agent: Poggio-Citations
+User-agent: QualifiedBot
+User-agent: SBIntuitionsBot
+User-agent: Scrapy
+User-agent: SeekrBot
+User-agent: SemrushBot-OCOB
+User-agent: SemrushBotSwa
+User-agent: ShapBot
+User-agent: Spider
+User-agent: TavilyBot
+User-agent: Timpibot
+User-agent: TwinAgent
+User-agent: Velen Crawler
+User-agent: VelenPublicWebCrawler
+User-agent: Webzio-Extended
+User-agent: Wrtn
+User-agent: YouBot
+User-agent: ZanistaBot
+Disallow: /
+Allow: /articles/experimenting-with-galaxy-ai-camera-features-like-night-mode-generative-edit-and-more
+Allow: /articles/how-ai-assisted-gaming-on-the-galaxy-s25-means-extended-play-time-and-optimized-performance
+
+Sitemap: https://www.ign.com/sitemap.xml
+Sitemap: https://www.ign.com/rss/news/sitemap
+Sitemap: https://www.ign.com/rss/wikis/sitemap-ign-wiki-current
+Sitemap: https://www.ign.com/rss/videos/sitemap-index-recently-updated
+Sitemap: https://www.ign.com/rss/articles/sitemap-index-recently-updated

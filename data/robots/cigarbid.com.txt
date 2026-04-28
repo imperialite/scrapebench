@@ -1,0 +1,24 @@
+    
+        User-agent: ia_archiver
+        Disallow: /
+
+        User-agent: *
+            
+                Disallow: /forum/
+            
+                Disallow: /account/
+        Disallow: /search/
+        Disallow: /cart/
+        Disallow: /checkout/
+        Disallow: /cigars/expired-product/
+        Disallow: /products/shipping-restrictions/
+        Disallow: /unsub/specials/
+        Disallow: /*/testimonials/newrating/
+        Disallow: /products/*/faq/
+        Disallow: /shop/*q=
+        Disallow: /shop/*s=
+        Disallow: /shop/*f_
+        Disallow: /signalr/
+
+        Sitemap: https://www.cigarbid.com/sitemap.xml
+    

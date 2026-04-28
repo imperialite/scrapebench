@@ -1,0 +1,65 @@
+# -------------------------------
+# Googlebot (primary crawler)
+# -------------------------------
+User-agent: Googlebot
+Allow: /
+Allow: /api/sitemap.xml
+
+Disallow: /tv
+Disallow: /tv/*
+Disallow: /statement
+Disallow: /app
+Disallow: /bank_success
+Disallow: /bank_retry
+Disallow: /shop
+Disallow: /en/account
+Disallow: /en-CA/*
+Disallow: /en-US/*
+Disallow: /thankyou/*
+Disallow: /r/*
+Disallow: /api/
+Disallow: /voucher/*
+Disallow: /vouchers
+
+# Important: allow Next.js assets for rendering
+Allow: /_next/
+
+# -------------------------------
+# Googlebot-Image (product images)
+# -------------------------------
+User-agent: Googlebot-Image
+Allow: /
+Allow: /_next/
+
+# -------------------------------
+# All other crawlers
+# -------------------------------
+User-agent: *
+Allow: /
+Allow: /_next/
+Allow: /api/sitemap.xml
+
+Disallow: /tv
+Disallow: /tv/*
+Disallow: /statement
+Disallow: /app
+Disallow: /bank_success
+Disallow: /bank_retry
+Disallow: /shop
+Disallow: /en/account
+Disallow: /en-CA/*
+Disallow: /en-US/*
+Disallow: /thankyou/*
+Disallow: /r/*
+Disallow: /api/
+Disallow: /voucher/*
+Disallow: /vouchers
+
+# Optional: block low-value query-param URLs for non-Googlebots
+Disallow: *?*
+
+# -------------------------------
+# Sitemaps
+# -------------------------------
+Sitemap: https://crumblcookies.com/api/sitemap.xml
+Sitemap: https://crumblcookies.ca/api/sitemap.xml

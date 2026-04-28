@@ -1,0 +1,11 @@
+User-agent: *
+
+Sitemap: https://www.infobae.com/arc/outboundfeeds/sitemap2/
+Sitemap: https://www.infobae.com/arc/outboundfeeds/news-sitemap2/
+Sitemap: https://www.infobae.com/arc/outboundfeeds/sitemap2/category/america/
+Sitemap: https://www.infobae.com/arc/outboundfeeds/news-sitemap2/category/america/
+Sitemap: https://www.infobae.com/arc/outboundfeeds/sitemap2/category/teleshow/
+Sitemap: https://www.infobae.com/arc/outboundfeeds/news-sitemap2/category/teleshow/
+Sitemap: https://www.infobae.com/arc/outboundfeeds/sitemap-index-static/
+
+Disallow: /buscador

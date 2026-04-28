@@ -1,0 +1,14 @@
+Sitemap: https://www.albertsons.com/shop/sitemaps/sitemap-index.xml
+
+User-agent: *
+Disallow: /account/*
+Disallow: /erums/*
+Disallow: /mylist/*
+Disallow: /delivery-subscription/*
+Disallow: /justforu/coupons-deals.html
+Disallow: /justforu/coupons-deals/*
+Disallow: /justforu/rewards.html
+Disallow: /justforu/rewards/*
+Disallow: /customer-account/*
+
+Allow: /

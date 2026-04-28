@@ -1,0 +1,36 @@
+Minga Acceptable Use Policy
+Minga Acceptable Use Policy
+Last Updated: February 2024
+This Acceptable Use Policy (“
+AUP
+”) applies to the use of the Minga software-as-a-service platform, website and other services provided by us (Minga)(the “
+Minga Services
+“). This AUP is designed to ensure compliance with the laws and regulations that apply to the Minga Services and to protect the interests of all of our users. By using the Minga Services, you are agreeing to these terms.
+When setting up your Minga account, you must provide accurate and complete information. You are responsible for keeping your password secure. You must not share your password with any other person for any reason.
+You agree not to, directly or indirectly, use the Minga Services with content or in a manner that:
+is threatening, abusive, harassing, stalking, or defamatory;
+promotes, encourages, or facilitates hate speech, violence, or discrimination;
+is deceptive, false, misleading or fraudulent, or impersonates any person or entity;
+contains vulgar, obscene, indecent, pornographic or unlawful material;
+is an invasive of another’s privacy or otherwise violates another’s legal rights (such as rights of privacy and publicity);
+infringes a third party’s intellectual property right(s);
+violates any applicable law or regulation;
+downloads any file that you know, or reasonably should know, cannot be legally distributed in that way;
+could harm minors or other users of the Minga Services, or restricts or inhibits any other user from using the Minga Services;
+is for commercial purposes, unless specifically authorized by Minga;
+distributes any third-party advertisements to users within the Minga Services;
+uploads files that contain viruses, corrupted files, or any other similar software or programs that may damage the operation of another person’s computer;
+establishes a similar or competitive product or service, or copies any features, functionality, design, or ideas of the Minga Services;
+accesses any unauthorized part of the Minga Services;
+accesses any part of the Minga Services through technologies other than those provided or authorized by Minga;
+interferes with the normal functioning, integrity or operation of the Minga Services;
+attempts to probe, scan or test the vulnerability of the Minga Services or breaches the security or authentication measures without proper authorization;
+accesses or attempt to access another user’s account(s);
+enables, induces or encourages any third party to do any of the above.
+We may immediately suspend or terminate your access if you violate this AUP. We reserve the right, but do not assume the obligation, to investigate any violation of this policy or misuse of the Minga Platform and may remove or disable access to any content that violates this policy. Minga may report any activity that it suspects violates any law or regulation to the appropriate law enforcement body, which may include disclosing relevant information from the violating user’s account.
+If you become aware of or suspect a violation of this policy, you shall immediately notify Minga at
+support@minga.io
+. If you are contacted about a potential violation to this AUP, you are expected to take appropriate steps to remedy the violation where possible.
+You expressly understand and agree that Minga shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages (even if Minga has been advised of the possibility of such damages) arising from or in any way related to your use of the Minga Services or Minga’s actions or failure to take action to enforce this AUP. Nothing in this AUP shall be interpreted to limit Minga’s rights or remedies in any way with respect to any of the foregoing activities and Minga reserves all rights and remedies available to it with respect to such activities at law or in equity.
+We may update and change any part or all of this AUP, so please check back regularly for updates and changes. You are responsible for reviewing the AUP on a regular basis and for always remaining in compliance.
+Menu

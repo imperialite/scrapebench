@@ -1,0 +1,68 @@
+MyChart - Login Page
+Error:
+Please enable JavaScript in your browser before using this site.
+Log in to MyChart
+Error:
+Please
+enable cookies
+to log in to MyChart.
+Loading...
+Back
+Log in to your MyChart Central account to finish signing up for
+Log in with your password for
+Bon Secours Mercy Health O.H.C.A.
+MyChart Username
+MyChart Username or
+MyChart Username or Epic ID
+Edit
+Password
+Password for Bon Secours Mercy Health O.H.C.A.
+Forgot login information?
+Log in with passkey
+Need help?
+Sign up
+Need To Pay A Bill?
+Pay As Guest
+Have a MyChart Question?
+Call:
+1-844-552-4278
+Terms and Conditions of MyChart® Usage (Terms and Conditions)
+PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING MYCHART®. YOUR USE OF MYCHART® CONFIRMS YOUR UNCONDITIONAL ACCEPTANCE OF THESE TERMS AND CONDITIONS. IF YOU DO NOT ACCEPT THESE TERMS AND CONDITIONS, DO NOT USE MYCHART®.
+Purpose and Terms of Use
+We are pleased to provide patients with a secure Internet-based environment that will provide patients the option of accessing selected portions of their confidential medical record, such as basic laboratory results, immunization records and visit history. This online environment is called MyChart®. To request a MyChart® account, please sign up during your office visit with your physician. Your physician will be notified when you request a MyChart® account. Your medical information released to MyChart® is at the discretion of your physician. MyChart® can be accessed   with the Epic MyChart® mobile application available from the iTunes App Store.
+We think it is important for you to know how we handle information we communicate via the Internet. This Terms and Conditions statement outlines our practices and our sensitivity to your right to privacy. You agree to use MyChart® appropriately and as intended. You may not communicate with physicians or staff in an unlawful, threatening, defamatory, obscene or abusive manner. We reserve the right, in our sole discretion, to revoke access at any time for any reason. The MyChart® mobile application is intended for use on a mobile device that is running an unmodified manufacturer-approved operating system. Modifying the mobile operating system (known as "Jailbreaking") may undermine the security features intended to protect your health information from unauthorized or unintended disclosure. Accessing your MyChart® account on a mobile device with a modified operating system is a material breach of these Terms and Conditions.
+Please note the medical or health care information provided on MyChart® is not a replacement for proper medical attention or advice. The electronic record is property of Mercy Health and the information displayed in MyChart® is not the complete medical record.
+You can choose to stop participating in MyChart® at anytime by contacting your physician office and make a request for your MyChart® record to be closed.
+Access, correction, and data integrity
+We will attempt to maintain the accuracy of information on our Website, but we make no guarantees as to its completeness, or accuracy. If you believe the information found on our Website is inaccurate, please contact us at (513) 639-2800.
+Response to Electronic Communication
+We will use best efforts to provide a timely response to electronic inquiries. In some cases, the office/clinic staff that needs to respond to an electronic inquiry or other communication may not be immediately available so you should allow at least three (3) business days for a response. Accordingly, emergency situations requiring immediate attention should never be submitted electronically. You should call 911 or visit your local hospital.
+Furthermore, with respect to any electronic communications sent by you, we are only able to respond to such communications based on the information provided by you. If there is insufficient information provided in your communications, we will be unable to provide accurate, timely and reliable services.
+E-mail Privacy
+As a user of MyChart®, you should be aware that you will be notified via e-mail when there is new medical information to be viewed on MyChart®. This means that any person with access to your e-mail account will be able to see this notification. This could include your spouse, employer or anyone else that can access a patient's e-mail account. Although no private medical information will be sent, the notification that new medical information is available by accessing MyChart® may be information that you may not want others to know. Thus, you should take this into consideration when providing an e-mail address for your MyChart® account.
+Please note that if you send us an e-mail communication, it may be shared with the  staff that assists the physician in providing your medical care. Your confidential medical information on MyChart® will be accessible only to appropriate clinical staff on a need-to-know basis. Other than Proxy access, all communication through MyChart® should be in regards to your health condition and no one else's. All communications through MyChart® will be saved as a permanent part of the patient's medical record. We do not assume any responsibility for health information or services used by persons other than the MyChart® enrollee.
+Web Site Links
+MyChart® may offer links to related medical Web sites that we do not manage. These Web site link(s) are for informational purposes only. We do not endorse and have not verified the accuracy of the information in/on these Web sites, and you should not rely on any of the information found on these Web sites for purposes of treatment or diagnosis.
+Security and Confidentiality
+We afford the same degree of confidentiality to medical information stored on MyChart® as is given to medical information stored in any other medium. We are committed to protecting the confidentiality of your medical information. We limit employee access and ability to enter or view information based upon their role in your care. Firewalls, passwords, encryption, and audit trails are further used to safeguard your information. We shall identify the records released and note the time and date of access each time you access MyChart®. We have taken steps to make all information received from MyChart® users as secure as possible against unauthorized access and use.
+For other than general information viewing, MyChart® must be accessed with a Secure Sockets Layer (SSL) compatible browser or terminal (Netscape or Internet Explorer versions 5.0 or greater). Our SSL web server uses authentication and offers the highest level of encryption technology commercially available (128-bit RC4). You can tell when you are secure by looking at the location (URL) field. If the URL begins with https:// (instead of http://), the document comes from a secure server. This means your medical information cannot be read or deciphered by unauthorized individuals.
+User names and passwords provide two layers of authentication and are stored in an encrypted database that is isolated from the Internet. As a MyChart® user, your role in maintaining the security of your medical information is: 1) Changing your password on a regular basis, and 2) Keeping your login ID and password confidential. We are not responsible for someone breaching your patient information if you shared your login ID or password with that person.
+To further protect your MyChart account, we enabled two-factor authentication. This provides an extra layer of security during the log-in process by requiring you to enter an authentication code after entering your password.
+MyChart® may not be available to you at all times due to system maintenance or other causes beyond our control. Access is provided as an "as-is, as-available" basis and we do not guarantee that you will be able to use MyChart® at any particular time. During times when MyChart® is unavailable, other communication methods (e.g., telephone, in-person visits) should be used to access your physician's offices. MyChart® is provided for your convenience and its availability is not an entitlement, right or privilege.
+Realize that your activities within MyChart® may be tracked by computer audit and that entries you make may become part of the medical record. You are solely responsible for any action taken in confidence on any entries you make in MyChart® and/or the medical record.
+Minor Eligibility
+Parents or guardians of minor children may request access to the minor child's account by following the terms outlined in the "Proxy Access" section of this Terms and Conditions statement. Minor children between the ages of 12 and 17 (inclusive) will not be eligible to participate in the full spectrum of MyChart® services. Under State and Federal law, there are certain types of medical information that the parent or guardian of a minor patient age 12 or older may not view without consent of the minor patient. Because of these requirements, we cannot offer the full spectrum of services to parents of minor patients in this age category. Thus, when a minor patient reaches age 12, restrictions will be placed on MyChart® access until he/she reaches age 18. Parental access will terminate once a child reaches the age of 18.
+Proxy Access
+Individuals age 18 or older may request proxy access to another individual's MyChart® account by completing the MyChart® Proxy Access portion of the MyChart® Consent Form and submitting it as instructed. Proxy access to the medical information of a patient over the age of 18 (Adult patient) will only be granted upon valid authorization and written consent by the patient via the MyChart® Adult Proxy Authorization for Release of Medical Information. Proxy access to a patient under the age of 18 (Minor patient) will only be granted to parties with parental rights and/or legal guardianship over the MyChart® account holder. Parental or guardianship access will be granted only to the extent that the party requesting proxy access can demonstrate the legal right to account holder's medical information and within the parameters described herein, in accordance with State and Federal laws and regulations. Except for parents, only one person will be granted proxy access to a MyChart® account. A MyChart® account will be activated for both the proxy and the account holder. If the proxy's legal relationship with the account holder changes the patient and or the proxy must inform the office/clinic immediately. Adult proxy access will automatically expire yearly requiring a repeat of the proxy request.
+DISCLAIMERS
+YOUR USE OF THIS SITE IS AT YOUR RISK. THE INFORMATION, MATERIALS AND SERVICES PROVIDED ON OR THROUGH THIS WEBSITE ARE PROVIDED "AS IS" WITHOUT ANY WARRANTIES OF ANY KIND INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT OF INTELLECTUAL PROPERTY. THE FOREGOING EXCLUSIONS OF IMPLIED WARRANTIES DO NOT APPLY TO THE EXTENT PROHIBITED BY LAW. PLEASE REFER TO YOUR LOCAL LAWS FOR ANY SUCH PROHIBITIONS.
+LIMITATIONS OF LIABILITY
+We assume no responsibility and will not be held liable, for any damages to, or any viruses that may infect, your computer, telecommunication equipment, or other property caused by or arising from your access to, use of MyChart®, or any information or materials you download from MyChart®. IN NO EVENT WILL WE OR ANY OF ITS RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AFFILIATES, AGENTS, SUCCESSORS OR ASSIGNS BE LIABLE TO YOU OR ANYONE ELSE FOR ANY INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, THOSE RESULTING FROM LOST PROFITS, LOST DATA OR BUSINESS INTERRUPTION) ARISING OUT OF THE USE, INABILITY TO USE, OR THE RESULTS OF USE OF MYCHART® OR THE MATERIALS, INFORMATION OR SERVICES CONTAINED ON ANY OR ALL SUCH WEB SITE, WHETHER BASED ON WARRANTY, CONTRACT, TORT OR ANY OTHER LEGAL THEORY AND WHETHER OR NOT ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING LIMITATIONS OF LIABILITY DO NOT APPLY TO THE EXTENT PROHIBITED BY LAW. PLEASE REFER TO YOUR LOCAL LAWS FOR ANY SUCH PROHIBITIONS.
+Revisions to these Terms and Conditions.
+These Terms and Conditions may be revised at any time and from time to time by updating this posting. You should visit this page from time to time to review the then current Terms and Conditions because they are binding on you. Certain provisions of these Terms and Conditions may be superseded by legal notices.
+Additional Assistance.
+Please contact your physician's office, if you do not understand any of the foregoing Terms and Conditions or if you have any questions or comments.
+Acknowledgement of Terms and Conditions
+By Accepting these Terms and Conditions and using MyChart® I agree and acknowledge that I have read and agree to all Terms and Conditions outlined above.
+MyChart® licensed from Epic Systems Corporation
+© 1999 - 2026

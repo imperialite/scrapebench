@@ -1,0 +1,157 @@
+RocketReach Terms of Service
+RocketReach Terms of Service
+EN
+DE
+ES
+FR
+IT
+NL
+PT
+This Terms of Service is a contract (these “
+Terms
+” or this “
+Agreement
+”) between RocketReach and you (“
+you
+”, or the “
+User
+”) for your use of RocketReach’s proprietary hosted platform and related downloadable plugins to look up contact information for individuals or entities (each search, a “
+Lookup
+”, and information returned by the Lookup, the “
+Lookup Information
+”). It describes our business relationship, including the nature and limitations of the services we agree to provide to you and in what ways you are permitted to use those services and/or the products of those services. For Users of our Application Program Interface (“
+API
+”), this Agreement applies to both you and end users of your website or application. By using RocketReach’s website, platform, APIs, products, or services (collectively, the “
+Services
+”), or Lookup Information, you agree to be legally bound by these Terms and any and all terms of policies incorporated herein by reference.
+PLEASE READ THE FOLLOWING TERMS CAREFULLY:
+BY REGISTERING FOR THE SERVICES, OR BY DOWNLOADING, INSTALLING, OR OTHERWISE ACCESSING OR USING THE SERVICES
+, YOU
+         AGREE THAT YOU HAVE READ AND UNDERSTOOD, AND, AS A CONDITION TO YOUR USE OF THE SERVICE, YOU AGREE TO BE BOUND
+         BY, THE TERMS, INCLUDING ROCKETREACH’S PRIVACY POLICY.
+ARBITRATION NOTICE.
+You agree that disputes arising under these Terms will be resolved by binding,
+         individual arbitration as further described in Section 10, and BY ACCEPTING THESE TERMS, YOU AND ROCKETREACH
+         ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN ANY CLASS ACTION OR REPRESENTATIVE
+         PROCEEDING. YOU AGREE TO GIVE UP YOUR RIGHT TO GO TO COURT to assert or defend your rights under this
+         contract (except for matters that may be taken to small claims court). Your rights will be determined by a
+         NEUTRAL ARBITRATOR and NOT a judge or jury.
+If you do not agree to all the terms and conditions of this Agreement, you may not access or use the
+         Services or Lookup Information.
+The Services and Lookup Information are available only to individuals who are at least 18 years old. By using any of the Services, you warrant that you are at least 18 years of age. If you are not at least 18 years old, you must immediately cease further use of any of our Services or Lookup Information. Our
+Privacy Policy
+describes how we collect, use, share, and otherwise process personal information in connection with our Services.
+Your RocketReach Account and Use of the Services and Lookup Information
+Your RocketReach Account
+If you create an account on the Services, you must use the Services in a manner that constitutes fair and acceptable use, and you are responsible for maintaining the security of your account, and you are fully responsible for all activities that occur under the account and any other actions taken in connection with the account. When you register for a RocketReach account, you must provide your full legal name, a valid email address, and any other information requested in order to complete the signup process. You must immediately notify RocketReach of any unfair, unacceptable or unauthorized use of your account or any other breaches of security. RocketReach will not be liable for any acts or omissions by You, including any damages of any kind incurred as a result of such acts or omissions.
+         By creating a RocketReach account, you warrant that you are a human. Accounts registered by “
+bots
+” or other automated methods are not permitted.
+Your Use of the Services and Lookup Information
+You must use the Services and Lookup Information in a responsible and professional manner consistent with these Terms, the intended uses of the Services, and standard industry practice. Without limiting the foregoing, you will:
+only use Lookup Information to identify prospective sales opportunities, identify candidates for recruitment purposes, and research your existing customers and prospects, in each case, only in a manner that relates to an individual’s profession, business, or employment;
+prior to relying on or using any Lookup Information, ensure that such Lookup Information: (a) is the most accurate and up-to-date version of such information available through the Services, and (b) does not appear on any RocketReach lists of individuals who have opted out of their inclusion in the Services;
+immediately cease all use of Lookup Information after termination of these Terms.
+When you use the Services or any Lookup Information, you will not:
+use the Services, or any Lookup Information accessed under your account, for any illegal or unauthorized purpose or in any manner that is unlawful, illicit, fraudulent, or detrimental, or in connection with any unlawful, illicit, fraudulent, or detrimental purpose or activity;
+violate any laws in your jurisdiction or the laws of any jurisdiction under which the use of the Services or Lookup Information may be governed (including but not limited to laws relating to copyright, spam, privacy, data protection, or trademark);
+use the Services or any Lookup Information in any manner that could harm or impair anyone’s access to or enjoyment of the Services or Lookup Information;
+use the Services to copy, store, host, transmit, send, publish, or distribute of any material containing (or linked to) spyware, computer viruses, Trojan horses, worms, keystroke loggers, rootkits, or other malicious computer software;
+engage in any systematic, automated, or excessive data collection or extraction activities (including, but not limited to, scraping, data mining, data extraction, and data harvesting) on or related to our Services or Lookup Information without obtaining our explicit written consent;
+reproduce Lookup Information or content from the Services (including on another website or platform), sell, rent, or sub-license Lookup Information or material derived from the Lookup Information or Services, replicate, duplicate, copy, or otherwise exploit such material for commercial purposes;
+create, support, or use software, devices, scripts, robots, or any other means or processes (including crawlers, browser plugins and add-ons, or any other technology) to copy or extract Lookup Information or duplicate profiles and other data from the Services.
+remove or alter any copyright, trademark, legal notices, or other proprietary notations from the Services or any other content accessible on the Services; or
+attempt to violate any security mechanisms of the Services, try to gain unauthorized access to the Services or Lookup Information, or assist others in doing so, or otherwise compromise the security of the Services or Lookup or tamper with them in any way.
+Abuse or excessively frequent use of the Services, including requests to RocketReach via the API, may result in the temporary or permanent modification, suspension or discontinuation of your or your account’s access to the Services (or any part thereof). RocketReach, in its sole discretion, will determine abuse or excessive usage of the Services. RocketReach will make a reasonable attempt via email to warn the account owner prior to suspension. To the extent allowed under law, these changes may be effective upon notice provided to you.
+Free and Paid Subscription Services; Teams
+These Terms are applicable to all Users of the Services, whether such use is free or under a paid subscription. Current pricing terms and services are maintained at
+http://rocketreach.co/pricing
+. Individual Users who subscribe to paid Services or who are part of a Team (defined below) (each, a “Subscriber”) must also review and agree to the terms of our
+Subscription Agreement
+at the time of subscription and at the time of any subsequent subscription modification. For an enterprise subscription, you must request a quote from RocketReach at
+https://rocketreach.co/enterprise
+and review and agree to the terms of our Enterprise Subscription Agreement. If you sign up for Community Program, the
+Community Program Terms
+also apply to your use of the Services.
+Subscribers pre-pay for a set number of Lookups and downloads of Lookup Information (each, an “Export”). Lookups will expire at the end of the applicable Subscription Term (as defined in the Subscription Agreement).
+Subject to the terms of the Subscription Agreement, Subscribers may invite others to join a group of Subscribers, or be invited to join a grouping of Subscribers (a “Team”). Teams are managed by the User who created it. A subscriber may only be part of one Team at a time. If you accept an invitation to join a Team, then you will still be able to use the Lookups and Exports you purchased before you joined the Team, but the User who manages the Team must purchase additional Lookups and Exports on your behalf. You may remove yourself from a Team and the User who manages the Team may remove you from the Team at any time and for any or no reason by sending an email to
+support@rocketreach.co
+.
+Intellectual Property Rights
+This Agreement does not transfer from RocketReach to you any RocketReach or third
+         party intellectual property, and all right, title and interest in and to such property will remain (as
+         between the parties) solely with RocketReach.
+RocketReach claims no ownership, responsibility or intellectual property rights
+         over any of the content or materials you provide to RocketReach.
+Use License
+Subject to your complete and ongoing compliance with these Terms, RocketReach grants you a limited, worldwide, non-exclusive, non-transferable, non-sublicensable, revocable license to: (i) access and use the Services and Lookup Information derived from the Services in accordance with these Terms; and (ii) install and use the object code copy of downloadable software made available by RocketReach as part of the Services.
+Your use of the Services is limited to: (i) performing Lookups; and (ii) viewing Lookup Information. You may access, use, disclose, or otherwise process Lookup Information solely for the following purposes, to the extent permitted by applicable laws and these Terms: (i) to communicate with an individual or entity for whom Lookup information is available in a manner that relates to such individual’s or entity’s (as applicable) profession, business, or employment; and (ii) to identify prospective sales opportunities, research your existing customers and prospects, and otherwise analyze the Lookup Information in a manner relating to your legitimate internal business activities.
+License Restrictions
+You may not duplicate, copy, resell, reuse, exploit or reverse engineer Lookup Information or any portion of the Services without the written consent permission of RocketReach.
+You may not launch any automated system or script, including without limitation, “
+robots
+,” “
+spiders
+,” or “
+offline readers
+,” that automates extraction of content or Lookup Information from the Services.
+Without the prior written consent of RocketReach, you may not develop or derive for commercial sale or otherwise commercially exploit any data in any form that incorporates or uses the Lookup Information, and you may not transfer or disclose the Lookup Information to anyone else.
+RocketReach does not endorse or support the use of its Services or Lookup Information where such use would result in the user breaching any agreement the User has with a third-party. By accepting these Terms, you warrant that you will not use the Services or the products of our Services, including Lookup Information, in violation of any third-party agreement, whether currently in force or entered into following acceptance of these Terms.
+RocketReach reserves the right to refuse or rescind permission to use the Services in the event we learn that a third-party contract has been breached or that use of the Services is likely to result in such a breach.
+In exchange for use of our Services, you agree not to use the Services or any product of the Services, including Lookup Information, for any unlawful purpose or in contravention of any applicable laws or regulations. This includes, but is not limited to, the use of any Lookup Information or other data that becomes subject to the provisions of the GDPR either during or after use of the Services. You agree to comply with your obligations under all applicable privacy and data protection legislation. This clause is in addition to, and does not relieve, remove or replace, a party's obligations under the Data Processing Addendum (“DPA”), available at
+https://rocketreach.co/dpa
+. The DPA sets out the parties’ roles and obligations under data protection law and forms part of these Terms.
+Disclaimer of Warranties
+Except where otherwise stated, the Services and Lookup Information are provided as is. RocketReach may update, change, complete, correct, remove, or delete Lookup Information at any time. While RocketReach engages in a diligent practice of maintaining and updating the RocketReach Services and Lookup Information, we do not have control over the production, availability, or accuracy of third-party data included or sought to be included as a part of the Lookup Information or otherwise as a product of the Services.
+Specifically, but not exclusively, RocketReach does not warrant that:
+the Services or Lookup Information will meet your requirements or expectations.
+the Lookup Information is up to date, accurate or complete;
+the Services will be uninterrupted, timely, secure, bug or error-free.
+the calculations performed by the Services are accurate.
+any errors or bugs in the Services or Lookup Information will be corrected.
+Limitation of Liability
+In no event will RocketReach, or its suppliers or licensors, be liable with respect to any subject matter of this agreement under any contract, negligence, strict liability or other legal or equitable theory for: (i) any special, incidental or consequential damages; (ii) the cost of procurement for substitute products or services; (iii) for interruption of use or loss or corruption of data; or (iv) for any amounts that exceed the fees paid by you to RocketReach under this agreement during the three (3) month period prior to the cause of action. RocketReach shall have no liability for any failure or delay due to matters beyond our reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
+Indemnification
+You agree to defend, indemnify, and hold harmless RocketReach and its subsidiaries, agents, licensors, managers, and other affiliated companies, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees) arising from: (i) your use of and access to the Service, including Lookup Information or any other data or content transmitted or received by you; (ii) your violation of any term of this Agreement, including without limitation your breach of any of the representations and warranties above; (iii) your violation of any third-party right, including without limitation any right of privacy or Intellectual Property Rights; (iv) your violation of any applicable law, rule or regulation; or (v) any other party’s access and use of the Service with your unique username, password or other appropriate security code.
+Arbitration
+Generally. In the interest of resolving disputes between you and RocketReach in the most expedient and cost effective manner, and except as expressly described herein, you and RocketReach agree that every dispute arising in connection with these Terms will be resolved by binding arbitration. Arbitration is less formal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, may allow for more limited discovery than in court, and can be subject to very limited review by courts. Arbitrators can award the same damages and relief that a court can award. This agreement to arbitrate disputes includes all claims arising out of or relating to any aspect of these Terms, whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, and regardless of whether a claim arises during or after the termination of these Terms. YOU UNDERSTAND AND AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND ROCKETREACH ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.
+Exceptions. Despite the provisions of this Section, nothing in these Terms will be deemed to waive, preclude, or otherwise limit the right of either party to: (a) bring an individual action in small claims court; (b) pursue an enforcement action through the applicable federal, state, or local agency if that action is available; (c) seek injunctive relief in a court of law in aid of arbitration; or (d) to file suit in a court of law to address an intellectual property infringement claim.
+Opt-Out. If you do not wish to resolve disputes by binding arbitration, you may opt out of the provisions of this Section within 30 days after the date that you agree to these Terms by sending a letter to RocketReach, LLC, Attention: Legal Department – Arbitration Opt-Out, 1100 Bellevue Way NE, Ste. 8A, #91, Bellevue, WA 98004 that specifies: your full legal name, the email address associated with your account on the Services, and a statement that you wish to opt out of arbitration (“Opt-Out Notice”). Once RocketReach receives your Opt-Out Notice, this Section will be void and any action arising out of these Terms will be resolved as set forth in Section 13(ii) (“Governing Law”) The remaining provisions of these Terms will not be affected by your Opt-Out Notice.
+Arbitrator. Any arbitration between you and RocketReach will be settled under the Federal Arbitration Act and administered by the American Arbitration Association (“AAA”) under its Consumer Arbitration Rules (collectively, “AAA Rules”) as modified by these Terms. The AAA Rules and filing forms are available online at
+https://www.adr.org/
+, by calling the AAA at +1-800-778-7879, or by contacting RocketReach. The arbitrator has exclusive authority to resolve any dispute relating to the interpretation, applicability, or enforceability of this binding arbitration agreement.
+Notice of Arbitration; Process. A party who intends to seek arbitration must first send a written notice of the dispute to the other party by certified U.S. Mail or by Federal Express (signature required) or, only if that other party has not provided a current physical address, then by electronic mail (“Notice of Arbitration”). RocketReach’s address for Notice of Arbitration is: RocketReach LLC, 144 N 7th St, PO #421, Brooklyn, NY 11211. The Notice of Arbitration must: (a) describe the nature and basis of the claim or dispute; and (b) set forth the specific relief sought (“Demand”). The parties will make good faith efforts to resolve the claim directly, but if the parties do not reach an agreement to do so within 30 days after the Notice of Arbitration is received, you or RocketReach may commence an arbitration proceeding. All arbitration proceedings between the parties will be confidential unless otherwise agreed by the parties in writing. During the arbitration, the amount of any settlement offer made by you or RocketReach must not be disclosed to the arbitrator until after the arbitrator makes a final decision and award, if any. If the arbitrator awards you an amount higher than the last written settlement amount offered by RocketReach in settlement of the dispute prior to the award, RocketReach will pay to you the higher of: (c) the amount awarded by the arbitrator and (d) US$10,000.
+Fees. If you commence arbitration in accordance with these Terms, RocketReach will reimburse you for your payment of the filing fee, unless your claim is for more than US$10,000, in which case the payment of any fees will be decided by the AAA Rules. Any arbitration hearing will take place at a location to be agreed upon in the county and state of your residence or billing address, but if the claim is for US$10,000 or less, you may choose whether the arbitration will be conducted: (a) solely on the basis of documents submitted to the arbitrator; (b) through a non-appearance based telephone hearing; or (c) by an in-person hearing as established by the AAA Rules in the county (or parish) of your permanent residence. If the arbitrator finds that either the substance of your claim or the relief sought in the Demand is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all fees will be governed by the AAA Rules. In that case, you agree to reimburse RocketReach for all monies previously disbursed by it that are otherwise your obligation to pay under the AAA Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator must issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based. The arbitrator may make rulings and resolve disputes as to the payment and reimbursement of fees or expenses at any time during the proceeding and upon request from either party made within 14 days of the arbitrator’s ruling on the merits.
+No Class Actions. YOU AND ROCKETREACH AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. Further, unless both you and RocketReach agree otherwise, the arbitrator may not consolidate more than one person’s claims, and may not otherwise preside over any form of a representative or class proceeding.
+Modifications to this Arbitration Provision. If RocketReach makes any future change to this arbitration provision, other than a change to RocketReach’s address for Notice of Arbitration, you may reject the change by sending us written notice within 30 days of the change to RocketReach’s address for Notice of Arbitration, in which case your account with RocketReach will be immediately terminated and this arbitration provision, as in effect immediately prior to the changes you rejected will survive.
+Enforceability. If Section 9 (vii) (“
+No Class Actions
+”) or the entirety of this Section is found to be unenforceable, or if RocketReach receives an Opt-Out Notice from you, then the entirety of this Section will be null and void and, in that case, the exclusive jurisdiction and venue described in Section 13(ii) (“
+Governing Law
+”) will govern any action arising out of or related to these Terms.
+Marketing and Feedback
+If you are using the Services on behalf of a company, you grant (and you represent and warrant that you have the authority to grant) RocketReach, solely for marketing and sales purposes, an unrestricted, perpetual, revocable, non-exclusive, fully-paid, royalty-free right to use your company’s name and/or logos. These assets and logos will be used purely for marketing and sales efforts, such as being displayed on the RocketReach home page. The User has the right to revoke the license to use logo at any time in its sole discretion by providing written notice to RocketReach.
+If you choose to provide input and suggestions regarding problems with or proposed modifications or improvements to the Services, then you hereby assign to RocketReach all right, title, and interest in and to that feedback, including all intellectual property rights, and RocketReach will be free to exploit the feedback in any manner and for any purpose without compensation to you.
+Changes
+RocketReach reserves the right, at its sole discretion, to modify or replace any part of this Agreement. It is your responsibility to check this Agreement periodically for changes. Your continued use of or access to the Services following the posting of any changes to this Agreement constitutes acceptance of those changes. RocketReach may also, in the future, offer new services and/or features through the Services (including, the release of new tools and resources). Such new features and/or services shall be subject to the terms and conditions of this Agreement.
+Contact
+The Services are offered by RocketReach, LLC located at 144 N 7th St, PO #421, Brooklyn, NY 11211. You may contact RocketReach by sending correspondence to that address or by emailing us
+         at
+support@rocketreach.co
+.
+Miscellaneous
+General Terms. These Terms, together with the Privacy Policy and any other agreements expressly incorporated by reference into these Terms, are the entire and exclusive understanding and agreement between you and RocketReach regarding your use of the Services. You may not assign or transfer these Terms or your rights under these Terms, in whole or in part, by operation of law or otherwise, without our prior written consent. We may assign these Terms at any time without notice or consent. The failure to require performance of any provision will not affect our right to require performance at any other time after that, nor will a waiver by us of any breach or default of these Terms, or any provision of these Terms, be a waiver of any subsequent breach or default or a waiver of the provision itself. Use of Section headers in these Terms is for convenience only and will not have any impact on the interpretation of any provision. If any part of these Terms is held to be invalid or unenforceable, the unenforceable part will be given effect to the greatest extent possible, and the remaining parts will remain in full force and effect.
+Governing Law. These Terms are governed by the laws of the State of Washington without regard to conflict of law principles. You and RocketReach submit to the personal and exclusive jurisdiction of the state courts and federal courts located within King County, Washington for resolution of any lawsuit or court proceeding permitted under these Terms. We operate the Services from our offices in Washington, and we make no representation that any materials included in the Services are appropriate or available for use in other locations.
+Additional Terms. Your use of the Services is subject to all additional terms, policies, rules, or guidelines applicable to the Services or certain features of the Services that we may post on or link to from the Services (the “Additional Terms”). All Additional Terms are incorporated by this reference into, and made a part of, these Terms.
+Consent to Electronic Communications. By using the Services, to the extent permitted by applicable law, you consent to receiving certain electronic communications from us as further described in our Privacy Policy. Please read our Privacy Policy to learn more about our electronic communications practices. You agree that any notices, agreements, disclosures, or other communications that we send to you electronically will satisfy any legal communication requirements, including that those communications be in writing.
+Notice to California Residents. If you are a California resident, under California Civil Code Section 1789.3, you may contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 N. Market Blvd., Suite S-202, Sacramento, California 95834, or by telephone at +1-800-952-5210 in order to resolve a complaint regarding the Services or to receive further information regarding use of the Services.
+No Support. We are under no obligation to provide support for the Services. In instances where we may offer support, the support will be subject to published policies.
+Last updated: January 31, 2024
+© 2026 RocketReach.co
+Search
+Pricing
+Browser Extension
+User Agreement
+Privacy Policy
+Help
+© 2026 RocketReach.co

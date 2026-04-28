@@ -1,0 +1,54 @@
+Use and collection of information
+
+The United States (US) Department of State contracted GDIT to provide general information and administrative services related to U.S. visa applications and U.S. citizen services. GDIT does not collect personally identifiable information (PII) about you when you visit our website, unless you choose to provide this information to us. Submitting PII through our website is voluntary, but by doing so, you are giving your permission to use the information for the stated purpose. Not providing certain information may result in the inability to provide you with a service you desire. If you choose to provide us with PII, through such methods as completing a web form or sending us an email, we will use that information to help us provide you the information or service you have requested, or to respond to your message. The information we may receive from you varies based on what you do when visiting our site. In order to provide the services that are required by GDIT’s contract with the United States Department of State, GDIT processes personal information including but not limited to name, address, date of birth, passport number, Internet Protocol (IP) address, and a variety of other data points. All information processed through this service is captured and stored on computer systems maintained in the United States pursuant to GDIT’s contract with the United States Department of State.
+
+The E-Government Act of 2002 requires federal agencies to conduct a Privacy Impact Assessment (PIA) for any information electronic collections and information technology (IT) systems that contain personally identifiable information (PII). As documented in the PIA completed by the United States Department of State for this site, the legal authorities that allow the processing of information by GDIT through this site are:
+
+8 U.S.C. 1104 (Powers and Duties of the Secretary of State)
+22 U.S.C 2651a (Organization of Department of State)
+22 U.S.C. 211a (Authority to Grant, Issue and Verify Passports)
+22 U.S.C. 3904 (Functions of the Service)
+22 U.S.C. 2715 (Procedures regarding major disasters and incidents abroad affecting United States citizens)
+22 U.S.C. 4802(b) – Responsibilities of the Secretary of State – Overseas Evacuation
+Interactive Voice Response (IVR) and Call Center Services
+
+All phone calls received by GDIT through phone numbers that support this service are recorded and stored on computer servers retained in the United States. Access to phone call recordings is restricted to authorized GDIT and Department of State personnel.
+
+Applicant Service Center Operations
+
+Applicant Service Centers (ASC) are in-country GDIT managed facilities used to collect applicant biometric information including but not limited to digital photograph and fingerprints. GDIT collects applicant biometric data using equipment provided and owned by the United States Department of State.
+
+All biometric data collected by GDIT is transmitted directly to the computer systems owned and operated by the US Department of State. GDIT does not have access to any applicant biometric data. GDIT does not retain copies or store any applicant biometric data.
+
+All ASCs are configured with Closed Circuit TV (CCTV) cameras that record the ASC proceedings on a daily basis. Signs indicating the same are posted at all ASCs. Access to video recordings and live camera feeds is restricted to authorized GDIT and Department of State personnel.
+
+Information collection and sharing
+
+All information processed by GDIT in support of this service is transmitted and retained by the United States Department of State. GDIT shares the information you provide with no party other than the United States Department of State and GDIT’s subcontractors and vendors. GDIT, GDIT’s subcontractors, and GDIT’s vendors may use the information you provide for no other purpose than providing information and administrative services related to U.S. visa applications and U.S. citizen services through GDIT’s performance of its contract with the United States Department of State.
+
+Protection of Information
+
+GDIT takes all reasonable precautions to secure the data collected through this site and to protect such data from loss, misuse or alteration. GDIT maintains reasonable security standards and procedures regarding unauthorized access to electronic information to prevent unauthorized removal or alteration of data.
+
+General Data Protection Regulation
+
+
+GDIT’s data collection activities described herein, on behalf of DoS under GDIT’s contract with the United States Department of State, are not subject to the European Union’s General Data Protection Regulation because the processing activities, on behalf of DoS, fall outside the scope of European Union law. Art. 2(a) GDPR.
+
+Notification of Changes
+
+GDIT’s Privacy Statement may change from time to time. GDIT will post any Privacy Statement changes to this page. We encourage you to periodically review this statement to be informed of how GDIT is protecting your information.
+
+Terms of Use
+
+By using this Site, you represent and acknowledge that:
+
+All registration information that you submit will be true, accurate, current and complete;
+You will maintain the accuracy of such information, promptly update such information as necessary and within the limits of the established process;
+You will not access the Site through automated or non-human means, such as with bots, scripts or otherwise;
+You will not use the Site for any illegal or unauthorized purpose;
+Your use of the Site will not violate any applicable law or regulation;
+You will not use stolen/compromised/unauthorized payment methods to make a payment on the Site;
+If you are a third party representing an applicant or applicants, you agree that you are authorized to behave as an agent on their behalf;
+You agree to comply with these Terms of Use.
+If we determine that your access violates the established Terms of Use, we reserve the right to suspend or terminate your account and report your account to the concerned parties.

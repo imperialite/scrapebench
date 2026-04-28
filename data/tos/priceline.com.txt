@@ -1,0 +1,662 @@
+Priceline.com - Travel, airline tickets, cheap flights, hotels, hotel rooms, rental cars, car rental
+Priceline.com
+Terms and Conditions
+1.
+Introduction
+Welcome to the Priceline.com website, mobile website, branded mobile and tablet applications (and any co-branded or white-label versions thereof) (collectively, “
+Sites
+”) and the call centers (each a “
+Channel
+” and collectively with Sites, the “
+Channels
+”) owned and/or operated by priceline.com LLC (“
+Priceline
+”, “
+we
+”, “
+us
+” or “
+our
+”). As with many other websites, your use of the Channels is subject to certain terms and conditions (“
+Terms
+”). These Terms are set forth below, and they, along with our
+Privacy Policy
+, are important for you and us as they create a legally binding agreement between us (“
+Agreement
+”), protecting your rights as a valued customer and our rights as a business.
+While you may be excited to get to your “
+Happy Place at a Happy Price
+”, before you access or use the Channels, please take a moment to read these Terms carefully.
+By using the Channels (such as accessing any Sites, contacting the agents at our call centers, purchasing, reserving or booking products or services (“
+Services
+”), and modifying such Services (collectively “
+book
+” or “
+booking
+”), with or through the Channels), you are agreeing to be legally bound by the Terms and our
+Privacy Policy
+. The Terms also include, among other topics:
+Identifying and mitigating biases in automated outputs;
+Ensuring that use is fair, inclusive, and non-discriminatory;
+Avoiding actions that could harm others, violate privacy, or facilitate malicious activities; and
+Not using Priceline content in any way that is offensive, discriminatory, or inappropriate.
+Additionally, Section 10 of these Terms contains a mandatory arbitration agreement and class action waiver that applies to all claims brought against us in the United States (and elsewhere, if applicable). This means that you agree to submit any dispute related to the Channels, the use of our Services, or these Terms to binding arbitration rather than proceeding in court. You may opt out of the mandatory arbitration agreement only by following the procedures below.
+We may update these Terms by posting a revised version on the Site (effective upon posting unless stated otherwise). Your continued use of the Channels means you accept the updated Terms. The Terms posted at the time of booking apply to that booking (subject to changes required by law).
+If you do not agree with any of the Terms or our
+Privacy Policy
+, whether in whole or in part, please do not use the Channels, and do not book any Services through the Channels..
+2.
+Using the Channels
+2.1
+Limited License
+Priceline grants you a limited, personal, nontransferable, non-sublicensable, revocable license to access and use the Channels only as expressly permitted in this Agreement, subject to each of the following:
+our limitation of liability;
+limitation of liabilities by suppliers on our Channels (including, without limitation, airlines, accommodations, rental car companies, and suppliers that provide other travel, travel related, and non-travel related services (collectively, “
+Suppliers
+”) that may apply to Services you book;
+Supplier Terms and Booking Conditions (as defined below) that apply to the Services you book through the Channels; and
+additional terms that may apply if you participate in our sweepstakes and promotions.
+2.2
+Access
+2.2.1
+Your use of and access to the Sites does not grant you license or right to use any of the Content (as defined below) on the Sites. Any rights or licenses not expressly granted herein are reserved. Additionally, unless you have express written permission from Priceline, it is expressly prohibited for you to, and you agree not to, do any of the following:
+Use, transmit, copy, reproduce, download, print, modify, display, “frame”, “mirror”, publish, create derivative works from, transfer or sell the Content or any part of the Channels.
+Use the Channels to make any speculative, false or fraudulent bookings or any booking in anticipation of a demand or Claim (as defined below).
+Monitor, copy, or reproduce any Content of the Channels using any robot, spider, scraper or other automated means (including, without limitation, digital assistants or artificial intelligent agents that may act as autonomous proxies for you (“
+AI Agents
+”) or manual process for any purpose.
+Violate the restrictions in any robot exclusion headers on the Channels or bypass or circumvent other measures employed to prevent or limit access to the Channels.
+Take any action that imposes, or may impose, in our discretion, an unreasonable or disproportionately large load on our infrastructure.
+Deep-link to any portion of the Channels for any purpose, including without limitation, the booking path for Services.
+Submit, post, transmit, upload or deliver any unlawful content, information or comments to or through the Channels.
+Submit, post, transmit, deliver, upload or provide links to, any content containing material that could be considered harmful, harassing, obscene, pornographic, indecent, violent, abusive, profane, insulting, threatening, tortuous, defamatory, false, hateful or otherwise objectionable.
+Submit, post, transmit, upload or deliver any content, information or comments to the Channels that infringe or violate the intellectual property of others including, without limitation, copyrights, patents, trademarks, laws governing trade secrets, and/or rights to privacy or publicity.
+Submit, post, transmit, upload or deliver any content or information that you do not have a right to make available under law or contractual or fiduciary relationships.
+Manipulate identifiers, including by forging headers, in order to disguise the origin of any content or information that you post, transmit or deliver.
+Use the Channels in any manner which could damage, disable, overburden, impair or otherwise interfere with the use of the Channels or other users' computer equipment, or cause damage, disruption or limit the functioning of any software, hardware, or telecommunications equipment.
+Attempt to gain unauthorized access to the Channels, any Content, accounts, computer system, or networks connected to the Channels, through hacking, password mining, or any other means.
+Obtain or attempt to obtain any Content through any means not intentionally made available through the Channels, including harvesting or otherwise collecting information about others such as email addresses.
+2.2.2
+You may copy, print, and/or download your travel, transportation and lodging reservations and itineraries from the Site for personal use.
+2.2.3
+We may, acting reasonably, deny anyone access to the Channels at any time for any valid reason.
+2.3
+Use of AI Agents
+Subject to Section 2.2 above, if you use the Channels through an AI Agent, you acknowledge and agree that all of these Terms and Conditions apply to you and your AI Agent. You are responsible for the acts and omissions of your AI Agent as though they were your own. You are fully responsible for all actions of your AI Agent, including any Bookings, communications, or use of data carried out by the AI Agent. Actions taken by an AI Agent are deemed to be actions taken by you. You remain responsible for reviewing and verifying all bookings, transactions, and information as though they were carried out by you directly.
+2.3.1
+Intellectual Property
+All intellectual property, trade secrets, and proprietary content of Priceline and/or its suppliers remain the exclusive property of Priceline and/or its Suppliers. Use of any content from the Channels via an AI Agent does not grant any right, title, or interest in such content. Priceline reserves all rights in its content and brands.
+2.3.2
+Attribution and Prohibited Uses
+Where content from the Channels is used by an AI Agent, appropriate attribution to Priceline must be provided. Use of such content is expressly prohibited if it is:
+Competitive with Priceline or its brands;
+Used in a way that directs users to other channels or services without proper attribution; or
+Otherwise inconsistent with Priceline’s rights in its content.
+2.3.3
+Data Privacy and Security
+. Any use of the Channels and the content thereof by an AI Agent must comply with Priceline’s data privacy and security policies. The provider of the AI Agent (and not Priceline) is responsible for all uses of personal information processed by such AI Agent.
+2.3.4
+Ethical Use Requirements
+. Any AI Agent interacting with the Channels must use the content only in a responsible and ethical manner, including (without limitation) by:
+Identifying and mitigating biases in automated outputs;
+Ensuring that use is fair, inclusive, and non-discriminatory;
+Avoiding actions that could harm others, violate privacy, or facilitate malicious activities; and
+Not using Priceline content in any way that is offensive, discriminatory, or inappropriate.
+2.3.5
+Right to Update Terms
+. Priceline may update, amend, or revoke these AI Agent Terms at any time, including with respect to past uses of Priceline content. You agree that Priceline may review and address any use of its content at any time, and that no rights are granted to you or to your AI Agent except as expressly set out herein.
+2.4
+Penny
+As part of our services, you may interact with “
+Penny
+,” our AI assistant. Penny is designed to provide support, answer questions, and help you navigate our Channels. While we strive for accuracy, information provided by Penny may not always be complete, accurate, or up to date. For important matters, including booking confirmations, payment details, or changes to travel plans, you should always review your account and booking details directly on our Sites or contact our customer support team. In the event of any inconsistency between information from Penny and your booking confirmation or Supplier Terms, the booking confirmation and Supplier Terms prevail.
+2.4.1
+No Professional Advice
+Penny does not provide legal, financial, medical, or other professional advice. Any reliance on responses provided by Penny is at your own risk. While Penny is designed to provide appropriate responses for general audiences, we cannot guarantee that all responses will be suitable for you or free from errors.
+2.4.2
+Limitation of Liability
+To the fullest extent permitted by applicable law, Priceline is not responsible for any errors, omissions, or outcomes resulting from reliance on Penny. You are responsible for verifying all booking details and information provided.
+2.4.3
+User Conduct
+You agree not to misuse Penny, including but not limited to:
+providing false or misleading information;
+attempting to interfere with or manipulate Penny’s intended functioning, including trying to bypass safety measures or access restricted features;
+using offensive or abusive language;
+attempting to extract Penny’s training data, prompts, or underlying technology;
+using Penny for unauthorized commercial purposes;
+engaging in any activity that is harmful, illegal, or fraudulent;,
+violating anyone’s privacy, including collecting, sharing, or generating personal data about others without their consent or in violation of applicable laws; or
+infringing on the legal rights of others, including intellectual property rights.
+2.4.4
+Data Use
+Your interactions with Penny may be recorded, logged and reviewed for quality assurance, customer support, and service improvement purposes, including refinement of our AI systems. For more information on how we handle personal data, please see our
+Privacy Policy
+.
+2.4.5
+Voice Interactions
+If you use Penny’s voice interaction features, your audio communications may be recorded and processed. These recordings may include voice characteristics and may be retained for service improvement and quality assurance. By using voice features, you consent to such recording and processing.
+2.4.6
+Creatives generated by Penny
+When you use Penny, you may create text or images (“Creatives”). By using Penny, you give Priceline permission to use these Creatives to operate, improve, and keep our services safe. This may include copying, sharing, or adapting them, and allowing our partners who support Penny to do the same, in line with applicable law.
+2.4.7
+Service Availability
+Penny may sometimes be unavailable due to maintenance, updates, or technical issues. While we’ll try to give notice where possible, we can’t guarantee uninterrupted access and will not be liable for any losses suffered by you as a result of Penny not being available to you due to events or circumstances beyond our reasonable control (like internet outages or security attacks).
+2.5
+Priceline VIP account
+You may register as a Priceline VIP member to use the Sites by completing the specified registration process and providing us with current, complete, and accurate information as requested by the online registration form. Membership in the Priceline VIP program may provide you access to certain promotional rates, discounts, or other benefits that vary depending on your VIP tier. Eligibility for each tier and associated benefits are described at
+https://www.priceline.com/vip
+. All members who qualify for the same VIP tier will be offered the same discounts and benefits. Discounts are applied solely based on your VIP tier and are not individualized based on your personal browsing history, online activity, or other unrelated data. Discounts and benefits offered by the VIP program may not be exchanged for cash.
+We reserve the right to modify or discontinue the Priceline VIP program (including any specific discounts or benefits) at any time and without notice. It is your responsibility to maintain the completeness and accuracy of your registration data, and any loss caused by your failure to do so is your responsibility.
+As part of the registration process, you may be asked to choose a security question. It is your responsibility to maintain the confidentiality of your security question and your account. You agree to notify Priceline immediately of any unauthorized use of your account. Priceline is not liable for any loss that you may incur as a result of someone else using your account, either with or without your knowledge.
+2.6
+Redirection to Third-party Sites
+We may redirect you from our Sites to a third-party site (including Supplier sites) to make a booking, in which case any such booking made will be with such third-party and not with us. Priceline is not responsible for bookings made through third-party booking sites, and we have no liability to you in respect of such bookings. You will have to rely on the terms and conditions of the third-party sites to determine the rights you may have against them, and their liability to you. Any concerns you may have regarding the services on the third-party sites should be directed to the relevant third-party.
+2.7
+Modification / Termination of Usage
+Priceline solely reserves the right to modify, suspend, or terminate the Channels, and/or any portion thereof, including any Services available through the Channels, and/or your profile, account password, or use of the Channels, at any time for any reason with or without notice to you. In the event of termination, you will still be bound by your obligations under this Agreement and any additional terms, including the warranties made by you, and by the disclaimers and limitations of liability. Additionally, Priceline shall not be liable to you or any third-party for any termination of your access to the Channels.
+3
+Booking Services with / through the Channels
+3.1
+Order of Search Results
+Search results are first presented on the Channels in the default sort order - such sort order may be prioritized based on various factors to enhance your experience on our Channels. These factors may include price, location, ratings, and certain characteristics pertaining to a Service (such as amenities in the case of accommodations, or vehicle classes in the case of rental cars). You can also select how to sort the results using the filter options (such as specific Suppliers or price range) and criteria (such as rating and price) to prioritize results based on your preferences. Within search results, we also sometimes display travel options that are paid-for commercial listings from our Suppliers, which will be labelled as “Promoted” (or other similar labelling), to differentiate them from options that are not paid-for commercial listings.
+3.2
+Pricing
+3.2.1
+Price Changes
+Prices for Services can change at any time. Price changes will not affect bookings already accepted, except in the following cases:
+Pricing errors (see Section 3.2.3 for details);
+Currency fluctuations (see Section 4.3 for details);
+Changes to taxes charged on the Services booked, provided that any such change become effective after your booking date but before the Services are provided (e.g., flight departure, hotel check-in/checkout, car pick-up/return, cruise embarkation) - in such cases, we or the Supplier may pass through the difference to you;
+Subsequent changes made by you to the Services booked.
+3.2.2
+Mandatory Fees
+Where required by law, the total price we display will include all mandatory fees that Priceline or the Supplier requires you to pay, whether collected by Priceline or by the Supplier. Such fees may be shown as part of the total price and not as a separate line item.
+3.2.3
+Pricing Errors
+We love a “
+Happy Price
+” - but not a typo price. If a Service is listed or supplied to us with an incorrect price or other incorrect information (including typographical, system, or Supplier errors), we may refuse or cancel your booking for that Service - even after confirmation. If this occurs, we will make reasonable efforts to notify you as soon as possible. If your credit card has already been charged for the booking, and such booking is cancelled because of the Supplier having provided us with incorrect price, availability and/or other information, we will promptly issue a credit to your credit card account in the amount of the charge, and no additional compensation is due unless required by law.
+3.2.4
+Best Price Guarantee
+Priceline offers VIP members our Best Price Guarantee policy (“
+BPG
+”) on certain pre-paid bookings. As a VIP member, we may refund you the difference if you find a lower price on the same Priceline Channel within 24 hours of booking. BPG applies only to eligible bookings, and is subject to additional terms and conditions, which are available
+here
+. We reserve the right to modify or discontinue the BPG policy at any time.
+3.2.5
+Express Deals®, Pricebreaker® and Other Deal Programs
+Priceline may offer:
+Express Deals® booking Services for certain flights, accommodations and rental car bookings (where we show you an unnamed Supplier in your search results, along certain information (such as (i) travel time (duration, departure, transit and/or arrival) for flights bookings, (ii) vehicle class and review score for rental car bookings; and (iii) star rating, review score, and amenities for accommodation bookings) before you book, and you will not know which exact Supplier you are booking with until after you complete your booking with us);
+Pricebreaker® booking Services (where we show you three named accommodation and/or hotel Suppliers in your search results but you will not know which exact Supplier you are booking with until after you complete your booking with us); and/or
+other promotional or discounted booking programs that we may offer from time to time (together with Express Deals® and Pricebreaker®, the “
+Deal Programs
+”)
+To help you reach your “
+Happy Place at a Happy Price
+”, some bookings come with firm rules and/or Supplier Terms. You acknowledge, and agree, that in addition to the flights, accommodations and rental cars-specific terms (as described below), all bookings made through any Deal Program (including Express Deals® and Pricebreaker®) are non-cancelable, non-refundable, non-changeable and non-transferable by you (unless expressly stated otherwise at checkout). Once you book, your method of payment will be charged for the amount shown - regardless of whether or not the booking is used. We will not issue any credit for unused bookings. We or the Supplier may, on an exception basis and in our (or the Supplier’s) sole and absolute discretion, waive one or more of the restrictions after the Deal Program booking has been booked. We may, in our discretion, impose additional obligations and/or fees in connection with any such waiver.
+Any attempt to access or identify Suppliers offered in Express Deals® and Pricebreaker® booking Services through automated means, including but not limited to bots, web scrapers, browser extensions, or third-party services, is strictly prohibited. Priceline is not affiliated with, does not endorse, and is not responsible for any third-party tools or services that claim to disclose the identity of Suppliers offered through Express Deals® and Pricebreaker® bookings. Your use of or affiliation with such tools or services is at your own risk and may result in the suspension or termination of your account, as well as other legal remedies.
+3.3
+Supplier Terms
+Additional terms and conditions in relation to the Services imposed by a Supplier (whether that Supplier is selected by you or by Priceline) apply. These include, without limitation, payment of all amounts when due and compliance with the Supplier's rules and restrictions regarding availability and use of their rates/fares (such as cancellation or changes - please note that certain rates/fares or special offers are not eligible for cancellation or change), products, or services (“
+Supplier Terms
+”). Supplier Terms are provided to you before you complete your booking, and are incorporated into these Terms. Please review the Supplier Terms before you finalize your booking.
+You agree to abide by the applicable Supplier Terms. Any violation of those terms may result in the cancellation of your booking(s), denial of access to Services booked, forfeiture of any amounts paid for such booking(s), and Priceline charging you for any costs it incurs as a result of such violation.
+3.4
+Taxes and Fees (where Priceline is the Merchant of Record)
+Where Priceline is responsible for processing the payment for your booking (“
+Merchant of Record
+”), you authorize us to charge your method of payment for the room rate, which includes the charge for the room reservation as well as compensation to Priceline for our booking service, and certain Taxes and Fees (as defined below). Please note that some Taxes and Fees may be collected by Priceline at the time of booking, while others may be collected by the Supplier at the time of check-in or check-out.
+“
+Taxes and Fees
+” includes an amount in connection with your booking for (i) anticipated applicable taxes and governmental fees and (ii) any mandatory fees required by the Supplier, such as resort fees. Taxes and Fees also include amounts retained by Priceline as compensation for our services.
+The Suppliers, as vendors, provide us with the applicable taxes for your booking, and we pass on these amounts to the vendors as applicable. This includes, without limitation, sales and use tax, occupancy tax, room tax, excise tax, value added tax, and/or other similar taxes. In certain locations, the tax amount may also include government-imposed service fees or other fees not paid directly to the taxing authorities but required by law to be collected by the Supplier. Also, in certain jurisdictions, there may be a tax that we are required to collect and remit to the taxing authority on the amounts we retain as compensation for our services.
+Except in jurisdictions where Priceline is required to collect and remit taxes directly, Suppliers remain responsible for remitting taxes to the applicable taxing authorities; we are not the vendor collecting and remitting taxes to the applicable taxing authorities, nor are we a co-vendor associated with the Supplier. The applicable tax rates and types vary greatly by location. The amount paid to the hotel in connection with your reservation for taxes and fees may vary from the amount we anticipate and include in the charge to you.
+Priceline acts as the Supplier’s limited payment collection agent solely for the purpose of accepting your payment on behalf of the Supplier, unless expressly stated otherwise. Your payment to Priceline satisfies your payment obligation to the Supplier for the applicable amount, regardless of when Priceline remits the funds to the Supplier. Priceline has no authority to bind or make representations on behalf of the Supplier and is not an agent of the Supplier for any other purpose.
+3.5
+Taxes and Fees (where Supplier is the Merchant of Record)
+For bookings where a Supplier is the Merchant of Record, Priceline does not charge your payment method. Instead, you may be asked to provide credit or debit card details to secure your booking. In these cases, you authorize us to transmit your card information to the Supplier and to verify (pre-authorize) your card.
+For certain rates or special offers requiring a deposit, the Supplier may pre-authorize or charge your card at booking. Some of these charges may be non-refundable, so please review the Supplier Terms carefully for any such conditions before booking.
+Where the Supplier charges you directly, your card will be used to secure the booking, and the Supplier will charge you for the room rate, taxes, fees and any other charges. In limited cases, a Supplier may require payment in cash at check-in or check-out; this will be disclosed to you during booking.
+At checkout on our Site, you will be shown a "Total Estimated Charges" line item showing an estimate of the charges the Supplier will apply, including taxes and mandatory fees.
+3.6
+Bookings through Affiliated Companies and Third-party Suppliers
+Certain bookings are facilitated by Priceline through its affiliated companies, including Agoda Company Pte Ltd. (Agoda.com), headquartered in Singapore; Booking.com B.V. (Booking.com), headquartered in Amsterdam, the Netherlands; and Booking.com Transport Limited (rentalcars.com), headquartered in Manchester, United Kingdom. Additionally, certain inventory on our Channels is sourced and booked through third-party service providers such as (without limitation) airline aggregators, for which Priceline facilitates the booking.
+3.6
+Bookings through Affiliated Companies and Third-party Suppliers
+Certain bookings are facilitated by Priceline through its affiliated companies, including Agoda Company Pte Ltd. (Agoda.com), headquartered in Singapore; Booking.com B.V. (Booking.com), headquartered in Amsterdam, the Netherlands; and Booking.com Transport Limited (rentalcars.com), headquartered in Manchester, United Kingdom. Additionally, certain inventory on our Channels is sourced and booked through third-party service providers such as (without limitation) airline aggregators, for which Priceline facilitates the booking.
+3.7
+Booking for Third-parties
+If you use our Channels to book for or on behalf of a third-party, such as a family member or a traveling companion, you are responsible for any error in the accuracy of information provided in connection with such use (for example, the personal information, billing address and phone number of such third-party). In addition, you must inform the third-party of all Terms and that they are bound by such terms. If you are booking for and on behalf of a third-party, you agree to indemnify and hold each Covered Party (as defined below) harmless from and against any and all liabilities, losses, damages, suits and claims (including the costs of defense), relating to the third-party's or your failure to fulfill any of its obligations as described above. You are directly responsible for any booking you submit for and on behalf of a third-party, including (without limitation) for total charges and performance obligations.
+4
+Payment
+4.1
+Authority to Use Credit or Debit Card
+By using a credit or debit card to secure a booking through a Channel, you represent and warrant that you have the authority to use that card for the booking. You agree to provide correct and true information in connection with your use of the Channels. It is a violation of law to book in a false name or with an invalid method of payment. Priceline reserves the right to cancel any bookings or Services that we reasonably believe to have been fraudulently made, including, without limitation, transactions made with an unauthorized use of a credit or debit card.
+4.2
+Credit Card Chargebacks
+You may have the ability to dispute charges with credit card companies (“
+chargeback
+”). If you have a question about a charge by us on your credit card statement, we encourage you to
+contact us
+prior to the chargeback to discuss any questions or concerns. Priceline will try to work with you in resolving your concerns. In the event of a chargeback we believe is improper (as detailed below), we retain the right to (i) dispute such chargeback, and (ii) cancel the relevant booking.
+4.2.1
+The following chargeback scenarios are deemed as improper and we retain the right to investigate and rebut any such chargeback claims and to recover costs of such chargeback claims from you:
+Chargebacks resulting from non-cancellable reservations in the event that Priceline or Supplier cannot (or was not required to) provide a refund, whether or not the reservation is used.
+Chargebacks resulting from charges authorized by family, friends, associates or other third-parties with direct access to your credit card.
+Chargebacks arising from the Supplier’s failure to deliver a product or service in a manner that is consistent with the Supplier’s product or service description.
+Chargebacks resulting from force majeure or other circumstances that are beyond the control of Priceline or its affiliated companies.
+4.3
+Currency and Exchange Rates
+Bookings made through our Site may be transacted in different currencies. The default transaction currency is usually based on your IP address, and you may also choose the currency you want to transact in. You will be charged in the currency shown on the checkout page (i.e., the page where you make payment for your booking). If you pay for your booking using a credit or debit card, please be aware that, due to the constant fluctuation in exchange rates, (a) our charge to your card and (b) the estimated charge amount we provide you may differ based on (y) the exchange rate at the time you make your reservation versus (z) the rate at the time the charge is reflected on your credit card statement. Also, in the event that we must credit your account, we will refund the exact amount in the currency initially charged and will not be responsible for any fluctuations in exchange rates that may cause differences in your billing statement.
+4.4
+Refunds Processed by Hyperwallet
+In certain situations where a customer is due a refund, Priceline may use the service of a third-party, Hyperwallet, to process such refund. Where you are refunded via Hyperwallet, you are subject to the terms and conditions of Hyperwallet, which can be viewed
+here
+.
+4.5
+Payments via Third-Party Financing Services (e.g., Buy Now Pay Later)
+We may offer you the option to finance your booking through a third-party payment or financing service (a “
+Financing Provider
+”), such as a “buy now, pay later” or installment payment service. If you choose this option, your financing arrangement is solely between you and the Financing Provider and is subject to the Financing Provider’s terms, conditions, disclosures, and privacy policy, which will be presented to you during checkout. Priceline is not a party to your agreement with any Financing Provider and does not control its policies or practices.
+4.5.1
+If, however, the Financing Provider does not approve, withdraws, or cancels your financing arrangement, Priceline reserves the right to cancel your booking. You remain solely responsible for any amounts due under your agreement with the Financing Provider.
+4.5.2
+Using a Financing Provider does not change or limit any rights or obligations you have under these Terms (including applicable Supplier Terms), except that your payment obligation to Priceline is satisfied once the Financing Provider remits payment to us. Any disputes regarding financing, repayments, or installment terms must be directed to the Financing Provider.
+5
+Changes and Cancellations
+5.1
+Changes Made by You.
+For various reasons - such as, without limitation, connectivity issues or property closures - a booking may be changed by us or the Supplier. If this occurs, we will make reasonable efforts to notify you as soon as possible and where possible, offer alternative options or assistance, or provide a refund.
+5.2
+Changes Made by us / Suppliers.
+For various reasons - such as, without limitation, connectivity issues or property closures - a booking may be changed by us or the Supplier. If this occurs, we will make reasonable efforts to notify you as soon as possible and where possible, offer alternative options or assistance, or provide a refund.
+6
+Service-specific Terms
+6.1
+Flights
+Your contract for flight service booked on the Channel is between you and the relevant flight service Provider. Supplier Terms apply, and include, without limitation, the airline Supplier’s conditions of carriage and rules and contract of carriage. Different tickets on the same Supplier airline or itinerary may contain different Supplier Terms. Additionally, Some itineraries involve separate tickets, and missed connections on separate tickets are not protected by the other carrier. Please review the applicable Supplier Terms before you finalize your booking.
+6.1.1
+Other Fees
+6.1.1.1
+Taxes on Airline Tickets with Published Prices
+Government imposed taxes and fees and any applicable airline imposed fees are included in your fare. Taxes are charged based on the tax rates in effect at time of your booking. If taxes have changed before the travel date of your booking, you may be liable to pay taxes at the higher rate.
+6.1.1.2
+Baggage and Other Ancillary Airline Fees
+Flight service Suppliers may require you to pay additional fees at the airport for certain services and/or if you exceed certain limits as per the relevant Supplier Terms, such as the number of bags or weight allowed, and when an airline Supplier does not offer a free baggage allowance. Some airline Suppliers charge additional fees for other services, for example, for carry on baggage, priority boarding and seat assignments. During the booking process, Priceline provides a summary of key terms of an airline Supplier’s baggage fees, but please consult the relevant airline Supplier for complete information about their baggage and other ancillary fees.
+6.1.1.3
+Airport Entry/Exit Fees
+Some countries or airports charge fees upon entering and/or exiting the country or airport. These fees are not included in the ticket price, or the taxes and fees we display on our website prior to purchase. For more information on a specific country's entry/exit fee, we suggest that you visit
+www.travel.state.gov
+prior to departure.
+6.1.2
+Other Flights Practices and Prohibitions
+6.1.2.1
+Changes by Suppliers
+Airline Suppliers retain the right to adjust flight times and schedules at any time, and may in their discretion change or cancel flights or itineraries.
+6.1.2.2
+Prohibited Practices
+You agree not to purchase a ticket or tickets containing flight segments that you will not be using, such as a "point-beyond", "hidden-city", or "back-to-back tickets" if those practices are prohibited by the airline Suppliers. You further agree not to purchase a round-trip ticket that you plan to use only for one-way travel if that practice is prohibited by the airline Suppliers. You acknowledge that most airlines prohibit all such tickets, and therefore we do not guarantee that the airline will honor your ticket or tickets if you engage in these practices. You agree to indemnify the Covered Parties against airline Supplier claims, on the basis of these or any other prohibited practices, including (but not limited to) the difference between the full fare of your actual itinerary and the value of the ticket or tickets that you purchased.
+6.1.2.3
+Use of Flight Segments
+Most airlines require you to use flight coupons in sequential order. For those airlines who allow the use of a ticket for only one segment, if you do not cancel all or part of your journey prior to the departure of any segment of your itinerary, you may forfeit up to the value of your airline ticket, depending on the relevant Supplier Terms.
+6.1.2.4
+One-way Tickets
+For certain itineraries, you are able to purchase two one-way tickets on our Channels rather than a round-trip ticket. If you do so, you will be making two separate bookings, which may contain two separate and different Supplier Terms (for example, for baggage fees, change fees, and refunds). Any changes to one of your bookings (whether made by you or by the Supplier) will not affect the other (for example, if your initial flight is cancelled by either you or the airline, the other airline with which you booked your return flight is not obligated to issue a refund or change your itinerary).
+6.1.2.5
+Code Share
+Some airlines enter into "code share" agreements with a limited number of select airline partners. This means that on certain routes, the airline carrier selling or marketing the flight does not fly its own aircraft to the destination. Instead, it contracts with a partner airline to fly to that destination. The partner airline is listed as "operated by." In most cases you will check in with your "operating" carrier; however, you should verify your flight check-in location with your ticketing carrier. If your flight is a code share, it will be disclosed to you in the booking process and prior to your payment on a price disclosed, retail airline ticket. If your Express Deals® itinerary contains a code share, it will be disclosed to you when your booking is confirmed, along with other itinerary information.
+6.1.2.6
+Hazardous Materials
+Federal law forbids the carriage of hazardous materials aboard aircraft in your luggage or on your person. A violation can result in imprisonment and penalties. See
+https://www.faa.gov/hazmat
+for more information about what constitutes hazardous materials, and what can be packed in your carry-on and checked baggage.
+6.1.2.7
+Canadian Passengers
+If you are denied boarding or your baggage is lost or damaged, you may be entitled to certain standards of treatment and compensation under the
+Air Passenger Protection Regulations
+. For more information about your passenger rights please contact your air carrier or visit the Canadian Transportation Agency’s website.
+6.1.3
+Information and Identification
+6.1.3.1
+Information Required by The Transportation Security Administration (“TSA”)
+The TSA of the U.S. Department of Homeland Security requires us to collect information from you for purposes of watch list screening, under the authority of 49 U.S.C. section 114, and the Intelligence Reform and Terrorism Prevention Act of 2004. TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice. For more on TSA Privacy policies, or to view the system of records notice and privacy impact assessment, please see TSA's Web site at
+www.tsa.gov
+.
+6.1.3.2
+TSA Real ID Requirements
+It is your responsibility to ensure that you have obtained any necessary identification for your travel, and that will be accepted by airport security. For Transportation Security Administration “Real ID” requirements, go to
+https://www.tsa.gov/real-id
+.
+6.2
+Accommodations
+Your agreement for accommodation Services booked through our Channel is between you and the relevant accommodation Supplier. Supplier Terms apply, and may include cancellation and no-show policies (“
+Booking Conditions
+”) as well as additional terms and conditions for services or products offered by the Supplier. Please review the Supplier Terms and Booking Conditions before completing your booking. General cancellation and no-show policies are available on our Site, during the booking process, and in your confirmation email. Certain rates or special offers may be non-cancellable, non-changeable, or non-refundable. Please check the Booking Conditions and room details carefully before making your reservation.
+6.2.1
+Mandatory Fees (Accommodations)
+An accommodation Supplier may charge mandatory fees in addition to the room rate. These fees are set and determined by the accommodation Supplier, and Priceline displays these fees based on the information provided by the accommodation Supplier. The accommodation Supplier may change its fees from time to time, and in some cases may impose additional fees at check-in or check-out that were not disclosed to Priceline in advance. Priceline is not responsible for the accuracy of fee information provided by accommodation Suppliers.
+Mandatory fees may vary by property and location, and may include, without limitation: resort or destination fees, facility or amenity fees, service or housekeeping fees, tourism or city-imposed charges, or other locally mandated property charges. Please contact the accommodation Supplier if you have questions.
+Where required by law, such as the U.S. Federal Trade Commissions “all-in-pricing” rule, any mandatory fees charged by Priceline or the accommodation Supplier will be included in the total advertised price of the room. If you are charged mandatory fees at the accommodation that were not correctly displayed to you during booking, you may raise such issues with Priceline, and we will assist in addressing them with the Supplier at our discretion.
+6.2.2
+Incidental Fees and Deposit
+Accommodation Suppliers may also impose incidental fees for optional services, such as parking, pet fees, minibar use, phone calls, room service, and movie rentals. These incidental fees, if applicable, will be payable by you to the accommodation Supplier. The accommodation Supplier may require you to present a valid credit or debit card at check-in to secure a deposit (or hold). This deposit is determined by the accommodation Supplier and may be used to cover incidental charges during your stay or to address damage, loss, or unpaid amounts. This deposit may be taken as a temporary hold or charge on your card, depending on the accommodation Supplier’s policies, and is separate from the room rate, taxes, and mandatory fees disclosed at the time of booking. The release of any hold or refund of any deposit is the responsibility of the accommodation Supplier and is subject to its own timelines and Supplier Terms. Please contact the accommodation Supplier directly for more information about incidental fees and deposits.
+6.2.3
+Information and Identification
+Bookings made through the Channels may not earn hotel loyalty points or qualify for upgrades, discounts or other incentives offered by the accommodation Supplier.
+You acknowledge and agree that accommodations are owned, controlled, and/or operated solely by the applicable accommodation Supplier. Priceline does not manage, oversee, or guarantee the quality, safety, suitability, availability, or performance of any accommodation or related services. All obligations, facilities, amenities, and practices at the property are the responsibility of the accommodation Supplier.
+If you experience any issue at the accommodation, including but not limited to service quality, room condition, safety, amenities, or additional charges, your recourse is directly with the accommodation Supplier. Priceline is not liable for, and expressly disclaims all responsibility in connection with any acts, omissions, errors, representations, warranties, breaches or negligence of any accommodation Supplier or for any personal injuries, death, property damage, or other loss arising from or related to the services provided by such Supplier.
+6.2.4
+Other Accommodations Practices and Restrictions
+Bookings made through the Channels may not earn hotel loyalty points or qualify for upgrades, discounts or other incentives offered by the accommodation Supplier.
+You acknowledge and agree that accommodations are owned, controlled, and/or operated solely by the applicable accommodation Supplier. Priceline does not manage, oversee, or guarantee the quality, safety, suitability, availability, or performance of any accommodation or related services. All obligations, facilities, amenities, and practices at the property are the responsibility of the accommodation Supplier.
+If you experience any issue at the accommodation, including but not limited to service quality, room condition, safety, amenities, or additional charges, your recourse is directly with the accommodation Supplier. Priceline is not liable for, and expressly disclaims all responsibility in connection with any acts, omissions, errors, representations, warranties, breaches or negligence of any accommodation Supplier or for any personal injuries, death, property damage, or other loss arising from or related to the services provided by such Supplier.
+6.2.5
+Star Ratings
+Priceline's proprietary star rating system is provided for your reference and is our internal rating system. Like other accommodation rating systems, Priceline considers a number of factors, such as amenities, facilities, reputation, brand, other rating services, or feedback from guests who have stayed at the accommodation, to assign a star rating to an accommodation Supplier. We do not guarantee or represent that our star rating system is equal to or consistent with any other star rating systems, and we reserve the right to change an accommodation Supplier's rating at any time with or without notice. Priceline makes no guarantees or representations about the facilities, amenities, services, quality, comfort, or any other features of any accommodations based on star ratings.
+6.2.6
+Star Ratings
+Priceline's proprietary star rating system is provided for your reference and is our internal rating system. Like other accommodation rating systems, Priceline considers a number of factors, such as amenities, facilities, reputation, brand, other rating services, or feedback from guests who have stayed at the accommodation, to assign a star rating to an accommodation Supplier. We do not guarantee or represent that our star rating system is equal to or consistent with any other star rating systems, and we reserve the right to change an accommodation Supplier's rating at any time with or without notice. Priceline makes no guarantees or representations about the facilities, amenities, services, quality, comfort, or any other features of any accommodations based on star ratings.
+6.2.6
+Special Requests
+Room type, bed type, number of beds, and room assignments are subject to availability and the accommodation Supplier’s discretion under the applicable Supplier Terms. Some accommodations may charge an additional amount for extra occupancy. For properties that allow smoking, we cannot guarantee a non-smoking room. Special requests (such as room location, amenities, or accessibility needs) must be made directly with the accommodation Supplier. Priceline cannot guarantee that special requests will be honored by the accommodation Supplier.
+6.2.7
+Late Arrival and Failure to Check-in on First Night
+If you will be delayed or unable to check in on your scheduled arrival date, you must contact the accommodation Supplier directly. Failure to check-in on the day of your reservation without notifying the accommodation Supplier may result in the cancellation of your booking, and under the Supplier Terms, you may not be entitled to a refund.
+6.2.8
+Flexible Cancellation Rates
+Certain accommodation rates offered on our Channels are cancellable under specific conditions. The applicable cancellation terms vary by the type of room rate, and are displayed in the “Important Information” section during booking. Please review these terms carefully before completing your booking.
+Some flexible cancellation rates are offered through third-party accommodation service providers, who act as the Merchant of Record. These providers may allow cancellation of otherwise non-refundable bookings in exchange for a cancellation fee. For example, you may be able to cancel up to 24 hours prior to check-in date (local time) and receive a partial refund (e.g., 50% of the booking amount), subject to the applicable cancellation terms. In these cases, please note the following:
+Your transaction is with the third-party accommodation service provider, not Priceline;
+Any refund will be paid directly by the
+third-party accommodation service provider, typically
+within 14 days of cancellation, using the same payment method used for the original booking;
+and
+Upon cancellation, your rights in the booking transfer to the third-party accommodation service provider, who may resell or otherwise use the booking at its discretion. You will not be entitled to any proceeds or commissions from such resale or use.
+6.3
+Rental Cars
+We act as a facilitator in your rental car Booking, which is made with the rental car Supplier. Rental cars available through our Channels are subject to standard rental contracts of the car rental Suppliers, which you will enter into at the time of pick-up of a vehicle.
+6.3.1
+Pricing
+Pricing of your rental car Booking may change if you (i) pick-up or drop-off the rental car at a different date, time or location than you requested in your Booking, or (ii) for other reasons at the discretion of the rental car Supplier. Additionally, actual prices may vary depending on special requests and items purchased at the counter of rental car Suppliers.
+6.3.1.1
+Rental car Express Deals® bookings include taxes, fees, and surcharges (TFS) associated with the time and mileage (T&M) for a booking based on the timing and pick-up/drop-off of the booking.
+6.3.2
+Other Rental Practices and Prohibitions
+6.3.2.1
+Car Type / Vehicle Class
+While Suppliers strive to honor your request for car type (economy, full size, SUV etc.), your requested car type is not guaranteed to be available. Specific cars, makes and models are not guaranteed and listed car makes and models are for example only. Car fleet information including capacities is based on the latest information provided to us by the Supplier and is subject to change.
+6.3.2.2
+Special Requests (such as car seats, GPS, etc.)
+While you may request child seats and other special requests, the requests are not guaranteed and are provided at the discretion of the rental car Supplier (who may impose additional charges). If you have special requests, you must call the rental car Supplier and verify that they can meet your special requests before you make your booking. Priceline cannot guarantee that special requests will be met by the rental car Supplier.
+6.3.2.3
+Charges related to Special Requests
+If you choose to add on special requests, such as a child seat, there will be a fee for such special requests by the Supplier. Such fee is over what you paid Priceline (or the Supplier) for your rental car booking. Unless specified otherwise, fees for special requests are set, and collected (unless otherwise specified), by Suppliers. Priceline is not responsible for the accuracy of the special request fees information provided by Suppliers.
+6.3.3
+Information and Identification
+6.3.3.1
+Identification documents
+At the time of the pick up of the rental car, the driver will be required to present a valid driver's license, and a valid credit card (for security deposit and payment of car rental and ancillary charges (as applicable) in their name. A Supplier, in their discretion, may accept a debit card - subject to their right to impose additional conditions and/or requirements. The name of the driver on the rental car booking you have provided should be consistent with the name on the driver’s license and credit (or debit, if applicable) card.
+6.3.3.2
+International Driving Permit
+In some countries, rental car companies may require you to present an International Driving Permit (“
+IDP
+”) in addition to your valid driver’s license. These requirements vary by country and by Supplier. Priceline does not determine or verify whether an IDP is needed for your booking. Please review local laws and confirm with your rental car Supplier whether an IDP is required before you travel. If you do not have the required documentation, the rental provider may refuse to release the vehicle, and you may not be eligible for a refund.
+6.4
+Vacation Packages
+These Terms, as well as the following restrictions, apply to your vacation package.
+6.4.1
+Supplier terms; Cancellations/Itinerary Changes
+Supplier Terms apply to your vacation package booking. Please note that the applicable Supplier Terms that are applicable will depend on the Services you book as part of your vacation package. For example, if your vacation package includes flights, rental car and accommodation, then the applicable flights, rental car and accommodations Supplier Terms (and their changes and cancellation policies) will apply. The applicable changes and cancellation policies can, and should be, reviewed prior to check-out. Please note that even if cancellations or changes are allowed, a Supplier may charge a cancellation fee or penalty.
+6.4.2
+Breakout of Cost of Components
+Priceline is able to offer savings on vacation packages by bundling different travel Services together. We are not, therefore, able to itemize for you the cost of each of the Services that make up your vacation package.
+6.5
+Cruises
+Cruises booking services are offered through a partnership with World Travel Holdings, Inc. ("
+WTH
+"). Please note that these are sold separately to you by WTH. Priceline provides the link to the platform through which you book the cruise. When you purchase or book a cruise on our Channels, you are entering into a contract with WTH and you are subject to the WTH terms & conditions, which is accessible
+here
+.
+6.6
+Trip Protection
+Travel Insurance offered on our site is provided through a partnership with Cover Genius Insurance Services, LLC (or, in Canada, with their affiliated company, Cover Genius Canada, Inc) (collectively, “
+Cover Genius
+”) through
+Xcover.com
+. When you purchase Travel Insurance with Cover Genius in connection with one of our travel products, you are subject to their respective terms. For more information pertaining to Cover Genius or XCover Travel Protection and Rental Car Collision Damage Protection, please click
+here
+.
+6.7
+Booking services for experiences are offered through a partnership with Viator, Inc. ("
+Viator
+"). Please note that these are sold separately to you by Viator. Priceline provides the link to the platform through which you book the experience. When you purchase or book an experience on our Channels, you are entering into a contract with Viator and you are subject to the Viator terms & conditions, which is accessible
+here
+.
+7
+Pre-trip reminders for international travel
+By offering or facilitating travel to or from particular international destinations, we do not represent or warrant that travel to or from such points is advisable or without risk, and we shall not be liable for damages or losses that may result from travel to or from such destinations.
+7.1
+Passports and Visas, Hazards, and Disinsection
+It is your responsibility to ensure that you have obtained any necessary visas for your international travel, and that your passport will be accepted. You may be required to obtain a visa to transit a country, even if that country is not your final destination.
+7.2
+Hazards
+Although most travel, including to international destinations, is completed without incident, travel to certain destinations may involve greater risk than others. We encourage you to review travel prohibitions, warnings, announcements and advisories issued by your government prior to booking travel to international destinations.
+For State Department travel warnings and advisories, go to
+https://travel.state.gov/content/passports/en/alertswarnings.html
+. For foreign health requirements and dangers, go to
+www.cdc.gov/travel/
+.
+Other information relating to particular international destinations can be found at
+www.dot.gov
+;
+www.tsa.gov
+,
+www.faa.gov
+,
+https://travel.state.gov/content/passports/en/country.html
+,
+www.treas.gov/ofac
+, or
+www.cbp.gov
+.
+7.3
+Disinsection
+Although not commonly used, disinsection is permitted under international law in order to protect public health, agriculture and the environment. The World Health Organization and the International Civil Aviation Organization stipulate two approaches for aircraft disinsection - either spray the aircraft cabin with an aerosolized insecticide while passengers are on board or treat the aircraft's interior surfaces with a residual insecticide (residual method) while passengers are not on board. For more information about disinsection or to review a list of airline contacts for disinsection and a list of countries that require disinsection, please visit the Department of Transportation website at
+https://www.transportation.gov/
+airconsumer/spray
+8
+User Comments, Feedback, and Other Submissions
+8.1
+Certain portions of the Site may permit you to submit, post, transmit or upload content created by you, such as photographs, information, text, images, graphics, video, comments, suggestions, ideas (including product and advertising ideas), posts to blogs, social media networks, discussion forums, and/or communications with other Site users (“
+User Submissions
+”). User Submissions also include content you post on your own social media pages that you give Priceline permission to use - for example, by your posting of a hashtag that Priceline is promoting, or by your acceptance of these Terms.
+8.2
+User Submissions must comply with Section 2 of this Agreement. In addition, you agree that you will not submit any User Submission that includes material that: (a) is copyrighted, protected by trade secret, or otherwise subject to any other proprietary rights (including, without limitation, trademark rights or privacy and publicity rights) unless you are the owner of such rights or have express permission from the owner to post such material; (b) infringes upon, misappropriates, or violates the rights of any person or entity, or violates any applicable laws; (c) is unlawful, obscene, defamatory, libelous, threatening, pornographic, harassing, indecent, violent, abusive, profane, false, hateful, racially or ethnically offensive, encourages conduct that would be considered a criminal offense, gives rise to civil liability, violates any law, or is otherwise inappropriate; (d) contains advertisements or solicitations of any funds, goods, or services; (e) is a communication by a user impersonating another user; (f) contains personal information, such as messages which identify an individual’s names, telephone numbers, social security numbers, account numbers, and/or addresses; or (g) could be considered bulk unsolicited communications.
+8.3
+By submitting, transmitting, posting, uploading, modifying or otherwise providing any User Submission to Priceline via the Site, social media, or otherwise, whether solicited or unsolicited, you agree that you are granting Priceline a royalty-free, fully paid, non-exclusive, irrevocable, perpetual, unrestricted, worldwide, sub-licensable, transferable license to use, copy, reproduce, broadcast, publish, print, transmit, perform, display, create derivative works from, translate, adapt, modify, distribute, exhibit, disseminate and otherwise exploit (collectively, "
+Use
+") such User Submission for any purpose, including, without limitation, for advertising, marketing and promotional purposes, in any media, now or hereafter known, even if this Agreement is later modified or terminated.
+8.4
+No credit, approval or compensation is due to you for any such Use of any User Submission. Subject to the terms of our
+Privacy Policy
+, Priceline shall also have the right, but not the obligation, to use your username, real name, image, likeness, caption, location information, and/or other identifying information in connection with the Use of User Submissions.
+8.5
+You represent and warrant that the Use of the User Submission by Priceline will not infringe upon, misappropriate or violate the intellectual property, privacy, publicity, statutory, contractual, personal or other rights of any person or entity, or violate any applicable law. You agree to obtain all necessary rights for the Use by Priceline of User Submission, including without limitation, written releases of all rights of privacy and publicity from all individuals included in any way in a User Submission.
+8.6
+Priceline reserves the right to monitor, review, alter, edit, refuse to post, or remove any User Submission. You agree that Priceline does not have any obligation to use or respond to any User Submission. Priceline has no control over whether User Submissions are of a nature that you might find offensive, distasteful or otherwise unacceptable and, accordingly, Priceline expressly disclaims any and all responsibility for User Submissions.
+8.7
+Priceline will fully cooperate with any law enforcement authorities or court order requesting or directing Priceline to disclose the identity of anyone posting User Submissions that violate these Terms and Conditions or any law or regulation. Priceline may also disclose such information if it has a good faith belief that such disclosure is reasonably necessary to protect the rights, property, or personal safety of Priceline, its customers, the Covered Parties, or the public.
+8.8
+By submitting a User Submission, you acknowledge that any personal data supplied by you may be used by Priceline or its agents for sending commercial marketing and communication emails to you. Priceline may also share any such personal data with third-parties for the purpose of commercial marketing and communications. You hereby consent to such use. You have the right to access, modify and request the destruction of your personal data at any time by sending a request to Priceline; and you have the right to opt out from receiving such marketing and communication at any time by sending a message to Priceline.
+8.9
+You agree to defend and indemnify Priceline and any Covered Parties that are involved in creating, sponsoring, promoting, or otherwise making available the Site and its Content from and against any claims, causes of action, demands, recoveries, losses, damages, fines, penalties, or other costs or expenses of any kind or nature (including, but not limited to reasonable legal and accounting fees) that result from any User Submission that you made or any Use of a User Submission by Priceline.
+9
+Other legal terms
+9.1
+Disclaimer
+All content, information and Supplier inventory contained within or available through the Channels, including information provided by Penny, are provided to you on an "as-is" basis. Priceline makes no representations or warranties of any kind (whether express, implied or otherwise), as to the operation of the Channels, Penny, or the information, content, Supplier inventory or materials included on the Channels or generated by Penny. To the fullest extent permissible under applicable law, Priceline disclaims all representations and warranties, including, but not limited to, the implied warranties of merchantability or satisfactory workmanlike effort, informational content, title, or non-infringement of the rights of third-parties. Priceline does not warrant or make any representations that the Channels or Penny will operate error-free, securely or uninterrupted, that defects will be corrected, or that the Channels, Penny and/or its servers (if any) will be free of viruses and/or other harmful components.
+Priceline does not warrant or make any representations regarding suitability, availability, accuracy, reliability, completeness, or timeliness of any material of any kind contained within the Channels or generated by Penny for any purpose, including software, products, services, information, text and related graphics content.
+Without limiting the foregoing, no warranties or guarantees are made (i) regarding the acceptance of any bookings, (ii) that you will receive the lowest available price for Services available through the Channels, (iii) regarding the availability of products and/or services through the Channels (or, where applicable, at the relevant Suppliers’ locations), (iv) regarding the results that may be obtained from the use of the Channels or Penny, or (v) regarding how Penny operates or that Penny will function as intended.
+9.2
+Copyrights and Trademarks
+9.2.1
+Copyrights and Trademark notice
+The content on the Channels is protected under United States and international laws, including trademark and copyright laws. The content on the Channels, including without limitation, the information, written content (including text), software, code, photographs, videos, typefaces, graphics, music, sounds, images, illustrations, maps, lodging star rating system, designs, icons, trademarks, service marks, logos, the arrangement and compilation of such content and the infrastructure used to provide such content (collectively, “
+Content
+”), are proprietary to and owned by Priceline, its corporate affiliates, and/or the Suppliers. Specifically, trademarks, service marks, and logos, within the meaning of Content includes, but is not limited to, the following trademarks and service marks, and registered trademarks and service marks, owned by Priceline: PRICELINE, PRICELINE.COM, EXPRESS DEALS, EXPRESS DEALS UNWRAPPED, PRICELINE NEGOTIATOR, THE NEGOTIATOR, PRICEBREAKER, PAY WHEN YOU STAY, TONIGHT ONLY DEALS, PRICELINE REWARDS, PRICELINE.COM REWARDS, LATE NIGHT RATE, and the “P” Logo. Some trademarks, service marks and other company designations on the Channels may belong to third-parties or Suppliers and are used on the Channels under license or for identification purposes only. The use of marks on the Channels that belong to third-parties, and the availability on the Channels of Services from Suppliers, should not be construed as an affiliation, endorsement or sponsorship of the Channels and its services by any such third-party or Supplier.
+9.2.2
+Claims of Copyright infringement
+9.2.2.1
+Priceline respects the intellectual property rights of others and asks that you do the same. If you believe in good faith that material or content on the Site infringes your copyrighted work, you (or your agent) may send us a written notice under the Digital Millennium Copyright Act that includes the following information:
+A clear identification of the copyrighted work that you claim has been infringed.
+A clear identification of the material you claim infringes the copyrighted work, and information that will allow us to locate that material on the Site, such as a link to the infringing material.
+Your contact information so that we can reply to your complaint, preferably including an email address and telephone number.
+A statement that you have a "good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law."
+A statement that "the information in the notification is accurate, and under penalty of perjury, the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed."
+The written notice must be signed by the person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+9.2.2.2
+Priceline respects the intellectual property rights of others and asks that you do the same. If you believe in good faith that material or content on the Site infringes your copyrighted work, you (or your agent) may send us a written notice under the Digital Millennium Copyright Act that includes the following information:
+9.2.2.3
+We will not process your notice if it is incomplete. Priceline reserves the right to remove content on the Site alleged to be infringing without prior notice, at its sole discretion. You may wish to seek legal counsel prior to submitting a copyright infringement notification. You could be held liable for alleging false claims of copyright infringement.
+9.2.2.3
+We will not process your notice if it is incomplete. Priceline reserves the right to remove content on the Site alleged to be infringing without prior notice, at its sole discretion. You may wish to seek legal counsel prior to submitting a copyright infringement notification. You could be held liable for alleging false claims of copyright infringement.
+9.3
+We will not process your notice if it is incomplete. Priceline reserves the right to remove content on the Site alleged to be infringing without prior notice, at its sole discretion. You may wish to seek legal counsel prior to submitting a copyright infringement notification. You could be held liable for alleging false claims of copyright infringement.
+9.4
+No Agency Relationship
+Priceline does not agree to act as your agent or fiduciary in providing services through the Channels.
+9.5
+Applicability of Supplier Terms
+You agree to abide by the terms or conditions of purchase imposed by any Supplier, whether that Supplier is selected by you or by Priceline, including, but not limited to, payment of all amounts when due and compliance with the Supplier's rules and restrictions regarding availability and use of rates, fares, products, or services. You understand that any violation of any such Supplier's conditions of purchase or terms may result in cancellation of your booking, in your being denied access to any flights, hotels, or rental vehicles, in your forfeiting any monies paid for such booking, and in us debiting your account for any costs we incur as a result of such violation. You shall be completely responsible for all charges, fees, duties, taxes, and assessments arising out of the use of the Channels.
+9.6
+Damages
+You agree that we will not be liable for any injury, loss, claim, damage, or any special, exemplary, punitive, indirect, incidental or consequential damages of any kind, which arises out of or is in any way connected with the performance or non-performance of any Supplier. In the event of non performance resulting from bankruptcy, reorganization, insolvency, dissolution or liquidation of a Supplier, you agree that your sole recourse shall be toward such Supplier and not toward us.
+9.7
+Accessibility
+We strive to display accurate accessibility information provided by Suppliers, but we do not independently verify every feature. For accurate and up-to-date information about available accessibility features or services, please contact the relevant Supplier directly.
+9.8
+General Limitation of Liability
+9.8.1
+To the extent permitted by law, in no event shall Priceline, including its respective officers, directors, employees, representatives, parents, subsidiaries, affiliates, distributors, Suppliers, licensors, agents or others involved in creating, sponsoring, promoting, or otherwise making available the Site and its contents (each a “Covered Party” and collectively "Covered Parties"), be liable to any person or entity for any direct, indirect, incidental, special, exemplary, compensatory, consequential, or punitive damages or any damages whatsoever, other than through the procedure set forth in Section 10 below,
+including but not limited to: (i) loss of goodwill, profits, business interruption, data or other intangible losses; (ii) your inability to use, unauthorized use of, performance or non-performance of the Channels; (iii) unauthorized access to or tampering with your personal information or transmissions; (iv) the provision or failure to provide any service; (v) errors or inaccuracies contained on the Channels or any information, software, products, services, and related graphics obtained through the Channels; (vi) any transactions entered into through the Channels; (vii) any property damage including damage to your computer or computer system caused by viruses or other harmful components, during or on account of access to or use of the Channels or any site to which it provides hyperlinks; or (viii) damages otherwise arising out of the use of the Channels, any delay or inability to use the site, or any information, products, or services obtained through the Channels. The limitations of liability shall apply regardless of the form of action, whether based on contract, tort, negligence, strict liability or otherwise, even if a Covered Party has been advised of the possibility of damages.
+9.8.2
+Suppliers are independent contractors and not agents or employees of the Covered Parties. To the extent permitted by law, the Covered Parties do not assume liability or for any injury, damage, death, loss, accident or delay due to an act or omission of a Supplier and do not accept responsibility for any damage and/or delay due to sickness, pilferage, labor disputes, bankruptcy, machinery breakdown, quarantine, government restraints, weather, terrorism or causes beyond the Covered Parties' control.
+9.8.3
+No Covered Party shall be responsible for any Supplier's breach of warranty, nor for any other wrongdoing of a Supplier (including any liability in tort), as to any products and/or services available through the Channels. No Covered Party shall be responsible for any Supplier's failure to comply with these Terms or with applicable federal, state, provincial and local law.
+9.8.4
+To the extent not prohibited by law, if, notwithstanding the above, a Covered Party is found liable for any loss or damage relating to the use of the Channels, you agree that the liability of any such party shall in no event exceed the total charge to the you assessed by Priceline for making the relevant booking.
+9.9
+Indemnity
+You agree to defend and indemnify Priceline and the Covered Parties from and against any claims, causes of action, demands, recoveries, losses, damages, fines, penalties or other costs or expenses of any kind or nature including but not limited to reasonable legal and accounting fees, brought (i) by you or on behalf of you in excess of the liability described above; or (ii) by third-parties as a result of:
+10
+Privacy Policy
+Your privacy is very important to us. Please read our
+Privacy Policy
+, which governs your use of this Site. By using our Channels, you agree that the terms of the
+Privacy Policy
+are reasonable and satisfactory to you. You consent to the use of your personal information by Priceline and/or certain other third-parties (including its Suppliers) in accordance with the terms of this
+Privacy Policy
+and, if applicable, the terms of those third-parties’ privacy policies.
+10.1
+Internal Dispute Resolution.
+You agree to give us an opportunity to resolve any problem, dispute, or claim relating in any way to your relationship with us; the Channels and/or any of its related applications or services; any dealings with Priceline, including with our marketing and customer service agents; the purchase, use, or performance of any services or products available through the Channels; any representations made by Priceline; or our
+Privacy Policy
+(each a “
+Claim
+,” and collectively, “
+Claims
+”) by providing Notice to Customer Support (“
+Internal Dispute Resolution
+”). Unless prohibited by applicable law, any Claim must be brought within two (2) years from the date on which such Claim arose or accrued. If we are unable to resolve your Claim within 60 days of receipt pursuant to this Agreement, you may seek relief through arbitration or small claims court, as set forth below. This informal process is a condition precedent to your ability to initiate a claim in arbitration or small claims court.
+10.2
+Applicable Law
+. This Agreement shall be governed by the laws of the State of Connecticut, United States of America, without regard to conflict of laws. All Claims or other matters in dispute between you or any Third- party and Priceline, its subsidiaries or affiliates, or any travel service providers or companies offering products or services through the Site, whether based upon contract, tort, statute, or otherwise, shall be governed by the laws of the State of Connecticut, without regard to conflict of laws provisions that would result in the application of the laws of any other jurisdiction.
+10.3
+Mandatory Arbitration
+FOR U.S. CUSTOMERS AND OTHERS TO THE EXTENT PERMITTED UNDER LAW, THIS SECTION INCLUDES AN AGREEMENT TO ARBITRATE WHICH REQUIRES, WITH LIMITED EXCEPTIONS, THAT ALL DISPUTES BETWEEN YOU AND US NOT RESOLVED IN THE ABOVE MANNER WILL BE RESOLVED BY BINDING AND FINAL ARBITRATION OR IN SMALL CLAIMS COURT. THIS SECTION ALSO CONTAINS A CLASS ACTION AND JURY TRIAL WAIVER. PLEASE READ THIS SECTION CAREFULLY.
+UNLESS YOU OPT OUT OF THE AGREEMENT TO ARBITRATE WITHIN 30 DAYS: (1) YOU WILL ONLY BE PERMITTED TO PURSUE DISPUTES OR CLAIMS AND SEEK RELIEF AGAINST US THROUGH BINDING, FINAL ARBITRATION, WITH LIMITED EXCEPTIONS, AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR OTHER REPRESENTATIVE PROCEEDING OR CLASS-WIDE ARBITRATION; AND (2) YOU ARE WAIVING YOUR RIGHT TO PURSUE DISPUTES OR CLAIMS AND SEEK RELIEF IN A COURT OF LAW AND TO HAVE A JURY TRIAL.
+10.3.1
+Applicability of Arbitration Agreement.
+Subject to the terms of this Arbitration Agreement, you and Priceline agree that any disagreement, controversy, or claim arising out of or relating in any way to your relationship with Priceline, access to or use of the Site, any communications you receive from Priceline, any service and/or products sold or distributed through the Site, the Channels, or the Services, or these Terms and prior versions of the Terms (each, a “
+Dispute
+”) will be resolved by binding arbitration, rather than in court, except that: (1) you and Priceline may assert claims or seek relief in small claims court if such claims qualify and remain in small claims court; and (2) you or Priceline may seek equitable relief in court for infringement or other misuse of intellectual property rights (such as trademarks, trade dress, domain names, trade secrets, copyrights, and patents). For purposes of this Arbitration Agreement, “Dispute” will also include disputes that were not noticed or that involve facts occurring before the existence of this or any prior versions of the Terms as well as claims that may arise after the termination of these Terms.
+10.3.2
+Waiver of Jury Trial. YOU AND PRICELINE HEREBY WAIVE ANY CONSTITUTIONAL AND STATUTORY RIGHTS TO SUE IN COURT AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY.
+You and Priceline are instead electing that all Disputes shall be resolved by arbitration under this Arbitration Agreement, except as specified within this section. There is no judge or jury in arbitration, and court review of an arbitration award is subject to very limited review.
+10.3.3
+Waiver of Class and Other Non-Individualized Relief. EACH OF US MAY BRING CLAIMS AGAINST THE OTHER ONLY ON AN INDIVIDUAL BASIS AND NOT ON A CLASS, REPRESENTATIVE, OR COLLECTIVE BASIS, AND THE PARTIES HEREBY WAIVE ALL RIGHTS TO HAVE ANY DISPUTE BE BROUGHT, HEARD, ADMINISTERED, RESOLVED, OR ARBITRATED ON A CLASS, COLLECTIVE, OR REPRESENTATIVE BASIS. ONLY INDIVIDUAL RELIEF IS AVAILABLE
+.
+Subject to this Arbitration Agreement, the arbitrator may award declaratory or injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by the party's individual claim. Nothing in this paragraph is intended to, nor shall affect the terms and conditions under Subsection 10.3.8 entitled “
+Batch Arbitration
+.” Notwithstanding anything to the contrary in this Arbitration Agreement, if a final decision, not subject to any further appeal or recourse, determines that the limitations of this subsection, “Waiver of Class and Other Non-Individualized Relief,” are invalid or unenforceable as to a particular claim or request for relief (such as a request for public injunctive relief), you and Priceline agree that the particular claim or request for relief (and only that particular claim or request for relief) shall be severed from the arbitration and may be litigated in the state or federal courts located in the State of Connecticut. All other Disputes shall be arbitrated or litigated in small claims court. This subsection does not prevent you or Priceline from participating in a class-wide or mass settlement of claims.
+10.3.4
+Rules and Forum.
+The Terms evidence a transaction involving interstate commerce; and notwithstanding any other provision herein with respect to the applicable substantive law, the Federal Arbitration Act, 9 U.S.C. § 1
+et seq.
+, will govern the interpretation and enforcement of this Arbitration Agreement, including the procedures governing Batch Arbitration, and any arbitration. If Informal Dispute Resolution does not resolve satisfactorily within sixty (60) days after receipt of a Notice, you and Priceline agree that either party shall have the right to finally resolve the Dispute through binding arbitration.
+The arbitration will be administered by the American Arbitration Association ("
+AAA
+") and conducted before a single arbitrator pursuant to the then applicable Rules and Procedures established by AAA ("
+Rules and Procedures
+") and including the Mass Arbitration Supplementary Rules, except that, pursuant to Subsection 10.3.8 below, under no circumstances may any claim be brought or arbitrated as a class action or proceed on a basis involving claims brought on a purported representative capacity (either on behalf of the general public or other users or persons, except that the arbitrator shall have the authority to award public injunctive relief where applicable).
+A party who wishes to initiate arbitration must provide the other party with a request for arbitration (“
+Request
+”) that must include: (1) the name, telephone number, mailing address, “
+e-mail address
+” of the party seeking arbitration, and the account username (if applicable), as well as the email address associated with any applicable account; (2) a statement of the legal claims being asserted and the factual bases of those claims; (3) a description of the remedy sought and an accurate, “
+good-faith
+” calculation of the amount in controversy in United States Dollars; (4) a statement certifying completion of the Informal Dispute Resolution process as described above; and (5) evidence that the requesting party has paid any necessary filing fees in connection with such arbitration. Any Request you send to Priceline should be sent by email to legal@priceline.com or regular mail to our offices at Legal Department, Priceline.com LLC, 800 Connecticut Avenue, Norwalk, CT 06854 USA. Priceline will provide the Request to your email or regular address on file.
+If the party requesting arbitration is represented by counsel, the Request shall also include counsel’s name, telephone number, mailing address, and email address. Such counsel must also sign the Request, certifying to the best of counsel’s knowledge, information, and belief, formed after an inquiry reasonable under the circumstances, that, consistent with the standards set forth in Federal Rule of Civil Procedure 11(b): (1) the Request is not being presented for any improper purpose,; (2) the claims, defenses and other legal contentions are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law; and (3) the factual and damages contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after a reasonable opportunity for further investigation or discovery (“
+Counsel’s Certification
+”).
+You and Priceline agree that all materials and documents exchanged during the arbitration proceedings shall be kept confidential and shall not be shared with anyone except the parties’ attorneys, accountants, or business advisors, and then subject to the condition that they agree to keep all materials and documents exchanged during the arbitration proceedings confidential.
+You and Priceline agree that at least 14 days before the date set for an arbitration hearing, any party may serve an offer in writing upon the other party to allow judgment on specified terms. If the offer made by one party is not accepted by the other party, and the other party fails to obtain a more favorable award, the other party shall not reco
+10.3.5
+Arbitrator.
+The arbitrator will be either a retired judge or an attorney licensed to practice law in the state of Connecticut, and will be selected by the parties from the AAA's National Roster of Arbitrators. If the parties are unable to agree upon an arbitrator within thirty (30) days of delivery of the Request, then the AAA will send simultaneously to each party an identical list of 10 candidates from the National Roster and the parties shall each have fourteen (14) days to strike no more than three names from the list, number the remaining names in order of preference, and return the list to the AAA. From among the candidates not stricken, the arbitrator with the highest preference from both parties’ lists will be invited to serve.
+10.3.6
+Authority of Arbitrator.
+The arbitrator shall have exclusive authority to resolve any Dispute, including, without limitation, disputes regarding the interpretation or application of the Arbitration Agreement, including the enforceability, revocability, scope, or validity of the Arbitration Agreement or any portion of the Arbitration Agreement, except that all Disputes regarding the subsection entitled “Waiver of Class and Other Non-Individualized Relief,” including any claim that all or part of the subsection entitled “Waiver of Class and Other Non-Individualized Relief” is unenforceable, illegal, void or voidable, or that such subsection entitled “Waiver of Class and Other Non-Individualized Relief” has been breached, shall be decided by a court of competent jurisdiction and not by an arbitrator. The arbitrator shall have the authority to grant motions dispositive of all or part of any Dispute. The arbitrator shall issue a written award and statement of decision describing the essential findings and conclusions on which the award is based, including the calculation of any damages awarded. The award of the arbitrator is final and binding upon you and us. Judgment on the arbitration award may be entered in any court having jurisdiction.
+10.3.7
+Attorneys’ Fees and Costs.
+The parties shall bear their own attorneys’ fees and costs in arbitration unless the arbitrator finds that either the substance of the Dispute or the relief sought in the Request was frivolous or was brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)). To the extent, following a presentation on the merits, on its own motion or a party’s, and after affording a reasonable opportunity to respond, an arbitrator determines that a party who commenced arbitration did not bring its claim(s) consistent with Counsel’s Certification and the standards set forth in Federal Rule of Civil Procedure 11(b), the arbitrator shall, as part of its award, impose sanctions by ordering that the initiating party reimburse the responding party for all arbitration costs and arbitrators’ fees the responding party incurred under the Fee Schedules.
+10.3.8
+Batch Arbitration.
+To increase the efficiency of administration and resolution of arbitrations, you and Priceline agree that in the event that there are twenty-five (25) or more individual Requests of a substantially similar nature filed against Priceline by or with the assistance of the same law firm, group of law firms, or organizations (“
+Claimants’ Counsel
+”), within a ninety (90) day period, the arbitration shall be administered by the following (1) in batches of 100 Requests per batch (or, if between twenty-five (25) and ninety-nine (99) individual Requests are filed, a single batch of all those Requests, and, to the extent there are fewer than 100 Requests remaining after the batching described above, a final batch consisting of the remaining Requests); (2) appoint one arbitrator for each batch; and (3) provide for the resolution of each batch on a consolidated basis with one set of filing and administrative fees due per side per batch, one procedural calendar, one hearing (if any) in a place to be selected by the arbitrator, and one final award (“
+Batch Arbitration
+”). The AAA shall administer all batches concurrently, to the extent possible.
+All parties agree that Requests are of a “substantially similar nature” if they arise out of or relate to the same event or factual scenario and raise the same or similar legal issue(s) and seek the same or similar relief. To the extent the parties disagree on the application of the Batch Arbitration process, the disagreeing party shall rely on an AAA Process Arbitrator to determine the applicability of the Batch Arbitration process.
+This Batch Arbitration provision shall in no way be interpreted as authorizing or creating a class, collective, and/or representative arbitration or action of any kind, except as expressly set forth in this provision, and nothing about the Batch Arbitration process will preclude any party from participating in any arbitration administered according to that process.
+10.3.9
+Invalidity, Expiration.
+Except as provided in the subsection entitled “Waiver of Class or Other Non-Individualized Relief,” if any part or parts of this Arbitration Agreement (other than Subsection 10.3.8) are found under the law to be invalid or unenforceable, then such specific part or parts shall be of no force and effect and shall be severed, and the remainder of the Arbitration Agreement shall continue in full force and effect. However, if Subsection 10.3.8 of this Arbitration Agreement is found under the law to be invalid or unenforceable then, in that case, the entire Arbitration Agreement shall be void, and the parties agree that all Disputes will be heard in the state or federal courts located in Connecticut. You further agree that any Dispute that you have with Priceline as detailed in this Arbitration Agreement must be initiated within the applicable statute of limitation for that claim or controversy, or it will be forever time barred. Likewise, you agree that all applicable statutes of limitation will apply to such arbitration in the same manner as those statutes of limitation would apply in the applicable court of competent jurisdiction.
+10.3.10
+30-Day Right to Opt Out.
+You have the right to opt out of the provisions of this Arbitration Agreement by sending written notice of your decision to opt out by email to legal@priceline.com or regular mail to our offices at Legal Department, Priceline.com LLC, 800 Connecticut Avenue, Norwalk, CT 06854 USA, within thirty (30) days after first becoming subject to this Arbitration Agreement. This will be the earliest of (a) the date you first used our Sites; (b) the date you first used our Services; (c) the date you created an account on Priceline. Your notice must include your name and address, the email address you used to set up your Priceline account (if you have one), and an unequivocal statement that you want to opt out of this Arbitration Agreement. If you opt out of this Arbitration Agreement, all other parts of these Terms will continue to apply to you. Opting out of this Arbitration Agreement has no effect on any arbitration agreements that you may currently have with us, including any previous versions of this Arbitration Agreement to which you agreed, and has no effect on any arbitration agreements with us you may enter in the future.
+10.3.11
+Modification.
+You and we agree that Priceline retains the right to modify this Arbitration Clause in the future. Any such changes will be posted at the Terms and Conditions section on
+www.priceline.com
+, and you should check for updates regularly.
+Notwithstanding any provision in these Terms to the contrary, we agree that if Priceline makes any future material change to this Arbitration Agreement, it will notify you. Your continued use of the Site and/or Priceline services, including the acceptance of products and services offered on the Site following the posting of changes to this Arbitration Agreement, constitutes your acceptance of any such changes. If you have previously agreed to a version of these Terms with an arbitration agreement and you did not validly opt out of arbitration, changes to this Arbitration Agreement do not provide you with a new opportunity to opt out of arbitration. Priceline will continue to honor any valid opt-outs of the Arbitration Agreement that you made to a prior version of these Terms.
+10.3.12
+Governing Courts
+. To the extent that the Dispute is not covered by any arbitration agreement between you and us, it shall proceed before the state or federal courts located in Connecticut (except for small claims court actions which may be brought in the county where you reside).
+11
+Miscellaneous & Registrations
+11.1
+Severability
+. In the event that any provision of this Agreement is determined to be unenforceable or invalid, such provision shall nonetheless be enforced to the fullest extent permitted by applicable law, and such determination shall not affect the validity and enforceability of any other remaining provisions.
+11.2
+Registrations and Other Disclosures
+Priceline.com is a registered seller of travel in each of the following states:
+California Registration No. CST 2040530-50.
+Florida Registration No. ST-32150.
+Washington Registration No. 603-390-829
+Hawaii Registration No. TAR 7559
+Registration as a Seller of Travel in California does not constitute the state’s approval.
+Click
+here
+to see New York City Dept of Finance Certificate of Authority occupancy tax form.

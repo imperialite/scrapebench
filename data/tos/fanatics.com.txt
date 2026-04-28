@@ -1,0 +1,476 @@
+Terms of Service – Fanatics Sportsbook Virginia 
+
+To view and/or print a PDF version of these Terms of Service for Fanatics Sportsbook Virginia, please click here.
+
+Last updated as of March 19, 2025. 
+
+PLEASE READ THESE TERMS OF SERVICE CAREFULLY.
+
+THESE TERMS OF SERVICE INCLUDE A MANDATORY ARBITRATION PROVISION WHICH SETS FORTH HOW DISPUTES BETWEEN YOU AND US SHALL BE RESOLVED BY FINAL AND BINDING ARBITRATION ON AN INDIVIDUAL AND NOT A CLASS-WIDE OR CONSOLIDATED BASIS AND HOW YOU MAY OPT OUT OF THIS PROVISION. SEE SECTION 19 OF THESE TERMS OF SERVICE, BELOW.  
+
+Welcome to Fanatics Sportsbook! These Terms of Service (“the Terms” or “TOS”) form a binding contract between you (“You” or “user”) and FBG Enterprises Opco, LLC, a Delaware limited liability company, and its respective holding, subsidiary and affiliated entities, including but not limited to PointsBet Virginia LLC (“Fanatics Sportsbook,” “FBG,” “Fanatics Betting and Gaming,” “we,” “us,” or “our”).  These Terms shall govern Your access and use of the Fanatics Sportsbook sports wagering services, including but not limited to its website and mobile application (together, the “Platform”) and Your participation in any promotions, contests, offers and any other transactions or dealings with Fanatics Sportsbook in any way (collectively, including the Platform, the “Services”).
+
+You agree that Your use and access of the Services shall be governed by these Terms, the Fanatics Sportsbook Privacy Policy, the House Rules of Fanatics Sportsbook, the FanCash Program terms, and any other terms, conditions rules or policies that relate to the Services such as promotions (including but not limited to Bonuses defined below), contests, special offers or any other condition on Your use of the Services that we may provide to You (all collectively, the “Agreements”), which are incorporated herein. Your use of the Services is always subject to these Agreements, as may be modified by us, and all applicable laws, rules and regulations. Please read these Agreements carefully. If You are dissatisfied with these Agreements or any content or information accessed through the Services, Your sole and exclusive remedy is to discontinue using the Services. You agree that Your continued use or access of the Platform or Services is subject to the Agreements.
+
+You must be physically located in Virginia to place a wager using the Fanatics Sportsbook in Virginia.  If You subsequently log into the Platform from a state other than Virginia where the Platform is offered, Your activity will be governed by the Fanatics Sportsbook Terms of Service for that state and by logging in, you will agree to such terms.  Additionally, You agree that we will transfer Your entire Account (defined below in Section 2(B)) balance to the Fanatics Sportsbook of the other state so that Your funds are available for You to wager while physically present within the other state. The balance transfer will be reflected in Your Account history.  If You later login from Virginia or a different state where the Fanatics Sportsbook Platform is offered, You agree that we will transfer Your entire Account balance back to Virginia or the other state.
+
+Table of Contents
+
+1. Acceptance of Terms of Service.
+
+2.  Sports Wagers.
+
+A. Eligibility for Sports Wagering
+
+B.  Registration
+
+C.  Account Password and Security
+
+D.  User Account Funds,     Withdrawals, and Refunds
+
+E. Dormant Accounts
+
+F.  Responsible Player Behavior & Self-Exclusion
+
+G. Disqualification and Cancellation
+
+H.  Publicity License and Release
+
+I.  Placing Bets
+
+J.  Bonuses and Promotions
+
+K.  Game Statistics and Live Scoring
+
+L.  Game Results & Winnings
+
+M.  Location Technologies
+
+N.  Application License
+
+O. Taxation
+
+P. Streaming
+
+3. Offers.
+
+4. Unauthorized Use.
+
+5. FanCash.
+
+6. Links to Third Party Sites; Advertisers.
+
+7. Privacy Policy.
+
+8. Property; Intellectual Property.
+
+9. User-Generated Content.
+
+10. No Feedback Accepted.
+
+11. Termination of Access and/or Account.
+
+12. Termination and Survival.
+
+13. Indemnity.
+
+14. Disclaimer of Warranties.
+
+15. Limitation on Liability.
+
+16. Third Party Transactions.
+
+17. U.S. Export Controls.
+
+18. Governing Law and Jurisdiction.
+
+19. Arbitration Agreement
+
+A. Initial Dispute Resolution Procedure.
+
+B. Agreement to Arbitrate.
+
+C. Exceptions to Arbitration.
+
+D. Class Action Waiver.
+
+E. 30-DAY RIGHT TO OPT OUT.
+
+F.  Initiating Arbitration.
+
+G.  Batch Arbitration.
+
+H. Changes to this Section
+
+20. One Year Statute of Limitations.
+
+21. Miscellaneous.
+
+22. Contact Information.
+
+1. Acceptance of Terms of Service.
+
+By accessing and using the Services, You agree that You have read, understand and agree to be legally bound by these Terms. Subject to Section 19 below, these Terms may be amended by us in our sole discretion at any time with or without prior notice. If we materially change the Terms, we may notify You through a notice, updated Terms, postings on the Platform or by email (sent to the email address specified in Your Account, if any), prior to or upon the change becoming effective. Accordingly, when You access or use the Services, You should check the date of the Terms and be aware of any changes since the last version. The most current version of these Terms will be posted on the Platform.  Your continued use of the Services following the posting of any changes to these Terms means that You accept such changes. Your access to and use of the Services will be governed by the Terms in effect at the time of such access or use.  
+
+2.  Sports Wagers.
+
+PointsBet Virginia LLC is licensed and regulated by the Virginia Lottery Board (“Board”).  The Platform is offered in Virginia under the license held by PointsBet Virginia LLC, pursuant to the oversight, regulatory requirements, and licensing of the Board.  The use of the Platform and Services are subject to all applicable Commonwealth of Virginia and United States federal regulations.
+
+Eligibility for Sports Wagering
+
+Fanatics Sportsbook’s Services that offer the ability to participate in sports wagering, are open only to eligible users.  You must be at least twenty-one (21) years of age to open an Account with Fanatics Sportsbook.   
+
+If You plan to access the Platform or use the Services, You hereby represent and warrant that You are fully able and competent to enter into and comply with the terms, conditions, obligations, affirmations, representations and warranties set forth in the Agreements and to comply with Your own local, state, federal or other laws, rules, regulations or ordinances concerning betting and gaming whether connected with Your use of the Services or not.
+
+When You use the Platform to engage in sports wagering, You are further representing and warranting that all of the following are true:
+
+You are 21 years of age or older;
+You are a citizen or legal resident of the United States of America (“U.S.”) and You have an address in the U.S.;
+At the time of placing a sports wager, You are physically located in Virginia (or, in the event of Your use of a Fanatics Sportsbook licensed to operate in another state, that You are physically located in that state);
+You are not placing a wager as an agent or proxy;
+You are not listed on any U.S. Government list of prohibited or restricted parties;
+You are not subject to backup withholding tax because: (a) You are exempt from backup withholding, or (b) You have not been notified by the Internal Revenue Service (IRS) that You are subject to backup withholding as a result of a failure to report all interest or dividends, or (c) the IRS has notified You that You are no longer subject to backup withholding;
+You do not, by virtue of affiliation with another sports wagering site or otherwise, have access to pre-release non-public confidential data about sports wagering-related information; AND
+You are not restricted from placing a wager pursuant to Virginia law or regulation.  In Virginia, an individual may not wager on a sporting event if the individual is:
+Under the age of 21 years;
+Not physically present in the Commonwealth of Virginia;
+The Executive Director of the Virginia Lottery and any Virginia Lottery Board member, officer, or employee of the Virginia Lottery Department (“Department”);
+Any Virginia sports betting permit holder;
+Any director, officer, owner, or employee of a permit holder and any relative living in the same household as such persons with respect to wagering on the platform offered by the permit holder, but said persons shall not be prohibited from placing sports bets with other permit holders;
+Any officer or employee of any entity working directly on a contract with the Department related to sports betting; and
+Any competitor, coach, trainer, employee, or owner of a team in a professional or college sports event, or any referee for a professional or college sports event, with respect to wagering on any event in a league in which such person participates.
+
+If Fanatics Sportsbook determines that You do not meet the eligibility requirements of these Terms, then You are not authorized to access or participate in sports wagering with Fanatics Sportsbook.  Fanatics Sportsbook may require You to provide proof that You are eligible to use the Services according to this Section prior to receiving winnings from sports wagers. This includes requesting that You fill out an affidavit of eligibility or other verification information.
+
+If Fanatics Sportsbook otherwise determines that You do not meet the eligibility requirements of this Section, in addition to any rights that Fanatics Sportsbook may have, Fanatics Sportsbook reserves the right to terminate Your Account, restrict Your Account from accessing or participating in sports wagering, withhold or revoke the awarding of any winnings associated with Your Account, limit Your ability to withdraw, or take any other action that Fanatics Sportsbook deems appropriate.
+
+B.  Registration
+
+You must register for an account to use the Services and otherwise participate in sports wagering (an “Account”). The first step in the Account registration process is to create and/or enter Your Fanatics ID by providing Your email and selecting or entering a password. The second step after You create or enter Your Fanatics ID is You will be prompted to further verify your identity and create an Account to place bets. You agree to provide  true, accurate, current and complete information (“Verification Data”) about Yourself as prompted and to maintain and promptly update the Verification Data to keep it accurate, current and complete. Verification Data may include a valid mailing address, date of birth, and Social Security number, as well as any other information Fanatics Sportsbook may require to run appropriate identity checks and comply with applicable rules and regulations. If necessary, You may be required to provide appropriate documentation that allows us to verify information about You at any time, including after your Account has been registered. You consent to have FBG confirm Your age and identity.  If You provide any information that is inaccurate, not current or incomplete, or Fanatics Sportsbook has reasonable grounds to suspect that such information is inaccurate, not current or incomplete, Fanatics Sportsbook may deny You access to Services, or terminate Your Account, in its sole discretion.
+
+You may only establish, maintain, use and control one (1) Account with Fanatics Sportsbook. An Account can only be owned, maintained, used and controlled by one individual. Users may not “co-own” Accounts on the Services. Accounts are non-transferable and are solely for personal use. If Fanatics Sportsbook believes You have opened, maintained, used or controlled more than one Account or are making illegal or improper use of such Account, in addition to any other rights that Fanatics Sportsbook may have, Fanatics Sportsbook reserves the right, in its sole discretion, to suspend, limit, or terminate any or all of Your Accounts and terminate, withhold or revoke the awarding of any winnings or prizes. In such circumstances, Fanatics Sportsbook may also report such activity to relevant authorities.    
+
+C.  Account Password and Security
+
+At the time of registration for an online Account, You must provide a valid email address and password to be used with Your Account. If we enable features that allow You to create a username, You may not use an email address or username that promotes a commercial venture or which Fanatics Sportsbook in its sole discretion deems offensive or otherwise inappropriate. You are responsible for maintaining the confidentiality of Your password, and are fully responsible for all uses of Your Account, including Your Fanatics ID, username (if any) and password, whether by You or others. You agree to (a) keep Your Account, including Your Fanatics ID, username and password confidential and not to share them with anyone else; (b) immediately notify Fanatics Sportsbook of any unauthorized use of Your Account, including Your Fanatics ID, username and password or Account or any other breach of security; and (c) use only Your own Account, including Your Fanatics ID, username and password to access the areas of the Services that require same. Fanatics Sportsbook is not liable for any loss or damage arising from Your failure to comply with this Section.
+
+You acknowledge and agree that Fanatics Sportsbook is authorized to act on instructions received through the use of Your Account, including Your Fanatics ID, username (if any) and password, and that Fanatics Sportsbook may, but is not obligated to, deny access or block any transaction made through use of Your Account without prior notice if it believes that Your Account is being used by someone other than You, or for any other reason. Fanatics Sportsbook may require You to change Your Fanatics ID, username (if any), password, or may unilaterally change the same. Fanatics Sportsbook recommends that You consider the security of the passwords, refrain from using the same passwords used to access other sites, change passwords on a frequent basis and use multi-factor authentication.
+
+In the event you lose or wish to change your authentication credentials, specifically your Fanatics ID and password, you can use the self-service “Password Reset” option that is available on the login screen or contact       our       customer support at support@betfanatics.com.
+
+D.  User Account Funds,     Withdrawals, and Refunds
+
+You must have a positive balance in Your Account to place a bet. You will not be able to place any bets in an amount greater than the total balance in Your Account. We do not permit Your Account to have a negative Account balance. We reserve the right to limit the amount You can deposit into Your Account for any reason, or to otherwise limit the amount You can bet. You agree to abide by those limits.
+
+You may use any method available and accepted by the Platform to deposit money into Your Account which, depending on the state of operation, may include and may not be limited to, banks, credit cards, third party electronic payment processors and financial institutions (“Third Party Providers”).  Please remember that Third Party Providers, including financial institutions, may charge fees for such deposits. You represent and warrant that: (a) You are the legal owner of any money You deposit into or request a withdrawal or refund Your Account and that such money is not connected and did not originate from any illegal activity or source; (b) all payments to Your Account are authorized and You will not try to reverse a payment or take an action that would cause such payment to be reversed in an effort to avoid any legitimate liability; and (c) You understand and agree that all transactions may be checked for any suspicious activity, including money laundering and that such activity may be reported by us to the appropriate authorities.      
+
+By initiating a deposit into or a withdrawal or refund  from Your Account, You authorize Fanatics Sportsbook to instruct Third Party Providers (such as Your bank or credit card provider)  to handle deposits, withdrawals and refunds from Your Account and agree that Fanatics Sportsbook may provide such Third Party Providers Your personal information as needed to complete the transaction.
+
+You agree that we are not legally responsible for any acts or omissions of any Third Party Providers in processing Your deposit, withdrawal, or refund and You further agree to be obligated by the terms and conditions of use of each applicable Third Party Provider. If there is a disagreement between these Terms and the terms and conditions of any Third Party Provider, these Terms prevail. Fanatics Sportsbook is not responsible for any fees charged to You by Third Party Providers related to Your deposits, withdrawals and refunds.
+
+If You use the Services for sports wagering, all winnings You obtain will be added to Your Account balance, and such funds will be held in a separate, segregated bank account. Your withdrawals of winnings will be made from this segregated bank account. These funds belong to You, subject to any anti-fraud checks, or other reviews of prohibited conduct as described herein.  Subject to such checks, You may close Your Account and withdraw Your winnings and/or request a refund of unplayed deposits from Your Account     at any time and for any reason. Fanatics Sportsbook may not use Your winnings to cover its operating expenses or for other purposes.
+
+To protect your funds, FBG implements a number of security checks before any withdrawal or refund request is processed. FBG reserves the right to withhold any withdrawal or refund until these checks have been completed. There may be some delays if a withdrawal or refund is requested outside of business hours. We generally expect withdrawals or refunds  to be processed within twenty-four (24) hours, however they may take up to five (5) working days.
+
+You have the right to review all your gaming activity under “Transaction History,” which details a user's deposit, withdrawal, and betting activity, and Responsible Gambling limits for the past twenty-four (24) months.
+
+E.        Dormant Accounts
+
+If a sports bettor's segregated account remains unclaimed for five years after the balances are payable or deliverable to the sports bettor, Fanatics Sportsbook shall presume the account to be abandoned. Fanatics Sportsbook shall report and remit all segregated accounts presumed abandoned to the State Treasurer or his designee pursuant to Chapter 25 (§ 55.1-2500 et seq.) of Title 55.1 of the Code of Virginia.
+
+All bonuses and winnings earned from wagering with Bonuses (as defined below) will be forfeited from any Account to which a deposit has not been made within 60 days of establishing such Account.
+
+F.  Responsible Player Behavior & Self-Exclusion
+
+Fanatics Sportsbook offers tools to encourage responsible player behavior. Our Platform offers a number of self-imposed gaming limitations, including:
+
+A cool-off period;
+Daily, weekly, or monthly deposit limits;
+Daily, weekly, or monthly wagering limits;
+Daily time limits; and
+Self-exclusion program.
+
+You may set such limitations Yourself directly in Fanatics Sportsbook.  Fanatics Sportsbook may also limit, suspend or close Your Account for matters related to responsible gaming when detected by Fanatics Sportsbook or presented to Fanatics Sportsbook though a Customer Support contact or other user contact.  
+
+Upon a user completing the self-exclusion process (or a user becoming otherwise excluded), the system immediately logs the user out of the Platform and terminates his or her session. Except as may otherwise be required by applicable law, self-exclusion will apply to the Fanatics Sportsbook sports wagering services.  Our system automatically reviews a list maintained by Fanatics Sportsbook of the names and other related personal information of persons voluntarily excluded and compares it to Fanatics Sportsbook’s user Accounts. Self-excluded users may not make wagers, collect winnings, or recover losses.  Upon self-exclusion, a user will receive a refund of the cash balance in the Account.  Our Responsible Gambling page is available here.
+
+G. Disqualification and Cancellation
+
+Fanatics Sportsbook reserves the right to cancel or void any bets, in its sole discretion and in accordance with applicable law. If You have placed a wager on a sporting event and Fanatics Sportsbook cancels the wager for reasons other than Your violation of these Terms, engagement in prohibited activities, or any other activity Fanatics Sportsbook reasonably believes is suspicious, Fanatics Sportsbook will credit Your sports wagering Account balance for the amount of the initial wager. In addition, while Fanatics Sportsbook will take reasonable measures to guarantee the accuracy of the wagering information offered on its Platform or bets placed using its Services, Fanatics Sportsbook reserves the right to cancel and void any bets if, in its sole discretion, there is an obvious error with the bet as set forth in the House Rules or any of the Agreements.
+
+Fanatics Sportsbook may disqualify You from a bet, withhold access to all sports wagering, withhold access to the any or all Services, refuse to award winnings, require the return of any winnings, or suspend, limit, or terminate Your Account if You engage in conduct Fanatics Sportsbook deems, in its sole discretion, to be improper, unfair, fraudulent or otherwise adverse to the operation of the Services or in any way detrimental to other users. Improper conduct includes, but is not limited to:
+
+Falsifying personal or payment information;
+Colluding with any other individual(s) or engaging in any type of syndicate play;
+Violating eligible payment method terms;
+Using an Account to participate in a game or event on behalf of multiple users or otherwise collaborating with others to participate in a game or event;
+Tampering with the administration of the Services or trying to in any way tamper with the computer programs associated with the Services;
+Using IP proxying or other methods to disguise Your location or the place of Your residence to circumvent geographical restrictions on sports wagering participation;
+Obtaining other users’ information and/or spamming other users;
+Abuse of any offers, promotions, or Bonuses;
+Abuse of the Services in any way; or
+Otherwise violating these Terms or any of the other Agreements.
+
+You acknowledge that the forfeiture and/or return of any winnings shall in no way prevent Fanatics Sportsbook from informing the relevant authorities, and/or pursuing criminal or civil proceedings in connection with such conduct.
+
+Fanatics Sportsbook reserves the right to recover bad debts using any method lawfully available including, but not limited to, (i) debiting the amount owed by You from Your Account; and (ii) instructing third party collections agencies to collect the debt.
+
+If, for any reason, sports wagers are not able to be placed as originally planned (e.g., if the Platform becomes corrupted or does not allow the proper usage and processing of wagers in accordance with the House Rules), Fanatics Sportsbook reserves the right, in its sole discretion, to disqualify any individual implicated in or relating to the cause and/or to cancel, terminate, extend, modify or suspend the bets. If such cancellation, termination, modification or suspension occurs, notification may be posted on the Platform, otherwise through the Services, via email or by such other means as we may reasonably elect to use.
+
+H.  Publicity License and Release
+
+Subject to applicable law and our Privacy Policy, by placing a sports wager, You grant license and consent to the use of Your name, voice, likeness, image, city/state, photograph or video by Fanatics Sportsbook, its service providers, and its business partners in connection with the development, production, distribution and/or exploitation (including marketing and promotion) of the Services, including any components thereof, and/or Fanatics Sportsbook generally, unless otherwise prohibited by law. Fanatics Sportsbook, its service providers, and its business partners reserve the right to make public statements about any Fanatics Sportsbook sports wagering participants and winner(s), in any media channels, including but not limited to the Platform, Internet/social media, and TV whether existing herenow or hereafter invented, at any time in connection with the sports wagering event in which participants engaged. You agree You are not entitled to any fee and will not impose other conditions on the fulfillment of these obligations, and expressly release and waive any claims related to Fanatics Sportsbook’s use of the license granted in this Section.
+
+I.  Placing Bets
+
+It is Your responsibility to fully understand the terms of the bet You are placing.  When You place a bet, You agree that You shall be subject to the House Rules in effect at the time. It is Your responsibility to read and acquaint Yourself with our House Rules.  Please note that the House Rules govern the terms of any bet, and Fanatics Sportsbook Customer Service representatives may not alter the terms of any bet presented through the Platform.
+
+When placing a bet, You are responsible for ensuring that all of the details of the bet are correct. Once a bet has been placed, You cannot cancel the bet.
+
+You fully accept and agree that if there is a discrepancy between the results displayed in Your Account and those displayed in Fanatics Sportsbook’s servers, the results displayed on Fanatics Sportsbook’s server shall govern. You understand and agree that Fanatics Sportsbook’s records will be the final authority in determining such matters.
+
+We are not responsible for technical, hardware, network connections, or incomplete or delayed computer transmissions, regardless of cause.
+
+J.  Bonuses and Promotions
+
+You may be awarded bet credits or similar promotions (collectively, “Bonuses”) which You can use for gaming using Fanatics Sportsbook’s Services, or on other platforms, as we may permit. Bonuses cannot be withdrawn from Your Account.  Only the winnings attributed to Bonuses can be withdrawn, as per applicable wagering requirements.
+
+Fanatics Sportsbook reserves the right to remove Bonuses and refund the remaining balance should You breach the rules and/or the terms and conditions of the specific promotion. It is Your responsibility to read and understand the terms of any Bonuses which will be made available whenever a bonus offer is made to You.  Awards of FanCash shall not be considered Bonuses for purposes of this Section.
+
+Nothing in this Section shall prohibit or limit Fanatics Sportsbook’s ability to reverse and/or reclaim any Bonuses issued or awarded to You based upon failures, errors, manipulations, or fraudulent or dishonest activities.
+
+K.  Game Statistics and Live Scoring
+
+To the extent that Fanatics Sportsbook offers “live” statistics during gameplay, all “live” statistics and other information provided through the Platform are unofficial. Live sports statistics are offered for informational and/or entertainment purposes only and are not used to determine the results of a sporting event or contest or the results of any wager. Neither Fanatics Sportsbook nor its third party service providers warrant or make any representations of any kind with respect to the game statistics and live scoring information provided through the Services. Fanatics Sportsbook and its third party providers shall not be responsible or liable for the accuracy, usefulness, or availability of any information transmitted or made available via the Platform and shall not be responsible or liable for any error or omissions in that information.
+
+L.  Game Results & Winnings
+
+Wager results and winnings are based on the final statistics and scoring results at the completion of the sporting event or other contest (or relevant portion thereof). Once game results are reviewed and graded, winnings or other prizes will be awarded. The scoring results of a wager will not be changed regardless of any official statistics or scoring adjustments made by the leagues at later times or dates, except in Fanatics Sportsbook’s sole and absolute discretion.  
+
+Subject to Fanatics Sportsbook verifying Your compliance with the Terms and any other conditions of participation, at the conclusion of each wager (e.g., when all relevant events have concluded), Fanatics Sportsbook shall use commercially reasonable efforts to award the winnings to Your Account within a reasonable amount of time.
+
+M.  Location Technologies
+
+To determine Your eligibility to use the Services, Fanatics Sportsbook must determine Your location using one or more reference points, such as GPS, IP address, beacons and/or software within Your personal computer, mobile device, consumer electronics device, or any other equipment. If You have set Your device(s) to disable GPS, Bluetooth, or other location determining software, use connection methods or systems that mask Your location, or do not authorize the Services to access Your location data, the Services may not be able to determine Your location and You will not be able to access the Services. Fanatics Sportsbook reserves the right to suspend or terminate Your Account if You prevent the Services from accurately determining Your location. For more information about how the Services collects, uses, and retains Your information, please read the Fanatics Sportsbook’s Privacy Policy.
+
+N.  Application License
+
+Subject to Your compliance with these Terms, Fanatics Sportsbook grants You a limited, non-exclusive, and non-transferable license to download and install a copy of Fanatics Sportsbook’s mobile app on a device that You exclusively control and to run such copy of the mobile app solely for Your own personal use. Fanatics Sportsbook reserves all rights in and to the Fanatics Sportsbook mobile app (and otherwise to the Services) not expressly granted to You under these Terms.
+
+If You have downloaded the Fanatics Sportsbook mobile app, You agree to promptly download and install any new version that Fanatics Sportsbook makes available.  You understand that a failure to promptly update a new version of the app may, in some cases, expose You to increased security risks or Services malfunctions and may prevent You from placing wagers, or otherwise using the Services.
+
+O. Taxation
+
+Fanatics Sportsbook may request that You provide updated Account details for tax reporting purposes. This information will be used for compliance with tax regulations and may be shared with appropriate tax authorities. You, not Fanatics Sportsbook, are responsible for filing and paying applicable state and federal taxes on any winnings. Notwithstanding the forgoing, we may withhold federal and state taxes from certain winnings as required by applicable law or regulation, including but not limited to where required as a result of debts owed to the state. Fanatics Sportsbook does not provide tax advice, nor should any statements in these Terms or on the Services be construed as tax advice.
+
+You consent to receive your Fanatics Sportsbook related tax information including your Form W-2G and/or IRS Form 1099 electronically. Your electronic tax information will be furnished on a downloadable PDF which you should be able to access and print using a standard PDF reader. You may contact FBG at support@betfanatics.com if you cannot access your electronic tax information or if you would like to request a paper copy of your tax information. You may also contact FBG at support@betfanatics.com if you wish to revoke your consent to receive your tax information electronically and receive your information in paper form. Please ensure that your recipient information is kept up to date in Your Account.
+
+For more information on the rules governing Fanatics Sportsbook’s sports wagers, please carefully review the House Rules, which shall be posted on the Platform.
+
+        P. Streaming
+
+If You are accessing any video streams of sports games through the Fanatics Sportsbook app (“Bet and Watch”), You further agree to the following:
+
+You will only access Bet and Watch, when in a state where Fanatics Sportsbook is live;
+Your access to and use of Bet and Watch will comply with all applicable statutes, regulations, laws, ordinances, subordinate legislation, common law, court orders, judgements, and/or industry codes or standards which are enforceable by law or a regulation;
+You acknowledge and agree that You will only access and use Bet and Watch for your own personal use;
+You will not reproduce or distribute any content accessed through Bet and Watch;
+ You will not provide unauthorized or unlawful access to Bet and Watch or the content accessed through Bet and Watch; and 
+You acknowledge and agree that all rights to the content accessed through Bet and Watch, including but limited to the intellectual property rights to the streamed content and the media player provided to use Bet and Watch are owned and/or reserved by Bet Genius Sports Media Inc.      
+3. Offers.
+
+Certain provisions of the Terms may be superseded by expressly designated legal notices, rules or other terms located on particular pages of the Platform or otherwise made available through the Services, and, additionally to participate in or use certain promotions, discounts or coupons that may be run from time to time with respect to the Services (“Offer(s)”), You may be required to agree to additional or different terms and conditions (“Additional Terms”). Some Offers also may be subject to additional requirements or restrictions imposed by us or participating third parties, such as the vendors or other merchants that issued, sponsored, or are associated with the Offer or the exclusion of merchandise from an Offer which shall also be part of the Additional Terms. Your redemption of the Offer or use of such pages constitutes Your unconditional acceptance of the Additional Terms. If there is an actual conflict between these Terms and any Additional Terms, the Additional Terms shall control and the non-conflicting provisions in these Terms will continue to apply. For the sake of clarity, silence with respect to a particular term in either these Terms or any Additional Terms does not constitute a conflict.
+
+If an Offer does not contain Additional Terms, then only these Terms apply. Under these Terms, unless otherwise prohibited by law, any Offer is not valid for cash or cash equivalents and is limited to one Offer per person, household, or address. We reserve the right to limit, change, or cancel any Offer or associated transaction, without prior notice, even after You have attempted to redeem the Offer or placed Your associated order.
+
+4. Unauthorized Use.
+
+You may only use the Services as authorized and not for any illegal or unlawful purpose. Any unauthorized use or violation of these Terms may immediately and automatically terminate Your right to use and access the Services and may subject You to legal liability. Appropriate legal action may be taken for any illegal or unauthorized use of the Services. In addition to the conduct described in Section 2(G) above, some other examples of unauthorized, illegal, or unlawful use of the Services include, but are not limited to:
+
+Copying, modifying, displaying, performing, distributing, republishing, or retransmitting any content or material (including, by way of example, images and text), in whole or in part, from/on the Platform or otherwise through the Services without our prior written consent;
+Collecting usernames and/or email addresses of users for the purpose of sending unsolicited email;
+Using a framing or similar technique without our prior written permission;
+Creating or maintaining any link from another website to any page on the Platform without our prior written permission;
+Criminal or tortious activity, including fraud, spamming, spimming (spam by instant message), sending of viruses or other harmful files, copyright infringement, patent infringement, or theft of trade secrets;
+Covering or obscuring the banner advertisements on the Platform, if any, via HTML/CSS or any other means;
+Any automated use of any system, such as using scripts to alter content or a “bot” to engage in play;
+Interfering with, disrupting, or burdening the Platform or the networks, systems or services connected to the Platform;
+Using any automated system or software to extract data from the Platform or from any other user (including "screen scraping") for sale or use by any third party or any     commercial purpose other than Your placement of a wager for Your Account;
+Attempting to impersonate another user or person;
+Using the Account, username, or password of another user or disclosing Your password, as applicable, to any third party or permitting any third party to access Your Account;
+Displaying an advertisement, or accepting payment or anything of value from a third person in exchange for Your performing any commercial activity on or through the Platform on behalf of that person, such as placing commercial content on the Platform;
+Using the Platform for any harassing, threatening, libelous, abusive, obscene or privacy-invading purposes;
+Using the Services in a manner inconsistent with any applicable law, rule or regulation.
+
+We may remove any unauthorized content, links, etc. without notice.
+
+5. FanCash.
+
+Fanatics Sportsbook may at times offer FanCash or other, similar programs.  Where offered, FanCash benefits shall be subject to the applicable FanCash Program Terms. We reserve the right to discontinue FanCash Program or modify the terms applicable to FanCash Program at any time.
+
+6. Links to Third Party Sites; Advertisers.
+
+The Services may provide You with links or other access to other websites, services, products or content of third parties, including the Other Platforms, as defined in Section 9 below (“Third Party Sites”). We have no control over, and do not necessarily endorse, any Third Party Site's services, products or content. You acknowledge and agree that You access such Third Party Sites at Your own risk and are wholly responsible for making Your own independent judgment regarding Your use or interaction with the same. We recommend that You read the terms of service and privacy policies of each Third-Party Site that You access.
+
+7. Privacy Policy.
+
+You have read and acknowledge our collection, use and sharing of Your information, including personal information, as set forth in our Privacy Policy.
+
+8. Property; Intellectual Property.
+
+Subject to the express exception below, the Services, and all content of the Services(including, without limitation, text, graphics, scripts, sounds, interactive features, icons, images, clips and software), is protected by copyright, trademark, and other laws. Names, logos, taglines, icons, and marks on the Platform are the exclusive property of  Fanatics Sportsbook and/or one of its affiliates, all rights reserved, and may not be used by You without our prior written permission. Unless otherwise indicated, all other intellectual property appearing on the Platform is the property of its respective owner. We reserve all rights not expressly granted in and to the Platform’s content and the Services.
+
+Exception:  Subject to Your strict compliance with these Terms and the other Agreements, Fanatics Sportsbook grants You a limited, personal, revocable, non-transferable, non-sublicensable license to: (i) download (temporary storage only), display, view, use, and/or play the content on its Platform on a personal computer, mobile phone, or other Internet enabled device for Your personal, non-commercial use only; and (ii) to use certain content that we may make available on the Services for such purposes as may be explicitly stated at the time that the content is made available. The foregoing limited license may be immediately suspended or terminated for any reason, in Fanatics Sportsbook’s sole discretion, and without advance notice or liability.  Except with our express, written permission, You are prohibited from copying any of the content on the Platform.
+
+9. User-Generated Content.
+
+Users may be able to post content in certain areas on the Platform or on other websites or platforms that we own or operate, including on social media platforms such as Facebook, Instagram, Twitter, Pinterest, TikTok, and Snapchat (“Other Platforms”). You are solely responsible for any content (including, without limitation, photos, artwork, videos, text, graphics, and other information) You upload, post, display or otherwise provide to us through the Platform or Other Platforms (“User Content”). Any User Content You post or provide, including any questions, reviews, comments and suggestions, will be treated as non-confidential and non-proprietary. By sharing User Content with us, You grant us a worldwide, royalty-free, perpetual, irrevocable and transferable right to use, copy, reproduce, perform, distribute, display, publish, sell, and create derivative works of, the User Content, and to grant and authorize sub-licensees of the foregoing. Additionally, we shall be free to use any ideas, concepts, know-how or techniques contained in such User Content for any purpose whatsoever, including, without limitation, developing, manufacturing, and marketing products and services which incorporate such User Content. You further agree that this means that any User Content may appear on sites other than the Platform through which You submitted Your User Content including but not limited to Other Platforms. You represent and warrant that: (a) You own the User Content posted by You on the Services or otherwise have the right to grant the license set forth in this Section 9; (b) Your User Content does not violate the privacy rights, publicity rights, intellectual property rights, or any other rights of any person or entity; and (c) the posting of User Content does not result in a breach of any contract between You and a third party. You agree that You will not use a false or misleading email address, impersonate another person or entity or otherwise mislead with respect to any User Content. You agree that you will not post User Content that is, as determined by Fanatics Sportsbook, offensive, defamatory, sexually explicit or otherwise objectionable, or that is intended or reasonably likely to disparage Fanatics Sportsbook or bring Fanatics Sportsbook into public disrepute. You agree to pay for all royalties, fees and other monies owing to any person by reason of any User Content You post. We are under no obligation to screen or monitor User Content but may review User Content from time to time at our sole discretion to review compliance with these Terms. We may reject, refuse to post, edit, or remove any User Content at any time without notice, for any or no reason.
+
+10. No Feedback Accepted.
+
+We do not accept any unsolicited feedback related to the Platform from outside Fanatics Sportsbook including without limitation suggestions about advertising or promotions, or merchandising of any products, additions to our Services, or changes in methods of doing business. We may already be working on or may in the future work on a similar idea. If, notwithstanding this policy, You submit an unsolicited idea to this Platform, You understand and acknowledge that Fanatics Sportsbook has no obligation to acknowledge Your submission, such feedback is not submitted in confidence and we assume no obligation, expressed or implied, by considering it, and no confidential relationship is established between You and Fanatics Sportsbook. By submitting Your feedback or idea, You represent that You are authorized to do so, and Your submission does not include the confidential information, proprietary know-how, trade secrets, or other intellectual property of any other person or party. Fanatics Sportsbook’s use or distribution of Your submission or any portion thereof will not give rise to any claims against Fanatics Sportsbook or its affiliates and will be without compensation to You. You hereby grant us an irrevocable, perpetual, world-wide right (including intellectual property right) in the feedback or idea, to be used in any medium now known or hereafter developed, without compensation to You.
+
+11. Termination of Access and/or Account.
+
+In addition to any right or remedy that may be available to us under these Terms or under applicable law, we may limit, suspend, or terminate Your access to the Platform or Other Platforms (including, without limitation, Your Account registration and Your ability to post User Content), at any time, with or without notice, and with or without cause. We also may refer any information on illegal activities, including Your identity, to the proper authorities.
+
+12. Termination and Survival.
+
+These Terms shall remain in full force and effect while You use or access the Services or have an Account with us. If You would like to terminate Your Account please contact us at support.betfanatics.com.
+
+Survival.  Sections 2, 7, 8, 9, 10, 11, 12, 13, 14, 15, 18, 19, 20, and 21, together with all other terms which by their nature should reasonably be interpreted as surviving, shall survive any termination of these Terms.
+
+13. Indemnity.
+
+In exchange for the right to participate in the Services, You agree to defend (at our option), indemnify and hold harmless us, our subsidiaries, affiliates, suppliers, and licensors and each of our respective officers, directors, agents, partners and employees (the “Fanatics Sportsbook Parties”) from any loss, liability, claim, or demand, including reasonable attorneys' fees and costs of suit including experts’ fees, due to or arising out of (i) injuries, damages, or losses to persons and property which may be sustained in connection with participation in any wagering transactions, the receipt, ownership, use or misuse of any winnings or while preparing for, participating in and/or traveling to or from any Services related activity, and any claims based on publicity rights, defamation, or invasion of privacy; (ii) Your User Content; (iii) Your use of the Services and Your activities in connection with the Services (including Your use of the Services in violation of these Terms); (iv) Your breach or anticipatory breach of these Terms; (v) Your violation or anticipatory violation of any laws, rules, regulations, codes, statutes, ordinances, or orders of any governmental or quasi-governmental authorities in connection with Your use of the Services, participation in any wagering transactions, and Your other activities in connection with the Services; (vi) information or material transmitted through Your Account, even if not submitted by You, that infringes, violates, or misappropriates any copyright, trademark, trade secret, trade dress, patent, publicity, privacy, or other right of any person or entity; (vii) any misrepresentation made by You; and (viii) our use of the information that You submit to us (including Your User Content and Registration Data) (all of the foregoing, “Indemnifiable Claims and Losses”). We may, in our sole and absolute discretion, require any winner to execute a separate release of claims similar to the one listed above in this Section as a condition of being awarded any bet or receiving any pay-out.
+
+You will cooperate as fully required by us in the defense of any Indemnifiable Claim and Losses. Notwithstanding the foregoing, we retain the exclusive right to settle, compromise, and pay any and all Indemnifiable Claims and Losses. We reserve the right to select counsel and assume the exclusive defense and control of any Indemnifiable Claims and Losses. You will not settle any Indemnifiable Claims and Losses without, in each instance, the prior written consent of an officer of Fanatics Sportsbook. You are responsible for repaying us for any Indemnifiable Claim or Loss.
+
+14. Disclaimer of Warranties.
+
+YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, YOU ARE RESPONSIBLE FOR COMPLYING WITH THE AGREEMENTS AND ALL APPLICABLE LAWS WITH RESPECT TO THE USE OF THE SERVICES. EXCEPT AS OTHERWISE EXPRESSLY PROVIDED IN THESE TERMS, THE SERVICES, INCLUDING ALL INFORMATION AND CONTENT MADE AVAILABLE ON OR ACCESSED THROUGH THEM, ARE MADE AVAILABLE TO YOU "AS IS" WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND. FURTHER, TO THE FULLEST EXTENT PERMISSIBLE BY LAW, WE DISCLAIM ALL WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, WE MAKE NO WARRANTY: (A) THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR FREE; (B) THAT DEFECTS OR ERRORS IN THE SERVICES WILL BE CORRECTED; (C) THAT THE SERVICES WILL BE FREE FROM VIRUSES OR OTHER HARMFUL COMPONENTS; (D) AS TO THE QUALITY, ACCURACY, COMPLETENESS AND VALIDITY OF ANY INFORMATION OR MATERIALS RELATING TO THE SERVICES; (E) THAT YOUR USE OF THE SERVICES, INCLUDING SERVICES AND/OR LINKS PROVIDED BY THIRD PARTIES, WILL MEET YOUR REQUIREMENTS; OR (F) THAT TRANSMISSIONS OR DATA WILL BE SECURE. TO THE FULLEST EXTENT PERMITTED BY LAW, WE SHALL NOT BE LIABLE FOR THE USE OF THE SERVICES, INCLUDING, WITHOUT LIMITATION, THE CONTENT AND ANY ERRORS CONTAINED THEREIN. THIS DISCLAIMER CONSTITUTES AN ESSENTIAL PART OF THESE TERMS.
+
+EXCEPTIONS: SOME JURISDICTIONS DO NOT ALLOW THE DISCLAIMER, EXCLUSION OR LIMITATION OF CERTAIN WARRANTIES, LIABILITIES AND DAMAGES, SO SOME OF THE ABOVE DISCLAIMERS, EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO YOU. IN SUCH JURISDICTIONS, OUR WARRANTIES AND LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+
+15. Limitation on Liability.
+
+YOU UNDERSTAND AND AGREE THAT FANATICS SPORTSBOOK LIMITS ITS LIABILITY IN CONNECTION WITH YOUR USE OF THE SERVICES AS SET FORTH BELOW: UNDER NO CIRCUMSTANCES SHALL FANATICS SPORTSBOOK OR ANY OTHER FANATICS SPORTSBOOK PARTIES BE LIABLE TO YOU FOR ANY LOSS OR DAMAGES OF ANY KIND (INCLUDING, WITHOUT LIMITATION, FOR ANY SPECIAL, DIRECT, INDIRECT, INCIDENTAL, EXEMPLARY, ECONOMIC, PUNITIVE, OR CONSEQUENTIAL DAMAGES) THAT ARE DIRECTLY OR INDIRECTLY RELATED TO (1) THE SERVICES, INFORMATION OR OTHER CONTENT ON THE PLATFORM, OR YOUR UPLOAD INFORMATION; (2) THE USE OF, INABILITY TO USE, OR PERFORMANCE OF THE SERVICES; (3) ANY ACTION TAKEN IN CONNECTION WITH AN INVESTIGATION BY FANATICS SPORTSBOOK OR LAW ENFORCEMENT AUTHORITIES REGARDING YOUR USE OF THE SERVICES OR  INFORMATION OR OTHER CONTENT ON THE PLATFORM; (4) ANY ACTION TAKEN IN CONNECTION WITH COPYRIGHT OWNERS OR OTHER INTELLECTUAL PROPERTY RIGHTS HOLDER; OR (5) ANY ERRORS OR OMISSIONS IN THE SERVICES’ TECHNICAL OPERATION, EVEN IF FORESEEABLE OR EVEN IF THE FANATICS SPORTSBOOK PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE, STRICT LIABILITY TORT (INCLUDING, WITHOUT LIMITATION, WHETHER CAUSED IN WHOLE OR IN PART BY NEGLIGENCE, ACTS OF GOD, PANDEMIC, TERRORISM, TRADE OR LABOR DISPUTE, TELECOMMUNICATIONS FAILURE, OR THEFT OR DESTRUCTION OF THE SERVICES). IN NO EVENT WILL THE FANATICS SPORTSBOOK PARTIES BE LIABLE TO YOU OR ANYONE ELSE FOR LOSS OR INJURY, INCLUDING, WITHOUT LIMITATION, DEATH, OR PERSONAL INJURY. SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
+
+YOU UNDERSTAND AND AGREE THAT BY USING THE SERVICES, THERE IS A RISK YOU MAY LOSE MONEY.  YOU AGREE THAT YOUR USE OF THE SERVICES IS AT YOUR OWN RISK AND THE FANATICS SPORTSBOOK PARTIES HAVE NO RESPONSIBILITY AND SHALL NOT BE LIABLE FOR ANY CONSEQUENCES ALLEGED TO HAVE OCCURRED THROUGH YOUR USE, OR MISUSE, OF THE SERVICES.
+
+TO THE MAXIMUM EXTENT PERMISSIBLE UNDER APPLICABLE LAWS, THE TOTAL LIABILITY OF FANATICS SPORTSBOOK AND/OR ITS AFFILIATES IS LIMITED TO THE AVERAGE ACCOUNT BALANCE IN YOUR FANATICS SPORTSBOOK ACCOUNT OVER THE ONE HUNDRED AND EIGHTY (180) DAYS IMMEDIATELY PRECEDING THE DATE ON WHICH YOU FIRST ASSERT ANY SUCH CLAIM. WITHOUT LIMITING THE FOREGOING, THE FANATICS SPORTSBOOK PARTIES ARE NOT RESPONSIBLE FOR ANY DAMAGE TO ANY USER’S COMPUTER, HARDWARE, COMPUTER SOFTWARE, OR OTHER EQUIPMENT OR TECHNOLOGY INCLUDING, WITHOUT LIMITATION, DAMAGE FROM ANY SECURITY BREACH OR FROM ANY VIRUS, BUGS, TAMPERING, FRAUD, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER LINE OR NETWORK FAILURE OR ANY OTHER TECHNICAL OR OTHER MALFUNCTION. YOUR ACCESS TO AND USE OF THE SERVICES IS AT YOUR RISK. IF YOU ARE DISSATISFIED WITH THE SERVICES OR ANY OF THE CONTENT, YOU CAN  DISCONTINUE ACCESSING AND USING THE SERVICES OR THE CONTENT. YOU RECOGNIZE AND CONFIRM THAT IF YOU INCUR ANY DAMAGES, LOSSES OR INJURIES THAT ARISE OUT OF FANATICS SPORTSBOOK’S ACTS OR OMISSIONS, THE DAMAGES, IF ANY, CAUSED TO YOU ARE NOT IRREPARABLE OR SUFFICIENT TO ENTITLE YOU TO AN INJUNCTION PREVENTING ANY EXPLOITATION OF ANY SERVICE OR OTHER PROPERTY OWNED OR CONTROLLED BY THE FANATICS SPORTSBOOK PARTIES OR YOUR UPLOAD INFORMATION, AND YOU WILL HAVE NO RIGHTS TO ENJOIN OR RESTRAIN THE DEVELOPMENT, PRODUCTION, DISTRIBUTION, ADVERTISING, EXHIBITION OR EXPLOITATION OF ANY FANATICS SPORTSBOOK SERVICES OR YOUR UPLOAD INFORMATION OR ANY AND ALL ACTIVITIES OR ACTIONS RELATED THERETO. BY ACCESSING THE SERVICES, YOU UNDERSTAND THAT YOU MAY BE WAIVING RIGHTS WITH RESPECT TO CLAIMS THAT ARE AT THIS TIME UNKNOWN OR UNSUSPECTED. ACCORDINGLY, YOU AGREE TO WAIVE THE BENEFIT OF ANY LAW THAT OTHERWISE MIGHT LIMIT YOUR WAIVER OF SUCH CLAIMS.
+
+This provision applies to the fullest extent permissible and is subject to the Severability provision in Section 22 hereto.
+
+16. Third Party Transactions.
+
+Through Your use of the Services, You may have the opportunity to engage in commercial or other transactions with other users, vendors and other third parties. You acknowledge that all transactions relating to any merchandise or services offered by any third party, including but not limited to the purchase terms, payment terms, warranties, guarantees, maintenance and delivery terms relating to such transactions, are agreed to solely between the third party seller or purchaser of such merchandise and services and You, and that You will look solely to such third party to enforce any of Your rights. In the event of any problem with the products or services that You have purchased from a third party You agree that You will address such issues with the third party, but all limitations of liability and other rights of Fanatics Sportsbook shall apply nonetheless. We may not have the ability to accept returns or refund the purchase price for any transaction You complete with a third party through our Services. ANY WARRANTY THAT IS PROVIDED IN CONNECTION WITH ANY PRODUCTS, SERVICES, MATERIALS, OR INFORMATION AVAILABLE ON OR THROUGH THE SERVICES FROM A THIRD PARTY IS PROVIDED SOLELY BY SUCH THIRD PARTY AND NOT BY US.
+
+17. U.S. Export Controls.
+
+Software made available to You by Fanatics Sportsbook (the "Software"), if any, is subject to U.S. export controls. No Software may be downloaded from the Services or otherwise exported or re-exported in violation of U.S. export laws. Downloading or using the Software is at Your sole risk.
+
+18. Governing Law and Jurisdiction.
+
+To the extent permitted by law, these Terms will be governed by, and interpreted in accordance with, the laws of the Commonwealth of Virginia, without regard for its choice of conflict of law principles.  Please note that this means that Virginia law shall apply to these terms and all Services.
+
+For any Claims (defined below) that are not subject to arbitration, if any: (a) the exclusive jurisdiction and venue for proceedings involving Claims shall be Federal or State courts of competent jurisdiction sitting within the Commonwealth  of Virginia (the "Forum"), and You and we hereby waive any argument that any such court does not have personal jurisdiction or that the Forum is not appropriate or convenient; (b) You and we waive any and all rights to trial by jury with respect to any such Claims.
+
+19. Arbitration Agreement
+
+PLEASE READ THESE "BINDING ARBITRATION" AND "CLASS WAIVER" PROVISIONS CAREFULLY, BECAUSE THEY REQUIRE YOU TO ARBITRATE ALL DISPUTES WITH FANATICS SPORTSBOOK AND LIMIT THE MANNER IN WHICH YOU CAN SEEK RELIEF.  ARBITRATION DOES NOT INVOLVE A JUDGE OR JURY.
+
+A.        Initial Dispute Resolution Procedure.  
+
+You and Fanatics Sportsbook (each a “party” and collectively, the “parties”) agree that good-faith informal efforts to resolve disputes often can result in a prompt, low-cost, and mutually beneficial outcome. The parties therefore agree that, before either party demands arbitration against the other, we will individually and personally meet and confer, by telephone or videoconference, in a good-faith effort to resolve informally any claim covered by this Section 19 (the “Arbitration Agreement”). Multiple individuals with disputes cannot participate in the same informal telephonic dispute resolution conference. If You are represented by counsel (which such representation will be at Your sole cost and expense), Your counsel may participate in the conference, but You shall also fully participate in the conference. The party initiating the claim must give notice to the other party in writing of their intent to initiate an informal dispute resolution conference, which shall occur within 30 days after the other party receives such notice, unless an extension is mutually agreed upon by the parties.
+
+To notify Fanatics Sportsbook that You intend to initiate an informal dispute resolution conference, write to Fanatics Betting & Gaming, 95 Morton Street, New York, NY 10014, ATTN: FBG Legal Department, providing Your name, the telephone number(s) associated with Your Account, the email address(es) associated with Your Account, and a description of Your claim.  Fanatics Sportsbook will respond to any such complaint in writing, via email or live chat, within 15 days of the filing of the complaint. If Fanatics Sportsbook determines that additional information is needed to respond to the complaint, Fanatics Sportsbook will specifically state the form and nature of the necessary information. When Fanatics Sportsbook receives the requested additional information, Fanatics Sportsbook shall provide a further response within seven days.
+
+If you are not satisfied with the response provided by Fanatics Sportsbook, the parties shall use their best efforts to settle any dispute, claim, question, or disagreement and engage in good faith negotiations which shall be a condition to either party initiating an arbitration claim as provided in Section 19.  If the parties do not reach an agreed upon solution within a period of 45 days from the time informal dispute resolution begins, then either party may initiate binding arbitration as the sole means to resolve claims, subject to the terms set forth below.  The aforementioned informal dispute resolution process is a prerequisite and condition precedent to commencing any formal dispute resolution proceeding. The parties agree that any relevant limitations period and filing fees or other deadlines will be tolled while the parties engage in this informal dispute resolution process.
+
+B.        Agreement to Arbitrate.
+
+As a condition of using the Services, You and we agree that except as expressly provided in Section 19(C), any and all past, pending, or future disputes, claims and causes of action (collectively, “Claims”) arising out of or connected with the Services or the Agreements (including without limitation any dispute concerning the breach, enforcement, construction, validity, interpretation, enforceability, or arbitrability of these Terms) shall be resolved exclusively by binding arbitration administered by National Arbitration and Mediation (“NAM”) and before a single arbitrator, except as set forth below.  If NAM is not available to arbitrate, the parties will mutually agree upon an alternative arbitration provider within sixty (60) days. Except as modified by this Section 19 provision, NAM will administer the arbitration in accordance with the NAM Comprehensive Dispute Resolution Rules and Procedures, Fees For Disputes When One of the Parties is a Consumer and the Mass Filing Dispute Resolution Rules and Procedures in effect at the time any demand for arbitration is filed with NAM, excluding any rules or procedures governing or permitting class or representative actions. The applicable NAM rules and procedures are available at www.namadr.com or by emailing National Arbitration and Mediation’s Commercial Dept at commercial@namadr.com. In the event of any dispute concerning the scope or applicability of the Arbitration Provisions of these Terms, You and Fanatics Sportsbook agree that the arbitrator exclusively shall have the power to rule on his or her own jurisdiction over the Claim, including any objections with respect to the existence, scope or validity of the arbitration agreement or to the arbitrability of the claims or counterclaims presented as part of the Claim.   
+
+This Arbitration Agreement is governed by the Federal Arbitration Act ("FAA") in all respects and evidences a transaction involving interstate commerce. You and Fanatics Sportsbook expressly agree that the FAA shall exclusively govern the interpretation and enforcement of this Arbitration Agreement. If for whatever reason the rules and procedures of the FAA cannot apply, the state law governing arbitration agreements in the state in which You reside shall apply.
+
+The alleged invalidity of the Terms shall have no effect upon the validity of our mutual agreement to arbitrate any Claims under this Section. In addition, if any portion of this Section is determined by a court to be inapplicable or invalid, then the remainder shall still be given full force and effect consistent with Section 22 of these Terms.
+
+You and Fanatics Sportsbook shall maintain the confidential nature of the arbitration proceedings and the arbitration award, including the arbitration hearing, except as may be necessary to prepare for or conduct the arbitration hearing on the merits, or except as may be necessary in connection with a court application for a preliminary remedy, a judicial challenge to an award or its enforcement, or unless otherwise required by law or judicial decision.
+
+Although court review of an arbitration award may be limited, an arbitrator is empowered to award the same damages and relief as a court, including injunctive relief or statutory damages. Notwithstanding the foregoing, either party may seek temporary or emergency equitable relief to enforce its rights in any court of competent jurisdiction.
+
+        C.        Exceptions to Arbitration.
+
+Notwithstanding the parties' decision to resolve all Claims through arbitration, each party retains the right to (i) elect to have any Claims resolved in small claims court on an individual basis for Claims and actions within the scope of such court’s jurisdiction, regardless of what forum the filing party initially chose; (ii) bring an action in state or federal court to protect its intellectual property rights (“intellectual property rights” in this context means patents, copyrights, moral rights, trademarks, and trade secrets and other confidential or proprietary information, but not privacy or publicity rights); and (iii) seek a declaratory judgment, injunction, or other equitable relief in a court of competent jurisdiction regarding whether a party's claims are time-barred or may be brought in small claims court. Seeking such relief shall not waive a party's right to arbitration under these Terms, and any filed arbitrations related to any action filed pursuant to this paragraph shall automatically be stayed pending the outcome of such action.
+
+        D.        Class Action Waiver.
+
+YOU UNDERSTAND AND AGREE THAT YOU ARE WAIVING YOUR RIGHT TO SUE OR GO TO COURT TO ASSERT OR DEFEND YOUR RIGHTS UNDER THIS CONTRACT. YOU AND WE ALSO AGREE THAT (A) ANY CLAIMS WILL BE RESOLVED INDIVIDUALLY AND ONLY FOR YOUR LOSSES ONLY AND NOT AS A PLAINTIFF OR CLASS REPRESENTATIVE, MEMBER OF OTHERWISE ON BEHALF OF OTHERS IN ANY PROPOSED CLASS, COLLECTIVE, OR REPRESENTATIVE PROCEEDING AND NOT THROUGH ANY CLASS ACTION, (B) IF A CLAIM PROCEEDS IN COURT ANYWAY, WE BOTH WAIVE ANY RIGHT TO A JURY TRIAL; AND (C) EITHER YOU OR WE MAY SEEK A COURT INJUNCTION OR OTHER EQUITABLE RELIEF REGARDING INTELLECTUAL PROPERTY INFRINGEMENT. ARBITRATION DOES NOT INVOLVE A JUDGE OR JURY.
+
+If there is a final judicial determination that applicable law precludes enforcement of this Section’s limitations as to a particular remedy, then that remedy (and only that remedy) must be severed from the arbitration and may be sought in court. The parties agree, however, that any adjudication of remedies not subject to arbitration shall be stayed pending the outcome of any arbitrable claims and remedies.
+
+If there is a final judicial determination that either the class arbitration action and collective relief waiver or the provisions in this Section 19 are not enforceable as to a particular claim or request for relief, then the parties agree that that particular claim or request for relief may proceed in court but shall be severed and stayed pending arbitration of the remaining claims. This provision does not prevent You or Fanatics Sportsbook from participating in a class-wide settlement of claims.
+
+E.        30-DAY RIGHT TO OPT OUT.
+
+YOU MAY OPT OUT OF THESE ARBITRATION AND CLASS ACTION PROVISIONS BY FOLLOWING THE INSTRUCTIONS BELOW. IF YOU DO NOT OPT-OUT, THESE TERMS WILL APPLY RETROACTIVELY TO ALL CLAIMS YOU MAY POSSESS, WHETHER ASSERTED TO DATE OR NOT.
+
+IF YOU DO NOT WISH TO AGREE TO THIS SECTION OF THE TERMS REQUIRING ARBITRATION AND CLASS ACTION WAIVER AND YOU HAVE NOT PREVIOUSLY AGREED TO AN ARBITRATION PROVISION IN CONNECTION WITH YOUR USE OF OUR SERVICE, YOU MUST, WITHIN THIRTY (30) DAYS OF ENTERING THESE TERMS BY PROVIDING WRITTEN NOTICE TO FANATICS BETTING AND GAMING, 95 MORTON STREET, NEW YORK, NY 10014, ATTN FBG LEGAL DEPARTMENT. THIS WRITTEN NOTICE MUST BE SIGNED BY YOU, AND NOT YOUR ATTORNEY, AGENT OR REPRESENTATIVE AND CONTAIN YOUR FULL NAME, ADDRESS, AND THE WORDS “OPT OUT” IN THE SUBJECT OF THE LETTER. .
+
+F.         Initiating Arbitration.
+
+Following the conclusion of the initial dispute resolution process required by this Section, You may seek arbitration of a Claim by contacting our registered agent Corporation Service Company at their New York address (https://apps.dos.ny.gov/publicInquiry/EntityDisplay), Attn: Fanatics Holding, Inc., with a copy to Fanatics Betting and Gaming, 95 Morton Street, New York, NY 10014, Attn: FBG Legal Department. By signing the demand for arbitration, counsel certifies to the best of counsel’s knowledge, information, and belief, formed after an inquiry reasonable under the circumstances, that (i) the demand for arbitration is not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of dispute resolution; (ii) the claims and other legal contentions are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law; and (iii) the factual contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after a reasonable opportunity for further investigation or discovery. The Arbitrator shall be authorized to afford any relief or impose any sanctions available under Federal Rule of Civil Procedure 11 or any applicable state law for either party’s violation of this requirement.
+
+The arbitration may be conducted via telephone, written submissions or in person in a mutually agreed location.  If the parties cannot mutually agree to a location for in person hearings or proceedings, such proceedings shall take place within the State of New York at a location specified by the arbitrator.  You are responsible for Your own attorneys' fees unless the arbitration rules and/or applicable law provide otherwise. The parties agree that NAM has discretion to reduce the amount or modify the timing of any administrative or arbitration fees due under NAM’s Rules where it deems appropriate (including as specified in Section 19), provided that such modification does not increase the costs to You, and You further agree that You waive any objection to such fee modification. The parties also agree that a good-faith challenge by either party to the fees imposed by NAM does not constitute a default, waiver, or breach of this Section 19 while such challenge remains pending before NAM, the arbitrator, and/or a court of competent jurisdiction, and that any and all due dates for those fees shall be tolled during the pendency of such challenge. You and we further agree that an award and any judgment confirming it only apply to the arbitration in which the award was awarded and cannot be used in any other proceeding except to enforce the award itself and any post-arbitration action seeking to enforce an arbitration award or action seeking equitable or injunctive relief shall be brought exclusively in the courts of the Commonwealth of Virginia, or the United States District Court located in Norfolk, Virginia.
+
+G.         Batch Arbitration.
+
+To increase the efficiency of administration and resolution of arbitrations, if 100 or more similar arbitration demands (those asserting the same or substantially similar facts or claims, and seeking the same or substantially similar relief) presented by or with the assistance or coordination of the same law firm(s) or organization(s) are submitted to NAM (or another arbitration provider selected in accordance with Section 19(B) if NAM is unavailable) against Fanatics Sportsbook within reasonably close proximity ("Mass Filing"), the parties agree (i) to administer the Mass Filing in batches of 100 demands per batch (to the extent there are fewer than 100 arbitration demands left over after the batching described above, a final batch will consist of the remaining demands) with only one batch filed, processed, and adjudicated at a time; (ii) to designate one arbitrator for each batch; (iii) to accept applicable fees, including any related fee reduction determined by NAM (or another arbitration provider selected in accordance with Section 19(B) if NAM is unavailable) in its discretion; (iv) that no other demands for arbitration that are part of the Mass Filing may be filed, processed, or adjudicated until the prior batch of 100 is filed, processed, and adjudicated; (v) that fees associated with a demand for arbitration included in a Mass Filing, including fees owed by Fanatics Sportsbook and the claimants, shall only be due after Your demand for arbitration is included in a set of batch proceedings and that batch is properly designated for filing, processing, and adjudication; and (vi) that the staged process of batched proceedings, with each set including 100 demands, shall continue until each demand (including Your demand) is adjudicated or otherwise resolved. Arbitrator selection for each batch shall be conducted to the greatest extent possible in accordance with the applicable NAM rules and procedures for such selection, and the arbitrator will determine the location where the proceedings will be conducted.
+
+You agree to cooperate in good faith with Fanatics Sportsbook and the arbitration provider to implement such a “batch approach” or other similar approach to provide for an efficient resolution of claims, including the payment of combined reduced fees, set by NAM in its discretion, for each batch of claims. The parties further agree to cooperate with each other and the arbitration provider or arbitrator to establish any other processes or procedures that the arbitration provider or arbitrator believe will provide for an efficient resolution of claims. Any disagreement between the parties as to whether this provision applies or as to the process or procedure for batching shall be resolved by a procedural arbitrator appointed by NAM. This “Batch Arbitration” provision shall in no way be interpreted as increasing the number of claims necessary to trigger the applicability of NAM’s Mass Filing Supplemental Dispute Resolution Rules and Procedures or authorizing class arbitration of any kind. Unless Fanatics Sportsbook otherwise consents in writing, Fanatics Sportsbook does not agree or consent to class arbitration, private attorney general arbitration, or arbitration involving joint or consolidated claims under any circumstances, except as set forth in Section 19(B) above and this Section 19(G). If Your demand for arbitration is included in the Mass Filing, Your claims will remain tolled until Your demand for arbitration is decided, withdrawn, or is settled.
+
+H.        Changes to this Section
+
+Fanatics Sportsbook will provide 30 days’ notice of any changes to this Section. Changes will become effective on the 30th day and apply to all claims not yet filed. If You continue to use the site after the 30th day, You agree that any unfiled claims of which Fanatics Sportsbook does not have actual notice are subject to the revised clause.
+
+If You reject any such changes by opting out of the Arbitration Agreement, You may exercise Your right to a trial by jury or judge, as permitted by applicable law, but any prior existing agreement to arbitrate Claims under a prior version of the Arbitration Agreement will not apply to claims not yet filed. If Fanatics Sportsbook changes this Section 19 after the date You first accepted these Terms (or accepted any subsequent changes to these Terms), You agree that Your continued use of the Platform or other Services 30 days after such change will be deemed acceptance of those changes.
+
+20. One Year Statute of Limitations.
+
+You and Fanatics Sportsbook agree that any Claims or lawsuits, regardless of form, arising out of or related to the Services or the Agreements must BE FILED within ONE (1) YEAR of the action, omission, event, or occurrence giving rise to the claim or suit, after which such claims will be time-barred and prohibited, without regard to any longer period of time which may be provided by any period of limitation or repose by law or statute.
+
+21. Miscellaneous.
+
+Notice: We may give You notice of certain events from time to time. You hereby acknowledge and consent that such notices will be effective upon our posting them on the Platform or (if we choose to do so in our sole discretion) delivering them to You through email if You have provided us with Your accurate email address, or otherwise upon our delivery of such notice (to the extent we elect to provide such notice through any other means).
+
+Rules of Construction: The section titles in these Terms are for convenience only and have no legal or contractual effect. The terms “include,” “includes,” or “including” mean “including without limitation.” Unless context requires otherwise, “or” will be constructed in the inclusive sense (“and/or”). To the extent that any provision of these Terms requires or is subject to Fanatics Sportsbook’s approval or consent, Fanatics Sportsbook shall be entitled to provide or withheld such approval or consent in its sole discretion.
+
+Force Majeure: The failure of Fanatics Sportsbook to comply with any provision of these Terms due to circumstances beyond its control including but not limited to an act of God, hurricane, war, fire, riot, earthquake, weather, pandemic or endemic, terrorism, act of public enemies, strikes, labor shortage, actions of governmental authorities or other force majeure event will not be considered a breach of these Terms, and Fanatics Sportsbook’s performance obligations, if any, shall be delayed until such time as performance becomes reasonably practicable and if performance is no longer possible.
+
+Assignment: These Terms and Your Account are personal to You, and You may not transfer or assign them. We may require the ability to transfer, assign or sublicense these Terms to a third party, for example (but without limitation) in the case of our engaging new third party service providers or in the case of a merger or acquisition.  Our performance under these Terms is subject to existing laws and legal process, and nothing contained in these Terms is in derogation of our right to comply with governmental, court and law enforcement requests or requirements relating to Your use of the Services or information provided to or gathered by us with respect to such use.
+
+Relationship: No joint venture, partnership, employment, or agency relationship exists between You, the Fanatics Sportsbook Parties, or any third party partner we may use as a result of the Agreements or Your use of the Services. 
+
+Entire Agreement: These Terms and all Agreements constitute the entire understanding between You and us, and supersede all prior understandings between You and us relating to the subject matter.  
+
+Severability: For the avoidance of doubt, these Terms apply solely to the extent permitted by law. If for any reason any provision of the Terms or portion thereof, is found by a court of competent jurisdiction to be unlawful, void, or unenforceable, that part of Terms will be deemed severable and shall not affect the validity and enforceability of the remainder of these Terms which shall continue in full force and effect. The parties agree further that If any part of these Terms is deemed to be illegal, invalid, void or for any reason unenforceable, that the invalid or unenforceable provision should, to the greatest extent possible, be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision.
+
+Waiver: Our failure to assert breach or a violation of these Terms or otherwise failure to exercise any rights under these Terms shall not constitute or be deemed a waiver or forfeiture of such rights or a waiver or forfeiture of such rights in the future.
+
+22. Contact Information.
+
+If You experience any problems or have any inquiries or concerns, please contact us.  You can reach us at the following address, or by utilizing the “Chat” function, which is available through the Platform:
+
+Address:  FBG Enterprises Opco, LLC.
+                PO Box 551702
+
+4150 Belfort Rd
+
+Jacksonville, FL. 32216
+
+Email: support@betfanatics.com 
+
+For legal inquiries, please contact our registered agent Corporation Service Company at their New York address (https://apps.dos.ny.gov/publicInquiry/EntityDisplay) or to contact FBG Enterprises Opco, LLC directly legal@betfanatics.com. Do not use these contacts for customer support.
+
+DM1\14677445.1

@@ -1,0 +1,37 @@
+User-agent: *  
+Disallow: /employee-forms/  
+
+User-agent: *  
+Disallow: /media/  
+
+User-agent: *  
+Disallow: /tickets/ 
+
+User-agent: *
+Disallow: /ticketseatmap/
+
+User-agent: *
+Disallow: /TicketSeatMap
+
+User-agent: *
+Disallow: /shoppingcart
+
+User-agent: *
+Disallow: /Tickets/
+
+User-agent: *
+Disallow: /Membership/SignIn?
+
+User-agent: *
+Disallow: /refer.aspx?
+
+User-agent: *
+Disallow: /concessions/
+
+User-agent: *
+Disallow: /Confirmation/
+
+
+Sitemap: https://www.cinemark.com/sitemap.xml
+User-agent: *
+Crawl-delay: 10

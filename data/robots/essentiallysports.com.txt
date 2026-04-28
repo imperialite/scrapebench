@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /wp-admin/
+Disallow: /xmlrpc.php
+Disallow: /wp-json/*
+Disallow: /search/*
+Disallow: /api/track/*
+Disallow: /_next/*
+
+Sitemap: https://www.essentiallysports.com/sitemap.xml
+
+Sitemap: https://www.essentiallysports.com/us-news-sitemap.xml

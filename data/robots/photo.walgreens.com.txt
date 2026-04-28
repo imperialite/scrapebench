@@ -1,0 +1,23 @@
+User-agent: proximic
+Disallow: /
+
+User-Agent: *
+Disallow: /store/loginto
+Disallow: /store/youraccount
+Disallow: /store/share
+Disallow: /create
+Disallow: /cart/shoppingcart
+Disallow: /cart/api/v1/addtocart
+Disallow: /cart/shipping
+Disallow: /cart/shippingmailonly
+Disallow: /cart/postshipping
+Disallow: /cart/payment
+Disallow: /cart/postwgcciframe
+Disallow: /cart/review
+Disallow: /cart/confirmation
+Disallow: /cart/orderstatus
+Disallow: /cart/tracking
+Disallow: /cart/reorder
+Disallow: /cart/keylist
+
+Sitemap: https://photo.walgreens.com/sitemap.xml

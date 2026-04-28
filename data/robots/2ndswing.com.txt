@@ -1,0 +1,67 @@
+User-agent: *
+
+#Default Instructions
+
+Disallow: /lib/
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /catalog/
+Disallow: /customer/
+Disallow: /sendfriend/
+Disallow: /review/
+Disallow: /*SID=
+
+#Restrict User Account & Checkout Pages
+
+Disallow: /checkout/
+Disallow: /onestepcheckout/
+Disallow: /customer/
+Disallow: /customer/account/
+Disallow: /customer/account/login/
+
+#Disallow Catalog Search Pages
+
+Disallow: /catalogsearch/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+
+#Disallow URL Filter Searches
+
+Disallow: /*?dir*
+Disallow: /*?dir=desc
+Disallow: /*?dir=asc
+Disallow: /*?limit=all
+Disallow: /*?mode*
+
+#Restrict CMS Directories
+
+Disallow: /app/
+Disallow: /bin/
+Disallow: /dev/
+Disallow: /lib/
+Disallow: /phpserver/
+Disallow: /pub/
+
+#Disallow Duplicate Content
+
+Disallow: /tag/
+Disallow: /review/
+
+User-agent:  SiteAuditBot
+Allow: /
+
+#Sitemap
+Sitemap: https://www.2ndswing.com/media/sitemap/sitemap.xml
+Sitemap: https://www.2ndswing.com/media/sitemap/sitemap-product-models.xml
+Sitemap: https://www.2ndswing.com/media/sitemap/sitemap-products.xml
+Sitemap: https://www.2ndswing.com/media/sitemap/sitemap-category.xml
+Sitemap: https://www.2ndswing.com/media/sitemap/sitemap-cms.xml
+
+#Slow down msn crawler
+User-agent: msnbot
+Crawl-delay: 10
+Sitemap: https://www.2ndswing.com/media/sitemap/sitemap.xml
+Sitemap: https://www.2ndswing.com/media/sitemap/sitemap_category.xml

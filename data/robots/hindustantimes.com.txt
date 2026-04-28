@@ -1,0 +1,51 @@
+ï»¿User-agent: *
+Allow: /
+Disallow: /what-now/card-details/
+Disallow: /*/url
+Disallow: /*/imageURL
+Disallow: /fragment/
+Disallow: /Fragment/
+Disallow: /Error/
+Disallow: /error/
+Disallow: /intfeeds/
+Disallow: /Images/HTEditImages
+Disallow: /images/HTPopups/
+Disallow: /Images/Popup/
+Disallow: /images/Popup/
+Disallow: /homenew
+Disallow: /dummytestpage/*
+Disallow: /brand-stories/international/*
+Disallow: /origin-pre-prod/*
+Disallow: /sponsored-stories/*
+Disallow: /brand-stories/*
+Disallow: /brand-post/*
+Disallow: /static-content/10s/us-election.html
+Disallow: /cdp/api/*
+Disallow: /cdp/user/*
+Disallow: /sponsored-post/*
+Disallow: /hot-amazon-deals
+Disallow: /s/*
+Disallow: /static-content/1y/pf/prod/sdk/cir_sdk.js
+Disallow: /static_ontent/1y/got/amp_onetap_iframe.html
+Disallow: /my-ht/*
+
+
+
+
+User-agent: facebookexternalhit
+Allow: /s/*
+
+
+User-agent: Facebot
+Allow: /s/*
+
+
+
+
+Sitemap: https://www.hindustantimes.com/sitemap/section.xml
+Sitemap: https://www.hindustantimes.com/sitemap/news.xml
+Sitemap: https://www.hindustantimes.com/sitemap/index.xml
+Sitemap: https://www.hindustantimes.com/sitemap/liveblog.xml
+Sitemap: https://www.hindustantimes.com/sitemap/education-static.xml
+Sitemap: https://www.hindustantimes.com/telugu/sitemap/news.xml
+Sitemap: https://www.hindustantimes.com/bangla/sitemap/news.xml

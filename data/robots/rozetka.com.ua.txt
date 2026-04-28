@@ -1,0 +1,75 @@
+User-Agent: *
+Disallow: /cgi-bin
+Disallow: */search/
+Disallow: /*utm_medium=rooms*
+Disallow: /*tab=*
+Disallow: /*gclid=*
+Disallow: /*yclid=*
+Disallow: /*delivery/
+Disallow: /*utm_trafmaguid=*
+Disallow: */comparison/
+Disallow: /landing_pages/*
+Disallow: /*kits_costs*
+Disallow: /landing-pages/*
+Disallow: /lazy_load/*
+Disallow: /*recent.rss
+Disallow: */checkin/*
+Disallow: */requests/return/*
+Disallow: */requests/service/*
+Disallow: /*?*
+Disallow: /*,*
+Disallow: */cabinet/*
+Disallow: */news-articles-promotions/promotions/*;*/
+Disallow: */news-articles-promotions/promotions/*/*/
+Disallow: /*sort=*
+Disallow: */filter/*
+Disallow: */section/*/*/
+Allow: */section/*/producer=*/
+Disallow: */section/*/producer=*;*/
+Disallow: */section/*/producer=*,*/
+Allow: /recent_recommends/action=getGoodsDetailsJSON/?goods_ids
+Allow: /*?utm_l=r*
+Allow: /*?advToken=*
+Allow: /api/*/*
+Allow: */checkin/$
+Allow: */requests/return/$
+Allow: */requests/service/$
+
+User-agent: Yahoo
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Mediapartners-Google
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-Agent: trendictionbot
+Disallow: /
+
+User-agent: Seekport Crawler
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /

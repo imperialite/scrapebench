@@ -1,0 +1,14 @@
+# .__________________________. # | .___________________. |==| # | | .................
+| | | # | | ::[ Dear robot ]: | | | # | | ::::[ be nice ]:: | | | # | | ::::::::::::::::: | | | # | | ::::::::::::::::: | | | # | | ::::::::::::::::: | | | # | | ::::::::::::::::: | | ,| # | !___________________! |(c| # !_______________________!__! # / \ # / [][][][][][][][][][][][][] \ # / [][][][][][][][][][][][][][] \ #( [][][][][____________][][][][] ) # \ ------------------------------ / # \______________________________/ # Disallow all crawlers access to certain pages.
+User-agent: * 
+Disallow: /consumerIndex.jhtml 
+Disallow: /merchantIndex.jhtml 
+Disallow: /itemDetailView.jhtml 
+Disallow: /expiredSession.html 
+Disallow: /PatientSurvey.html 
+Disallow: /api/* 
+Disallow: /apis/* 
+Disallow: /v1/* 
+Disallow: /tag_path/* 
+Disallow: /wf/* 
+Sitemap: https://foodlion.com/groceries/sitemap.xml

@@ -1,0 +1,40 @@
+User-agent: *
+Disallow: /generic
+Disallow: /var
+Disallow: /person
+Disallow: /photoalbum
+Disallow: /pay
+Disallow: /thank-you
+Disallow: /plans
+Disallow: /create-account
+Disallow: /account/choose-favorites
+Disallow: /collections/tag/*
+Disallow: /nextgen/
+
+Allow: /nextgen/events/*
+Allow: /nextgen/people/*
+Allow: /nextgen/*.js
+Allow: /nextgen/*.css
+
+User-agent: dotbot
+Crawl-delay: 10
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: Bytedance
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: AmazonAdBot
+Allow: /
+
+User-agent: GPTBot
+Disallow: /nextgen/people/*
+Disallow: /people/*
+
+User-agent: ClaudeBot
+Disallow: /nextgen/people/*
+Disallow: /people/*

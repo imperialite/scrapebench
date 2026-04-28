@@ -1,0 +1,7 @@
+User-agent: *
+Allow:    /$
+Allow:    /mail/$
+Allow:    /mail/u/0/$
+Disallow: /
+
+Sitemap: https://www.google.com/gmail/sitemap.xml

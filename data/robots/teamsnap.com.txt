@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.teamsnap.com
+
+# Sitemaps
+Sitemap: https://www.teamsnap.com/sitemap.xml

@@ -1,0 +1,20 @@
+# robots.txt for https://www.gelbeseiten.de/ || sw 20120323
+
+User-agent: *
+Disallow: /starteintrag/selbstedition/
+Disallow: /subscriberId=
+Disallow: /marktjagd/
+Disallow: /mobileadserver
+Disallow: /regionaleAnzeigen/
+Disallow: /suche
+Disallow: /Suche
+Disallow: /prg
+
+
+# Sitemap files
+Sitemap: https://www.gelbeseiten.de/branchenbuch/sitemap.xml
+Sitemap: https://www.gelbeseiten.de/sitemap_index_TrefferlisteStadt.xml
+Sitemap: https://www.gelbeseiten.de/sitemap_index_TrefferlisteStadtteil.xml
+Sitemap: https://www.gelbeseiten.de/sitemap_index_TrefferlisteBezirk.xml
+Sitemap: https://www.gelbeseiten.de/sitemap_index_detailseite.xml
+Sitemap: https://www.gelbeseiten.de/ratgeber/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://msu.edu/sitemap.xml

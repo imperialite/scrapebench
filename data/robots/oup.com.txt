@@ -1,0 +1,13 @@
+User-agent: *
+
+SITEMAP: http://global.oup.com/academic/sitemap.xml
+Disallow: /advanced_search
+Disallow: /academic/xyz/
+Disallow: /academic/store/
+Disallow: /academic/ecommerce/
+Disallow: /academic/promo/
+Disallow: /academic/promojump/
+Disallow: /academic/images/
+Disallow: /academic/promotions/
+Disallow: /academic/search
+Disallow: /academic/advanced_search

@@ -1,0 +1,26 @@
+User-Agent: *
+Allow: /
+Allow: /content/dam
+Allow: /myaccount/favicon.ico
+Disallow: /content
+Disallow: /amp/personal-loan
+Disallow: /amp/personal-loan-processing-fees-and-interest-rates
+Disallow: /amp/personal-loan-eligibility-and-documents
+Disallow: /amp/how-to-apply-for-personal-loan
+Disallow: /amp/personal-loan-in-chennai
+Disallow: /amp/business-loan
+Disallow: /amp/business-loan-interest-rates-and-charges
+Disallow: /amp/business-loan-eligibility-and-document
+Disallow: /deepak_bagati_Deepak_Bagati.png
+Disallow: /ashish_sapra_Ashish_Sapra.png
+Disallow: /diwakar_Diwakar_Pundir.png
+Disallow: /Anup_Saha_Anup_Saha.jpg
+Disallow: /sandeep_jain_sandeep-jain.png
+Disallow: /m_m_muralidharan_M_M_Muralidharan.png
+Disallow: /de-dup.html
+Disallow: /webform/Deposit/depositLandingPage
+Disallow: /app-v1/investments
+Disallow: /myaccount/
+
+
+Sitemap: https://www.bajajfinserv.in/sitemap-index.xml

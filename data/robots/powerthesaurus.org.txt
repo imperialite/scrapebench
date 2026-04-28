@@ -1,0 +1,24 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-Agent: FacebookBot
+Disallow: /
+
+User-agent: *
+Disallow: /_search
+Disallow: /_add
+Disallow: /_api
+Disallow: /cdn-cgi/
+Crawl-delay: 0.5
+
+Sitemap: https://www.powerthesaurus.org/xml/sitemap1.xml.gz
+Sitemap: https://www.powerthesaurus.org/sitemap.index.xml

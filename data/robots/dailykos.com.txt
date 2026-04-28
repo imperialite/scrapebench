@@ -1,0 +1,20 @@
+# License: https://dailykos.com/license.xml
+User-Agent: *
+Disallow: /comments/
+Disallow: /comment/
+Disallow: /api/v1/users/
+Disallow: /user/
+Disallow: /search
+Disallow: /part
+Disallow: /ajax
+Disallow: /softlaunch
+Disallow: /history
+# block ChatGPT from stealing our content
+User-Agent: GPTBot
+Disallow: /
+# block ClaudeBot from stealing our content
+User-Agent: ClaudeBot
+Disallow: /
+# block ahref
+User-Agent: AhrefsBot
+Disallow: /

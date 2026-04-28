@@ -1,0 +1,204 @@
+Website Terms of Use | athenahealth
+Patient Login
+athenaOne Login
+Website Terms of Use
+Last Modified: Nov 15, 2023
+Table of Contents
+Acceptance of the Terms of Use
+Changes to the Terms of Use and Services
+Additional Terms
+Note to Patients
+Accessing the Services and Account Security
+Intellectual Property Rights
+Trademarks
+Prohibited Uses
+Reliance on Information Posted
+Changes to the Services
+Information About You and Your Visits to the Services
+Linking to athenahealth.com and Social Media Features
+Links from the athenahealth.com
+The athenahealth Marketplace
+Geographic Restrictions
+Disclaimer of Warranties
+Limitation on Liability
+Indemnification
+Governing Law and Jurisdiction
+Limitation on Time to File Claims
+Waiver and Severability
+Entire Agreement
+Your Comments and Concerns
+I
+.
+Acceptance of the Terms of Use
+We, athenahealth, Inc. and our subsidiaries and affiliates (collectively “athenahealth”, “we”, “us”, “Company”) operate mobile applications, platforms, and other services that power health care solutions on behalf of healthcare providers (our “Services”). If we link or reference these Terms of Use as part of any Services, these Terms will apply to your use of the Services.
+These Terms of Use are a legal agreement between you and athenahealth.
+THESE TERMS OF USE CONTAIN PROVISIONS THAT LIMIT OUR LIABILITY TO YOU AND REQUIRE YOU TO RESOLVE ANY DISPUTE WITH US IN ACCORDANCE WITH THESE TERMS AND WITHOUT A JURY TRIAL, ON AN INDIVIDUAL BASIS, AND NOT AS PART OF ANY CLASS OR REPRESENTATIVE ACTION.
+Please read the Terms of Use carefully before you start to use the Services. By accessing or using the Services you accept and agree:
+• to enter into a legally binding agreement with athenahealth;
+• to be bound by and fully comply with these Terms of Use; and
+• you are at least the age of legal majority in your place of residence and otherwise legally competent to enter into contracts. Alternatively, if you are under the legal age of majority in your jurisdiction or otherwise not legally competent to enter into contracts, your parent or guardian must agree to these Terms of Use on your behalf prior to your use of the Services.
+If you do not want to agree to these Terms of Use, you must not access or use the Services.
+Return to top
+II
+.
+Changes to the Terms of Use and Services
+We may modify these Terms of Use at any time and without notice to you, in our sole discretion. All changes are effective immediately when we post them. You can view the most recent version of these Terms of Use at any time at athenahealth.com. Your continued use of the Services after publication of revised Terms of Use is deemed to be acceptance of those revisions. We may amend the content on athenahealth.com from time to time. Any of the material on athenahealth.com may be out of date at any given time, and we are under no obligation to update such material.
+Return to top
+III
+.
+Additional Terms
+These Terms of Use relate to your use of the Services. Additional specific terms or agreements may apply to a particular Service you use, such as if you participate in a survey or user experience study or operate mobile applications or platforms. To the extent there is a conflict between these Terms of Use and those specific terms, the provisions of the specific terms will control.
+Return to top
+IV
+.
+Note to Patients
+athenahealth provides patient-driven services that allow patients to communicate, coordinate and manage their medical care with their healthcare provider. When you use these patient-driven services, your use of those services is governed by our
+Patient Facing Applications Terms of Use
+, not by these Terms.
+Return to top
+V
+.
+Accessing the Services and Account Security
+We will not be liable if for any reason all or any parts of the Services are unavailable at any time or for any period. From time to time, we may restrict access to some parts of the Services, or the entire Services, to users, including registered users.
+To access the Services, you may be asked to provide certain registration details or other information. It is a condition of your use of the Services that all the information you provide is correct, current, and complete. You agree that all information you provide to register for the Services or otherwise, including but not limited to through the use of any interactive features on athenahealth.com, is governed by our
+Privacy Policy
+.
+All information we collect through the Services is subject to our
+Privacy Policy
+. By using the Services, you consent to all actions taken by us with respect to your information in accordance with the Privacy Policy.
+Return to top
+VI
+.
+Intellectual Property Rights
+The Services and its entire contents, features, and functionality (including but not limited to all information, software, text, displays, images, video and audio, and the design, selection and arrangement thereof), are owned by the Company, its licensors or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws.
+These Terms of Use permit you to use the Services for your personal use only. You may not access or use the Services, any part of the Services, or any materials available through the Services for a commercial purpose, except with written permission from athenahealth. You must not (i) reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store or transmit any of the material contained within our Services or (ii) delete or alter any copyright, trademark, or other proprietary rights notices from copies of materials from the Services.
+If you print, copy, modify, download or otherwise use or provide any other person with access to any part of the Services in breach of the Terms of Use, your right to use the Services will cease immediately and you must, at our option, return or destroy any copies of the materials you have made and attest to such destruction in writing. No right, title or interest in or to the Services or any content within Services is transferred to you, and all rights not expressly granted are reserved by the Company. Any use of the Services not expressly permitted by these Terms of Use is a breach of these Terms of Use and may violate copyright, trademark, and other laws.
+Return to top
+VII
+.
+Trademarks
+The Company name, the Company logo, and all related names, logos, product and service names, designs and slogans are trademarks of the Company or its affiliates or licensors. You must not use such marks without the prior written permission of the Company. All other names, logos, product and service names, designs and slogans on this Services are the trademarks of their respective owners.
+Return to top
+VIII
+.
+Prohibited Uses
+You may use the Services only for lawful purposes and in accordance with these Terms of Use.
+You agree not to use the Services:
+• In any way that violates any applicable federal, state, local or international law or regulation (including, without limitation, any laws regarding the export of data or software to and from the US or other countries).
+• For the purpose of exploiting, harming or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personally identifiable information or otherwise.
+• To impersonate or attempt to impersonate the Company, a Company employee, another user or any other person or entity (including, without limitation, by using e-mail addresses associated with any of the foregoing).
+• To engage in any other conduct that restricts or inhibits anyone’s use or enjoyment of the Services, or which, as determined by us, may harm the Company or users of the Services or expose them to liability.
+Additionally, you agree not to:
+• Use the Services in any manner that could disable, overburden, damage, or impair the site or interfere with any other party's use of the Services, including their ability to engage in real time activities through the Services.
+• Use any robot, spider or other automatic device, process or means to access the Services for any purpose, including monitoring or copying any of the material on the Services.
+• Use any manual process to monitor or copy any of the material on the Services or for any other unauthorized purpose without our prior written consent.
+• Use any device, software or routine that interferes with the proper working of the Services.
+• Introduce any viruses, trojan horses, worms, logic bombs or other material which is malicious or technologically harmful.
+• Attempt to gain unauthorized access to, interfere with, damage or disrupt any parts of the Services, the servers on which any parts of the Services are stored, or any server, computer or database connected to the Services.
+• Attack any parts of the Services via a denial-of-service attack or a distributed denial-of-service attack.
+• Otherwise attempt to interfere with the proper working of the Services.
+Without limiting the foregoing, we have the right to fully cooperate with any law enforcement authorities or court order requesting or directing us to disclose the identity or other information of anyone posting any materials on or through the Services. YOU WAIVE AND HOLD HARMLESS THE COMPANY AND ITS AFFILIATES, LICENSEES AND SERVICE PROVIDERS FROM ANY CLAIMS RESULTING FROM ANY ACTION TAKEN BY THE COMPANY OR ANY OF THE FOREGOING PARTIES DURING OR AS A RESULT OF ITS INVESTIGATIONS AND FROM ANY ACTIONS TAKEN AS A CONSEQUENCE OF INVESTIGATIONS BY EITHER THE COMPANY OR SUCH PARTIES OR LAW ENFORCEMENT AUTHORITIES.
+Return to top
+IX
+.
+Reliance on Information Posted
+The information presented within or through the Services is made available solely for general information purposes. We do not warrant the accuracy, completeness or usefulness of this information. Any reliance you place on such information is strictly at your own risk. We disclaim all liability and responsibility arising from any reliance placed on such materials by you or any other user of the Services, or by anyone who may be informed of any content available through the Services.
+The Services may include content provided by third parties, including materials provided by other users, bloggers and third-party licensors, syndicators, aggregators and/or reporting services. All statements and/or opinions expressed in these materials, and all articles and responses to questions and other content, other than the content provided by the Company, are solely the opinions and the responsibility of the person or entity providing those materials. These materials do not necessarily reflect the opinion of the Company. We are not responsible, or liable to you or any third party, for the content or accuracy of any materials provided by any third parties.
+Return to top
+X
+.
+Changes to the Services
+We may update the content on this Website from time to time, but its content is not necessarily complete or up-to-date. Any of the material on the Website may be out of date at any given time, and we are under no obligation to update such material.
+Return to top
+XI
+.
+Information About You and Your Visits to the Services
+All information we collect on this Website is subject to our
+Privacy Policy
+. By using the Website, you consent to all actions taken by us with respect to your information in compliance with the Privacy Policy.
+Return to top
+XII
+.
+Linking to athenahealth.com and Social Media Features
+You may link to athenahealth.com, provided you do so in a way that is legal, consistent with the Terms of Use and does not damage our reputation or take advantage of it. You must not establish a link in such a way as to suggest any form of association, approval or endorsement on our part without our express written consent.
+athenahealth.com may provide certain social media features that enable you to:
+Link from your own or certain third-party websites to certain content on athenahealth.com.
+Send e-mails or other communications with certain content, or links to certain content, on athenahealth.com.
+Cause limited portions of content on athenahealth.com to be displayed or appear to be displayed on your own or certain third-party websites.
+You may use these features (i) solely as they are provided by us, (ii) solely with respect to the content the features are displayed with, and (iii) otherwise in accordance with any additional terms and conditions we provide with respect to such features. Subject to the foregoing, you must not:
+Establish a link from any website that is not owned by you.
+Cause athenahealth.com or portions of it to be displayed, or appear to be displayed by, for example, framing, deep linking or in-line linking, on any other site.
+Link to any part of athenahealth.com other than the homepage.
+Otherwise take any action with respect to the materials on athenahealth.com that is inconsistent with any other provision of these Terms of Use.
+You agree to cooperate with us in immediately ceasing any unauthorized framing or linking. We reserve the right to withdraw linking permission without notice.
+We may disable all or any social media features and any links at any time without notice in our sole discretion.
+Return to top
+XIII
+.
+Links from the athenahealth.com
+If athenahealth.com contains links to other sites and resources provided by third parties, these links are provided for your convenience only. This includes links contained in advertisements, including banner advertisements and sponsored links. We have no control over the contents of those sites or resources and accept no responsibility for them or for any loss or damage that may arise from your use of them. If you decide to access any of the third party websites linked to athenahealth.com, you do so entirely at your own risk and subject to the terms and conditions of use for such linked websites.
+Return to top
+XIV
+.
+The athenahealth Marketplace
+The athenahealth Marketplace (the “Marketplace”) is a directory of products and services that are integrated with athenahealth Services. Athena clients may use the Marketplace to browse, locate, or request information for integrated products and services. These products and services are offered by third parties not affiliated with athenahealth. While athenahealth may integrate third-party products and services into athenahealth Services, you understand and agree that athenahealth in no way controls or is responsible for any third-party product or service on the Marketplace. Athenahealth will not be liable for your interactions with any organizations or individuals found on the Marketplace. You will need to contract separately for the integrated products and services offered by those third parties, and those dealings are solely between you and such organizations or individuals. Your use of any third-party product or service will not affect your relationship with athenahealth. Athenahealth will require further consent or authorization prior to sending any of your, your employer’s, or your or your employer’s patients’ information or data to any third party with which you contract.
+Return to top
+XV
+.
+Geographic Restrictions
+The owner of athenahealth.com is based in the Commonwealth of Massachusetts in the United States. We make no claims that the Services or any of its content is accessible or appropriate outside of the United States. Access to the Services may not be legal by certain persons or in certain countries. If you access the Services from outside the United States, you do so on your own initiative and are responsible for compliance with local laws.
+Return to top
+XVI
+.
+Disclaimer of Warranties
+You understand that we cannot and do not guarantee or warrant that files available for downloading from the internet or the Services will be free of viruses or other destructive code. You are responsible for implementing sufficient procedures and checkpoints to satisfy your particular requirements for anti-virus protection and accuracy of data input and output, and for maintaining a means external to our site for any reconstruction of any lost data. WE WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY A DISTRIBUTED DENIAL-OF-SERVICE ATTACK, VIRUSES OR OTHER TECHNOLOGICALLY HARMFUL MATERIAL THAT MAY INFECT YOUR COMPUTER EQUIPMENT, COMPUTER PROGRAMS, DATA OR OTHER PROPRIETARY MATERIAL DUE TO YOUR USE OF THE SERVICES OR ITEMS OBTAINED THROUGH THE SERVICES OR TO YOUR DOWNLOADING OF ANY MATERIAL POSTED ON IT, OR WITHIN ANY SERVICES LINKED TO IT.
+ATHENAHEALTH WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THE SERVICES, OR FROM ANY INFORMATION CONTENT, MATERIALS, PRODUCTS OR OTHER SERVICES INCLUDED ON OR OTHERISE MADE AVAILABLE TO YOU THROUGH THE SERVICES, INCLUDING BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, AND CONSEQUENTIAL DAMAGES.
+ATHENAHEALTH EXPRESSLY DISCLAIMS ANY RESPONSIBILITY FOR THE ACCURACY, CONTENT, AVAILABILITY OF INFORMATION, PRODUCTS, SERVICES, PRIVACY OR SECURITY PRACTICES OR MERCHANDISE FOUND ON THIRD PARTY SITES THAT LINK TO OR FROM THE SERVICES. ATHENAHEALTH CANNOT BE HELD RESPONSIBLE FOR THE MATERIAL CONTAINED ON THIRD PARTY SITES.
+YOUR USE OF THE SERVICES, ITS CONTENT AND ANY ITEMS OBTAINED THROUGH THE SERVICES IS AT YOUR OWN RISK. THE SERVICES, THEIR CONTENT AND ANY ITEMS OBTAINED THROUGH THE SERVICES ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. NEITHER THE COMPANY NOR ANY PERSON ASSOCIATED WITH THE COMPANY MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY OR AVAILABILITY OF THE SERVICES. WITHOUT LIMITING THE FOREGOING, NEITHER THE COMPANY NOR ANYONE ASSOCIATED WITH THE COMPANY REPRESENTS OR WARRANTS THAT THE SERVICES, THEIR CONTENT OR ANY ITEMS OBTAINED THROUGH THE SERVICES WILL BE ACCURATE, RELIABLE, ERROR-FREE OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT OUR SITE OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS OR THAT THE SERVICES OR ANY ITEMS OBTAINED THROUGH THE SERVICES WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS.
+THE COMPANY HEREBY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT AND FITNESS FOR PARTICULAR PURPOSE.
+WITHOUT LIMITING THE FOREGOING, ATHENAHEALTH.COM AND ITS CONTENTS ARE OFFERED FOR INFORMATIONAL PURPOSES ONLY. YOU UNDERSTAND, ACKNOWLEDGE AND AGREE THAT YOU ARE ASSUMING THE ENTIRE RISK AS TO THE QUALITY, ACCURACY, PERFORMANCE, TIMELINESS, ADEQUACY, COMPLETENESS, CORRECTNESS, AUTHENTICITY, SECURITY AND VALIDITY OF ANY AND ALL FEATURES AND FUNCTIONS OF ATHENAHEALTH.COM.
+THE FOREGOING DOES NOT AFFECT ANY WARRANTIES WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+Return to top
+XVII
+.
+Limitation on Liability
+IN NO EVENT WILL THE COMPANY, ITS AFFILIATES OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, THE SERVICES, ANY SERVICESS LINKED TO IT, ANY CONTENT WITHIN THE SERVICES OR ITEMS OBTAINED THROUGH THE SERVICES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT OR OTHERWISE, EVEN IF FORESEEABLE.
+THE FOREGOING DOES NOT AFFECT ANY LIABILITY WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+Return to top
+XVIII
+.
+Indemnification
+You agree to defend, indemnify and hold harmless athenahealth, its affiliates, licensors and service providers, and its and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses or fees (including reasonable attorneys’ fees) arising out of or relating to your violation of these Terms of Use or your use of the Services, including, but not limited to, any use of the Services’ content, services and products other than as expressly authorized in these Terms of Use or your use of any information obtained from the Services.
+Return to top
+XIX
+.
+Governing Law and Jurisdiction
+All matters relating to the Services and these Terms of Use and any dispute or claim arising therefrom or related thereto (in each case, including non-contractual disputes or claims), shall be governed by and construed in accordance with the internal laws of the Commonwealth of Massachusetts without giving effect to any choice or conflict of law provision or rule (whether of the Commonwealth of Massachusetts or any other jurisdiction).
+You expressly agree that exclusive jurisdiction for any dispute with athenahealth resides in the courts of Suffolk County, Massachusetts, and you further agree and expressly consent to the exercise of personal jurisdiction in the courts of Suffolk County, Massachusetts, in connection with any claim involving athenahealth. Use of the Services is unauthorized in any jurisdiction that does not give effect to these Terms and Conditions and all of the terms and conditions set forth herein.
+Return to top
+XX
+.
+Limitation on Time to File Claims
+ANY CAUSE OF ACTION OR CLAIM YOU MAY HAVE ARISING OUT OF OR RELATING TO THESE TERMS AND CONDITIONS, THE SERVICES OR THE CONTENT MUST BE COMMENCED WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES, OTHERWISE, SUCH CAUSE OF ACTION OR CLAIM IS PERMANENTLY BARRED.
+Return to top
+XXI
+.
+Waiver and Severability
+No waiver of liability by the Company of any term or condition set forth in these Terms of Use shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of the Company to assert a right or provision under these Terms of Use shall not constitute a waiver of such right or provision.
+If any provision of these Terms of Use is held by a court or other tribunal of competent jurisdiction to be invalid, illegal or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of the Terms of Use will continue in full force and effect.
+Return to top
+XXII
+.
+Entire Agreement
+The Terms of Use and our Privacy Policy constitute the sole and entire agreement between you and athenahealth with respect to the Services and subject to Section II, supersede all prior and contemporaneous understandings, agreements, representations and warranties, both written and oral, with respect to the Services.
+Return to top
+XXIII
+.
+Your Comments and Concerns
+If you have any questions or comments, please contact us at:
+1. (617) 402-1000, or
+2. athenahealth, Inc.
+Attn: Chief Compliance Officer
+80 Guest Street
+Boston, MA 02135
+Return to top

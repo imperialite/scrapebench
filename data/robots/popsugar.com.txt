@@ -1,0 +1,113 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+Disallow:
+
+User-agent: Amazonbot 
+Allow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: anthropic-ai 
+Disallow: /
+
+User-agent: Bytespider  
+Disallow: /
+
+User-agent: CCBot 
+Disallow: /
+
+User-agent: ChatGPT-User  
+Disallow: /
+
+User-agent: ClaudeBot  
+Disallow: /
+
+User-agent: Claude-Web  
+Disallow: /
+
+User-agent: Diffbot  
+Disallow: /
+
+User-agent: FacebookBot 
+Disallow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: ImagesiftBot  
+Disallow: /
+
+User-agent: Omgilibot  
+Disallow: /
+
+User-agent: Omgili 
+Disallow: /
+
+User-agent: PerplexityBot  
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+# Directories
+
+# Paths
+Disallow: /stories/shop/
+
+# This is the legacy PS robots file for legacy pages.
+
+User-agent: *
+Allow: /files/thumbor/
+Disallow: /*/next$
+Disallow: /*/previous$
+Disallow: /*/river$
+Disallow: /*/undefined/*
+Disallow: /*?*append_element
+Disallow: /*most-shared?*page=
+Disallow: /admin/
+Disallow: /ajax/
+Allow: /ajax/node-get-cta-content
+Disallow: /api/
+Disallow: /author/*?*page=
+Disallow: /favorites/
+Disallow: /find/
+Disallow: /forums/
+Disallow: /gallery/
+Disallow: /modules/
+Disallow: /mobile/
+Disallow: /outgoing/
+Disallow: /psvn/embed
+Disallow: /recipes/
+Disallow: /register
+Disallow: /remotelogin
+Disallow: /search
+Disallow: /shopstyle
+Disallow: /sign-up/
+Disallow: /static/ck.php
+Disallow: /sugar-ads/
+Disallow: /user/
+Allow: /user/login
+Disallow: /warn/
+Disallow: /*?fss=1
+Disallow: /*/tag-site/*
+Disallow: /stories/shop/
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: *
+Disallow: /celebrity/Brad-Pitt-Crazy-Stuff-499534
+
+Sitemap: https://www.popsugar.com/smap

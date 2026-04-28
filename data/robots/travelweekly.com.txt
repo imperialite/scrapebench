@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /User/
+Disallow: /Overlay/
+Disallow: /Test/
+Sitemap: https://www.travelweekly.com/sitemap/sitemap.xml

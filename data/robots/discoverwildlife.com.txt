@@ -1,0 +1,7 @@
+User-agent: GPTBot
+Disallow: /
+User-agent: *
+Disallow: /search
+Disallow: /*?preview=true
+Sitemap: https://www.discoverwildlife.com/sitemap/index.xml.gz
+Sitemap: https://www.discoverwildlife.com/sitemap/news.xml.gz

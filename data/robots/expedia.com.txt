@@ -1,0 +1,98 @@
+#
+# General bots
+#
+user-agent: *
+#hotel
+disallow: /Hotel-Search
+Disallow: /hotel-search
+disallow: /ugc/urs/api/hotelreviews/hotel/HOTELID/
+disallow: /LastBooking/ElapsedTime
+disallow: /*Hotel-Information?
+disallow: /*Informacion-Hotel?
+disallow: /HotelCheckout
+disallow: /Checkout
+disallow: /checkout
+disallow: /HotelBookingConfirmation
+#flight
+disallow: /Flights-Search
+disallow: /Flight-Information
+disallow: /Flight-SearchResults
+disallow: /Flights-BagFees
+disallow: /Details
+disallow: /FlightCheckout
+disallow: /Confirmation-Flight
+#package
+disallow: /MultiItemCheckout
+disallow: /MultiItemBookingConfirmation
+Disallow: /flexibleshopping
+#car
+disallow: /carsearch
+disallow: /CarCheckout
+#activities
+disallow: /things-to-do/search?
+disallow: /things-to-do/*/search?
+disallow: /*/things-to-do/search
+#cruise
+disallow: /Cruise-Search
+disallow: /Cruise-CabinCategory
+disallow: /CruiseCheckout
+#other
+disallow: /legacyGOTO
+disallow: /go/
+disallow: /info/
+disallow: /trips/
+disallow: /Search-Results
+Disallow: /pictures/*+*
+Disallow: /fotos/es/*+*
+disallow: /user/createaccount
+Disallow: /signup?*
+Disallow: /login?*
+disallow: /things-to-do/reviews-external$
+#test-seo
+Disallow: /api/uisprime/track
+Disallow: /trvl-px/
+Disallow: /egcs/v2/collect
+Disallow: /api/ucs/shortlist/
+Disallow: /api/v4/typeahead/
+#
+# Google Ads
+#
+#
+user-agent: google-hoteladsverifier
+user-agent: Mediapartners-Google
+user-agent: AdsBot-Google-Mobile
+user-agent: AdsBot-Google
+Allow: /
+#test-seo
+Disallow: /api/uisprime/track
+Disallow: /trvl-px/
+Disallow: /egcs/v2/collect
+Disallow: /api/ucs/shortlist/
+Disallow: /api/v4/typeahead/
+
+#
+# Bing Ads
+#
+user-agent: AdIdxBot
+allow: /
+
+#
+# SemrushBot
+#
+user-agent: SemrushBot
+disallow: /
+
+#
+# OpenAI
+#
+user-agent: ChatGPT-User
+allow: /
+
+# Allow Agentic Search
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Claude-User
+User-agent: Claude-SearchBot
+Allow: /

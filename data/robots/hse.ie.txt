@@ -1,0 +1,6 @@
+
+    User-agent: *
+Allow: /
+Sitemap: https://www2.hse.ie/sitemap1.xml
+Sitemap: https://www2.hse.ie/sitemap_hospitals.xml
+Sitemap: https://app-wagtail-euno-prd.azurewebsites.net/sitemap1.xml

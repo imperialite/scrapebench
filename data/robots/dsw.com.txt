@@ -1,0 +1,71 @@
+User-agent: *
+Allow: /
+
+Disallow: /browse*
+Disallow: /confirmation*
+Disallow: /my-profile*
+Disallow: /sign-in*
+Disallow: /create-account*
+Disallow: /order-history*
+Disallow: /shared-favorites*
+Disallow: /order-status*
+Disallow: /customer-lookup*
+Disallow: /favorites*
+Disallow: /profile*
+Disallow: /insole*
+Disallow: /landing*
+Disallow: /error*
+Disallow: /lounge*
+Disallow: /timeout*
+Disallow: /site-down*
+Disallow: /browser-not-supported*
+Disallow: *Ntt=*
+Disallow: *ntt=*
+
+Disallow: *price=*
+Disallow: *price_range=*
+Disallow: /category/*brand=*
+
+Disallow: /category/*&*&*
+Disallow: /brands/*&*&*
+
+# Block facets with multiple selections
+Disallow: /category/*?*,*
+Disallow: /brands/*?*,*
+
+Disallow: *?c=*
+Disallow: *&c=*
+
+Disallow: *?bvstate=*
+Noindex: *?bvstate=*
+
+# Temporary workaround for issue post-PIM implementation
+# https://dev.azure.com/designerbrands/IT/_workitems/edit/600910
+Disallow: *activeColor=a*
+Disallow: *activeColor=b*
+Disallow: *activeColor=c*
+Disallow: *activeColor=d*
+Disallow: *activeColor=e*
+Disallow: *activeColor=f*
+Disallow: *activeColor=g*
+Disallow: *activeColor=h*
+Disallow: *activeColor=i*
+Disallow: *activeColor=j*
+Disallow: *activeColor=k*
+Disallow: *activeColor=l*
+Disallow: *activeColor=m*
+Disallow: *activeColor=n*
+Disallow: *activeColor=o*
+Disallow: *activeColor=p*
+Disallow: *activeColor=q*
+Disallow: *activeColor=r*
+Disallow: *activeColor=s*
+Disallow: *activeColor=t*
+Disallow: *activeColor=u*
+Disallow: *activeColor=v*
+Disallow: *activeColor=w*
+Disallow: *activeColor=x*
+Disallow: *activeColor=y*
+Disallow: *activeColor=z*
+
+Sitemap: https://www.dsw.com/sitemap/cs_index.xml

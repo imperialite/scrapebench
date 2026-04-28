@@ -1,0 +1,315 @@
+Terms of use | Blue Shield of California
+skip to main content
+Skip to content
+English
+Tiếng Việt
+中文
+Español
+Pay my premium
+For Employers
+For Brokers
+For Providers
+Log in/Register
+Account
+My profile
+Back to dashboard
+Health record
+Manage family access
+ID card
+Message Center
+Help & support
+Log out
+Plans
+Plans
+Overview
+What you get
+Individual and family plans
+Medicare plans
+Medi-Cal (Blue Shield Promise)
+Covered with employer
+Maintain coverage
+Find a doctor
+Find a doctor
+Be well
+Be well
+Overview
+Live healthy
+Conditions and care programs
+Pharmacy
+Mental health resources
+Your care options
+Get more
+Get more
+Overview
+Understanding health care
+Your health & well-being
+Innovations in health care
+https://bsc-elasticcloud.ent.westus2.azure.elastic-cloud.com/api/as/v1/engines/member
+search-djvwj8yssbq9riwabtcgecgv
+/en/home/search-results
+Search
+Close
+Log in/Register
+Account
+My profile
+Back to dashboard
+Health record
+Manage family access
+ID card
+Message Center
+Help & support
+Log out
+Log in/Register
+Account
+My profile
+Back to dashboard
+Health record
+Manage family access
+ID card
+Message Center
+Help & support
+Log out
+https://bsc-elasticcloud.ent.westus2.azure.elastic-cloud.com/api/as/v1/engines/member
+search-djvwj8yssbq9riwabtcgecgv
+/en/home/search-results
+Search
+Close
+Plans
+Plans
+Overview
+What you get
+Individual and family plans
+Medicare plans
+Medi-Cal (Blue Shield Promise)
+Covered with employer
+Maintain coverage
+Find a doctor
+Find a doctor
+Be well
+Be well
+Overview
+Live healthy
+Conditions and care programs
+Pharmacy
+Mental health resources
+Your care options
+Get more
+Get more
+Overview
+Understanding health care
+Your health & well-being
+Innovations in health care
+Pay my premium
+For Employers
+For Brokers
+For Providers
+Terms of use
+Consent to use of website
+This website is owned and operated by Blue Shield of California, and its affiliates, including Blue Shield of California Life & Health Insurance Company. Please read the following terms and conditions ("Terms of Use") carefully and completely before using this website. The Terms of Use set forth a variety of information, including but not limited to, Blue Shield of California's disclaimers of warranty, privacy policy, limitation of liability and indemnification. By using this site and the links accessible through this site, you expressly agree to be bound by these terms and conditions and any other terms and conditions set out throughout the site. The information, materials and resources contained on and accessible through this site are made available to you by Blue Shield of California and its suppliers and vendors, subject to your agreement to the terms and conditions listed herein. Please note that use of some areas of this website, such as specific sections offering features and functionality for employer groups, plan administrators, agents or brokers may be subject to additional terms and conditions.
+Any activity on this website is subject to monitoring by Blue Shield of California. By using this website, you are consenting to such monitoring and agree that Blue Shield of California may use the results of such monitoring without limitation.
+If you do not agree with these Terms of Use, please do not use this website.
+It is a condition of your use of this website that you do not restrict or inhibit any other user from using this website.
+SMS/MMS terms and conditions
+We provide members with the opportunity to interact with Blue Shield of California through different text message programs. These include, but are not limited to, billing and payment reminders, care management outreach, care management member-specific communications, and general marketing. Notifications can include information about Blue Shield and its plans, related entities' products and services, events, special offers, special discounts, or other promotional information. These programs operate independently.
+Joining and short codes
+The SMS/MMS service operates by sending text messages to and from the short codes below. Each short code has its own service:
+81368: Annual Health Assessment (AHA) alerts
+. This program provides text messages to members with information regarding scheduling their annual health assessment. To enroll,
+register or log in to your Blue Shield online account
+. Then go to the Communication preferences section in your account profile. Or you may text AHA to 81368. Mobile phone numbers provided for this program are used only for Annual Health Assessment reminders. They are not used for other text message programs. By opting in, you agree to receive Blue Shield Annual Health Assessment information and reminders via text from Blue Shield and our SMS/MMS service provider. These will be sent to the mobile number you gave even if that number is on the Do Not Call Registry. You agree to be bound by these terms and our
+privacy policy
+. Taking part is voluntary. It is not a condition of buying or taking part in any Blue Shield plan.
+68347: Billing and payment reminders.
+This program provides text messages to members with important account billing and payment information. For example, an outstanding payment that is due. To enroll,
+register or log in to your Blue Shield online account
+. Then go to the Communication preferences section in your account profile. Or you may text JOIN to 68347. Mobile phone numbers provided for this program are used only for billing and payment reminders. They are not used for other text message programs. By opting in, you agree to receive Blue Shield billing and payment information and reminders via text from Blue Shield and our SMS/MMS service provider. These will be sent to the mobile number you gave even if that number is on the Do Not Call Registry. You agree to be bound by these terms and our
+privacy policy
+. Taking part is voluntary. It is not a condition of buying or taking part in any Blue Shield plan.
+62891: Care management outreach.
+This program provides text messages to members with information about Blue Shield programs that may be available to them. To enroll,
+register or log in to your Blue Shield online account
+. Then go to the Communication preferences section in your account profile. Or you may text JOIN to 62891. Mobile phone numbers provided for this program are used only for care management text messages about Blue Shield programs available to members. They are not used for other text message programs. By opting in, you agree to receive text messages about Blue Shield programs available under your Blue Shield plan from Blue Shield and our SMS/MMS service provider. These will be sent to the mobile number you gave even if that number is on the Do Not Call Registry. You agree to be bound by these terms and our
+privacy policy
+. Taking part is voluntary. It is not a condition of buying or taking part in any Blue Shield plan.
+90943: Care management member-specific communications.
+This program provides personalized text message communications, such as appointment reminders. To enroll,
+register or log in to your Blue Shield online account
+. Then go to the Communication preferences section in your account profile. Or you may text JOIN to 90943. Mobile phone numbers provided for this program are used only for care management member-specific text messages. They are not used for other text message programs. By opting in, you agree to receive Blue Shield text messages with information and healthcare reminders from Blue Shield and our SMS/MMS service provider. These will be sent to the mobile number you gave even if that number is on the Do Not Call Registry. You agree to be bound by these terms and our
+privacy policy
+. Taking part is voluntary. It is not a condition of buying or taking part in any Blue Shield plan.
+24616: General communications and marketing.
+This program provides text messages to members with information on programs and initiatives. These include healthcare reminders, new health programs, and plan enrollment information. Texts may be autodialed, pre-recorded, or promotional. Taking part is voluntary. It is not a condition of buying or taking part in any Blue Shield plan. To enroll,
+register or log in to your Blue Shield online account
+. Then go to the Communication preferences section in your account profile. Or you may text JOIN to 24616. Mobile phone numbers provided for this program are used only to send Blue Shield marketing text messages. They are not used for other text message programs. By opting in, you agree to receive Blue Shield marketing communications via text from Blue Shield and our SMS/MMS service provider. These will be sent to the mobile number you provided even if that number is on the Do Not Call Registry. You agree to be bound by these terms and our
+privacy policy
+.
+21867: Health news feed.
+This program provides members a web-based, health news feed. The secure and personalized news feed is accessible on mobile phones. It provides information about members’ Blue Shield health plan and other health educational content. Taking part is voluntary. It is not a condition of buying or taking part in any Blue Shield plan. To enroll, refer to the invitation text sent to your mobile phone. Mobile phone numbers provided for this program are used only to provide health news feed text messages. They are not used for other text message programs. By opting in, you agree to receive health news feed communications via text from Blue Shield and our SMS/MMS service provider. These will be sent to the mobile number you provided even if that number is on the Do Not Call Registry. You agree to be bound by these terms and our
+privacy policy
+.
+Program terms for all Blue Shield text message programs
+By opting in to any of the text message programs above, each Blue Shield mobile text subscriber:
+Acknowledges that the subscriber is the authorized user of the mobile device and owner of the mobile phone number provided in the enrollment process. Or, that they have been authorized to act by and on behalf of the authorized user of the mobile device and owner of the mobile phone number provided.
+Gives Blue Shield and its agents express permission to send text messages to the mobile number until the subscriber tells Blue Shield to stop. For the general marketing program, these may include autodialed, pre-recorded, and/or promotional texts.
+Agrees to receive text messages from Blue Shield even if the registered mobile number is on a do-not-call list.
+You may cancel taking part in any of the text message programs at any time by responding with STOP. You will need to cancel participation for each program separately. Reply HELP to any text at any time for assistance.
+Blue Shield of California does not charge any fee for your taking part in either text message program.
+Message and data rates may apply. Message frequency may vary. Check with your wireless carrier for details about message or data rates or charges that may apply.
+If you enroll in our text messaging program, we will collect your mobile phone number to send text messages to you. Please be assured we do not share mobile subscriber data with third parties other than our text message service provider. This provider is not allowed to use it for their own purposes.
+If you change carriers or change or deactivate your mobile number, it is your responsibility to opt out of Blue Shield’s text messaging program before making any such change. Failing to do so will be a material breach of these program terms.
+How to cancel
+If you have enrolled in more than one of the above text message programs, you will need to cancel each specific program to be unsubscribed from that particular program. This allows you to continue to receive texts from the other programs if you decide to cancel only one program. To cancel from any specific program and receive one confirming text you can:
+Reply STOP to any text message you receive from that program;
+Text STOP to the short code above for the program you wish to cancel;
+Log in to your Blue Shield online account and go to the Communication preferences section in your account profile. Then deselect the check box for text messages under your mobile number for that program;
+Call the Customer Service number on your Blue Shield member ID card. Tell the representative that you want to cancel the specific text program.
+To cancel multiple programs and receive one confirming text from each canceled program, follow the instructions in either of the final two options above.
+How to get help with text notifications
+Reply HELP to any text from Blue Shield at any time. You will receive a response text and be directed to call Customer Service at
+(800) 393-6130
+(TTY: 711) or to visit
+https://www.blueshieldca.com/memberwebapp/technical-support
+. For additional support, you may also call the Customer Service number on your Blue Shield member ID card.
+For more support, call Customer Service at
+(800) 393-6130
+(TTY: 711).
+SMS/MMS supported carriers
+AT&T, T-Mobile (T-Mobile is not liable for delayed or undelivered messages), Verizon Wireless, U.S. Cellular, Boost Mobile, Cricket, Virgin Mobile, Iowa Wireless, Metro PCS (GSM), ACS Wireless, West Central Cellular, Ntelos, Bluegrass, Plateau Wireless, AWCC, Cellular South, Carolina West Wireless, Immix Wireless/Keystone Wireless, Golden State Cellular, Cellcom, ECIT, GCI/Alaska Digitel, Inland Cellular, Illinois Valley, Nex-Tech, Chat Mobility, NW Missouri Cellular, NE Cellular One of PA, Element Wireless, MTPCS, Thumb Cellular, Viaero Wireless.
+If your mobile operator is not supported, you will not receive a reply to your messages. Some operators may not support some services at the process offered. Pre-paid users may not be able to take part. Check with your mobile operator.
+Blue Shield of California collects certain information automatically upon subscription. Information collected includes the type of mobile device you use, unique device identifier, and mobile operating system.
+Digital ID card policy
+By opting in to receive paperless communications, members are agreeing to access member ID Cards digitally via their bsca.com account on mobile app or web browser. Members can download and print a PDF version of their ID card from the mobile app or web browser at any time.
+General information
+Blue Shield of California is licensed to use the Blue Shield name and marks to sell health plans in the state of California. The product and/or services descriptions, if any, provided on this site are not intended to constitute offers to sell or solicitations in connection with any product or service. All products may not be available in all areas of California and are subject to applicable regulations. Covered services and benefits set out on this site are provided under the terms and conditions of the applicable Blue Shield of California plan contract, including limitations and exclusions.
+Blue Shield 65 Plus is a Medicare-contracted HMO with a Medicare+Choice contract open to all Medicare beneficiaries entitled to Medicare Parts A and B. Beneficiaries without Part A must purchase coverage from Social Security. Members must pay Part B premiums and use Blue Shield 65 Plus providers for routine care. Minimal copayments apply to some services. Plan premiums apply in some counties. Brand name prescription drugs are limited and must be included on Blue Shield's comprehensive formulary. The formulary may change at any time without notice.
+If you are interested in a particular Blue Shield of California product, please contact the local Blue Shield of California representative to determine whether the product and/or service is available in your area, and if it is, you may request a copy of the applicable policy which contains a complete description of the product and/or services.
+Privacy statement
+All personal information that you, as a site user, provide on this site is handled and protected as set forth in Blue Shield of California's Internet Privacy Policy, which is incorporated here by this reference.
+Linking policy
+Written permission is required from Blue Shield of California's Web Master to create a link from an external website to Blue Shield of California's home page or any pages within Blue Shield of California's website.
+General prohibitions
+You agree not to do any of the following while using this site or content contained on the site
+Post, publish or transmit any text, graphics or other material that: (i) is false or misleading; (ii) is defamatory; (iii) invades another's privacy; (iv) is obscene, pornographic, or offensive; (v) promotes bigotry, racism, hatred or harm against any individual or group; (vi) infringes another's rights, including any intellectual property rights; (vii) violates or encourages others to violate any applicable law or regulation; or (viii) would give rise to civil liability;
+Access, tamper with, or use any non-public areas of the site, Blue Shield of California's computer systems, or the technical delivery systems of Blue Shield of California's providers;
+Attempt to probe, scan, or test the vulnerability of any system or network or breach any security or authentication measures;
+Attempt to access or search the site or content with any engine, software, tool, agent, device or mechanism other than software and/or search agents provided by Blue Shield of California or other generally available third party web browsers;
+Send unsolicited email, junk mail, "spam," promotional or advertising for products or services, or chain letters;
+Forge any TCP/IP packet header or any part of the header information in any electronic communication or posting, or in any way use the site or content to send altered, deceptive or false source-identifying information;
+Attempt to decipher, decompile, disassemble or reverse engineer any of the software used to provide the site or content;
+Interfere with, or attempt to interfere with, the access of any user, host or network, including without limitation sending a virus, overloading, flooding, spamming, or mail-bombing the site;
+Impersonate or misrepresent your affiliation with any person or entity; or
+Use the site or content in any way that violates any applicable law, statute, ordinance or regulation (including but not limited to those pertaining to consumer protection, unfair competition, anti-discrimination, false advertising or export control).
+Interactive features
+Blue Shield of California may offer Blue Shield of California health plan members or Blue Shield of California Life & Health Insurance Company insureds (collectively, a "Member") certain interactive features through this site from time to time. Interactive features may include the opportunity to post or upload content, share information with other Members, and evaluate Blue Shield of California products or services.
+By using any of these interactive features, you represent and warrant that:
+you are a current Member;
+you are the sole author and owner of all intellectual property rights contained content submitted to Blue Shield of California; and
+you are at least 18 years of age.
+With respect to any content you submit to the site, you further represent, warrant and agree that:
+the content is accurate, and does not contain any information you know to be false or misleading;
+the content does not infringe any third party's copyright, patent, trademark,trade secret, or other confidential or proprietary rights, nor rights of publicity or privacy;
+you have not been compensated or received any consideration from any third party to submit the content;
+the content has not been previously published or exploited in any manner or medium;
+the content does not include any information that references other websites, addresses, email addresses, phone numbers, or other contact information; and
+nothing within any content submitted, nor use of that content, would violate these Terms of Use or any applicable laws.
+the content does not contain any material that is sexually explicit or suggestive, contains full or partial nudity or any material that is violent or derogatory of any ethnic, racial, gender, religious, professional or age group or that is otherwise lewd, offensive, inappropriate or obscene;
+the content will not contain or promote the products or services of any company or entity or promote any brand or product of any kind other than Blue Shield of California
+the content will not contain any material that is derogatory, profane, defamatory, libelous, slanderous or disparaging.
+For any content that you submit, you hereby grant to Blue Shield of California a perpetual, irrevocable, royalty-free, transferable right and license to use, copy, display, distribute, modify, and create derivative works based upon any content you submit, including incorporating the content into any form, medium or technology throughout the world without compensation to you. You further voluntarily waive any "moral rights" you may have in such content.
+All content that you submit may be used at Blue Shield of California's sole discretion. Blue Shield of California reserves the right to change, condense or delete any content on the site that Blue Shield of California deems, in its sole discretion, to violate content guidelines or any other provision of these Terms of Use. Blue Shield of California does not guarantee that you will have any recourse through Blue Shield of California or third parties to edit or delete any content you have submitted. Blue Shield of California reserves the right to remove or to refuse to post any submission for any reason. You acknowledge that you, not Blue Shield of California, are responsible for the contents of your submission. None of the content that you submit shall be subject to any obligation of confidentiality on the part of Blue Shield, its agents, subsidiaries, affiliates, partners or third party service providers and their respective directors, officers and employees.
+Should you provide your email address in connection with your submitted content, you agree that Blue Shield and its third party service providers may use your email address to contact you about the content and for other administrative purposes.
+Service marks/Trademarks/Copyrights
+Blue Shield of California is a Registered® mark of the BlueCross BlueShield Association, an association of independent Blue Cross and Blue Shield plans. Blue Shield of California and Mylifepath are service marks of Blue Shield of California. All materials on this server and this Internet site, including the site's design, layout, and organization, are owned and copyrighted by Blue Shield of California or its suppliers or vendors, and is protected by copyright law.
+It is Blue Shield of California's policy to respond to notices of alleged infringement that comply with the Digital Millennium Copyright Act and other applicable intellectual property laws, which may include removing or disabling access to material claimed to be the subject of infringing activity. Pursuant to 17 United States Code Section 512(c)(2) (Digital Millennium Copyright Act of 1998), Blue Shield of California's designated agent for notice of alleged copyright infringement appearing on the site is:
+50 Beale Street
+San Francisco, CA
+fax: 415-229-5567
+email:
+copyrightnote@blueshieldca.com
+Filing a notice of infringement with Blue Shield of California requires compliance with the requirements specified in Title II of the Digital Millennium Copyright Act of 1998. The text of this statute can be found at the U.S. Copyright Office website,
+http://www.copyright.gov
+(visited October, 2013).
+Restrictions on use of materials/Information on website
+Only personal use of such materials is permitted, which means that you may access, download, or print such materials for your personal, non-commercial use only. You agree not to change or delete any copyright or proprietary notice from materials downloaded from this site or any site accessible through this site.
+Without the prior written permission of Blue Shield of California (or the applicable Blue Shield of California supplier or vendor), you may not publish, copy, reproduce, distribute, transfer, upload, post, transmit, or otherwise use any materials contained on this site, or any materials accessible through this site, in whole or in part. Requests for Blue Shield of California's permission to publish, copy, reproduce, distribute, transfer, or otherwise use such materials should be emailed to Blue Shield of California's Web Master.
+Disclaimer
+INFORMATION, SERVICES, PRODUCTS, MATERIALS AND OTHER RESOURCES ON THIS WEBSITE IS PROVIDED "AS IS," "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. BLUE SHIELD OF CALIFORNIA AND ITS SUPPLIERS AND VENDORS DISCLAIM ALL EXPRESS OR IMPLIED REPRESENTATIONS OR WARRANTIES WITH REGARD TO THE INFORMATION, SERVICES, PRODUCTS, MATERIALS, AND ANY OTHER RESOURCES CONTAINED ON OR ACCESSIBLE THROUGH THIS SITE. NO WARRANTY OR REPRESENTATION IS MADE THAT THE INFORMATION ON THIS SITE IS ERROR-FREE.
+All information provided on this website is intended only for informational purposes and for your general knowledge, and is not a substitute for medical advice or treatment, or for the care that patients receive from their physicians. Nothing on this site is intended to be used for medical diagnosis or treatment. Always seek the advice of your physician before beginning any new treatment or if you have any questions regarding a medical condition. The opinions expressed by Members or third parties through interactive features of the site are those of the author, and do not necessarily reflect those of Blue Shield of California. Blue Shield of California does not endorse any specific product, service or treatment identified by Members or third parties in interactive features of the site. You should not disregard medical advice from a qualified medical professional because of something you read on this site.
+IF YOU BELIEVE YOU ARE EXPERIENCING A MEDICAL EMERGENCY, CONTACT YOUR DOCTOR OR CALL 911 IMMEDIATELY.
+This site and its health-related information and resources are not intended, and must not be taken, to be the rendering of medical, nursing, or professional health care advice or services, or the practice of medicine, nursing, or professional health care, in any jurisdiction.
+You should seek prompt medical care for any specific health issues and consult your physician before starting a new fitness regimen. Blue Shield of California Terms of Use and the disclaimers concerning medical advice apply to all information and materials, including material provided by or related to non-Blue Shield of California parties and online health experts, on this website.
+While Blue Shield of California and its suppliers and vendors will attempt to keep the information and the resources contained on or accessible through this site both timely and accurate, Blue Shield of California and its suppliers and vendors make no guarantees, and disclaim any implied warranty or representation about the information's or the resources' accuracy, relevance, timeliness, completeness, or appropriateness for a particular purpose.
+Your use of this site is also subject to all additional disclaimers and caveats that may appear throughout the site.
+Some jurisdictions do not allow the exclusion of implied warranties, so the above exclusion may not apply to you.
+Links to other internet sites
+This site also includes links to other Internet sites created and maintained by Blue Shield of California's suppliers and vendors. Be aware that Blue Shield of California does not endorse, control, makes no guarantees about, and disclaims any express or implied representations or warranties about the accuracy, relevance, timeliness, completeness, or appropriateness for a particular purpose of the information or the resources contained on these or any other Internet sites. Further, the inclusion of these links is intended neither to reflect the importance of these other sites nor to endorse any of the views expressed in, or products or services offered by, these other sites.
+Blue Shield of California is not responsible for the content, security, or privacy practices of other Internet sites. You access and use these and any other Internet sites, including the information, services, products, materials, and any other resources contained on them, solely at your own risk. Please review any terms of use and privacy statements of other Internet sites you visit.
+Limitation of liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL BLUE SHIELD OF CALIFORNIA, ITS AFFILIATES OR ITS SUPPLIERS OR VENDORS BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER, RESULTING FROM ANY LOSS OF USE, LOSS OF DATA, LOSS OF PROFITS, BUSINESS INTERRUPTION, LITIGATION, OR ANY OTHER PECUNIARY LOSS, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY, OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OR PERFORMANCE OF THIS SITE, WITH THE DELAY OR INABILITY TO USE THIS SITE, OR WITH THE PROVISION OF OR FAILURE TO MAKE AVAILABLE ANY INFORMATION, SERVICES, PRODUCTS, MATERIALS, OR OTHER RESOURCES CONTAINED ON OR ACCESSIBLE THROUGH THIS SITE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+YOU ACKNOWLEDGE AND AGREE THAT THE LIMITATIONS SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THIS AGREEMENT AND THE SITE WOULD NOT BE PROVIDED TO YOU ABSENT SUCH LIMITATIONS.
+Indemnification
+You agree to indemnify, defend, and hold harmless Blue Shield of California and its suppliers and vendors from any liability, loss, claim, and expense (including reasonable attorneys' fees) related to your violation of these terms and conditions.
+Changes to the site
+Information on this website may be changed or updated without notice. Blue Shield of California and its vendors and suppliers have no obligation to update information presented on this website, so information contained herein may be out of date at any given time. Blue Shield of California may also make improvements and/or changes in the products and/or programs described in this information at any time without notice.
+Blue Shield of California and its suppliers and vendors may change or modify the information, services, products, materials, and any other resources contained on or accessible through this site, or discontinue this site altogether, at any time without notice.
+Blue Shield of California may modify this Agreement at any time, and such modifications shall be effective immediately upon posting of the modified terms and conditions. Accordingly, you agree to review the terms and conditions periodically, and your continued use of this site shall be deemed your acceptance of the modified terms and conditions.
+Miscellaneous
+Blue Shield of California's failure to insist upon strict enforcement of any provision(s) of these terms and conditions shall not be construed as a waiver of any provision or right.
+These terms and conditions and the resolution of any dispute related to these terms and conditions on this site shall be governed by and construed in accordance with the laws of California, without giving effect to any principles of conflicts of law. Any legal action or proceeding between Blue Shield of California or its suppliers or vendors and you related to these terms and conditions on this site shall be brought exclusively in a state or federal court of competent jurisdiction sitting in the County of San Francisco, California, or the Northern District of California.
+Can't find what you're looking for?
+Contact us
+Health coverage for more Californians
+MEMBER SUPPORT
+Contact us
+Forms
+Confidential communications
+Prior authorization list
+Register for an account
+Download the mobile app
+Sharing your health information
+SHOP PLANS
+Individual & family plans
+Medicare plans
+Covered with an employer
+OUR COMPANY
+About Blue Shield of California
+Trust Center
+Blue Shield Foundation
+News
+Careers
+LEGAL NOTICES
+Nondiscrimination notice
+Terms of use
+Privacy
+Cookie preferences
+Regulatory notices
+MEMBER SUPPORT
+Contact us
+Forms
+Confidential communications
+Prior authorization list
+Register for an account
+Download the mobile app
+Sharing your health information
+SHOP PLANS
+Individual & family plans
+Medicare plans
+Covered with an employer
+OUR COMPANY
+About Blue Shield of California
+Trust Center
+Blue Shield Foundation
+News
+Careers
+LEGAL NOTICES
+Nondiscrimination notice
+Terms of use
+Privacy
+Cookie preferences
+Regulatory notices
+© California Physician’s Service DBA Blue Shield of California 1999-2026.
+All rights reserved. California Physicians’ Service DBA Blue Shield of California is an independent member of the Blue Shield Association. Health insurance products are offered by Blue Shield of California Life & Health Insurance Company. Health plans are offered by Blue Shield of California.
+You are now leaving the blueshieldca.com website
+Blue Shield of California has neither reviewed nor endorsed this information.
+Cancel
+Continue

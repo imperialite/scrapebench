@@ -1,0 +1,84 @@
+Terms of Service - Comic Fury Webcomic Hosting
+Terms of Service
+Web Site Terms and Conditions of Use
+1. Terms
+By accessing this web site, you are agreeing to be bound by these Web Site Terms and Conditions of Use/Privacy Policy,
+all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local
+laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site.
+The materials contained in this web site are protected by applicable copyright and trade mark law.
+If you are under 13 years old, you may not register for an account, or submit data to the site through its forms.
+2. Use License
+Permission is granted to temporarily download one copy of the materials
+		(information or software) on ComicFury's web site for personal,
+		non-commercial transitory viewing only. This is the grant of a license,
+		not a transfer of title, and under this license you may not:
+use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
+remove any copyright or other proprietary notations from the materials; or
+transfer the materials to another person or "mirror" the materials on any other server.
+This does not include content that belongs to you and was put up by you on ComicFury, you may do as you wish with content you own.
+This license shall automatically terminate if you violate any of these restrictions and may be terminated by ComicFury at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+3. License for Publishing Content
+By submitting content on this site, you grant ComicFury a non-exclusive, worldwide, royalty-free, sublicensable, transferable right and license to hosting, storing, reproducing,
+publishing, transmitting, adapting, modifying and (publicly or otherwise) displaying that content, for the purposes of providing the features and services on the ComicFury web site.
+This is
+not
+a transfer of ownership, you retain ownership over your uploaded content. This license can be revoked by deleting all copies of the content in question from your ComicFury account.
+Please note, however, that we do not control what other users publish on the site (see
+User-uploaded Content
+).
+You also agree only to upload content that you have permission to give us the required license on. All user-uploaded content must naturally also be legal in nature.
+4. Disclaimer
+The materials on ComicFury's web site are provided "as is". ComicFury makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, ComicFury does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site.
+5. Limitations
+In no event shall ComicFury or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption,) arising out of the use or inability to use the materials on ComicFury's Internet site, even if ComicFury or a ComicFury authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+6. Revisions and Errata
+The materials appearing on ComicFury's web site could include technical, typographical, or photographic errors. ComicFury does not warrant that any of the materials on its web site are accurate, complete, or current. ComicFury may make changes to the materials contained on its web site at any time without notice. ComicFury does not, however, make any commitment to update the materials.
+7. Links
+ComicFury has not reviewed all of the sites linked to its Internet web site and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by ComicFury of the site. Use of any such linked web site is at the user's own risk.
+8. User-uploaded Content
+Likewise, ComicFury has not reviewed all of the content uploaded by its users and is not responsible for the contents of user-uploaded content. It is worth noting that users of ComicFury are able to customize their web sites with HTML and JavaScript, and can therefore also create cookies, when visiting user-created webcomic sites. If you have a reason to want some user-uploaded content taken down, please use the
+contact us form
+to tell us.
+9. Site Terms of Use Modifications
+ComicFury may revise these terms of use for its web site at any time, but will make an effort to inform its users when doing so. By using this web site you agree to the current version of these Terms and Conditions of Use.
+Privacy Policy
+Your privacy is very important to us. Accordingly, we have developed this policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy:
+Assurances
+Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+No personal information is shared with third parties (though obviously the content you submit to be publicly displayed will accessible through the site, and potentially its API), other than everything being stored on the servers of our hosting provider, currently
+Dreamhost
+. We also embed advertisements through
+Project Wonderful
+on webcomics that opt-in to displaying them.
+We will only retain personal information as long as necessary for the fulfillment of those purposes.
+We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. All forms on the Site are accessible via https only.
+Privacy for Members
+In order to become a registered member, you need to provide a username, and an email address. The email address is not publicly displayed anywhere, and not shared with any third parties. Emails are only sent as the result of actions on the site (e.g. requesting a new password), or disabled-by-default notification settings. We do not send any newsletters.
+The IPs of registered members are also logged for the purpose of preventing spam and vote manipulation.
+We do not build profiles on our users, besides storing the data you explicitly provide for features of the site (e.g. webcomic subscriptions), as well as IPs. We do not build a record of the pages you visit, what links you click, etc. Most actions that could result in personal data being stored in our database are triggered by pressing a button or link, which describes what you are about to do. ComicFury will always make a good faith effort to make it obvious what a form does when you submit it, and how it may result in data being stored and/or publicly displayed.
+Personal data submitted to ComicFury is only used for the services ComicFury provides, it is not sold or given to other entities. However, most data is solicited for the purposes of publicly displaying it (e.g. comic pages, comments, forum posts, etc.).
+Privacy for Non-members
+Here are the ways ComicFury may interact with, or store your personal data, while browsing the site:
+If you are not a member of this site, we will still temporarily log your IP address, in order to provide the unique visitor counter for webcomic authors. IPs saved for this purpose are automatically deleted after a few days, and are not used for other purposes.
+If you leave a guest comment on a webcomic, we will also log an IP address along with your comment, to track and prevent abuse on the site. The contents of your comment are also publicly displayed (obviously).
+When you first visit the site, the link you came from (the "Referer" header sent by your browser) will be stored in a cookie. This data is only permanently stored on the servers if you then sign up, to help us analyze where our members are coming from.
+If you click a "save page" link on a webcomic, to set a bookmark, and you are not logged in, a guest session will be created, and a cookie will be set to associate you with that session. The session is only used for the purposes of providing the bookmark feature, and we do not build a profile or track your behaviour with it otherwise.
+We also set a cookie to detect if your browser supports third-party cookies. This information is not stored on the server, and is used on webcomic sites for determining whether or not we can check if the user is logged in (through a cross-domain script inclusion), to hide the edit/delete links on comments the user is not authorized to edit/delete. To put it simply, it only has a cosmetic purpose and nothing else.
+We store what forum threads were visited during this session in a cookie, to then mark these threads as read, on the forum display page.
+Privacy and User-controlled Sites
+When visiting a user-created webcomic site, the site may provide personal data to third parties (e.g. through external advertisements or analytics tools). ComicFury members have the option to customize their sites using HTML and Javascript. We are not responsible for the behaviour of our webcomic creators, and the collection of information by them.
+Webcomic creators will also be able to access your username, gender (if optionally specified), and whether you are subscribed, through javascript, when you access a webcomic site.
+Deletion of Personal Data
+Since the site is rather conservative in what we collect, you will be able to remove most personal data yourself. Nevertheless, if you wish to have personal data about you deleted, or have other queries, please do not hesitate to ask us by contacting Kyo through the private messaging feature of the site, or by using the
+contact us form
+Terms of Service
+|
+Community rules
+|
+Top
+|
+Contact Comic Fury webcomic hosting
+*You may not unleash the artistic rage

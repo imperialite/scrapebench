@@ -1,0 +1,35 @@
+# Block xAI / Grok
+User-agent: xAI
+Disallow: /
+
+User-agent: Grok
+Disallow: /
+
+User-agent: grok-ai
+Disallow: /
+
+User-agent: xai-bot
+Disallow: /
+
+User-agent: *
+
+Disallow: /boards/*/*.json
+Disallow: /boards/whats-new/
+Disallow: /boards/account/
+Disallow: /boards/members/
+Disallow: /boards/attachments/
+Disallow: /boards/goto/
+Disallow: /boards/help/
+Disallow: /boards/posts/
+Disallow: /boards/login/
+Disallow: /boards/search/
+Disallow: /boards/admin.php
+Disallow: /boards/approval-queue/
+Disallow: /boards/moderatorpanel/
+Disallow: /boards/reports/
+Disallow: /boards/conversations/
+Disallow: /login/
+Disallow: /join/
+
+Sitemap: https://admin.on3.com/sitemap_index.xml
+Sitemap: https://www.on3.com/sitemap-players.xml

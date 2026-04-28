@@ -1,0 +1,21 @@
+User-agent: *
+
+Disallow: /login
+
+Disallow: /forgot-password
+
+Disallow: /forgot-username
+
+Disallow: /register/status
+
+Disallow: /check-coverage
+
+Disallow: /blog/wp-admin/
+
+Disallow: ?amp=1
+
+
+
+Sitemap: https://airtalkwireless.com/sitemap.xml
+
+Sitemap: https://airtalkwireless.com/blog/sitemap_index.xml

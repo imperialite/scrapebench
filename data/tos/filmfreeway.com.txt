@@ -1,0 +1,433 @@
+Terms of Service for Festivals
+Terms of Service for Filmmakers
+FilmFreeway Gold Terms
+Privacy Policy
+Festival Deactivation Policy
+
+Welcome to FilmFreeway. FilmFreeway makes it easy to discover, submit, and get tickets to thousands of film festivals, screenplay contests, music contests and photography contests all over the world. The following pages contain our Terms of Service, which govern all use of our Services.
+
+Last updated: September 19, 2024
+
+Filmmakers, Screenwriters and Non-Festivals
+Festivals
+
+Filmmakers, Screenwriters and Non-Festivals
+
+1. ACCEPTANCE OF TERMS.
+
+1.1 Overview.
+
+The following terms and conditions (this "TOS") govern all use by you as a Filmmaker (as defined below) or other Non-Festival (as defined below) user or visitor of (a) FilmFreeway websites and domains (including all webpages, subdomains and subparts therein contained, the "Site"), (b) any and all services available on or through the Site or otherwise provided by FilmFreeway in connection with festivals, events and contests listed on the Site, and (c) all Software (as defined below) (collectively, the "Services"). The Services are owned and operated by FilmFreeway. The Services are offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies and procedures that may be published from time to time on the Site by FilmFreeway. BY USING OR ACCESSING ANY PART OF THE SERVICES, YOU AGREE TO ALL OF THE TERMS AND CONDITIONS CONTAINED HEREIN AND ALL OTHER OPERATING RULES, POLICIES AND PROCEDURES THAT MAY BE PUBLISHED FROM TIME TO TIME ON THE SITE BY FILMFREEWAY. IF YOU DO NOT AGREE TO ANY OF SUCH TERMS, CONDITIONS, RULES, POLICIES OR PROCEDURES, DO NOT USE OR ACCESS THE SERVICES.
+
+1.2 Modification.
+
+FilmFreeway reserves the right, at its sole discretion, to modify or replace any of the terms or conditions of this TOS at any time. It is your responsibility to check this TOS periodically for changes. Your continued use of the Services following the posting of any changes to this TOS constitutes acceptance of those changes. If any change to this TOS is not acceptable to you, your sole remedy is to cease accessing, browsing and otherwise using the Services.
+
+1.3 Language.
+
+We may translate this Terms of Service, our Privacy Policy or any other operating rules, policies and procedures that may be published from time to time on the Site into other languages for your convenience. The English language version of each of these documents is the version that governs your use of the Services and in the event of any conflict between the English language version and a translated version, the English language version will control.
+
+2. DESCRIPTION OF FILMFREEWAY.
+
+FilmFreeway provides a simple and quick means for registered users who are film festivals, events or contests ("Festivals") to collect submissions or creative works and payments, sell tickets and registrations (or issue free registrations), sell merchandise related to those events from users who want to make submissions or purchases to such events ("Filmmakers" or "you"). Payments are all transacted through third party payment service methods, such as Paypal, (collectively, "Facilitated Payment Modes" or "FPM") or the FilmFreeway payment processing gateway (the "Gateway"). This TOS applies to you and your use of the Services as a Filmmaker and/or other non-festival user or visitor of the Services ("Non-Festival" or "you"). For the Terms of Service Agreement that applies to you and your use of the Services as a Festival, please see https://filmfreeway.com/page/terms-of-service#tos-festivals.
+
+3. YOUR USE OF THE SERVICES.
+
+3.1 The Services.
+
+FilmFreeway hereby grants you a non-exclusive, non-transferable, non-sublicensable right to access and use the Services solely for the purposes of browsing the Site, and searching for, viewing, submitting to, purchasing from, and interacting with, a festival that is registered on the Site, in each case (i) in compliance with this TOS, and (ii) to the extent permitted under all applicable laws and regulations (foreign and domestic). Notwithstanding the foregoing, you shall not, and shall not permit anyone else to, directly or indirectly: (i) modify, reproduce or otherwise create derivatives of any part of the Services or Site Content (as defined below); (ii) reverse engineer, disassemble, decompile or otherwise attempt to discover the source code or structure, sequence and organization of all or any part of the Services (except that this restriction shall not apply to the limited extent restrictions on reverse engineering are prohibited by applicable local law); (iii) rent, lease, resell, distribute or use the Services for timesharing, service bureau, or commercial purposes; (iv) remove or alter any proprietary notices or labels on or in the Services or Site Content; (v) engage in any activity that interferes with or disrupts the Services; or (vi) engage in any fraudulent activity or activity that facilitates fraud. By using the Services you consent to FilmFreeway acting as an agent for the Festival. When a submission fee, ticket fee or merchandise fee is charged, then FilmFreeway will be handling the transaction and collecting payment for and on behalf of the Festival.
+
+3.2 Software.
+
+If you are allowed to download or use any Software in connection with the Services, FilmFreeway hereby grants you a personal, non-transferable, non-sublicensable, revocable, non-exclusive license to use the Software solely for your internal use in connection with the Services, and only in accordance with this TOS and the written instructions/directions (if any) provided by FilmFreeway in conjunction with the Software. For purposes of this TOS, "Software" shall mean any and all software that is available on or through the Site or otherwise provided by FilmFreeway, including without limitation FilmFreeway’s mobile applications. For clarity, the Software will be deemed a part of the "Services" hereunder.
+
+The Software and the transmission of applicable data is subject to United States export controls. No Software may be downloaded or otherwise exported or re-exported in violation of United States export laws. Downloading or using the Software is at your sole risk. You shall also be responsible for using the Software in a manner that complies with all laws and the rules and regulations of all credit card companies.
+
+4. PAYMENT.
+
+4.1 Independent Relationship of FPMs.
+
+When using a FPM, such as PayPal, Festivals and Filmmakers effect the applicable monetary payment transaction through the FPM service, and are bound by the applicable terms of use governing the FPM service.
+
+4.2 Refunds.
+
+It is the responsibility of the Festival to communicate its refund policy to Filmmakers and to issue or authorize refunds to Filmmakers via FilmFreeway or otherwise. If a Filmmaker desires to request a refund, Filmmaker must request the refund from the Festival. All disputes regarding refunds are between the Festival and Filmmaker. FilmFreeway will not be responsible or liable in any way for refunds, errors in issuing refunds, or lack of refunds in connection with the Services. If you are a Filmmaker and you wish to request a refund in connection with an event listed on FilmFreeway, you should first contact the applicable Festival directly.
+
+4.3 Submission Protection
+
+Submission Protection is an optional service that we offer to Filmmakers only at the time of checkout. Submission Protection provides for a full refund of Filmmaker’s entry fee for a Festival if: Filmmaker decides to withdraw submission within 5 days of submitting (provided the entry has not yet been judged by the festival); the Festival is canceled, deactivated, or does not take place; Filmmaker’s submission is lost in transit or not received by the festival. The fee for Submission Protection itself is not refundable.
+
+4.4 Ticket Protection
+
+Ticket Protection is an optional service that we offer to Filmmakers only at the time of checkout. Ticket Protection provides for a full refund of Filmmaker’s ticket fee if: Filmmaker decides to cancel purchase within 2 days of ordering; the event is canceled or does not take place; Filmmaker cannot attend the event due to Unforeseen Circumstances. Covered Unforeseen Circumstances are limited specifically to: physical injury, too sick to attend, have jury duty, subpoena for court. A letter from a doctor or court is required for proof of Unforeseen Circumstances. The fee for Ticket Protection itself is not refundable.
+
+5. YOUR REGISTRATION OBLIGATIONS.
+
+To be a registered user of the Services, whether as a Filmmaker or other Non-Festival, you agree to: (a) provide true, accurate, current and complete information about yourself as prompted by the Site registration form (the "Registration Data") and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete. If you provide any information that is untrue, inaccurate, not current or incomplete, or FilmFreeway has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, FilmFreeway has the right to suspend or terminate all of your accounts and refuse any and all of your current or future use of the Services (or any portion thereof). FilmFreeway is concerned about the safety and privacy of all its users, particularly children. For this reason, and to be consistent with the terms of use of any FPM service provider or other third party service provider, you must be at least 13 years of age, or the legal age of majority where you reside if that jurisdiction has an older age of majority, to register for an account.
+
+6. ACCOUNT, PASSWORD AND SECURITY.
+
+As part of the Site registration process, you will create a password and account. You are responsible for maintaining the confidentiality of the password and account, and are fully responsible for all activities that occur under your account, including, without limitation, all actions by sub-users registered under your account. You agree to (a) immediately notify FilmFreeway of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session. FilmFreeway cannot and will not be liable for any loss, damage or other liability arising from your failure to comply with this Section or from any unauthorized access to or use of your account. In the event of any dispute between two or more parties as to account ownership, you agree that FilmFreeway shall be the sole arbiter of such dispute in its sole discretion and that FilmFreeway's decision (which may include termination or suspension of any account subject to dispute) shall be final and binding on all parties.
+
+7. CONTENT.
+
+7.1 Site Content.
+
+You agree that all material, including without limitation information, data, software, text, design elements, graphics, images and other content (collectively, "Content"), contained in or delivered via the Services or otherwise made available by FilmFreeway in connection with the Services (collectively, "Site Content") is protected by copyrights, trademarks, service marks, trade secrets or other intellectual property and other proprietary rights and laws. FilmFreeway may own the Site Content or portions of the Site Content may be made available to FilmFreeway through arrangements with third parties. Except as expressly authorized by FilmFreeway in writing or in connection with your use of the intended functionality of the Services, you agree not to sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works of any Site Content, or post any Site Content on any other web site or in a networked computer environment for any purpose. In connection with your use of the Service, you will not engage in or use any data mining, robots, scraping or similar data gathering or extraction methods. Any use of the Service or the Service Content other than as specifically authorized herein is strictly prohibited. Reproducing, copying or distributing any Site Content for any other purpose is strictly prohibited without the express prior written permission of FilmFreeway. You shall use the Site Content only for purposes that are permitted by this TOS and any applicable laws and regulations (foreign and domestic). Any rights not expressly granted herein are reserved.
+
+7.2 Your Content.
+
+You acknowledge and agree that if you contribute, provide or make available any Content to the Site ("Your Content"), you hereby grant to FILMFREEWAY a non-exclusive, worldwide, perpetual, royalty-free, transferable right and license to use, distribute, transfer, display and otherwise provide Your Content to any festivals or events to which you specifically choose to submit Your Content via FilmFreeway. YOUR USE OF THE FILMFREEWAY SITE AND SERVICES DOES NOT GRANT US OR ANY THIRD PARTIES ANY OWNERSHIP TO YOUR INTELLECTUAL PROPERTY. YOU RETAIN COPYRIGHT AND ALL OWNERSHIP TO YOUR WORK. You represent and warrant that you have all the rights, power and authority necessary to grant the foregoing license, and that all Your Content (i) does not infringe, violate, misappropriate or otherwise conflict with the rights of any third party, and (ii) complies with all applicable laws and regulations (foreign and domestic). FILMFREEWAY reserves the right to remove any of Your Content from the Site at any time if FILMFREEWAY believes in its sole discretion that it does not comply with this TOS. In addition, you agree that FILMFREEWAY may use your name and project name for the purpose of identifying you as an existing or past customer of FILMFREEWAY both on the Site and in marketing and promotional materials.
+
+8. CONDUCT.
+
+8.1 Certain Restrictions.
+
+Whether you are using the Services as a Filmmaker or other Non-Festival, you understand that you are liable for all Content, in whatever form, that you provide or otherwise make available to or through the Services, including to Festivals, Filmmakers and other Non-Festivals. You agree not to use the Services to:
+
+upload, post, email, transmit or otherwise make available any Content that is unlawful, harmful, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable;
+
+harm minors in any way;
+
+facilitate gambling, gaming, lotteries, raffles, sweepstakes and/or any other activity featuring the award of a prize other than contests conducted in a manner that complies in all respects with FilmFreeway’s Contests Guidelines;
+
+impersonate any person or entity, including, but not limited to, a FilmFreeway representative or forum leader, or falsely state or otherwise misrepresent your affiliation with a person or entity;
+
+forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through the Services;
+
+upload, post, email, transmit or otherwise make available any Content that you do not have a right to make available under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements);
+
+upload, post, email, transmit or otherwise make available any Content that infringes any patent, trademark, trade secret, copyright or other intellectual property or proprietary rights of any person or entity;
+
+upload, post, email, transmit or otherwise make available any Content related to the sale or provision of goods and services other than the sale or provision of submissions and registrations to events listed on the Site and other goods and services being sold or provided in conjunction with such events;
+
+upload, post, email, transmit or otherwise make available any Content that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment or to otherwise interact with the Services in a manner not permitted by this TOS or expressly authorized by FilmFreeway;
+
+interfere with or disrupt the Services or servers or networks connected to the Services, or disobey any requirements, procedures, policies or regulations of networks connected to the Services;
+
+intentionally or unintentionally violate any applicable law or regulation (foreign or domestic); or
+
+stalk or otherwise harass any person or entity.
+
+8.2 Certain Remedial Rights.
+
+Whether you are using the Services as a Filmmaker or other Non-Festival, you acknowledge that FilmFreeway does not pre-screen any Content provided or made available by you or any third party in connection with the Services, but that FilmFreeway and its designees shall have the right (but not the obligation) in their sole discretion to (i) monitor, alter, edit, or remove any of your Content, in whole or in part, and/or (ii) rescind and terminate your right to use the Services at any time (with or without notice) for any reason or no reason. You acknowledge and agree that FilmFreeway may preserve Your Content and may also disclose Your Content for any reason, including without limitation if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce this TOS; (c) respond to claims that any of Your Content violates the rights of third parties; and/or (d) protect the rights, property, or personal safety of FilmFreeway, its users and/or the public. You understand that the technical processing and transmission of the Services, including Your Content, may involve (i) transmissions over various networks; and/or (ii) changes to conform and adapt to technical requirements of connecting networks or devices.
+
+9. SPECIAL ADMONITIONS FOR INTERNATIONAL USE.
+
+Recognizing the global nature of the Internet, you agree to comply with all local rules regarding online conduct and acceptable Content. By way of illustration and not limitation, you agree to comply with all applicable laws and regulations (foreign and domestic) regarding the transmission of technical data exported from the United States or the country in which you reside.
+
+In addition, the Services are subject to United States export controls. No part of the Services may be exported or re-exported into, or to a national or resident of, any country to which United States has embargoed goods and/or services of the same type as the Services. By using the Services or any part thereof (including by downloading any Software), you represent and warrant that you are not located in, and you are not a national or resident of, any such country.
+
+10. INDEMNITY.
+
+You agree to defend, indemnify and hold FilmFreeway, and its affiliates, and each of its and their respective officers, directors, agents, co-branders, other partners, and employees, harmless from any and all damage (whether direct, indirect, incidental, consequential or otherwise), loss, liability, cost and expense (including, without limitation, reasonable attorneys' and accounting fees) resulting from any claim, demand, suit, proceeding (whether before an arbitrator, court, mediator or otherwise), or investigation made by any third party (each a "Claim") due to or arising out of: your Content; the events listed on the Service; your use of, contribution to or connection with the Service; your violation of this TOS; and/or your violation of any rights of another. FilmFreeway shall provide notice to you of any such Claim, provided that the failure or delay by FilmFreeway in providing such notice shall not limit your obligations hereunder. FilmFreeway reserves the right to assume the exclusive defense and control of any matter which is subject to indemnification under this Section, and in such case, you agree to cooperate with all reasonable requests in assisting FilmFreeway 's defense of such matter.
+
+11. SERVICE MODIFICATIONS/SUSPENSIONS.
+
+FilmFreeway reserves the right at any time to, and from time to time may, modify, suspend or discontinue, temporarily or permanently, the Services (or any part thereof) for any reason or no reason with or without notice. You agree that FilmFreeway shall not be liable to you or to any third party for any modification, suspension or discontinuance of the Services.
+
+12. TERMINATION.
+
+FilmFreeway, in its sole discretion, may terminate your password, accounts (or any part thereof) and/or your right to use the Services, and remove and discard any and all of Your Content within the Services, at any time for any reason or no reason, including, without limitation, for lack of use, failure to timely pay any fees or other monies due FilmFreeway, or if FilmFreeway believes that you have violated or acted inconsistently with the letter or spirit of this TOS. You agree that any termination of your right to use the Services may be effected without prior notice, and acknowledge and agree that FilmFreeway may immediately deactivate or delete your account and all related Content and files related to your account and/or bar any further access to such files or the Services. Further, you agree that FilmFreeway shall not be liable to you or any third-party for any termination of your right to use or otherwise access the Services. All provisions of this TOS that by their nature should survive termination of your right to use the Services shall survive (including, without limitation, all limitations on liability, releases, indemnification obligations, disclaimers of warranties, and intellectual property protections and licenses).
+
+13. LINKS.
+
+The Services may provide, or third parties may provide, links to other Internet websites or resources. Because FilmFreeway has no control over such websites and resources, you acknowledge and agree that FilmFreeway is not responsible for the availability of such websites or resources, and does not endorse and is not responsible or liable for any Content, advertising, products, services or other materials on or available from such websites or resources. You further acknowledge and agree that FilmFreeway shall not be responsible or liable for any damage or loss caused or alleged to be caused by or in connection with any use of or reliance on any such Content, advertising, products, services or other materials available on or through any such website or resource.
+
+14. DISCLAIMER OF WARRANTIES.
+
+THE SERVICES ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. FILMFREEWAY HEREBY EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, NON-INFRINGEMENT AND FITNESS FOR A PARTICULAR PURPOSE. FILMFREEWAY MAKES NO WARRANTY THAT: (I) THE SERVICES WILL MEET YOUR REQUIREMENTS, (II) THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (III) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICES WILL BE ACCURATE OR RELIABLE, (IV) THE QUALITY, SAFETY OR LEGALITY OF ANY CONTENT, PRODUCTS, SERVICES, INFORMATION OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU, OR EVENTS ATTENDED, THROUGH THE SERVICES, OR THE SERVICES THEMSELVES (OR ANY PART THEREOF), WILL MEET YOUR EXPECTATIONS, OR (V) ANY ERRORS IN THE SERVICES WILL BE CORRECTED. FILMFREEWAY IS NOT RESPONSIBLE AND SHALL HAVE NO LIABILITY FOR THE CONTENT, PRODUCTS, SERVICES, ACTIONS OR INACTIONS OF ANY USER, FILMMAKER OR OTHER NON-FESTIVAL, FESTIVAL OR THIRD PARTY BEFORE, DURING AND/OR AFTER AN EVENT; AND FILMFREEWAY WILL HAVE NO LIABILITY WITH RESPECT TO ANY WARRANTY DISCLAIMED IN (I) THROUGH (V) ABOVE. YOU ACKNOWLEDGE THAT FILMFREEWAY HAS NO CONTROL OVER AND DOES NOT GUARANTEE THE QUALITY, SAFETY OR LEGALITY OF EVENTS AND FESTIVALS ADVERTISED, THE TRUTH OR ACCURACY OF ANY USERS' (INCLUDING FILMMAKERS', OTHER NON-FESTIVALS' AND FESTIVALS') CONTENT OR LISTINGS, OR THE ABILITY OF ANY USER (INCLUDING FILMMAKERS, OTHER NON-FESTIVALS AND FESTIVALS) TO PERFORM, OR ACTUALLY COMPLETE A TRANSACTION. THE FOREGOING DISCLAIMERS SHALL NOT APPLY TO THE EXTENT PROHIBITED BY APPLICABLE LAW. Notwithstanding the foregoing, you may report the misconduct of users, Filmmakers, other Non-Festivals, Festivals and/or third parties in connection with the Site or any Services to FilmFreeway. FilmFreeway, in its sole discretion, may investigate the claim and take necessary action.
+
+15. LIMITATION OF LIABILITY.
+
+FILMFREEWAY SHALL NOT BE LIABLE UNDER ANY CIRCUMSTANCES OR UNDER ANY LEGAL THEORY, WHETHER IN TORT, CONTRACT, OR OTHERWISE, WITH RESPECT TO THE SERVICES, OR ANY OTHER SUBJECT MATTER OF THIS TOS, FOR: (I) ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF FILMFREEWAY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), (II) THE COST OF PROCUREMENT OF SUBSTITUTE SERVICES, (III) AMOUNTS IN EXCESS OF CA$100.00 IN THE AGGREGATE FOR ALL CLAIMS WITH RESPECT TO THE SERVICES, OR (IV) ANY MATTERS BEYOND FILMFREEWAY'S REASONABLE CONTROL. FILMFREEWAY SHALL HAVE NO LIABILITY WITH RESPECT TO ANY OF YOUR CONTENT OR ANY CONTENT OF ANY OTHER USER OF THE SERVICES. IN ADDITION, FILMFREEWAY IS NOT AFFILIATED WITH, AND HAS NO AGENCY OR EMPLOYMENT RELATIONSHIP WITH, ANY THIRD PARTY SERVICE PROVIDER USED IN CONJUNCTION WITH THE SERVICES (INCLUDING, WITHOUT LIMITATION, ANY FPM SERVICE), AND FILMFREEWAY HAS NO RESPONSIBILITY FOR, AND HEREBY DISCLAIMS ALL LIABILITY ARISING FROM, THE ACTS OR OMISSIONS OF ANY SUCH THIRD PARTY SERVICE PROVIDER. THE FOREGOING LIMITATIONS SHALL NOT APPLY TO THE EXTENT PROHIBITED BY APPLICABLE LAW.
+
+16. RELEASE.
+
+IN CONSIDERATION OF BEING PERMITTED TO ACCESS AND USE THE SERVICES, YOU HEREBY AGREE TO RELEASE FILMFREEWAY, AND ITS AFFILIATES, AND EACH OF ITS AND THEIR RESPECTIVE OFFICERS, DIRECTORS, AGENTS, CO-BRANDERS, OTHER PARTNERS, AND EMPLOYEES FROM ALL DAMAGES (WHETHER DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL OR OTHERWISE), LOSSES, LIABILITIES, COSTS AND EXPENSES OF EVERY KIND AND NATURE, KNOWN AND UNKNOWN, ARISING OUT OF OR IN ANY WAY CONNECTED WITH DISPUTES BETWEEN YOU AND THIRD PARTIES (INCLUDING OTHER FESTIVALS, FILMMAKERS, AND OTHER NON-FESTIVALS) IN CONNECTION WITH THE SERVICES, YOUR ACCESS AND USE OF THE SERVICES, OR ANY EVENTS LISTED THEREON.
+
+17. PRIVACY.
+
+All information provided by you or collected by FilmFreeway in connection with the Services is governed by FilmFreeway 's Privacy Policy, a copy of which is located at https://filmfreeway.com/page/privacy-policy, which is hereby incorporated by reference into this TOS. FilmFreeway strongly recommends that you review the Privacy Policy closely. Further, any information submitted or provided by you to the Services may be publicly accessible. You should take care to protect private information or information that is important to you. FilmFreeway shall not be responsible for protecting any such information and is not liable for the protection of privacy of electronic mail or other information transferred through the Internet or any other network that you may use. Please be aware that if you decide to disclose personally identifiable information on the Services, this information may become public. FilmFreeway does not control and shall not be responsible for the acts of you or any other users (whether Festivals, Filmmakers, other Non-Festivals or otherwise) of the Services.
+
+18. NOTICE.
+
+Notices to you may be made via either email or regular mail to the address in FilmFreeway's records. The Services may also provide notices of changes to this TOS or other matters by displaying notices or links to notices to you generally on the Services. Any notice from you to us shall be sent in writing to our mailing address at:
+
+FilmFreeway
+Attn: Legal Department
+2300 Empire Avenue, 5th Floor
+Burbank, CA 91504, USA
+
+19. TRADEMARK INFORMATION.
+
+The trademarks, service marks, and logos of FilmFreeway (the " FilmFreeway Trademarks") used and displayed in connection with the Services are registered and unregistered trademarks or service marks of FilmFreeway. Other company, product, and service names used in connection with the Services may be trademarks or service marks owned by third parties (the "Third Party Trademarks", and, collectively with FilmFreeway Trademarks, the "Trademarks"). The offering of the Services shall not be construed as granting, by implication, estoppel, or otherwise, any license or right to use any Trademark displayed in connection with the Services without the prior written consent of FilmFreeway specific for each such use. The Trademarks may not be used to disparage FilmFreeway, any third party or FilmFreeway's or third party's products or services, or in any manner (in FilmFreeway 's sole judgment) that may damage any goodwill in the Trademarks. Use of any Trademarks as part of a link to or from any site is prohibited unless FilmFreeway approves the establishment of such a link by prior written consent specific for each such link. All goodwill generated from the use of any FilmFreeway Trademark shall inure to FilmFreeway 's benefit.
+
+20. GENERAL.
+
+20.1 Entire Agreement.
+
+This TOS constitutes the entire agreement between you and FilmFreeway and governs your use of the Services as a Filmmaker or other Non-Festival, superseding any prior or contemporaneous agreements, proposals, discussions or communications between you and FilmFreeway on the subject matter hereof. You also may be subject to additional terms and conditions that may apply when you use affiliate services, third party Content, third party software or the Services in a manner other than as governed by this TOS.
+
+20.2 Choice of Law.
+
+This TOS and the provision of the Services to you are governed by the laws of the state of Nevada as such laws are applied to agreements entered into and to be performed entirely within Nevada by Nevada residents.
+
+20.3 Arbitration.
+
+Any controversy or claim arising out of or relating to this TOS or the provision of the Services shall be exclusively settled by binding arbitration in accordance with the commercial arbitration rules of an arbitration service in Nevada. Any such controversy or claim shall be arbitrated on an individual basis, and shall not be consolidated in any arbitration with any claim or controversy of any other party. The arbitration shall be conducted in Nevada and judgment on the arbitration award may be entered in any court having jurisdiction thereof. Subject to the foregoing arbitration provision, you and FilmFreeway agree to submit to the personal jurisdiction of the courts located within the city of Las Vegas, Nevada. Either you or FilmFreeway may seek any interim or preliminary relief from a court of competent jurisdiction in Las Vegas, Nevada, necessary to protect the rights or property of you or FilmFreeway (or its agents, suppliers, and subcontractors) pending the completion of arbitration.
+
+20.4 No Class Actions.
+
+You and FilmFreeway agree that each may bring claims against the other only in your or its individual capacity, and not as a plaintiff or class member in any purported class, consolidated or representative proceeding. The arbitrator may not consolidate more than one person’s claims, may not preside over any form of class, consolidated or representative proceeding and may only provide relief in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party’s individual claim.
+
+20.5 Waiver; Invalid Provisions.
+
+The failure or delay of FilmFreeway to exercise or enforce any right or provision of this TOS shall not constitute a waiver of such right or provision. No oral waiver, amendment or modification shall be effective under any circumstance whatsoever. If any provision of this TOS is found by an arbitrator or court of competent jurisdiction to be invalid, the parties nevertheless agree that the arbitrator or court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of this TOS shall remain in full force and effect.
+
+20.6 Time to File Claim.
+
+You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Services or this TOS must be filed within two (2) years after such claim or cause of action arose or be forever barred.
+
+20.7 Titles.
+
+The section titles in this TOS are for convenience only and have no legal or contractual effect.
+
+20.8 Violations.
+
+Please report any violations of this TOS by email to support@filmfreeway.com.
+
+ 
+
+ 
+
+ 
+
+Filmmakers, Screenwriters and Non-Festivals
+Festivals
+
+Festivals
+
+1. ACCEPTANCE OF TERMS.
+
+1.1 Overview.
+
+The following terms and conditions (this "TOS") govern all use by you as a Festival (as defined below) of (a) the FilmFreeway websites and domains (including all webpages, subdomains and subparts therein contained, the "Site"), (b) any and all services available on or through the Site or otherwise provided by FilmFreeway ("FilmFreeway ") for your events, and (c) all Software (as defined below) (collectively, the "Services"). The Services are owned and operated by FilmFreeway. The Services are offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies and procedures that may be published from time to time on the Site by FilmFreeway. BY USING OR ACCESSING ANY PART OF THE SERVICES, YOU AGREE TO ALL OF THE TERMS AND CONDITIONS CONTAINED HEREIN AND ALL OTHER OPERATING RULES, POLICIES AND PROCEDURES THAT MAY BE PUBLISHED FROM TIME TO TIME ON THE SITE BY FILMFREEWAY. IF YOU DO NOT AGREE TO ANY OF SUCH TERMS, CONDITIONS, RULES, POLICIES OR PROCEDURES, DO NOT USE OR ACCESS THE SERVICES.
+
+1.2 Modification.
+
+FilmFreeway reserves the right, at its sole discretion, to modify or replace any of the terms or conditions of this TOS at any time. It is your responsibility to check this TOS periodically for changes. Your continued use of the Services following the posting of any changes to this TOS constitutes acceptance of those changes. If any change to this TOS is not acceptable to you, your sole remedy is to cease accessing, browsing and otherwise using the Services.
+
+1.3 Language.
+
+We may translate this Terms of Service, our Privacy Policy or any other operating rules, policies and procedures that may be published from time to time on the Site into other languages for your convenience. The English language version of each of these documents is the version that governs your use of the Services and in the event of any conflict between the English language version and a translated version, the English language version will control.
+
+2. DESCRIPTION OF FILMFREEWAY.
+
+FilmFreeway provides a simple and quick means for registered users who are film festivals, events or contests ("Festivals" or "you") to collect submissions or creative works from, sell tickets and registrations (or issue free registrations), or sell merchandise to users ("Filmmakers") who want to submit their work to or make purchases from such events. Payments are all transacted through third party payment service methods, such as Paypal, (collectively, "Facilitated Payment Modes" or "FPM") or (b) the FilmFreeway payment processing gateway (the "Gateway").  This TOS applies to you and your use of the Services as a Festival. For the Terms of Service Agreement that applies to you and your use of the Services as a Filmmaker and/or other non-Festival user or visitor, please see https://filmfreeway.com/page/terms-of-service#tos-filmmakers.
+
+3. YOUR USE OF THE SERVICES.
+
+3.1 The Services.
+
+FilmFreeway hereby grants you a non-exclusive, non-transferable, non-sublicensable right to access and use the Services solely for the purposes of creating an event page with respect to, and promoting, managing, tracking, and collecting submissions and submission fees, selling tickets and registrations (or issue free registrations) for an event that you have registered on the Site, in each case (i) in compliance with this TOS, and (ii) to the extent permitted under all applicable laws and regulations (foreign and domestic). Notwithstanding the foregoing, you shall not, and shall not permit anyone else to, directly or indirectly: (i) modify, reproduce or otherwise create derivatives of any part of the Services or Site Content (as defined below); (ii) reverse engineer, disassemble, decompile or otherwise attempt to discover the source code or structure, sequence and organization of all or any part of the Services (except that this restriction shall not apply to the limited extent restrictions on reverse engineering are prohibited by applicable local law); (iii) rent, lease, resell, distribute or use the Services for timesharing, service bureau, or commercial purposes (except for the limited commercial purpose of collecting submissions and submission fees through the Site as a Festival in accordance with this TOS); (iv) remove or alter any proprietary notices or labels on or in the Services or Site Content; or (v) engage in any activity that interferes with or disrupts the Services.
+
+3.2 Software.
+
+If you are allowed to download or use any Software in connection with the Services, FilmFreeway hereby grants you a personal, non-transferable, non-sublicensable, revocable, non-exclusive license to use the Software solely for your internal use in connection with the Services, and only in accordance with this TOS and the written instructions/directions (if any) provided by FilmFreeway in conjunction with the Software. For purposes of this TOS, "Software" shall mean any and all software that is available on or through the Site or otherwise provided by FilmFreeway, including without limitation FilmFreeway’s mobile applications. For clarity, the Software will be deemed a part of the "Services" hereunder.
+
+The Software and the transmission of applicable data is subject to United States export controls. No Software may be downloaded or otherwise exported or re-exported in violation of United States export laws. Downloading or using the Software is at your sole risk. You shall also be responsible for using the Software in a manner that complies with all laws and the rules and regulations of all credit card companies.
+
+4. PAYMENT.
+
+4.1 Independent Relationship of FPM’s
+
+When using a FPM, such as PayPal, Festivals and Filmmakers effect the applicable monetary payment transaction through the FPM service and are bound by the applicable terms of use governing the FPM service.
+
+4.2 Credit Card Processing.
+
+(a) Gateway; Payment Process.
+
+Payment processing occurs directly through FilmFreeway or via a FPM. FilmFreeway will collect all submission fees, ticket fees, and merchandise fees on behalf of the Festival from from Filmmakers as an agent of the Festival and deduct from the fees collected by FilmFreeway all applicable Services Fees as agency commission fees payable by the Festival to FilmFreeway, and then pass the remainder along to the Festival on the tenth (10th) business day of each month (either by mailing a check or through an electronic funds transfer, depending on the option the Festival has chosen through using the Site, to the address or account, respectively, that the Festival accurately designates on the Site), provided that FilmFreeway reserves the right to withhold funds (i) at any time as FilmFreeway determines to be necessary for the processing and settlement of all refunds, disputed charges, chargebacks, customer complaints, allegations of fraud, and other discrepancies and (ii) as otherwise permitted pursuant to this TOS. FilmFreeway, in its sole discretion, may determine to advance a portion of submission fees to Festival prior to the period set forth above, on such terms and conditions as FilmFreeway may establish from time to time. Festival agrees that all fees ultimately due will be net of all Service Fees, refunds, disputed charges, chargebacks and other deductions, whether due to customer complaints, allegations of fraud, discrepancies related to the applicable event or otherwise. No payments shall be made to a Festival from FilmFreeway with respect to any event that is cancelled. If payments have already been made by FilmFreeway to a Festival for a cancelled event, such Festival will immediately refund to FilmFreeway all such payments upon cancellation of such event. All sales, fees, charges, and funds are payable in U.S. Dollars, or other currencies accepted by FilmFreeway. If Festival elects to list submission fees in a foreign currency accepted by FilmFreeway, FilmFreeway will collect and disperse the funds in the currency selected by Festival.
+
+(b) Refunds.
+
+(i) It is the responsibility of the Festival to communicate its refund policy to Filmmakers and to issue refunds to Filmmakers via the Site or offline. A Festival shall ensure that its refund policy is consistent with the terms of this TOS. The Site permits a Festival to issue refunds to Filmmakers within six (6) months after the transaction date. Refunds issued following such period will not be processed through the Site, unless otherwise agreed to by FilmFreeway in its sole discretion. Subject to the foregoing, refunds issued by a Festival will be processed within thirty (30) days after Festival instructs the issuance of the refunds via the Site. All communications or disputes regarding refunds are between the Festival and Filmmaker, and FilmFreeway will not be responsible or liable for, and Festival hereby agrees to fully indemnify FilmFreeway and its affiliates for, refunds, errors in issuing refunds, or lack of refunds. (ii) Notwithstanding the foregoing, you acknowledge and agree that FilmFreeway shall have the right to force a refund of any or all submissions at any time for any reason or no reason, including without limitation if FilmFreeway receives complaints from a substantial number (as determined by FilmFreeway in its sole discretion) of Filmmakers with respect to the Festival, or FilmFreeway determines in its sole discretion that Festival has engaged in any fraudulent activity or made any misrepresentations. Further, if one or more Filmmaker(s) request a refund, whether due to a cancelled event or for any other reason where FilmFreeway would reasonably expect to lose a chargeback, FilmFreeway may, in its sole discretion, issue such refund to such Filmmaker(s), and Festival shall then owe the amount of such refund to FilmFreeway.
+
+Submission Protection
+
+Submission Protection is an optional service that we offer to Filmmakers only at the time of checkout. Submission Protection provides for a full refund of Filmmaker’s entry fee for a Festival if: Filmmaker decides to withdraw submission within 5 days of submitting (provided the entry has not yet been judged by the festival); the Festival is canceled, deactivated, or does not take place; Filmmaker’s submission is lost in transit or not received by the festival.
+
+Ticket Protection
+
+Ticket Protection is an optional service that we offer to Filmmakers only at the time of checkout. Ticket Protection provides for a full refund of Filmmaker’s ticket fee if: Filmmaker decides to cancel purchase within 2 days of ordering; the event is canceled or does not take place; Filmmaker cannot attend the event due to Unforeseen Circumstances. Covered Unforeseen Circumstances are limited specifically to: physical injury, too sick to attend, have jury duty, subpoena for court. A letter from a doctor or court is required for proof of Unforeseen Circumstances.
+
+(c) Credit Card Chargebacks.
+
+Any credit card chargebacks initiated by a Filmmaker for any reason with respect to an event shall be charged back to the Festival of such event. 
+
+(d) Fees That We Charge.
+
+Creating an account, listing an event and accessing the Services are free. However, we charge fees when you accept paid submissions, sell or buy paid tickets, or purchase marketing services. These fees may vary based on individual agreements between FilmFreeway and certain Festivals. FilmFreeway reserves the right, at its sole discretion, to make adjustments to pricing at any time, either individually or collectively, and will notify Festival(s) of any pricing modifications via email.
+
+4.3 Non-Exclusive Remedies.
+
+(a) Payment.
+
+In the event that Festival fails to pay to FilmFreeway any amount owed pursuant to this TOS when due, such amount shall bear interest calculated from the date due until paid in full at a rate equal to the lesser of (a) ten percent (10%) per annum, and (b) the maximum amount permitted by applicable law. In the event any amounts are owed by Festival to FilmFreeway under this TOS or otherwise, FilmFreeway may, without limiting its other rights and remedies, (i) deduct such amounts from Festival's outstanding balance, whether for that particular event or for any other event that Festival lists through the Services; and/or (ii) send an invoice to Festival for such amounts to the extent Festival's outstanding balance is insufficient to cover these costs, in which case Festival shall pay FilmFreeway such invoiced amounts within thirty (30) days after the date of the invoice. If payment for any amounts due to FilmFreeway hereunder are not made by Festival when due, FilmFreeway reserves the right, in its sole discretion and without limiting its other rights and remedies, to terminate Festival's registration for the Services (including any and all accounts that Festival may have).
+
+If you choose to receive your payouts via ACH, you expressly authorize FilmFreeway's service provider, Dwolla, Inc. to originate credit transfers to your financial institution account. You authorize us to collect and share with Dwolla your personal information including full name, email address and financial information, and you are responsible for the accuracy and completeness of that data. Dwolla’s Privacy Policy is available here.
+
+(b) Confirmation.
+
+Upon receipt of a credit card authorization from each individual submission, FilmFreeway generates a confirmation message and issues a unique confirmation number. You agree to unconditionally accept, honor, and fulfill all commitments that have been confirmed by FilmFreeway through the Services, and it is your responsibility to verify the Filmmaker's submission status, confirmation number and/or any event restrictions prior to the subject event.
+
+(c) Taxes; Withholding.
+
+(i) You are solely responsible for determining which, if any, sales, use, amusement, value added, consumption, excise and other taxes, duties, levies and charges (collectively, "Taxes") apply to your use of the Services and for collecting, remitting and reporting the correct amounts of all such Taxes to the applicable governmental authorities, even if FilmFreeway provides you with tools that assist you in doing so. FilmFreeway does not represent or warrant that any tax tools will meet all tax requirements that may be applicable to you. FilmFreeway cannot give you legal or tax advice, so please be sure to check with your own tax advisor about any applicable Taxes. In the event that a governmental authority requires FilmFreeway to pay any Taxes attributable to your use of the Services, you agree to indemnify and reimburse FilmFreeway for such Taxes and all costs and expenses related thereto.
+
+(ii) All Service Fees charged by FilmFreeway do not include any Taxes except to the extent that a Tax is expressly set forth in the applicable invoice or billing statement, and you agree to pay any Taxes that are imposed and payable on such Service Fees (other than those calculated based on FilmFreeway's net income) to FilmFreeway.
+
+(iii) FilmFreeway reserves the right to withhold the payment of any amounts owed to you hereunder if FilmFreeway suspects or determines that such amounts have been generated in (A) a fraudulent manner, (B) violation of this TOS, or (C) violation of any applicable laws or regulations (foreign or domestic), or if FilmFreeway is required to do so by applicable laws or regulations (foreign or domestic). Such withholding may be temporary or permanent (as determined by FilmFreeway).
+
+5. YOUR REGISTRATION OBLIGATIONS.
+
+To be a registered user of the Services as a Festival you agree to: (a) provide true, accurate, current and complete information about yourself as prompted by the Site registration form (the "Registration Data") and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete. If you provide any information that is untrue, inaccurate, not current or incomplete, or FilmFreeway has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, FilmFreeway has the right to suspend or terminate all of your accounts and refuse any and all of your current or future use of the Services (or any portion thereof). FilmFreeway is concerned about the safety and privacy of all its users, particularly children. For this reason, and to be consistent with the terms of use of any FPM service provider or other third party service provider, you must be at least 13 years of age, or the legal age of majority where you reside if that jurisdiction has an older age of majority, to register for an account.
+
+6. ACCOUNT, PASSWORD AND SECURITY.
+
+As part of the Site registration process, you will create a password and account. You are responsible for maintaining the confidentiality of the password and account, and are fully responsible for all activities that occur under your account, including, without limitation, all actions by sub-users registered under your account. You agree to (a) immediately notify FilmFreeway of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session. FilmFreeway cannot and will not be liable for any loss, damage or other liability arising from your failure to comply with this Section or from any unauthorized access to or use of your account. In the event of any dispute between two or more parties as to account ownership, you agree that FilmFreeway shall be the sole arbiter of such dispute in its sole discretion and that FilmFreeway's decision (which may include termination or suspension of any account subject to dispute) shall be final and binding on all parties.
+
+7. CONTENT.
+
+7.1 Site Content.
+
+You agree that all material, including without limitation information, data, software, text, design elements, graphics, images and other content (collectively, "Content"), contained in or delivered via the Services or otherwise made available by FilmFreeway in connection with the Services (collectively, "Site Content") is protected by copyrights, trademarks, service marks, trade secrets or other intellectual property and other proprietary rights and laws. FilmFreeway may own the Site Content or portions of the Site Content may be made available to FilmFreeway through arrangements with third parties. Except as expressly authorized by FilmFreeway in writing or in connection with your use of the intended functionality of the Services, you agree not to sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works of any Site Content, or post any Site Content on any other web site or in a networked computer environment for any purpose. In connection with your use of the Service, you will not engage in or use any data mining, robots, scraping or similar data gathering or extraction methods. Any use of the Service or the Service Content other than as specifically authorized herein is strictly prohibited. Reproducing, copying or distributing any Site Content for any other purpose is strictly prohibited without the express prior written permission of FilmFreeway. You shall use the Site Content only for purposes that are permitted by this TOS and any applicable laws and regulations (foreign and domestic). Any rights not expressly granted herein are reserved.
+
+7.2 Your Content.
+
+You, as a Festival, acknowledge and agree that if you contribute, provide or make available any Content to the Site ("Your Content"), you hereby grant to FilmFreeway a non-exclusive, worldwide, perpetual, irrevocable, royalty-free right and license to use, reproduce, modify, distribute, translate, publish, and display Your Content to Filmmakers and the public. YOUR USE OF THE FILMFREEWAY SITE AND SERVICES DOES NOT GRANT US OR ANY THIRD PARTIES ANY OWNERSHIP TO YOUR INTELLECTUAL PROPERTY. You represent and warrant that you have all the rights, power and authority necessary to grant the foregoing license, and that all Your Content (i) does not infringe, violate, misappropriate or otherwise conflict with the rights of any third party, and (ii) complies with all applicable laws and regulations (foreign and domestic). In addition, Your Content must be accurate and truthful. FilmFreeway reserves the right to remove any of Your Content from the Site at any time if FilmFreeway believes in its sole discretion that it does not comply with this TOS. In addition, you agree that FilmFreeway may use your event name and logo for the purpose of identifying you as an existing or past customer of FilmFreeway both on the Site and in marketing and promotional materials.
+
+8. CONDUCT.
+
+8.1 Certain Restrictions.
+
+You understand that you are liable for all Content, in whatever form, that you provide or otherwise make available to or through the Services, including to Filmmakers and other users of the Services. You agree not to use the Services to:
+
+upload, post, email, transmit or otherwise make available any Content that is unlawful, harmful, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable;
+
+harm minors in any way;
+
+facilitate gambling, gaming, lotteries, raffles, sweepstakes and/or any other activity featuring the award of a prize other than contests conducted in a manner that complies in all respects with FilmFreeway’s Contests Guidelines;
+
+impersonate any person or entity, including, but not limited to, a FilmFreeway representative or forum leader, or falsely state or otherwise misrepresent your affiliation with a person or entity;
+
+forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through the Services;
+
+upload, post, email, transmit or otherwise make available any Content that you do not have a right to make available under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements);
+
+upload, post, email, transmit or otherwise make available any Content that infringes any patent, trademark, trade secret, copyright or other intellectual property or proprietary rights of any person or entity;
+
+upload, post, email, transmit or otherwise make available any Content related to the sale or provision of goods and services other than the sale or provision of submissions and registrations to events listed on the Site and other goods and services being sold or provided in conjunction with such events;
+
+upload, post, email, transmit or otherwise make available any Content that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment or to otherwise interact with the Services in a manner not permitted by this TOS or expressly authorized by FILMFREEWAY;
+
+interfere with or disrupt the Services or servers or networks connected to the Services, or disobey any requirements, procedures, policies or regulations of networks connected to the Services;
+
+intentionally or unintentionally violate any applicable law or regulation (foreign or domestic); or
+
+stalk or otherwise harass any person or entity.
+
+8.2 Certain Remedial Rights.
+
+You acknowledge that FilmFreeway does not pre-screen any Content provided or made available by you or any third party in connection with the Services, but that FilmFreeway and its designees shall have the right (but not the obligation) in their sole discretion to (i) monitor, alter, edit, or remove any of your Content, in whole or in part, and/or (ii) rescind and terminate your right to use the Services at any time (with or without notice) for any reason or no reason. You acknowledge and agree that FilmFreeway may preserve your Content and may also disclose your Content for any reason, including without limitation if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce this TOS; (c) respond to claims that any of your Content violates the rights of third parties; and/or (d) protect the rights, property, or personal safety of FilmFreeway, its users and/or the public. You understand that the technical processing and transmission of the Services, including Your Content, may involve (i) transmissions over various networks; and/or (ii) changes to conform and adapt to technical requirements of connecting networks or devices.
+
+9. SUB-DOMAINS AND CUSTOM URLS
+
+FILMFREEWAY may provide you with the right to use a sub-domain or custom url within the Site (e.g., [sub-domain prefix].filmfreeway.com or filmfreeway.com/[customurl]). All such sub-domains and custom urls are the sole property of FilmFreeway. In the event FilmFreeway provides you with a sub-domain or custom url, your right to use such sub-domain or custom url may be terminated by FilmFreeway at any time (with or without notice) for any reason or no reason.
+
+10. SPECIAL ADMONITIONS FOR INTERNATIONAL USE.
+
+Recognizing the global nature of the Internet, you agree to comply with all local rules regarding online conduct and acceptable Content. By way of illustration and not limitation, you agree to comply with all applicable laws and regulations (foreign and domestic) regarding the transmission of technical data exported from the United States or the country in which you reside.
+
+In addition, the Services are subject to United States export controls. No part of the Services may be exported or re-exported into, or to a national or resident of, any country to which the United States has embargoed goods and/or services of the same type as the Services. By using the Services or any part thereof (including by downloading any Software), you represent and warrant that you are not located in, and you are not a national or resident of, any such country.
+
+11. INDEMNITY.
+
+You agree to defend, indemnify and hold FilmFreeway, and its affiliates, and each of its and their respective officers, directors, agents, co-branders, other partners, and employees, harmless from any and all damage (whether direct, indirect, incidental, consequential or otherwise), loss, liability, cost and expense (including, without limitation, reasonable attorneys and accounting fees) resulting from any claim, demand, suit, proceeding (whether before an arbitrator, court, mediator or otherwise), or investigation made by any third party (each a "Claim") due to or arising out of: your Content; your or any of your affiliates, or any of your or your affiliates officers, directors, agents or employees, use of, contribution to or connection with the Services or violation of any rights of another; your event(s); and/or your violation of this TOS. FilmFreeway shall provide notice to you of any such Claim, provided that the failure or delay by FilmFreeway in providing such notice shall not limit your obligations hereunder. FilmFreeway reserves the right to assume the exclusive defense and control of any matter which is subject to indemnification under this Section, and in such case, you agree to cooperate with all reasonable requests in assisting FilmFreeway’s defense of such matter.
+
+12. SERVICE MODIFICATIONS/SUSPENSIONS.
+
+FilmFreeway reserves the right at any time to, and from time to time may, modify, suspend or discontinue, temporarily or permanently, the Services (or any part thereof) for any reason or no reason with or without notice. FilmFreeway will not be responsible to you for a refund, in whole or part, of Service Fees for any reason, except for Service Fees (excluding the portion of Service Fees paid over to FPMs and other third party service providers used by FilmFreeway in connection with providing the Services) related to refunds issued to Filmmakers. You agree that FilmFreeway shall not be liable to you or to any third party for any modification, suspension or discontinuance of the Services.
+
+13. TERMINATION.
+
+FilmFreeway, in its sole discretion, may terminate your password, accounts (or any part thereof) and/or your right to use the Services, and remove and discard any and all of Your Content within the Services, at any time for any reason or no reason, including, without limitation, for lack of use, failure to timely pay any fees or other monies due FilmFreeway, or if FilmFreeway believes that you have violated or acted inconsistently with the letter or spirit of this TOS. You agree that any termination of your right to use the Services may be effected without prior notice, and acknowledge and agree that FilmFreeway may immediately deactivate or delete your account and all related Content and files related to your account and/or bar any further access to such files or the Services. Further, you agree that FilmFreeway shall not be liable to you or any third-party for any termination of your right to use or otherwise access the Services. All provisions of this TOS that by their nature should survive termination of your right to use the Services shall survive (including, without limitation, all limitations on liability, releases, indemnification obligations, disclaimers of warranties, and intellectual property protections and licenses).
+
+14. LINKS.
+
+The Services may provide, or third parties may provide, links to other Internet websites or resources. Because FilmFreeway has no control over such websites and resources, you acknowledge and agree that FilmFreeway is not responsible for the availability of such websites or resources, and does not endorse and is not responsible or liable for any Content, advertising, products, services or other materials on or available from such websites or resources. You further acknowledge and agree that FilmFreeway shall not be responsible or liable for any damage or loss caused or alleged to be caused by or in connection with any use of or reliance on any such Content, advertising, products, services or other materials available on or through any such website or resource.
+
+15. DISCLAIMER OF WARRANTIES.
+
+THE SERVICES ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. FILMFREEWAY HEREBY EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, NON-INFRINGEMENT AND FITNESS FOR A PARTICULAR PURPOSE. FILMFREEWAY MAKES NO WARRANTY THAT: (I) THE SERVICES WILL MEET YOUR REQUIREMENTS, (II) THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (III) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICES WILL BE ACCURATE OR RELIABLE, (IV) THE SERVICES THEMSELVES (OR ANY PART THEREOF) WILL MEET YOUR EXPECTATIONS, OR (V) ANY ERRORS IN THE SERVICES WILL BE CORRECTED. FILMFREEWAY IS NOT RESPONSIBLE AND SHALL HAVE NO LIABILITY FOR THE CONTENT, PRODUCTS, SERVICES, ACTIONS OR INACTIONS OF ANY USER, FILMMAKER OR OTHER NON-FESTIVAL, FESTIVAL OR THIRD PARTY BEFORE, DURING AND/OR AFTER AN EVENT; AND FILMFREEWAY WILL HAVE NO LIABILITY WITH RESPECT TO ANY WARRANTY DISCLAIMED IN (I) THROUGH (V) ABOVE. YOU ACKNOWLEDGE THAT FILMFREEWAY HAS NO CONTROL OVER AND DOES NOT GUARANTEE THE QUALITY, SAFETY OR LEGALITY OF EVENTS ADVERTISED, THE TRUTH OR ACCURACY OF ANY USERS' (INCLUDING FILMMAKERS', OTHER NON-FESTIVALS' AND FESTIVALS') CONTENT OR LISTINGS, OR THE ABILITY OF ANY USER (INCLUDING FILMMAKERS AND FESTIVALS) TO PERFORM, OR ACTUALLY COMPLETE A TRANSACTION. IN ADDITION, FILMFREEWAY IS NOT AFFILIATED WITH, AND HAS NO AGENCY OR EMPLOYMENT RELATIONSHIP WITH, ANY THIRD PARTY SERVICE PROVIDER USED IN CONJUNCTION WITH THE SERVICES (INCLUDING, WITHOUT LIMITATION, ANY FPM SERVICE), AND FILMFREEWAY HAS NO RESPONSIBILITY FOR, AND HEREBY DISCLAIMS ALL LIABILITY ARISING FROM, THE ACTS OR OMISSIONS OF ANY SUCH THIRD PARTY SERVICE PROVIDER. THE FOREGOING DISCLAIMERS SHALL NOT APPLY TO THE EXTENT PROHIBITED BY APPLICABLE LAW. Notwithstanding the foregoing, you may report the misconduct of users, Filmmakers, other non-Festivals, Festivals and/or third parties in connection with the Site or any Services to FilmFreeway. FilmFreeway, in its sole discretion, may investigate the claim and take necessary action.
+
+16. LIMITATION OF LIABILITY.
+
+FILMFREEWAY SHALL NOT BE LIABLE UNDER ANY CIRCUMSTANCES OR UNDER ANY LEGAL THEORY, WHETHER IN TORT, CONTRACT, OR OTHERWISE, WITH RESPECT TO THE SERVICES, OR ANY OTHER SUBJECT MATTER OF THIS TOS, FOR: (I) ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF FILMFREEWAY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), (II) THE COST OF PROCUREMENT OF SUBSTITUTE SERVICES, (III) AMOUNTS IN EXCESS OF US$100.00 IN THE AGGREGATE FOR ALL CLAIMS FROM A GIVEN FESTIVAL WITH RESPECT TO THE SERVICES, OR (IV) ANY MATTERS BEYOND FILMFREEWAY'S REASONABLE CONTROL. FILMFREEWAY SHALL HAVE NO LIABILITY WITH RESPECT TO ANY OF YOUR CONTENT OR ANY CONTENT OF ANY OTHER USER OF THE SERVICES. THE FOREGOING LIMITATIONS SHALL NOT APPLY TO THE EXTENT PROHIBITED BY APPLICABLE LAW.
+
+17. RELEASE.
+
+IN CONSIDERATION OF BEING PERMITTED TO ACCESS AND USE THE SERVICES, YOU HEREBY AGREE TO RELEASE FILMFREEWAY, AND ITS AFFILIATES, AND EACH OF ITS AND THEIR RESPECTIVE OFFICERS, DIRECTORS, AGENTS, CO-BRANDERS, OTHER PARTNERS, AND EMPLOYEES FROM ALL DAMAGES (WHETHER DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL OR OTHERWISE), LOSSES, LIABILITIES, COSTS AND EXPENSES OF EVERY KIND AND NATURE, KNOWN AND UNKNOWN, ARISING OUT OF OR IN ANY WAY CONNECTED WITH DISPUTES BETWEEN YOU AND THIRD PARTIES (INCLUDING OTHER FESTIVALS, FILMMAKERS, AND OTHER NON-FESTIVALS) IN CONNECTION WITH THE SERVICES, YOUR ACCESS AND USE OF THE SERVICES, OR YOUR EVENT.
+
+18. PRIVACY.
+
+All information provided by you or collected by FilmFreeway in connection with the Services is governed by FilmFreeway's Privacy Policy, a copy of which is located at https://filmfreeway.com/page/privacy-policy, which is hereby incorporated by reference into this TOS. FILMFREEWAY strongly recommends that you review the Privacy Policy closely. In particular, Festivals should note that FilmFreeway may use information it receives or collects regarding Filmmakers in accordance with the terms of its Privacy Policy, which may include use for marketing or promotion of other events or services that may be of interest to such Filmmakers. Further, any information submitted or provided by you to the Services may be publicly accessible. You should take care to protect private information or information that is important to you. FilmFreeway shall not be responsible for protecting any such information and is not liable for the protection of privacy of electronic mail or other information transferred through the Internet or any other network that you may use. Please be aware that if you decide to disclose personally identifiable information on the Services, this information may become public. FilmFreeway does not control and shall not be responsible for the acts of you or any other users (whether Festivals, Filmmakers, other non-Festivals or otherwise) of the Services.
+
+19. NOTICE.
+
+Notices to you may be made via either email or regular mail to the address in FilmFreeway's records. The Services may also provide notices of changes to this TOS or other matters by displaying notices or links to notices to you generally on the Services. Any notice from you to us shall be sent in writing to our mailing address at:
+
+FilmFreeway
+Attn: Legal Department
+2300 Empire Avenue, 5th Floor
+Burbank, CA 91504, USA
+
+20. TRADEMARK INFORMATION.
+
+The trademarks, service marks, and logos of FilmFreeway (the "FilmFreeway Trademarks") used and displayed in connection with the Services are registered and unregistered trademarks or service marks of FilmFreeway. Other company, product, and service names used in connection with the Services may be trademarks or service marks owned by third parties (the "Third Party Trademarks", and, collectively with FilmFreeway Trademarks, the "Trademarks"). The offering of the Services shall not be construed as granting, by implication, estoppel, or otherwise, any license or right to use any Trademark displayed in connection with the Services without the prior written consent of FilmFreeway specific for each such use. The Trademarks may not be used to disparage FilmFreeway, any third party or FilmFreeway's or third party's products or services, or in any manner (in FilmFreeway 's sole judgment) that may damage any goodwill in the Trademarks. Use of any Trademarks as part of a link to or from any site is prohibited unless FilmFreeway approves the establishment of such a link by prior written consent specific for each such link. All goodwill generated from the use of any FilmFreeway Trademark shall inure to FilmFreeway 's benefit.
+
+23. GENERAL.
+
+23.1 Entire Agreement.
+
+This TOS constitutes the entire agreement between you and FilmFreeway and governs your use of the Services as a Filmmaker or other Non-Festival, superseding any prior or contemporaneous agreements, proposals, discussions or communications between you and FilmFreeway on the subject matter hereof. You also may be subject to additional terms and conditions that may apply when you use affiliate services, third party Content, third party software or the Services in a manner other than as governed by this TOS.
+
+23.2 Choice of Law.
+
+This TOS and the provision of the Services to you are governed by the laws of the state of Nevada as such laws are applied to agreements entered into and to be performed entirely within Nevada by Nevada residents.
+
+23.3 Arbitration.
+
+Any controversy or claim arising out of or relating to this TOS or the provision of the Services shall be exclusively settled by binding arbitration in accordance with the commercial arbitration rules of an arbitration service in Nevada. Any such controversy or claim shall be arbitrated on an individual basis, and shall not be consolidated in any arbitration with any claim or controversy of any other party. The arbitration shall be conducted in Nevada and judgment on the arbitration award may be entered in any court having jurisdiction thereof. Subject to the foregoing arbitration provision, you and FilmFreeway agree to submit to the personal jurisdiction of the courts located within the city of Las Vegas, Nevada. Either you or FilmFreeway may seek any interim or preliminary relief from a court of competent jurisdiction in Las Vegas, Nevada, necessary to protect the rights or property of you or FilmFreeway (or its agents, suppliers, and subcontractors) pending the completion of arbitration.
+
+20.4 No Class Actions.
+
+You and FilmFreeway agree that each may bring claims against the other only in your or its individual capacity, and not as a plaintiff or class member in any purported class, consolidated or representative proceeding. The arbitrator may not consolidate more than one person’s claims, may not preside over any form of class, consolidated or representative proceeding and may only provide relief in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party’s individual claim.
+
+23.5 Waiver; Invalid Provisions.
+
+The failure or delay of FilmFreeway to exercise or enforce any right or provision of this TOS shall not constitute a waiver of such right or provision. No oral waiver, amendment or modification shall be effective under any circumstance whatsoever. If any provision of this TOS is found by an arbitrator or court of competent jurisdiction to be invalid, the parties nevertheless agree that the arbitrator or court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of this TOS shall remain in full force and effect.
+
+23.6 Time to File Claim.
+
+You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Services or this TOS must be filed within two (2) years after such claim or cause of action arose or be forever barred.
+
+23.7 Titles.
+
+The section titles in this TOS are for convenience only and have no legal or contractual effect.
+
+23.8 Violations.
+
+Please report any violations of this TOS by email to support@filmfreeway.com.

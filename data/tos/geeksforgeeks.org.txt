@@ -1,0 +1,320 @@
+TERMS OF USE
+TERMS OF USE
+
+
+
+Last updated 02 June 2023
+
+
+
+AGREEMENT TO OUR LEGAL TERMS
+
+
+
+We are Sanchhaya Education Pvt. Ltd., doing business as GeeksforGeeks ('Company', 'we', 'us', or 'our'). We operate the website & app www.geeksforgeeks.org (the 'Site'), as well as any other related products and services that refer or link to these legal terms (the 'Legal Terms') (collectively, the 'Services').
+
+
+
+These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ('you'), and GeeksforGeeks, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+
+
+
+We will provide you with prior notice of any scheduled changes to the Services you are using. The modified Legal Terms will become effective upon posting or notifying you by support@geeksforgeeks.org, as stated in the email message. By continuing to use the Services after the effective date of any changes, you agree to be bound by the modified terms.
+
+
+Accordingly, those persons who choose to access the Services from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
+
+
+
+1. USER REPRESENTATIONS
+
+
+
+By using the Services, you represent and warrant that: (1) all registration information you submit will be true, accurate, current, and complete; (2) you will maintain the accuracy of such information and promptly update such registration information as necessary; (3) you have the legal capacity and you agree to comply with these Legal Terms; (4) you are not under the age of 13; (5) you are not a minor in the jurisdiction in which you reside, or if a minor, you have received parental permission to use the Services; (6) you will not access the Services through automated or non-human means, whether through a bot, script or otherwise; (7) you will not use the Services for any illegal or unauthorized purpose; (8) your use of the Services will not violate any applicable law or regulation and (9) you only use the educational content provided via the Premium and Premium plus account for educational and personal use and shall not make 
+
+
+
+If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Services (or any portion thereof).
+
+
+
+2. USER REGISTRATION
+
+
+
+You may be required to register to use the Services. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable.
+
+
+
+4. CONTENT YOU SHARE
+
+Please go through our Community Guidelines to understand what is allowed and prohibited. You are solely responsible for your Submissions and/or Contributions and you expressly agree to reimburse us for any and all losses that we may suffer because of your breach of (a) this section, (b) any third party’s intellectual property rights, or (c) applicable law.
+
+
+
+We may remove or edit your Content: Although we have no obligation to monitor any Contributions, we shall have the right to remove or edit any Contributions at any time without notice if in our reasonable opinion we consider such Contributions harmful or in breach of these Legal Terms. If we remove or edit any such Contributions, we may also suspend or disable your account and report you to the authorities where required. 
+
+
+
+Profile Visibility: While employing our website & app, your profile shall be visible to other users and vice versa. Further, some activities that you engage in on our platform shall be broadcasted to other users. Your continued use of the GeeksforGeeks website & app shall constitute acceptance of this feature. 
+
+
+
+5. PREMIUM AND PREMIUM PLUS ACCOUNTS
+GFG Premium/Premium Plus (referred to as "the subscription service") is a tailored subscription that provides, suggests, and aids in finding a variety of online educational materials (referred to as "Educational Content") in categories of your interest.  By choosing one of the available subscription options, Premium/Premium Plus ("Subscription"), you can access the Subscription and Educational Content through the GFG website & app.
+
+
+
+Compatible devices
+
+In order to access our educational content you will need to use a personal computer, or other device that meets the system and compatibility requirements (a "Compatible Device"). The list of compatible devices is subject to change, and in some circumstances, whether a device is (or remains) compatible may depend on software or systems provided by or maintained by the manufacturer of the device or other third parties. As a result, devices that were once Compatible Devices may no longer be so in the future. In order to use the Subscription Service, kindly confirm that the device you use is compatible with our system/software.
+
+
+
+Usage Rules
+
+Any content we make available to you through your GFG Premium/Premium Plus Subscription is subject to viewing access restrictions and time limits due to the constraints placed on us by the educators who offer the educational content.
+These restrictions may change over time as we add new features, devices and content to our Subscription Service. The following are restrictions for accessing Educational 
+The user can only upgrade to a Premium Plus plan from an ongoing Premium plan by paying the difference amount that would be calculated on the basis of the remaining days in the users’ current billing cycle.
+
+
+Content on GFG Premium/Premium Plus Subscription:
+
+You shall get ad-free access to the Educational Content present on the GeeksforGeeks portal during the Subscription Period through your Web browser/mobile application when connected via compatible devices. 
+
+
+
+Features
+
+When you sign up for Premium or Premium +, you're entitled to the following features, respectively:
+
+
+
+Premium	Premium +
+Ad Free Content	Ad Free Content 
+Personal Notes	Personal Notes
+Newsletter	Newsletter
+Premium Reading Experience	Premium Reading Experience
+Free Job Preparation Test Series
+
+(Google, Microsoft, Amazon, SDE)
+
+Free Job Preparation Test Series
+
+(Google, Microsoft, Amazon, SDE)
+
+ 	Doubt Assistance on All Public Practice Questions
+
+
+
+Subscription & Payment
+
+You can subscribe to either Premium or Premium Plus by making the required payment for the subscription plan of your choice. You can only upgrade/modify an ongoing Premium subscription to a Premium Plus subscription but cannot downgrade from a Premium Plus subscription to a Premium subscription. While GeeksforGeeks courses could be refunded(Courses Refund Policy), GeeksforGeeks Premium and Premium+ subscriptions are non-refundable and the final decision making authority in the case of disputes regarding the cancelation of the subscription(s) shall rest with GeeksforGeeks.
+
+
+Users who have purchased 'Premium' after July 15, 2024, are eligible for a full (100%) refund within 48 hours of purchasing a subscription. Refund requests must be submitted in writing to support@geeksforgeeks.org within the 48-hour timeframe.
+Refunds will be processed within 5-7 business days of receiving a valid refund request. Please note that no refunds will be issued after 48 hours of purchase. By purchasing a subscription, you acknowledge that you have read and understood our refund policy.
+
+
+
+
+
+
+
+
+
+
+
+6. GENERATE + URL TERMS
+
+
+Our platform (www.geeksforgeeks.org) offers a Generate + URL feature that enables users to generate URLs for codes they create. By using this feature, you agree to the following terms and conditions:
+
+You shall not use the Generate + URL feature for masking URLs or any other unethical or unintended purpose. 
+If you misuse the Generate + URL feature, you accept full responsibility for any consequences, and we shall not be held liable for any misuse, either to you or to any third party. This includes but is not limited to any harm, damage, or legal consequences arising from such misuse.
+We reserve the right to pursue legal action against any user found to be misusing the Generate + URL feature to harm the reputation and brand name of GeeksforGeeks. Such actions may result in legal liabilities and penalties as allowed by law.
+We trust that you will use the Generate + URL feature for reasonable and ethical purposes. You are expressly prohibited from using this feature for any harmful, offensive, obscene, pornographic, threatening, violating, or illegal purposes. Misuse of the feature for such activities may lead to immediate account suspension and legal action as applicable.
+7. GEEKBITS TERMS
+
+
+Geekbits constitute the virtual currency awarded to users upon successfully solving the Problem of the Day (POTD) questions on the website & app. 
+It is explicitly stated that Geekbits hold no real-world value and cannot be exchanged for any monetary currency, including but not limited to INR, USD, or any other real-time currency
+Geekbits are purely a virtual reward system for user engagement on the platform.
+
+
+8. CONTRIBUTION LICENSE
+
+
+By posting your Contributions to any part of the Services or making Contributions accessible to the Services by linking your account from the Services to any of your social networking accounts, you automatically grant, and you represent and warrant that you have the right to grant, to us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable, royalty-free, fully-paid, worldwide right, and license to host, use, copy, reproduce, disclose, sell, resell, publish, broadcast, retitle, archive, store, cache, publicly perform, publicly display, reformat, translate, transmit, excerpt (in whole or in part), and distribute such Contributions (including, without limitation, your image and voice) for any purpose, commercial, advertising, or otherwise, and to prepare derivative works of, or incorporate into other works, such Contributions, and grant and authorize sublicences of the foregoing. The use and distribution may occur in any media formats and through any media channels.
+
+
+
+We do not assert any ownership over your Contributions. You retain full ownership of all of your Contributions and any intellectual property rights or other proprietary rights associated with your Contributions. We are not liable for any statements or representations in your Contributions provided by you in any area on the Services. You are solely responsible for your Contributions to the Services.
+
+
+
+We have the right, in our sole and absolute discretion, (1) to edit, redact, or otherwise change any Contributions; (2) to re-categorise any Contributions to place them in more appropriate locations on the Services; and (3) to pre-screen or delete any Contributions at any time and for any reason, without notice. 
+
+
+
+9. PROHIBITED ACTIVITIES
+
+
+
+You may not access or use the Services for any purpose other than that for which we make the Services available. The Services may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
+
+
+
+As a user of the Services, you agree not to:
+
+Systematically retrieve data or other content from the Services to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
+Trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords.
+Circumvent, disable, or otherwise interfere with security-related features of the Services, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Services and/or the Content contained therein.
+Disparage, tarnish, or otherwise harm, in our opinion, us and/or the Services.
+Use any information obtained from the Services in order to harass, abuse, or harm another person.
+Make improper use of our support services or submit false reports of abuse or misconduct.
+Use the Services in a manner inconsistent with any applicable laws or regulations.
+Engage in unauthorized framing of or linking to the Services.
+Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Services or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Services.
+Engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
+Delete the copyright or other proprietary rights notice from any Content.
+Attempt to impersonate another user or person or use the username of another user.
+Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats ('gifs'), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as 'spyware' or 'passive collection mechanisms' or 'pcms').
+Interfere with, disrupt, or create an undue burden on the Services or the networks or services connected to the Services.
+Harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Services to you.
+Attempt to bypass any measures of the Services designed to prevent or restrict access to the Services, or any portion of the Services.
+Copy or adapt the Services' software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
+Except as permitted by applicable law, decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Services.
+Except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Services, or use or launch any unauthorized script or other software.
+Use a buying agent or purchasing agent to make purchases on the Services.
+Make any unauthorized use of the Services, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
+Use the Services as part of any effort to compete with us or otherwise use the Services and/or the Content for any revenue-generating endeavor or commercial enterprise.
+Sell or otherwise transfer your profile.
+You shall not sell, rent, lease or share the content provided under Premium or Premium Plus account and you shall not transfer, copy or display the Educational Content, except as permitted in this Agreement. 
+10. COMMENT MODERATION
+
+
+
+Our comment system is designed to facilitate respectful and constructive discussions. To maintain a positive and safe environment, we have established the following guidelines and policies.
+
+
+
+Users are strictly prohibited from posting any content that:
+
+
+
+Constitutes spam, unsolicited commercial messages, or inappropriate material
+Amounts to personal promotion, self-advertisement, or unauthorized solicitation
+Contains language that is obscene, defamatory, threatening, harassing, or abusive
+Harasses, bullies, or intimidates other users or individuals
+Is knowingly false, misleading, or deceptive
+Infringes upon the intellectual property rights of others, including copyrighted or proprietary material, without proper authorization or permission
+Impersonates other users, individuals, or entities
+Includes links to malicious, harmful, or otherwise objectionable content
+
+
+We reserve the right to continuously monitor user activity on our platform to ensure compliance with our Commenting Policies. In our sole discretion, our moderators may take the following actions in response to any violation of these policies:
+
+
+
+Remove or delete any content deemed to be in breach of our policies
+Suspend or terminate user access to the comment system, either temporarily or permanently
+Issue warnings or notifications to users regarding their conduct
+Edit or modify user-submitted content to ensure compliance with our policies
+Restrict user posting privileges for a specified period
+Ban users from accessing the comment system, either temporarily or permanently
+
+
+The moderators shall have the sole and absolute discretion to:
+
+
+
+Designate comments as spam or take other measures to address unwanted content
+Suspend, terminate, or restrict user access to the comment system, as deemed necessary
+Consider a user's prior conduct and history of violations when making moderation decisions
+11. SERVICES MANAGEMENT
+
+
+
+We reserve the right, but not the obligation, to: (1) monitor the Services for violations of these Legal Terms; (2) take appropriate legal action against anyone who, in our sole discretion, violates the law or these Legal Terms, including without limitation, reporting such user to law enforcement authorities; (3) in our sole discretion and without limitation, refuse, restrict access to, limit the availability of, or disable (to the extent technologically feasible) any of your Contributions or any portion thereof; (4) in our sole discretion and without limitation, notice, or liability, to remove from the Services or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems; and (5) otherwise manage the Services in a manner designed to protect our rights and property and to facilitate the proper functioning of the Services.
+
+
+
+12. TERM AND TERMINATION
+
+
+
+These Legal Terms shall remain in full force and effect while you use the Services. WITHOUT LIMITING ANY OTHER PROVISION OF THESE LEGAL TERMS, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SERVICES (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE LEGAL TERMS OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SERVICES OR DELETE YOUR ACCOUNT AND ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION.
+
+
+
+If we terminate or suspend your account for any reason, you are prohibited from registering and creating a new account under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party. In addition to terminating or suspending your account, we reserve the right to take appropriate legal action where required, including without limitation pursuing civil, criminal, and injunctive redress.
+
+
+
+13. SERVICE AND AVAILABILITY 
+
+
+
+We may change, suspend or discontinue any of our Services. We may also modify our prices effectively prospectively upon reasonable notice to the extent allowed under the law.
+
+
+
+We don’t promise to store or keep showing any information and content that you’ve posted. You agree that we have no obligation to store, maintain or provide you a copy of any content or information that you or others provide, except to the extent required by applicable law and as noted in our Privacy Policy.
+
+
+
+14. GOVERNING LAW
+
+
+
+These Legal Terms shall be governed by and defined following the laws of India. GeeksforGeeks and yourself irrevocably consent that the courts of India shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these Legal Terms.
+
+
+
+15. DISPUTE RESOLUTION
+
+
+
+You agree to irrevocably submit all disputes related to these Legal Terms or the legal relationship established by these Legal Terms to the jurisdiction of the India courts. GeeksforGeeks shall also maintain the right to bring proceedings as to the substance of the matter in the courts of the country where you reside or, if these Legal Terms are entered into in the course of your trade or profession, the state of your principal place of business.
+
+
+
+16. DISCLAIMER
+
+
+
+THE SERVICES ARE PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SERVICES AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SERVICES' CONTENT OR THE CONTENT OF ANY WEBSITES OR MOBILE APPLICATIONS LINKED TO THE SERVICES AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SERVICES, (3) ANY UNAUTHORISED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SERVICES, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SERVICES BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SERVICES. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SERVICES, ANY HYPERLINKED WEBSITE, OR ANY WEBSITE OR MOBILE APPLICATION FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGEMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
+
+
+
+17. LIMITATIONS OF LIABILITY
+
+
+
+IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SERVICES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+
+18. INDEMNIFICATION
+
+
+
+You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys’ fees and expenses, made by any third party due to or arising out of: (1) your Contributions; (2) use of the Services; (3) breach of these Legal Terms; (4) any breach of your representations and warranties set forth in these Legal Terms; (5) your violation of the rights of a third party, including but not limited to intellectual property rights; or (6) any overt harmful act toward any other user of the Services with whom you connected via the Services. We will use reasonable efforts to notify you of any such claim, action, or proceeding which is subject to this indemnification upon becoming aware of it.
+
+
+
+19. ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES
+
+
+
+Visiting the Services, sending us emails, and completing online forms constitute electronic communications. You consent to receive electronic communications, and you agree that all agreements, notices, disclosures, and other communications we provide to you electronically, via email and on the Services, satisfy any legal requirement that such communication be in writing. YOU HEREBY AGREE TO THE USE OF ELECTRONIC SIGNATURES, CONTRACTS, ORDERS, AND OTHER RECORDS, AND TO ELECTRONIC DELIVERY OF NOTICES, POLICIES, AND RECORDS OF TRANSACTIONS INITIATED OR COMPLETED BY US OR VIA THE SERVICES.
+
+
+
+20. MISCELLANEOUS
+
+
+
+These Legal Terms and any policies or operating rules posted by us on the Services or in respect to the Services constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Legal Terms shall not operate as a waiver of such right or provision. These Legal Terms operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time. We shall not be responsible or liable for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control. If any provision or part of a provision of these Legal Terms is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Legal Terms and does not affect the validity and enforceability of any remaining provisions. There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Legal Terms or use of the Services. You agree that these Legal Terms will not be construed against us by virtue of having drafted them. You hereby waive any and all defenses you may have based on the electronic form of these Legal Terms and the lack of signing by the parties hereto to execute these Legal Terms.
+

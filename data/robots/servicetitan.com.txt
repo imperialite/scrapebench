@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /thankyou*
+
+User-agent: Googlebot
+Allow: /*.js
+Allow: /*.css
+Sitemap: https://www.servicetitan.com/sitemap.xml
+Host: https://www.servicetitan.com

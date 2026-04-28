@@ -1,0 +1,47 @@
+User-agent: *
+
+Disallow: */on/demandware.store*
+Disallow: */search?*
+Disallow: */?q=*
+Disallow: /wishlist*
+Disallow: /order-history*
+Disallow: /login
+Disallow: /address*
+Disallow: /account-*
+Disallow: /cart*
+Disallow: /checkout*
+Disallow: /help?page=shipping-and-returns*
+Disallow: /track-order
+Disallow: /checkout
+Disallow: /wishlist-add/*
+Disallow: /Cart-AddProduct*
+Disallow: /Cart-MiniCartShow
+
+Disallow: */null
+Disallow: *URLUtils.https*
+
+Disallow: /*pmin*
+Disallow: /*pmax*
+Disallow: /*prefn1*
+Disallow: /*prefn2*
+Disallow: /*prefn3*
+Disallow: /*prefn4*
+Disallow: /*prefv1*
+Disallow: /*prefv2*
+Disallow: /*prefv3*
+Disallow: /*prefv4*
+Disallow: /*srule*
+
+
+Disallow: *sz=*
+Disallow: *crefn*
+Disallow: *crefv*
+
+Sitemap: https://www.altardstate.com/sitemap_index.xml
+Sitemap: https://www.arula.com/sitemap_index.xml
+Sitemap: https://www.tullabee.com/sitemap_index.xml
+Sitemap: https://www.asrevival.com/sitemap_index.xml
+
+# slow down bot
+User-agent: * 
+Crawl-Delay: 1

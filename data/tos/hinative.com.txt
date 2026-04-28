@@ -1,0 +1,440 @@
+# **HiNative Terms of Use**
+
+**Chapter 1. Scope of Application**
+
+　Article 1. Scope of Application
+
+**Chapter 2. User Registration**
+
+　Article 2. Registration
+
+　Article 3. Age Restrictions
+
+　Article 4. Account / Password Management
+
+　Article 5. Withdrawal
+
+**Chapter 3. User Content**
+
+　Article 6. Registration, Posting, and Distribution etc. of User Content
+
+　Article 7. Handling of User Content
+
+　Article 8. Rights to User Content
+
+　Article 9. Warranties and Responsibilities of Users
+
+**Chapter 4. Use of Service**
+
+　Article 10. Usage Fees
+
+　Article 11. Use of Service
+
+　Article 12. Management of Data etc.
+
+　Article 13. Attribution of Rights
+
+　Article 14. Prohibited Matters
+
+　Article 15. Revocation etc. of Registration
+
+　Article 16. Service Change, Termination, Interruption
+
+　Article 17. Preparation etc. of Use Environment for the Services
+
+**Chapter 5. Coins and Gifts**
+
+　Article 18. Coins and Gifts
+
+**Chapter 6. Diamonds and Exchange of Diamonds**
+
+　Article 19. Diamonds and Exchange of Diamonds
+
+**Chapter 7. Answering Function**
+
+　Article 20. Provision of AI Answering Function
+
+　Article 21. Disclaimers of AI Answering Function
+
+　Article 22. Extent of Limitation and Liability
+
+**Chapter 8. General Provisions**
+
+　Article 23. Handling of Personal Information
+
+　Article 24. Amendment of Terms
+
+　Article 25. No warranty ; Disclaimer
+
+　Article 26. User Responsibilities, Dispute Resolution, and Compensation for Damage
+
+　Article 27. Contact and Notice
+
+　Article 28. Assignment etc. of Status under these Terms of Use
+
+　Article 29. Severability
+
+　Article 30. Governing law and jurisdiction
+
+### **Chapter 1. Scope of Application**
+
+Article 1. Scope of Application
+
+1. These HiNative Terms of Use (the“Terms of Use”) set forth the conditions etc. for using the HiNative service (the“Service”) provided by Lang-8, Inc. (hereinafter, “we”, “us”, “our”, etc.).
+2. The Terms of Use apply to all relationships between users of the Service (each, a“User”) and us relating to the use of the Service.
+3. We reserve the right to establish, at our judgment, individual terms, guidelines, and rules etc. relating to the Service (“Individual Terms etc.”).  These Individual Terms etc. will be published within the Service or on our website, and shall constitute part of the Terms of Use.  In the event of any discrepancy between the Terms of Use and Individual Terms etc., the Individual Terms etc. shall take precedence.
+4. In order to use the Service, Users are required to confirm and agree to the entirety of the Terms of Use.  Users will be deemed to have agreed to the Terms of Use when they start to use the Service (including browsing the Service’s website) or they apply for user registration as specified in the following article.  Users can not use the Service without agreeing to the Terms of Use.
+
+### **Chapter 2. User Registration**
+
+Article 2. Registration
+
+1. Persons wishing to use the Service can apply for user registration for the Service by agreeing to comply with the Terms of Use and providing us with certain information (hereinafter referred to as “Registration Information”) specified by us in the manner we specify.
+2. If a person applying under the preceding paragraph is a minor, he/she must obtain the advance consent of a parent, guardian, or other legal representative before applying under the preceding paragraph.
+3. We will review whether to approve user registration for persons who have made applications under Paragraph1 (each,an“Applicant”) in accordance with our standards and notify Applicants of the result.  If user registration is approved, the Applicant’s user registration will be completed with notice from us to that effect and an account will be issued to the User.
+4. Upon completion of the user registration set forth in the preceding paragraph, a user agreement for the Service will be established between the User and us, and the User will be able to use the Service in accordance with the Terms of Use.  
+5. We may refuse user registration or re-registration if any of the following items applies to an Applicant.
+    
+    (1) If there is any falsehood, error, or omission in any part of the Registration Information provided to us;
+    
+    (2) If the Applicant is a minor, an adult ward, a person under curatorship, or a person under assistance, and has not obtained the consent of a legal representative, guardian, or assistant;
+    
+    (3) If the Applicant breaches the age restrictions set forth in the following article;
+    
+    (4) If we determine that Applicant is an anti-social force etc. (meaning an organized crime group, an organized crime group member, aquasi-member of an organized crime group, an organized crime group-affiliated enterprise, a corporate extortionist (sokaiya) or the like, asocial campaign advocacy racketeer (shakaiundo-tohyobogoro), an organized crime group with special intelligence, or an other person comparable to any of the foregoing; hereinafter the same) or has any association or involvement with an anti-social force etc., such as cooperation with or involvement in the maintenance, operation, or management of any anti-social force etc. through the provision of funds or otherwise;
+    
+    (5) If we determine that the Applicant is a person who has breached any agreement with us in the pas to rare lated person of such a person;
+    
+    (6) If the Applicant has been subject to measures such as Registration Cancellation etc. as stipulated in Article 15 Inthe Past;
+    
+    (7) If we determine that a person is likely to breach the Terms of Use; and
+    
+    (8) If we otherwise determine that user registration is not appropriate.
+    
+6. Users shall notify us without delay using the method specified by us in the event of any change in their Registration Information.
+
+Article 3. Age Restrictions
+
+1. A person must be at least 16 years old to use the Service, and children under the age of 16 can not use the Service.
+2. Notwithstanding the preceding paragraph, a person must be at least 18 years old to use the live transmission function of the Service, and persons under the age of 18 can not use this live transmission function.
+3. Users must not provide us with false information about age and other Registration Information to use the Service, and we will not be responsible if a User suffers damage stemming from false Registration Information.
+
+Article 4. Account Password Management
+
+1. Users shall properly manage and store their accounts and passwords for the Service at their own responsibility, and shall not allow any third parties to use such information, or lend, transfer, change the name associated with, or buy or sell etc. such information.
+2. Users shall be liable for any damage caused by insufficient management of accounts or passwords, errors in use, and use etc. by third parties.
+
+Article 5. Withdrawal
+
+1. Users can withdraw from the Service and cancel their user registrations through the procedures prescribed by us.
+2. If a User owes any obligations owed to us at the time of withdrawal, all such obligations will automatically become due and payable and the User must immediately pay all such obligations to us.
+3. Even if Service use is terminated because of User withdrawal or other reason, the provisions of the Terms of Use that survive because of their nature (including without limitation provisions stipulating attribution of rights, prohibited matters, handling of personal information, and our disclaimers) shall remain in full force.
+
+### **Chapter 3. User Content**
+
+Article 6. Registration, Posting, and Distribution etc. of User Content
+
+1. Users can post, distribute, or register ( “Post”, “Posted”, “Posting”, etc.) the following content (text, image, video, voice, music, and other content; hereinafter “User Content”) on the Service in accordance with the methods and conditions specified by us. User Content that has been posted will be released to other Users.
+    
+    (1) Profile information;
+    
+    (2) Questions, answers, and other posts; and
+    
+    (3) Live transmission.
+    
+2. The live transmission specified in Item 3 of the preceding paragraph can be carried out only by persons at least 18 years of age, and those under the age of 18 cannot carry out live transmission.
+3. In a case where a User’s User Content includes any copyrighted work etc. to which a third party owns the rights (hereinafter referred to as “Third-Party Copyrighted Work”), the User, when Posting such User Content, must obtain permission from the third party who is the rights holder and perform all other necessary rights processing at his/her own expense and responsibility with respect to Posting and releasing Third-Party Copyrighted Work etc. on the Service.
+4. Users shall not Post User Content that falls under any prohibited matter in the items of Article 14 or User Content the Posting of which falls under any such prohibited matters.
+5. In a case where a User Posts User Content that includes his/her own personal information, the User will be deemed to have agreed in advance that such personal information will be released to other Users through the Service.
+
+Article 7. Handling of User Content
+
+1. Users shall make and store backups at their own responsibility before posting User Content. Further, other Users ’User Content, such as replies to User Content Posted by a User, shall be stored at the User’s own responsibility.
+2. We are not obligated to store User Content, and we will bear no responsibility in cases where User Content data disappears from a server we manage or where User Content is deleted because of the termination etc. of all or part of the Service.
+3. We reserve the right to check the content of User Content where necessary to confirm compliance with laws and regulations or these Terms of Use; provided, however, that we owe no duty to carry out such check.
+
+Article 8. Rights to User Content
+
+1. Copyrights (including the rights stipulated in Articles 27 and 28 of the Copyright Act; hereinafter the same), patent rights, trademark rights, and all other intellectual property rights relating to User Content Posted on the Service by Users (including the right to acquire or apply for registration of any such rights and rights added by future revisions etc. of laws and regulations etc.; “Intellectual Property Rights”) shall be reserved by the User that posted the relevant User Content or the third party that licensed the rights to the User.
+2. A User who Posts User Content grants to us, at the time such User Content is Posted on the Service, a worldwide, non-exclusive, and gratis perpetual license, sublicensable and transferable to third parties including other Users, for the use, modification, and Posting to outside services etc. of the User Content for the purpose of provision, operation, advertising, and promotion of the Service. If a third party holds the rights to part or all of the User Content, the User must also obtain a license from the third party for the license to us specified in this paragraph, and we will bear no responsibility with respect to the foregoing.
+3. Users agree, with respect to registered User Content, not to exercise the moral rights of an author against us or persons who have assumed or licensed rights from us (including other Users), and in cases where a third party holds such moral rights, not to cause such third party to exercise such rights.
+
+Article 9. Warranties and Responsibilities of Users
+
+1. A User who Posts User Content shall warrant that neither the content nor  the Posting of the User Content falls under any of the prohibited matters of the items of  Article 14.
+2. All responsibility for User Content Posted by a User belongs to that User. We are not responsible for User Content in any way.
+3. If User Content Posted by a User infringes on the intellectual property rights, portrait rights, publicity rights, or other rights or interests of a third party, such infringement shall be resolved at the responsibility and expense of the User, and we will bear no responsibility.
+4. Users with the status of residence listed in the Appended Table Ⅰ of the Immigration Control and Refugee Recognition Act in Japan shall, at their own responsibility, carry out live transmission on the Service within the scope permitted by the permission obtained from the Commissioner of the Immigration Services Agency in Japan based on the said Act, and we are not responsible for any violation of the said Act or the said permission by the User.
+
+　　　　　　　　　　　　　　　****
+
+### **Chapter 4. Use of Service**
+
+Article 10. Usage Fees
+
+1. The use of certain services within the Service specified by us, Paid Coins (defined in Article 18), and other paid content and functions (“Paid Services”) will require payment of usage fees specified elsewhere.
+2. The content, usage fees, and payment methods for Paid Services shall be as specified within the Service, on our website, or in Individual Terms etc.
+3. We will not refund usage fees already paid by Users.
+4. If a User fails to pay usage fees or otherwise violates the Terms of Use, we reserve the right, without notice or warning, to take measures such as suspending, deleting, or canceling provision of Paid Services to the User.
+
+Article 11. Use of Service
+
+Users shall use the Service in accordance with the Terms of Use at their own responsibility, and shall bear all responsibility for all actions they may carry out on the Service and the results thereof.
+
+Article 12. Management of Data etc.
+
+1. Users acknowledge that, in the Service, the storage and integrity of data, including Registration Information and User Content, are not ensured. We will bear no liability for any loss of data accumulated or recorded during the period of the Service as a result of any unforeseen circumstances.In cases where necessary for Service maintenance or improvement, we reserve the right to make reproductions etc. of data Users have saved on our servers to the extent necessary for such maintenance or improvement.
+2. If use of the Service is terminated by User withdrawal or Registration Cancellation or other measure on our part, we will be entitled to delete the relevant User’s Registration Information, User Content, and Service usage data. We will owe no duty to recover any such deleted posted content or usage data.
+
+Article 13. Attribution of Rights
+
+1. Intellectual Property Rights, ownership rights, and other property rights relating to the Service (excluding User Content) all belong to us or persons who have granted licenses to us.
+2. The license granted to Users to use the Service pursuant to the Terms of Use does not imply any transfer of, license to use, or license to implement, any Intellectual Property Rights relating to the Service belonging to us or persons who have granted licenses to us, except as expressly specified in the Terms of Use.
+
+Article 14. Prohibited Matters
+
+When using the Service, Users must not engage in any conduct (including Posting of User Content) that falls under, or that we judge to fall under, any of the following items.
+
+(1) Conduct that breaches the Terms of Use;
+
+(2) Conduct that violates laws and regulations (including violation of work restrictions on status of residence);
+
+(3) Conduct relating to criminal acts;
+
+(4) Conduct that may harm public order or good morals;
+
+(5) Providing benefits to, or otherwise cooperating with, any anti-social force etc.;
+
+(6) Conduct that infringes on intellectual property rights, portrait rights, privacy, honor, or other rights or interests belonging to us, other Users, or other third parties;
+
+(7) Using the Service for a purpose different from the intended purpose of use of the Service (the purpose of the Service is international mutual language learning):
+
+- Discussing religion, political issues, and other sensitive issues between countries
+- Religious activities or solicitation for religious groups
+- Posting or sending (transmitting) by means such as message function content for the purpose of commercial advertising, promotion, or solicitation
+- Conduct for the purpose of sexual activity or obscene conduct
+- Conduct for the purpose of meeting or dating strangers of the opposite sex
+- Displaying, or causing to be displayed, information equivalent to child pornography or child abuse
+- Conduct for the purpose of harassing or defaming
+
+ (8) Using the Service to publish etc. expressions that are offensive to others, including antisocial content:
+
+- Excessively violent expressions
+- Explicit sexual expressions
+- Expressions that lead to discrimination based on race, nationality, creed, gender, social status, or the like
+- Expressions that induce or encourage suicide, self-harm, or substance abuse etc.;
+
+(9) Conduct that violates contracts with third parties (including violation of prohibition of concurrent employment of employment contracts etc.);
+
+(10) Interfering with or impeding the operation of the Service or the use of the Service by other Users:
+
+- Placing an excessive load on the network or system etc. of the Service
+- Unauthorized access, or attempted unauthorized access, to Service networks or systems etc.
+- Intentionally exploiting defects in the Service
+- Making unreasonable demands to us, such as repeating similar or identical inquiries more than necessary;
+    
+    (11) For a User that is a minor, an adult ward, a person under curatorship, or a person under assistance, using the Service without the consent etc. of a legal representative, guardian, or assistant;
+    
+    (12) Sending computer viruses or other harmful computer programs;
+    
+    (13) Modifying, adapting, reverse engineering, decompiling, or disassembling etc. content, data, or other software provided on the Service;
+    
+    (14) Reposting or using User Content without permission;
+    
+    (15) Falsifying or erasing information on the Service, including information on our company, other Users, or other third parties, or User Content;
+    
+    (16) Posting false information;
+    
+    (17) Impersonating, or pretending to have an organizational, alliance, or cooperative relationship with, us, other Users, or other third parties;
+    
+    (18) Accessing accounts of other Users;
+    
+    (19) Collecting or accumulating information of other Users (including without limitation User Content and personal information), or automatically collecting and analyzing any such information by crawling etc. without our prior written consent;
+    
+    (20) Copying reproducing, uploading, posting, transmitting, or distributing Service  content without permission;
+    
+    (21) Conduct equivalent any of the preceding items;
+    
+    (22) Assisting or encouraging conduct of any of the preceding items;
+    
+    (23) Posting User Content that falls under any of the preceding items; and
+    
+    (24) Other conduct that we judge likely to fall under conduct of any of the preceding items and conduct that we judge to be inappropriate.
+    
+
+Article 15. Revocation etc. of Registration
+
+1. If any of the following items applies to a User, we reserve the right to delete or hide the posted content of the relevant User without prior notice or warning, temporarily suspend the use of the Service or cancel the user registration of the User, or revoke, suspend the use or exchange of or take other measures with respect to Coins  (defined in Article 18), Gifts (defined in Article 18 ), and Diamonds (defined in Article 19) held by the User (“Registration Cancellation etc.”).
+    
+    (1) If a User engages in conduct that falls under a prohibited matter of the preceding article;
+    
+    (2) If any of the items of Article 2, Paragraph 5 is applicable;
+    
+    (3) If a User breaches any of the other provisions of the Terms of Use;
+    
+    (4) If a User suspends payments or becomes insolvent, or is the subject of apetition for commencement of bankruptcy proceedings, commencement civil rehabilitation proceedings, commencement corporatere organization proceedings, commencement of special liquidation, or commencement of any comparable procedures;
+    
+    (5) If note or check drawn or endorsed by a User is dishonored, or if a User is subject to suspension of transactions or equivalent measures by clearing house;
+    
+    (6) If a User is the subject of apetition for attachment, provisional attachment, provisional disposition,compulsory execution,or auction;
+    
+    (7) If a User is subject to collection procedures for unpaid taxes and public charges;
+    
+    (8) If a User has not used the Service for more than 6 months and has not responded to communications from us;
+    
+    (9) In addition to the foregoing, if we reasonably determine that it is not appropriate for a User to use the Service or continue to be registered as a User.
+    
+2. If any of the items of the preceding paragraph applies to a User, all obligations such User owes to us will automatically become due and payable and the User must immediately pay all such obligations.
+3. 3. We are not responsible for any damage caused to Users by measures taken by us pursuant to this Article 15.
+
+Article 16. Service Change, Termination, Interruption
+
+1. We may change or terminate the Service in whole or in part if we judge it to be necessary. If we change or terminate the Service, we will notify Users in advance.
+2. In order to maintain the Service in good condition if we determine that any of the following applies, we reserve the right to temporarily suspend the Service without notifying or warning Users.
+    
+    (1) If regular or emergency maintenance is to be performed;
+    
+    (2) If the system is overloaded;
+    
+    (3) If we determine that operation of the Service will be impeded;
+    
+    (4) If suspension is necessary to ensure the security of Users;
+    
+    (5) If the Service cannot be provided because of a fire, power outage, or the like;
+    
+    (6) If the Service cannot be provided because of a natural disaster such as an earthquake, volcanic eruption, flood, or tsunami;
+    
+    (7) If the Service cannot be provided because of war, riot, insurrection, labor dispute, or the like;
+    
+    (8) In addition to the foregoing, if we judge it to be necessary to temporarily suspend the Service because of operational or technical reasons.
+    
+3. We are not responsible for any damage caused to Users by measures taken by us pursuant to this Article 16.
+
+Article 17. Preparation etc. of Use Environment for the Services
+
+An internet connection is required to use the Services. Users shall prepare and maintain computers, software, and other equipment, and communication lines and other communication environments necessary for the use of the Services at their own expense and responsibility, and shall be responsible for payment of communication charges for using the Services. We do not guarantee that the Services will be compatible with all devices etc.
+
+### **Chapter 5. Coins and Gifts**
+
+Article 18. Coins and Gifts
+
+1. “Coins” are a currency for use in the Service, which can be exchanged for our prescribed digital items called “gifts” and for certain content and functions available in the Paid Services as designated by us (collectively, “Gifts”). There are two types of Coins: Coins we grant free of charge (“Free Coins”) in cases specified by us (including campaigns etc. that we carry out at our discretion), and Coins we issue after obtaining consideration from Users in the relevant amount recorded by electromagnetic means (“Paid Coins”).
+2. Users can purchase Paid Coins only in the manner we specify. The purchase of Paid Coins is subject to agreement by the User to the terms of use and other conditions relating to payments of third-party payment service companies (including without limitation Apple Inc. and Google Inc.), and the User shall comply with such conditions.
+3. User can exchange Coins for Gifts only in the manner we specify. Coins cannot be exchanged for cash, property, or other economic benefits other than Gifts designated by us.
+4. Paid Coins fall under the category of prepaid payment instruments as specified in the Payment Services Act (“Payment Services Act”), and the conditions therefor will be determined by us and displayed as “Indications Pursuant to the Payment Services Act” in the Service or our website or displayed in the Service or on our website. Free Coins do not fall under prepaid payment instruments as specified in the Payment Services Act.
+5. If a User owns both Free Coins and Paid Coins, the distinction between paid and free Coins with respect to the specific order of consumption shall be at our discretion.
+6. The particulars of Gifts, the number of Coins to be exchanged for Gifts, and other conditions will be determined separately by us and will be displayed in the Service or on our website. We may change these conditions at our discretion.
+7. Unless we specifically approve otherwise, Coins and Gifts can only be used by the User who purchased or exchanged them, and cannot be used by, or lent, transferred, sold, or pledged etc. to, other Users or other third parties.
+8. We will not refund Coins to cash except as required by the Payment Services Act and other laws and regulations. The method and conditions for refunding Coins to cash in accordance with laws and regulations shall be separately determined by us.
+9. Gifts do not fall under the category of prepaid payment instruments as specified in the Payment Services Act. Further, Gifts are content having the sole purpose of generating expressions for performance in the Service and Service effects and cannot be refunded for Coins or cash.
+
+10. Users agree in advance that if they cease to be qualified to use the Service due to withdrawal, Registration Cancellation etc., or other reason, their unused Coins and Gifts will extinguish at such time, and we will bear no responsibility for such extinguishment of Coins and Gifts.
+
+### **Chapter 6. Diamonds and Exchange of Diamonds**
+
+Article 19. Diamonds and Exchange of Diamonds
+
+1. We can evaluate the degree of a User’s contribution to the Service in accordance with criteria specified solely by us, and grant points called diamonds (“Diamonds”) in accordance with the calculation method and grant conditions specified by us.
+2. The degree of a User’s contribution to the Service will be comprehensively evaluated on the basis of factors including the quantity of User Content Posted etc. by the User, distribution time, number of views, number of viewers, and behavior of other Users with respect to the User Content (replies, use of Gifts). We reserve the right to determine and change, at our discretion, the evaluation criteria for degree of contribution and the granting conditions and calculation method for Diamonds (collectively, “Diamond Criteria etc.”). We are not obligated to explain to Users the content of the Diamond Criteria etc. or the reasons for, or breakdowns between, granting and non-granting of Diamonds.
+3. A User, by applying in the manner we specify, can apply for exchange of Diamonds they hold for cash or other purposes specified by us in accordance with the exchange rate and other conditions specified by us; provided, however, that the number of Diamonds that can be used at one time shall be no less than the minimum number (equivalent to US $100) and no more than the maximum number (equivalent to US $4,000) specified by us.
+4. Users cannot exchange cash, Coins, or Gifts for Diamonds.
+5. We will use an external payment service designated by us (“External Payment Service”) in the exchange of Diamonds for cash as specified in Paragraph 2, and Users shall comply with the terms of use and other conditions specified by the operator of the External Payment Service (including without limitation opening an account with the External Payment Service). We are not responsible for Users’ management or use etc. of External Payment Service accounts.
+6. Users may not allow other Users or other third parties to use the Diamonds they hold, or assign, transfer, create security interests in, or otherwise dispose of Diamonds they hold.
+7. Diamonds are valid for 180 days after grant by us; provided, however, that if a User loses the qualifications to use the Service due to withdrawal, Registration Cancellation etc., or other reason, unexchanged Diamonds shall also extinguish at that time.
+8. In any of the following cases, we may take measures with respect to the subject User such as placing restrictions on the use of the Service, withholding or cancelling granted Diamonds, or suspending the exchange of all or some of the Diamonds held by the User.
+    
+    (1) If there is a breach of the Terms of Use with respect to User Content or User behavior etc. serving as the basis for evaluation of degree of contribution to the Service;
+    
+    (2) If the use of Gifts for User Content is cancelled or invalidated for any reason;
+    
+    (3) If a large number of Gifts or Gifts in a large value are used for User Content in a short period of time;
+    
+    (4) If Diamonds are otherwise acquired in an improper manner, or Diamonds are exchanged with the knowledge that they were improperly acquired; and
+    
+    (5) If we judge that any of the preceding items is likely to apply.
+    
+9. Users agree in advance that we will not be responsible for the extinguishment of Diamonds or measures taken by pursuant to the preceding two paragraphs, or for any damage suffered by Users as a result of such measures.
+
+### **Chapter 7. Answering Function**
+
+Article 20. Provision of AI Answering Function
+
+1. The Service provides an AI answering function to answer questions about language and culture posted by users.
+2. The AI answering function uses a data model trained by machine learning to generate the content of the answers.
+
+Article 21. Disclaimers of AI Answering Function
+
+1. We do not guarantee the accuracy or appropriateness of the contents provided by the AI answering function.
+2. The answer provided by the AI answering function is generated based on machine learning models and may contain biases, misconceptions, or information that is biased toward certain political or religious values.
+3. Users shall use the answers provided by the AI answering function under their own judgment and responsibility. Users are encouraged to perform fact-checking on their own to ensure the accuracy and reliability of the answers.
+4. We are not responsible for any of the content of the responses provided by the AI.
+
+Article 22. Extent of Limitation and Liability
+
+1. The User shall adhere to the following restrictions when utilizing the AI answering function:
+    
+    (1) Not to engage in any acts in violation of the prohibitions in each item of Article 14.
+    
+2. We prohibit the user from utilizing the answers generated by the AI in the following ways:
+    
+    (1) Using the data from AI-generated answers for the development of foundational models or other large-scale machine learning models that compete with the Service or other services we provide.
+    
+    (2) Misleading others into believing that the content provided by the AI is solely human-generated.
+    
+    (3) Using the content provided by the AI Answers feature for spamming, criminal activity or election campaigns.
+    
+3. Users agree that we shall not be held liable for any damages or disputes arising from the use of the AI answering function.
+
+### **Chapter 8. General Provisions**
+
+Article 23. Handling of Personal Information
+
+1. Our handling of the personal information of Users shall be in accordance with our separately stipulated Privacy Policy, and Users shall consent to our handling the personal information in accordance with the Privacy Policy.
+2. We reserve the right to use and publish at our discretion the information and data etc. provided to us by Users as statistical information in a non-personally identifiable form, and Users shall make no objection to such use or disclosure.
+3. When acquiring the personal information of other Users in the use of the Service, Users must comply with our Privacy Policy, the Act on the Protection of Personal Information, and other related laws and regulations.
+4. We are not responsible for any problems relating to personal information that arise between Users.
+
+Article 24. Amendment of Terms
+
+We reserve the right to amend the Terms of Use (including Individual Terms etc.). When we amend the Terms of Use, we will notify Users beforehand in our designated matter of the particulars of the change and the time such change will take effect. If a User uses the Service after the notified effective time, it will be deemed that the User has agreed to the amendment of the Terms of Use; provided, however, that in the event of any change that requires the consent of the User under laws and regulations, the consent of the User shall be obtained in our specified manner.
+
+Article 25. No warranty; Disclaimer
+
+1. We make no warranty, whether explicit or implied, that Services are free of any de facto or legal defects (including safety, reliability, accuracy, completeness, effectiveness, fitness for a particular purpose, security flaws etc., errors or bugs, and infringement of rights), and that the use of the Services will not violate contracts with third parties or laws and regulations. We are not obligated to Users to remove such defects in providing the Services.
+2. We will not be liable for any damage suffered by Users because of the Service, except for cases due to willful misconduct or gross negligence by us; provided, however, that if the agreement between Users and us relating to the Service is a consumer contract as stipulated in the Consumer Contract Act (“Consumer Contract”), with respect to liability for default or tort liability due to negligence (excluding gross negligence) by us, we will be liable for damages suffered due to paid portions of the Services to the extent of ordinary damage, up to the amount of the usage fee for the Service received from the User in the month when the damage occurred (provided that we will not be liable for damages due to lost profits or other special circumstances).
+3. If a User suffers damage because of gross negligence by us and if damage is suffered because of paid portions of the Service, we will be liable to the extent of ordinary damage (we will not be liable for damage due to lost profits or other special circumstances), up to the amount of the usage fee for the Service received from the User in the month when the damage occurred; provided, however, that the foregoing will not apply if the agreement between the User and us relating to the Service falls under a Consumer Contract.
+
+Article 26. User Responsibilities, Dispute Resolution, and Compensation for Damage
+
+1. Users shall use the Services at their own responsibility and shall be liable for all acts carried out using the Services and the results thereof. Users shall use the Services after confirming that their use of the Services will not violate any contracts with third parties or any laws and regulations.
+2. Users shall compensate us for any damage caused to us by violating these Terms or in connection with the use of the Services.
+3. Even if a dispute etc. arises between a User and another Users or a third party in connection with the use of the Services by Users, the User shall handle the dispute etc. at their own expense and responsibility.
+4. If we receive any claim from another User or other third parties for infringement of rights or other reasons in connection with a dispute etc. of the preceding paragraph, the relevant User shall compensate us for the amount we was forced to pay to such third party pursuant to the relevant claim.
+
+Article 27. Contact and Notice
+
+1. Inquiries about the Service and other communications or notifications from Users to us, and notifications regarding changes to these Terms of Use and other communications or notifications from us to Users shall be made in the manner specified by us.
+2. If we contact or notify an email address or other contact information included in Registration Information, the User will be deemed to have received such contact or notification.
+
+Article 28. Assignment etc. of Status under these Terms of Use
+
+1. Users may not assign, transfer, pledge, or otherwise dispose of their status under these Terms of Use or any rights or duties under these Terms of Use to a third party without our prior written consent.
+2. In a case where the business relating to the Service is assigned to a third party, in conjunction with such business assignment, we can transfer our status under use agreements, rights and duties pursuant to these Terms of Use, and Users’ information and other User information to the assignee of such business assignment, and Users hereby consent to such assignment in advance. In addition, a business assignment specified in this paragraph shall include not only an ordinary business assignment but also a company split and any other cases where business is transferred.
+
+Article 29. Severability
+
+Even if any provision of these Terms of Use or a portion thereof is found to be invalid or unenforceable in accordance with the Consumer Contract Act or other laws and regulations etc., the remaining provisions of these Terms of Use and remaining portions of provisions found to be partially invalid or unenforceable shall continue to be fully valid.
+
+Article 30.  Governing law and jurisdiction
+
+1. The Japanese version of these Terms of Use shall be the official version, and in case of any discrepancies between the Japanese version and its translation, the Japanese version shall govern.
+2. The laws of Japan shall be the governing law of these Terms of Use.
+3. The Tokyo District Court shall be the exclusive court of first instance with respect to all disputes arising from or relating to these Terms of Use.
+
+Revised: December 21, 2018
+
+Revised: March 27, 2023
+
+Revised: April 27, 2023
+
+Latest revision: July 31, 2023

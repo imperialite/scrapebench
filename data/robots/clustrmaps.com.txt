@@ -1,0 +1,51 @@
+User-agent: *
+Disallow: /website_directory
+Disallow: /map_v2.png
+Disallow: /map_v3.png
+Disallow: /a/hm/
+Disallow: /a/jx/
+Disallow: /bl/tools/r
+Disallow: /bl/tools/bv
+Disallow: /bl/opt-out
+Disallow: /c/
+Disallow: /persons/i/
+Disallow: /bv/
+Disallow: /details/
+Disallow: /ajax/
+Disallow: /amp/
+Disallow: /person/jx/
+Disallow: /fips/
+Disallow: /widget_call_home.js
+Disallow: /globe_call_home.js
+
+User-agent: MJ12bot
+Disallow: /
+
+User-Agent: The Knowledge AI
+Disallow: /
+
+User-agent: GarlikCrawler/1.1 (http://garlik.com/, crawler@garlik.com)
+Disallow: /
+
+User-agent: Linguee
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: grapeshot
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: proximic
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+Host: https://clustrmaps.com

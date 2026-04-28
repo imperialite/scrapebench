@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /cart
+Disallow: /ncom/order
+Disallow: /wishlist
+Disallow: /ncom/account
+Disallow: /p/Not-Available
+Disallow: /product/Not-Available
+Disallow: /discuss
+Disallow: /1
+Disallow: /sitelogin
+
+User-agent: AdsBot-Google
+Allow: /ncom/order
+
+User-agent: Googlebot
+Allow: /ncom/order
+
+User-agent: Baiduspider*
+Disallow: /
+
+User-agent: Tokenizer
+Disallow: /
+
+Sitemap: https://www.booksamillion.com/sitemap.xml

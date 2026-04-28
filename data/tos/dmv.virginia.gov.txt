@@ -1,0 +1,123 @@
+Web Policy | Virginia Department of Motor Vehicles
+Skip to main content
+Web Policy
+Skip to main content
+Web Policy
+FOIA
+Cookies
+Linking Policy
+Privacy Policy
+Refund & Return Policy
+Security Information
+Freedom of Information Act
+Copyright Information
+Security
+The Virginia Department of Motor Vehicles (DMV) is committed to protecting the privacy of our customers. The following information explains our current Internet privacy practices, but shall not be construed as a contractual promise. We reserve the right to amend these practices and procedures at any time without prior notice.
+Disclaimer of Liability
+DMV provides this website and the information it presents as a public service. DMV attempts to maintain the highest accuracy of content on its website. However, DMV makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims all liability, whether direct or indirect, for any loss or damage arising out of use, reference to, or reliance on any information presented on the website.
+DMV makes no warranty, representation or undertaking of any kind, whether expressed or implied, with respect to the contents of the website or its links to other websites. The DMV website contains links to various other public and private websites, whose privacy practices we do not control. If you have questions or concerns about a site we link to, please read the privacy and security information for that site.
+Reference in this website to any product, process or service, or the use of any trade, firm or corporation name is for the information and convenience of the public and does not constitute a recommendation or endorsement by DMV.
+Cookies
+When you visit a website and request information, the site's server sends the request to you and then breaks the connection. The connection does not resume again until you perform another action. To ensure that we maintain a connection between our server and your computer we use a standard web technology called "cookies." A cookie is a very small amount of data that is sent from our server to your computer's hard drive. In addition, cookies allow us to save the information that you input while progressing through an online transaction. If your browser is not configured to "accept" cookies, you will still be able to access the static information on our website, but you will not be able to use certain features, such as our online transactions.
+Links to Other Websites
+Our website contains links to other public and private websites whose content and privacy practices we do not control. If you have questions or concerns about a site we link to, please read the privacy and security information for that site.
+DMV determines which external websites are linked to. Links to external websites and pages may be removed or replaced at the sole discretion of DMV at any time without notice.
+Privacy Policy
+DMV protects our records in accordance with our obligations as defined by applicable Virginia statutes, including, but not limited to, the
+Government Data Collection and Dissemination Practices Act
+, the
+Virginia Freedom of Information Act
+, and by other applicable U.S. Federal Laws. You may also want to refer to our guidelines concerning the
+release of DMV information
+in general.
+Essential Technical Information We Collect
+When you access our website we automatically collect the following essential technical information:
+the Internet domain and Internet address of the computer you are using
+the web page you are requesting
+the type and version of browser and operating system installed on your device, and
+the date and time of access.
+Though not essential, we also collect the web address from which you linked to our website.
+No other information is collected through our website unless you deliberately decide to send it to us, for example, by conducting an online transaction or sending us an email. We use all of the above information to track the number of customers who visit our site and identify our most popular pages so that we can continue to improve site content and functionality and diagnose problems with our servers.
+Optional Information We Collect
+For each online transaction, we ask only for the information we need to process your online transaction. To begin driver-related and most vehicle-related transactions, we ask for
+customer number
+or social security number, date of birth and PIN/password. You create a PIN/password when you establish a
+myDMV account
+. For a select number of vehicle transactions, we ask for title number and the last four digits of your Vehicle Identification Number (VIN). The questions within each transaction are the same that you are asked during an in-person visit or through the mail.
+All of our transactions that have a fee attached also require a credit card number and expiration date. This information is encrypted and no one has access to it. Authorized business customers, using strong authentication access methods, may have an option to have credit card information stored so that it can be used for subsequent transactions without rekeying.
+How the Information Collected is Used
+DMV does not share, sell or trade email addresses, information collected on surveys or any other information about our online customers. If necessary, DMV may disclose user information if we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against an individual who attempts, even unintentionally, to gain unauthorized access to DMV information or to disrupt our website.
+Refund and Return Policy
+If you believe that you are due a refund of a DMV product or fee, then
+contact us
+. You will be required to:
+Provide proof that a refund is due
+Return the product (if applicable)
+Provide a social security number (SSN) or employee identification number (EIN)
+This policy applies to DMV business conducted online, at a DMV customer service center, or through the mail.
+If DMV determines that you are indeed due a refund, a refund check will be issued and mailed to you. Please ensure that your correct address is on file, and allow at least 15 days before contacting DMV.
+Security
+The DMV site has security measures in place to protect against the loss, misuse and alteration of information under our control. When you browse public areas of the DMV website, none of your personal information is captured or stored by DMV. When you conduct an online transaction with DMV, we offer the use of a secure server.
+Diligent efforts are made to ensure the security of Commonwealth of Virginia systems. Before you use this website to conduct business with the Commonwealth, please ensure your personal computer is not infected with malicious code that collects your personal information. This code is referred to as a keylogger. The way to protect against this is to maintain current Anti-Virus and security patches.
+Firewalls
+Our firewalls are a complex system of hardware and software that allow us to strictly regulate information and data that can both enter and exit our servers. This ensures that only authorized access occurs and that DMV information remains confidential. No customer information is stored on our Internet servers. Records are stored in separate databases not directly connected to the Internet.
+Secure Sockets Layer
+Secure Sockets Layer (SSL) is an industry standard technology that creates a secure environment for the information transferred between your browser and DMV. SSL encrypts all information that you input before it is sent to DMV. Secure data such as your customer number, PIN/password, date of birth, plate number, title number, and credit card information are scrambled in the encryption/cryptography process.
+In general, you can tell if you are on a secure page by looking at the symbol at the bottom of your browser. If you are using a Google Chrome, Mozilla Firefox or Microsoft Edge web browser, the symbol is a lock. You can be sure you are using a secure server if the symbol is unbroken.
+Another way you can tell if your browser is in secure mode is by looking at the website address that your browser displays. The address will begin "http://" in standard, non-secure mode and "https://" in secure mode. The "s" stands for "secure." Whenever you conduct a transaction with DMV, the address will always contain "https://" because we always use the SSL protocol to send information back and forth between our server and your computer for all of our transactions.
+The Virginia Freedom of Information Act (FOIA)
+The Virginia Freedom of Information Act (FOIA), located at §
+2.2-3700
+et. seq. of the Code of Virginia, guarantees citizens of the Commonwealth and representatives of the media access to certain public records held by public bodies, public officials, and public employees.
+The release of information from the Department of Motor Vehicles (DMV) is also governed by the Federal Driver's Privacy Protection Act (18 USC §§
+2721 - 2725
+) and by Va. Code §§
+46.2-208
+through 214. These statutes prohibit DMV from disclosing personal, driver, and vehicle information collected by it in the administration of the motor vehicle laws of Virginia, unless the release of such information meets one of the conditions specified in Va. Code §§
+46.2-208
+through 214 and applicable fees are paid.
+You may request records by U.S. Mail, fax, e-mail, in person, or over the phone. FOIA does not require that your request be in writing, nor do you need to specifically state that you are requesting records under FOIA. For more information, visit DMV's
+FOIA page
+.
+Virginia Department of Motor Vehicles - Copyright Information
+© Virginia Department of Motor Vehicles (DMV) 2023. All rights reserved.
+You may cite or refer to information published on the DMV website; but you may not reproduce or distribute such information in whole or in part without prior written permission of DMV. You may not reproduce or distribute any image from the DMV website without prior written permission from DMV. Some images on the website are models used for illustrative purposes.
+To request permission, contact the DMV using our
+secure online form
+. In your request, include your name, address and an explanation of what you wish to use, how you wish to use it and how you plan to distribute it.
+Disclaimer of Liability
+DMV provides this website and the information it presents as a public service. DMV attempts to maintain the highest accuracy of content on its website. However, DMV makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims all liability, whether direct or indirect, for any loss or damage arising out of use, reference to, or reliance on any information presented on the website.
+DMV makes no warranty, representation or undertaking of any kind, whether expressed or implied, with respect to the contents of the website or its links to other websites. The DMV website contains links to various other public and private websites, whose privacy practices we do not control. If you have questions or concerns about a site we link to, please read the privacy and security information for that site.
+Reference in this website to any product, process or service, or the use of any trade, firm or corporation name is for the information and convenience of the public and does not constitute a recommendation or endorsement by DMV.
+Customer Comments
+If you have questions about this privacy statement, the practices of this site, or your interaction with this website please
+contact us
+.
+About Us
+Through our mission purpose, the DMV aims to be Virginia's most trusted service provider.
+About DMV
+Careers
+Procurement
+Resources
+Online Services
+How Do I?
+Forms
+News
+Policies & Regulations
+Fee Chart
+¿Habla Español?
+Contact
+Locations
+Contact Us
+Media
+Stay Connected
+Facebook
+Instagram
+LinkedIn
+Twitter
+Youtube
+Virginia Department of Motor Vehicles (Superior Service | Secure Credentials | Saving Lives)
+©2026
+            Virginia Department of Motor Vehicles. All Rights Reserved.
+Privacy Policy.
+Back to top

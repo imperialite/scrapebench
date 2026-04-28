@@ -1,0 +1,52 @@
+# If the Joomla site is installed within a folder
+# eg www.example.com/joomla/ then the robots.txt file
+# MUST be moved to the site root
+# eg www.example.com/robots.txt
+# AND the joomla folder name MUST be prefixed to all of the
+# paths.
+# eg the Disallow rule for the /administrator/ folder MUST
+# be changed to read
+# Disallow: /joomla/administrator/
+#
+# For more information about the robots.txt standard, see:
+# https://www.robotstxt.org/orig.html
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+# --- AMAZON AD BOT ACCESS SETTINGS ---
+User-agent: AmazonAdBot
+Allow: /
+# Remove or comment out any previous Disallow lines for AmazonAdBot
+# Remove any Crawl-delay directives for AmazonAdBot
+# Ensure bot access is not blocked by firewalls or anti-bot systems
+
+# --- CRAWLER ACCESS WHITELIST ---
+# Allowlist these AmazonAdBot crawler sources in your server configuration (not handled by robots.txt):
+# DNS: *.amazonadbot.com
+# IPs: 184.72.84.161, 34.232.137.97
+
+
+User-agent: *
+Disallow: /administrator/
+Disallow: /api/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+
+
+# JSitemap entries
+Sitemap: https://www.armyrecognition.com/sitemapindex_xml.xml
+Sitemap: https://www.armyrecognition.com/component/jmap/sitemap/xml

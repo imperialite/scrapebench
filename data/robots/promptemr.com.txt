@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /customers/austin-manual-therapy
+
+Sitemap: https://www.prompthealth.com/sitemap.xml

@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /search?s*
+Disallow: /search/page-*
+Disallow: /abp-widget/
+Disallow: /adsunits/
+Disallow: /adsunits-a/
+Disallow: /adsunits-b/
+Disallow: /adsunits-c/
+Disallow: /*?s-news-
+Disallow: /*?sport-news-
+# Block font files
+Disallow: /abp-web/assets/css/amp/fonts/
+Disallow: /abp-web/assets/css/mobile/fonts/
+# Block image sprite assets
+Disallow: /abp-web/assets/images/amp/
+Disallow: /abp-web/assets/images/mobile/
+# Block dynamic or unnecessary AJAX URLs
+Disallow: /dajax/
+Disallow: /embed-video-player/
+Disallow: /akamai/
+Disallow: /embed/
+#Sitemaps
+Sitemap: https://www.abplive.com/news-sitemap.xml
+Sitemap: https://www.abplive.com/video-sitemap.xml
+Sitemap: https://www.abplive.com/gallery-sitemap.xml
+Sitemap: https://www.abplive.com/google-news-sitemap.xml
+Sitemap: https://www.abplive.com/web-sitemap.xml
+Sitemap: https://www.abplive.com/amp-stories-sitemap.xml
+Sitemap: https://www.abplive.com/shortvideo-sitemap.xml

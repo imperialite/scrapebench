@@ -1,0 +1,7 @@
+# Allow Facebook Crawler
+User-agent: facebookexternalhit
+Allow: /
+
+# Disallow all other crawlers
+User-agent: *
+Disallow: /

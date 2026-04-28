@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /myloans/
+Disallow: /useradmin/
+Disallow: /useraccount/
+
+Sitemap: https://www.carringtonmortgage.com/sitemap.xml

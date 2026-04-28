@@ -1,0 +1,15 @@
+# See https://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
+#
+# To ban all spiders from the entire site uncomment the next two lines:
+# User-Agent: *
+# Disallow: /
+
+User-Agent: *
+Disallow: /training_sessions/
+Disallow: /fastdict_defn/
+Disallow: /slowmo/
+Disallow: /students/
+Disallow: /temp_login_redirector/
+Disallow: /users/
+Disallow: /tclasses/
+Disallow: /teachers/

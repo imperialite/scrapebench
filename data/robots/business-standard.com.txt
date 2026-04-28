@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /*cache-control/
+Disallow: /newsletter/display/
+Allow: /content/*.pdf
+Allow: /include/_mod/site/images/rss_logo.png
+Sitemap: https://www.business-standard.com/sitemap/sitemap-index.xml
+Sitemap: https://www.business-standard.com/sitemap/news-sitemap.xml
+Sitemap: https://www.business-standard.com/sitemap/category-sitemap-1.xml
+
+
+User-agent: Googlebot-News
+Allow: /

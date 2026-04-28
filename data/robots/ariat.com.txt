@@ -1,0 +1,181 @@
+# robots.txt for www.ariat.com
+
+Sitemap: https://www.ariat.com/sitemap_index.xml
+
+# 1. Group Agents together so Googlebot follows the rules
+User-agent: Googlebot
+User-agent: Googlebot-image
+User-agent: *
+
+# 2. Allow the clean site content
+Allow: /
+
+# 3. BLOCK the "Duplicate Content" culprits
+# These were previously Allowed, causing the 855k error spike.
+Disallow: /*?productId=
+Disallow: /*?styleId=
+Disallow: /*?dwvar_*
+Disallow: /*?UUID=
+Disallow: /sc-*
+
+# Essential E-commerce Parameters (Keep these Allowed)
+Allow: /*?country=
+Allow: /*?currency=
+Allow: /*?selectedVariants=
+Allow: /*?page=
+Allow: /*?prefn1=
+Allow: /*?prefv1=
+Allow: /*?ratings=
+
+# Important Tracking Parameters (Keep these Allowed)
+Allow: /*?utm_source=
+Allow: /*?bvstate=
+Allow: /*?gQT=
+Allow: /*?gPromoCode=
+Allow: /*?bvroute=
+Allow: /*?utm_medium=
+Allow: /*?bc_pid=
+Allow: /*?utm_campaign=
+Allow: /*?gRefinements=
+Allow: /*?source=
+Allow: /*?msclkid=
+Allow: /*?utm_term=
+Allow: /*?utm_content=
+Allow: /*?obem=
+Allow: /*?bc_lcid=
+Allow: /*?q=
+Allow: /*?gclid=
+
+# Block tracking and session parameters
+Disallow: /*?sid=
+Disallow: /*?session=
+Disallow: /*?timestamp=
+Disallow: /*?random=
+Disallow: /*?cache=
+Disallow: /*?dtm_=
+Disallow: /*?dtmc_=
+Disallow: /*?dwfrm_=
+Disallow: /*?dw_dnt=
+Disallow: /*?id=
+Disallow: /*?_=
+Disallow: /*?value=
+Disallow: /*?url=
+Disallow: /*?form=
+Disallow: /*?filter=
+Disallow: /*?type=
+Disallow: /*?data=
+Disallow: /*?quantity=
+Disallow: /*?cid=
+Disallow: /*?vf=
+Disallow: /*?params=
+Disallow: /*?swatches=
+Disallow: /*?runningLineEnabled=
+Disallow: /*?sw=
+Disallow: /*?sh=
+Disallow: /*?recommenderName=
+Disallow: /*?recTemplate=
+Disallow: /*?rtbhc=
+Disallow: /*?decimalPrice=
+Disallow: /*?formatted=
+Disallow: /*?cachebuster=
+Disallow: /*?thematic=
+Disallow: /*?srsltid=
+Disallow: /*?cto_pld=
+Disallow: /*?utm_id=
+Disallow: /*?base_uri=
+Disallow: /*?showProductList=
+Disallow: /*?prefv2=
+Disallow: /*?prefn2=
+Disallow: /*?pids=
+Disallow: /*?wbraid=
+Disallow: /*?featured_item=
+Disallow: /*?position=
+Disallow: /*?dwcont=
+Disallow: /*?sm=
+Disallow: /*?qty=
+Disallow: /*?ag=
+Disallow: /*?res=
+Disallow: /*?dwac=
+Disallow: /*?dir=
+Disallow: /*?cookie=
+Disallow: /*?fla=
+Disallow: /*?java=
+Disallow: /*?tz=
+Disallow: /*?gears=
+Disallow: /*?realp=
+Disallow: /*?gad=
+Disallow: /*?wma=
+Disallow: /*?pdf=
+Disallow: /*?tblci=
+Disallow: /*?kuid=
+Disallow: /*?kref=
+Disallow: /*?pd_influencer=
+Disallow: /*?collage=
+Disallow: /*?_ga=
+Disallow: /*?hsCtaTracking=
+Disallow: /*?__hssc=
+Disallow: /*?__hsfp=
+Disallow: /*?__hstc=
+Disallow: /*?hubs_content-cta=
+Disallow: /*?hubs_post-cta=
+Disallow: /*?hubs_content=
+Disallow: /*?_mix_id=
+Disallow: /*?rurl=
+Disallow: /*?sfrm=
+Disallow: /*?gad_campaignid=
+Disallow: /*?trk_sid=
+Disallow: /*?trk_contact=
+Disallow: /*?trk_msg=
+Disallow: /*?ci=
+Disallow: /*?linkURL=
+Disallow: /*?linkText=
+Disallow: /*?fromLogOut=
+Disallow: /*?topic=
+Disallow: /*?openTopNav=
+Disallow: /*?rules=
+Disallow: /*?defaults=
+Disallow: /*?popup-sort=
+Disallow: /*?at=
+Disallow: /*?xs=
+Disallow: /*?VO=
+Disallow: /*?Pu=
+Disallow: /*?Ma=
+Disallow: /*?jJEP=
+Disallow: /*?CW=
+Disallow: /*?dj=
+Disallow: /*?w=
+Disallow: /*?utm_x=
+Disallow: /*?mL=
+Disallow: /*?accTab=
+Disallow: /*?LgAj=
+Disallow: /*?X5=
+Disallow: /*?src=
+Disallow: /*?scid=
+Disallow: /*?pcid=
+Disallow: /*?kclt=
+Disallow: /*?rdc=
+Disallow: /*?uid=
+Disallow: /*?je=
+
+# Block URLs with too many parameters
+Disallow: /*?*&*&*&*&*&*&*&*&*&*&*&*
+
+# Block AJAX and popup URLs
+Disallow: /*?format=ajax
+Disallow: /*?hasTemplate=
+Disallow: /*?popup-*
+Disallow: /*?openSearch=
+Disallow: /*?fromPlusPLP=
+
+# Block email tracking parameters
+Disallow: /*?qs=
+Disallow: /*?irclickid=
+Disallow: /*?irgwc=
+
+# Block social media tracking
+Disallow: /*?fbclid=
+Disallow: /*?igshid=
+Disallow: /*?twclid=
+
+# Block AMP parameters
+Disallow: /*?amp;*

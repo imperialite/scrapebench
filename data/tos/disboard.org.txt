@@ -1,0 +1,213 @@
+TERMS OF SERVICE
+
+Last Modified: 2025-02-11
+
+INTRODUCTION
+
+This is DISBOARD. By using our website, you agree to the following terms. 
+
+The following Terms of Use (hereinafter "Terms") set forth the conditions for the proper usage of our service (hereinafter "the Service"), which is provided by DISBOARD, operated by Unismith Inc. (hereinafter "we", "us", or "our").
+These Terms define the conditions of use for the DISBOARD website. By using the DISBOARD website, users agree to abide by these Terms.
+Using the DISBOARD website indicates that users have read and accepted these Terms, provided that they are above the age of majority in their jurisdiction, or that their legal guardians have reviewed and agreed to these Terms if they are under the age of majority.
+MODIFICATIONS
+
+We may change these Terms at any time, so you should check regularly.
+
+We may revise and update these Terms at any time, with or without notice to any users.
+Changes to the Terms shall become effective when updated on the DISBOARD website, unless otherwise stated.
+If a user continues to use the Service after any changes to these Terms, the user will be bound by the latest version of these Terms.
+PRIVACY POLICY
+
+This Privacy Policy explains how our organization uses the personal data we collect from you when you use our website. 
+
+What Data Do We Collect?
+
+DISBOARD collects the following data:
+
+Activity logs on the DISBOARD website.
+Information provided by the Discord API, excluding your email address.
+Minors
+
+Our Services are intended for users aged 13 and over, and we do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe that your child has disclosed personal information to us, please contact us. For residents of the EEA, where the processing of personal information is based on consent, DISBOARD will not knowingly process the personal data of users under the age of consent as established by applicable data protection laws. If we learn that we are processing data for such users, we will halt such processing and take reasonable measures to promptly remove the applicable information from our records.
+
+How Do We Collect Your Data?
+
+You directly provide us with most of the data we collect. We collect and process data when you:
+
+Register online for any of our services.
+Voluntarily create a server listing, a review, or a response to a review.
+Access or use our website, during which your browser’s cookies may be collected.
+How Will We Use Your Data?
+
+We shall only use the personal information received for the following purposes:
+
+To provide our service.
+To charge users for our paid services.
+To analyze data for improving this service or developing new services.
+To prevent usage that violates the Terms of Use of this service.
+To gather statistical data on users' usage (if such data is collected, it will be anonymized so as not to identify any individual).
+To understand users' usage patterns and use this information to improve our service and develop new services.
+To deliver information about various membership and other services that we offer.
+How Do We Store Your Data?
+
+We securely store your data at third-party hosting facilities.
+We will keep your data until you explicitly request that it be deleted.
+
+Marketing
+
+We do not distribute your data for marketing purposes.
+
+What Are Your Data Protection Rights?
+
+We want to ensure that you are fully aware of your data protection rights. Every user is entitled to the following:
+
+The right to erasure – You have the right to request that we erase your personal data, under certain conditions.
+The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.
+If you make a request, we have one month to respond. If you would like to exercise any of these rights, please contact us.
+Cookies
+
+Cookies are text files placed on your computer to collect standard internet log information and visitor behavior information. When you visit our website, we may automatically collect information from you through cookies or similar technology. For further information, visit https://allaboutcookies.org.
+
+How Do We Use Cookies?
+
+We use cookies in various ways to improve your experience on our website, including:
+
+Keeping you signed in.
+Understanding how you use our website.
+What Types Of Cookies Do We Use?
+
+There are a number of different types of cookies; however, our website uses:
+
+Functionality – DISBOARD uses these cookies to recognize your login information on our website and remember your previously selected preferences, such as your preferred language. A mix of first-party and third-party cookies is used.
+Performance – DISBOARD uses these cookies to improve our services.
+Google Analytics
+
+We use Google Analytics on this website to collect information about how visitors use our website and to improve our services. You can find out more about how Google Analytics works and how information is collected by reviewing the Google Analytics Terms of Use and the Google Privacy Policy.
+
+Google Analytics Terms of Use: https://marketingplatform.google.com/about/analytics/terms/us/
+Google Privacy Policy: https://policies.google.com/privacy
+
+To opt out of Google Analytics, please download the "Opt-out Browser Add-on" from the URL below. After you install it, you'll be able to modify your Google Analytics settings.
+Google Analytics Opt-out Browser Add-on: https://tools.google.com/dlpage/gaoptout
+
+How To Manage Cookies
+
+You can set your browser to not accept cookies; the website mentioned above provides instructions on how to remove cookies from your browser. However, in some cases, certain features of our website may not function properly as a result.
+
+Privacy Policies Of Other Websites
+
+The DISBOARD.org website contains links to other websites. Our privacy policy applies only to our website; if you click on a link to another website, you should read its privacy policy.
+
+Changes To Our Privacy Policy
+
+DISBOARD regularly reviews its privacy policy and posts any updates on this web page. This privacy policy was last updated on the date noted at the top of the page.
+
+How To Contact Us
+
+If you have any questions about our privacy policy, the data we hold on you, or if you would like to exercise any of your data protection rights, please do not hesitate to contact us.
+Discord server: https://discord.gg/wu3g3Az (Owner: takiv).
+(Note: When making an inquiry, please clearly state the content of your inquiry; we will not be able to respond if it is not clearly stated.)
+
+CCPA (California Consumer Privacy Act) Compliance
+
+In accordance with the California Consumer Privacy Act (CCPA), we provide the following information for California residents:
+
+Right to Know and Access: You have the right to know about the personal information we have collected, used, disclosed, and sold about you during the past 12 months. You also have the right to request access to your personal data.
+Right to Delete: You have the right to request the deletion of your personal information that we have collected from you.
+Right to Opt-Out of Sale: You have the right to opt out of the sale of your personal information. We do not sell your personal information. For third-party settings: (The link is only visible to California users.)
+Non-Discrimination: We will not discriminate against you for exercising any of your CCPA rights.
+
+To exercise your rights under the CCPA, see the How to contact us section. We will verify your request using the information associated with your account. Government identification may be required. California residents can also designate an authorized agent to make requests on their behalf. We will require verification that you have provided such an agent with power of attorney or that the agent otherwise has valid written authority to submit requests on your behalf.
+
+RIGHT TO REFUSE MEMBERSHIP
+
+We may refuse your registration. 
+
+Anyone who agrees to these Terms may apply for membership using DISBOARD’s provided registration tools in order to use this Service.
+Anyone who applies for this Service (hereinafter "applicant") becomes a user when we accept the application.
+We may decide to refuse an application from an applicant without disclosing the reason in the following cases:
+The applicant did not apply using the method described in clause 2.
+The applicant has been removed from the service due to a violation of these Terms or other conditions.
+We deem the application inappropriate.
+USER ENVIRONMENT MAINTENANCE
+
+You are solely responsible for your account and properties. 
+
+Users are responsible for maintaining all necessary hardware to use this service, at their own expense.
+Users shall take appropriate measures to protect their devices from viruses, unauthorized access, or information leakage.
+We are not responsible for the user's environment or personal property.
+USER RESPONSIBILITY
+
+You are solely responsible for your actions. 
+
+Users are fully responsible for their use of this service and for any actions and consequences resulting from that use.
+Users are fully responsible for all content they post on this service. We are not responsible for the content posted by users.
+Users must bear the responsibility and costs associated with any defamatory behavior, violation of privacy rights, disclosure of third-party information without permission, or infringement of copyright laws. We assume no responsibility for such actions.
+PROHIBITED ACTS
+
+The following acts are prohibited on this website. 
+
+If a user engages in any prohibited act, we may terminate or suspend their membership, delete some or all of the content from their account, or alter the user's publishing privileges. (However, we are not obligated to take these measures, nor are we required to disclose the reasons for doing so.)
+
+Violating the Guidelines.
+Posting content that includes the following:
+Content involving child pornography or child abuse, which violates applicable laws and regulations.
+Defamatory information.
+Personally identifiable information.
+Content that we deem inappropriate.
+Reproducing content from this site without the permission of the creator or us.
+Any action that violates the law, morality, these Terms, or other conditions, or that we deem to infringe upon the rights of others.
+Placing an excessive burden on the server beyond normal levels or damaging the service operation or network systems.
+Any other actions that we consider inappropriate.
+SERVICE MODIFICATION
+
+We may modify or terminate this service at any time, and we are not responsible for any resulting consequences. 
+
+We may add, modify, suspend, or terminate this service at any time without prior notice.
+We are not responsible for any modifications, suspensions, or terminations of this service.
+FEES
+
+DISBOARD is free to use.
+A premium service is planned; if implemented, the terms for the premium service will be described separately.
+
+RIGHT TO DATA
+
+You must have the rightful ownership of everything you post. In the event of disputes, you are responsible for resolving them. Do not hold us liable. 
+
+Users who post content on this service must guarantee that the content does not violate any rights of a third party. If any disputes arise, such as claims that the content infringes on a third party's rights, the user is responsible for resolving the dispute at their own expense. The user shall not cause harm to our company in any way.
+
+DATA LICENSE
+
+This service is owned by us. By posting content on the DISBOARD website, you grant us permission to use your content. We may review it periodically. 
+
+Intellectual property rights and other rights related to the information, services, programs, etc. provided on this service belong to us.
+All content posted on this service is the copyright of the user who created the text and/or images. By posting any content to the DISBOARD website, you grant us a perpetual, worldwide, royalty-free, irrevocable license to transmit, store, modify, and display that content in order to perform the services described on the DISBOARD website.
+We may use and modify the content posted by users as necessary for the smooth operation of our service, as well as for the development, improvement, or maintenance of our systems.
+DISCLAIMER
+
+We are not responsible for any damages. Failure to exercise our rights does not constitute a waiver. 
+
+We are not involved in any disputes or miscommunications among users. In the event of a dispute between users, the users must resolve it on their own, and we assume no responsibility.
+We may revise, suspend, or terminate the service at any time without prior notice if we deem it necessary. We assume no responsibility for any damages resulting from changes to the service, including slowdowns or failures caused by server overload or other unforeseen factors.
+We are under no obligation to manage or store the content posted by users.
+DISBOARD is not responsible for any content created or uploaded to the site by users. We will take all reasonable actions to remove content that is unlawful or violates these Terms, but we are not responsible for content that is not removed.
+We may terminate or suspend a user's membership, delete some or all of their data, or change the user's publishing privileges if we determine that the user has violated or may have violated these Terms or other conditions. We assume no responsibility for any damages resulting from such actions.
+Our failure to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision. Likewise, no waiver by either party of any breach or default shall be deemed a waiver of any preceding or subsequent breach or default.
+VALIDITY OF THE TERMS AND OTHER CONDITIONS
+
+If any part of these Terms is found to be invalid or unenforceable by a competent court, the remaining parts shall remain in full effect. 
+
+If any part of these Terms is found to be invalid in a competent court of law, the remaining parts shall remain in full effect.
+If we agree to deviate from a portion of these Terms in a written contract with any user, the remaining portions shall remain in full effect.
+PROCEDURE FOR PROHIBITED ACTS
+
+This outlines the measures we may take if you breach our rules. 
+
+If a user is found to have violated these Terms or other conditions of use, we may, at our discretion, take the following measures. However, we are not obligated to take these measures, nor are we required to disclose the reasons for doing so.
+Request that the user delete or revise the content.
+Delete some or all of the content, alter its publication status, or restrict its visibility.
+Modify the user's access to this service.
+Mandate termination of the membership.
+Refuse membership application.
+The user shall have no recourse against our measures.
+DISBOARD is not obligated to provide compensation or engage in negotiations with users regarding the actions outlined in this section.

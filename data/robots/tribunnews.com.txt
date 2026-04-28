@@ -1,0 +1,92 @@
+# ================================================================
+# Tribunnews All Network
+# Content available for personal, non-commercial use under:
+# https://www.tribunnews.com/terms
+# ================================================================
+
+User-agent: *
+# Core system protection
+Disallow: /api/
+Disallow: /ajax/
+Disallow: /json/
+Disallow: /auth/
+Disallow: /member/
+Disallow: /copy/
+Disallow: /posts/
+Disallow: /setting/
+Disallow: /socmed.php
+Disallow: /komentar/
+Disallow: /komendetail/
+
+# Low SEO value / crawl traps
+Disallow: /search
+Disallow: /tag/
+Disallow: /indeks/
+Disallow: /topic/
+Disallow: /editor/
+Disallow: /penulis/
+Disallow: /video/
+Disallow: /amp/
+
+# Kill all parameters (pagination, tracking, filters, duplicates)
+Disallow: /*?
+
+# --- Allow essential static assets
+Allow: /*.js$
+Allow: /*.css$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.webp$
+Allow: /*.svg$
+Allow: /*.mp4$
+Allow: /*.m3u8$
+Allow: /*.webm$
+
+Allow: /
+
+# ================================================================
+# Google â still controlled but fully functional for indexing
+# ================================================================
+
+User-agent: Googlebot
+User-agent: Googlebot-News
+User-agent: Googlebot-Image
+User-agent: Googlebot-Video
+User-agent: AdsBot-Google
+Allow: /
+Disallow: /api/
+Disallow: /auth/
+Disallow: /member/
+Disallow: /search
+Disallow: /topic/
+Disallow: /*?
+
+# ================================================================
+# AI / Training crawlers â no business value, block completely
+# ================================================================
+
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: PerplexityBot
+User-agent: CCBot
+User-agent: cohere-training-data-crawler
+User-agent: Bytespider
+User-agent: Diffbot
+User-agent: OAI-SearchBot
+User-agent: Applebot-Extended
+Disallow: / 
+
+# ================================================================
+# Optional: throttle aggressive SEO tools
+# ================================================================
+
+User-agent: SemrushBot
+User-agent: AhrefsBot
+User-agent: MJ12bot
+Crawl-delay: 10
+
+Sitemap: https://m.tribunnews.com/sitemap.xml
+Sitemap: https://www.tribunnews.com/sitemap.xml

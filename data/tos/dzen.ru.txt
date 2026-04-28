@@ -1,0 +1,619 @@
+Zen Privacy Policy
+1. General Provisions
+1.1. This Privacy Policy (hereinafter referred to as the "Policy") governs the relationship between VK LLC (125167, Moscow, Leningradsky Prospekt, 39, building 79), hereinafter referred to as the "Company", and you, hereinafter referred to as the "User", related to the processing of information about the User in connection with such person's use of the Zen Service (hereinafter referred to as the "Information"), accessible through the web version or by other means.
+
+1.2. Relationships related to information processing, including but not limited to the collection, use, storage, distribution, and protection of information about Users of the Zen Service (hereinafter referred to as the "Service"), are governed by this Policy and other rules posted within the Service, as well as the current legislation of the Russian Federation. Before using the Service, the User is obligated to familiarize themselves with this Policy and all applicable rules.
+
+1.3. Upon registration, each access to, and/or actual use of the Service, the User agrees to the terms of this Policy in the version in effect at the time of actual use of the Service.
+
+2. Composition of the Information
+2.1. The information processed by the Company includes:
+
+2.1.1. Credentials, which are understood to mean:
+
+(a) data about the User provided by the User to create an account during the registration process in the Service;
+
+(b) additional information filled in by the User when editing his/her account during the use of the Service;
+
+(c) data additionally provided by the User at the request of the Company for the purpose of the Company fulfilling its obligations to the User;
+
+2.1.2. Other data is necessary for the functioning of the Service.
+
+The Accounting and Other Data processed by the Company, to the extent necessary and sufficient for them to be classified as personal data in accordance with the current legislation of the Russian Federation, are processed by the Company as personal data under the terms of this Policy.
+
+2.2. The User agrees to have information about them reflected in their account. The User agrees that the Information, including the Account and Other Data, as well as other information, may be accessible to other Users of the Service and/or other Internet users, subject to the existing functionality of the Service (which may be amended from time to time by the Company).
+
+2.3. The Company does not verify the User's Credentials and cannot assess their veracity or whether the User has sufficient legal capacity to provide them. However, the Company assumes that the User provides accurate and sufficient Credentials and updates them promptly. By registering for the Service or accessing it without registration, the User confirms that they have reached the legal age to use the Service in accordance with applicable law.
+
+2.4. The tables below provide a more detailed description of the Information that the Company collects and processes for the purpose of fulfilling the agreement with the User for the provision of the Service.
+
+Common to all platforms (web version, Android and iOS apps)
+Collected Information
+
+Purpose of processing
+
+Credentials, namely:
+
+User data provided by the User to create an account during the registration process in the Service: name, login, telephone number, email, account image (profile photo).
+
+Data about the Partner, User of the LKPO, provided to create an account during the registration process in the Service:
+
+for a Partner who is an Individual or Self-Employed Person - full name, surname, patronymic, registration address, date of birth, place of birth, email, address, mobile phone number, photograph, series and number of the Partner's identity document, as well as SNILS and TIN, as well as information about the bank account necessary for the payment of remuneration for the provision of Services;
+
+for a Partner who is an Individual Entrepreneur - full name, last name, patronymic, registration address, postal address, date of birth, place of birth, email, mobile phone number, photograph, series and number of the Partner's identity document, SNILS, TIN, as well as information about the bank account necessary for the payment of remuneration for the provision of Services;
+
+Execution of the Service Agreement. Specifically, to confirm account ownership by the applicant requesting account restoration, to manage and administer the Service, and more.
+
+Web version
+Collected Information
+
+Purpose of processing
+
+Other data, namely:
+Data that becomes available to the Company during the use of the Service (IP address, browser information (including interface language, screen size, information about cookies (enabled/disabled), information contained in cookies, browser User Agent, etc.), size and supported colors of the personal device screen, time zone, system language, information about the operating system, device support for certain technologies and protocols (Retina, WebSocket, HTTP2, etc.)).
+
+Execution of the Service Agreement. In particular, for communication, improvement of the Service, management and administration of the Service, etc.
+
+Android app
+Collected Information
+
+Purpose of processing
+
+Other data, namely:
+Data that becomes available to the Company during the User's use of the Application, including device type, device name, OS version, device model, time zone, preferred language, Wi-Fi network name, Wi-Fi access point MAC, mobile operator name, mobile network code (MNC), User ID, OS name, application version, year of manufacture of the User's mobile device, and Internet connection type.
+
+Execution of the Service Agreement. In particular, for communication, improvement of the Service, management and administration of the Service, etc.
+
+iOS app
+Collected Information
+
+Purpose of processing
+
+Other data, namely:
+Data that becomes available to the Company during the User's use of the Application, including device type, device name, IDFA, OS version, time zone, preferred language, Wi-Fi network name, Wi-Fi access point MAC, Device ID For Vendor, geo, and name of the mobile operator.
+
+Execution of the Service Agreement. In particular, for communication, improvement of the Service, management and administration of the Service, etc.
+
+2.5. In order to provide the functional capabilities of the Service, the User expresses his/her consent to the Company using the telephone number or other identifier of the User to send messages to the User from the Service using notification tools (push notifications), as well as to verify the User's telephone number using the service https://clientapi.mail.ru , owned by the Company, or with the involvement of services and applications of other partners of the Company.
+
+2.6. The Company may process data that becomes available to the Company during the use of the Service using the Yandex Metrica web analytics service.
+
+2.7. In order for the Company to fulfill its obligations to pay remuneration for the Services rendered, the Partner agrees to the transfer of its data specified in paragraph 2.4 of this Policy to Internet Technologies Limited Liability Company (Internet Technologies LLC, INN 9701017288, legal address: Russia, 105066, Moscow, Spartakovskaya St., 19, building 3a, floor 1, room 118, office 1c).
+
+2.8. For the purpose of verifying the data provided by the Partner and confirming the account in accordance with Section 4 of the Terms of Use of the Zen service, the Partner agrees to the transfer of his data specified in paragraph 2.4 of this Policy to Joint Stock Company INTELL (JSC INTELL, INN: 7729602246, legal address: 121596, Russia, Moscow, Gorbunov St., 2, building 3, floor 8, premises II, room 4A (A807.2) Business Center Grand Setun Plaza).
+
+3. Cookie processing
+3.1. Cookies are small pieces of data that websites request from the browser on the User's computer or mobile device. Cookies are stored locally on the Internet user's device. The Company collects and processes cookies for Users visiting the Service.
+
+The Company's Service uses the following types of cookies:
+
+• strictly necessary cookies/technical cookies: these cookies are necessary for the operation of the website and the provision of Services to the User; among other things, they allow the Company to identify the User’s hardware and software, including the browser type;
+
+• statistical/analytical cookies: these cookies allow us to recognise users, count their number and collect information such as transactions performed on the websites, including information about the web pages visited and the content the User receives;
+
+• technical cookies: these cookies collect information about how users interact with the site, which allows us to identify errors and test new features to improve the performance of the Service;
+
+• Functionality cookies: These cookies allow certain features to be provided to make your use of websites easier, such as storing preferences (such as language and location);
+
+• (Third-party) tracking/advertising cookies: These cookies collect information about traffic sources, pages visited and advertisements displayed to the User. They allow the display of advertisements that may be of interest to the User based on an analysis of the information collected about the User. They are also used for statistical and research purposes.
+
+3.2. Cookies are processed by the Company solely for the purpose specified in paragraph 4.2 of this Policy, under the terms and in the manner specified in this Policy. In particular, based on the data obtained using cookies, the Company develops the most useful functionality for the Service available to the User, conducts statistical research, corrects errors in the Service and tests new functions to improve the performance of the Service, personalizes and displays the most relevant information for the User.
+
+3.3. Information collected using cookies placed on the User's device may be transferred to and accessed by the Company and/or third parties specified in paragraph 4.4 of this Policy, as well as by the company that owns the Yandex.Metrica web analytics service and/or other similar services.
+
+3.4. The user may opt out of cookie processing in their browser settings. In this case, the Company's services will only use cookies that are strictly necessary for the operation of the service and the provision of its functionality.
+
+4. Conditions for processing Information
+4.1. The Company processes User Information in accordance with the following principles:
+
+4.1.1. the legality of the purposes and methods of processing the Information;
+
+4.1.2. good faith of the Company;
+
+4.1.3. compliance of the purposes of processing the Information with the purposes previously determined and declared during its collection, as well as with the powers of the Company;
+
+4.1.4. compliance of the volume and nature of the processed Information, the methods of its processing with the purposes of processing the Information;
+
+4.1.5. the inadmissibility of combining databases containing User Information created for incompatible purposes.
+
+4.2. Purposes of processing Information
+
+The Company processes the Account Data and Other Data of the Service Users for the purpose of fulfilling the agreements concluded with the Users regarding the use of the Service.
+
+4.3. Collection of Information
+
+The User's Credentials are collected upon registration and/or authorization in the Service by the User filling out the registration form, as well as subsequently when the User edits previously provided information or supplements the Credentials on his/her own initiative (if applicable) using the tools of the relevant Service.
+
+The Company collects Other Data independently during the User's use of the Service. In some cases, the collection of Other Data begins from the moment the User accesses the Service (for example, when loading a web page) until the User registers for the relevant Service.
+
+4.4. Processing and Transfer of Information
+
+The User's credentials and other data are not transferred to any third parties, except in cases expressly provided for in this Policy and applicable law.
+
+The Company may transfer User Account and Other Data to third parties, subject to the purposes and grounds specified in this Policy. Such third parties may include:
+
+• persons who participate in the provision of services, including those related to the placement and display of information to users (including offers relevant to the interests of users) about the services and services of the Company in programs, products or services that belong to such persons or are controlled by them (for example, owners of websites and applications, advertising networks and other persons, etc.);
+
+• persons who have legal grounds to process the Accounting and Other Data, for example, if the transfer of Accounting and Other Data to such persons is carried out with the consent of the User, including if the Accounting and Other Data are necessary to provide the User with the relevant service or to fulfill a specific agreement or contract concluded with the User;
+
+• third parties in respect of whom the assignment of rights or obligations or novation under the relevant agreement has been made;
+
+• government authorities and judicial authorities after the Company has verified the existence of authority and legal grounds for requesting specific information in accordance with applicable law.
+
+In order to provide high-quality, multifunctional, user-friendly services that are tailored to the personal needs and interests of the Service Users, the Company develops, improves, and optimizes the current and introduces new functionality of the Service (informational, communication, advertising, educational, entertainment, and other), including with the participation of partners and/or affiliates.
+
+Taking into account the above, and also taking into account the Company's compliance with the processing purposes specified in paragraph 4.2 of this Policy, the User agrees and instructs the Company to carry out the following actions:
+
+• processing, including collection, recording, systematization, accumulation, storage, clarification (updating, modification), comparison, extraction, use, blocking, deletion/destruction of the User’s Account and Other Data;
+
+• transfer of Accounting and Other Data to partners and/or affiliates, and their processing by partners and/or affiliates on the basis of an order from the Company (in the ways specified in this clause), as well as joint processing by partners and/or affiliates of Other Data with data available to partners and/or affiliates;
+
+• collection (receipt) from partners and/or affiliates of the results of processing of Accounting and Other data together with data in the possession of partners and/or affiliates, including in the form of integer and/or text values ​​and identifiers.
+
+Given the nature and functional features of the Service, the Company may facilitate market research activities for goods and services, including assessing supply and demand, promoting products, and analyzing the effectiveness of information, advertising, and marketing campaigns by generating anonymized analytical information based on data on the use of the Service.
+
+The User agrees to the processing of data collected by the Service, to the extent specified in Section 2 of this Policy, together with data about him/her received from the Company's partners and provided by the Company's partners with legal grounds for such processing, to the extent specified in the Privacy Policy of the service(s) of the Company's partner(s) that the User uses, in order to improve the quality of services provided by the Service, namely: to satisfy the interests of the User by displaying information relevant to the interests of the User, targeting precise advertising (displaying information relevant to his/her interests), countering fraudulent activities, generating generalized statistical/analytical information based on the use of the Platform and the service(s) of the Partners.
+
+4.4.1. When the User uses VK ID, their Account and Other Data may be transferred to third parties (VK Ecosystem Services and other Services that use the VK ID tool during the use of such services and/or tools by the User), and the Company may also receive from the said third parties the Account and Other Data of the User in the amount specified in the User's personal account of the VK Ecosystem, for the purpose of fulfilling agreements with Users of the VK Ecosystem participants.
+
+The Company may share User data with VK Ecosystem Services, as well as external Services that utilize VK Ecosystem tools, to provide the User with access, capabilities, and benefits of the VK Ecosystem, for example, if the User chooses to log in to the Service using VK ID. By using such a Service/tool/its individual features, the User consents to such data transfer to the extent necessary for the operation of the Service/tool. The User also agrees to and accepts the User Documentation for such VK Ecosystem Service and/or its tool in full, without any reservations or exceptions. If the User does not agree with any of the provisions of the User Documentation for a Service/tool, the User may not use such Service/tool. The list of VK Ecosystem Services is available at https://vk.com/vk_ecosystem_services . The list of VK Ecosystem Tools is available at https://vk.com/vk_ecosystem_tools .
+
+4.5. Storage of Information
+
+The user's Account and Other Data are stored on the territory of the Russian Federation, and are stored exclusively on electronic media, and processed using automated systems, except in cases where non-automated processing of Account and Other Data is necessary in connection with compliance with the requirements of applicable law.
+
+4.6. Information storage periods
+
+The Company shall store the Accounting and Other Data for the duration of the agreement between the User and the Company regarding the use of the Service, and after the termination of such agreement, for the period required and established by the current legislation of the Russian Federation.
+
+4.7. Termination of Information Processing
+
+Upon achieving the objectives of processing the Information, the Company shall cease processing the Accounting and Other Data in one of the ways provided for by the Federal Law “On Personal Data”.
+
+5. Limitation of the Company's liability
+5.1. The Company shall not be liable for the disclosure and dissemination of information about the User by other Users of the Service or other Internet users if such persons have gained access to said information in accordance with the privacy level settings selected by the User for the relevant Service, or if the User has violated the security of his/her login and/or password or other data required for authorization.
+
+6. User Requests
+6.1. Information about the data processed by the Company, including the personal data of the User, in connection with his/her use of the Service, is provided to the User or his/her representative upon request.
+
+6.2. Requests shall be sent in writing to the address of the Company's location or in another form stipulated by the current legislation of the Russian Federation.
+
+6.3. The User has the right to revoke consent to the processing of his/her personal data by sending a written statement to the Company at the location of the Company in accordance with the requirements of current legislation.
+
+7. Changes and additions to this Policy
+7.1. The Company reserves the right to amend and supplement this Policy by notifying the User, including by posting a new version of the amended Policy on the website. The new version of the Policy shall take effect on the day following its posting on the website at: https://dzen.ru/legal/ru/confidential/ . The User undertakes to regularly review new versions of the Policy.
+
+7.2. For all questions related to the processing of User Information by the Company, please contact us at the following address: 125167, Moscow, Leningradsky Prospekt, 39, building 79.
+
+7.3. This Policy is governed by and interpreted in accordance with the laws of the Russian Federation. Issues not regulated by this Policy shall be resolved in accordance with the laws of the Russian Federation.
+
+Revision dated 12/12/2025
+
+License agreement for the use of the Zen program for electronic devices
+Before using the program, please read the terms of the following license agreement.
+
+Any use of the program by you constitutes your full and unconditional acceptance of the terms of this license agreement.
+
+If you do not accept the terms of the license agreement in full, you have no right to use the program for any purpose.
+
+1. General Provisions
+1.1. This License Agreement (the " License ") sets forth the terms and conditions for the use of the Zen program for electronic devices (the " Program ") and is concluded between any person using the Program (the " User ") and VK LLC, a legal entity created under the laws of the Russian Federation, registered at 125167, Moscow, Leningradsky Prospekt, 39, building 79, Russia, which holds all necessary rights to the Program (the " Copyright Holder ").
+
+1.2. The program is also available through the "Zen - Videos, Articles,
+News" application, which is a combination of software and hardware
+and includes, but is not limited to:
+
+The Zen app – videos, articles, news for mobile devices in the Play Market (Android);
+The Zen app – videos, articles, news for mobile devices in
+the AppStore (iOS);
+The "Zen in Auto" app for cars.
+The functionality of the Program may be limited depending on the User's device. The Copyright Holder reserves the right to update and modify the Program's design, content, and functionality at any time, and to modify or supplement the scripts, software, and other objects used or stored within the Program, as well as any applications, at any time, with or without prior notice.
+
+1.3. By copying the Program, installing it on your device, or using the Program in any way, the User expresses their full and unconditional agreement with all the terms of the License.
+
+1.4. Use of the Program is permitted only under the terms of this License. If the User does not accept the terms of the License in full, the User may not use the Program for any purpose. Use of the Program in violation of (failure to comply with) any of the terms of the License is prohibited.
+
+1.5. Use of the Program by the User under the terms of this License for personal, non-commercial purposes is free of charge. Use of the Program under terms and in ways not provided for by this License is permitted only under a separate agreement with the Copyright Holder.
+
+1.6. By using the Program, the User agrees that the following documents, the terms of which fully apply to the use of the Program, are integral parts of this License:
+
+"Terms of Use of the Zen Service" posted on the Internet at https://dzen.ru/legal/ru/termsofuse/ .
+The specified documents (including any of their parts) may be changed by the Copyright Holder unilaterally without any special notice; the new version of the documents shall enter into force from the moment of their publication, unless otherwise provided by the new versions of the documents.
+
+1.7. This License and all relations related to the use of the Program shall be governed by the laws of the Russian Federation, and any claims or actions arising from this License or the use of the Program shall be filed and heard in court at the location of the Copyright Holder.
+
+1.8. The Copyright Holder may provide the User with a translation of this License from Russian into other languages; however, in the event of a contradiction between the terms of the License in Russian and its translation, the Russian version of the License shall prevail exclusively.
+
+2. Rights to the Program
+2.1. The exclusive right to the Program belongs to the Copyright Holder. The Program may also contain third-party products, the right to use which is lawfully granted to the Copyright Holder.
+
+3. License
+3.1. The Copyright Holder grants the User, free of charge, under a simple (non-exclusive) license, a non-transferable right to use the Program throughout the world in the following ways:
+
+3.1.1. Use the Program for its intended purpose, which includes copying and installing (reproducing) it on the User's electronic device(s). The User has the right to install the Program on an unlimited number of electronic devices. When installed on an electronic device, each copy of the Program is assigned a unique number, which is automatically communicated to the Copyright Holder.
+
+3.1.2. Reproduce and distribute the Program for non-commercial purposes (free of charge).
+
+4. Limitations
+4.1. Except for use in the volumes and in the ways expressly provided for by this License or the legislation of the Russian Federation, the User has no right to modify, decompile, disassemble, decrypt or perform other actions with the object code of the Program aimed at obtaining information about the implementation of the algorithms used in the Program, create derivative works using the Program, or carry out (permit the implementation of) other uses of the Program, without the written consent of the Copyright Holder.
+
+4.2. The User has no right to reproduce and distribute the Program for commercial purposes (including for a fee), including as part of collections of software products, without the written consent of the Copyright Holder.
+
+4.3. The User has no right to distribute the Program in a form different from that in which he received it, without the written consent of the Copyright Holder.
+
+5. Terms of use of individual functions of the Program
+5.1. The Program's functions can only be used with internet access. The User independently obtains and pays for such access under the terms and rates of their telecom operator or internet access provider.
+
+5.2. The Program provides access to the Zen service, available to Users who have the legal capacity to accept this agreement and the Zen Service Terms of Use ( https://dzen.ru/legal/ru/termsofuse/ ) and who have reached the required age to use the Service, in accordance with the legislation of the User's country of citizenship or place of residence.
+
+5.3. All data on the use of the Program, transferred in accordance with this License, are stored and processed in accordance with the "Terms of Use of the Zen Service", posted on the Internet at https://dzen.ru/legal/ru/termsofuse/ and the Privacy Policy, posted at https://dzen.ru/legal/ru/confidential/ .
+
+6. Liability under the License
+6.1. The Program is provided "as is." The Copyright Holder makes no warranties regarding the error-free or uninterrupted operation of the Program or its individual components and/or functions, or the Program's suitability for the specific purposes and expectations of the User, nor does it provide any other warranties not expressly stated in this License.
+
+6.2. The Copyright Holder shall not be liable for any direct or indirect consequences of any use or inability to use the Program and/or damage caused to the User and/or third parties as a result of any use, non-use or inability to use the Program or its individual components and/or functions, including due to possible errors or malfunctions in the Program, except in cases expressly provided for by law.
+
+6.3. All questions and complaints related to the use/inability to use the Program, as well as possible violation of the law and/or rights of third parties by the Program, should be sent via the feedback form to dzen@vk.company .
+
+7. Updates/new versions of the Program and third-party software
+7.1. This License applies to all subsequent updates/new versions of the Program. By agreeing to install an update/new version of the Program, the User accepts the terms of this License for the corresponding updates/new versions of the Program, unless the update/installation of a new version of the Program is accompanied by a different License Agreement.
+
+8. Changes to the terms of this License
+8.1. This License Agreement may be amended unilaterally by the Copyright Holder. Notification to the User of any changes to the terms of this License will be published on the following page: https://dzen.ru/legal/ru/mobile-agreement/ . Such changes to the terms of the License Agreement shall take effect on the date of their publication, unless otherwise specified in the relevant publication.
+
+On user liability and content complaints
+Zen provides users with the ability to store, search and share information.
+
+Before posting content on our servers, users agree to terms and conditions that obligate them not to post illegal materials or content that violates the rights of third parties.
+
+We understand that unscrupulous users violate both our rules and the law, and we take all measures within our power to stop violations that come to our attention. Our company has adopted standard procedures for responding to complaints and reports of third-party rights violations committed using our services.
+
+Complaints
+If you believe that any material posted by a Zen user violates your rights, try contacting that user directly and informing them of your complaints—sometimes this is enough to resolve the dispute.
+
+If a situation requires Zen's intervention, please submit a substantiated complaint in one of the following ways:
+
+select a topic from the list of requests and fill out the form;
+
+Send a scanned copy of the written statement to abuse@dzen.ru ;
+
+Please do not submit false complaints. Ensure that the disputed material actually violates your rights. If you are unsure whether your rights have been violated or what those rights are, consult with a lawyer.
+
+Please indicate in your complaint:
+
+Data to identify you.
+
+Grounds for complaint: What material on the site violates your rights and what constitutes this violation:
+
+Please provide the exact name of the material;
+
+Please provide the exact addresses (URLs) of the pages on which it is located;
+
+Please write which of your rights are violated by this material.
+
+Attention
+
+The complaint must be signed by the person whose rights are infringed by the posted material or their representative. The right to act on the complainant's behalf must be confirmed by a power of attorney, executed in accordance with the law and attached to the complaint.
+
+Upon receiving a complaint about a user's rights violation, we block access to the materials listed in the complaint. If the user who posted the materials provided their contact information during registration, we will also send them a notice that access to these materials has been blocked due to the complaint. In the event of repeated violations, Zen may, at its sole discretion, delete the accounts of the offenders.
+
+The statement of the user who posted the disputed material and the statement of the complainant must contain all the necessary information to identify them and contact them.
+
+Upon receiving a user's counterclaim, we forward the information to the parties to the dispute so they can discuss the matter and grant access to the disputed materials. If Zen subsequently receives documents confirming that the dispute was resolved in favor of the complainant, the materials will be blocked.
+
+Terms of Use for the Zen service
+1.1. VK LLC, a legal entity established under the laws of the Russian Federation, registered at 39 Leningradskiy Prospekt, Bldg. 79, Moscow, Russia, 125167 (hereinafter referred to as the " Company "), offers Internet users (hereinafter referred to as the "User") the use of the Zen service (hereinafter referred to as the "Service") to view information posted on the Service by Users, based on the User's interests, and to use other functions of the Service. The User may access the Service in the following ways, including, but not limited to: using the Service's website, using mobile or desktop applications that provide access to the Service and its functions, as well as using services and software that provide access to the Service and its functions, provided by third-party partners of the Company. The Service is provided in accordance with these terms of use (hereinafter referred to as the " Terms ").
+
+2. Terms and definitions
+The User's Public Profile is information about the User and their activity on the Service, accessible for viewing and customization on the User's personal page. The User's Public Profile may contain an Avatar and Username, as well as (based on the settings specified by the User) information about the User's interests, existing subscriptions, and other Content posted by the User on the Service.
+
+Avatar – an image of the User in his/her account.
+
+User Name – the name specified in the User’s Public Profile and accompanying the Content published by the User.
+
+Login – a unique symbolic name of the User account.
+
+Content – ​​information posted by the User on the Service and/or information exported for subsequent posting on the Service (including comments, ratings, etc.), in the format specified at the address: https://dzen.ru/help/ru/requirements/rules.html .
+
+Video – Content consisting of short videos posted on the Service by the User.
+
+Collections – automatic collections of channels and posts on various topics in the "Topics" section, generated by the Service.
+
+A Channel is a page on the Service created by the User that aggregates Content on various topics, at the User's discretion, available for viewing and further discussion (including through comments) by other Users. Creating a Channel is a Website feature provided to the User within the Service. The User does not acquire any exclusive rights to the Channel, including, but not limited to, as a database, since the Channel is a section of the Service.
+
+Metachannel – individual Channels automatically generated by the Service, combining Content on specialized topics.
+
+Zen Resources  are websites, computer programs, and other technical or software tools of the Company that allow access to the Service or any part thereof, including Content. Zen Resources also include websites, computer programs, and other technical or software tools of companies belonging to the VK group, such as the Mail.ru service, including News@mail.ru, the social networks VKontakte and Odnoklassniki, and others.
+
+VK Group – entities affiliated with VK International Public Joint-Stock Company (OGRN 1233900010585) in accordance with the current legislation of the Russian Federation.
+
+3. General Provisions
+3.1. The use of the Service is governed by the Terms, which are a legally binding agreement between the User and the Company.
+
+3.2. By using the Service or any of its functions, the User accepts the Terms, as well as the terms of the document specified in Section 3.3 of the Terms, in full, without any reservations or exceptions. If the User does not agree with any of the provisions of the Terms, the User may not use the Service.
+
+3.3. Relationships related to the processing of information necessary for the provision of the Service, as well as information that the User provides about themselves upon registration or while using the Service, are governed by the Privacy Policy located at: https://dzen.ru/legal/ru/confidential/ (hereinafter referred to as the "Privacy Policy").
+
+For all questions related to the Company's processing of User information, please contact support@dzen.ru .
+
+3.4. The Service is a VK Ecosystem Service ( https://vk.com/vk_ecosystem_services ). Registration and/or authorization in the Service is possible using the VK ID tool, which is a VK Ecosystem tool. The VK Ecosystem is a shared space for interaction between users, services, and specialized tools designed to improve the ease of use of the services familiar to Users.
+
+The VK ID tool provided by the Company enables the User to register and/or authorize in services, creates and maintains the User's account in the VK Ecosystem, provides the User with the functionality of unified, secure management of account data in the VK Ecosystem, enabling or disabling the services required by the User in the User's account in the VK Ecosystem, as well as autofilling the User's data in the VK Ecosystem services, as well as in other services/sites/information resources of third parties that use the VK ID tool, for the purpose of fulfilling agreements with the User of the VK Ecosystem.
+
+Registration and/or authorization on the Service using the VK ID tool constitutes agreement with the VK Ecosystem User Agreement, which is publicly available on the Internet at: https://id.vk.com/terms and the VK Ecosystem Privacy Policy, which is publicly available on the Internet at: https://id.vk.com/privacy , the Terms and the Privacy Policy.
+
+4. User Registration. User Account.
+4.1. To use certain features of the Service, the User must complete the registration process, which will create a unique account for the User. Users who have reached the age of 16 have the right to independently register an account and use the Service within the limits of their legal capacity established by applicable law. If the User has not reached this age, or in cases where required by applicable law, use of the Service is permitted only with the consent of their parents or other legal representatives.
+
+4.2. To register, the User undertakes to provide accurate and complete information about themselves as prompted by the registration form, and to keep this information up to date. If the User provides incorrect information, or the Company has reason to believe that the information provided by the User is incomplete or inaccurate, the Company reserves the right, at its sole discretion, to block or delete the User's account, or deny the User access to the Service or any of its features.
+
+When registering, the User can upload an Avatar and set a Username.
+
+4.2.1. Upon registration, the User may upload an Avatar and set a Username. The Avatar and Username must comply with the requirements of Section 4.6 of the Terms.
+
+4.3 Account verification.
+
+4.3.1. The Company reserves the right at any time to request confirmation of the data provided during registration for the User's account, as well as other information related to the use of the Service, available to the User after authorization using the User's login and password on the Service. This confirmation may also be accomplished by requesting identity verification from the User through the service https://phone-passport.yandex.ru , as well as by engaging third parties who assist the Company in ensuring the operation and support of the Service.
+
+4.3.2. To verify the User's data, the Company reserves the right to request supporting documents (including identity documents). Failure to provide these documents may be considered false information and may result in the consequences set forth in Section 3.2 of the Terms. If the User's data specified in the documents provided does not match the data provided during registration, or if the data provided during registration does not allow the User to be identified, the Company reserves the right to deny the User access to their account and use of the Service or its individual functions.
+
+4.4. Means of access to the User account.
+
+4.4.1. Upon registration, the User independently selects a login and password to access their account. The Company reserves the right to prohibit the use of certain logins and set login and password requirements (length, allowed characters, etc.).
+
+The User has the right to use an alternative authorization method chosen from the options offered in the authorization form, including using third-party accounts. By selecting an alternative authorization method, the User consents to receiving information about the User from third-party information resources under the terms of the Privacy Policy.
+
+4.4.2 In order to ensure the security of User data (or categories of Users), the Company has the right to establish additional account security measures, including introducing mandatory authorization using the User's phone number specified in the account, requesting the provision of additional information and restricting access to the account if suspicious activity is detected in relation to it.
+
+4.5. The User is solely responsible for the security (including resistance to guessing) of the means of accessing the account/authorization chosen by them, and also ensures their confidentiality. The User is solely responsible for all actions (and their consequences) within the Service under the User's account, including cases of the User's voluntary transfer of access data to the User's account to third parties under any conditions (including under contracts or agreements). Moreover, all actions within the Service under the User's account are considered to be performed by the User, except in cases where the User, in the manner provided for in paragraph 4.6. of the Terms, notifies the Company of unauthorized access to the Service using the User's account and/or of any violation (suspected violation) of the confidentiality of their account access means (mobile phone number, password, or two-factor authentication means).
+
+4.6. The User is obligated to immediately notify the Company of any unauthorized access to the Service using the User's account and/or any breach (suspected breach) of the confidentiality of their account access means. For security purposes, the User is obligated to securely log out of their account (using the "Logout" button or another similar action) at the end of each session with the Service. The Company is not responsible for any loss or corruption of data, or any other consequences of any kind, that may arise from the User's violation of the provisions of this section of the Terms.
+
+4.7. The Company reserves the right, at its sole discretion, to block or delete the User's account or restrict the User's access to the Service (or to certain functions of the Service) in the event of repeated violation of the Terms, or to apply other measures to the User in order to comply with the requirements of applicable law or the rights and legitimate interests of third parties.
+
+4.8. By registering, the User agrees to receive informational and service-related messages from the Service via email, SMS, push technology, and other means, including notifications about the introduction of new or discontinuation of old Service features, and notifications about survey completion. With the User's consent, the Company reserves the right to send the User promotional messages by similar means. The User may unsubscribe from Service messages at any time by changing the settings in their personal account.
+
+5. Use of the Service and its individual functions
+5.1. The User may not reproduce, repeat, copy, sell, resell, or use for any commercial purposes any parts of the Service (including Content available to the User through the Service), or access them, except in cases where the User has received such permission from the Company, or when expressly provided for in the Terms.
+
+5.2. Links displayed by the Service lead to websites or sites created by third parties. The Company assumes no responsibility for the quality of such websites or sites, or for the content posted on such websites. The Company also assumes no responsibility for the presence/absence, content, or quality of any offers for services, goods, etc., that may be available to the User on third-party websites, or for any losses the User may incur by using such offers.
+
+5.3. The Service provides the authorized User with the ability to view and customize the User's Public Profile.
+
+5.3.1. The User acknowledges and agrees that information posted on the Service, including information published in the User's Public Profile, is made publicly available solely for the purposes of providing the Service and personalizing Users. Information posted by the User (including personal data) is not intended for collection and distribution by third parties.
+
+5.4. The Service provides authorized Users with the ability to post, distribute, edit, and delete Content posted on the Service on their own behalf. The User is solely responsible to third parties for their actions related to the posting and distribution of Content on the Service, including ensuring that the Content complies with applicable law and does not violate the rights and legitimate interests of third parties. The User undertakes to resolve all third-party claims related to the posting (editing) of Content at their own expense. In the event of a dispute, the burden of proof that the Content posted by the User does not infringe anyone's rights rests with the User.
+
+5.5. The User acknowledges and agrees that the Company may review Content posted by the User on the Service. The User also agrees that the Company reserves the right to refuse the User's permission to post and/or distribute Content, or to restrict access to such Content if it is found to be inconsistent with the Terms, including as a result of complaints from Users or notifications from any authorized body that the Content violates/may violate applicable law and/or the rights and legitimate interests of third parties. The Company implements a range of measures to prevent and suppress the illegal posting of User information that violates applicable law, including by:
+
+5.5.1. inclusion in the Terms of a warning about the inadmissibility of distributing Content in the Service in violation of applicable law;
+
+5.5.2. Processing complaints from Users, authorized bodies, and other persons regarding Content posted on the Service in violation of applicable law. Such complaints may be submitted, among other things, through special forms, using the "Report a Post" button (or another similar button), by contacting customer support, or in writing to the Company's address specified in paragraph 1.1 of the Terms;
+
+5.5.3. using technologies and algorithms that allow us to identify, block and/or remove Content that violates applicable laws and/or the Terms.
+
+5.6. When using the Service, the User may not post or distribute, among other things, the following Content:
+
+5.6.1. that is illegal, harmful, defamatory, deliberately misleading, offensive to morality, demonstrating (or being propaganda) of violence and cruelty, promoting hatred and/or discrimination against people on racial, ethnic, sexual, religious or social grounds, containing obscene language, insults against any persons or organizations, containing public calls to commit terrorist activities or publicly justifying terrorism, or other materials of an extremist nature, containing elements of (or being propaganda of) pornography, child erotica, representing advertising (or being propaganda) of services of a sexual nature (including under the guise of other services), explaining the procedure for the production, use or other use of narcotic substances or their analogues, explosives or other weapons;
+
+5.6.2. violating copyrights, trademark rights, means of individualization and/or rights to other intellectual property belonging to third parties;
+
+5.6.3. вводящий Пользователей Сервиса в заблуждение относительно принадлежности публикуемой Пользовательской информации и (или) учетной записи Пользователя к Компании и (или) администрации Сервиса, в том числе путем использования товарных знаков и логотипов, принадлежащих Компании, а также с использованием обозначений «Дзен», «Zen», «Dzen», и т.п.;
+
+5.6.4. содержащий спам (в том числе и поисковый), списки чужих адресов электронной почты, схемы «пирамид», многоуровневого (сетевого) маркетинга (MLM), системы интернет-заработка и e-mail-бизнесов, «письма счастья»;
+
+5.6.5. содержащий неправомерно полученную информацию о третьих лицах;
+
+5.6.6. нарушающий требования законодательства о рекламе и/или законодательства о защите конкуренции;
+
+5.6.7. содержащий компьютерные вирусы или другие компьютерные коды, файлы или программы, предназначенные для нарушения, модификации, блокирования уничтожения либо ограничения функциональности любого компьютерного или телекоммуникационного оборудования, или содержащий программы для осуществления несанкционированного доступа, а также серийные номера к коммерческим программным продуктам и программы для их генерации, логины, пароли и прочие средства для получения несанкционированного доступа к Сервису, а также к платным ресурсам в сети Интернет;
+
+5.6.8. содержание которого не соответствует критериям, описанным по адресу: https://dzen.ru/help/ru/requirements/rules.html.
+
+5.7. By posting Content on the Service, the User automatically, free of charge, unconditionally, and irrevocably grants the Company a non-exclusive license to use the Content, in whole or in part (including the separate use of the audio track of an audiovisual work), worldwide for the duration of the Content's posting on the Service, at the Company's discretion, including, but not limited to, the right to reproduce, copy, select, organize, transform, modify, edit, translate, and otherwise process, publish, distribute, and make available to the public the Content. Furthermore, the User grants the Company the right to use the Content for posting on Zen Resources. By posting Content on the Service, the User also confirms that they have the appropriate rights and authority to grant the Company the specified rights to use the posted Content, including posting the Content on Zen Resources. The User agrees that the Content posted may be used by the Company in advertising or marketing materials posted on the Service and/or Zen Resources. The Company has the right to use the Content with or without the User's name as the author of the Content. The Company reserves the right to transfer the rights specified in this clause to third parties. If the User does not have the right to grant the Company the right to use any materials within the Content in the manner specified, they are obligated to refrain from posting such materials on the Service.
+
+5.7.1. The User agrees that the Company reserves the right to use the functional and technical capabilities of the Service to display the posted Content, including displaying it through a player, at its sole discretion, including for the purpose of displaying advertising information. By posting Content on the Service that is displayed using the Service's functionality, the User agrees that the Service's tools allow the Company and/or third parties to display the player and/or other mechanisms for displaying Content from the Service on Zen Resources, third-party websites, and/or platforms using embedding, inline framing, or other similar technologies. Content management can be accomplished by contacting the Service's support team.
+
+5.8. When posting advertising information within the Content, the User undertakes to:
+
+5.8.1. indicate the advertising nature of such information in the manner determined by the Company, or by specifically designating such information in any way accessible to the User as advertising;
+
+5.8.2. bear full responsibility for compliance with advertising legislation, including, but not limited to, independently fulfilling the requirements provided for in paragraph 10.6 of Article 5 and Article 18.1 of the Federal Law "On Advertising", legislation on the protection of competition, when posting advertising information as part of the Content;
+
+5.8.3. make publicly available all information required by advertising legislation about the advertised object, including, but not limited to, age markings, warnings, and identification of the person(s) providing the relevant services.
+
+5.9. If the Content meets the Company's established criteria for the number of views of such information and/or other criteria, the Company has the right (but is not obligated) to offer the User the opportunity to enter into a separate agreement aimed at monetizing the Content. The Company, at its sole discretion, determines the conditions described above that the User must fulfill in order to enter into such an agreement.
+
+5.10. When creating and posting Videos on the Service, the User has the right to use a musical composition (hereinafter referred to as the "Soundtrack"), which is available for these purposes in the "Music" section of the Video editor functionality, under the following conditions:
+
+5.10.1. The User has the right to include the Audio Track or a fragment thereof no longer than 60 seconds in the Videos posted on the Service, i.e. to synchronize it with the audio and/or visual sequence of other objects, as well as to superimpose an image, text, and other information on the Audio Track or a fragment thereof to create Videos;
+
+5.10.2. The User has the right to make the Sound Track or a fragment thereof as part of the Videos publicly available in such a way that any person can access the Sound Track as part of the Videos;
+
+5.10.3. The User has the right to carry out technical modification of the Audio Track or a fragment thereof for the purpose of posting the Video on the Service, namely, to change without limitation the timing (duration) of the Audio Track or a fragment thereof, the playback speed (acceleration or deceleration), the pitch of the sound, provided that such actions do not distort the meaning or violate the integrity of the perception of the Audio Track, and do not discredit the honor, dignity and business reputation of the copyright holder of the Audio Track, the Company and/or third parties;
+
+5.10.4. The User has the right to play a single Audio Track or a fragment thereof as part of a Video in the memory of the User's devices, computer memory, and other technical devices compatible with computer memory, provided the Video is subsequently uploaded to the Service. A device refers to personal computers (PCs), pocket PCs, smartphones, mobile phones, and similar devices that can be used to access the Service.
+
+5.10.5. The User has the right to perform the actions specified in paragraphs 5.10.1 - 5.10.4 of the Terms, solely for the purpose of creating and posting Videos on the Service without generating commercial profit.
+
+5.10.6. The Company reserves the right to suspend the right to use any Audio Track at any time for any reason. The Company does not guarantee the availability of a specific Audio Track, nor does it guarantee its availability on the Service for a specific period. The User is obligated to immediately cease using the Audio Track upon receipt of a corresponding request from the Company, or upon discovering the absence of the Audio Track in the "Videos" feature.
+
+5.10.7. The User grants a license to cache Videos, i.e., the right to view Videos stored in the local memory of a mobile device without internet access and without saving them to the User's device, solely through the use of the Service's functionality available via the mobile application for iOS and Android operating systems for the entire duration of the Video's placement on the Service, within the territory in which the Service is available for use via the mobile application for iOS and Android operating systems. However, some functionality of the Service may not be available in certain territories. These rights to use cached Videos available in the Service are granted exclusively within the Service for personal, non-commercial purposes. The User may not upload, post, publish, make publicly available, or otherwise use Videos cached from the Service on any Internet resource that allows the downloading, viewing, or listening to video content, with the exception of uploading or posting Videos on Zen Resources. Any use by the User of cached Videos not provided for in this clause of the Terms is prohibited.
+
+5.10.8. The User has the right to cache Videos in their original form, provided that all copyright signs or other authorship notices are preserved, and the author's name is preserved unchanged.
+
+5.10.9. The Company reserves the right to suspend the right to use any cached Video at any time for any reason. The Company does not guarantee the availability of a specific cached Video, nor does it guarantee its availability on the Service for a specific period.
+
+5.10.10. The User is obligated to immediately cease using the cached Video upon receiving a corresponding request from the Company, as well as upon discovering that the cached Video is no longer available on the Service.
+
+5.10.11. The User may not use cached Videos available in the Service outside of the Service itself.
+
+5.11. When creating and posting Videos on the Service, the User has the right to use the audio track from other Users' Videos. The User has the right to post Videos containing audio tracks from other Users' Videos exclusively on the Service. The User may not copy, reproduce, perform, distribute, process, or otherwise use the audio track from other Users' Videos separately from the Videos and/or as part of any other User Content.
+
+By creating and posting Videos on the Service, the User agrees that any other User may use the audio track from such Videos to create their own Videos. From the moment a Video is posted on the Service, the User grants all Users of the Service a simple (non-exclusive), royalty-free, and irrevocable license to use the audio track from the Video, including by reproducing, copying, processing, incorporating it into a complex object—a Video of another User—and further use within such a complex object. The User grants a license to use the audio track from the Video for the entire duration of the Video's posting on the Service and agrees that other Users using the audio track from their Video may also grant a similar license (sublicense) to use such audio track in the Videos of other Users.
+
+5.12. The Service reserves the right to automatically generate Collections of channels and posts on various topics in the "Topics" section (or another section with a similar meaning), as well as automatically generate individual Metachannels that combine Content on specialized topics.
+
+Metachannel content is generated based on user keywords and has a different interface than the user channels themselves. The Metachannel combines content of various formats into relevant sections defined by the Company. Content may be ranked by its posting date or by its popularity.
+
+The Company is not responsible for the content of Content included in Collections and Metachannels and cannot guarantee that such Content does not violate the Terms or applicable law. Responsibility for the content of Content posted in a Collection and/or Metachannel rests with the User who posted the relevant Content on the Service.
+
+5.13. The Service has the right to provide the User with the functionality of artificial intelligence technologies (hereinafter referred to as " AI Technologies "), including, but not limited to, for the purpose of creating a relevant selection of Content, a digest of materials, and interpreting Content in order to improve the user's experience of interacting with the Content.
+
+5.13.1. AI Technologies operate on the DeepSeek language model. By using the AI ​​Technologies, the User agrees to the terms and conditions provided by the DeepSeek provider, which are located at: https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html .
+
+5.13.2. The User has the right to manage AI Technologies if this functionality is available on the Service.
+
+5.13.3. AI technologies may be used, among other things, to create a personalized selection of Content, generated automatically based on the User's behavior on the Service. The Company does not guarantee that Content will be included in the User's personalized selection.
+
+5.13.4. The User agrees that materials generated using AI Technologies may contain inaccuracies; the User is advised to access the sources of the materials by following the links in the relevant sections.
+
+5.13.5. AI Technologies are provided on an "as is" basis. The Company provides no warranties regarding the error-free or uninterrupted operation of the AI ​​Technology or any of its functions, or their suitability for the specific purposes and expectations of the User. Information generated by the AI ​​Technology does not represent any opinion, the position of the Company or other Users, or a statement of fact, and under no circumstances can it be construed as guidance or advice for making decisions or taking any actions.
+
+5.14 Zen reserves the right to automatically generate a selection of Content on the Service's main page, including, but not limited to, content that meets originality criteria and contains critical opinions from Users (hereinafter referred to as " Opinions "). Zen, at its sole discretion, generates a selection of Opinions, which may include User authors who are well-known experts in a specific field. Opinions are displayed in the Service based on the relevance of the information viewed by Users within the meaning of the Terms of Use of the "News on Zen" service, located at https://dzen.ru/legal/ru/news_termsofuse/index.html and united by a common theme.
+
+6. Rights and obligations of the Parties
+6.1. The Company does not guarantee and assumes no liability for the continuous or uninterrupted availability of the Service. The User acknowledges that the availability of the Service depends largely on the User's internet connection, computer, mobile phone, or other devices, as well as the Internet access plan chosen by the User.
+
+6.2. The User undertakes to use the Service solely for the purposes specified in the Terms.
+
+6.3. The User may not engage in any actions that may disrupt or cause a malfunction of the Service, or any actions aimed at circumventing any restrictions established by the Service, including, but not limited to, actions aimed at increasing the number of views of Content, including the use of any automated methods for reproducing impressions and clicks (multiple clicks, use of agent programs, etc.). If the User interferes with the normal functioning of the Service, the Company shall not be liable for any disruptions to the Service caused by such interference.
+
+6.4. The User is solely responsible for ensuring compliance with all applicable laws when using the Service, including the laws of the Russian Federation and the laws of the User's place of residence or the place where they perform legally significant actions in accordance with the Terms. If the User's use of any feature provided by the Service violates applicable laws, the User undertakes to refrain from using the Service.
+
+6.5. The Company may provide the Service under the name "Zen" or any other name, which may be changed from time to time. Regardless of the name under which the User was granted access to the Service, the User has no right to change and/or remove the name of the Service (if possible), copyright notices and other intellectual property rights, or any other references to the Company and/or its partners.
+
+6.6. If the User accesses the Service using services or software from third-party partners of the Company that enable access to the Service or its functions, such third-party partners of the Company may provide additional services and/or functions to the User. The User understands and agrees that the terms of use of such third-party services and/or functions are determined by the Company's partners, and the User undertakes to read and accept such terms before using such services and/or functions. In any such case, the User enters into a binding relationship with the relevant partner of the Company, and not with the Company. The Company does not guarantee and bears no liability to the User in connection with the use of such additional services and/or functions, including for their content and/or any information accessible through them.
+
+6.7. The User acknowledges and agrees that all copyrights, patent rights, trademark rights, trade secret rights, and other intellectual property rights in the Service belong to the Company and/or other rights holders. For the avoidance of doubt, by using the Service, the User does not acquire any rights to the Company's intellectual property, except for the rights to use said intellectual property, which are the minimum necessary for the User's use of the Service in accordance with the Terms.
+
+6.8. If you would like to file a complaint regarding the Content, you can use one of the forms available at https://dzen.ru/help/ru/abuse/list.html . Please follow the instructions and select the appropriate form based on the specifics of your complaint. For questions regarding the use or inability to use the Service, its functionality, and other similar issues, please contact support@dzen.ru .
+
+For questions regarding compliance with the Terms, please contact the Company's registered office address specified in Section 1.1 of the Terms. User requests will be processed within 30 calendar days, unless otherwise provided by Russian Federation law.
+The Company reserves the right to reject requests containing insults, threats, or obscene language.
+
+7. Modification and termination of the Terms
+7.1. The Company may change these Terms at any time. The current version of the Terms is located at: https://dzen.ru/legal/ru/termsofuse/index.html . By continuing to use the Service, the User is deemed to have accepted the new version of the Terms. If the User does not agree to the new version of the Terms, they must stop using the Service.
+
+7.2. The User may terminate their use of the Service at any time. If the User terminates their use of the Service, the Company may continue to process their information in accordance with the Privacy Policy.
+
+8. Disclaimer of warranties
+8.1 THE USER HEREBY UNDERSTANDS AND AGREES THAT THE USE OF THE SERVICE AND LINKS IS AT THE USER'S SOLE RISK AND THAT THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT ANY WARRANTIES OF ANY KIND TO THE GREATEST EXTENT PERMITTED BY APPLICABLE LAW.
+
+8.2. THE USER AGREES TO USE THE SERVICE AND LINKS AT HIS OR HER OWN DISCRETION AND RISK AND IS SOLELY RESPONSIBLE FOR ANY DAMAGE TO HIS OR HER COMPUTER, MOBILE DEVICE OR OTHER DEVICE OR LOSS OF DATA THAT RESULTS FROM SUCH USE.
+
+8.3. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE COMPANY HEREBY EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS, WITH RESPECT TO THE SERVICE, LINKS, OR THIRD-PARTY CONTENT CONTAINED ON LINKED WEBSITES.
+
+9. Protection from losses
+9.1. The User undertakes, at their own expense and independently, to settle and provide the Company, Zen Resources, the VK Group, their employees, and contractors with protection from any and all claims, suits, and/or complaints from third parties related to the User's actions when using the Service, as well as to ensure compensation for any losses and expenses (including, but not limited to, reasonable legal costs) caused by such claims, suits, and/or complaints.
+
+9.2. If the User's failure to comply/improper compliance with the requirements stipulated in paragraph 4.8 of the Terms results in losses to the Company, the User undertakes to compensate the Company for such losses within 5 (five) business days from the date the Company sends the relevant request via email and/or the Service interface.
+
+10. Limitation of Liability
+10.1. THE USER UNDERSTANDS AND AGREES THAT, TO THE GREATEST EXTENT PERMITTED BY APPLICABLE LAW, THE COMPANY, ZEN RESOURCES, VK GROUP, THEIR EMPLOYEES AND CONTRACTORS SHALL NOT BEAR ANY LIABILITY TO THE USER (INCLUDING UNDER CONTRACT, TORT OR ANY OTHER LEGAL BASIS) FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES THAT THE USER MAY INCUR IN RESULTING FROM THE USE OF THE SERVICE, LINKS OR THIRD-PARTY CONTENT, INCLUDING LOSS OF DATA, REGARDLESS OF WHETHER THE COMPANY, THE VK GROUP, THEIR EMPLOYEES OR CONTRACTORS OR THEIR REPRESENTATIVES HAD INFORMATION OR ASSUMED ABOUT SUCH DAMAGES.
+
+10.2. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE TOTAL AMOUNT OF DAMAGES THAT THE COMPANY, ZEN RESOURCES, VK GROUP, THEIR EMPLOYEES AND CONTRACTORS MAY BE REQUIRED TO PAY TO THE USER, AS WELL AS ANY OTHER LIABILITY OF THESE PERSONS TO THE USER, IN CONNECTION WITH THE USE OF THE SERVICE OR LINKS CANNOT EXCEED 1,000 (ONE THOUSAND) RUSSIAN RUBLES.
+
+11. Applicable law and dispute resolution
+11.1. These Terms (including any questions regarding their validity, performance, or termination) are governed by and construed in accordance with the laws of the Russian Federation, excluding its conflict of law provisions. In the event of a dispute arising out of or in connection with these Terms, the parties undertake to submit such dispute to a competent court in accordance with applicable law. Notwithstanding the foregoing, nothing in these Terms shall be construed as prohibiting the Company from seeking injunctive relief (or other similar immediate relief) in a competent court of any jurisdiction.
+
+12. Other Provisions
+12.1. The Terms constitute the entire legal agreement between the User and the Company with respect to their subject matter and supersede any prior agreements, written or oral, with respect to such subject matter.
+
+12.2 If any provision of the Terms is held by a court with jurisdiction to decide on such matter to be invalid or unenforceable, such provision will be deemed to be severed from the Terms without affecting the other provisions, which will remain in full force and effect.
+
+12.3. These Terms have been drawn up and shall be interpreted in Russian. In the event of any discrepancy between the Russian text of these Terms and a translated version, the Russian version shall prevail.
+
+12.4. The Company has the right to transfer and assign its rights and obligations under the Terms, as well as delegate their implementation or performance to third parties, without the User's consent. The User does not have the right to transfer or assign its rights and obligations under the Terms, or delegate their implementation or performance to third parties, without the Company's consent.
+
+12.5. Twemoji ( https://twemoji.twitter.com ) may be used in the Service interface . Their use is subject to:
+
+MIT License for the code: http://opensource.org/licenses/MIT ;
+
+Licensed under CC-BY 4.0 for graphic elements: https://creativecommons.org/licenses/by/4.0 .
+
+Twemoji Copyright 2020 Twitter, Inc. and other contributors.
+
+The terms of use of the Yandex search engine, which is located on the Service, are governed by the License for the Use of the Yandex Search Engine ( https://yandex.ru/legal/termsofuse ), Privacy Policy ( https://yandex.ru/legal/confidential ).
+
+Revision dated 12/17/2025
+
+Terms of Use for the Zen News Service
+1. General Provisions
+1.1 Limited Liability Company “VK” (hereinafter referred to as the “ Company ”) offers the Internet user (hereinafter referred to as the “ User ”) to use the “News on Zen” service, accessible at the address: https://dzen.ru/news (hereinafter referred to as the “ Service ”), as well as at the address: https://sportsdzen.ru/ , which displays the “Sports News” section of the Service.
+
+1.2. The terms of use of the Yandex search engine, which is located on the Service, are governed by the License for Use of the Yandex Search Engine https://yandex.ru/legal/termsofuse/ru/ and the Privacy Policy https://yandex.ru/legal/confidential .
+
+1.3. By using the Service or its individual functions, the User is deemed to have accepted these Terms, as well as the terms of all the above documents, in full, without any reservations or exceptions. If the User disagrees with any of the provisions of these documents, the User may not use the Service.
+
+1.4. These Terms and Conditions may be amended by the Company without notice. The new version of the Terms and Conditions shall take effect upon its posting online at the address specified in this paragraph, unless otherwise provided in the new version of the Terms and Conditions. The current version of the Terms and Conditions is always available at the following address: https://dzen.ru/legal/ru/news_termsofuse/index.html .
+
+1.5. If the Company makes any changes to these Terms, in accordance with the procedure provided in paragraph 1.4. of these Terms, with which the User does not agree, he/she is obliged to stop using the Service.
+
+1.6. The Service offers the User access to news information, as well as various photo, audio, and video materials from various sources. All currently existing functions of the Service, as well as any development and/or addition of new ones, are subject to these Terms.
+
+2. Use of the Service. Individual functions of the Service
+2.1. Information materials of any type and presentation, including text, images, photographs, audio, and video materials (collectively, " Information "), posted on the Service are provided by the Service's partners and contain a link to the source. A full list of copyright holders and information owners is available at:  https://dzen.ru/news/smi .
+
+2.2. Any information used in the Service is intended solely for non-commercial use. Any copying, reproduction, processing, distribution, or publication of the Information on the Internet, any use in the media or other sources, and/or for commercial purposes without the prior written permission of the copyright holder is prohibited, except as expressly provided in these Terms.
+
+2.3. The Company automatically indexes, annotates, and systematizes the Information provided by Service Partners to enable the User to search publicly available news information posted on the Internet, including that posted on the Partner's channel on the Zen Service, by providing RSS files. Except for the automatic annotation and systematization specified in this paragraph, the Company does not make any changes or corrections to the Information provided by Service Partners, nor does it produce or distribute any of its own Information within the Service. A Partner is understood to be a person who carries out information cooperation with the Company in accordance with the objectives and terms of the Agreement on Information Cooperation for the Media, available at: https://dzen.ru/legal/ru/media-agreement/index.html , or in accordance with the terms of the Agreement on Information Cooperation, available at: https://dzen.ru/legal/ru/agreement/index.html , for persons who do not have the status of a registered media outlet under the legislation of the Russian Federation.
+
+2.4. The Company reserves the right, at its sole discretion, to restrict the User's access to the Service (or to certain functions of the Service, if technologically feasible) using their account or to completely block the User's account in the event of repeated violation of these Terms, or to apply other measures to the User in order to comply with legal requirements or the rights and legitimate interests of third parties.
+
+3. Using NeuroDigest technologies
+3.1. The Service provides the User with the free opportunity to view news summaries in the format of coherent text generated using artificial intelligence technologies (hereinafter referred to as " Technology in Neuro mode" / " Technology ") based on several sources of publicly available news information united by a common theme, posted on the websites of the Service's Partners (hereinafter referred to as " NeuroDigest ").
+
+3.2. The User has the ability to disable the display of the Technology in Neuro or NeuroDigest mode using the Service's functionality.
+
+When accessing the Technology in the Neuro mode, third-party software provided under the terms of the MIT License, the text of which is located at: https://choosealicense.com/licenses/mit/ , is also used , the use of which is not subject to the regulation of these Terms.
+
+3.3. If the User believes that the content of materials in NeuroDigest, as well as the composition of sources, violates legal requirements and/or affects the rights and interests of third parties, he/she has the right to submit an appeal using the feedback forms located on the Service, or send an email to: news@dzen.ru .
+
+3.4. The Company does not guarantee the timeliness, accuracy, relevance, correctness, sufficiency, or completeness of the information contained in NeuroDigest. To verify news information contained in NeuroDigest, it is recommended to access the Partners' source website by following the links in the sources listed in NeuroDigest.
+
+3.5. The User understands that:
+
+3.5.1. The Company is not responsible for the content of the information in the NeuroDigest. The NeuroDigest is generated completely automatically, and the Company does not verify the accuracy of the automatically generated text using the Technology.
+
+3.5.2. The User must independently verify the accuracy, reliability, relevance, and legality of the news information contained in NeuroDigest before using it for their non-commercial purposes;
+
+3.5.3. The Service and Technology may be used by Users solely for personal, non-commercial purposes (i.e., without the purpose of making a profit);
+
+3.5.4. The content of NeuroDigest does not express the opinion of the Company, the Service and its employees;
+
+3.5.5. The technology may be used for reference and information purposes, and is not intended for use for the purpose of establishing legally significant facts, their confirmation or refutation, obtaining professional advice and expert opinions;
+
+3.5.6. By using NeuroDigest information for their own purposes, the User assumes all risks, including those associated with the violation of the exclusive rights of third parties.
+
+3.6. When using NeuroDigest news materials, it is prohibited to:
+
+3.6.1. use NeuroDigest news materials for purposes that contradict the requirements of applicable law, the provisions of these Terms and Conditions and the Regulatory Documents.
+
+3.7. Intellectual Property
+
+3.7.1. All rights to the Technology, including software, design and its individual elements, belong to the Company and other legal copyright holders.
+
+3.7.2. Any copying, reproduction, processing, distribution, dissemination to the public, or other use of NeuroDigest news materials without the prior consent of the Company is prohibited.
+
+3.8. Limitation of Liability
+
+3.8.1. The Technology is provided on an "as is" basis. The Company provides no warranties regarding the error-free or uninterrupted operation of the Technology or any of its individual functions, or the suitability of the Technology for the specific purposes and expectations of the User.
+
+3.8.2. Use of the Service/Technology by a minor is permitted with the knowledge, consent, and supervision of their legal representative, after the legal representative has read these Terms and fully accepted their provisions on their behalf. The Company does not guarantee that the Service/NeuroDigests will not contain information inappropriate for the age category of a minor.
+
+3.8.3. The relationship between the User and the Company regarding the provision of the Service/Technology by the Company is governed by the laws of the Russian Federation. If the User has any questions, complaints, or claims, they may communicate them through the feedback function in the Service.
+
+3.8.5. The Company does not compensate for any damages, including lost profits, moral harm, or other harm caused to the User or third parties as a result of their use of the Technology, including damages associated with making any decisions or actions based on information posted in NeuroDigests.
+
+3.8.6. The Company does not guarantee the timeliness, accuracy, reliability, relevance, correctness, sufficiency, or completeness of the information contained in the NeuroDigest, including its compliance with legislation and respect for third-party rights. The Company is not responsible for the content posted in NeuroDigests. To verify news information contained in the NeuroDigest, it is recommended to consult Partner sources by following the links in the sources to the relevant NeuroDigest.
+
+3.8.7. The Company is not obligated to moderate, review, or edit information and content posted on NeuroDigest and cannot guarantee that news information does not violate the provisions of these Terms and Regulatory Documents, legal acts, or the legislation of the Russian Federation.
+
+3.8.8. The Company is not responsible for the content of news information in NeuroDigest, or for the accuracy, relevance, or correctness of information received by the User through the Technology.
+
+3.8.9. Under no circumstances can the content of news information in NeuroDigest be regarded as the Company's position, guidance or advice when making decisions or taking any actions.
+
+3.8.10. In the part not regulated by and not in conflict with this section, the provisions of the Terms shall apply.
+
+Publication date 12/12/2025

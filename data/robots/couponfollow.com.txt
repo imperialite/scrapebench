@@ -1,0 +1,33 @@
+User-agent: *
+Disallow: /out/
+Disallow: /code/out/
+Disallow: /code/outm/
+Disallow: /code/go/
+Disallow: /promotion/out/
+Disallow: /promotion/outm/
+Disallow: /specialoffer/out/
+Disallow: /sites/
+Disallow: /old/
+Disallow: /test/
+Disallow: /webapi/
+Disallow: /landing/
+User-agent: 008		#www.80legs.com crawler
+Disallow: /		#block it entirely
+#www.ahrefs.com crawler
+user-agent: AhrefsBot   
+disallow: /
+User-agent: AdsBot-Google
+Allow: /
+Disallow: /out/
+Disallow: /code/out/
+Disallow: /code/outm/
+Disallow: /code/go/
+Disallow: /promotion/out/
+Disallow: /promotion/outm/
+Disallow: /site/out/
+Disallow: /specialoffer/out/
+Disallow: /sites/
+Disallow: /old/
+Disallow: /test/
+Disallow: /webapi/
+Sitemap: https://couponfollow.com/sitemaps/cf-index.xml

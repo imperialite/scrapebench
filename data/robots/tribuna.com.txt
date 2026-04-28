@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api
+Disallow: /_next/data/
+Disallow: /service-ping
+Sitemap: https://tribuna.com/sitemap.xml

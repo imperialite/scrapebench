@@ -1,0 +1,53 @@
+# robots.txt for http://www.aeropostale.com
+ 
+User-Agent: *
+Disallow: /*Cart-*
+Disallow: /cart
+Disallow: /cart$
+Disallow: /cart?*
+Disallow: /*Account-*
+Disallow: /*Checkout-*
+Disallow: /*COBilling-*
+Disallow: /shipping$
+Disallow: /shipping/
+Disallow: /shippingstart*
+Disallow: /billingaddress*
+Disallow: /shippingaddress*
+Disallow: /billing$
+Disallow: /billing/
+Disallow: /revieworder$
+Disallow: /orderconfirmation
+Disallow: /*Login-*
+Disallow: /search?q=*
+Disallow: /*order-tracking
+Disallow: /*pmax=*
+Disallow: /*pmin=*
+Disallow: /*prefn2*
+Disallow: /*prefn3*
+Disallow: /*prefn4*
+Disallow: /*prefn5*
+Disallow: /*prefv2*
+Disallow: /*prefv3*
+Disallow: /*prefv4*
+Disallow: /*srule=*
+Disallow: /*Search-Show*
+Disallow: /*Checkout-*
+Disallow: /*Login-*
+Disallow: /*Account-*
+Disallow: /*order-tracking
+Disallow: */search/*
+Disallow: *demandware.store/Sites-aeropostale-Site*
+Disallow: */Product-Variation*
+Disallow: /maintenance.html
+Disallow: /empty-content-test*
+Disallow: /empty-content-test.html
+
+#crawl restriction
+User-agent: Chrome 80.0.3987.149
+Disallow: /
+
+#Pinterestbot crawl rate
+User-agent: Pinterestbot
+Crawl-delay: 1
+
+Sitemap: http://www.aeropostale.com/sitemap_index.xml

@@ -1,0 +1,50 @@
+# ========================================================== # Maurices Robots.txt — AI & Search Optimized # Updated: January 2026 # ========================================================== # GLOBAL RULES: Applies to all bots unless specified below 
+User-agent: * 
+Disallow: /test/ 
+Disallow: /*search 
+Disallow: /*account/ 
+Disallow: /*cart 
+Disallow: /checkout 
+Disallow: /signin 
+Disallow: /sign-in # Endeca/ATG Search Traps 
+Disallow: *?N= 
+Disallow: *?No= 
+Disallow: *?Nr= 
+Disallow: *?Ntt= 
+Disallow: *?ref_page=recommendations 
+Disallow: *?bvroute= 
+Disallow: *?bvstate= 
+Disallow: *index=0* 
+Disallow: /baseAjaxServlet?pageId=SignInRequest 
+Disallow: /baseAjaxServlet?pageId=Rewards # ALLOWED AI/SEARCH BOTS: Explicitly listed to ensure inheritance # We replicate the disallows to ensure security for these specific agents.
+User-agent: GPTBot 
+User-agent: ChatGPT-User 
+User-agent: OAI-SearchBot 
+User-agent: Google-Extended 
+User-agent: GoogleOther 
+User-agent: Bingbot 
+User-agent: PerplexityBot 
+User-agent: ClaudeBot 
+User-agent: Claude-Web 
+User-agent: Applebot 
+User-agent: Applebot-Extended 
+User-agent: Amazonbot 
+User-agent: FacebookBot 
+User-agent: MetaAI 
+User-agent: XBot 
+User-agent: GrokBot # Re-apply security boundaries for the above bots 
+Disallow: /test/ 
+Disallow: /*account/ 
+Disallow: /*cart 
+Disallow: /checkout 
+Disallow: /signin 
+Disallow: /sign-in 
+Disallow: /baseAjaxServlet?pageId=SignInRequest 
+Disallow: /baseAjaxServlet?pageId=Rewards # RESTRICTED CRAWLERS 
+User-agent: Bytespider 
+User-agent: Omgilibot 
+User-agent: Diffbot 
+User-agent: DataForSeoBot 
+User-agent: CCBot 
+Disallow: / # REFERENCES 
+Sitemap: https://www.maurices.com/sitemap.xml AI-Access: https://www.maurices.com/llm.txt

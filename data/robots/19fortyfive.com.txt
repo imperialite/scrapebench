@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+
+Sitemap: https://www.19fortyfive.com/sitemap_index.xml

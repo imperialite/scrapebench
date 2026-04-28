@@ -1,0 +1,252 @@
+# --- 1. BOTS NOCIVOS (Bloqueo total) ---
+User-agent: UbiCrawler
+Disallow: /
+
+User-agent: DOC
+Disallow: /
+
+User-agent: Zao
+Disallow: /
+
+User-agent: sitecheck.internetseer.com
+Disallow: /
+
+User-agent: Zealbot
+Disallow: /
+
+User-agent: MSIECrawler
+Disallow: /
+
+User-agent: SiteSnagger
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: Fetch
+Disallow: /
+
+User-agent: Offline Explorer
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: linko
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: Microsoft.URL.Control
+Disallow: /
+
+User-agent: Xenu
+Disallow: /
+
+User-agent: larbin
+Disallow: /
+
+User-agent: libwww
+Disallow: /
+
+User-agent: ZyBORG
+Disallow: /
+
+User-agent: Download Ninja
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+
+# --- 2. CONFIGURACIÓN UNIFICADA PARA BUSCADORES ---
+User-agent: *
+
+# Assets para renderizado (Clave para Googlebot)
+Allow: /ads.txt
+Allow: /solomoto/clasificados/assets/css/
+Allow: /solomoto/clasificados/assets/js/
+Allow: /solomoto/clasificados/assets/images/
+Allow: /solomoto/clasificados/assets/fonts/
+Allow: /solomoto/clasificados/assets/vendor/
+
+# Disallow: /solomoto/clasificados/assets/js/imagenes.js
+Disallow: /solomoto/clasificados/assets/js/imagenes.min.js
+
+# SECCIÓN: CLASIFICADOS (SOLO MOTO)
+# Nota: Los 'Allow' específicos deben ir antes del 'Disallow' de la carpeta raíz
+Allow: /solomoto/clasificados/$
+Allow: /solomoto/clasificados/servicio-integral$
+Allow: /solomoto/clasificados/cambio-de-nombre$
+Allow: /solomoto/clasificados/mediacion-de-pago$
+Allow: /solomoto/clasificados/transporte$
+Allow: /solomoto/clasificados/encuentra-tu-moto$
+Allow: /solomoto/clasificados/quiero-comprar$
+Allow: /solomoto/clasificados/servicios$
+Allow: /solomoto/clasificados/calculadoras$
+Allow: /solomoto/clasificados/precios$
+Allow: /solomoto/clasificados/contacto$
+Allow: /solomoto/clasificados/quiero-vender$
+Allow: /solomoto/clasificados/soy-concesionario$
+Allow: /solomoto/clasificados/faqs$
+
+# Permitir URLs con patrones específicos (primer y segundo nivel)
+Allow: /solomoto/clasificados/b-
+Allow: /solomoto/clasificados/p-
+Allow: /solomoto/clasificados/c-
+Allow: /solomoto/clasificados/t-
+# Bloqueo de URLs con parámetros (Googlebot y otros que soporten wildcards)
+Disallow: /solomoto/clasificados/*?
+
+# Bloqueo general de la carpeta (va después de los Allow)
+Disallow: /solomoto/clasificados/
+
+# Bloqueos Técnicos e Internos
+Disallow: /methode-aside/*
+Disallow: /_aside/*
+Disallow: /_hemeroteca/*
+Disallow: /mvc/*
+Disallow: /apps/*
+Disallow: /_nickel/hyvor/comments-count*
+
+# Paths a no indexar (Contenido obsoleto o duplicado)
+Disallow: /resultados/*.asp
+Disallow: /md/monograficos/*
+Disallow: /elotromundo/actualidad/20160729/403555387030/detenido-espanol-agredia-gente-milan.html
+Disallow: /futbol/20160914/41301175017/celebrado-juicio-de-un-futbolista-sin-seguridad-social-que-pide-la-invalidez.html
+Disallow: /promociones/20170430/422036671902/mundo-deportivo-te-ofrece-una-coleccion-de-gafas-creepers-de-david-locco.html
+Disallow: /futbol/20160614/402499725161/un-futbolista-sin-seguridad-social-pide-la-incapacidad-tras-una-grave-lesion.html
+Disallow: /porra/
+Disallow: /md/
+Disallow: */cmpui-popup.js
+Disallow: /jugador/*
+Disallow: */la-liga-bbva
+Disallow: */fichajes?league*
+Disallow: *search-topics?*
+Disallow: /2007*
+Disallow: /2008*
+Disallow: /2009*
+
+# Loterías y Temporadas Antiguas
+Disallow: /loteria-nacional/2019*
+Disallow: /once/2019*
+Disallow: /bonoloto/2019*
+Disallow: /euromillones/2019*
+Disallow: /primitiva/2019*
+Disallow: /futbol/*/17-18/*
+Disallow: /baloncesto/*/17-18/*
+Disallow: /futbol/*/18-19/*
+Disallow: /baloncesto/*/18-19/*
+Disallow: /futbol/*/19-20/*
+Disallow: /baloncesto/*/19-20/*
+Disallow: /futbol/*/20-21/*
+Disallow: /baloncesto/*/20-21/*
+Disallow: /us/futbol/*/19-20/*
+Disallow: /us/baloncesto/*/19-20/*
+Disallow: /us/futbol/*/20-21/*
+Disallow: /us/baloncesto/*/20-21/*
+
+# SECCIÓN: RESULTADOS DEPORTIVOS
+Allow: /resultados-deportivos/game/30184/paris-saint-germain-internazionale
+Disallow: /resultados-deportivos/
+
+Disallow: /resultados/baloncesto/*/jornada*
+Disallow: /resultados/baloncesto/*/2*
+Disallow: /resultados/ciclismo/ciclista/*
+Disallow: /resultados/ciclismo/equipo/*
+Disallow: /resultados/ciclismo/*/etapa/*
+Disallow: /resultados/motor/*/2018
+Disallow: /resultados/motor/*/2017
+Disallow: /resultados/motor/*/2016
+Disallow: /resultados/motor/*/2015
+Disallow: /resultados/motor/*/2014
+Disallow: /resultados/motor/*/2013
+Disallow: /resultados/motor/*/2012
+Disallow: /resultados/motor/*/2011
+
+Allow: /resultados/tenis/wta/$
+Disallow: /resultados/tenis/wta/*
+Allow: /resultados/tenis/atp/$
+Disallow: /resultados/tenis/atp/*
+
+Disallow: /resultados/futbol/*/2012
+Disallow: /resultados/futbol/*/2013
+Disallow: /resultados/futbol/*/2014
+Disallow: /resultados/futbol/*/2015
+Disallow: /resultados/futbol/*/2016
+Disallow: /resultados/futbol/*/2017
+Disallow: /resultados/futbol/*/2018
+Disallow: /resultados/futbol/base/*
+Disallow: /resultados/futbol/regional/*
+
+Allow: /resultados/futbol/regional/categoria/tercera$
+Allow: /resultados/futbol/regional/categoria/tercera/grupo*
+Disallow: /resultados/futbol/regional/categoria/tercera/*/jornada*
+
+Allow: /resultados/futbol/regional/categoria/segundab$
+Allow: /resultados/futbol/regional/categoria/segundab/grupo*
+Disallow: /resultados/futbol/regional/categoria/segundab/*/jornada*
+
+Disallow: /resultados/futbol/premier-league/jornada*
+Disallow: /resultados/futbol/ligue-1/jornada*
+Disallow: /resultados/futbol/serie-a/jornada*
+Disallow: /resultados/futbol/bundesliga/jornada*
+Disallow: /resultados/futbol/championship-inglaterra/jornada*
+Disallow: /resultados/eredivisie-holandesa/jornada*
+Disallow: /resultados/primeira-liga-portuguesa/jornada*
+
+Allow: /resultados/futbol/fa-cup/calendario
+Disallow: /resultados/futbol/fa-cup/*
+Disallow: /resultados/futbol/coppa-italia/*
+Disallow: /resultados/futbol/dfb-pokal/*
+Disallow: /resultados/coupe-de-france/*
+Disallow: /resultados/futbol/chile/*
+Disallow: /resultados/futbol/liga-argentina-primera-division/jornada-*
+Disallow: /resultados/futbol/b-nacional-argentina/*
+Disallow: /resultados/futbol/peru/*
+Disallow: /resultados/futbol/venezuela/*
+Disallow: /resultados/futbol/liga-serie-a-brasil/
+Disallow: /resultados/futbol/brasil-campeonato-paulista/*
+Disallow: /resultados/futbol/brasil-campeonato-carioca/*
+Disallow: /resultados/futbol/copa-de-brasil/*
+Disallow: /resultados/futbol/uruguay/*
+Disallow: /resultados/futbol/copa-africa/
+
+# Otros Verticales
+Disallow: /alfabeta/*/;aspect-ratio
+Disallow: /alfabeta/*/aspect-ratio
+Disallow: /alfabeta/*/{{
+Disallow: /alfabeta/*/undefined$
+Disallow: /urbantecno/*/;aspect-ratio
+Disallow: /urbantecno/*/aspect-ratio
+Disallow: /urbantecno/*/{{
+Disallow: /urbantecno/*/undefined$
+Disallow: /marketmd/
+
+# SECCIÓN: TAGS (Paginación SEO)
+# Bloqueo general de paginación y allow explícito hasta page-10 (exacto)
+Disallow: /temas/*page-
+Allow: /temas/*page-1$
+Allow: /temas/*page-2$
+Allow: /temas/*page-3$
+Allow: /temas/*page-4$
+Allow: /temas/*page-5$
+Allow: /temas/*page-6$
+Allow: /temas/*page-7$
+Allow: /temas/*page-8$
+Allow: /temas/*page-9$
+Allow: /temas/*page-10$
+
+# --- 3. SITEMAPS ---
+https://www.mundodeportivo.com/solomoto/clasificados/sitemap-solomoto-clasificados.xml
+https://www.mundodeportivo.com/sitemap-news.xml

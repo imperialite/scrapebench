@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /ctrviews.html
+Disallow: /ctrclick.html
+Disallow: /contato/*/*/
+Disallow: /*ouvir.html
+Disallow: /adm/
+Disallow: /admin-box/
+Disallow: /eyeblaster*
+Disallow: /eyewonder/*.html
+Disallow: /atlas/atlas_*
+Disallow: /pointroll/*.htm
+Disallow: /pb_frame
+Disallow: /membros/ Sitemap: https://www.letras.com/sitemap_index_es.xml.gz

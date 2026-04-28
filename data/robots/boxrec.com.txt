@@ -1,0 +1,22 @@
+# Block all bots, (AdsBot-Google needs to be explicitly specified) from accessing old areas of the site
+User-agent: *
+User-agent: AdsBot-Google
+Disallow: /v6branch/
+Disallow: /v3/
+Disallow: /v51static/
+Disallow: /hu/
+Disallow: */watch/
+Disallow: /hugman/
+Disallow: /media/
+Disallow: /list_bouts.php
+Disallow: /show_display.php
+Disallow: /schedule.php
+Disallow: /search.php
+Disallow: /ratings.php
+Disallow: /title_search.php
+Disallow: */messagingPermissions*
+
+# Friendly, low-speed bots are welcome viewing wiki article pages, but not dynamically-generated pages please.
+Disallow: /wiki/index.php?*oldid=
+Disallow: /wiki/index.php?*action=edit
+Disallow: /wiki/index.php?*title=Special:

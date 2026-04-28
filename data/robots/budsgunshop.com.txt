@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /*/action/buy_now
+Disallow: /*/action/notify
+Disallow: /product_reviews_write.php
+Disallow: /*/q/ask
+Disallow: /account.php
+Disallow: /mobile/product_reviews_write.php
+Disallow: /account_history.php
+Disallow: /account_notifications.php
+Disallow: /account_password.php
+User-agent: Yandex
+User-agent: PowerMapper
+Allow: /
+Sitemap: https://www.budsgunshop.com/sitemaps/sitemap_map.xml
+Sitemap: https://www.budsgunshop.com/sitemaps/static/__sitemap_static.xml

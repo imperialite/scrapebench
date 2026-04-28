@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /results
+Disallow: /tools
+Disallow: /*?page=
+Disallow: /*&page=
+
+Sitemap: https://www.aldi.us/sitemap.xml
+Sitemap: https://www.aldi.us/sitemap_categories.xml
+Sitemap: https://www.aldi.us/sitemap_products.xml
+Sitemap: https://www.aldi.us/sitemap_stores.xml
+
+User-agent: MJ12bot
+User-agent: CazoodleBot
+User-agent: dotbot/1.0
+User-agent: Gigabot
+User-agent: AwarioSmartBot
+User-Agent: Brightbot 1.0
+Disallow: /

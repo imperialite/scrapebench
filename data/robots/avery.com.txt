@@ -1,0 +1,82 @@
+User-agent: *
+Disallow: /myaccount/
+Disallow: /about-us/legal/manage-data
+Disallow:/srch/
+Disallow:/srch
+Disallow:/rest
+Sitemap: https://www.avery.com/sitemap_index.xml
+Disallow:/custom-printing/employee/business-cards/avery/
+Disallow:/custom-printing/employee/business-cards/checkpoint/
+Disallow:/custom-printing/labels/calculator/hscg
+Disallow:/custom-printing/labels/calculator/blue-software
+Disallow:/custom-printing/labels/calculator/aiga
+Disallow:/custom-printing/labels/calculator/stand-up-pouches
+Disallow:/campaign/handcrafted-soap-and-cosmetic-guild
+Disallow:/campaign/blue-software
+Disallow:/campaign/aiga
+Disallow:/campaign/stand-up-pouches
+Disallow:/campaign/promotions
+Disallow:/custom-printing/labels/calculator/ghs-thermal-transfer/rolls/
+Disallow:/custom-printing/employee/business-cards/innoviafilms/
+Disallow:/custom-printing/labels/calculator/candlescience
+Disallow:/custom-printing/partners/candlescience*
+Disallow:/custom-printing/partners/aiga/
+Disallow:/custom-printing/partners/blue-software/
+Disallow:/custom-printing/partners/handcrafted-soap-and-cosmetic-guild/
+Disallow:/custom-printing/partners/stand-up-pouches*
+Disallow:/custom-printing/partners/elemental-container/
+Disallow:/custom-printing/labels/calculator/elemental-containers
+Disallow:/candlescience*
+Disallow:/blog/wp-admin
+Disallow:/blog/enigma
+Disallow:/testps/home
+Disallow:/averychatagent
+Disallow:/candledesigns-cs
+Disallow:/*?wpc=CANDLESC10-L3R6&utm_source=vanity&utm_campaign=candledesignslp
+Disallow:/custom-printing/partners/etsy*
+Disallow:/etsy*
+Disallow:/custom-printing/roll-labels/marijuana/
+Disallow:/custom-printing/campaigns/mjbizcon/
+Disallow:/custom-printing/labels/calculator/jstest
+Disallow:/custom-printing/index-jstest
+Disallow:/custom-printing/partners/handcrafted-soap-and-cosmetic-guild/waterproof-labels
+Disallow:/custom-printing/employee/business-cards/intouch/
+Disallow:/custom-printing/employee/business-cards/avery/
+Disallow:/custom-printing/employee/business-cards/checkpoint/
+Disallow:/custom-printing/employee/business-cards/innoviafilms/
+Disallow:/custom-printing/campaigns/affiliate/waterproof-labels
+Disallow:/custom-printing/campaigns/affiliate/any-size
+Disallow:/custom-printing/campaigns/affiliate/stickers10
+Disallow:/custom-printing/campaigns/affiliate/roll-labels
+Disallow:/awaterproof
+Disallow:/aanysize
+Disallow:/astickers10
+Disallow:/arolllabels
+Disallow:/custom-printing/campaigns/test-only*
+Disallow:/custom-printing/labels/calculator/stickers10*
+Disallow:/custom-printing/campaigns/makers/
+Disallow:/custom-printing/campaigns/hscg-cosmetics/
+Disallow:/custom-printing/partners/hawthornegc/
+Disallow:/custom-printing/campaigns/test-only/index2
+Disallow:/custom-printing/employee/business-cards/rfidhotel/
+Disallow:/custom-printing/partners/crowdspring/
+Disallow:/custom-printing/employee/business-cards/mastertag/
+Disallow:/custom-printing/roll-labels/print-for-you/
+Disallow:/custom-printing/customized-printing/custom-printed/
+Disallow:/custom-printing/partners/handcrafted-soap-and-cosmetic-guild/durable
+Disallow:/custom-printing/partners/crowdspring/crowdspring-stickers-lp
+Disallow:/campaign/exclusions
+Disallow: /custom-printing/partners/handcrafted-soap-and-cosmetic-guild/newshapes
+Disallow: /custom-printing/campaigns/superzoo
+Disallow: /custom-printing/campaigns/supplysidewest
+Disallow: /custom-printing/partners/flushpackaging/
+Disallow: /custom-printing/partners/naturallynetwork/
+Disallow: /industrial
+Disallow: /help/industrial/kb
+Disallow: /help/article/choosing-the-correct-label-size
+Disallow: /custom-printing/labels/stickers/stickers-lp/
+Disallow: /custom-printing/partners/containerandpackaging/
+Disallow: /um/signin.do
+Disallow: /custom-printing/custom-stickers/all-stickers/
+Disallow: /confirmsamples/
+Allow: /category/products/cards/*

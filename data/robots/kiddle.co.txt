@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /widget.php
+Disallow: /privacy.php
+Disallow: /m/
+Disallow: /s.php
+Disallow: /i.php
+Disallow: /c.php
+Disallow: /v.php
+Disallow: /k.php
+Disallow: /n.php
+
+User-agent: ia_archiver
+Disallow: /

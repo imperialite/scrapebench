@@ -1,0 +1,68 @@
+User-agent: Twitterbot
+Disallow:
+
+User-agent: *
+Disallow: /apps
+Disallow: /bal
+Disallow: /common
+Disallow: /doc/omni/bank-mart-cash-bonus-disclosure.pdf
+Disallow: /doc/omni/email-business-checking-disclosure.pdf
+Disallow: /doc/omni/email-checking-disclosure.pdf
+Disallow: /doc/omni/TC1.pdf
+Disallow: /dtm
+Disallow: /efs
+Disallow: /elqNow
+Disallow: /error
+Disallow: /external
+Disallow: /fifththird
+Disallow: /files
+Disallow: /foresee
+Disallow: /help
+Disallow: /images
+Disallow: /jwplayer
+Disallow: /mlo
+Disallow: /olb
+Disallow: /oos
+Disallow: /partials
+Disallow: /portal
+Disallow: /product
+Disallow: /quicken
+Disallow: /resources
+Disallow: /search
+Disallow: /sites
+Disallow: /style
+Disallow: /templatedata
+Disallow: /verisign
+Disallow: /wt
+Disallow: /www
+Disallow: /doc/omni
+Disallow: /content/fifth-third/en/partials
+Disallow: /content/fifth-third/en/testpages
+Disallow: /content/fifth-third/en/demo
+Disallow: /content/fifth-third/en/examples
+Disallow: /content/fifth-third/en/component-injector
+Disallow: /content/fifth-third/en/redirects
+Disallow: /content/fifth-third/en/archive
+
+# Specific Pages
+Disallow: /content/fifth-third/en/mkg/trio
+Disallow: /content/fifth-third/en/mkg/truly-simple
+Disallow: /content/fifth-third/en/personal-banking/bank/checking-accounts/better-checking
+Disallow: /content/dam/fifth-third/docs/legal/commercial_wire_and_ach_service_security_procedures.pdf
+Disallow: /content/dam/fifth-third/docs/legal/commercial_account_rules_march2018.pdf
+Disallow: /content/dam/fifth-third/docs/legal/terms_and_conditions_final.pdf
+Disallow: /content/fifth-third/en/personal-banking/planning/financial-calculators/72-online-signature-loan-calculator
+Disallow: /content/fifth-third/en/mkg/branch-offer
+
+# Specific Directories
+Disallow: /content/dam/fifth-third/ov
+Disallow: /content/dam/fifth-third/docs/reports
+Disallow: /content/dam/fifth-third/docs/education
+Disallow: /content/dam/fifth-third/rates
+Disallow: /content/dam/crisp
+Disallow: /content/experience-fragments
+Disallow: /content/dam/headless
+Disallow: /content/dam/personalization
+
+
+Sitemap: https://www.53.com/content/fifth-third/en.sitemap.xml

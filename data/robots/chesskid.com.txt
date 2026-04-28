@@ -1,0 +1,19 @@
+user-agent: *
+disallow: /_
+disallow: /cdn-cgi/
+disallow: /admin
+disallow: /api/
+disallow: /checkout/
+disallow: /home/
+disallow: /logout
+disallow: /slowchess/download_pgn
+disallow: /unsubscribe
+disallow: /callback/
+disallow: /web-callback/
+disallow: /cf-500s.html
+disallow: /analysis/
+disallow: /*/analysis/
+disallow: /ambassadors
+disallow: /documentation/
+
+sitemap: https://www.chesskid.com/sitemapindex.xml

@@ -1,0 +1,24 @@
+User-agent: archive.org_bot
+Disallow:/include
+Disallow:/scripts
+Disallow:/crs
+Disallow:/_private
+Disallow:/iisadmin
+Disallow:/srchadm
+Disallow:/advisory/members/
+Disallow:/idcf
+Disallow:/*print*
+Disallow:/schedule/archives/
+Disallow:/*.PDF$
+Disallow:/data.json
+
+Sitemap: https://www.bls.gov/sitemap.xml
+User-agent:*
+Disallow:/scripts  
+Disallow:/crs
+Disallow:/_private
+Disallow:/iisadmin
+Disallow:/srchadm
+Disallow:/advisory/members/
+Disallow:/idcf
+Disallow:/*print*

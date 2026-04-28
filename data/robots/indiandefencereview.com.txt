@@ -1,0 +1,33 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://indiandefencereview.com/wp-sitemap.xml
+
+Sitemap: https://indiandefencereview.com/sitemap-news.xml
+
+User-agent: 8LEGS
+User-agent: AhrefsBot
+User-agent: AspiegelBot
+User-agent: BLEXBot
+User-agent: Barkrowler
+User-agent: DotBot
+User-agent: MJ12bot
+User-agent: MauiBot
+User-agent: Nimbostratus-Bot
+User-agent: PetalBot
+User-agent: SemrushBot
+User-agent: SeznamBot
+User-agent: Sogou
+User-agent: serpstatbot
+User-agent: trendiction
+User-agent: TextBulkerBot
+Crawl-delay: 180
+Disallow: /wp-admin/
+User-agent: Amazonbot
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: cohere-ai
+User-agent: FacebookBot
+User-agent: Omgilibot
+Disallow: /

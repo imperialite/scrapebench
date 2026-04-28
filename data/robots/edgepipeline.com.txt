@@ -1,0 +1,13 @@
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+
+## what's the matter? you don't understand 404?
+#User-agent: Slurp
+#User-agent: msnbot
+#Disallow: /components/event
+
+# many of these components typically cannot be indexed anyway, since they require login, but some sites have public areas
+User-agent: *
+Disallow: /components/event
+Disallow: /components/report
+Disallow: /components/vehicle
+Disallow: /components/carfax

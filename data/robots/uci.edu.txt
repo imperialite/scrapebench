@@ -1,0 +1,6 @@
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: *
+Disallow: /people
+Disallow: /happening

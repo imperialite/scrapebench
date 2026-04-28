@@ -1,0 +1,211 @@
+Sitemap: https://www.cleveland.com/arc/outboundfeeds/rss-latest/?outputType=xml
+Sitemap: https://www.cleveland.com/arc/outboundfeeds/sitemap-index/?outputType=xml
+Sitemap: https://www.cleveland.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml
+Sitemap: https://www.cleveland.com/arc/outboundfeeds/sitemap-index-by-day/
+Sitemap: https://www.cleveland.com/arc/outboundfeeds/evg_updates/
+
+User-agent: *
+Disallow: /*?*sru=
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: ia_archiver-web.archive.org
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: heritrix
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: DuckAssistBot
+Disallow: /
+
+User-agent: meta-externalfetcher
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+ 
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-web
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-Agent: PerplexityBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-Agent: OAI-SearchBot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /home-beta/
+Disallow: /test/
+Disallow: /preview/
+Disallow: /staging/
+Disallow: /clients/
+Disallow: /auctions/
+Disallow: /cgi-bin/
+Disallow: /printer/
+Disallow: /*/print.html*
+Disallow: /*/print.ssf*
+Disallow: /landingpages/
+Disallow: /premium/
+Disallow: /contests/scrape/
+Disallow: /howard-hanna/
+Disallow: /hn/
+Disallow: /HyperNews/
+Disallow: /win/
+Disallow: /puzzles-palace/
+Disallow: /plain_dealer_syndication/
+Disallow: /plain-dealer-stories/
+Disallow: /toprailapp/
+Disallow: /newssun/2010/06/middleburg_heights_native_find.html
+Disallow: /*mt-preview-*
+Disallow: /puzzles-games/
+Disallow: /comics/
+Disallow: /puzzle-society/
+Disallow: /go-comics/
+Disallow: /comics-kingdom/
+
+User-agent: Googlebot
+Disallow: /home-beta/
+Disallow: /test/
+Disallow: /preview/
+Disallow: /staging/
+Disallow: /clients/
+Disallow: /auctions/
+Disallow: /cgi-bin/
+Disallow: /printer/
+Disallow: /*/print.html*
+Disallow: /*/print.ssf*
+Disallow: /landingpages/
+Disallow: /premium/
+Disallow: /contests/scrape/
+Disallow: /howard-hanna/
+Disallow: /seniorgames/
+Disallow: /hn/
+Disallow: /HyperNews/
+Disallow: /win/
+Disallow: /puzzles-palace/
+Disallow: /plain_dealer_syndication/
+Disallow: /plain-dealer-stories/
+Disallow: /toprailapp/
+Disallow: /newssun/2010/06/middleburg_heights_native_find.html
+Disallow: /*mt-preview-*
+Disallow: /puzzles-games/
+Disallow: /comics/
+Disallow: /puzzle-society/
+Disallow: /go-comics/
+Disallow: /comics-kingdom/
+
+User-agent: proximic
+Disallow: /home-beta/
+Disallow: /test/
+
+User-agent: Slurp
+Disallow: /home-beta/
+Disallow: /test/
+Disallow: /preview/
+Disallow: /staging/
+Disallow: /clients/
+Disallow: /auctions/
+Disallow: /cgi-bin/
+Disallow: /printer/
+Disallow: /*/print.html*
+Disallow: /*/print.ssf*
+Disallow: /landingpages/
+Disallow: /premium/
+Disallow: /contests/scrape/
+Disallow: /howard-hanna/
+Disallow: /seniorgames/
+Disallow: /hn/
+Disallow: /HyperNews/
+Disallow: /win/
+Disallow: /puzzles-palace/
+Disallow: /plain_dealer_syndication/
+Disallow: /plain-dealer-stories/
+Disallow: /toprailapp/
+Disallow: /newssun/2010/06/middleburg_heights_native_find.html
+Disallow: /*mt-preview-*
+Disallow: /puzzles-games/
+Disallow: /comics/
+Disallow: /puzzle-society/
+Disallow: /go-comics/
+Disallow: /comics-kingdom/
+
+User-agent: Twitterbot
+Disallow: /home-beta/
+Disallow: /test/
+Disallow: /preview/
+Disallow: /staging/
+Disallow: /clients/
+Disallow: /auctions/
+Disallow: /cgi-bin/
+Disallow: /printer/
+Disallow: /*/print.html*
+Disallow: /*/print.ssf*
+Disallow: /landingpages/
+Disallow: /premium/
+Disallow: /contests/scrape/
+Disallow: /howard-hanna/
+Disallow: /hn/
+Disallow: /HyperNews/
+Disallow: /win/
+Disallow: /puzzles-palace/
+Disallow: /plain_dealer_syndication/
+Disallow: /plain-dealer-stories/
+Disallow: /toprailapp/
+Disallow: /newssun/2010/06/middleburg_heights_native_find.html
+Disallow: /*mt-preview-*
+Disallow: /puzzles-games/
+Disallow: /comics/
+Disallow: /puzzle-society/
+Disallow: /go-comics/
+Disallow: /comics-kingdom/
+
+User-agent: *
+Disallow: /digitalsubscription/imagedownload/
+Disallow: /gambling-promos/
+Disallow: /reckon/

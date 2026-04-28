@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: ?acc=*
+Disallow: /search?keyword=*
+Disallow: /api/*
+Disallow: /account/review/add
+Disallow: /account/review/like
+Disallow: /auth/*
+Disallow: /callback/*
+User-agent: Mediapartners-Google
+Allow: /
+Sitemap: https://findnovel.net/sitemap.xml

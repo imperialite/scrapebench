@@ -1,0 +1,187 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+#
+# For syntax checking, see:
+# http://www.sxw.org.uk/computing/robots/check.html
+
+
+User-agent: *
+Crawl-delay: 10
+
+# PWA
+
+# Directories
+Disallow: /public/
+Disallow: /static/
+# Path
+Disallow: /login
+Disallow: /signin
+Disallow: /register
+Disallow: /logout
+Disallow: /login/facebook
+Disallow: /login/facebook/*
+Disallow: /styleguide/*
+Disallow: /healthz
+Disallow: /.well-known/*
+Disallow: /*/firebase-messaging-sw.js
+Disallow: /google97d8d43559c9b155.html
+
+# CSS, JS, Image
+Allow: /static/*.css$
+Allow: /static/*.css?
+Allow: /static/*.js$
+Allow: /static/*.js?
+Allow: /static/*.gif
+Allow: /static/*.jpg
+Allow: /static/*.jpeg
+Allow: /static/*.png
+Allow: /public/*.css$
+Allow: /public/*.css?
+Allow: /public/*.js$
+Allow: /public/*.js?
+Allow: /public/*.gif
+Allow: /public/*.jpg
+Allow: /public/*.jpeg
+Allow: /public/*.png
+
+# Directories
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+# Files
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+Disallow: /INSTALL.mysql.txt
+Disallow: /INSTALL.pgsql.txt
+Disallow: /INSTALL.sqlite.txt
+Disallow: /install.php
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /MAINTAINERS.txt
+Disallow: /update.php
+Disallow: /UPGRADE.txt
+Disallow: /xmlrpc.php
+Disallow: /sites/default/files/*.pdf
+Disallow: /sites/default/files/*.doc
+Disallow: /sites/default/files/*.docx
+Disallow: /sites/default/files/*.swf
+Disallow: /sites/default/files/styles/*.jpg
+Disallow: /_next/data/*.json
+
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips/
+Disallow: /node/add/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+Disallow: *?destination=*
+Disallow: /ajax_comments/
+Disallow: /scmp_comments/
+Disallow: *Article_type=*
+Disallow: *field_article*
+Disallow: /label/
+Disallow: /node/*/nodequeue
+Disallow: /node/*/edit
+Disallow: /ajax
+Disallow: /ajax/*
+Disallow: /facebook-instant-articles/feed/*
+Disallow: /epaper
+Disallow: /epaper/*
+Disallow: /story/style/*
+
+# Paths (no clean URLs)
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=filter/tips/
+Disallow: /?q=node/add/
+Disallow: /?q=user/password/
+Disallow: /?q=user/register/
+Disallow: /?q=user/login/
+Disallow: /?q=user/logout/
+Disallow: /?q=node/*/edit
+Disallow: /?q=node/*/nodequeue
+Disallow: /?q=epaper
+Disallow: /?q=epaper/*
+Disallow: /?q=facebook-instant-articles/feed/*
+
+Disallow: /*/logSend$
+Disallow: /*/spmException$
+Disallow: /*/spmact$
+Disallow: /*/antiSpam$
+Disallow: /*/nameStorage$
+Disallow: /*/spmMonitor$
+Disallow: /*/pvData$
+Disallow: /*/goldlog$
+Disallow: /*/initLoad$
+Disallow: /*/beforeUnload$
+Disallow: /*/util$
+Disallow: /*/metaInfo$
+Disallow: /*/beaconBase$
+Disallow: /*/spm$
+Disallow: /*/makeid$
+Disallow: /*/referrer$
+Disallow: /*/pvid$
+Disallow: /*/etag$
+Disallow: /*/iframe$
+Disallow: /*/client$
+Disallow: /*/windvane$
+Disallow: /*/cookie$
+Disallow: /*/sendpv$
+Disallow: /*/personality/index$
+Disallow: /*/misc$
+Disallow: /*/client$
+Disallow: /*/log$
+Disallow: /*/compose$
+Disallow: /*/lib_b/*$
+Disallow: /print/
+Disallow: /?q=print/
+
+# NewsNow
+User-agent: NewsNow
+Allow: /print/
+Allow: /?q=print/
+
+# GrapeShot
+User-agent: grapeshot
+Allow: /*/article/*$
+
+# Ads
+Disallow: /*?*cid=*
+Disallow: /*?*showonlyads=*
+Disallow: /*?*nograpeshot=*
+Disallow: /*?*noixwrapper=*
+Disallow: /*?*nogtm=*
+Disallow: /*?*nochartbeat=*
+Disallow: /*?*noga=*
+Disallow: /*?*nomoatyi=*
+Disallow: /*?*nomoat=*
+
+# Bot score and country
+Disallow: /navigator-info
+
+# Disallow article with query params and everything with campaign for google bot
+User-agent: Googlebot
+Disallow: /*?*campaign=*
+
+# Sitemap
+
+Sitemap: https://www.scmp.com/sitemap/sitemap.xml
+Sitemap: https://www.scmp.com/sitemap/archives-0.xml

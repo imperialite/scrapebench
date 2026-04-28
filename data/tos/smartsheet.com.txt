@@ -1,0 +1,309 @@
+Smartsheet User Agreement | Smartsheet
+Skip to main content
+Smartsheet User Agreement
+BY ACCEPTING ELECTRONICALLY, OR ENTERING INTO AN ORDER THAT INCORPORATES, THIS USER AGREEMENT (“
+Agreement
+”), THE INDIVIDUAL OR LEGAL ENTITY (“
+Customer
+”) AGREES THE TERMS AND CONDITIONS OF THIS AGREEMENT GOVERN CUSTOMER’S ACCESS TO AND USE OF SMARTSHEET INC. ("
+Smartsheet
+") SERVICES. THIS AGREEMENT IS EFFECTIVE AS OF THE DATE OF SUCH ACCEPTANCE OR EXECUTION (“
+Effective Date
+”).
+ANY INDIVIDUAL AGREEING TO BE BOUND BY THIS AGREEMENT ON BEHALF OF A LEGAL ENTITY REPRESENTS THAT SUCH INDIVIDUAL HAS THE AUTHORITY TO BIND SUCH ENTITY TO THE TERMS AND CONDITIONS OF THE AGREEMENT.
+CUSTOMER WILL NOT ACCESS OR USE THE SERVICES WITHOUT PRIOR WRITTEN CONSENT FROM SMARTSHEET IF CUSTOMER IS, BECOMES, OR IS ACTING ON BEHALF OF A DIRECT COMPETITOR TO SMARTSHEET OR ITS AFFILIATES.
+1.      Access and Use.
+1.1
+Right to Access and Use
+. Subject to the terms and conditions of this Agreement and in consideration of the fees specified in any Order, Smartsheet hereby grants Customer a worldwide, non-exclusive, non-transferable right to access and use Smartsheet’s Services, and any other Smartsheet Properties made available by Smartsheet to Customer for use with such Services, during the Term and for Customer’s own business purposes. Users may exercise use and access rights granted to Customer under this Agreement.
+1.2
+Restrictions
+. Customer will access and use the Smartsheet Properties in compliance with this Agreement and applicable laws and regulations. Access to and use of Smartsheet Properties is subject to the applicable restrictions and limitations specified in an Order, Documentation, and Smartsheet’s Policies published as of the Term’s start date. Without limiting the foregoing, Customer will not: (a) commercially sell, resell, license, sublicense, distribute, or frame the Smartsheet Properties; or (b) use technology, processes, or other means to provide access to and use of Smartsheet Properties to more than one individual under a set of User login credentials. Customer will promptly notify Smartsheet of any known unauthorized access to or use of Smartsheet Properties. Customer is responsible for Users’ access to and use of the Smartsheet Properties. Any restriction or limitation on, or representation or warranty regarding, Customer’s access and use under this Agreement is deemed to apply to Users.
+2.     Processing of Customer Content.
+2.1
+Processing
+. Customer represents and warrants that it has all rights, permissions, and consents necessary to: (a) submit all Customer Content to the Services; and (b) grant Smartsheet the limited rights to process Customer Content as set forth herein. Customer hereby grants Smartsheet a worldwide, non-exclusive, non-transferable right to use and otherwise process Customer Content on behalf of Customer under this Agreement: (w) to provide, support, or optimize the Services; (x) as required by applicable law; (y) as requested by Customer in writing or as permitted by Customer via a Service’s access controls; or (z) as necessary to prevent or address technical problems with the Services or violations of this Agreement. Smartsheet’s right to process Customer Content will not excuse any obligation of Smartsheet relating to Customer Content under this Agreement.
+2.2
+Security
+. Smartsheet has implemented and will maintain information security practices and safeguards as described in the
+Security Practices
+(available on the Site), which include physical, organizational, and technical measures designed to secure and preserve the integrity and confidentiality of the Services and Customer Content and to protect against information security threats. Smartsheet may update the
+Security Practices
+from time to time, on condition that the update does not materially reduce the overall level of security or commitments as described therein.
+2.3
+Privacy
+. Unless otherwise agreed by the parties in writing, the terms and conditions of the
+Data Processing Addendum
+(available on the Site, "
+DPA
+") published as of the Term’s start date govern Smartsheet’s processing of personal data contained within Customer Content.
+2.4
+Use of Third Parties
+. Smartsheet may engage third parties to act on Smartsheet’s behalf in connection with Smartsheet’s provision of the Services, on condition that: (a) such third parties are subject to applicable confidentiality and data security obligations that are substantially as protective as those set forth in this Agreement; and (b) Smartsheet is responsible for such third parties’ acts and omissions in relation to Smartsheet’s obligations under this Agreement. Unless otherwise agreed by the parties in writing, third parties engaged to process Customer Content on behalf of Smartsheet are identified on the
+Smartsheet Subprocessors
+page (available on the Site).
+3.      Intellectual Property and Proprietary Rights.
+3.1
+Smartsheet
+. As between the parties, all right, title, and interest in and to Smartsheet Properties and Smartsheet’s Confidential Information is owned by Smartsheet notwithstanding any other provision of this Agreement. Except as expressly set forth in this Agreement, Smartsheet does not convey any right, title, or interest in or to Smartsheet Properties or Smartsheet’s Confidential Information.
+3.2
+Customer
+. As between the parties, Customer retains all its right, title, and interest in and to Customer Content and Customer’s Confidential Information, and all intellectual property and proprietary rights therein. Except as expressly set forth in this Agreement, Smartsheet acquires no right, title, or interest from Customer in or to Customer Content or Customer’s Confidential Information.
+3.3
+Feedback
+. Customer grants Smartsheet a worldwide, irrevocable, perpetual, sublicensable, transferable, non-exclusive license to use and incorporate into Smartsheet’s products and services any feedback or suggestions for enhancement or remediation that Customer or a User provides to Smartsheet (“
+Feedback
+”), without any obligation of compensation. Smartsheet acknowledges that Feedback is provided “as-is” and without representations or warranties, either express or implied, including any warranties of merchantability or fitness for a particular purpose.
+4.      Ancillary Services; Third Party Products.
+4.1
+Professional Services
+. Smartsheet and Customer may enter into an Order under this Agreement for the provision of Professional Services.  Professional Services are separate from the online Services even if purchased under the same Order.
+4.2
+Smartsheet API
+. Smartsheet may make an application programming interface or other similar development tools available for use with an online Service which establishes an interface with such Service (“
+Smartsheet API
+”). Unless Customer and Smartsheet have entered into Smartsheet's separate developer agreement and Smartsheet has provided Customer with an application ID for authentication purposes, Customer will not use or enable a third party to use any Smartsheet API to access Smartsheet assets or accounts not otherwise controlled by Customer.
+4.3
+Free Services
+. Smartsheet may make a Service available with a clear and conspicuous written notice specifying that the Service is provided free of charge, on a trial basis, or to be used at your own risk (“
+Free Services
+”). Notwithstanding any other provision of this Agreement: (a) Free Services are made available without any support, maintenance, warranty, commitment to availability, security, or accuracy; or other related obligation of any kind under this Agreement, unless otherwise required by applicable law; (b) Free Services may not include or permit access to all features and functionality available to paying customers; (c) Smartsheet may terminate the use of a Free Service at any time unless otherwise agreed by the parties in writing, and Smartsheet will not be liable for such termination; (d) data, information, and content submitted to a Free Service may be permanently lost, and Smartsheet will not be liable for such loss; and (e) if Customer has not provided a billing address to Smartsheet in connection with its access to and use of Free Services, Customer agrees to receive all written notices under this Agreement via email.
+4.4
+Third Party Products
+. If Customer separately procures or Smartsheet resells to Customer any services, applications, or online content provided or controlled by a third party for use with the Services (“
+Third Party Products
+”), such use is subject to the end-user license or use agreement that Customer establishes with or accepts from the third party and any such resale payment owed to Smartsheet is subject to Section 9 (Commercial) of this Agreement. Smartsheet makes no representations or warranties regarding any Smartsheet Properties’ compatibility or integration with a Third Party Product, including any updates thereto. Third Party Products are not Services and, as between the parties, Smartsheet has no liability with respect to Customer’s procurement or use of Third Party Products.
+5.      Confidentiality.
+5.1
+Confidential Information
+. “
+Confidential Information
+” means all non-public, proprietary, business, technical, legal, or financial information disclosed or learned in connection with this Agreement that the Disclosing Party has identified as confidential at the time of disclosure or that, based on the nature of the information or circumstances surrounding its disclosure, the Receiving Party would clearly understand as confidential. Confidential Information of Smartsheet includes Smartsheet Properties and Confidential Information of Customer includes Customer Content. Notwithstanding the foregoing definition, Confidential Information does not include: (a) information that was generally known to the public at the time disclosed to the Receiving Party; (b) information that becomes generally known to the public (other than through a breach of Section 5 (Confidentiality) by the Receiving Party) after disclosure to the Receiving Party; (c) information that was in the Receiving Party’s possession free of any obligation of confidentiality prior to disclosure by the Disclosing Party; (d) information that is rightfully received by the Receiving Party from a third party without any restriction on disclosure; or (e) information that was independently developed by the Receiving Party without reference to or use of Disclosing Party’s Confidential Information. The disclosure of Confidential Information by the Disclosing Party to the Receiving Party does not grant or convey any right of ownership in or to such Confidential Information.
+5.2
+Obligations
+. The Receiving Party will: (a) not use the Disclosing Party’s Confidential Information for any purpose except as expressly permitted under this Agreement; (b) not disclose, give access to, or distribute any of the Disclosing Party’s Confidential Information to any third party, except to the extent expressly authorized in this Agreement or a separate written agreement signed by the Disclosing Party; and (c) take reasonable security precautions (which are at least as protective as the precautions it takes to preserve its own Confidential Information of a similar nature) to safeguard the Disclosing Party’s Confidential Information. The Receiving Party will promptly notify the Disclosing Party in writing upon discovery of any unauthorized disclosure or use of the Disclosing Party’s Confidential Information, or any other breach of Section 5, by it or its employees, directors, Affiliates, advisors, agents, contractors, and other representatives (“
+Representatives
+”). The Receiving Party’s obligations set forth in Section 5 will remain in effect during the Term and for three (3) years after termination of this Agreement.
+5.3
+Permitted Disclosures
+. The Receiving Party may disclose Confidential Information to its Representatives who need to know such information to exercise the Receiving Party’s respective rights and obligations hereunder, on condition that each such Representative is bound to protect the Confidential Information by confidentiality obligations substantially as protective as those set forth in this Agreement. The Receiving Party is responsible for its Representatives’ disclosure or use of the Disclosing Party’s Confidential Information in violation of Section 5 (Confidentiality). The Receiving Party may disclose Confidential Information to the extent required by law or legal process, on condition that the Receiving Party (unless prohibited by law or legal process): (a) gives the Disclosing Party prior written notice of such disclosure to afford the Disclosing Party a reasonable opportunity to appear, object, and obtain a protective order or other appropriate relief regarding such disclosure; (b) uses diligent efforts to limit disclosure to that which is legally required; and (c) reasonably cooperates with the Disclosing Party, at the Disclosing Party’s expense, in its efforts to obtain a protective order or other legally available means of protection.
+5.4
+Return and Deletion
+. Upon written request by the Disclosing Party to return or delete Confidential Information, the Receiving Party will, without undue delay: (a) either return or, as appropriate, destroy all tangible documents and media in its possession or control that contain the Disclosing Party’s Confidential Information; (b) delete electronically stored Confidential Information of the Disclosing Party in its possession or control; and (c) certify its compliance with this Section 5.4 in writing. Notwithstanding the foregoing: (x) the Receiving Party may retain Confidential Information of the Disclosing Party that is contained in an archived computer system backup made in accordance with the Receiving Party's legal and financial compliance obligations or security and disaster recovery procedures, on condition that such retained Confidential Information remains subject to Section 5 (Confidentiality); and (y) Smartsheet will return and delete Customer Content as set forth in Section 10.4 (Return and Deletion of Customer Content).
+5.5
+Remedies
+. The Receiving Party acknowledges that any actual or threatened breach of Section 5 (Confidentiality) may cause irreparable, non-monetary injury to the Disclosing Party, the extent of which may be difficult to ascertain. Accordingly, the Disclosing Party is entitled to (but not required to) seek injunctive relief to prevent or mitigate any breaches of Section 5 with respect to the Disclosing Party’s Confidential Information or any damages that may otherwise result from those breaches.
+6.      Representations and Warranties.
+6.1
+Authority and Compliance Warranty
+. Smartsheet represents and warrants that it has the necessary authority to enter into this Agreement. Smartsheet represents and warrants that it will comply with United States laws and regulations: (a) to the extent such laws and regulations apply to Smartsheet’s provision of the Services under this Agreement; and (b) without regard to Customer’s particular use of the Services or the applicability of any laws or regulations specific to Customer or its industry.
+6.2
+Limited Warranty for Subscription Services
+. Smartsheet represents and warrants that the Subscription Services will operate during the applicable Term substantially as described in the applicable Documentation. Upon receipt of Customer’s written notice of an alleged failure to comply with this warranty, Smartsheet will use commercially reasonable efforts to cure or correct the failure. If Smartsheet has not cured or corrected the failure within thirty (30) days following its receipt of such notice, then Customer may terminate the applicable Subscription Services and Smartsheet will issue a refund of prepaid fees covering the terminated portion of such Subscription Services. Notwithstanding the foregoing, this warranty will not apply to any failure due to a defect in or modification of a Subscription Service that is caused or made by Customer, any User, or any person acting at Customer’s direction. This Section 6.2 sets forth Customer’s exclusive rights and remedies and Smartsheet’s sole liability in connection with this warranty.
+6.3
+Limited Warranty for Professional Services
+. Smartsheet represents and warrants that Professional Services will be provided in a competent and workmanlike manner in accordance with the applicable Order. Upon receipt of Customer’s written notice of an alleged failure to comply with this warranty no later than thirty (30) days following the completion of Professional Services, Smartsheet will either: (a) use commercially reasonable efforts to cure or correct the failure; or (b) terminate such Professional Services and issue a refund of prepaid fees covering the terminated portion of the Professional Services. This Section 6.3 sets forth Customer’s exclusive rights and remedies and Smartsheet’s sole liability in connection with this warranty.
+6.4
+Disclaimer
+. EXCEPT FOR THE REPRESENTATIONS AND WARRANTIES EXPRESSLY STATED IN THIS AGREEMENT, SMARTSHEET MAKES NO REPRESENTATIONS AND DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, SMARTSHEET SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, COMPLIANCE WITH LAWS, NON-INFRINGEMENT, AND ACCURACY, AND SMARTSHEET DOES NOT WARRANT THAT THE SERVICES OR THIRD-PARTY APPLICATIONS AND SERVICES WILL BE ERROR-FREE OR OPERATE WITHOUT INTERRUPTIONS OR DOWNTIME.
+7.      Third Party Claims.
+7.1
+By Smartsheet
+. Smartsheet will defend Customer and its respective officers, directors, and employees (“
+Customer Parties
+”) from and against any claims, demands, proceedings, investigations, or suits brought by a third party alleging that Customer’s use of the Services or Customizations in accordance with this Agreement infringes any third party intellectual property rights (each, a “
+Claim Against Customer
+”). Smartsheet will indemnify Customer Parties for any finally awarded damages or settlement amount approved by Smartsheet in writing to the extent arising from a Claim Against Customer, and any reasonable attorneys’ fees of Customer associated with providing written notice of a Claim Against Customer to Smartsheet. Notwithstanding the foregoing, Smartsheet has no obligation or liability under this Section 7.1 to the extent any Claim Against Customer arises from: (a) Customer’s use of the Services or Customizations in combination with technology or services not provided by Smartsheet if the Services or Customizations or use thereof would not infringe without such combination; (b) Customer Content; (c) Smartsheet’s compliance with designs, specifications, or instructions provided in writing by Customer if such infringement would not have occurred but for such designs, specifications, or instructions; or (d) use of the Services or Customizations by Customer after notice by Smartsheet to discontinue use. If Customer is enjoined or otherwise prohibited from using any of the Services or Customizations or a portion thereof based on a Claim Against Customer, then Smartsheet will, at Smartsheet’s sole expense and option, either: (x) obtain for Customer the right to use the allegedly infringing portions of the Service or Customizations; (y) modify the allegedly infringing portion of the Service or Customizations so as to render it non-infringing without substantially diminishing or impairing its functionality; or (z) replace the allegedly infringing portions of the Service or Customizations with non-infringing items of substantially similar functionality. If Smartsheet determines that the foregoing remedies are not commercially reasonable or possible, then Smartsheet will terminate the applicable Order and issue a refund of prepaid fees covering the terminated portion of the applicable Service.
+7.2
+By Customer
+. To the extent permitted by applicable law, Customer will defend Smartsheet and Smartsheet’s Affiliates providing the Services, and their respective officers, directors, and employees (“
+Smartsheet Parties
+”) from and against any claims, demands, proceedings, investigations, or suits brought by a third party arising out of Customer Content or Customer’s use of Smartsheet Properties in violation of applicable law (each, a “
+Claim Against Smartsheet
+”). Customer will indemnify Smartsheet Parties for any finally awarded damages or settlement amount approved by Customer in writing to the extent arising from a Claim Against Smartsheet, and any reasonable attorneys’ fees of Smartsheet associated with providing written notice of a Claim Against Smartsheet.
+7.3
+Conditions
+. A party’s obligations to defend a Claim Against Customer or a Claim Against Smartsheet (each, a “
+Claim
+”) and indemnify under Section 7 (Third Party Claims) are conditioned on the other party: (a) providing timely written notice of the Claim to the defending party; (b) giving the defending party the right to fully control the defense and settlement of the Claim provided, however, that any settlement unconditionally releases Customer Parties or Smartsheet Parties subject to the Claim of all liability and does not, without the other party’s prior written consent, make any admissions on behalf of or include payment of any amounts by the other party; and (c) at the defending party’s expense and request, cooperating as necessary to defend the Claim. Subject to the foregoing, the party seeking defense of a Claim may join in the defense at its sole expense with its own counsel. Section 7 sets forth the defending party’s sole liability, and the other party’s exclusive remedy, for any type of Claim described in Section 7.
+8.      Limitations of Liability.
+TO THE EXTENT PERMITTED BY LAW, NEITHER PARTY WILL BE LIABLE FOR ANY LOST PROFITS, GOODWILL, OR REVENUES OR FOR ANY INCIDENTAL, CONSEQUENTIAL, SPECIAL, INDIRECT, COVER, BUSINESS INTERRUPTION, OR PUNITIVE DAMAGES IN CONNECTION WITH ANY CLAIM OF ANY NATURE, WHETHER IN CONTRACT, TORT, OR UNDER ANY THEORY OF LIABILITY, ARISING UNDER THIS AGREEMENT, EVEN IF A PARTY HAS BEEN GIVEN ADVANCE NOTICE OF SUCH POSSIBLE DAMAGES OR IF A PARTY’S REMEDY OTHERWISE FAILS OF ITS ESSENTIAL PURPOSE.
+TO THE EXTENT PERMITTED BY LAW, EACH PARTY’S ENTIRE LIABILITY AND OBLIGATIONS UNDER THIS AGREEMENT WILL NOT EXCEED THE FEES PAID BY CUSTOMER TO SMARTSHEET UNDER THIS AGREEMENT FOR THE SERVICES GIVING RISE TO THE LIABILITY DURING THE TWELVE (12) MONTHS PRIOR TO THE DATE ON WHICH THE LIABILITY AROSE. THE EXISTENCE OF MORE THAN ONE CLAIM WILL NOT ENLARGE THIS LIMIT.
+THE FOREGOING EXCLUSIONS AND LIMITS IN THIS SECTION 8 DO NOT APPLY TO LIABILITY OR OBLIGATIONS ARISING UNDER SECTIONS 1.2 (RESTRICTIONS) OR 7 (THIRD PARTY CLAIMS), INFRINGEMENT OR MISAPPROPRIATION BY A PARTY OF THE OTHER PARTY’S INTELLECTUAL PROPERTY RIGHTS, OR CUSTOMER’S OBLIGATION TO PAY FOR SERVICES OR TAXES UNDER THIS AGREEMENT.
+9.      Commercial.
+9.1
+Fees and Expenses
+. All Orders are non-cancelable and Service fees are non-refundable. Smartsheet will invoice online Service fees on an annual basis in advance. Online Service fees may also accrue during the Term based on Customer’s provision of Users or their use of the online Services and will be invoiced according to the applicable Order and Documentation.  Smartsheet will invoice Professional Service fees on a time and materials basis monthly in arrears. Customer will reimburse Smartsheet for reasonable, out-of-pocket expenses incurred by Smartsheet while providing Professional Services in accordance with Smartsheet’s
+Travel and Expense Policy
+. Except as prohibited by law, Smartsheet may charge Customer a late fee of one and one-half percent (1.5%) per month on past due amounts and a recovery fee equal to the total expense attributable to engaging a third party to collect such past due amounts.
+9.2
+Payment
+. Unless otherwise agreed by the parties in writing, all amounts due under this Agreement or an Order will be paid by Customer in United States dollars net thirty (30) days from the date of the invoice. Customer will remit payments by only electronic means (including by wire, ACH or, for amounts less than $25,000 USD, by credit card), with a notation to applicable invoice numbers. Customer will promptly notify Smartsheet in writing of any changes to its billing information. Smartsheet reserves the right to correct any billing errors or mistakes that Smartsheet identifies in an invoice or after a payment is received. Smartsheet may accept payment in any amount without prejudice to Smartsheet’s right to recover the balance of the amount due under an Order or to pursue any other right or remedy. Amounts due to Smartsheet from Customer will not be withheld or offset against amounts due or alleged to be due to Customer from Smartsheet. If Customer requires a purchase order, vendor registration form, or other documentation, such requirement will in no way relieve or excuse Customer from timely paying any amounts due hereunder.
+9.3
+Pricing
+. Smartsheet may increase the unit price for a Service’s Renewal Term by issuing written notice to Customer prior to the start date of such Renewal Term.  If the number of units of a Service purchased by Customer for the Renewal Term is equal to or greater than the total number of units purchased or otherwise provisioned or used during the Term, then Smartsheet must provide the unit price increase notice at least forty-five (45) days prior to the start date of the Renewal Term. If a Service automatically renews under this Agreement, the annualized price for each unit of a Service for the Renewal Term will be the annualized price for such Service unit during the Term, as may be increased by notice issued by Smartsheet pursuant to this Section 9.3. Credits and promotional or one-time pricing for the Term do not apply to the Renewal Term.
+9.4
+Taxes
+. Other than income taxes imposed on Smartsheet, Customer will bear all taxes, duties, VAT, and all other governmental charges (collectively, “
+Taxes
+”) resulting from this Agreement. If Customer is exempt from any applicable Taxes, Customer will provide evidence reasonably satisfactory to Smartsheet of Customer’s tax-exempt status and, after receipt of such evidence, Smartsheet will not charge Customer any Taxes from which it is exempt. If it is determined that payments due under this Agreement are subject to withholding Taxes, Customer will notify Smartsheet prior to deducting any such Taxes. Customer will: (a) only withhold amounts required under law; (b) make timely payment to the proper taxing authority of such withheld amount; and (c) provide Smartsheet with proof of such payment within thirty (30) days following that payment.
+9.5
+Affiliates
+. Smartsheet and Customer’s Affiliates may enter into an Order for the purchase of Services under this Agreement. Each Order is a separate contract between Smartsheet and the Affiliate entering into such Order, and such Affiliate will be deemed “Customer” as used in this Agreement with respect to such Order.
+9.6
+Resellers
+. Certain Services may be available for purchase through a reseller authorized by Smartsheet (“
+Reseller
+”). Any agreement between Customer and Reseller is not binding on Smartsheet and will not modify any of the terms of this Agreement. Customer’s access to and use of the online Services purchased through a Reseller is subject to Smartsheet’s receipt of the fees under the Order between Reseller and Smartsheet that is applicable to Customer’s purchase. Upon written notice, the billing of fees may be assigned to Smartsheet, such that Customer will pay Smartsheet directly.
+10.      Term and Termination.
+10.1
+Term
+. Until terminated as set forth herein, this Agreement will remain in effect as long as an Order is in effect and an Order will remain in effect for the Term of the online Services or completion of the Professional Services under such Order. EXCEPT AS OTHERWISE EXPRESSLY PROVIDED IN AN ORDER OR IF A PARTY PROVIDES THE OTHER PARTY WRITTEN NOTICE OF NON-RENEWAL AT LEAST THIRTY (30) DAYS PRIOR TO THE END DATE OF THE TERM, THE TOTAL NUMBER OF UNITS PURCHASED OR OTHERWISE PROVISIONED OR USED DURING THE TERM FOR EACH SUBSCRIPTION SERVICE WILL AUTOMATICALLY RENEW FOR SUCCESSIVE ONE (1) YEAR RENEWAL TERMS UNDER THIS AGREEMENT AND THE APPLICABLE ORDER. For the avoidance of doubt, any purchase or provision of non-subscription or one-time Services will not automatically renew.
+10.2
+Termination
+. Either party may terminate this Agreement in its entirety: (a) on thirty (30) days’ prior written notice to the other party if at the time of such notice there are no Orders in effect; or (b) by written notice to the other party if the other party breaches any material obligation (except with respect to Professional Services) under this Agreement or an Order and does not cure such breach within thirty (30) days after receiving notice of the breach. Either party may terminate a Professional Service by written notice to the other party if the other party breaches any material obligation related to the Professional Services and does not cure such breach within thirty (30) days after receiving notice of the breach.
+10.3
+Effect of Termination
+. Upon termination of this Agreement for any reason: (a) all Services and Orders under this Agreement will terminate; and (b) all rights and obligations of the parties hereunder will cease, except as set forth in Section 10.6 (Survival). If Customer terminates this Agreement or a Service for Smartsheet’s uncured breach pursuant to Section 10.2 (Termination), Smartsheet will issue a refund of prepaid fees covering the terminated portion of each Services’ respective Term. If Smartsheet terminates this Agreement or a Service for Customer’s uncured breach pursuant to Section 10.2, Customer will pay any outstanding amounts payable under this Agreement for the Term applicable to any terminated Service. Professional Services specific to an online Service will terminate upon the termination of such online Service and Customer will pay for Professional Services rendered through, or payable as of, the effective date of such termination.
+10.4
+Return and Deletion of Customer Content
+.  At any time during the Term, Customer may download a backup copy of Customer Content (with file attachments in their native formats and all other Customer Content in an industry standard export format) from an online Service by using a self-service feature, or may request such backup copy by written notice to Smartsheet if such feature is not available. Upon Customer’s written request at the time of termination or expiration of any Term, Customer will be permitted read-only access to an online Service for thirty (30) days following such date of termination or expiration for the sole purpose of downloading a backup copy of Customer Content. Within one hundred eighty (180) days following termination or expiration of any Term, Smartsheet will delete and render Customer Content unrecoverable and, upon Customer’s written request, certify such process in writing. Notwithstanding the foregoing, Smartsheet may retain copies of Customer Content as part of records, documents, or broader data sets in accordance with Smartsheet’s legal and financial compliance obligations, on condition that Smartsheet continues to comply with all the requirements of the Agreement in relation to any such retained Customer Content.
+10.5
+Suspension
+. Smartsheet may suspend Customer’s access to any Service immediately if: (a) Customer fails to make a payment for more than fifteen (15) days following its due date; or (b) Customer has, or Smartsheet reasonably suspects based on documented evidence that Customer has, breached Section 1.2 (Restrictions) or misappropriated or infringed Smartsheet’s intellectual property or proprietary rights.
+10.6
+Survival
+. The following Sections will survive termination or expiration of this Agreement: 2.1 (Processing); 3 (Intellectual Property and Proprietary Rights); 4.3 (Free Services); 5 (Confidentiality); 7 (Third Party Claims); 8 (Limitations of Liability); 9 (Commercial); 10.4 (Return and Deletion of Customer Content); 10.6 (Survival); and, to the extent necessary to effectuate the foregoing, 11 (General).
+11.      General.
+11.1
+Insurance
+. Smartsheet will procure and maintain at its expense commercially reasonable insurance coverage during the Term, evidenced by Smartsheet’s certificate of insurance (available on the Site).
+11.2
+Publicity
+. Unless Customer has notified Smartsheet to the contrary in writing, Smartsheet may disclose Customer as a customer of Smartsheet or the named Services used by Customer or may use Customer’s name and logo on the Site or in Smartsheet’s promotional materials.
+11.3
+United States Government Rights
+. The Services provided by Smartsheet are “commercial items” consisting in part of “commercial computer software” and “computer software documentation,” as such terms are used in the Federal Acquisition Regulation (FAR) and the Defense Federal Acquisition Regulation Supplement (DFARS). In accordance with FAR 12.211 (Technical data) and FAR 12.212 (Computer software), and DFARS 227.7102 (Commercial items, components, or processes) and DFARS 227.7202 (Commercial computer software and commercial computer software documentation), as applicable, the rights of the United States government to use, modify, reproduce, release, perform, display, or disclose computer software, computer software documentation, and technical data furnished in connection with the Services will be pursuant to the terms of this Agreement. This United States government rights clause is in lieu of, and supersedes, any other FAR, DFARS, or other clause or provision that addresses government rights in computer software, computer software documentation, or technical data.
+11.4
+Export Compliance
+. Each party will comply with applicable export controls administered by the United States government, the member states of the European Union, and other foreign jurisdictions (collectively, “
+Export Control Regulations
+”). Without limiting the foregoing: (a) Customer acknowledges that the Services, Documentation, and Customizations may be subject to Export Control  Regulations; (b) Customer will not access or use any Service, Documentation, or Customization in violation of any applicable embargo restrictions; and (c) Customer is responsible for complying with Export Control Regulations and any other local laws and regulations which may impact Customer’s right to export, access, or use the Services, Documentation, and Customizations.
+11.5
+Notices
+. Except for written notices expressly required by law or this Agreement to be sent via internationally recognized delivery service or certified United States mail (“
+Certified Mail
+”), all written notices may be sent electronically via email. Notices sent via email will be deemed given one (1) business day after being sent, and notices sent by Certified Mail will be deemed given five (5) business days after being sent. Notices must be addressed as follows: if to Smartsheet, Attn: Legal, 500 108th Ave NE, Suite 200, Bellevue, WA 98004, and legal@smartsheet.com; and, if to Customer, Attn: Legal at the billing address on record with Smartsheet that was provided by Customer, and Customer's then-current SysAdmin(s) email address. Upon completing the form available at
+www.smartsheet.com/notification-requests
+, Smartsheet will provide to Customer during the Term written notification of material changes to this Agreement.
+11.6
+Assignment
+. Either party may assign this Agreement and any Orders in connection with a merger or similar transaction or to a company acquiring substantially all its assets, equity, or business, without any requirement to obtain permission for such assignment; otherwise, neither party may assign this Agreement or any Orders to a third party without the advance written consent of the other party. Subject to the foregoing and notwithstanding any prohibitions on transferability under this Agreement, the assigning party will notice the other party of any permitted assignment and this Agreement and any Orders will bind and inure to the benefit of the parties, their successors, and their permitted assigns.
+11.7
+Force Majeure
+. A party is not liable for delay or default under this Agreement if such delay or default is caused by conditions beyond its reasonable control and the party suffering from any such conditions uses reasonable efforts to mitigate against the effects of such conditions.
+11.8
+Amendment; Waiver
+. Unless otherwise expressly stated herein, this Agreement and any Orders may be modified only by a written agreement executed by an authorized representative of each party.  The waiver of any breach of this Agreement or of any Order will be effective only if in writing, and no such waiver will operate or be construed as a waiver of any subsequent breach.
+11.9
+Enforceability
+. If any provision of this Agreement or any Order is held to be unenforceable, then that provision is to be construed either by modifying it to the minimum extent necessary to make it enforceable (if permitted by law) or disregarding it (if not permitted by law), and the rest of this Agreement or the relevant Order is to remain in effect as written. Notwithstanding the foregoing, if modifying or disregarding the unenforceable provision would result in failure of an essential purpose of this Agreement or any Order, the entire Agreement or the relevant Order will be considered null and void.
+11.10
+Governing Law
+. This Agreement and any Orders are governed by the laws of the State of Washington, without regard to its conflicts of law rules, and each party hereby consents to exclusive jurisdiction and venue in the state and federal courts located in Seattle, Washington, for any dispute arising out of this Agreement or any Orders.
+11.11
+Entire Agreement; Conflict
+. This Agreement and any Orders represent the entire agreement between Smartsheet and Customer with respect to the Services. In the event of any conflict between this Agreement and any Order, this Agreement will govern and control unless the Order expressly and specifically overrides terms or conditions of this Agreement. Provisions of the
+Smartsheet Supplement
+(available on the Site) may apply and supplement or amend the terms or conditions of this Agreement based on Customer’s regional location, entity type, or use of certain online Services. Downloadable Smartsheet software expressly governed by a separate end-user license agreement presented at the time of download or use is not governed by this Agreement. With respect to any Services, terms and conditions included in the following items, whether submitted or executed before or after the Term start date, are null and void: (a) a Customer purchase order or similar document; (b) a Customer vendor registration form or online portal; and (c) any other contemporaneous or prior agreements or commitments regarding the Services or the other subject matter of this Agreement. Any non-English translation of this Agreement is provided for convenience only and in the event of any ambiguity or conflict between translations, the English version is authoritative and controls.
+11.12
+Smartsheet as Data Controller
+. Notwithstanding any other provision of this Agreement, technical, statistical, learned, or other usage data, and payment, billing, profile, or other account information, is processed by Smartsheet as data controller and is not Customer Content. In accordance with applicable data protection laws, Smartsheet will notify individual Users of its publicly posted
+Privacy Notice
+(available on the Site) and will process personal data of a User collected by Smartsheet (including usage data and account information) as a data controller pursuant to the
+Privacy Notice
+.
+11.13
+Revisions
+. Smartsheet reserves the right to revise this Agreement during the Term by publishing a revised version on the Site (“
+Updated Agreement
+”). After the date of publication, Customer’s continued use of the Services will constitute acceptance of the Updated Agreement unless Customer provides written notice to Smartsheet of Customer’s objection to the Updated Agreement within five (5) days of such publication date, in which case the Updated Agreement will apply at the start of the Renewal Term.
+12.      Definitions.
+Capitalized terms used but not otherwise defined in this Agreement have the following meanings:
+“
+Affiliate
+” means any person or entity that owns or controls, is owned or controlled by, or is under common control or ownership with, a party to this Agreement, where “control” is defined as the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of an entity, whether through ownership of voting securities, by contract, or otherwise.
+“
+Customer Content
+” means any data, images, files, or other content that is submitted to the online Services by Users, or is output that is derived or created therefrom and viewable by Users within such Services.
+“
+Customizations
+” means all software, code, materials, ideas, deliverables, and items that are conceived, made, discovered, written, or created by Smartsheet personnel in connection with Professional Services under an Order.
+“
+Disclosing Party
+” means the party disclosing Confidential Information to the Receiving Party.
+“
+Documentation
+” means documentation provided by Smartsheet on the Site that is uniformly available and applicable to all Smartsheet customers and relates to the then-current operation and use of the Services, including help articles, product manuals, operating instructions, and release notes, each as updated by Smartsheet from time to time.
+“
+Order
+” means a mutually executed ordering document or SOW between Smartsheet and Customer, or online order placed by Customer and issued or otherwise approved in writing by Smartsheet, that incorporates this Agreement by reference and specifies the Services that Customer is authorized to access and use and their cost.
+“
+Policies
+” means the
+Limits Policy
+,
+Acceptable Use Policy
+,
+Support Policy
+, and
+Travel and Expense Policy
+available on the Site and as updated by Smartsheet from time to time.
+“
+Professional Services
+” means implementation, configuration, integration, training, advisory, and other professional services related to online Services that are provided or controlled by Smartsheet.
+“
+Receiving Party
+” means the party receiving or accessing Confidential Information of the Disclosing Party.
+“
+Renewal Term
+” means the period of authorized access and use that immediately follows the Term for a Service.
+“
+Service
+” means the Professional Services or the Subscription Services or any other online service or application provided or controlled by Smartsheet for use with the Subscription Services.
+“
+Site
+” means Smartsheet’s website at www.smartsheet.com and any website linked from such website that is owned or controlled by Smartsheet, including but not limited to www.smartsheet.com/legal and help.smartsheet.com.
+“
+Smartsheet Properties
+” means Services, Documentation, and Customizations, and all technology, software, data, methodologies, improvements, and documentation used by Smartsheet to provide or made available in connection with Services, Documentation, and Customizations, and all intellectual property and proprietary rights in and to the foregoing.
+“
+SOW
+” means an executed statement of work or similar document issued or otherwise approved in writing by Smartsheet that incorporates this Agreement by reference and specifies the scope of the Professional Services for Customer.
+“
+Subscription Services
+” means the subscription-based online services and applications that are provisioned or controlled by Smartsheet.
+“
+SysAdmin
+” means a User designated by Customer with administrative rights within and control over Customer’s online Services.
+“
+Term
+” means the then-current period of authorized access and use of a Service specified on an Order or under this Agreement.
+“
+User
+” means any individual permitted or invited by Customer or another User to access and use online Services available to Customer under an Order and the terms of this Agreement.
+Last Updated: June 24, 2024
+Archived versions
+These are the legacy versions of the Smartsheet User Agreement and are provided for informational purposes only.
+View archive list
+10/05/2021
+05/27/2021
+04/01/2020
+02/01/2020
+07/01/2019
+05/02/2019
+03/07/2019
+09/01/2017
+07/31/2017
+08/22/2016
+11/04/2014

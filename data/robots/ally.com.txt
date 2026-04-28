@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /content/dam/static/js/tagging/
+
+User-agent: googlebot
+Disallow: */internals/
+
+
+sitemap: https://www.ally.com/content/dam/xml/sitemaps/sitemap.xml
+sitemap: https://www.ally.com/stories/sitemap.xml
+sitemap: https://www.ally.com/content/dam/xml/sitemaps/go-sitemap.xml
+sitemap: https://www.ally.com/content/dam/xml/sitemaps/tech-sitemap.xml

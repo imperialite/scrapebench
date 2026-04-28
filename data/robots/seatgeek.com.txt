@@ -1,0 +1,32 @@
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: Bingbot
+Disallow:
+
+User-agent: Slurp
+Disallow:
+
+User-agent: Baiduspider
+Disallow:
+
+User-agent: Yandex
+Disallow:
+
+User-agent: DuckDuckBot
+Disallow:
+
+User-agent: Naverbot
+Disallow:
+
+User-agent: Naver-Yeti
+Disallow:
+
+User-agent: MojeekBot
+Disallow:
+
+User-agent: EcosiaBot
+Disallow:

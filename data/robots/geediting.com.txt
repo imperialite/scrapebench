@@ -1,0 +1,16 @@
+# Prevent Crawling Unnecessary Endpoints - Dynamically added by BigScoots
+User-agent: *
+Disallow: /cdn-cgi/
+Disallow: /*add-to-cart=*
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /wp-content/uploads/formidable/
+Allow: /wp-content/uploads/
+ 
+User-agent: Googlebot
+Allow: .js
+Allow: .css

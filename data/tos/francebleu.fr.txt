@@ -1,0 +1,354 @@
+General terms and conditions of use of the platform dedicated to local digital services
+
+HERE
+Published onFriday, June 28, 2024 at 3:39 PM
+
+Facebook
+WhatsApp
+X, formerly Twitter
+Mail
+
+Copy link
+I - INTRODUCTION AND TERMINOLOGY
+FRANCE TELEVISIONS , a public limited company with a share capital of €347,540,000, having its registered office at 7, Esplanade Henri de France, 75907 Paris Cedex 15, registered with the Paris Trade and Companies Register under number 432 766 947, and RADIO FRANCE , a national broadcasting company with a share capital of €114,870,093, having its registered office at 116 avenue du Président Kennedy, 75220 Paris Cedex 16, registered with the Paris Trade and Companies Register under number 326 094 471, have formed an Economic Interest Grouping called "Numéroise" (hereinafter the "EIG"), whose registered office is located at 23 rue Linois, 75015 Paris, represented by its legal representatives, for the purpose of developing a platform dedicated to digital offerings devoted to... proximity, combining quality, interactivity and depth of regional news coverage, under the brand ICI (hereinafter the "Digital Proximity Platform").
+
+The local digital platform includes a website accessible at the following URL: francebleu.fr , a mobile version, and an application. It enhances the synergies developed between FRANCE TELEVISIONS and RADIO FRANCE around local programming, which notably enabled the deployment, starting in 2019, of filmed morning shows across metropolitan France.
+
+The content of the Local Digital Platform comes from FRANCE TELEVISIONS and RADIO FRANCE, whose legal representatives are respectively in charge of publication. It is identifiable by the appropriate information defined below.
+
+The director of publication of the identifiable "FRANCE TELEVISIONS" Content (as defined below), of the home page of the local digital platform and of the home pages of its sections is Mrs. Delphine ERNOTTE CUNCI, the president of FRANCE TELEVISIONS.
+
+The director of publication of the identifiable "RADIO FRANCE" Content (as defined below) is Ms. Sibyle VEIL, president of RADIO FRANCE.
+
+The GIE reserves the right to modify or delete all or part of the Local Digital Platform without prior notice and without having to inform users (hereinafter "User(s)"). The GIE shall not be liable to Users or any third party for any modification of the Local Digital Platform.
+
+For the purposes of these General Terms and Conditions of Use:
+
+“Terms of Use or General Terms and Conditions of Use”: refers to the provisions set forth herein, accepted by the Users, governing access to and use of the local digital platform.
+
+“Contents”: refers broadly to the content and constituent elements of the local digital platform, including photographs, images, texts, articles, illustrations, sounds, videos as well as the Video Player and Audio Player (see definitions below).
+
+“FRANCE TELEVISIONS Content”: refers to Content identified on the local digital platform by a mention which will include “FRANCE 3”.
+
+“RADIO FRANCE Content”: refers to Content identified on the local digital platform by a mention which will include “HERE”.
+
+“User Messages”: refers in particular to voice messages left by Users on the mobile application of the Digital Proximity Platform, under the conditions defined in Article VI.
+
+"Video Player": refers to the tool for streaming and playing video and photo files. The Video Player is exportable, in the form of computer code, and allows third parties to display said files on other websites or blogs, through the Video Player, under the conditions of Article VII-1 of these Terms of Service.
+
+“Audio Player”: refers to the tool for streaming and playing audio files. The Audio Player is exportable, in the form of computer code, and allows third parties to display said files on other websites or blogs, through the Audio Player, under the conditions of Article VII-2 of these Terms of Service.
+
+“Complaint”: refers to any request made by a third party in relation to the Content.
+
+“Services”: refers to the services accessible on and/or from the Digital Proximity Platform and published respectively by FRANCE TELEVISIONS and RADIO FRANCE.
+
+“Partner Services”: refers to services published by third-party partners accessible on and/or from the local digital platform, in particular through hyperlinks placed in different sections.
+
+“User(s)”: refers to any person consulting the local digital platform.
+
+II - SCOPE OF THE GENERAL TERMS AND CONDITIONS OF USE OF THE LOCAL DIGITAL PLATFORM
+The purpose of these General Terms of Use is to define and establish the terms under which the GIE makes the local digital platform available to Users.
+
+They also define the conditions under which the User accesses and consults the Platform.
+
+II-1. Acceptance of the General Terms and Conditions of Use of the Local Digital Platform
+
+All access to the Local Digital Platform, consultation, and use of its Content are governed by these Terms of Service, which define the terms and conditions for using the Services and Content offered on the Local Digital Platform. Accessing the Local Digital Platform automatically implies full application and acceptance of the rules and conditions set forth in these Terms of Service. If a User refuses to agree to these Terms of Service, they must refrain from accessing the Local Digital Platform.
+
+The applicable Terms and Conditions are those in effect on the date of each User's connection to the Local Digital Platform. It is specified that the GIE (Economic Interest Group) may freely modify these Terms and Conditions at any time. These modifications are brought to the attention of Users simply by being published online. Therefore, they are deemed accepted without reservation by any User accessing the Local Digital Platform after their publication. Consequently, Users are encouraged to consult them on each visit to review the latest version available on the Local Digital Platform.
+
+Any complaint concerning FRANCE TELEVISIONS content must be addressed to FRANCE TELEVISIONS.
+
+Any complaint concerning content from Radio France must be addressed to Radio France.
+
+II-2. Specific conditions
+
+II-2.1 Access to certain Services on and/or from the Digital Proximity Platform may be subject to the acceptance of specific terms of use and/or sale to which any User wishing to access said services must adhere.
+
+In the event of a conflict between these General Terms and Conditions and the aforementioned specific conditions, the specific conditions shall prevail over the General Terms and Conditions.
+
+II-2.2 Partner Services
+
+The Local Digital Platform also provides access to third-party services, published by partners, via hyperlinks integrated into various sections of the platform. These hyperlinks direct users to the websites, content, and services offered by these partners. Partner Services may be accessible through clickable advertising elements (such as banners and videos).
+
+The User hereby acknowledges that these Partner Services are entirely independent of the GIE. Therefore, any use of Partner Services via the local digital platform will be subject exclusively to the terms of use and/or sale specific to each Partner Service, as well as their personal data protection policy.
+
+The GIE cannot be held liable for the content accessible, the offers, information consulted, or transactions carried out on the Partner Services. Similarly, the GIE offers no guarantee regarding the compliance of the Partner Service providers with applicable regulations; they are solely responsible for such compliance.
+
+III - SYSTEM REQUIREMENTS AND TECHNICAL CONDITIONS
+The required configuration for the best experience on the Digital Proximity Platform is:
+
+Website (fixed and mobile):
+
+JavaScript enabled
+Minimum resolution: 320x480
+Connection ≥ 1.9 Mb/s
+Browsers:
+- Firefox 90 or later
+- Microsoft Edge 90 (and all later versions)
+- Google Chrome 90 or later
+- Safari 14 or later
+App:
+iOS
+iOS 15 and above
+, Android
+Android 5.0 and above
+
+IV - ACCESS TO THE LOCAL DIGITAL PLATFORM
+IV-1. General Provisions
+
+Access to the local digital platform is free and does not require prior registration.
+
+Access to certain features or services, particularly community features, may be conditional upon the use of identifiers from third-party services such as Facebook, Instagram, X, Google or LinkedIn.
+
+A connection by the User with the specific identifiers of these different third-party services, or where applicable a creation of an account specific to each third-party service, will be required for all community functionalities involving an interaction with said third-party services.
+
+As stated in Article II-2.2 concerning Partner Services, the creation and use of these accounts and the personal data communicated by the User to these third-party services will be governed by the terms of use and the personal data protection policy specific to each third-party service, excluding any liability of the GIE.
+
+IV-2. Protection of minors
+
+If the User is a minor, they declare and acknowledge having obtained prior authorization from their parents or legal guardian(s) to use the Local Digital Platform. The parent(s) or legal guardian(s) have agreed to be responsible for ensuring compliance with all provisions of these Terms of Service when the minor User uses the Local Digital Platform. Therefore, parents (or legal guardians) are encouraged to monitor their children's use of the Content and/or Services available on the Local Digital Platform and to bear in mind that, as legal guardians, it is their responsibility to monitor their child's use of the Content and/or Services.
+
+V - PRIVACY POLICY
+V-1. Personal Data
+
+The GIE is responsible for processing personal data collected from Users on the local digital platform.
+
+They are intended for the GIE and its founding members RADIO FRANCE and FRANCE TELEVISIONS, as well as any service providers who may need to know about them.
+
+For the purposes of audience measurement and quality control of the local digital platform service, the following data is collected:
+
+Behavioral data
+Data relating to User equipment via cookies and other trackers.
+When the User wishes to participate in a competition, the data collected may include the following:
+
+First and last name
+Mailing address
+Postal code
+Locality
+Department
+Phone number
+E-mail address
+When the User wishes to subscribe to a newsletter from the Local Digital Platform, the data collected is as follows:
+
+E-mail address
+When the User wishes to contact the services of the local digital platform, the following data is collected:
+
+E-mail address
+Message content
+Users are informed of the mandatory or optional nature of the answers they are asked to provide, as well as other mandatory legal notices.
+
+The purposes of the personal data processing carried out by the GIE are as follows:
+
+To allow the User to receive newsletters, information, or alerts,
+To allow the User to participate in competitions,
+Responding to User requests,
+To compile statistics on the usage of the different sections of the digital platform,
+Improve the local digital platform;
+Comply with the legal obligation to identify misuse of the local digital platform regarding the publication of inappropriate User Content.
+It is specified that in the event of a change in the local digital offering, the GIE will retain the benefit of the use of personal data in accordance with the purposes of the processing for which it was collected with the consent of the internet user and in compliance with the rules in force.
+
+The data thus collected is kept by the GIE as well as its members or the recipients specified in this article for the period recommended according to the purpose by the CNIL.
+
+In accordance with the French Data Protection Act (law no. 78-17 of 6 January 1978, as amended) and the European General Data Protection Regulation (GDPR) (Regulation (EU) 2016/679), the User has the right to access, rectify, erase, object to, and obtain a copy of their personal data, as well as the right to restrict its processing. To exercise these rights, the User may send a letter or email to one of the following addresses, specifying the subject of their request:
+
+Radio France - Data Protection Department - 116 avenue du président Kennedy - 75220 Paris Cedex 16. dpdp@radiofrance.com
+France Télévisions - Digital Platform Management Department ICI - 7, Esplanade Henri-de-France - 75015 Paris. dpd@francetv.fr
+In accordance with the aforementioned provisions, the User may also define instructions regarding the retention, deletion, and disclosure of their personal data after their death. To do so, these instructions must be registered with RADIO FRANCE/FRANCE TELEVISIONS. The User may designate a person responsible for carrying out these instructions or, failing that, their legal heirs. These instructions may be modified at any time.
+
+For more information, the User can consult their rights on the CNIL website.
+
+The GIE ensures the security of data collected from Users through access control devices (management of identities and authorizations of persons authorized to access personal data), making it possible to guarantee the confidentiality and integrity of said data.
+
+V-2. Cookies
+
+Cookies also allow the collection of personal data.
+
+The term "Cookies" refers to all tracking technologies (pixel tags, web beacons, web storage, etc.) placed and/or read when browsing the Platform. This information is stored in the persistent memory (e.g., on the hard drive) of the User's device by the browser at the request of the Platform or a third-party script within the Platform. Only the server that requested the Cookie placement can subsequently access this stored information, and always via the browser.
+
+In the specific case of mobile applications, the application itself directly controls cookies and can store and read information related to ongoing browsing in persistent memory. Under no circumstances can any other application on the user's device access the stored information.
+
+The cookie contains several pieces of data:
+
+the name of the server that uploaded it;
+a name/value pair which may or may not contain personal data (examples: "language" = "French" or "unique ID" = "123654");
+possibly, a Cookie expiry date.
+This information is sometimes stored on the equipment in a simple text file which a server accesses to read, transmit information to the server of the page being viewed and record information.
+
+Under no circumstances can a Cookie be spyware or a virus, damage the User's system, destroy files, or alter programs.
+
+These cookies may be cookies from the GIE or its members, or cookies from third-party companies whose code snippet (script or development kit) the GIE integrates into its pages or applications.
+
+The GIE uses cookies to offer services and content, including advertising, tailored to users' interests. They also allow us to compile visit statistics, record data provided, share content from the Platform via social networks, and improve the user's browsing experience.
+
+Please note that certain cookies are necessary for browsing the Platform and for its proper functioning. They allow the User to access the Platform's main features.
+
+It is specified that the GIE does not control the use made of Cookies placed by third parties, for example by advertisers, or those resulting from the use of parts of the Platform hosted by a third party.
+
+Users can manage the use of Cookies at any time using the functions of their browser software.
+
+For more information, the User can refer to the Cookie Policy.
+
+VI - PROVISIONS RELATING TO INTERACTION FUNCTIONALITIES
+The User will have the possibility, on the mobile application of the Digital Proximity Platform, to interact under the conditions detailed below:
+
+By answering a closed-ended question in the "Question of the Day" section, which may appear on the application's homepage depending on the selected region. After clicking "Participate," the user will be able to choose from a predetermined selection of answers. These answers to the closed-ended questions will be displayed in aggregate form on the Digital Proximity Platform's mobile application and may be broadcast on ICI.
+By leaving a voice message on the Digital Proximity Platform mobile app. After clicking "Participate" on the app's home page, the user will be redirected to a new page where they will be prompted to record and send their voice message. They can listen to it before sending and optionally include their first name and city. These voice messages will not be accessible to other users on the app, but may be broadcast on ICI or summarized by the program's host.
+Any User sending User Messages on the mobile application of the Digital Proximity Platform expressly authorizes FRANCE TELEVISIONS and RADIO FRANCE, free of charge and on a non-exclusive basis, to retain, reproduce and represent said User Messages for the entire duration of the intellectual property rights from the date of their sending.
+
+It is understood that User Messages which will be summarized and taken up by the presenter as part of a show may be reformulated by him.
+
+Freedom of expression must not infringe upon respect for others, human dignity, or public order. Therefore, when using the features described in this article, the User agrees to send User Messages that comply with current French law. It is understood that no illegal content may be broadcast on ICI radio or on the mobile application of the local digital platform, and in particular:
+
+Contrary to public order and morality;
+Defamatory in nature (imputation of a fact which harms the honor or reputation of the natural or legal person, or of the body to which the fact is imputed);
+Of an offensive nature (outrageous expression, term of contempt or invective);
+Likely by their nature to infringe upon respect for the human person and his dignity, equality between women and men and the protection of children and adolescents;
+Encouraging minors to commit illegal or dangerous acts;
+Encouraging the commission of crimes and/or offenses or inciting the consumption of prohibited substances or inciting suicide;
+Inciting discrimination or hatred against a person or group of people because of their origin, membership or non-membership of a particular ethnic group, nation, race or religion;
+Inciting violence, particularly racial violence;
+Glorifying certain crimes, including murder, rape, war crimes and crimes against humanity;
+Of a racist, anti-Semitic, xenophobic, revisionist nature;
+Of a violent, obscene or pornographic nature;
+Of a pedophilic nature;
+Infringing on personality rights, copyright, related rights and trademark rights;
+Harming the image and/or trademarks of FRANCE TELEVISIONS, RADIO FRANCE and the GIE.
+RADIO FRANCE alone will decide whether or not to broadcast on ICI the User Messages left by the User on the mobile application of the local digital platform, without any justification or prior information being provided to the User.
+
+VII - USE OF CONTENT
+Content (including archived or cached content) may not be used outside the provisions of these General Terms of Use, in particular for commercial purposes, for training or development of any software or machine learning or artificial intelligence system whatsoever, without the prior written authorization of RADIO FRANCE and FRANCE TELEVISIONS, including when the purpose is non-commercial.
+
+Unless prior written authorization is obtained from RADIO FRANCE and FRANCE TELEVISIONS, the Content may not be used by software and/or artificial intelligence systems to generate content in response to requests made by their users.
+
+Any natural or legal person who fails to comply with these prohibitions may be held liable as a result.
+
+RADIO FRANCE and FRANCE TELEVISIONS may use any technical means to restrict access to the Content by robots and/or any other technology reproducing and/or using its Content, in particular for the purposes of training or developing machine learning or artificial intelligence systems.
+
+VIII - USING THE PLAYERS
+VIII – 1. Using the Video Player
+
+The Video Player available on the Local Digital Platform is the exclusive property of France Télévisions. All use is strictly personal and private, excluding any commercial use. Therefore, the User may not, in any way other than those expressly offered and authorized by the Local Digital Platform, reproduce, represent, distribute, alter, market, modify, or license all or part of any element of the Video Player.
+
+The local digital platform offers Users the option to export the Video Player, solely for non-commercial and personal use by individuals. Consequently, the User is prohibited from reproducing, copying, selling, reselling, modifying, exchanging, or exploiting for commercial purposes or for any remuneration, profit, or advantage, direct or indirect, all or part of the Video Player, any use of the Video Player, or any right of access to the Video Player.
+
+Users wishing to export the Video Player to their website do not have the right to modify, create a service or a derivative work, or block all or part of the functionalities of the Video Player, including links that refer to the local digital platform.
+
+Since the Video Player can be used for advertising, it is strictly forbidden for anyone to obscure, delete, or modify any advertising messages displayed through the Video Player.
+
+The video content broadcast on the local digital platform is authorized for distribution either on the platform itself or through the video player only. Consequently, users may not broadcast or view the video content offered by FRANCE TELEVISIONS and/or RADIO FRANCE outside of the video player or the relevant FRANCE TELEVISIONS and/or RADIO FRANCE websites, nor use any hardware or software intended to enable such unauthorized distribution.
+
+VIII – 2 Using the Audio Player
+
+The Audio Player available on the Local Digital Platform is the exclusive property of Radio France. All use is strictly personal and private, excluding any commercial use. Therefore, the User may not, in any way other than those expressly offered and authorized by the Local Digital Platform, reproduce, represent, distribute, alter, market, modify, or license all or part of any element of the Audio Player.
+
+The local digital platform offers Users the option to export the Audio Player, solely for non-commercial and personal use by individuals. Consequently, the User is prohibited from reproducing, copying, selling, reselling, modifying, exchanging, or exploiting for commercial purposes or for any remuneration, profit, or advantage, direct or indirect, all or part of the Audio Player, any use of the Audio Player, or any right of access to the Audio Player.
+
+Users wishing to export the Audio Player to their website do not have the right to modify, create a service or a derivative work, or block all or part of the features of the Audio Player, including links that refer to the Digital Proximity Platform.
+
+As the Audio Player can be used for advertising, it is strictly forbidden for anyone to obscure, delete, or modify any broadcast of advertising messages through the Audio Player.
+
+The audio content broadcast on the local digital platform is authorized for distribution either on the platform itself or through the Audio Player only. Consequently, users may not broadcast or listen to the audio content offered by Radio France and/or France Télévisions outside of the Audio Player or the relevant Radio France and/or France Télévisions websites, nor use any hardware or software intended to enable such unauthorized distribution.
+
+IX - INTELLECTUAL PROPERTY RIGHTS
+IX-1 Intellectual Property Rights Relating to the Content of the Digital Proximity Platform
+
+All elements of the Local Digital Platform (including its structure, all texts, photos, videos, data, posters, logos, trademarks, and other reproduced elements) are reserved and protected by intellectual property law, including copyright, related rights, trademark law, as well as press law and personality rights (right to one's image). The User agrees that none of this Content will be reproduced, represented, modified, adapted, redistributed, translated, exploited, transferred, or reused for promotional or commercial purposes in any way whatsoever without the prior written consent of RADIO FRANCE and FRANCE TELEVISIONS, including for the purposes of training and/or developing any software and/or machine learning or artificial intelligence system, as well as for any use by these systems to generate Content in accordance with requests made by their users.
+
+FRANCE TELEVISIONS and RADIO FRANCE grant the User respectively, for Content concerning them, the non-transferable, free, non-exclusive, personal and private authorization to use the Services and the local digital Platform for purely personal and private use, and in strict compliance with the terms of use established by these Terms of Use.
+
+It is specified that these Terms and Conditions do not entail the transfer of any rights, including intellectual property rights, to the User.
+
+Any unauthorized use of all or part of the elements of the Services and the local digital platform, and in particular videos (piracy, counterfeiting, circumvention of broadcasting restrictions, etc.) may give rise to prosecution.
+
+The use and reproduction of names and/or visuals registered by FRANCE TELEVISIONS, RADIO FRANCE and/or the GIE is prohibited without their express prior written consent. In general, any unauthorized reproduction (including by downloading, printing, etc.), representation, adaptation, translation, transformation and/or transfer of trademarks, product names, service names or company names mentioned on the Digital Proximity Platform constitutes infringement liable to civil and/or criminal prosecution.
+
+IX-2 Intellectual Property Rights Relating to User Messages Sent on the Mobile Application of the Digital Proximity Platform
+
+Each User warrants to FRANCE TELEVISIONS, RADIO France and/or the GIE that they possess the necessary rights to broadcast and/or share the User Messages they send via the mobile application of the Digital Proximity Platform. "Rights" refers to those protecting content as defined by the Intellectual Property Code, including copyright, trademark law, and design rights.
+
+Each User grants, free of charge and on a non-exclusive basis, to FRANCE TELEVISIONS, RADIO France and the GIE, for the entire duration of the intellectual property rights from the date of transmission by any means of their Messages, the right to reproduce, represent, copy, transfer, modify, republish, communicate, distribute, adapt and more generally exploit all or part of the User Messages on the mobile application of the local digital platform and all associated services for the purposes of promoting the activity of the local digital platform.
+
+These rights are granted worldwide for all uses on all media and by all means of distribution known or unknown to date.
+
+The User expressly acknowledges and accepts that no use of User Messages as authorized herein shall give rise to any remuneration whatsoever (in kind or in cash).
+
+IX-3 Hyperlinks pointing to the Local Digital Platform
+
+By creating one or more hyperlinks pointing to the local digital platform, the User agrees not to make any modifications to the Content (e.g., additions, cuts, edits, substitutions, extractions, advertisements, etc.).
+
+The publication of hyperlinks to the Digital Local Platform on third-party websites is prohibited when said third-party websites disseminate illegal information and/or content (glorification of crimes against humanity, child pornography, incitement to racial hatred) or are likely to damage the image and reputation of the GIE, FRANCE TELEVISIONS, RADIO FRANCE, their channels, and their employees. The same applies to any hyperlink reproduced on websites containing elements likely to incite hatred or violence or to infringe upon the dignity of a person or group of persons on account of their sex, sexual orientation, or disability.
+
+In any event, it is the User's responsibility to obtain from the rights holders (e.g., collective management societies for copyright and related rights) any necessary authorizations for the communication of the Content to the public and, where applicable, to pay the related fees.
+
+Regardless of the type of hyperlink pointing to the local digital platform, the User is not authorized to implement a systematic referencing mechanism for all or part of the Content (radio broadcasts, videos, etc.) allowing the referencing of said Content to the public, particularly for commercial purposes, on a service, application, or website other than the local digital platform.
+
+Finally, the hyperlink must not, in any way, allow the implementation of a system facilitating the mass sending of messages, such as a pre-written message addressed to an email address linked to the Digital Proximity Platform.
+
+IX-4 Hyperlinks reproduced on the Local Digital Platform
+
+The local digital platform may contain hyperlinks to third-party websites or services. FRANCE TELEVISIONS, RADIO France, and the GIE make every effort to provide users with links to third-party websites or services that are free of errors, but cannot guarantee their quality or reliability.
+
+Accessing these third-party websites or services is done at the User's sole risk. Therefore, the GIE, FRANCE TELEVISIONS, and/or RADIO FRANCE cannot be held liable for any direct or indirect damages incurred as a result of accessing a third-party website or service linked from a page of the Local Digital Platform.
+
+X - LIABILITY AND GUARANTEES
+The GIE will make its best efforts to guarantee the accessibility of the Local Digital Platform and Services. This accessibility may be suspended for maintenance or upgrade purposes, in order to ensure the proper functioning of the Local Digital Platform, without the GIE being required to inform Users in advance.
+
+Thus, the GIE offers no guarantee regarding the risks of interruption or malfunction related to the connection, network and/or computer system congestion, intrusion by unauthorized third parties and contamination by any viruses circulating on said networks and services.
+
+The GIE will not be held responsible in the event that the interruption or alteration of the quality of the local digital platform and services is due to the occurrence of a force majeure event.
+
+The GIE undertakes to do everything possible to guarantee the truthfulness and accuracy of the information available on the entire local digital platform but cannot be held responsible for the inaccuracy of this information, nor for the use or interpretation made of it by Users.
+
+In general, the User guarantees the GIE against any claim or action by any person, and their potential financial consequences, based on or resulting directly or indirectly from the User's actions, or arising from the User's use of the local digital platform, as well as any alleged violation of the Terms of Service or applicable regulations, and holds the GIE harmless from any claim, including legal proceedings, that may result. This guarantee covers any damages that may be due, as well as legal fees and court costs, within reasonable limits.
+
+XI - PROTECTION OF THE LOCAL DIGITAL PLATFORM
+The User is prohibited from using any hardware or software that could alter, hinder or disrupt the operation of the Services and the local digital platform, or from introducing any data into an automated data processing system of the GIE that could alter, hinder or disrupt the normal operation of the Services and the local digital platform, and in particular from circumventing the restrictions on use defined by these Terms of Use.
+
+XII - LIMITATION OF LIABILITY
+The GIE does not guarantee the performance and modifications of the local digital platform and services which may occur depending on the quality of the internet network and/or technical configurations, which are beyond its control.
+
+The GIE shall not be held liable for any direct or indirect damage, including but not limited to loss of profits, customers, data or any other loss of intangible assets, loss of earnings or any other loss or damage which may arise from the use of or inability to access the Digital Proximity Platform, even if the GIE has been informed of the potential for such damage.
+
+In the event that the liability of the GIE and/or RADIO FRANCE and/or FRANCE TELEVISIONS is incurred as a result of a breach of any of its obligations under these General Terms of Use, compensation by the defaulting party shall be limited to direct, personal, and certain damages. Therefore, compensation for all indirect and intangible damages, such as financial losses, commercial losses, loss of profits and revenue, and data loss, is excluded.
+
+XIII - SPECIAL RECOMMENDATION FOR INTERNATIONAL USERS
+The GIE authorizes access to the Local Digital Platform from any country, subject to applicable local laws and restrictions. Any User accessing the Local Digital Platform from a computer located outside of France expressly acknowledges having read, understood, and accepted without reservation the terms of these General Terms and Conditions of Use and agrees to comply with local laws and all applicable restrictions in the country concerned.
+
+Some Content on the Local Digital Platform is not accessible from certain countries ("Excluded Territories"), due in particular to territorial restrictions imposed by rights holders or limited broadcasting rights. Consequently, Users accessing the Local Digital Platform from computers located in Excluded Territories are prohibited from using any system to circumvent geolocation measures intended to allow access to this content from these territories.
+
+XIV - RIGHT OF REPLY
+Pursuant to Article 6-IV of Law No. 2004-575 of 21 June 2004 on Confidence in the Digital Economy (LCEN), any natural or legal person named or designated on the local digital platform may request a right of reply from either FRANCE TELEVISIONS or RADIO FRANCE, depending on whether it concerns FRANCE TELEVISIONS Content or RADIO FRANCE Content.
+
+The request to exercise this right of reply must be addressed in writing to the director of publication of the Contents of the local digital platform in question designated in Article I.
+
+XV - LEGAL NOTICES
+The legal information for the local digital platform is as follows:
+
+EDITORS
+
+France Télévisions
+
+Registered office: 7, Esplanade Henri de France 75015 Paris
+Public limited company with a capital of 347,540,000 euros
+RCS Paris: 432 766 947
+Director of publication of identifiable content "France Télévisions": Delphine ERNOTTE CUNCI
+Tel: (+33) 08.90.71.02.02 (€0.15/min)
+
+Radio France
+
+Registered office: 116, Avenue du Président Kennedy 75220 Paris cedex 16
+Public limited company with a capital of €108,353,427
+Paris Trade and Companies Register: 326 094 471
+Director of Publication for identifiable content "Radio France": Sibyle VEIL
+Tel: +33 1 56 40 22 22
+
+HOST
+
+Amazon Web Services
+Headquarters: Amazon Web Services, Inc. PO Box 81226 Seattle, WA 98108-1226 (USA)
+
+XVI - FINAL PROVISIONS
+If any provision of these Terms and Conditions is found to be illegal, invalid, or unenforceable for any reason, that provision will be deemed severed, and the remaining provisions will remain in full force and effect. The severed provision will be replaced with a valid provision that most closely approximates the intent of the original provision.
+
+These Terms and Conditions are governed by French law. Any disagreement or dispute that cannot be resolved amicably within 30 (thirty) days of notification of the dispute by registered letter with acknowledgment of receipt will be submitted to the Courts of Paris.

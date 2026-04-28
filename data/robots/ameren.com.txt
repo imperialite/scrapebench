@@ -1,0 +1,5 @@
+#default is to allow
+User-agent: *
+Disallow: /-/Media/Corporate-Site/Files/safetypartners/
+
+Sitemap: https://www.ameren.com/sitemap.xml

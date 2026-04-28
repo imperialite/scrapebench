@@ -1,0 +1,33 @@
+User-Agent: *
+
+Disallow: /bvreviews/
+Disallow: /*&sortfilter=true
+Disallow: */checkout/*
+Disallow: /checkout/shopping_cart.jsp
+Disallow: */myaccount/*
+Disallow: /pickuppass
+Disallow: /product_videos/
+Disallow: */null
+Disallow: /*?BL=
+Disallow: /*&BL=
+Disallow: /*&WS=
+Disallow: /*?WS=
+Disallow: /*&S=
+Disallow: /*?S=
+Disallow: /*?searchTerm=
+Disallow: /*&searchTerm=
+Disallow: /myaccount/*
+Disallow: /feature/myaccount.jsp
+Disallow: /feature/departments.jsp
+Disallow: /search/
+Disallow: /search.jsp
+Disallow: /1/
+Disallow: /ecom/PrintPass/
+Disallow: /feature/homepage2.jsp
+Disallow: /content/spotlight/
+Disallow: /faq/search/
+
+User-agent: Baiduspider
+Disallow: /
+
+Sitemap: https://www.kohls.com/sitemap.xml

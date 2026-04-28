@@ -1,0 +1,24 @@
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+# To ban all spiders from the entire site uncomment the next two lines:
+# User-Agent: *
+# Disallow: /
+User-Agent: *
+Disallow: /wp-content/
+Disallow: /newsletter
+Disallow: /dashboard
+Disallow: /classes
+Disallow: /privacy/collection
+Disallow: /cpc/*
+Disallow: /cpcm/*
+Disallow: /tutoring/*
+Disallow: /worksheet_uploads/*
+Disallow: /s/math-games/not-found-playable*
+Disallow: /email_verification_intent/
+Disallow: /article-test*
+Disallow: /cookie_bar_script
+Disallow: /signin/mathmaster_korea
+Disallow: /teacher_task_link_login
+Disallow: /splashliv*
+Allow: /
+Sitemap: https://www.splashlearn.com/sitemaps/index-sitemap.xml

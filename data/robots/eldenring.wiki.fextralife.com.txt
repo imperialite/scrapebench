@@ -1,0 +1,17 @@
+User-agent: *
+
+Disallow: /pixel.png*
+Disallow: /forums/search.php
+Disallow: /login
+Disallow: /register
+Disallow: /forums/ucp.php*
+Disallow: /wiki/authentication
+Disallow: /wiki/filemanager
+Disallow: /Editing+Guide
+Disallow: /wiki/changes
+Disallow: /wiki/settings
+Disallow: /ws/*
+
+User-agent: GPTBot
+Disallow: /
+Sitemap: https://eldenring.wiki.fextralife.com/sitemap.xml

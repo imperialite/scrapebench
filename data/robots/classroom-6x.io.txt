@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /includes/
+Disallow: /classes/
+Disallow: /admin/
+Disallow: /vendor/
+Disallow: /search/
+
+User-agent: GPTBot
+Disallow: /
+Sitemap: https://classroom-6x.io/sitemap.xml

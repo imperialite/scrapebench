@@ -1,0 +1,646 @@
+Privacy Notice | Budget Car Rental
+Sign into your Budget Account
+Sign into your Budget Account
+Sign into your Budget Account
+Sign into your Budget Account
+We are unable to process your request at this time. Please return to the Homepage and start your process again or use the Worldwide Phone Number List to find your Budget Customer Service telephone number.
+You've reached the maximum amount of code sends. Please try again later or contact customer service.
+Your session has expired and logged out of profile. Please login and start your search again.
+Please enter your Budget password to login
+Get our best rates when you sign In.
+Terms Apply
+For full Budget and Amazon benefits, after logging in with Amazon you'll need to log in to Budget and link your accounts.
+Login is not required to complete your reservation
+Remember Me
+YES
+NO
+This site is protected by reCAPTCHA Enterprise and the Google
+Privacy Policy
+and
+Terms of Service
+apply.
+Sign In
+Log In
+Forgot username?
+Forgot Customer ID?
+Forgot password?
+Not You?
+Need an account?
+Create an Account
+Create an Account
+Not a Member? Join Now
+It’s easy and only takes a minute
+More Sign In Option
+More Log In Options
+If you already have a 6 digit Wizard number,
+Go Here!
+This site is protected by reCAPTCHA Enterprise and the Google
+Privacy Policy
+and
+Terms of Service
+apply.
+Cancel
+continue without passcode
+Not a Member? Join Now
+It's easy and only takes a minute.
+Best Rate Guaranteed
+Bonus Rental Day
+Free Upgrade (When Available)
+JOIN NOW
+Member Benefits Terms
+Best Rate Guarantee
+Create or log in to your Budget.com account to get the best rate.
+Exceptions:
+Car Rental rates from other car rental companies (including but not limited to Avis, National Enterprise, Alamo, Sixt, Dollar, Payless, etc) do not qualify.
+Rates obtained through the use of discounts, coupons, upgrade offers, pre-negotiated (e.g.. group, government, corporate, tour, insurance replacement rentals) or similar rates do not qualify.
+Car rental included as a part of a package rate (e.g. airfare + hotel + car rental, hotel + car rental, airfare + car rental) does not qualify.
+Car rental rates found on an auction or wholesale websites which do not display the name of the car rental company until after purchase, do not qualify.
+Car rental rates obtained from a website that requires a member login order to obtain the rate do not qualify
+Free Day earned on 3rd day Minimum
+Offer of one day free of the daily time and mileage charges on an intermediate (group C) through a full-size four-door (group E) car. Taxes, concession recovery fee, customer facility charges ($10/contract in CA) and fuel charges are extra. Optional items such as LDW and other surcharges may apply and are extra. Offer valid on minimum three-day rental. The renter is responsible for any additional time and mileage charges over one day. Coupon cannot be used for one-way rentals. One coupon per rental. Offer may not be used in conjunction with any other coupon, promotion or offer. Coupon valid at Budget locations in contiguous U.S. (excluding the New York Metro area). Holiday and other blackout periods may apply. If a rental begins during a blackout period, the whole rental is blacked out and doesn't qualify for use of coupon. An advance reservation is required. Customer must provide profile number associated with the coupon. Reservation must be cancelled by rental date, or coupon will be used. Offer subject to vehicle availability at time of reservation and may not be availabe on some rates at some times. For reservations made on Budget.com, free day will be applied at the time of rental. Budget reserves the right to alter the terms and conditions and use of coupons. Budget reserves the right to refuse or expire coupons at any time without prior notification. Coupons cannot be applied to completed rentals. Renter must meet Budget age, driver and credit requirements. Minimum age may vary by location. An additional daily surcharge may apply for renters under 25 years old.
+Rental must begin on or before 12/31/23.
+FREE UPGRADE
+One car class upgrade subject to availability on compact through full-size four-door car booking.
+VERIFICATION CODE OPTION
+VERIFICATION CODE VIA SMS
+VERIFICATION CODE VIA EMAIL
+You've reached the maximum amount of code sends. Please try again later or contact customer service.
+For added security, we will send you a verification code to verify your identity.
+Please choose a way to receive your verification code.
+Receive by Text:
+{{vm.securityAssessmentSummary.otpTokenverifiers.phoneNumber.value}}
+TEXT ME
+Receive by Email:
+{{vm.securityAssessmentSummary.otpTokenverifiers.emailAddress.value}}
+EMAIL ME
+VERIFICATION CODE
+For added security, please enter the verification code that has been sent to your mobile number beginning with {{vm.securityAssessmentSummary.otpTokenverifiers.phoneNumber.value}}
+For added security, please enter the verification code that has been sent to your email address beginning with {{vm.securityAssessmentSummary.otpTokenverifiers.emailAddress.value}}
+Security Passcode
+Submit
+Choose Verification Method
+ACCOUNT LOCKED
+Sorry, the maximum number of attempts has been reached. For your security your account has been locked.
+To activate your account, click on the link we sent to your email at {{vm.securityAssessmentSummary.otpTokenverifiers.emailAddress.value}}
+RESEND EMAIL
+EMAIL SENT
+Email to reactivate your account sent.
+Please check your email at {{vm.securityAssessmentSummary.otpTokenverifiers.emailAddress.value}} and click on the link we sent to unlock your account.
+RESEND EMAIL
+PASSWORD EXPIRED
+RESET PASSWORD
+{{vm.passwordResetMsg}}
+Please check your Junk E-mail folder just in case the email was delivered there instead of your inbox. For further queries use the Worldwide Phone Number List to find your Budget
+Customer Service
+telephone number.
+Close
+RESET PASSWORD
+Your password has expired. Please contact our
+customer service center
+for any details.
+Close
+5-Star Safety
+The National Highway Transportation Safety Administration from time to time rates vehicles for safety standards.&nbsp; Based on our last review, this vehicle was rated as a 5-star vehicle.&nbsp; Please note these ratings are subject to change and reflect our last review.
+STAY IN COMPLIANCE WITH YOUR COMPANY POLICY
+Thank You
+Great. Thanks for letting us know
+Are you still working for or associated with
+ {{vm.cbpCustomer.accountName}} ?
+YES I AM
+NO I'M NOT
+You may be subject to further employment verification at time of rental.
+You can always
+add a new discount code
+if you have one.
+{{vm.footerMessage}}
+Continue
+Continue
+Member Benefits Terms
+Best Rate Guarantee
+Create or log in to your Budget.com account to get the best rate.
+Exceptions:
+Car Rental rates from other car rental companies (including but not limited to Avis, National Enterprise, Alamo, Sixt, Dollar, Payless, etc) do not qualify.
+Rates obtained through the use of discounts, coupons, upgrade offers, pre-negotiated (e.g.. group, government, corporate, tour, insurance replacement rentals) or similar rates do not qualify.
+Car rental included as a part of a package rate (e.g. airfare + hotel + car rental, hotel + car rental, airfare + car rental) does not qualify.
+Car rental rates found on an auction or wholesale websites which do not display the name of the car rental company until after purchase, do not qualify.
+Car rental rates obtained from a website that requires a member login order to obtain the rate do not qualify
+FREE UPGRADE
+One car class upgrade subject to availability on compact through full-size four-door car booking.
+Avis Budget Group Privacy Notice
+Avis Budget Group Privacy Notice
+Last Updated Date: December 18, 2025
+Last Updated Date: December 18, 2025
+Welcome to the North America Privacy Notice of the Avis and Budget companies within the Avis Budget Group, Inc. and their subsidiaries and affiliates, including, without limitation Avis Rent A Car System, LLC, Budget Rent A Car System, Inc., Payless Car Rental, Inc. and Budget Truck Rental, LLC (we refer to these companies as “
+ABG
+,” “
+we
+,” “
+us
+,” or “
+our
+” in this Privacy Notice). This Privacy Notice does not apply to Zipcar. This Privacy Notice covers the personal information we collect, use and disclose through your use of our websites, mobile applications (“
+Apps
+”), products and services, either online or offline (collectively, “
+services
+”). However, this Privacy Notice is not a contract and does not create any legal rights or obligations not otherwise provided by law. In some cases, we may provide additional disclosures or privacy notices specific to certain products, services, or programs. Those additional disclosures supplement, and are to be read in conjunction with, this Privacy Notice.
+Updates to This Privacy Notice
+When we make changes to this Privacy Notice, we will post the changes here and revise the “Last Updated” date at the top of this page. If we make a change that significantly affects your rights, we will notify you through appropriate communication channels (such as by way of a prominent posting on our websites and in our Apps), prior to the change becoming effective. If you have an account with us, we may also notify you about material changes to this Privacy Notice by e-mail (sent to the e-mail address provided in your account), through our Apps, or as otherwise required or permitted by law. Any changes to this Privacy Notice will become effective upon posting of the revised Privacy Notice.
+Use of our websites, Apps, products and services following the posting of a new Privacy Notice constitutes your acceptance of the revised Privacy Notice then in effect. As such, we encourage you to review this site from time to time for the latest information on our privacy practices.
+Licensees Disclosures
+Many independent locations or franchises, which we refer to as “licensees,” use our names but are not owned or controlled by us. This Privacy Notice does not apply to the processing of your personal information by these independent licensees. See section 8 below to learn more about licensees.
+Region-Specific Disclosures
+United States
+Residents
+:
+If you reside in the United States, please
+Click here
+for additional U.S. State-specific privacy disclosures that may apply to you.
+United Kingdom and European Union Residents
+:
+If you reside in the United Kingdom or European Union, please use the appropriate website for your location, which can be found
+here
+, rather than using this website.
+Canada Residents
+: If you reside in Canada, please
+click here
+for additional Canada specific privacy disclosures that may apply to you.
+Welcome to the North America Privacy Notice of the Avis and Budget companies within the Avis Budget Group, Inc. and their subsidiaries and affiliates, including, without limitation Avis Rent A Car System, LLC, Budget Rent A Car System, Inc., Payless Car Rental, Inc. and Budget Truck Rental, LLC (we refer to these companies as “
+ABG
+,” “
+we
+,” “
+us
+,” or “
+our
+” in this Privacy Notice). This Privacy Notice does not apply to Zipcar. This Privacy Notice covers the personal information we collect, use and disclose through your use of our websites, mobile applications (“
+Apps
+”), products and services, either online or offline (collectively, “
+services
+”). However, this Privacy Notice is not a contract and does not create any legal rights or obligations not otherwise provided by law. In some cases, we may provide additional disclosures or privacy notices specific to certain products, services, or programs. Those additional disclosures supplement, and are to be read in conjunction with, this Privacy Notice.
+Updates to This Privacy Notice
+When we make changes to this Privacy Notice, we will post the changes here and revise the “Last Updated” date at the top of this page. If we make a change that significantly affects your rights, we will notify you through appropriate communication channels (such as by way of a prominent posting on our websites and in our Apps), prior to the change becoming effective. If you have an account with us, we may also notify you about material changes to this Privacy Notice by e-mail (sent to the e-mail address provided in your account), through our Apps, or as otherwise required or permitted by law. Any changes to this Privacy Notice will become effective upon posting of the revised Privacy Notice.
+Use of our websites, Apps, products and services following the posting of a new Privacy Notice constitutes your acceptance of the revised Privacy Notice then in effect. As such, we encourage you to review this site from time to time for the latest information on our privacy practices.
+Licensees Disclosures
+Many independent locations or franchises, which we refer to as “licensees,” use our names but are not owned or controlled by us. This Privacy Notice does not apply to the processing of your personal information by these independent licensees. See section 8 below to learn more about licensees.
+Region-Specific Disclosures
+United States
+Residents
+:
+If you reside in the United States, please
+Click here
+for additional U.S. State-specific privacy disclosures that may apply to you.
+United Kingdom and European Union Residents
+:
+If you reside in the United Kingdom or European Union, please use the appropriate website for your location, which can be found
+here
+, rather than using this website.
+Canada Residents
+: If you reside in Canada, please
+click here
+for additional Canada specific privacy disclosures that may apply to you.
+THE TYPES OF INFORMATION WE COLLECT, AND HOW WE COLLECT THEM
+HOW INFORMATION IS USED
+HOW INFORMATION IS SHARED
+HOW INFORMATION IS PROTECTED
+CHILDREN’S PRIVACY
+THIRD PARTY COLLECTION
+CONTACT US
+INDEPENDENT LOCATIONS
+REGION-SPECIFIC DISCLOSURES
+Want to know something specific?
+Want to know something specific?
+Want to know something specific?
+THE TYPES OF INFORMATION WE COLLECT, AND HOW WE COLLECT THEM
+HOW INFORMATION IS USED
+HOW INFORMATION IS SHARED
+HOW INFORMATION IS PROTECTED
+CHILDREN’S PRIVACY
+THIRD PARTY COLLECTION
+CONTACT US
+INDEPENDENT LOCATIONS
+REGION-SPECIFIC DISCLOSURES
+If you have questions, comments, or suggestions, you can always contact us using any of the ways described in the
+CONTACT US
+section.
+1. THE TYPES OF INFORMATION WE COLLECT, AND HOW WE COLLECT THEM
+We collect information from you, directly and through third parties, in accordance with this Privacy Notice any time you contact us, interact with us in person, through our services or on third-party platforms, or use our websites, Apps, products or services. If you do not provide the information we request, we may not be able to provide our products or services to you.
+Personal Information
+.
+Some of the information we collect can personally identify you, including, for example, your name and contact information, birthdate, government identification, payment information, membership ID, program ID, whether you are a part of a corporate or rewards program, payment arrangements, insurance arrangements, and information related to your rentals or use of products or services we provide or enable. For example, when you make a reservation, or join one of our programs, we collect your personal information such as: your name and contact information; birthdate; driver license and other appropriate government identification; payment information, including credit or debit card information (we collect security codes when you make a payment, but we do not keep them); information to process your discounts, such as coupons, discount codes, and membership numbers or codes; and other information that may be necessary to rent you a vehicle, provide you with services, contact you about these services or verify your identity. If you participate in an insurance program through us or are involved in an accident or property damage, we may collect additional information about your insurance provider and/or coverage.
+We may record or monitor any call you make to us for quality control, to enforce our rights, or for training or similar purposes. We may collect photos and videos in some instances, such as when you choose to share them with us in connection with one of our optional membership services or on social media or when we receive a notice of a traffic violation that includes a picture or video. Our rental locations may also be equipped with cameras and/or video security surveillance systems.
+When you download, visit or use our websites or Apps or interact with us using e-mail, texts or other forms of electronic communication, we may we use cookies, pixel tags, beacons, scripts and similar technologies to automatically collect certain information, including, for example, your IP addresses, MAC addresses, device identifier, browser type, Internet service provider (“ISP”), location, how you interact with our websites and/or Apps, referral/exit sites, operating system, date/time stamp, and clickstream data.
+We also collect personal information about you from third parties, including information from third party travel booking channels; service providers; licensees; airlines, hotels, membership clubs, payment card companies, advertisers and other partners; from your employer; from your social media services consistent with your information sharing settings on such services; and from other third-party sources that are lawfully entitled to share your information with us.
+We may collect information about relevant health conditions when necessary to provide adaptive driving devices.
+Connected Car Data
+Some of our rental vehicles are connected cars. A connected car is a vehicle equipped with features, telematics systems, on-board devices, or built-in services and technologies that are capable of collecting data about the vehicle and its use, including, for example, the vehicle’s condition, damage and accident events and records, performance, operation and diagnostic data, information on mileage, acceleration, braking, speed, fuel consumption, fuel level, tire pressure, odometer, location, direction and movements, and other vehicle-related information (collectively, “
+Connected Car Data
+” or “
+Vehicle Data
+”). Certain connected vehicles may also be equipped to capture camera images, both inside and outside the vehicle, as well as audio recordings.  The Connected Car Data collected may vary depending on the make and model of the vehicle as well as the features and services you use. We may receive Connected Car Data from the car manufacturer or may collect it directly through devices installed in the vehicle. Typically, this information is associated with the vehicle only and maintained as non-personal information, as described in the
+Non-Personal Information
+section below. If we link this information to you, we will treat it as personal information.
+Use of features and built-in services and technologies in connected cars are subject to the terms and conditions posted by the vehicle manufacturer and/or the technology provider, which may include system and service limitations, warranty exclusions, limitations of liability, wireless service provider terms, and user responsibilities. Some or all of these features are turned on at all times, even when other services or other media in the vehicle are turned off. If you are unsure whether your rental vehicle is a connected car, please speak to a member of our team at the rental location or contact the Rental Station Manager. Details on the connected car features in our rental vehicles are also set out in the applicable rental agreement. We cannot guarantee that a vehicle without connected car features will be available at your time of rental.
+Depending on the technology used in your rental vehicle, vehicle manufacturers and built-in services such as ‘Apple CarPlay’ or ‘OnStar’ may also collect Connected Car Data or other personal information from the vehicle pursuant to their privacy policies. For more information about this third party information collection, please refer to the
+Third Party Collection
+section below.
+Location Information
+We may collect information about your location from our websites, your mobile devices, and your visits to our locations. You may opt out of our collection of information about your location from mobile devices at any time by turning off transmission of geolocation data and push notifications on each of your mobile devices.
+The collection of geolocation information may be required for us to deliver certain aspects of your rental experiences. For example, we use real-time geolocation information from your mobile device when you opt-in to curbside pickup through Avis First and indicate that you are ready to pick up or drop off your rental so that we can monitor your location as you make your way to the designated location.
+We may also collect Connected Car Data that includes geolocation information through connected car features. See the Connected Car Data section of this Privacy Notice to learn more.
+Non-Personal Information
+We may also collect or transform information so that it is maintained in a form that is not linked to a particular individual, such as Connected Car Data that is not connected to a passenger or other aggregated, de-identified or anonymized information (“non-personal information”). This Privacy Notice does not apply to non-personal information, which we collect, use and disclose for a variety of purposes. However, any non-personal information that is linked to or combined with personal information, where permitted by law, will be treated as personal information subject to this Privacy Notice.
+Biometric Information
+QuickPass and Avis First Biometric Identity Verification:
+Avis and Budget may offer customers contactless and curbside rental experiences through our QuickPass and Avis First services. We rely on trusted third-party identity verification providers to facilitate customer identity verification using biometric facial comparison technology to provide customers the QuickPass and Avis First services.
+In order to verify a customer’s identity through this process, the customer is asked to capture an image of their driver’s license and take a real-time selfie image of their face. Our identity verification providers then use a combination of machine learning tools and statistical algorithms to confirm the authenticity of the driver’s license and perform a biometric facial comparison to determine whether the faces contained in the driver’s license and selfie image belong to the same person. Through this process, the verification provider will typically generate a “confidence score” representing the confidence level that the images of the individuals match, which we or the relevant provider may use in determining the level of confidence that the individual submitting the selfie image is the same person as the individual on the driver’s license.
+We do not receive any facial biometric information generated from the images, and we contractually require our integrated identity verification providers who process this information on our behalf to destroy any biometric information promptly after processing in accordance with a data retention schedule. We do not use, disclose or retain facial biometric information for any other commercial purpose.
+In some circumstances, we may rely on an independent third-party identity verification provider that requires our customers to create and maintain an account directly with the provider on the provider’s own site or service. If a customer creates an account with one of our third-party identity verification providers, the provider’s processing of personal information, including biometric information, will be subject to the provider’s own terms and privacy policy (which will be presented to the customer during the provider’s account creation process). In this circumstance, the provider may retain a copy of the customer’s selfie image and/or driver’s license (as well as the biometric facial geometry extracted from the images) for the purposes and length of time described in that provider’s privacy policy, including for the purpose of streamlining future identity verification attempts using that provider’s identity verification platform. Please review the provider’s privacy policy closely to understand how your personal information, including biometric information, will be used, disclosed and retained by the identity verification provider.
+Mobile Application Authentication
+: Some of our mobile applications require you to log in to access your account or interact with your connected car.  We may provide you the ability to log in or authenticate yourself using facial, fingerprint or other biometric recognition technology available through your mobile device.  If you choose to utilize these login features, information about your facial geometry, your fingerprint or other biometric information will be collected by your mobile device for authentication purposes.  We do not store or have access to this biometric information.  Instead, your mobile device will perform the biometric authentication process and only let us know whether the authentication was successful.  If the authentication was successful, you will be able to access the applicable mobile application or feature without separately providing your credentials.
+2. HOW INFORMATION IS USED
+Personal Information
+We use your personal information to:
+fulfill or meet the reason you provided the information, such as to create your account, process your transaction or respond to your inquiry;
+operate, maintain, and provide you with our websites, Apps, products and services;
+recognize you and remember your information when you return to our websites and services;
+verify your identity and confirm the authenticity of your identity documents;
+provide you with additional services or functionalities (for example, to facilitate contactless and curbside rentals, to provide remote lock/unlock, to remote disable engine/cancel ignition, and to automatically receive the vehicle location, odometer, fuel level and other information in connection with your rental);
+administer your rental, manage your rental records and to calculate your fees (for example, to automatically record the start of your rental, any exchange or upgrades, and the fuel or mileage usage and charges);
+communicate information regarding your reservation or rental. These communications are transactional or service related and will be sent via email, text, push notification or phone calls;
+diagnose problems, analyze trends, and assess our performances;
+provide roadside assistance;
+provide you with discounts;
+improve our operations and services;
+better understand our customers’ preferences;
+better understand how our vehicles are being used such as by analyzing Connected Car Data;
+tailor and personalize our services, promotions and offers to our customers, including targeted offers and ads relevant to your interests through our websites, Apps, third-party sites, or on other devices you may use;
+testing, training, research, analysis and development of our products and services;
+maintain our fleet;
+recover lost, stolen or towed rental vehicles;
+interact with you in person, through our services, via email, text message, push notification, phone calls or on third-party platforms (such as social media sites);
+provide you with, and improve, relevant marketing (including via email, direct mail, phone or text message) or offers from us and our partners, and to inform our advertising and marketing campaigns;
+run our contests, sweepstakes or promotions;
+enable third-party vehicle applications and services;
+improve road safety and reduce traffic;
+evaluate, negotiate, or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of ABG’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by ABG about consumers is among the assets transferred or is otherwise relevant to the evaluation, negotiation or conduct of the transaction.
+respond to legally binding requests from law enforcement, regulatory authorities or other third parties;
+maintain the safety, security, and integrity of our or another’s premises, property, services or other assets, including ABG vehicles, technology assets and business;
+defend, protect or enforce our rights or applicable terms of service;
+prevent fraud or the recurrence of fraud;
+assist in the event of an emergency; and
+comply with applicable law.
+We use information about your location (including, at times, by linking personal information with location information of the rental vehicle you are using) to locate our nearest rental location, send you location-based notifications (
+i.e
+., nearby special offers), arrival and return notifications, vehicle location, facilitate contactless and curbside rentals, and upgrade availabilities. We also use Connected Car Data to analyze and enhance our services, improve efficiency in managing our inventory, maintain our fleet and otherwise improve our services and operations.
+We use cookies, pixel tags, beacons, scripts, mobile SDKs and similar technologies to adjust and optimize our content to your preferences, to provide you with useful functionalities, to remember your previous rentals and your travel preferences, to help us make our website, Apps, products and services more convenient and efficient, to improve our services, to help us analyze usage trends and patterns, and to tailor online advertisements by us and our partners to you, and we may use third-party vendors or technology to assist with these efforts. Our third-party vendors and partners may use these technologies to collect information about your online activities over time and across different websites or online services when you use or interact with our website and other online services.
+We may also use third-party tools or technology to monitor user experience information on our website. These tools automatically record information about how you interact with our website including pages or links you click, videos you watch, mouse clicks and movements, page scrolling and text keyed into website forms or chat features. We use this information for site analytics, optimization, to improve website usability and enhance the effectiveness of our Website, offers, advertising, communications and customer service. We also use analytic software, such as Google Analytics and others, to help us to better understand how our websites and Apps function on your device and for research and development. We may also utilize certain forms of display advertising and other advanced features through Google Analytics, such as Remarketing with Google Analytics, which uses third-party cookies (such as the DoubleClick advertising cookie) or other third-party cookies together to inform, optimize, and display ads based on your past visits to the services. For information on how Google Analytics collects and processes data, as well as how you can control information sent to Google, review Google's site “How Google uses data when you use our partners’ sites or apps” located at
+www.google.com/policies/privacy/partners/
+and you can learn about Google Analytics’ currently available opt-outs, including the Google Analytics Browser Ad-On, at
+https://tools.google.com/dlpage/gaoptout/
+.
+We may use third party platforms to help us promote interest-based advertisements to you or to offer integration with third-party services (such as the Facebook Like button). These providers use cookies or similar tracking technologies to collect information about your use of our websites, including our mobile apps, over time so that they may deliver the integrated services or play or display ads on our services, on other websites, apps or services you may use, and on other devices you may use. We may share a common account identifier (such as a hashed email address or user ID) with our third-party advertising partners to help identify you across devices. We and our third-party partners use this information to facilitate integrated services or to make the advertisements you see online more relevant to your interests, as well as to provide advertising-related services such as reporting, attribution, analytics and market research. You have options when it comes to cookies and other web tracking tools.
+You can adjust your cookie preferences for this site by clicking the “Your Privacy Choices” link in the footer of the website. Alternatively, you can set your browser or device to refuse all cookies or to indicate when a cookie is being sent. However, some features or services may not function properly without cookies.
+Data Retention
+We may retain your information for as long as you have an account with Avis, Budget, Payless, or Budget Truck Rental, as needed to provide you our services, or as otherwise necessary for the processing purpose(s) for which the information was originally collected and any other legitimate business purpose, including, for legal, archival, accounting, and/or audit purposes.
+To determine the appropriate duration of the retention of personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use or disclosure of personal information, and whether we can attain our objectives by other means, as well as our legal, regulatory, tax, accounting, and other applicable obligations.
+Once retention of the personal information is no longer necessary for the purposes outlined above, we will either delete or deidentify the personal information or, if this is not possible (for example, because personal information has been stored in backup archives), then we will not further process the personal information until deletion or deidentification is possible.
+Your Opt-Out Choices
+If you would like to opt-out of receiving marketing e-mails
+: Click the “unsubscribe” at the bottom of an e-mail we sent you, or log into your account and update your profile, or contact any customer service representative.
+If you would like to opt-out of receiving marketing text messages
+: For Avis, text the word “STOP” in response to the text message you receive. For Budget, text the word “STOP” in response to the text message you receive. For more information about our text message communications and your options for opting out, as well as additional terms, please see our SMS Policy
+here.
+Please note that revoking consent to receive marketing and promotional e-mails and text messages does not affect our non-promotional or non-marketing communications including, for example, communications about the status and activities of your accounts, billing communications, responses to your requests, post-service feedback or survey requests, confirmations, and similar communications.
+If you would like to opt-out of receiving tailored online advertisements from us and our partners
+: Adjust your cookie preferences for this site by clicking the “Your Privacy Choices” link in the footer of the website and following the instructions. Alternatively, you can set your browser or device to refuse all cookies or to indicate when a cookie is being sent. Check your specific browser’s website to learn how to adjust your cookie settings. Please note that if you opt-out of tailored advertising, you will continue to receive general ads. To learn about online advertising and your choices, including how you can opt-out of receiving behavioural ads from third-party advertising companies participating in the Digital Advertising Alliance of Canada, click here:
+http://www.networkadvertising.org/choices/
+or
+http://www.aboutads.info/choices/
+(if you are a US visitor) or
+http://www.networkadvertising.org/choices/
+or
+http://youradchoices.ca/choices/
+(if you are a Canadian visitor). You may control your advertising preferences or opt-out of certain Google advertising products by visiting the Google Ads Preferences Manager, currently available at
+https://google.com/ads/preferences
+.  Some ABG companies partner with an advertising company (Rokt). To the extent ABG companies have partnered with Rokt, you may also opt out of certain advertising offers provided by our advertising partner, Rokt, by following the instructions set forth in Rokt’s Privacy Policy, currently available at
+https://rokt.com/privacy-policy/
+. You must perform the opt-out on each browser or device you use. These opt-out choices may not affect online advertising that is not cookie-based. Some of these opt-outs may not be effective unless your browser is set to accept cookies. If you delete cookies, change your browser settings, switch browsers or computers, or use another operating system, you may need to opt-out again. Please note that when you “opt-out” of receiving interest-based advertisements, this does not mean you will no longer see advertisements from us or on our services.  In addition, third parties may still use cookies to collect information about your use of our services, including for analytics and fraud prevention as well as any other non-advertising purpose.
+You can stop sharing the location information of your mobile device through the applicable ABG App by turning off location services or by uninstalling the App. If you would like to uninstall the ABG app:
+Use the standard uninstall processes as may be available as part of your mobile device or via the application marketplace or network from which you downloaded the app.
+You may also be able to limit mobile interest-based advertising through the settings on your mobile device by selecting “Ask Apps Not to Track” (iOS) or “opt-out of interest based ads” (Android). You may also be able to opt-out of some – but not all – interest-based ads served by mobile ad networks by visiting
+http://youradchoices.com/appchoices
+and downloading the mobile AppChoices app. You may be able to limit the use of location data for advertising purposes by adjusting your location services settings on your mobile device.
+3. HOW INFORMATION IS SHARED
+To facilitate the uses of personal information identified in this Privacy Notice, we may share your personal information with a variety of third parties, including our service partners and business partners.
+We may share your personal information with our third-party service providers and partners to help us with our marketing and promotional projects, such as managing our social media pages, running contests, sweepstakes and other promotions, or to comply with your directions or any additional consent you have provided us.
+In addition, Budget Truck may share your personal information with third parties who use this information to provide you with information and marketing messages about products or services that may interest you. These parties may use your information in accordance with their own privacy policies and terms.
+If you are renting with a corporate, membership or other similar commercial entity account, we may share personal information with the organization that manages the account for their own purposes. Similarly, if you are a driver of a fleet vehicle associated with a corporate or commercial entity account, your organization may have access to personal information and Connected Car Data, including real-time location data, associated with the organization’s fleet vehicles. We recommend you review your organization’s privacy policy to learn more about its privacy practices.
+We and our business and promotional partners send you information about products and services you may like. For example, we may help to arrange hotel rentals, flights or other services from our business partners, and share personal information with our business partners in order to provide those services and facilitate your reservations. We may also work with third parties, such as our airline and payment card partners, to allow us and our partners to deliver advertisements to our shared customers. Our partners may be able to provide more relevant offers to you based upon information that we share about your rentals, as well as information in your loyalty program profile. Additionally, we may allow third-party partners to recognize you when you visit that partner’s website or app, or to recognize you as one of their customers when you visit our websites or apps so that they may provide more relevant offers to you. You may opt out of receiving marketing and promotional e-mails and text messages from us and our business and promotional partners as described in the Your Opt-Out Choices section of this Privacy Notice.
+We may share website usage information, including searches, transaction and profile information (but not your name) with our partners for the purpose of making the online advertisements on our websites and other websites that display our advertisements more relevant.
+We may also let you share some of our online content on social media websites through hosted sharing links and icons. We do not track or store a record of each time a third party shares our online content. If you choose to participate in posting or sharing activities, you should remember that it may be viewed by the public via ABG’s website, in RSS feeds, APIs (application program interfaces) and may also be made available to other websites. As a result, your public activities may appear on third-party websites, blogs, or feeds. ABG is not responsible for the information that may be shared publicly. Our websites may include social media features, such as the Facebook Like button. These features may collect your IP address, which page you are visiting on our website, and may set a cookie so that the Like button feature works properly. Any social media feature is governed by the privacy policies of the website providing the feature. We encourage you to read the privacy policies of any website you visit.
+We may share your personal information with law enforcement and regulatory authorities or other third parties as required or permitted by law, including for the purpose of:
+responding to a subpoena, court order or other legal processes;
+defending, protecting or enforcing our rights;
+assisting in the event of an emergency; and
+complying with applicable law.
+We may also share personal information with third parties in the event of an actual or potential merger or acquisition, consolidation, change in control, transfer of assets, bankruptcy, reorganization, or liquidation. To the extent that local laws require it, we will provide you notice on our websites or via e-mail of our intent to transfer personal information to a third party for this purpose.
+Location Information
+.
+We only share information about your location with:
+our third-party service providers to help provide our services or third-party services you have requested;
+law enforcement and regulatory authorities or other third parties as required or permitted by law, including for the purpose of:
+o    responding to a subpoena, court order or other legal processes;
+o    defending, protecting or enforcing our rights;
+o    to locate an overdue or suspected stolen or lost vehicle
+o    assisting in the event of an emergency; and
+o    complying with applicable law.
+Depending on the Connected Car technology used in your rental vehicle, vehicle manufacturers and built-in services such as ‘Apple CarPlay’ or ‘OnStar’ may also collect and disclose location data from the vehicle pursuant to their privacy policies. For more information about this third party information collection, please refer to the
+Third Party Collection
+section below.
+4. HOW INFORMATION IS PROTECTED
+The security of personal information is important to us. We take reasonable steps designed to protect personal information from unauthorized use, access, disclosure, alteration, destruction or loss. You are responsible for keeping your account safe. Do not share your passcode, membership and pin numbers with anyone. Please be mindful that hackers and scammers may impersonate us or our website. For more information about phishing, please visit https://www.consumer.ftc.gov/articles/0003-phishing. If you suspect an unauthorized use or security breach of your information, you must notify our
+customer service
+as soon as possible! We are not responsible or liable for any loss or damage if your account passcode, membership numbers and pin numbers are stolen or used inappropriately.
+5. CHILDREN’S PRIVACY
+Our websites, Apps, products, and services are not for children under the age of 13. We do not knowingly collect or solicit personal information from children under the age of 13. If you are under the age of 13, please do not use our websites or online services or otherwise provide us with any personal information either directly or by other means. If you think we have received personal information from a child under the age of 13, please
+contact us
+immediately. If we learn that any personal information we have collected has been provided by a child under the age of 13, we will promptly delete that personal information.
+We also do not sell the personal information of individuals we know to be less than 18  years of age or share such information for targeted advertising purposes.
+6. THIRD PARTY COLLECTION
+Our websites and Apps may include links to and from third-party websites, plug-ins and applications. This Privacy Notice does not apply to those third-party services, and we do not control how personal information is collected or used on those third-party services, so please review the privacy policy of any third-party service you visit.
+Many ABG branded locations or franchises are independently owned and operated. This Privacy Notice does not apply to the processing of your personal information by these independent locations or franchises. Click
+here
+to learn more about independent locations or franchises.
+Depending on the technology used in your rental vehicle, vehicle manufacturers and built-in services, such as OnStar, Uconnect, Bluetooth, Apple CarPlay, and Android Auto, may also collect Connected Car Data from our vehicles pursuant to their privacy policy and share the Connected Car Data with us. Please note, Connected Car Data may be received by the manufacturer of the connected car or the owner of the built-in service prior to it being received by us. We encourage you to review the manufacturer’s and the relevant built-in service’s privacy policies and other terms and conditions related to Connected Car Data to understand what personal information is being collected from the connected car and the purposes for which it is being collected. If you choose to sync your information or a device to the car (using Bluetooth, USB or otherwise), data from you or your device may be accessed and stored on the car’s systems, such as the infotainment system.
+Please always unpair your device and ensure that you take the necessary steps to remove your information from the system when you return the car at the end of your rental period. If you do not do this, your information may be retained in the system and could be accessed by anyone who is authorized to use the car.
+We are not responsible for any data that is left in the vehicle as a result of your use.
+7. CONTACT US
+If you have questions, comments, or suggestions, you can always contact us in the following ways. We may need to verify your identity before assisting with your request.
+I want to…
+How to reach us
+Contact Avis customer service
+Phone: 1-800-352-7900
+E-mail:
+custserv@avis.com
+Mail:     P.O. Box 699000
+Tulsa, OK 74169-9000
+Hours of Operation: 7:30am-7:30pm CST
+Contact Budget customer service
+Phone: 1-800-621-2844
+E-mail:
+budgetcustomerservice@budgetgroup.com
+Mail:     P.O. Box 699000
+Tulsa, OK 74169-9000
+Hours of Operation: 7:30am-7:30pm CST
+Contact Budget Truck Rental customer service
+Phone: 1-800-462-8343
+E-mail:
+btr-customerserviceVAB@avisbudget.com
+Mail:     P.O. Box 699000
+Tulsa, OK 74169-9000
+Hours of Operation: 7:30am-7:30pm CST
+Contact Payless customer service
+Phone: 1-800-729-5377
+E-mail:
+customerservice@paylesscar.com
+Mail:     P.O. Box 699000
+Tulsa, OK 74169-9000
+Hours of Operation: 7:30am-7:30pm CST
+Access, update or correct some of my information
+(1) Log into your account and update your profile; or
+(2) Contact any customer service representative above
+·         Ask questions regarding ABG’s Privacy Notice and practices
+·         Notify ABG that we may have received personal information of a child under 13
+E-mail:
+ABGprivacy@avisbudget.com
+Mail:     Avis Budget Group
+379 Interpace Parkway
+Parsippany, NJ 07054
+Attn: Privacy Officer
+Phone: 866-284-7669
+Request to stop receiving marketing e-mails from ABG
+(1) Click “unsubscribe” at the bottom of an e-mail we sent you; or
+(2) Log into your account and update your profile; or
+(3) Contact any customer service representative above
+Request to stop receiving marketing text messages from Avis and/or Budget
+Text the word “STOP” to any marketing text message you receive.
+8. INDEPENDENT LOCATIONS
+Please note, many Avis, Budget, Payless and Budget Truck locations are owned and operated by an independent licensee and not owned or controlled by ABG or any ABG affiliate or subsidiary. This Privacy Notice only applies to our processing of your personal information and does not apply to the processing of your personal information by an independent licensee. Each of these independent licensees is responsible for its own collection and processing of personal information and may collect, use or disclose personal information differently than described in this Privacy Notice.
+In particular, the licensee is responsible for its own collection and processing of payments and may engage in its own e-mail campaigns and other forms of marketing to you. Because we do not control the independent licensee’s use of personal information and we are not responsible for the independent licensee’s compliance with applicable privacy laws, you should direct any questions about a licensee’s privacy practices to the specific licensee.
+9. Additional U.S. State Privacy Disclosures
+Nevada Residents:
+If you are a resident of the state of Nevada in the United States, please note Chapter 603A of the Nevada Revised Statutes permits a Nevada resident to opt out of future sales of certain covered information that a website operator has collected or will collect about the resident. To submit such a request, please contact us at
+ABGprivacy@avisbudget.com
+with the subject line “Nevada Opt-Out”.
+Other U.S. Residents
+: These U.S. State Privacy Disclosures (the “
+U.S. State Disclosures
+”) supplement the information contained in our Privacy Notice and apply solely to individual residents of states with consumer privacy laws providing individuals the ability to exercise control of their personal information, including California, Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, and New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah and Virginia.
+Collection and Use of Personal Information
+Personal Information Collected
+As described in more detail in
+The Types of Information We Collect, And How We Collect Them
+section of the
+Privacy Notice
+,  we collect the following categories of personal information:
+·
+Identifiers,
+such as your name, address, phone number, email address, date of birth, passport or other government identification information, driver’s license information, account information, membership or program ID, or other similar identifiers.
+·
+Customer Records
+, such as driver’s license number, fraudulent activity flags, insurance provider and coverage information, health information, passport number, debit card information, credit card information, bank account information or other payment or financial information.
+·
+Protected Classification Characteristics
+, such as age, gender, and relevant disability information for providing adaptive driving devices.
+·
+Commercial Information
+, such as information about whether you are part of a corporate or rewards program, products or services purchased or considered and your use of our services, including reservation details.
+·
+Biometric Information
+, such as facial geometry used solely by our third-party partners for identity verification purposes. We do not receive any biometric information generated from these processes.
+·
+Internet/Network Information
+, such as device information, log, and analytics data.
+·
+Geolocation Data
+, such as information about your physical location collected from geolocation features on your device or ABG vehicle, including your IP address and GPS (e.g. latitude and/or longitude).
+·
+Sensory Information
+, such as pictures and videos you provide us or we record in connection with our services or the surveillance of our premises, and audio recordings of phone calls between you and us, where permitted by law.
+·
+Professional/Employment Information
+, including the business or organization you are associated with and, where applicable, your title with that business or organization and information relating to your role with the business or organization.
+·
+Other Personal Information
+, such as your travel or flight information, your driving records, claim information, driver behavior information and additional information you provide to us directly or through a third-party service, including messages you send us through our services or make available to us on social media.
+·
+Inferences
+, including information generated from your use of our websites and your driving, vehicle and rental history reflecting your preferences.
+Sources of Personal Information
+We collect personal information directly from you, from your browser or device when you interact with our websites, Apps and other online services, from your ABG vehicle, and from our business partners and affiliates, ABG licensees, third parties you direct to share information with us, and other third-party information providers. For representatives of our business customers, vendors, service providers and other third parties, we also collect personal information from the entity you represent.
+Purposes for Collection
+We collect personal information about you for the purposes described in the How Information Is Used section of our Privacy Notice. For representatives of our business customers, vendors, service providers and other third parties, we also collect your personal information to maintain an ongoing relationship between us and the entity you represent and to contact you in connection with our relationship with the entity you represent.
+Sensitive Information
+Some of the categories of personal information we collect may be classified as “sensitive” under certain U.S. state privacy laws (“sensitive information”), including government identifiers (such as driver’s license numbers), payment card information, biometric information (collected and processed by our service providers), precise geolocation data, relevant health information when necessary to provide adaptive driving devices, status as a victim of a crime when recorded in connection with an incident occurring during a rental, and status as transgender or non-binary when included on a driver’s license.
+We only use this sensitive information for the purposes set forth in the How Information Is Used section of our Privacy Notice to the extent necessary for the operation of our Services, to enter into and perform a contract with you, to comply with legal and regulatory requirements, to protect the life or physical safety of anyone or as otherwise permissible for our own internal purposes consistent with laws.
+Deidentified Information
+We may at times receive, or process personal information to create, deidentified information that can no longer reasonably be used to infer information about, or otherwise be linked to, a particular individual or household. Where we maintain deidentified information, we will maintain and use the information in deidentified form and not attempt to reidentify the information except as required or permitted by law.
+Personal Information Disclosure, Sale and Use for Targeted Advertising
+Disclosure
+As described in more detail in the How Information is Shared section of our Privacy Notice, we may disclose the categories of personal information identified above to the following categories of third parties for various business purposes: our affiliate companies, licensees, security providers, service providers, business partners, marketing providers and partners, ad networks and advertising partners, analytics providers, social networks, other businesses as needed to provide our services, and certain third parties where you have requested or provided consent, in connection with a corporate transaction, or where we are required by law or in connection with other legal process.
+Sale and Targeted Advertising
+Unless you have exercised your right to opt-out, we have sold or may sell in the future, Identifiers (such as your name, email address and contact information), Commercial Information (such as products sold or considered), Internet/Network Information (such as analytics data), and Inferences (generated from your interactions with our services) to third parties who may use this information to communicate with you or to offer you products and services that may be of interest to you, such as services relating to your vehicle rental or moving or home-related services.
+We may also sell or disclose personal information (including Identifiers, Commercial Information, Internet/Network Information, and Inferences) to certain third-party ad networks, social networks and advertising partners to deliver targeted advertising (also known as “cross-context behavioral advertising”) and personalized content to you on our services, on other sites and services you may use, and across other devices you may use, as well as to provide advertising-related services such as reporting, attribution, analytics, and market research.
+Our websites, Apps, products, and services are not for consumers under the age of 13. We do not knowingly collect or solicit personal information from consumers under the age of 13. We also do not sell the personal information of consumers we know to be less than 18 years of age or share such information for targeted advertising purposes.
+Depending on your state of residency and subject to certain legal limitations and exceptions, you may be able to limit or opt-out of the sale of personal information or the processing of personal information for purposes of targeted advertising (as described in the Your Privacy Choices section below).
+Your Privacy Choices
+Depending on your state of residency and subject to certain legal limitations and exceptions, you may be able to exercise some or all of the following rights:
+The Right to Know
+The right to confirm whether we are processing personal information about you, and for residents of certain states, to obtain certain personalized details about the personal information we have collected about you, which may include:
+The categories of personal information collected;
+The categories of sources of the personal information;
+The purposes for which the personal information were collected;
+The categories of personal information disclosed to third parties (if any), and the categories of recipients to whom this personal information were disclosed (or, for Oregon residents only, a list of the specific third parties to whom personal information has been disclosed);
+The categories of personal information shared for targeted or cross-context behavioral advertising purposes (if any), and the categories of recipients to whom the personal information were disclosed for these purposes; and
+The categories of personal information sold (if any) and the categories of third parties to whom the personal information was sold.
+The Right to Access & Portability
+The right to obtain access to the personal information we have collected about you and, where required by law, the right to obtain a copy of the personal information in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance.
+The Right to Correction
+The right to correct inaccuracies in your personal information, taking into account the nature of the personal information and the purposes of the processing of the personal information.
+The Right to Opt-Out of Targeted Advertising
+The right to direct us not to use or share personal information for certain targeted advertising purposes.
+The Right to Opt-Out of Sales
+The right to direct us not to sell personal information we have collected about you to third parties.
+The Right to Request Deletion
+The right to request the deletion of personal information we maintain about you.
+Depending on your state of residency, you may also have the right not to receive retaliatory or discriminatory treatment in connection with a request to exercise the above rights. In addition, if the exercise of these rights limits our ability to process personal information (such as in the case of a deletion request), we may no longer be able to provide you our products and services or engage with you in the same manner.
+Submitting Privacy Rights Requests
+Please note, when you submit a request to us, that request will only be processed with respect to the ABG brand to which you have submitted such request.
+To Exercise Your Right to Know, Access, Portability, Correction, or Deletion/Withdraw Consent
+To exercise your right to know, access, portability, and/or deletion, please submit a request by filling out our Privacy Rights Request Form or by emailing ABGprivacy@avisbudget.com  with the subject line “U.S. Privacy Rights Request”.
+•
+California Residents Only
+: You may also submit a request by calling 866-284-7669.
+To exercise your right to correction, please submit a request by emailing
+profile.updates@avisbudget.com
+or calling 1-800-352-7900.
+We will need to verify your identity before processing your request, which will generally either require the matching of sufficient information you provide us to the information we maintain about you in our systems, or the successful log-in to your account (if applicable). As a result, in most cases, we require requests to include full name, date of birth, address, last four digits of your driver’s license number, state of driver’s license issuance, and email address. We may at times need to request additional personal information from you, taking into consideration our relationship with you and the sensitivity of your request.
+In certain circumstances, we may decline a request to exercise the rights described above, particularly where we are unable to verify your identity, if the rights of another individual might be violated or as otherwise permitted by law.
+To Exercise Opt-Out Rights in Relation to Targeted Advertising or Personal Information Sales
+To exercise your opt-outs rights in relation to targeted advertising or personal information sales, please submit a request by:
+For Cookie-Based Sales & Targeted Advertising Opt-Outs
+: To exercise your right to opt-out as it relates to the use of cookies and other tracking technologies for certain analytics and targeted ads, please click “Your Privacy Choices” in the website footer and follow the instructions. Please note this opt-out tool is website, device, and browser specific, so you will need to change your preferences on each device and browser you use to interact with the specific website you are visiting.
+By visiting
+www.privacyrights.info
+or
+https://optout.privacyrights.info/?c=1
+, you can also opt out from sales of this type of personal information by businesses that participate in the DAA’s CCPA Opt-Out Tool. To make opt-out requests related to mobile apps on your device for businesses participating in the DAA’s CCPA App-based Opt-Out Tool, you can download the appropriate app at
+www.youradchoices.com/appchoices
+. In addition, you may follow the other steps set forth in the Your Opt-Out Choices section of the Privacy Notice to further exercise control over cookies and related technologies. Please note these opt-outs are browser specific. You must reset your preference if you clear cookies or use a different browser or device.
+For Avis, Budget, or Payless Non-Cookie-Based Opt-Outs:
+Filling out our form by clicking here:
+U.S. State Resident Opt-Out Form
+, or calling 866-284-7669.
+For Budget Truck Non-Cookie-Based Opt-Outs:
+Filling out our form by clicking here:
+U.S. State Resident Opt-Out Form
+, or calling 866-284-7669.
+•
+California Residents Only:
+You may also submit a request by calling 866-284-7669.
+For California residents
+: California's "Shine the Light" law (Civil Code Section §1798.83) provides certain rights to California residents that have an established business relationship with us with regard to the disclosure of certain types of personal information to third parties for their direct marketing purposes. It is company policy that we do not disclose personal information to third parties for their direct marketing purposes if a consumer has exercised their right to opt out.  To opt out of having your personal information disclosed to third parties for their direct marketing purposes, please follow the instructions for opting out of personal data sales (above).
+Appealing Privacy Rights Decisions
+Depending on your state of residency, you may be able to appeal a decision we have made in connection with your privacy rights request. Please submit all appeals requests by replying to the communication resolving your original request or emailing us at
+ABGprivacy@avisbudget.com
+.
+Authorized Agent
+In certain circumstances, you are permitted to use an authorized agent to submit requests on your behalf through the designated methods set forth above where we can verify the authorized agent’s authority to act on your behalf. In order to verify the authorized agent’s authority, we generally require evidence of either (i) a valid power of attorney or (ii)
+a signed letter containing your name and contact information, the name and contact information of the authorized agent, and a statement of authorization for the request. Depending on the evidence provided and your state of residency, we may still need to separately reach out to you to confirm the authorized agent has permission to act on your behalf and to verify your identity in connection with the request.
+California Notice of Financial Incentive
+The following disclosures only apply to residents of the State of California.
+We may choose to provide programs and other offerings intended to provide benefits to eligible participants that qualify as financial incentives under certain privacy laws. For example, the financial incentives we may choose to make available to interested individuals may include loyalty or membership programs, as well as discounts, coupons and other special offers for engaging with us.
+To obtain access to certain of these programs and other offerings, we may ask to collect or share an interested individual’s personal information, including name, contact information, and purchase history. We have determined that the value of any of these programs and other offerings are reasonably related to the value of the personal information we would receive and otherwise process in connection with these programs and offerings, based on our reasonable but sole determination. We estimate the value of the personal information we would receive and otherwise process in connection with these programs and offerings by considering the expense we would incur in collecting and processing the personal information, as well as the expenses related to facilitating the program or offering.
+The terms applicable to each program and other offering will be provided at the time an eligible individual is offered an opportunity to participate. Interested individuals can opt-in to these financial incentives by following the instructions presented at the time the offer is made. Participating individuals may withdraw from our programs and other offerings at any time by following the instructions provided in connection with each offering or emailing us at
+ABGprivacy@avisbudget.com
+.
+10. Additional Canada Privacy Disclosures
+These disclosures supplement the information contained in our Privacy Notice by providing additional information about our personal information processing practices relating to individuals who access our services or otherwise interact with us from Canada.
+Means of Collection of Personal Information
+We collect personal information directly from you, from your browser or device when you interact with our websites, Apps and other online services, from your ABG vehicle, and from our business partners and affiliates, ABG licensees, third parties you direct to share information with us, and other third-party information providers. For representatives of our business customers, vendors, service providers and other third parties, we also collect personal information from the entity you represent.  We will collect, use and disclose personal information with consent or as otherwise permitted or required by applicable privacy laws.
+Our Privacy Governance Policies and Practices
+We are committed to protecting personal information and have implemented policies and practices that govern our treatment of personal information, including:
+·        A privacy framework that defines the roles and responsibilities of our employees with respect to the treatment of personal information in our custody and control;
+·        Practices pertaining to privacy training and awareness for our employees with access to personal information;
+·        Policies and procedures regarding the protection of personal information, including safeguards designed to protect personal information in our custody and control against loss or theft and unauthorized access, use or disclosure; and
+·        A framework governing the retention and destruction of personal information that is designed to comply with our legal and contractual obligations.
+Data Sharing
+We and our service providers (including affiliates) may access, store and otherwise process personal information on our behalf outside of the Canadian province in which you reside, including in the United States. For further information on our use of service providers located outside of Canada, please contact us at
+ABGprivacy@avisbudget.com
+.
+Disclosures Required by Law
+We and our U.S., Canadian, and other foreign service providers and affiliates may provide your personal information in response to a search warrant or other legally valid inquiry or order, or to another organization for the purposes of investigating a breach of an agreement or contravention of law or detecting, suppressing or preventing fraud, or as otherwise may be required or permitted by applicable U.S., Canadian or other law or legal process, which may include lawful access by U.S. or foreign courts, law enforcement or other government authorities.
+Individual Rights
+Subject to limitations under applicable law, you have the right to access, update and correct
+inaccuracies in your personal information in our custody or control. If you reside in Quebec, you may also have the right to receive a copy of your information (including in a structured, commonly used technological format), or to have us share it with an authorized third party in certain circumstances and you may also have the right to request that we cease disseminating or de-index (or re-index) your personal information. You may request access, updating and corrections of inaccuracies in your personal information in our custody or control by following the instructions in the
+Submitting Privacy Rights Requests
+section, above.
+You may also request to withdraw your consent to our collection, use and disclosure of your personal information, subject to legal or contractual restrictions by following the instructions in the
+Submitting Privacy Rights Requests
+section, above. Please note that if you withdraw your consent, we may no longer be able to provide certain services to you and we will retain your personal information in accordance with our internal records retention processes and to meet our legal obligations.
+We may request certain Personal Information for the purpose of verifying the identity of the individual seeking to exercise these rights.
+Children’s Personal Information
+Our services are not directed to, and we do not intend to, or knowingly, collect or solicit personal information from children under the age of 14.
+Popular Searches
+Long-Term Car Rental
+One-Way Car Rental
+Free Upgrade Deal
+Rental Car FAQ
+Budget App
+Popular Rental Cars
+Luxury Car Rental
+Electric Car Rental
+All Car/Sedan Sizes
+Pickup Truck Rental
+SUV Rental
+Van Rental
+Popular US Destinations
+Trip Ideas
+Car Rental Las Vegas
+Car Rental NYC
+Car Rental Chicago
+Car Rental Orlando
+Car Rental Los Angeles
+Budget Partners
+Affiliates
+Travel Agents
+AARP Members
+Miles & Points Programs
+Military & Veterans
+Budget Support
+Contact Us
+Best Rate Guarantee
+Roadside Assistance
+Rental Car Fuel Plans
+Site Map
+Fraud & Scams
+Accessibility
+Company Info
+About Budget
+Careers
+Copyright Notices
+Terms of Use
+Privacy Notice
+Your Privacy Choices
+Cookie Settings
+Lost & Found
+{{lang.language}}
+© 2025 Budget Rent A Car System, Inc.
+Connection Failed or Some Error occurred.
+OK
+Build #
+:
+Revision #
+:
+Build Date
+:

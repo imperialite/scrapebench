@@ -1,0 +1,17 @@
+User-agent: Baiduspider 
+User-agent: YandexBot 
+Disallow: / 
+User-agent: Storebot-Google 
+Disallow: /stores/ 
+User-agent: * 
+Disallow: /commerce/* 
+Disallow: /content/digx 
+Disallow: /guestpay/bill-pay 
+Disallow: /guestpay/confirm 
+Disallow: /guestpay/edit-amount 
+Disallow: /guestpay/make-payment 
+Disallow: /guestpay/payment-method 
+Disallow: /my-account/* 
+Disallow: /search* 
+Sitemap: https://www.metrobyt-mobile.com/sitemap.xml 
+Sitemap: https://www.metrobyt-mobile.com/stores/sitemap.xml

@@ -1,0 +1,474 @@
+TERMS OF USE
+
+Last Updated: January 21, 2026
+
+Welcome to The Associated Press Terms of Use
+
+Summary of Key Revisions. We’ve reorganized these Terms of Use to improve clarity and readability and made updates throughout. Key changes include:
+Section 3 (Using Our Services): Adding new provisions addressing “Account Deletion and Deletion of Personal Information” and “Service Versions and Advertising.”
+Section 4 (Content and Intellectual Property): Updating User Content terms, including clarifying information about AP’s limitation of liability and providing information about how to report unlawful or infringing content and advertising issues; updating the Content Moderation and CDA Section 230 Notice information.
+New Section 5 (Privacy and Data): Adding a new section summarizing certain privacy practices, as further described in our Privacy Policy.
+New Section 6 (Donations): Adding a new section governing donations made through our services.
+Section 10 (Compliance with Applicable Laws): Adding information related to accessibility and closed captioning.
+By continuing to use our Services on or after the Last Updated date at the top of these Terms, you agree to the updated Terms.
+
+Terms of Use
+
+These Terms of Use, together with all policies, rules, and provisions described, linked, or otherwise referenced in this document, including without limitation our Privacy Policy (together, the “Terms”), form a legal agreement between you and The Associated Press and its affiliates (referred to together as “AP,” “we,” “us,” or “our”).
+
+These Terms govern your access to and use of AP’s website located at https://apnews.com (the “Site”), AP’s mobile applications (the “App”), AP’s digital news experiences and other AP digital properties, and any related features, content, and services (together, the “Services”). The Services include news products and features, which may be provided in various formats, such as text, images, audio, video, and interactive content.
+
+PLEASE READ THESE TERMS CAREFULLY before using the Services as they contain important information about your legal rights, remedies, and obligations. By accessing or using the Services, you agree to be bound by these Terms. If you do not understand, do not agree to, or cannot comply with these Terms (including any updates to them), you must not use the Services.
+
+Binding Arbitration and Class Action Waiver
+
+Section 13 of these Terms, titled “Binding Arbitration and Class Action Waiver,” contains a binding arbitration provision and a waiver of your right to participate in class or representative actions. These provisions affect your legal rights. Please read them carefully.
+
+Table of Contents
+1. Scope of Terms
+2. User Eligibility
+3. Using Our Services
+a. User Account Information
+b. User Conduct Requirements
+c. Downloading the App
+d. Services Versions and Advertising
+4. Content and Intellectual Property
+a. AP Content
+b. User Content
+c. Content Moderation; CDA Section 230 Notice
+d. Third-Party Services
+e. Communications with Us
+5. Privacy and Data
+6. Donations
+7. Disclaimers
+8. No Warranties; Limitation of Liability; Exclusive Remedy; Release
+9. Indemnification
+10. Compliance with Applicable Laws
+11. Termination of These Terms
+12. Equitable Relief
+13. Binding Arbitration and Class Action Waiver
+14. General Provisions
+15. Contact Us
+
+
+1. SCOPE OF TERMS
+Acceptance. By accessing or using the Services, you agree that you have read, understood, and are legally bound by these Terms. If you do not agree to these Terms, you must not use the Services. These Terms, together with our Privacy Policy and any other policies incorporated by reference, constitute the entire agreement between you and AP with respect to your use of the Services and supersede all prior or inconsistent understandings or agreements. Capitalized terms not defined in these Terms shall have the meanings set forth in our Privacy Policy or other incorporated policies.
+
+Right to Modify. We may modify, update, add to, or delete from these terms (together, “revise”) at any time in our sole discretion by posting the revised Terms on this page with an updated “Last Updated” date. We may also provide additional notice of material revisions, such as by email or on the Site. By continuing to access or use the Services after revisions are posted, you agree to be bound by the revised Terms. You are responsible for reviewing these Terms regularly to stay informed of any revisions.
+
+Effective Period. These Terms, including any revisions and incorporated documents, remain in effect while you use the Services. Certain provisions, by their nature, may continue in effect after you stop using the Services or after your Account is terminated (for example, license grants, disclaimers, limitations of liability, and dispute resolution procedures).
+
+Definitions. For purposes of these Terms, “use” of the Services includes any access to, interaction with, or communication through the Services, whether actual or attempted. “User” means anyone who uses the Services in this way.
+
+New Features. Any new features, components, or developments added to the Services are automatically subject to these Terms unless we provide notice that different terms apply. You must also comply with any additional terms that apply to third-party content, materials, software, or services accessible through the Services.
+
+
+
+2. USER ELIGIBILITY
+You must be at least the age of majority in your jurisdiction (often 18 years old but may vary) to use the Services. By using the Services, you represent and warrant that: (a) you are at least the age of majority in your jurisdiction, and (b) you have the legal capacity and authority to enter into these Terms on behalf of yourself or, if applicable, the entity you represent. We reserve the right, at our sole and absolute discretion, to deny any user access to the Services, or any portion of the Services, without notice and without reason.
+
+
+3. USING OUR SERVICES
+
+A. USER ACCOUNT INFORMATION. To enjoy certain features of our Services, such as posting in APNews Comments, you may be required to register for an APNews account (“Account”).
+
+Account Registration. To register for an Account, you must meet the User Eligibility requirements provided in Section 2 of these Terms. You may be able to register for an Account using a third-party login provider (e.g., Facebook, Google), or you may create an Account directly with us. For the latter, you will be asked to provide your email address, a password (“Password”), and, in some cases, additional information to help us authenticate your identity in the future (“Unique Identifiers”). Together, your email address, Password, and Unique Identifiers (as applicable) are referred to together as your “Account Information.” When creating your Account, you must provide true, accurate, current, and complete information. Each email address and Password may be used only by the authorized individual who created the Account. You are not permitted to transfer your Account to another person without our prior written consent.
+
+Confidentiality and Account Security. You are solely responsible for maintaining the confidentiality of your Account Information and for all activity that occurs through your Account, whether or not authorized by you. You must promptly notify us if you believe any of your Account Information has been compromised or if you need to deactivate your Account. We reserve the right to change or delete your Account Information at any time and for any reason, without liability to you for any resulting loss or damage. We may accept or reject any account registration in our sole discretion, and we are under no obligation to maintain any Account. We will not be liable for any loss or damage resulting from any unauthorized use of your Account.
+
+Account Deletion and Deletion of Personal Information. You may delete your Account at any time. Account deletion is permanent and cannot be reversed. When you request to delete your Account, we will treat this as a request to delete the Personal Information we hold about you. Deleting your Account will remove your profile and associated Personal Information, as well as other Personal Information we hold about you, and may impact your ability to access our Services. Please note that we may retain certain Personal Information as required or permitted by law, including without limitation for compliance, legal, or recordkeeping purposes.
+
+Requesting Account Deletion. You may delete your Account at any time by any of the following methods:
+
+Log into your Account and select “Delete My Account” (if available).
+Email us at privacy@ap.org. If you email us with your request, please use the subject line “Delete My APNews Account” and include the email address associated with your Account.
+Submit a request in our support portal.
+Identity Verification. For your security, we cannot delete an Account without verifying the requestor’s identity. If you request deletion while logged into your Account, we will treat that as a verified request and process your deletion request without requiring further confirmation. If you submit a deletion request by another method, we may ask for additional information to verify your identity before processing your request.
+Scope of Deletion Request. When you request Account deletion, we treat it as a request to delete the Personal Information we hold about you, subject to limited exceptions where we are required or permitted by law to retain certain information.
+User Generated Content. Certain user-generated content you submitted (such as comments or posts) may remain available to preserve discussion integrity, along with your Comments Username and an indicator that your Account has been deleted.
+Impact of Deletion. Deleting your Account will remove your profile and may impact your access to our Services. Account deletion is permanent and cannot be undone. We will delete or de-identify your Personal Information unless we are required or have a legitimate business, legal, or regulatory reason to retain certain information, such to comply with legal obligations, resolve disputes, enforce our agreements, or protect our rights.
+Retention of Information After Deletion Request. When you request deletion of your Account or other Personal Information, we delete or de-identify your Personal Information from our active systems once it is no longer needed for the purposes for which it was collected, including to provide our Services, comply with legal obligations, resolve disputes, enforce our agreements, and protect our rights. This process includes your Account profile and preferences, as well as other Personal Information we maintain about you across our systems, subject to limited exceptions required or permitted by law. Once retention is no longer necessary, we securely delete or de-identify your Personal Information so that it can no longer reasonably be used to identify you. See our Privacy Policy (Section 12) for more information.
+
+
+B. USER CONDUCT REQUIREMENTS. By using the Services, you agree to comply with the following requirements (“User Conduct Requirements”):
+Compliance with Law. You will comply with all applicable laws and regulations and will not use the Services for any unlawful, misleading, malicious, discriminatory, unauthorized, or disruptive purpose.
+Competitive Misuse. You will not use, or attempt to use, the Services to conduct market research for, or to develop, evaluate, or produce, any competing products or services.
+Impersonation or Misrepresentation. You will not impersonate, or attempt to impersonate, any person or entity, or falsely state or misrepresent your affiliation with any person or entity.
+Security; Interference. You will not interfere with, disrupt, or attempt to interfere with or disrupt, the proper operation of the Services, including without limitation by introducing viruses, malware, bots, or other harmful code or devices.
+Unauthorized Access. You will not gain or attempt to gain unauthorized access to any Content (as defined below), data, accounts, files, systems, or networks related to the Services by hacking, password or data mining, or any other means.
+Reverse Engineering. You will not decompile, reverse engineer, or disassemble any software or products, or processes accessible through the Services.
+Ad and Content Protections. You will not, and will not attempt to, cover, obscure, block, remove, disable, or otherwise interfere with any advertisements, safety features, digital rights management, access controls, Content protections, or technical protection measures of the Services, except to the extent you use legally permitted browser or device settings or ad-blocking tools that operate solely on your own device.
+Automated Access
+You will not, and will not attempt to, use any robot, spider, scraper, artificial intelligence, or other automated means to access the Services without our prior written permission.
+We grant operators of public search engines revocable permission to use spiders to copy materials from the public portions of the Services solely to create publicly available searchable indices but not caches or archives.
+Load and Performance. You will not, and will not attempt to, take any action that, in our sole discretion, imposes or may impose an unreasonable or disproportionately large load on our infrastructure or degrades the reliability, speed, or performance of the Services.
+Content Integrity. You will not, and will not attempt to, distort, alter, or misuse the Services or any Content in a way that infringes intellectual property rights, violates privacy or publicity rights, or otherwise causes harm to any person or entity.
+Spam and Unauthorized Communications. You will not, and will not attempt to, send or facilitate the sending of unauthorized commercial communications (e.g., spam) through the Services.
+Artificial Intelligence / Machine Learning. You will not, and will not attempt to, use, upload, or incorporate any Content or data from the Services into, or otherwise use the Services for, the purpose of creating, generating, informing, training, testing, or validating any machine learning, artificial intelligence, or similar systems, tools, applications, algorithms, or models.
+Collection of User Information. You will not, and will not attempt to, collect information from other users of the Services without their prior consent and without complying with all applicable laws. If you collect such information, you must make it clear that you (and not AP) are collecting it, and you must post a privacy policy that explains what information you collect and how you use it.
+APNews Comments. If you participate in APNews Comments, you must comply with the Comments Code of Conduct.
+Data Privacy. You will not, and will not attempt to, submit Personal Information or sensitive information about any third person on or through the Services without complying with our Privacy Policy and all applicable laws.
+General Compliance. You will not facilitate, encourage, or engage in any activity that violates these Terms or use the Services in any manner inconsistent with these Terms.
+If you believe another user has violated these User Conduct Requirements, please notify us (see Section 15, “Contact Us”).
+
+We reserve the right to investigate suspected violations of these Terms and to involve, cooperate with, or provide information to law enforcement authorities in connection with any such violations.
+
+
+
+C. DOWNLOADING THE APP. We may make the App available through the Google Play Store and the Apple App Store (together, the “App Provider”).
+
+The following terms apply to the App when accessed through or downloaded from the Apple App Store. You acknowledge and agree that:
+These Terms are between you and AP, and not with Apple, and AP (not Apple) is solely responsible for the App.
+Apple has no obligation to furnish any maintenance and support services with respect to the App.
+In the event of any failure of the App to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the App to you (if applicable) and, to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the App. Any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be the sole responsibility of AP.
+Apple is not responsible for addressing any claims you have or any claims of any third party relating to the App or your possession and use of the App, including, but not limited to: (i) product liability claims; (ii) any claim that the App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation.
+In the event of any third-party claim that the App or your possession and use of the App infringes that third party’s intellectual property rights, AP will be solely responsible for the investigation, defense, settlement, and discharge of any such intellectual property infringement claim to the extent required by these Terms.
+Apple and its affiliates are third-party beneficiaries of these Terms as related to your license to the App, and, upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms as related to your license of the App against you as a third-party beneficiary thereof.
+You represent and warrant that: (i) you are not located in a country that is subject to a U.S. Government embargo or that has been designated by the U.S. Government as a terrorist-supporting country; (ii) you are not listed on any U.S. Government list of prohibited or restricted parties; (iii) you are not an individual or associated with an entity designated under the UK’s Terrorist Asset-Freezing Act 2010 (TAFA 2010); and (iv) you are not otherwise subject to or affected in any way by any national security- or terrorism-related rules, whether applicable to you personally or to your location or other circumstances.
+You must also comply with all applicable third-party Terms when using the App.
+
+
+D. SERVICES VERSIONS AND ADVERTISING. AP may offer different versions or features of the Services, which may include variations in the amount and type of advertising displayed. Any eligibility requirements and details for such versions or features may be described in additional terms or within the Services. AP may modify or discontinue any such offerings at any time, as permitted by applicable law.
+
+
+
+4. CONTENT AND INTELLECTUAL PROPERTY
+
+
+
+A. AP CONTENT
+
+Ownership of Content. The Services and all materials provided on or through them, including without limitation text, photographs, graphics, images, video, audio, data, software, trademarks, logos, and the selection, compilation, arrangement, and presentation of any of the foregoing (collectively, “Content”) are owned by or licensed to AP and are protected under U.S. and international copyright, trademark, and other intellectual property laws. AP and our licensors retain all rights, title, and interest in and to the Content. All rights not expressly granted to you are reserved.
+
+Limited License. Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to view, access, and download Content solely for your personal, non-commercial use. You may not otherwise use, copy, reproduce, distribute, publish, transmit, display, perform, modify, create derivative works from, or exploit the Content in any way without our prior written permission. You must keep all copyright and other proprietary notices contained in the original Content. Any unauthorized use of Content automatically terminates this license and may violate applicable laws.
+
+Restrictions. Without limiting the generality of the foregoing, you may not:
+Remove, alter, or obscure any copyright, trademark, or other proprietary notices contained in the Content or any digital rights management or technical protection measures;
+Copy, imitate, frame, mirror, or otherwise replicate any portion of the Services or Content;
+Sell, assign, sublicense, or otherwise transfer rights in the Content;
+Use the Content or Services to train, test, validate, or improve any artificial intelligence, machine learning, or similar system; or
+Retransmit Content (other than by sharing links to the Services) without our prior written permission in each instance.
+If you violate these Terms, your license to access the Services and Content terminates automatically, and you must immediately destroy any copies of Content in your possession.
+
+We reserve the right to remove Content from our Services at any time for any reason without notice or liability to you.
+
+Trademarks. The Content includes “AP Trademarks,” meaning any and all registered and common law trademarks, including without limitation “AP,” “Associated Press,” and all related names, logos, trade dress, service marks, brands, brand names, Internet domain names, and other indications of origin owned by us, whether currently or in the future. AP Trademarks include the look and feel of the Services as well as all page headers, graphics, button icons, and scripts.
+
+Nothing in these Terms grants you any license or right to use the AP Trademarks without our prior written consent for each specific use, including as part of a domain name, meta tag, keyword, or programming code, or in a manner likely to cause confusion, dilution, or disparagement. Any goodwill arising from your use of the AP Trademarks will inure solely to AP’s benefit. You may not use the AP Trademarks in a manner that (i) suggests sponsorship or endorsement without AP’s written consent, (ii) is likely to cause confusion, or (iii) disparages or discredits AP.
+
+All other trademarks or service marks appearing on the Services are the property of their respective owners (“Third-Party Trademarks”). Reference to any Third-Party Trademarks does not imply endorsement or affiliation by AP unless expressly stated.
+
+Copyrights. Except as expressly permitted under these Terms, the Content and underlying code of the Services are owned by AP and protected under U.S. and international copyright laws and other intellectual property laws. They may not be copied, reproduced, distributed, modified, publicly displayed, or otherwise exploited without our prior written permission. You may request permission by contacting us as set forth in Section 15 (Contact Us).
+
+DMCA Notice. AP respects the intellectual property rights of others and complies with the Digital Millennium Copyright Act (“DMCA”). If you believe your work has been copied or used on the Services in a way that constitutes copyright infringement, please send a written notice to AP’s designated agent (see Section 15, “Contact Us”) that includes the following information:
+
+Identification of the copyrighted work claimed to have been infringed;
+Identification of the material claimed to be infringing, and information reasonably sufficient to permit AP to locate the material;
+Information reasonably sufficient to contact you (e.g., name, address, telephone, and email);
+A statement that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
+A statement, made under penalty of perjury, that the information in your notice is accurate and that you are authorized to act on behalf of the copyright owner; and
+Your physical or electronic signature.
+© 2026 The Associated Press and/or its affiliates. All rights reserved.
+
+
+
+B. USER CONTENT
+
+Definition. We may provide you with opportunities to submit, post, upload, transfer, send, publish, link to, or otherwise make available (together, “submit”) materials such as comments, reviews, ratings, opinions, text, images, audio, video, graphics, usernames, links, or other material (together, “User Content”) on or through the Services. If you participate in APNews Comments, all comments, replies, and posts you submit are User Content under these Terms.
+
+Your Responsibility for User Content. You are solely responsible for all User Content you submit. By providing User Content, you represent and warrant that:
+You own or control all rights to your User Content and have the legal right to grant the licenses set forth in these Terms.
+Your User Content does not violate these Terms, including without limitation our User Conduct Requirements, Username Requirements, Comments Code of Conduct, applicable law, or any rights of any third party, including intellectual property, privacy, or publicity rights or any other rights of any individual, living or deceased, or any legal entity.
+Your User Content is not fraudulent, misleading, defamatory, obscene, harassing, threatening, abusive, hateful, discriminatory, sexually explicit, or otherwise objectionable.
+You have read and understood these Terms, and your User Content fully complies with these Terms and applicable laws.
+Limitation of AP’s Liability for User Content. To the maximum extent permitted by law, AP shall not be responsible or liable for any User Content, including any claims involving defamation, invasion of privacy, false light, harassment, copyright infringement, or other publication-based torts. Users remain solely responsible for the content they submit, and AP will comply with applicable law.
+
+Carefully consider whether you want to submit your User Content. Once submitted, User Content may be shared or republished by others and may be impossible to fully remove. If you do not want your content available to the public, do not submit it. Submission of User Content is voluntary and at your own risk.
+
+License Grant to Us and Others. We do not claim ownership of your User Content. Subject to this license, you retain all rights in your User Content. You are solely responsible for protecting these rights; we cannot and do not assume responsibility for controlling, monitoring, or enforcing these rights, including your intellectual property rights. By submitting User Content, you grant us a non-exclusive, worldwide, royalty-free, perpetual, irrevocable, fully sublicensable, and transferable license to use, reproduce, distribute, display, perform, adapt, modify, publish, translate, create derivative works from, and otherwise exploit your User Content in any formats, media, and technologies now known or later developed, for the purposes of operating, promoting, syndicating, and improving our Services (the “License”). This License includes the right for us to:
+
+(a) Make your User Content available to other users of the Services, who may use it subject to these Terms;
+
+(b) Sublicense the User Content to our affiliates, service providers, distribution partners, licensees, and other third parties in connection with their lawful use, promotion, or distribution of the Services or derivative offerings;
+
+(c) Permit such downstream recipients to exercise the rights granted in this License to the extent necessary for them to access, display, distribute, or otherwise make the User Content available in connection with the Services; and
+
+(d) Use your User Content in any other way expressly permitted under these Terms.
+
+Waiver of Moral Rights and Publicity Rights. To the fullest extent permitted by applicable law, you waive any and all moral rights (including without limitation rights of attribution, integrity, disclosure, and withdrawal) and any rights of privacy, publicity, or approval in your User Content. You agree not to assert such rights against us, our sublicensees, or other authorized users. If applicable law does not allow for a waiver of moral rights, you agree not to enforce such rights in a manner that would interfere with the exercise of the rights granted in this License. This waiver includes use of your name, likeness, image, voice, and biographical information to the extent contained in your User Content.
+
+No Obligation to Publish; No Royalties. We have no obligation to publish, maintain, use, or respond to User Content, and we may remove, edit, or refuse to display any User Content for any reason. No fees, royalties, or other compensation will be paid in connection with any use of your User Content. If royalties become due to a third party, you are solely responsible for paying them.
+
+Preservation and Disclosure. We may access, copy, preserve, or disclose User Content if required by law or in good faith belief that such action is reasonably necessary to: (i) comply with legal process, (ii) enforce these Terms, (iii) respond to claims that User Content violates rights of others, (iv) respond to your requests for assistance, (v) prevent or investigate suspected unlawful activity, or (vi) protect our rights, property, or safety, or that of others.
+
+Moderation and CDA Section 230. We exercise our rights to remove or restrict access to User Content in good faith under Section 230(c)(2) of the Communications Decency Act (CDA) (see Section 4.C. for additional information).
+
+Reporting Unlawful or Infringing Content. If you believe that any User Content on our Services is unlawful, infringes your rights, or violates these Terms (including the Comments Code of Conduct), you may submit a written notice to AP specifying:
+
+The content in question and its location (URL or other identifier);
+The nature of the concern (e.g., defamation, copyright infringement, harassment);
+Your contact information; and
+A statement confirming the accuracy of your claim and your authority to act.
+Important: If your concern relates to copyright infringement, it may be more appropriate to submit a notice under the Digital Millennium Copyright Act (DMCA), which provides specific requirements and protections. For details, see our DMCA Notice in Section 4.A. of these Terms.
+
+Upon receipt of a valid notice, AP will review the claim and, where appropriate, remove or disable access to the content in accordance with applicable law. AP may request additional information to verify the claim. AP reserves the right to notify the user who posted the content and provide an opportunity to respond, unless prohibited by law. For information about how to submit a notice, see Section 15, Contact Us.
+
+Reporting Advertisement Issues. If you encounter an inappropriate ad or other advertising-related issue, you can report the matter as provided in Section 15 (Contact Us).
+
+
+
+C. CONTENT MODERATION; CDA SECTION 230 NOTICE
+
+We may, but are not obligated to, monitor, review, remove, or restrict access to any User Content submitted on or through the Services, at any time and for any reason, including to comply with these Terms, our Comments Code of Conduct, applicable law, or if we determine in our sole discretion that such content is unlawful, harmful, offensive, or otherwise objectionable.
+
+We take such actions in good faith and in accordance with applicable laws and safe harbor provisions, including without limitation Section 230(c)(2) of the U.S. Communications Decency Act (CDA) and similar defenses or exemptions available under other jurisdictions’ laws. These provisions generally protect interactive computer service providers from liability for voluntary, good-faith actions to restrict access to material they consider objectionable or unlawful, whether or not such material is constitutionally protected. Our exercise of these moderation rights does not create any liability for any content that we do not remove. You acknowledge and agree that we have no liability or responsibility to you or any other person for the performance or nonperformance of such monitoring activities.
+
+By using the Services, you acknowledge and agree that:
+
+(a) we may take down or restrict access to User Content in our sole discretion, consistent with applicable laws and safe harbor provisions, including without limitation CDA Section 230;
+
+(b) we may implement technical measures to allow you and other users to control what material is accessible to you; and
+
+(c) we remain protected from liability for any such good-faith moderation decisions under applicable laws.
+
+You understand that you may be exposed to material that you find offensive, inaccurate, or otherwise objectionable. While we may provide information to help you identify certain postings as advertisements, we cannot guarantee that we will always do so. You are solely responsible for determining the validity, reliability, and appropriateness of any information you access through the Services.
+
+We further reserve the unconditional right, as permitted or required by law and in accordance with our Privacy Policy, to:
+
+Disclose your identity to any third party who claims that material submitted by you violates their rights, including but not limited to intellectual property or privacy rights;
+Take appropriate legal action, including, without limitation, referral to law enforcement, for any illegal or unauthorized use of the Services;
+Change, terminate, or suspend the Services, any features of the Services, and/or any Content available on or through the Services, at any time and for any reason or no reason; and
+Require you to cease use of all or part of the Services.
+Our decision to remove, restrict, or leave up User Content shall not be deemed to waive, limit, or impair our rights or protections under CDA Section 230 or any other applicable law.
+
+
+
+D. THIRD-PARTY SERVICES. The Services may contain links to or integrations with third-party websites, applications, services, or resources (“Third-Party Services”). Access to Third-Party Services is provided solely for your convenience and does not constitute or imply any endorsement, sponsorship, or affiliation by AP.
+
+When you access or use Third-Party Services, you do so at your own risk and subject to the terms, conditions, and privacy policies of those third parties. We encourage you to review their terms and policies carefully. If you have concerns about any Third-Party Services, please contact the administrator of that service directly.
+
+You understand and agree that we do not control and are not responsible for:
+The availability, accuracy, completeness, reliability, or legality of Third-Party Services;
+The content, materials, or information made available on or through Third-Party Services; or
+The data, security, or business practices of any third party.
+We disclaim all liability for any loss, damage, claims, or harm of any kind arising from or related to your use of Third-Party Services. You are solely responsible for taking precautions, such as installing anti-virus software, to protect your devices from malware and other harmful code when accessing Third-Party Services.
+
+In some cases, certain Third-Party Services may be necessary to use portions of the Services, such as authentication providers, payment processors, or embedded content. You agree that AP is not responsible for the acts or omissions of such third parties.
+
+
+
+E. COMMUNICATIONS WITH US
+
+No Confidential or Sensitive Information. We encourage you to contact us (see Section 15), but please do not email or otherwise send us any information that is confidential, proprietary, or contains sensitive personal information data. We cannot guarantee the security or confidentiality of any information you send us in this way.
+
+Feedback. If you submit any comments, feedback, ideas, questions, suggestions, or other materials about the Services or Content, including possible developments (together, “Feedback”), you acknowledge and agree that:
+We are under no obligation to treat Feedback as confidential or proprietary;
+We may use, copy, in your Feedback, for disclose, adapt, modify, publish, or exploit Feedback for any purpose, including developing, producing, and marketing products or services, without compensation or attribution to you;
+You waive any and all rights you may have in the Feedback;
+You represent that: (a) the Feedback is original to you and does not infringe the rights of any third party, (b) to the best of your knowledge no one else has any rights in the Feedback, and (c) we are free to implement the Feedback if we so desire, as provided or as modified by us, without obtaining permission or license from any third party.
+Unsolicited Ideas. We do not accept or consider unsolicited ideas regarding our business, operations, products, or services, including without limitation ideas for new campaigns, promotions, products, services, technologies, processes, materials, marketing plans, or product/service names. Please do not send us such submissions. The policy is intended to prevent misunderstandings or disputes when our services, products, or strategies seem similar to ideas submitted to us.
+
+If you nevertheless submit unsolicited ideas, you acknowledge and agree that:
+Such submissions will automatically become our property;
+We will own all rights in such submissions worldwide and may use them for any purpose, without restriction and without compensation to you or any third party; and
+We have no obligation to keep such submissions confidential.
+
+
+5. PRIVACY AND DATA
+
+Our Privacy Policy describes how we collect, use, share, and protect information in connection with the Services. This Section summarizes certain practices, including targeted advertising, third-party partners, data security, and user choices. For more detail, please review our Privacy Policy, which forms part of these Terms and is incorporated by reference.
+
+Targeted Advertising. We use cookies and similar tracking technologies to deliver relevant advertising and measure ad performance, for example by collecting browsing behavior and device data, sharing data with advertising partners, using analytics to improve ad relevance. Our Privacy Policy explains our privacy practices in detail, including the information we collect (Section 2), how we use and share data (Sections 3 and 4), our targeted advertising practices (Sections 5 and 6), our data security measures (Section 7), and your rights and choices under applicable laws (Section 9).
+
+Third-Party Partners. We may share data with advertising networks, analytics providers, and other service providers under contractual safeguards. (See Section 4.D. of these Terms and our Privacy Policy.)
+
+Data Security. We implement commercially reasonable technical, administrative, and physical security measures designed to protect Personal Information collected through our Services against unauthorized access, use, or disclosure. While we take steps to help safeguard your information, no method of transmission over the internet or electronic storage is completely secure. Accordingly, we cannot guarantee the absolute security of your Personal Information, and you should exercise caution when deciding what information to share with us or others through the Services.
+
+Your Rights and Choices. Depending on your jurisdiction, you may have rights to access, correct, or delete your data.
+
+
+
+6. DONATIONS
+
+We may invite users to make voluntary donations to support our independent, nonpartisan journalism. Donations are entirely optional, and access to our Services is not contingent upon making a donation.
+
+Payment Methods. Users may make donations through our Services using the payment methods we make available from time to time (see our FAQ for current options). Donors will receive a confirmation and receipt via email.
+
+Payment Security and Privacy. All donations are processed by Stripe, Inc. and/or other third-party payment processors acting on our behalf (for more information, see Stripe’s Privacy Policy and any additional processor notices we may provide). We do not store full payment card numbers or bank account information on our own systems; such information is handled directly by our payment processors. Personal Information collected during the donation process is handled in accordance with our Privacy Policy and may be shared with third parties as described there, including as necessary for payment processing, fraud prevention, compliance, or as required by law.
+
+Not Tax-Deductible. Donations are not tax-deductible. AP is a New York State not-for-profit corporation but does not have 501(c)(3) status under U.S. federal tax law. For federal tax purposes, AP is treated as a C corporation, which means contributions are not considered tax-deductible. If you would like to give through a donor-advised fund, foundation, or retirement account, please email the AP Fund for Journalism at info@apfj.org for more information.
+
+Refunds and Cancellations
+For one-off and recurring donations, we offer refunds within 48 hours of the time the first payment is charged. You can email donations@apnews.com to request a refund.
+If you would like to cancel your recurring donation, you can do so in your account by visiting apnews.com/myaccount. After canceling, all future charges associated with your donation will be stopped.
+In all other instances, donations are generally non-refundable, but we may, in our discretion and where permitted by law, choose to issue a refund in particular cases (for example, in cases of error or suspected fraud).
+Compliance Disclaimer. Donations are not solicited in jurisdictions where such solicitation is prohibited or restricted by law. By making a donation, you confirm that you are legally permitted to do so under the laws of your jurisdiction and that any donation complies with all applicable laws and regulations.
+
+
+
+7. DISCLAIMERS
+
+User Responsibility. You are solely responsible for your use of the Services and any breach of these Terms or applicable law arising from your activity, behavior, or conduct. We have no responsibility to you or to any third party for any such breaches or for the consequences of such breaches (including without limitation any loss or damage that you or any third party may suffer). Persons who violate these Terms, as determined in our sole discretion, may have their access to the Services suspended or terminated. Violations of these Terms or of system or network security may result in civil or criminal liability.
+
+Content and Services. The Services and all Content are provided for informational, educational, and entertainment purposes only. We make no representation, warranty, or guarantee regarding the accuracy, completeness, reliability, or availability of the Services or Content, and we do not warrant that your use of the Services will comply with applicable laws. The Content is not a substitute for your independent judgment or professional advice, and your reliance on it is at your sole risk. The Content should not be construed as an endorsement by or representation of our opinions. We may modify or remove any Content or features of the Services at any time, with or without notice. You agree to comply with all notices and requirements accompanying third-party material.
+
+User Content. While we and our service providers may use moderation tools and may review or pre-screen some User Content (such as Comments through automated or human review), we do not undertake to review all User Content before it appears on the Services and do not control what users choose to submit. We do not vouch for the accuracy, integrity, quality, legality, or appropriateness of any User Content, and we do not endorse any opinions expressed in User Content. We do not guarantee that User Content has been submitted with the permission of its rights holder or complies with these Terms. You are solely responsible for evaluating User Content, and you bear all risks associated with your use of User Content. We are not responsible for the storage or deletion of any Content, including User Content.
+
+Technical Issues. The Services may contain technical inaccuracies, typographical errors, or omissions. Unless required by law, we have no responsibility for any such errors.
+
+
+
+8. NO WARRANTIES; LIMITATION OF LIABILITY; EXCLUSIVE REMEDY; RELEASE
+
+No Warranties. YOUR USE OF THE SERVICES AND ALL CONTENT IS AT YOUR OWN RISK. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SERVICES AND ALL CONTENT ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, AND ANY WARRANTIES ARISING FROM A COURSE OF DEALING, COURSE OF PERFORMANCE, OR USAGE OF TRADE. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, AP AND ITS AFFILIATES, LICENSORS, AND SERVICE PROVIDERS DO NOT WARRANT THAT: (1) THE INFORMATION MADE AVAILABLE THROUGH THE SERVICES OR ANY CONTENT IS CORRECT, RELIABLE, OR COMPLETE; (2) THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE; (3) DEFECTS WILL BE CORRECTED; OR (4) THE SERVICES OR ANY SERVERS USED TO MAKE THEM AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. WITHOUT LIMITING THE FOREGOING, AP AND ITS AFFILIATES, LICENSORS, AND SERVICE PROVIDERS ARE NOT RESPONSIBLE OR LIABLE FOR THE ACTIONS, CONTENT, INFORMATION, OR DATA OF ANY THIRD PARTIES, INCLUDING WITHOUT LIMITATION USER CONTENT AND THIRD-PARTY SERVICES. CERTAIN LAWS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS.
+
+Limitation of Liability. TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN CONNECTION WITH ANY WARRANTY, CONTRACT, OR TORT CLAIMS:
+
+1. WE, OUR AFFILIATES, AND OUR AND THEIR LICENSORS, OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS SHALL NOT BE LIABLE FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION LOST PROFITS, DAMAGES RESULTING FROM LOST DATA OR BUSINESS INTERRUPTION, OR LOSS OF GOODWILL, ARISING OUT OF, RELATED TO, OR IN ANY WAY RESULTING FROM YOUR ACCESS TO OR USE OF, OR INABILITY TO ACCESS OR USE, THE SERVICES OR CONTENT, WHETHER BASED ON CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR OTHERWISE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES; AND
+
+2. ANY DIRECT DAMAGES THAT YOU MAY SUFFER ARISING OUT OF, RELATED TO, OR RESULTING IN ANY WAY FROM YOUR ACCESS TO OR USE OF THE SERVICES OR CONTENT SHALL BE LIMITED TO ONE HUNDRED U.S. DOLLARS ($100).
+
+CERTAIN LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS.
+
+Exclusive Remedy. TO THE MAXIMUM EXTENT PERMITTED BY LAW, IF YOU ARE DISSATISFIED WITH ANY PORTION OF THE SERVICES OR WITH THESE TERMS, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES.
+
+Release. TO THE MAXIMUM EXTENT PERMITTED BY LAW, YOU HEREBY RELEASE AND FOREVER DISCHARGE AP AND OUR AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, LICENSORS, AND SERVICE PROVIDERS FROM ANY AND ALL CLAIMS, DEMANDS, CAUSES OF ACTION, LIABILITIES, AND/OR DAMAGES OF EVERY KIND AND NATURE, WHETHER KNOWN OR UNKNOWN, ARISING OUT OF OR IN ANY WAY RELATED TO YOUR USE OF THE SERVICES. YOU EXPRESSLY UNDERSTAND AND AGREE THAT THIS RELEASE INCLUDES A WAIVER AND RELEASE OF UNKNOWN CLAIMS THAT EXIST OR MAY EXIST AS OF THE DATE OF THIS RELEASE, AND YOU AGREE TO WAIVE AND RELINQUISH ANY AND ALL RIGHTS YOU HAVE OR MAY HAVE UNDER ANY STATUTE OR OTHER LAW THAT REQUIRES THE KNOWING WAIVER OF SUCH UNKNOWN CLAIMS, INCLUDING WITHOUT LIMITATION CALIFORNIA CIVIL CODE § 1542, WHICH PROVIDES AS FOLLOWS: “A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR.” NOTHING IN THIS SECTION LIMITS ANY RIGHTS THAT CANNOT BE WAIVED UNDER APPLICABLE LAW.
+
+
+
+9. INDEMNIFICATION
+
+To the fullest extent permitted by applicable law, you agree to defend, indemnify, and hold harmless AP and our officers, directors, members, employees, agents, successors, licensees, licensors, affiliates, and assigns from and against any and all damages, liabilities, losses, expenses, claims, actions, costs, and/or demands (including without limitation reasonable attorneys’ fees, accounting fees, and other costs of investigation, litigation, or settlement), regardless of whether litigation is instituted, arising out of, related to, or resulting in any way from:
+
+1. your breach of these Terms;
+2. your misuse of the Services or Content;
+3. your actual or alleged violation of any third-party rights, including without limitation intellectual property, privacy, publicity, or property rights; or
+4. any User Content submitted, posted, or otherwise made available by you.
+
+We shall provide you with notice of any such claim, suit, or proceeding and may, at our discretion, assist you, at your expense, in defending it. We reserve the right, at your expense, to assume the exclusive defense and control of any matter that is subject to indemnification under this section. In such case, you agree to cooperate fully with us in the defense of the matter, and your indemnification obligations shall not be diminished or excused.
+
+This defense and indemnification obligation will survive termination of these Terms, your Account, and your use of the Services.
+
+
+
+10. COMPLIANCE WITH APPLICABLE LAWS
+
+The Services are owned, controlled, and operated by The Associated Press, a New York not-for-profit corporation in the United States of America. The Services are operated from the United States. Access to and use of the Services and Content may not be lawful in certain jurisdictions. We make no claims concerning whether the Content may be downloaded, viewed, or appropriate for use outside of the United States. If you use the Services or the Content from outside of the United States, you do so at your own risk. Whether inside or outside of the United States, you are solely responsible for ensuring compliance with the laws of your specific jurisdiction. The Services may contain links Third-Party Services that are outside the United States, and they may have information that is appropriate only to the particular originating country or region where such other website is based.
+
+Special Provisions Relating to Users Outside of the United States. The following provisions apply to users outside the United States:
+
+a. You consent to having your Personal Information transferred to and processed in the United States;
+
+b. If you are located in a country embargoed by the United States or are on the U.S. Treasury Department’s list of Specially Designated Nationals, you are not permitted to engage in commercial activities on or through the Services (such as advertising or payments); and
+
+c. You agree not to use, access, or export the Services in violation of U.S. export control laws and regulations.
+
+Accessibility and Closed Captioning. Our goal is to provide an accessible experience, and we strive to align our Services with recognized standards and applicable laws, such as the Web Content Accessibility Guidelines (WCAG) and the Americans with Disabilities Act (ADA). Where available and technically feasible, closed captions for live and recorded video content are provided through third-party services. While we make reasonable efforts to help ensure caption accuracy and quality, captions may contain errors or omissions. For additional information about our accessibility practices and to provide feedback, please refer to our Web Accessibility Statement.
+
+
+
+11. TERMINATION OF THESE TERMS
+These Terms are effective unless and until terminated by either you or us.
+
+If you violate any part of these Terms:
+your permission to use the Services automatically terminates;
+you must immediately cease use of the Services and all Content; and
+you must immediately destroy any copies of Content in your possession.
+We reserve the right, at our sole discretion, to restrict, suspend, or terminate these Terms, the Services, and/or your access to all or any part of the Services, at any time and for any reason without prior notice or liability to you or any third party, and such action shall not limit any other rights or remedies that are available to us.
+
+You may terminate these Terms at any time by ceasing to use the Services. Termination, including cessation of your use of the Services, is your sole right and exclusive remedy if you are not satisfied with the Services. Upon the effective date of any termination, your right to use the Services, including all Content, shall immediately cease. You acknowledge and agree that upon termination, you may be prevented from accessing the Services, your Account details, and any files or other content contained in your account.
+
+The following provisions will survive termination of these Terms or your use of the Services for any reason: Sections 1, 4, 5, and 7–15 (including without limitation those relating to Content and Intellectual Property, Privacy and Data, User Content, Disclaimers, Limitation of Liability, Indemnification, Binding Arbitration and Class Action Waiver), together with any provisions that by their nature should survive termination.
+
+
+
+12. EQUITABLE RELIEF
+
+You acknowledge and agree that, in the event of a breach or threatened breach of our intellectual property rights, confidential information, and/or proprietary information by you, we will suffer irreparable harm and will therefore be entitled to injunctive relief to enforce these Terms. We may, without waiving any other remedies under these Terms or applicable law, or the Arbitration Agreement seek from any court having jurisdiction any interim, equitable, provisional, or injunctive relief that is necessary to protect our rights and property pending the outcome of the arbitration referenced above (see Section 13). All claims or disputes arising out of, related to, in connection with, or resulting in any way from these Terms shall be heard exclusively by any of the federal or state courts of competent jurisdiction located in New York County in the State of New York, USA.
+
+
+
+13. BINDING ARBITRATION AND CLASS ACTION WAIVER
+
+Please read the following arbitration agreement (the “Arbitration Agreement”) carefully. It requires you to arbitrate disputes with us and limits the manner in which you can seek relief from us, including a class action waiver.
+
+You agree that, in the event of any dispute, controversy, or claim arising out of, related to, in connection with, or resulting in any way from your use of the Services, these Terms, the Content, or any aspect of your relationship with us (each, a “Dispute”), such Dispute, including threshold questions of the arbitrability of such Dispute, will be finally and exclusively resolved by binding arbitration governed by the Federal Arbitration Act (“FAA”). NEITHER PARTY SHALL HAVE THE RIGHT TO LITIGATE SUCH CLAIM IN COURT OR TO HAVE A JURY TRIAL. NOTWITHSTANDING THE FOREGOING, EITHER PARTY MAY BRING ITS CLAIM IN ITS LOCAL SMALL CLAIMS COURT, IF PERMITTED BY SUCH SMALL CLAIMS COURT RULES AND IF WITHIN SUCH COURT’S JURISDICTION. DISCOVERY, AND APPEAL RIGHTS MAY ALSO BE LIMITED IN ARBITRATION. Nothing in this Arbitration Agreement prevents AP from seeking injunctive or equitable relief in any court of competent jurisdiction to protect AP’s proprietary interests or intellectual property rights.
+
+Before initiating arbitration or legal proceedings, you and AP agree to engage in good-faith efforts to resolve any Dispute. To begin this process, you must send a letter describing the nature of your claim and desired resolution to the address provided for Legal Matters in the Contact Us section of these Terms (see Section 15). You and we agree to meet and confer personally, by telephone, or by videoconference (“Conference”) to discuss the Dispute and attempt in good faith to reach a mutually beneficial outcome that avoids the expenses of arbitration or, where applicable, litigation. Each party may be represented by counsel in this process. If you are represented by counsel, your counsel may participate in the Conference as well, but you agree to fully participate in the Conference by phone, video, or in person to attempt to resolve the Dispute. Likewise, if we are represented by counsel, our counsel may participate in the Conference as well, but we agree to have a company representative fully participate in the Conference. The statute of limitations and any filing fee deadlines shall be tolled during this resolution period. If you and we do not reach agreement to resolve the Dispute within thirty (30) days after initiation of this dispute resolution process, either you or we may commence arbitration or, provided such claims qualify, file an action in small claims court or file a claim for injunctive or equitable relief in a court of proper jurisdiction for matters relating to intellectual property infringement.
+
+The Federal Arbitration Act governs the interpretation and enforcement of this Arbitration Agreement. To begin an arbitration proceeding after participating in the dispute resolution process, you must send a letter requesting arbitration and describing your claim to our registered agent at the address provided for Legal Matters in the Contact Us Section of these Terms (see Section 15). The arbitration will be conducted by JAMS, an established alternative dispute resolution provider. Disputes involving claims and counterclaims under $250,000, not inclusive of attorneys’ fees and interest, shall be subject to JAMS’s most current version of the Streamlined Arbitration Rules and the JAMS Consumer Minimum Standards then in effect; all other claims shall be subject to JAMS’s most current version of the Comprehensive Arbitration Rules and Procedures and the JAMS Consumer Minimum Standards then in effect. JAMS’s rules are available at jamsadr.com or by calling JAMS at 800-352- 5267. If JAMS is not available to arbitrate, the parties will select an alternative arbitral forum. If the arbitrator finds that you cannot afford to pay JAMS filing, administrative, hearing, and/or other fees and cannot obtain a waiver from JAMS, we will pay them for you if you complied with the dispute resolution process set forth above. In addition, we will reimburse all such JAMS filing, administrative, hearing, and/or other fees for claims totaling less than $10,000 unless the arbitrator determines the claims are frivolous or you did not comply with the dispute resolution process set forth above, except that if you have initiated the arbitration claim, you will still be required to pay the lesser of $250 or the maximum amount permitted under the JAMS Rules for arbitration claims initiated by you. You are still responsible for all additional costs that you incur in the arbitration, including, without limitation, fees for attorneys or expert witnesses. You may choose to have the arbitration conducted by telephone or videoconference, based on written submissions, in person in your hometown area (if you live in the United States), or at another mutually agreed upon location that is reasonably convenient to you. Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction.
+
+The parties shall cooperate in good faith in the voluntary and informal exchange of all non-privileged documents and other information (including electronically stored information) relevant to the Dispute immediately after commencement of the arbitration.
+
+The arbitrator shall have exclusive authority to: (a) determine the scope and enforceability of this Arbitration Agreement; and (b) resolve any Dispute related to the interpretation, applicability, enforceability, or formation of this Arbitration Agreement including, but not limited to, any claim that all or any part of this Arbitration Agreement is void or voidable. The arbitration will decide the rights and liabilities, if any, of you and us. The arbitration proceeding will not be consolidated with any other matters or joined with any other cases or parties. The arbitrator shall have the authority to grant motions dispositive of all or part of any claim. The arbitrator shall have the authority to award monetary damages and to grant any non-monetary remedy or relief available to an individual under applicable law, the arbitral forum’s rules, and these Terms. The arbitrator shall issue a written award and statement of decision describing the essential findings and conclusions on which the award is based, including the calculation of any damages awarded. The arbitrator has the same authority to award relief on an individual basis that a judge in a court of law would have. The award of the arbitrator is final and binding upon you and us.
+
+YOU AND WE HEREBY WAIVE ANY CONSTITUTIONAL AND STATUTORY RIGHTS TO SUE IN COURT AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY. You and we are instead electing that all Disputes shall be resolved by arbitration under this Arbitration Agreement, except as specified in Section14.2. An arbitrator can award, on an individual basis, the same damages and relief as a court and must follow these Terms as a court would. However, there is no judge or jury in arbitration, and court review of an arbitration award is subject to very limited review.
+
+ALL CLAIMS AND DISPUTES WITHIN THE SCOPE OF THIS ARBITRATION AGREEMENT MUST BE ARBITRATED ON AN INDIVIDUAL BASIS AND NOT ON A REPRESENTATIVE (INCLUDING, WITHOUT LIMITATION, PAGA) OR COLLECTIVE CLASS BASIS. ONLY INDIVIDUAL RELIEF IS AVAILABLE, AND CLAIMS OF MORE THAN ONE USER, PERSON, OR ENTITY CANNOT BE ARBITRATED OR CONSOLIDATED WITH THOSE OF ANY OTHER USER, PERSON, OR ENTITY. Accordingly, under the arbitration procedures outlined in this section, an arbitrator shall not combine or consolidate more than one party’s claims without the written consent of all affected parties to an arbitration proceeding. Without limiting the generality of the foregoing, you and we agree that no Dispute shall proceed by way of class arbitration without the written consent of all affected parties. If a decision is issued stating that applicable law precludes enforcement of any part of this subsection’s limitations as to a given claim for relief, then that claim must be severed from the arbitration and brought in the state or federal courts located in New York County in the State of New York. All other claims shall be arbitrated.
+
+If any part or parts of this Arbitration Agreement are found under the law to be invalid or unenforceable, then such specific part or parts shall be of no force and effect and shall be severed, and the remainder of the Arbitration Agreement shall continue in full force and effect.
+
+This Arbitration Agreement will survive the termination of your relationship with us.
+
+Notwithstanding any provision in these Terms to the contrary, if we make any future material change to this Arbitration Agreement, you may reject that change within thirty (30) days of such change becoming effective by writing to us at the address provided for Legal Matters in the “Contact Us” section of these Terms (see Section 15).
+
+
+
+14. GENERAL PROVISIONS
+These Terms constitute the entire agreement between you and us relating to the subject matter of these Terms, and they supersede any prior agreements between you and us relating to the subject matter.
+These Terms and any action arising from, related to, or resulting in any way from these Terms will be governed by the laws of the State of New York in the United States without regard to its conflict of laws provisions.
+Our failure to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision in that or any other instance. If any provision of these Terms is held invalid, the remainder of the Terms shall continue in full force and effect. If any provision of these Terms shall be deemed unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from these Terms and shall not affect the validity and enforceability of any remaining provisions.
+Any amendment to or waiver of this Statement must be made in writing and signed by us. No waiver shall be construed as a waiver in any other or subsequent instance.
+You will not transfer any of your rights or obligations under these Terms to anyone else without our written consent. All our rights and obligations under these Terms are freely assignable by us in connection with a merger, acquisition, or sale of assets, or by operation of law or otherwise.
+Nothing in these Terms shall prevent us from complying with the law.
+These Terms do not confer any third-party beneficiary rights.
+The section headings are provided merely for convenience and shall not be given any legal import.
+If you have an account, any legal notice relating to these Terms shall be sent to the email address associated with your account, and you agree that this constitutes adequate and sufficient notice. Any legal notice to us shall be sent to the contact for legal matters (see Contact Us, Section 15).
+These Terms will inure to the benefit of our successors, assigns, licensees, and sublicensees.
+
+
+15. CONTACT US
+
+Content, Account Information, and General Matters. To provide Feedback, obtain information about your Account, or obtain other information about the Services:
+
+Visit apnews.com/contact-us to contact us through our Services
+
+The Associated Press
+200 Liberty Street
+New York, NY 10281, USA
+
+Legal matters. For any legal matters, including questions about these Terms, notices of violations of these Terms, notice-and-takedown requests, and suspected user violations of the User Conduct Requirements:
+
+The Associated Press
+200 Liberty Street
+New York, NY 10281, USA
+ATTENTION: Legal Department
+
+Phone: 212.621.1500
+
+Email: LegalStaff@ap.org
+
+
+DMCA. For claims of copyright infringement under the Digital Millennium Copyright Act:
+
+The Associated Press
+200 Liberty Street
+New York, NY 10281, USA
+
+ATTENTION: Legal Department / DMCA Notices
+
+Phone: 212.621.1500
+
+Email: iprights@ap.org
+
+
+Accessibility. For questions about the accessibility of any web page on our Site, please email us at support@apnews.com.
+
+
+Reporting Advertisement Issues. If you encounter an inappropriate ad or other advertising-related issue, you can report the matter here.
+
+Donations. For questions about donations, including about refunds or cancellations, please email donations@apnews.com.
+
+
+
+© 2026 The Associated Press. All rights reserved.

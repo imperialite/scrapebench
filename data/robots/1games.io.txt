@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /*.unityweb$
+Disallow: /*.wasm$
+Disallow: /*.data$
+Disallow: /*.framework.js$
+ 
+Disallow: *?preview
+Disallow: /cdn-cgi/
+
+Sitemap: https://1games.io/sitemap.xml

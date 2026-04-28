@@ -1,0 +1,511 @@
+US Terms of Service
+Last Updated: 08 January 2025
+
+Contents
+
+About Us
+Acceptance Of These Terms
+Other Terms That May Apply To You
+Changes To These Terms and Our Services
+Subscriptions And Mobile Services
+About You And Your Interaction With Our Services
+Content
+Links To And On Our Services
+Our Reviews and Recommendations
+Advertising
+Corporate Information
+Viruses
+Your Reviews
+Our Responsibility For Loss or Damage
+Transferring This Agreement
+Issues, Claims, Risks, And Disputes
+Resolving Disputes; Agreement To Arbitrate; Class Action and Jury Waiver
+Miscellaneous
+IMPORTANT NOTICE
+
+PLEASE READ THESE TERMS OF SERVICE CAREFULLY—THEY AFFECT YOUR LEGAL RIGHTS AND OBLIGATIONS, AND INCLUDE WAIVERS OF RIGHTS AND LIMITATIONS OF LIABILITY. THEY ALSO REQUIRE DISPUTES BETWEEN YOU AND US TO BE RESOLVED THROUGH BINDING INDIVIDUAL ARBITRATION AND TO WAIVE ANY RIGHT TO A JURY TRIAL, CLASS OR COLLECTIVE ACTIONS OR PROCEEDINGS, AND ANY OTHER COURT PROCEEDING OF ANY KIND, SUBJECT TO LIMITED EXCEPTIONS. UNLESS YOU OPT OUT IN ACCORDANCE WITH THE OPT-OUT PROCEDURES DESCRIBED BELOW, YOU WILL BE BOUND BY THESE TERMS. THE FULL TERMS OF THE ARBITRATION AGREEMENT ARE BELOW.
+
+These Terms of Service apply to users located in the United States.
+
+If you are located anywhere else in the world aside from the United States, our UK Terms will apply to your use of the Services.
+
+DEFINITIONS 
+
+“ADR Services” means ADR Services, Inc., www.adrservices.com.
+
+“ADR Services Batching Procedure” means for the ADR Services to (i) administer Claims in at least 20 batches, with the discretion to create additional batches if ADR Services finds that they are necessary to facilitate the efficient resolution of demands; and (ii) apply a single initial filing fee and administrative fee per batch for each side with respect to the fees set forth in ADR Services’ then-current Mass Consumer Non-Employment Arbitration Fee Schedule.
+
+“ADR Services Rules”, means ADR Services rules and procedures then in effect
+
+“App Store” means the third party from whom you received the Mobile Application license, e.g., the Apple or Google app stores.
+
+“App Store Sourced Application” means a Mobile Application accessed through or downloaded from the Apple App Store.
+
+“Company,” “we,” “our,” “us” and “Future” means and refers to Future US, LLC.
+
+“Content” means graphics, pictures, images, artwork, videos, animations, audio, sounds, music, audio-visual effects, text, titles, names, themes, dialogue, characters, stories, concepts, objects, virtual items, patterns, textures, designs, models, concepts, interactive features, code, scripts, software, metadata, digital works, suggestions, feedback, messages, reviews, files, documents, and all other content.
+
+“Dispute” means any dispute, claim, or controversy between you and Future Parties, including but not limited to disputes, claims, or controversies related to or arising from the Services, or these Terms or Other Terms, including, without limitation, those relating to the formation, breach, termination, enforcement, interpretation, validity, scope, or applicability of the Terms, Other Terms, and the Arbitration Agreement included herein.
+
+“DMCA” means the Digital Millennium Copyright Act, 17 U.S.C. § 512.
+
+“FAA” means that Federal Arbitration Act, 9 U.S.C. § 1 et seq.
+
+“Future Parties” means Future and Future’s predecessors in interest, successors, and assigns, as well as its respective past, present, and future parents, subsidiaries and affiliates.
+
+“IP” means any intellectual property or intellectual property rights, including any copyright, trademark, patent, trade secret, or other proprietary interests, whether registered or unregistered, under the Laws of any jurisdiction.
+
+“Laws” means all laws, rules, codes, statutes, ordinances, regulations, treaties, directives, and legal or regulatory requirements or guidance and agreements that apply to the Service or Content.
+
+“Licensed Parties” means Future Parties and their respective partners, representatives, agents and licensees.
+
+“Mobile Application” means a software application designed to run on mobile devices, such as smartphones and tablets, that provides access to our Services.
+
+“Mobile Services” refer to services or functionality we provide, if any, that are accessible via mobile devices, including apps (if any), mobile-optimized versions of our website, push notifications, location-based services, and SMS, MMS, iMessage and other mobile-based communications.
+
+“NAM” means National Arbitration and Mediation (www.namadr.com).
+
+“NAM Rules” means NAM rules and procedures, including any supplementary rules and fee schedules, then in effect.
+
+“Notice of Dispute” or “Notice” means a notice of Dispute from you to any Company Party.
+
+“Notice Address” means ArbitrationNotices@Futurenet.com, to which a Notice of Dispute from you to Future Parties must be emailed.
+
+“Opt-Out Notice” means the written opt-out notice to opt out of the Arbitration Agreement.
+
+“Opt-Out Period” means within 30 days from the earlier of the date that you: (1) first accessed the Services; or (2) first provided information to the Services after the posting of these Terms.
+
+“Other Terms” means individually or collectively, as applicable, the Privacy Policy or any other agreements, addenda, or terms entered into by you and Company or any other Licensed Party that are governed by, or otherwise incorporate by reference, these Terms.
+
+“Our Content” means the Services, and any IP or Content owned or provided by or on behalf of Future Parties, including any software, technology, tools, designs, templates or tools provided to users.
+
+“Persona” means, collectively, name, brand, likeness, image, likeness, social-media handle(s), avatars, signature, voice, performance, profile and biographical information.
+
+“Platform Terms” means the terms of use and other applicable policies for applicable third party platforms.
+
+“Products” means products made available for purchase through the Services.
+
+“Services” means websites, mobile applications and any other programming, tools, applications, technical products, features, software, games, experiences, or documentation provided by Us and other Future Parties, as applicable.
+
+“Review” means a review about us or our products or services.
+“Subscription” means a recurring payment plan that grants you access to specific Content or parts of the Services for a defined period, which automatically renews until canceled.
+
+“Terms” means these Terms of Service, as updated from time to time.
+
+“You” or “you” means the person entering into these Terms with Company, or if the person is acting as a representative of an entity, that entity.
+
+“Your Content” means any Content you create, submit, store, upload, broadcast, provide or share using the Services, or otherwise provide to Future or any other Licensed Party, including any Persona (to the extent incorporated therein), but excludes Our Content or Content provided by other users.
+
+ 
+
+ABOUT US 
+
+The Services are operated in the US by Future US, LLC which is a subsidiary of Future plc. When we refer to ‘Future’, ‘us’, ‘our’, or ‘we’ in these Terms, we mean Future US, LLC. Our US head office address is 7th Floor 130 West 42nd Street New York, NY 10036.
+
+You can contact us by email on the details found on this page.
+
+ 
+
+BY USING OUR SITES YOU ACCEPT THESE TERMS
+
+By using the Services, you confirm that you accept these Terms. These Terms, together with the Other Terms , will form the contractual relationship between you and us. These Terms explain: (1) what you can expect from us; (2) what we expect from you; (3) who can do what with Your Content and on the Services; and (4) how we will resolve disputes between us.
+
+If you don’t agree to these Terms, you must not use the Services.
+Our Services are usually targeted at adults. If you are not legally considered an adult where you live, please talk to your parent or legal guardian and ask them for help; only they are allowed to agree to these Terms for you. If you’re a parent or legal guardian allowing a minor to use the Services, then you agree these Terms apply to you and that you’re responsible for their and your activity on the Services. You also are responsible for any transactions undertaken by you or the minor.
+
+ 
+
+THERE ARE OTHER TERMS THAT MAY APPLY TO YOU
+
+In addition to these Terms, you can find:
+Our Privacy Notice, available here, which explains how we collect, use and store your personal data.
+
+Our Cookies Notice, available here, which sets out information about the cookies on our sites.
+
+Depending on how you interact with our Services, Other Terms. For example, if you enter a prize draw or competition, our Competition Rules, available here, may apply.
+
+If Other Terms do apply, we will provide you with them at the time you interact with the relevant part of our content.
+
+We will do our best to ensure that our Terms and the Other Terms do not contradict one another. But if they do, the terms and conditions that are most relevant to the content you are engaging with will prevail. For example, if you enter into a prize draw, and a section of the Competition Rules conflicts with a section of these terms and conditions, the section of the Competition Rules will apply instead of the section of these Terms. This will apply only to the conflicting terms. The rest of the parts of the terms and conditions that do not conflict will still apply.
+
+ 
+
+WE MAY MAKE CHANGES TO THESE TERMS
+
+These Terms might not be as exciting as the content you’ll find across our Services. But they are important. And we may amend them from time to time, so please check them for updates. We may make non-material changes to these Terms or any Other Terms without notice, but if we make a change to these Terms or any Other Terms that materially affects your rights, we will provide you with notice on the Services. If you don’t agree with any Terms, including any changes to the Terms or Other Terms, you must stop using the Services. Your continued use of the Services constitutes acknowledgment of and agreement to the Terms, including any changes to the Terms or Other Terms. You can see the date of the latest version on this page.
+
+ 
+
+WE MAY SUSPEND, WITHDRAW, OR CHANGE OUR SERVICES OR PARTS OF THEM
+
+We do not guarantee that the Services, or any Content on them, will always be available or be uninterrupted. We may update, amend, or remove articles or areas of our Services.
+
+Many of our Services are free to access. We may suspend or withdraw or restrict the availability of all or any part of our free-to-access Services at any time.
+
+ 
+
+SUBSCRIPTIONS
+
+Some of our Services may be subject to Subscriptions or sign ups. Those may be subject to Other Terms, which will be presented to you at the time you sign up. If we have offered a paid Subscription to a specific feature or access to categories of Content, we will not withdraw that feature or access during your Subscription in a way that would be unfair to you unless we give you the opportunity to end your subscription early. However, we may make changes to our Services even for paid subscribers if those changes don’t worsen the service we offer for subscribers generally. For example, we may change the writers we use, or we may stop running particular columns, or we may focus on different things relevant to the particular publication, or other changes of that nature.
+
+ 
+
+MOBILE SERVICES
+
+Data Usage and Charges. To the extent you access the Services through a Mobile Device, your mobile carrier’s standard charges, data rates and other fees may apply.
+
+Compatibility. Though our Services are designed to be accessible on Mobile Devices, we do not guarantee full functionality or optimal user experience on all devices. Users are responsible for ensuring their Mobile Devices are compatible with our Services.
+
+Security. Accessing the Services via a Mobile Device may introduce additional security risks. Users are responsible for maintaining the security of their Mobile Devices, including keeping software up to date and protecting against unauthorized access.
+
+ 
+
+YOUR USER PROFILE
+
+We may ask you for certain information from time to time, including to open an account with us, and when the law says we have to. You agree to give us true information only, and you understand that lying or not providing certain information may mean that you won’t be able to access or use certain Services.
+
+If you create a user profile for accessing the Services, you will be responsible for ensuring that you are the only person who accesses our Services using that profile. If you let other people use your profile, we may terminate your access to our Services or remove your profile. You must not create multiple user profiles except where we explicitly tell you that you can or must. If you think your account was hacked, stolen, or used without your permission, please contact us using the information provided through our Services.
+
+If you choose, or you are provided with, a user identification code, password or any other piece of information as part of our security procedures, you must treat such information as confidential. You must not share it. We have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of these Terms.
+
+ 
+
+YOUR INTERACTION WITH OUR SERVICES
+
+The permission we give you to use the Services lasts as long as you comply with: (1) these Terms; and (2) any Other Terms—which will be controlling if there is any conflict with these Terms—that may apply to specific uses of the Services. We will let you know when Other Terms apply to your use of the Services
+
+Some of the Services may allow you to purchase items or require you to pay a fee, including a transaction fee for certain transactions. If so, you agree to pay the applicable purchase price, fees, and any taxes that you may owe as determined by the Future or third party service providers and under any applicable law. All payments and fees are final and non-refundable, unless otherwise stated in Other Terms or on the Services.
+
+By using the Services, you represent and warrant that:
+
+you have the rights and ability to enter into these Terms and any Other Terms;
+your use of the Services and performance under any Other Terms won’t violate any third party’s rights, applicable Laws or Platform Terms;
+your use of the Services will be for your personal enjoyment only or for use as outlined in any Other Terms, but not for any commercial purposes;
+you exclusively own the rights in Your Content or, if not, you have obtained all rights necessary to grant Company and the other Licensed Parties the rights granted hereunder (including all sublicense rights);
+the use of Your Content as set forth herein or in any Other Terms will not violate these Terms, Other Terms, any Laws or Platform Terms, or any rights (including any IP, privacy rights, or rights of publicity) of any third party, or cause Company or any other Licensed Parties to incur any additional fees; and
+if Your Content uses any third party’s IP (like logos, designs, brand names), such use is expressly permitted by the applicable rights holder or otherwise is permitted by fair use or other applicable Laws.
+ 
+
+You must not use our Services to promote any commercial or business purposes, for example by advertising products in our comments section or promoting businesses or causes on our forums unless you have our agreement to do so.
+
+ 
+
+GROUND RULES FOR THE SERVICES
+
+We have to set some ground rules for the Services so that everyone can enjoy them and we can protect peoples’ rights. Therefore, you agree that:
+
+You WILL:
+
+treat Future and any other Licensed Parties and all users of the Services with respect; and
+comply with all applicable Laws and Platform Terms.
+You may not do any of the following, unless laws prohibit these restrictions or you have our advance written permission to do so:
+
+a. share, download, modify, copy, distribute, transmit, display, perform, reproduce, duplicate, publish, license, create derivative works from, or offer for sale any information contained on, or obtained from or through, the Services;
+
+b. duplicate, change, break, decompile, reverse engineer, disassemble or decode the Services or any part thereof (including any underlying idea or algorithm), or attempt to do any of the same;
+
+c. share, upload, distribute, transmit, display, perform, reproduce, duplicate or publish files that contain malicious code, viruses, corrupted files, or any other similar software or programs that may damage the operation of another’s computer, network, or the Services;
+
+d. use, reproduce or remove any proprietary notations displayed on or through the Services (e.g., trademark or copyright notices);
+
+e. use cheats, automation software (bots), hacks, modifications (mods) or any other unauthorized third-party software designed to modify the Services;
+
+f. exploit the Services for any commercial purpose, including without limitation communicating or facilitating any commercial advertisement or solicitation;
+
+g. use the Services or any part thereof in any manner that could disable, overburden, damage, disrupt or impair the Services or any part thereof or interfere with any other party’s use of the Services or any part thereof, or use any device, software or routine that causes the same;
+
+h. attempt to gain unauthorized access to, interfere with, overwhelm, burden, damage, disrupt, impair damage or disrupt or negatively impact the Services, Accounts registered to other users, or the computer systems or networks connected to the Services or any part thereof;
+
+i. use or attempt to use another person’s Account or device without their permission;
+
+j. circumvent, remove, alter, deactivate, degrade or thwart any technological measure or content protections of the Services or any part thereof;
+
+k. use any robot, mods, hacks, spider, crawlers or other automatic device, process, software or queries that intercepts, “mines,” scrapes or otherwise accesses the Services or any part thereof to monitor, extract, copy or collect information or data from or through the Services, or engage in any manual process to do the same (in no event shall any robots.txt file or other such protocol be construed as granting written permission to engage in the conduct prohibited by this paragraph);
+
+l. introduce any viruses, trojan horses, worms, logic bombs or other material which is malicious or technologically harmful;
+
+m. use the Services for or post Content that is harmful, harassing, unethical, fraudulent, obscene, vulgar, abusive, profane, harmful, disruptive or otherwise objectionable or offensive purposes, violates other contractual or fiduciary rights, duties, or agreements;
+
+n. share, upload, distribute, transmit, display, perform, reproduce, duplicate or publish deceptive, unfair or misleading statements, or unauthorized promotion (including, without limitation, chain letters or pyramid schemes, statements or material that constitutes junk mail, spam, or unauthorized advertising or promotional materials);
+
+o. impersonate any other person or entity, whether actual or fictitious, including, without limitation, employees and representatives of any Future Parties, or misrepresent your affiliation with any entity and/or any Future Parties;
+
+p. violate any applicable Laws (i.e. any and all laws, rules, codes, statutes, ordinances, regulations, treaties, directives, and legal or regulatory requirements or guidance and agreements that apply to the Services or Content) in connection with your use of the Services or third party platform terms;
+
+q. use the Services in any way not expressly permitted by these Terms or Other Terms; or
+
+r. encourage or enable any other person or entity to do any of the foregoing.
+
+ 
+
+CONTENT
+
+ 
+
+A. OUR CONTENT
+
+The Services include Our Content, which belongs to Future Parties (as applicable). As between you and Future Parties, the applicable Future Party shall be and remain the sole owner of Our Content. We give you permission to use Our Content solely to use the Services, subject to these Terms and any Other Terms, but we (or other Licensed Parties, as applicable) retain all IP in Our Content.
+
+You agree not to do anything to violate, infringe upon, or misappropriate our IP/Our Content. You must not modify the paper or digital copies of any materials you have printed off or downloaded in any way, and you must not use any content, illustrations, photographs, video or audio sequences or any graphics separately from any accompanying text.
+
+Our status (and that of any identified contributors) as the authors of content on our Services must always be acknowledged.
+
+You must not use any part of the Content on our Services for commercial purposes without obtaining a license to do so from us. You can find out more about licensing our content here or by emailing licensing@futurenet.com.
+
+ 
+
+B. YOUR CONTENT
+
+You own the IP in Your Content, and you can share Your Content with the world. However, you grant Future and all other Licensed Parties, including our users / users of the Service, permission to use Your Content as set forth in the license below.
+
+Unless otherwise agreed by Future in writing, the scope of the license you grant to Your Content hereunder is:
+
+worldwide, meaning it’s valid all over the world;
+non-exclusive, meaning you can give the same license to others;
+royalty-free, meaning there are no royalties owed to you for this license (and, for the sake of clarity, Future Parties may, but have no obligation to, provide or offer you compensation for, or opportunities for you to monetize, Your Content); and
+irrevocable, meaning you can’t take it back.
+ 
+
+Future and all other Licensed Parties may (but are not obligated to):
+
+copy, use, transmit, broadcast, reproduce, publicly perform, and publicly display Your Content, including to save on the Service and its systems and show or make publicly available to other users;
+modify and prepare derivative works based upon Your Content, including to edit them or make new versions of them;
+otherwise use, distribute, commercialize, and exploit Your Content; and
+sublicense, meaning grant any or all of these rights to other Future users / users of the Services or other third parties.
+ 
+
+Future and all other Licensed Parties may exercise these rights for any lawful purpose including, without limitation, the purposes of:
+
+operating and improving the Services, including to provide the Services to you and others, allow the Services to work as intended, and create new features and functionalities; and
+promoting and marketing Future and all other Licensed Parties, the Services, their businesses, Our Content and Your Content.
+The license above continues for as long as Your Content is protected by IP Laws.
+
+If you leave comments on any of our Services, then you must ensure that they are relevant, respectful, and true. You must not unnecessarily add the same comments repeatedly.
+
+If you are confrontational to our writers, other staff members or freelancers, or other users of the Services, we may remove your profile.
+
+If you give us any comments, feedback, or suggestions, you agree that Licensed Parties may use those submissions without notice, payment, or any other obligation to you. The Company does not accept unsolicited Content or ideas (“Ideas”) from users, including, without limitation, for products, services, websites or features. You acknowledge that Licensed Parties may be working on, or receive, other Ideas (or Licensed Parties’ employees or third-party independent contractors may create materials on their own) that are similar or identical in theme, format or other respects to any Idea created by you and no Licensed Party shall have any liability to you for any use of any Idea, including, without limitation, direct, indirect, contributory, vicarious, secondary or damages, or infringement or protection of any copyright in or to any Idea. Future Parties are not responsible for any unauthorized use of any Idea by third parties.
+
+ 
+
+C. OTHER PEOPLE’S CONTENT
+
+The Services may give you access to Content that belongs to others. You can use Content that belongs to others in and as permitted by the Services, these Terms and any Other Terms, but you can’t use it in any other way without the applicable rights holder’s permission.
+
+This information and these materials have not been verified or approved by us. The views expressed by other users on our Services do not represent our views or values.
+
+ 
+
+D. USER-TO-USER INTERACTION INCLUDING FORUMS
+
+Some of the Services enable user-to-user interaction. You are responsible for your interactions with other users on the Services. We reserve the right to monitor interactions between users, but we are not obligated to do so, and cannot be held liable for your interactions with other users, or for any user’s actions or inactions. If you have a dispute with one or more users, you release Future and any other Licensed Parties from claims, and damages of every kind, arising out of or in any way connected with such disputes. In entering into this release, you waive any protections that would otherwise limit the coverage of this release.
+
+If any of the Services allow you to create or upload content onto a website, you must comply with the applicable Other Terms, which may include community guidelines, forum rules, and other policies of that site. We will make those guidelines, rules, and policies easily accessible to you and they will apply in addition to these Terms.
+
+ 
+
+RULES ABOUT LINKING TO OUR SERVICES
+
+​You may link to our pages, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it. You must not establish a link in such a way as to suggest any form of association, approval or endorsement on our part where none exists.
+
+We reserve the right to withdraw linking permission without notice.
+
+If you wish to link to or make any use of content on our sites other than that set out above, please contact licensing our licensing team here or by emailing licensing@futurenet.com.
+
+ 
+
+WE ARE NOT RESPONSIBLE FOR WEBSITES WE LINK TO
+
+Where our Services contain links to other sites and resources provided by third parties, these links are provided for your information only. Those links should not be interpreted as approval by us of those linked websites or the information, or any products or services, you may obtain from them. We have no control over the contents of those sites or resources. There is more information about the links we include to other websites in our Privacy Notice.
+
+ 
+
+OUR REVIEWS AND RECOMMENDATIONS
+
+​We review products and make recommendations. Our reviews and recommendations are unbiased and written by experts. But they are based on the subjective views of our writers, and you should not rely solely on these when making purchasing decisions. We hope to inspire and inform you, but your purchasing decisions are your own responsibility. You should keep in mind that the reviews and recommendations made on our Services might become old or out of date, or may not include some products or services that may better suit you. Your experience of something we have recommended may vary. So we don’t accept any liability if you purchase something based on our views, reviews, or recommendations.
+
+ 
+
+ADVERTISING
+
+​To support our editorial work, we feature advertisements and other commercial content. We also commercialize content in other ways, such as including affiliate links in our content. This means that if you follow a link from one of our articles to buy a product or service, we may receive compensation. We may also make products and services available on our stores, including products and services we may have reviewed.
+
+ 
+
+CORPORATE INFORMATION​
+
+Our corporate site contains financial information such as our annual reports. This information is not intended to invite or induce investment. You should take independent financial advice before making any investment.
+
+ 
+
+WE ARE NOT RESPONSIBLE FOR VIRUSES​
+
+We do not guarantee that our Services will be secure or free from bugs or viruses.
+
+You are responsible for configuring your information technology, computer programs and platform to access our Services. You should use your own virus protection software.
+
+ 
+
+YOUR REVIEWS
+
+We love when Your Content is feedback about experiences with us and/or our Products, as customer feedback helps us to improve our offerings and connect with our community. By submitting Your Content that contains a Review, you agree that:
+
+The Review complies with these Terms
+
+You are actually a user of the product or service being reviewed
+
+The Review reflects your honest opinions, findings, beliefs, or actual experience using the product(s)
+
+You will disclose in the Review (in easy-to-understand language and in an unavoidable place) if you received any Product(s) mentioned in your Review for free, or if you have any other connection to Future
+
+Parties that might materially affect the weight or credibility of your Review.
+
+We reserve the right not to post or delete any Review that:
+
+We reasonably believe is fake or is:
+unlawful
+unrelated to the products or services offered by us
+clearly false or misleading
+harassing or abusive, inappropriate with respect to race, gender, sexuality, ethnicity or another intrinsic characteristic
+defamatory, libelous, or slanderous
+violative of the Terms or applicable Laws
+Contains:
+unlawful material
+trade secrets, or privileged information
+confidential commercial or financial information
+personnel and medical files or similar information
+records or information compiled for law enforcement purposes
+We try to check and publish Reviews after successful submission to us. If a Review is not published after you submitted it to us, it may have violated the Terms.
+
+Please be aware that Reviews on the Services may be viewable by others. We cannot guarantee that you will have any recourse through our Services or Future generally to edit or delete any Review.
+
+ 
+
+OUR RESPONSIBILITY FOR LOSS OR DAMAGE SUFFERED BY YOU
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL ANY OF THE LICENSED PARTIES OR ANY OF THEIR RESPECTIVE OFFICERS, DIRECTORS, SHAREHOLDERS, EMPLOYEES, OR INDEPENDENT CONTRACTORS BE LIABLE (JOINTLY OR SEVERALLY) FOR: (1) ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, CONSEQUENTIAL OR PUNITIVE LOSSES, OR (2) DAMAGES ARISING FROM INTERRUPTIONS; DELETION OF FILES, EMAIL, OR DATA; SYSTEM ERROR, FAILURE OR MALFUNCTION; VIRUSES; DELAYS IN OPERATION OR TRANSMISSION; OR LOSS OF PROFITS, DATA, USE, BUSINESS OR GOOD-WILL; OR (3) YOUR MISUSE OF THE SERVICE OR ANY CONTENT AVAILABLE ON OR THROUGH THE SERVICE. THE LIMITATIONS SET FORTH IN THIS SECTION SHALL APPLY REGARDLESS OF THE FORM OF ACTION, WHETHER THE ASSERTED LIABILITY OR DAMAGES ARE BASED ON CONTRACT, INDEMNIFICATION, TORT, STRICT LIABILITY, STATUTE OR ANY OTHER LEGAL OR EQUITABLE THEORY.
+
+IF APPLICABLE LAW DOES NOT ALLOW ALL OR ANY PART OF THE ABOVE LIMITATION OF LIABILITY TO APPLY TO YOU, THE LIMITATIONS WILL APPLY TO YOU ONLY TO THE EXTENT PERMITTED BY APPLICABLE LAW.
+
+ 
+
+WE MAY TRANSFER THIS AGREEMENT TO SOMEONE ELSE
+
+​We may transfer our rights and obligations under these terms to another organization. If this happens, we will ensure that the transfer will not affect your rights under the contract between us.
+
+ 
+
+ISSUES, CLAIMS, RISKS, AND DISPUTES
+
+​
+
+Warranty Disclaimer
+
+We work continuously to improve the Services and meet your needs. However, for legal reasons, we offer the Services without warranties unless specifically stated in Other Terms. The law says we need to explain this with specific language in capital letters. Here is that explanation:
+
+WE PROVIDE THE SERVICES AS IS AND AS AVAILABLE WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. FOR EXAMPLE, WE DON’T MAKE ANY WARRANTIES ABOUT ANY CONTENT OR FEATURES OF THE SERVICES, INCLUDING THEIR ACCURACY, RELIABILITY, AVAILABILITY, OR ABILITY TO MEET YOUR NEEDS.
+
+ 
+
+Assumptions of Risk
+
+You understand that certain portions of the Services are made possible by third parties. You agree that Future Parties do not control any third parties and won’t be responsible for any losses or harm that they cause either directly or indirectly.
+
+Content is for informational purposes only. The content provided on the Services is for informational and entertainment purposes only and should not be relied upon for making significant decisions regarding your personal, professional, medical, legal, or financial matters. The information presented here is not intended to replace professional advice from qualified experts in various fields. We strongly advise you to consult with a certified professional before making any major decisions or changes based on the content provided on this Services. By using the Services, you acknowledge and agree that any reliance on the information provided is at your own risk. The Licensed Parties are not liable for any damages or losses resulting from the use or misuse of the information on the Services.
+
+ 
+
+What Happens if You Break Our Rules
+
+Before we take any action described below, we may try to give you notice unless doing so would cause someone else harm, compromise the Services, or violate any Law. If you violate the Law, these Terms or any Other Terms and we don’t take action right away, that doesn’t mean we give up any rights that we may have. We may take appropriate action in the future.
+
+If Your Content violates these terms, any Other Terms or Law, or the rights of another person, we may remove Your Content.
+
+ 
+
+Termination
+
+We have the right to terminate your account. We may terminate your access to the Services if you violate these Terms, Other Terms, Law or Platform Terms, or the rights of another person, or for any other reason in our sole discretion. If this happens, any license granted to you in connection with the Services is terminated immediately. We also reserve the right to terminate any other accounts you may create or have created.
+
+ 
+
+Indemnification
+
+If someone sues Future or any other Licensed Party, you may have to pay for defense and legal fees. You agree to defend, indemnify and hold Licensed Parties and any of their respective officers, directors, shareholders, employees, or independent contractors harmless from and against any claims asserted against any of them arising out of or relating to your use or actual or alleged misuse of the Services, violation of these Terms or any Other Terms, Your Content, or your negligence or misconduct. This applies to all liabilities or expenses arising from claims, losses, damages, judgments, fines, litigation costs, and legal fees. You shall cooperate as fully as reasonably required in the defense of any such claim. Any Future Party reserves the right, at its own expense, to assume the exclusive defense and control of any matter subject to indemnification by you.
+
+ 
+
+RESOLVING DISPUTES; AGREEMENT TO ARBITRAGE; CLASS ACTION AND JURY WAIVER
+
+​Last Updated 08 January 2025
+
+PLEASE READ THIS SECTION (THE “ARBITRATION AGREEMENT”) CAREFULLY. IT AFFECTS YOUR LEGAL RIGHTS. IT PROVIDES FOR RESOLUTION OF MOST DISPUTES THROUGH INDIVIDUAL ARBITRATION INSTEAD OF COURT TRIALS AND CLASS ACTIONS. THIS SECTION ALSO CONTAINS A JURY TRIAL WAIVER AND A WAIVER OF ANY AND ALL RIGHTS TO PROCEED IN CLASS, COLLECTIVE, CONSOLIDATED (OTHER THAN ANY BATCHING PROCEDURES CONDUCTED BY THE ARBITRAL FORUM), PRIVATE ATTORNEY GENERAL, OR REPRESENTATIVE ACTION IN ARBITRATION OR LITIGATION TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+
+ 
+
+Mandatory Individual Arbitration
+Any Dispute, whether such Dispute arose before, on, or subsequent to you entering these Terms, and if not resolved through the informal dispute resolution procedure set forth below, shall be exclusively resolved by individual, binding arbitration in accordance with this Arbitration Agreement. The arbitrator, and not any federal, state, or local court or agency, shall have exclusive authority to resolve any Disputes relating to the interpretation, applicability, enforceability, or formation of this Arbitration Agreement, including any claim that all or any part of this Arbitration Agreement is void or voidable. The arbitrator shall also be responsible for determining all threshold arbitrability issues, including issues relating to whether these Terms are unconscionable or illusory, in whole or in part, and any defense to arbitration, including waiver, delay, laches, or estoppel.Notwithstanding the foregoing and the Class Action/Jury Trial Waiver below, you and Future Parties each retain the right to seek injunctive or other equitable relief in a court of competent jurisdiction to prevent the actual or threatened infringement, misappropriation or violation of a party’s copyrights, trademarks, trade secrets, patents, or other IP rights. Any legal action by Future Parties against a non-consumer or its interactions with governmental and regulatory authorities shall not be subject to arbitration. Either party may also elect to have Disputes heard in small claims court seeking only individualized relief, so long as the action is not removed or appealed to a court of general jurisdiction.To the fullest extent permissible by applicable law, all claims against Future Parties, including but not limited to claims arising out of or relating in any way to the Services or the Terms, must be filed within one year after such claim or cause of action arose or it will be forever barred.If any court or arbitrator determines that this Arbitration Agreement is void or unenforceable for any reason as to Disputes arising before the date of posting of this Arbitration Agreement, then you may still be bound to previous versions of this Arbitration Agreement by reason of your separate agreement to those previous versions.
+If any Dispute is determined not to be subject to arbitration or resolution in small claims court, the exclusive jurisdiction and venue for proceedings concerning such Dispute shall be the federal or state courts of competent jurisdiction in New York, and shall be interpreted, governed, and enforced in accordance with substantive and procedural law of the State of New York, without regard to choice of law or conflict of law provisions.
+
+If you or Company Parties files or causes to be filed in court (other than small claims court) a complaint alleging a Dispute that is subject to arbitration under this Arbitration Agreement, the defendant/respondent will notify the party or the party’s attorney (if an attorney has entered an appearance) of the existence of this Arbitration Agreement, and request that the complaint be withdrawn. If the party does not withdraw the action within 10 calendar days of service of that notice, and the defendant/respondent successfully moves to compel arbitration of the Dispute, the defendant/respondent shall be entitled to its costs and fees (including reasonable attorneys’ fees) incurred in seeking to enforce this Arbitration Agreement.
+
+Class Action / Jury Trial Waiver
+You and Future Parties agree that, to the fullest extent permitted by law, each party is waiving the right to a trial by jury or to participate as a plaintiff, claimant, or class member in any class, collective, consolidated (other than any batching procedures conducted by the arbitral forum), private attorney general, or representative proceeding. This means that you and Future Parties may not bring a claim on behalf of a class or group and may not bring a claim on behalf of any other person unless doing so as a parent, guardian, or ward of a minor or in another similar capacity for an individual who cannot otherwise bring their own individual claim. This also means that you and Future Parties may not participate in any class, collective, consolidated (other than any batching procedures conducted by the arbitral forum), private attorney general, or representative proceedings brought by any third party.Unless both you and Future Parties agree in writing, any arbitration will be conducted only on an individual basis and not in a class, collective, consolidated (other than any batching procedures conducted by the arbitral forum), or representative proceeding. If any court or arbitrator determines that this Class Action/Jury Trial Waiver is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the Arbitration Agreement shall be deemed null and void in its entirety, and you and Future Parties shall be deemed not to have agreed to arbitrate Disputes.To the extent that any claims are allowed to proceed on a class, collective, consolidated (other than any batching procedures conducted by the arbitral forum), or representative basis, such claims must be litigated in a federal or state court of competent jurisdiction in New York ,and the parties agree that litigation of those claims shall be stayed pending the outcome of any individual claims in arbitration.Notwithstanding the foregoing, you or Future Parties may participate in a class-wide settlement.
+Opt-Out Procedures
+To opt out of this Arbitration Agreement, you must send us a written Opt-Out Notice by email at ArbitrationNotices@Futurenet.com within the Opt-Out Period. The Opt-Out Notice must contain your full legal name, your complete mailing and email address and phone number, a clear statement that you wish to opt out of this Arbitration Agreement, and your signature. If your Opt-Out Period has passed, you are not eligible to opt out of this Arbitration Agreement. If you opt out of this Arbitration Agreement, all other provisions of the Terms will continue to apply to you. Additionally, if you opt out of this Arbitration Agreement, you may still be bound to previous versions of this Arbitration Agreement by reason of your separate agreement to those previous versions. In other words, opting out of this Arbitration Agreement shall have no effect on any previous, other, or future arbitration agreements you may enter into with Future Parties. As stated above, if you do not opt out of this Arbitration Agreement within the Opt-Out Period, then you will be bound to the terms and conditions of this Arbitration Agreement which shall supersede and replace in its entirety all previous versions of Future Parties’ arbitration agreements and class action provisions. If you timely provide Future Parties’ with a valid Opt-Out Notice, all Disputes shall be subject to the exclusive jurisdiction of, and you consent to venue in, the state and federal courts located in New York.
+Rules and Governing Law
+Mandatory Pre-Arbitration Notice and Informal Dispute Resolution Procedures: You and we agree that good-faith, informal efforts to resolve disputes often can result in a prompt, cost-effective and mutually beneficial outcome. Therefore, in the event of a Dispute, you and Future Parties each agree to send the other party a written Notice of Dispute. A Notice of Dispute from you to Future Parties must be emailed to the Notice Address. Any Notice of Dispute must include (i) the claimant’s full legal name, complete mailing address, and email address; (ii) a description of the nature and basis of the claim or dispute; (iii) any relevant facts regarding claimant’s use of the Services, including whether claimant receives any emails associated with the Services, whether claimant has made a purchase from Future Parties, and if so, the date(s) of the purchase(s); and (iv) a personally signed statement from the claimant (and not their counsel) verifying the accuracy of the contents of the Notice. The Notice must be individualized, meaning it can concern only your dispute and no other person’s dispute. Future Parties will send any Notice of Dispute to you at the email address or mailing address it has for you, if any.After receipt of a Notice of Dispute, the parties shall engage in a good faith effort to resolve the Dispute for a period of 60 days (which can be extended by agreement). You and we agree that, after receipt of the Notice of Dispute, the recipient may request an individualized telephone or video settlement conference (which can be held after the 60-day period) and both parties will attend (with counsel, if represented). You and we agree that the parties (and counsel, if represented) shall work cooperatively to schedule the conference at the earliest mutually-convenient time and to seek to reach a resolution.Compliance with this Mandatory Pre-Arbitration Notice and Informal Dispute Resolution Procedures section is a condition precedent to initiating arbitration. Any applicable limitations period (including statute of limitations) and any filing fee deadlines shall be tolled while the parties engage in the informal dispute resolution procedures set forth in this subsection. All of the Mandatory Pre-Arbitration Notice and Informal Dispute Resolution Procedures are essential so that you and Future Parties have a meaningful opportunity to resolve disputes informally. If any aspect of these requirements has not been met, the parties agree that a court of competent jurisdiction may enjoin the filing or stay the prosecution of an arbitration. Nothing in this paragraph limits the right of a party to seek damages for non-compliance with these Procedures in arbitration.If the parties cannot resolve the Dispute through the Informal Dispute Resolution Procedures above, you and Future Parties each agree that all Disputes shall be resolved exclusively through final and binding individual arbitration, rather than in court. The parties may agree to waive hearings and resolve Claims through submission of documents. Any arbitration hearing will be conducted remotely by telephone or video conference to the extent possible, but if the arbitrator determines, or the parties agree, that a hearing should be conducted in person, the arbitration hearing will take place as close to your residence as practicable, or another agreed upon locale, and shall be before one arbitrator.
+All Disputes shall be submitted to NAM, for arbitration before one arbitrator. The arbitration will be administered by NAM in accordance with the NAM Rules, except as modified by this Arbitration Agreement. A party who desires to initiate arbitration must provide the other party with a written Demand for Arbitration as specified in the NAM Rules. A form for initiating arbitration proceedings is available on NAM’s website at https://www.namadr.com/resources/rules-fees-forms/. You and we agree that the party initiating arbitration must submit a certification that they have complied with and completed the Mandatory Pre-Arbitration Notice and Informal Dispute Resolution Procedures requirements referenced above, and that they are a party to the Arbitration Agreement enclosed with or attached to the demand for arbitration. The demand for arbitration and certification must be personally signed by the party initiating arbitration (and their counsel, if represented). The parties agree that submission of the certification shall be required for the claim to be deemed properly filed. For additional information on how to commence an arbitration proceeding, you can contact NAM at customerservice@namadr.com.
+
+If NAM determines that 25 or more substantially similar arbitration demands presented by or with the assistance, coordination, or cooperation of the same law firm, group of law firms, cooperating law firms, or organization are allowed to be submitted for arbitration, NAM’s mass filing fee structure shall apply and the parties agree that the arbitrations will proceed in accordance with the batching process as follows: (i) NAM shall administer the arbitration demands in batches of at least 25 claims, with the discretion to create additional batches if NAM finds that they are necessary to facilitate the efficient resolution of demands; (ii) NAM shall provide for the resolution of each batch as a single consolidated arbitration with one procedural calendar and one hearing (if any) and one final award; and (iii) following such determination of a mass filing, NAM shall apply a single initial filing fee and administrative fee per batch for each side with respect to the fees set forth in NAM’s fee schedule. You agree to cooperate in good faith to implement this batch approach to facilitate the efficient resolution of these Claims. All parties agree that arbitrations are of a “substantially similar nature” for purposes of this batching procedure for claims administered by NAM if they arise out of or relate to the same event or factual scenario and raise the same or similar legal issues and seek the same or similar relief. This batching procedure for claims administered by NAM shall in no way be interpreted as authorizing class arbitrations of any kind. Future Parties reserve all rights and defenses as to each and any demand and claimant. If any court or arbitrator determines that this batching procedure for claims administered by NAM and the ADR Services Batching Procedure (see below) are both void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the Arbitration Agreement shall be deemed null and void in its entirety, and you and Future Parties shall be deemed not to have agreed to arbitrate Disputes.If NAM notifies the parties in writing that it is not available to arbitrate any Claim, or if NAM is otherwise unable to arbitrate any Claim, that Claim shall be submitted to ADR Services, for final and binding individual arbitration before one arbitrator. The arbitration will be administered by ADR Services in accordance with the ADR Services Rules, except as modified by this Arbitration Agreement. If there are 20 or more substantially similar Claims that are allowed to be submitted for arbitration but cannot be arbitrated by NAM, and are presented to ADR Services by or with the assistance, coordination, or cooperation of the same law firm, group of law firms, cooperating law firms, or organization, ADR Services shall (i) administer those Claims in at least 20 batches, with the discretion to create additional batches if ADR Services finds that they are necessary to facilitate the efficient resolution of demands; and (ii) apply a single initial filing fee and administrative fee per batch for each side with respect to the fees set forth in ADR Services’ then-current Mass Consumer Non-Employment Arbitration Fee Schedule. You agree to cooperate in good faith to implement this ADR Services Batching Procedure to facilitate the efficient resolution of these Claims. This ADR Services Batching Procedure shall in no way be interpreted as authorizing class arbitrations of any kind. Future Parties reserve all rights and defenses as to each and any demand and claimant.
+
+Notwithstanding any choice of law or other provision in these Terms, the parties agree and acknowledge that this Arbitration Agreement evidences a transaction involving interstate commerce and that the FAA, will govern its interpretation and enforcement and any proceedings under it. It is the intent of the parties that the FAA and the NAM Rules or ADR Services Rules (as applicable) shall preempt all state laws to the fullest extent permitted by law. If the FAA and the NAM Rules or ADR Services Rules (as applicable) are found to not apply to any issue that arises under this Arbitration Agreement, then that issue shall be interpreted, governed, and enforced in accordance with substantive and procedural law of the State of New York without regard to choice of law or conflict of law provisions.
+
+At the conclusion of the arbitration proceeding, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the award is based. An arbitrator’s award that has been fully satisfied shall not be entered in any court.
+
+As in court, you and Future Parties agree that any counsel representing a party in arbitration certifies when initiating and proceeding in arbitration that they are complying with the requirements of Federal Rule of Civil Procedure 11(b) and any applicable state laws of similar import, including certification that the claim or relief sought is neither frivolous nor brought for an improper purpose. The arbitrator is authorized to impose any sanctions under the NAM Rules or ADR Services Rules (as applicable), Federal Rule of Civil Procedure 11, or applicable federal or state law, against all appropriate represented parties and counsel.
+
+Except as expressly provided in the Arbitration Agreement, the arbitrator may grant any remedy, relief, or outcome that the parties could have received in court, including awards of attorneys’ fees and costs, in accordance with applicable law.
+
+Arbitrator’s Fees: You and we agree that arbitration should be cost-effective for all parties and that any party may engage with NAM, ADR Services (as applicable), and/or the arbitrator to address the apportionment of the arbitrator’s fees.
+
+Confidentiality: The parties agree that the arbitrator is authorized to issue an order requiring that confidential information of either party disclosed during the arbitration (whether in documents or orally) may not be used or disclosed except in connection with the arbitration or a proceeding to enforce the arbitration award and that any permitted court filing of confidential information must be done under seal to the furthest extent permitted by law.
+
+Requirement of Individualized Relief: The parties agree that the arbitrator is authorized, upon either party’s request, to award declaratory or injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party’s individual claim. If any of the prohibitions on non-individualized declaratory or injunctive relief, class, representative, and private attorney general claims, or consolidation set forth under this Arbitration Agreement are found to be unenforceable with respect to a particular claim or with respect to a particular request for relief (such as a request for injunctive relief sought with respect to a particular claim), then, after exhaustion of all appeals, the parties agree such a claim or request for relief shall be decided by a court of competent jurisdiction, after all other arbitrable claims and requests for relief are arbitrated.
+
+You agree that any arbitrations between you and Future Parties will be subject to this Arbitration Agreement and not to any prior arbitration agreement you had with Future Parties, and, notwithstanding any provision in these Terms to the contrary, you agree that this Arbitration Agreement amends any prior arbitration agreement you had with Future Parties, including with respect to claims that arose before this or any prior arbitration agreement.
+
+Opt-Out of Future Changes to Arbitration Agreement
+
+Notwithstanding any provision to the contrary, if Future Parties make any future change to this Arbitration Agreement (other than a change to the Notice Address or other non-material changes), you may reject any such change by sending Future Parties an email to ArbitrationNotices@Futurenet.com within 30 days of the posting of the amended arbitration agreement that provides: (i) your full legal name, (ii) your complete mailing address, (iii) your phone number, (iv) the change(s) you are rejecting, (v) and, if applicable, the username or email address associated with any purchase from Future Parties. It must include a statement, personally signed by you, that you wish to reject the specified change to the Arbitration Agreement. This is not an opt out of arbitration altogether.
+
+Severability & Survival
+
+If any provision of this Arbitration Agreement, or a portion thereof, is found to be void, invalid, or otherwise unenforceable, then that portion shall be deemed to be severable and, if possible, superseded by a valid, enforceable provision, or portion thereof, that matches the intent of the original provision, or portion thereof, as closely as possible. The remainder of this Arbitration Agreement shall continue to be enforceable and valid according to the terms contained herein.
+
+Notwithstanding the foregoing, if any court or arbitrator determines that the batching procedure for claims administered by NAM (set forth above) and the ADR Services Batching Procedure are both void or unenforceable for any reason or that an arbitration can proceed on a class basis, then, after exhaustion of all appeals, the Arbitration Agreement shall be deemed null and void in its entirety.
+
+This Arbitration Agreement shall survive termination of these Terms. Except as provided in the opt-out provisions set forth above, the terms and conditions of this Arbitration Agreement shall supersede and replace any and all previous arbitration and class action/jury waiver agreements you may have entered into with Future Parties.
+
+NOTICE FOR CALIFORNIA USERS
+Under California Civil Code Section 1789.3, California users of the online services are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 400 R Street, Suite 1080, Sacramento, California 95814, or by telephone at (916) 445-1254 or (800) 952-5210.
+
+NOTICE TO NEW JERSEY USERS
+The sections on indemnification and limitation of liability do not apply to New Jersey residents to the extent that New Jersey’s Truth-in-Consumer Contract, Warranty, and Notice Act (TCCWNA) (N.J.S.A. §§ 56:12-14 to 56:12-18) prohibits such application.
+
+ 
+
+MISCELLANEOUS
+
+​We You may not assign or transfer any of your rights or obligations under these Terms, in whole or in part, by operation of law or otherwise, without our prior written permission. We may assign or transfer any of our rights or obligations hereunder without your permission and without notice to you.
+
+If any clause within these Terms is found to be invalid, unenforceable, void, voidable, or illegal, that clause will be severed and the remainder of the Terms will be given full force and effect.
+
+These Terms, together with Other Terms, represent the entire agreement between you and us and supersede any prior agreements or understandings, whether written or oral, between you and us.
+All provisions of these Terms that would reasonably be expected to survive the termination of this agreement including, without limitation, those related to IP, limitation of liability, and indemnification, will do so.
+
+Our failure to enforce any right or provision of these Terms will not constitute a waiver of future enforcement of that right or provision. The waiver of any such right or provision will be effective only if in writing and signed by our authorized representative. Except as expressly set forth in these Terms, the exercise by either party of any of its remedies under these Terms will be without prejudice to its other remedies under these Terms or otherwise.
+
+We will be excused from performance under these Terms, to the extent it is prevented or delayed from performing, in whole or in part, as a result of an event or series of events caused by or resulting from (1) weather conditions or other elements of nature or acts of God, (2) acts of war, acts of terrorism, insurrection, riots, civil disorders or rebellion, (3) quarantines or embargoes, (4) labor strikes, or (5) other causes beyond our reasonable control.
+
+This Agreement is between you and us. There are no third-party beneficiaries.

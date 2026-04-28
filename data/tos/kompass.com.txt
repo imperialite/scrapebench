@@ -1,0 +1,220 @@
+Terms of use
+GENERAL TERMS OF USE FOR KOMPASS SOLUTIONS
+
+(v03092025)
+
+DEFINITIONS
+
+Database(s) : Refers to the French and international databases owned by the Publisher.
+Nomenclature: Developed by Kompass, protected by Intellectual Property Law, which systematically classifies companies according to the products and services they provide using a 2, 5, or 7-digit coding system. This allows buyers to find suppliers and vice versa.
+Personal Account: Refers to the individual account of each User, allowing access to the features of the Kompass Site or Solutions through a username and password.
+Hosted Data: Data uploaded by the User on the Kompass Site and Solutions.
+Publisher or Kompass: Refers to Kompass International, a company with a share capital of €500,000, headquartered at 6-10 rue Troyon – CS 10016 – 92310 Sèvres Cedex (France), registered in the Nanterre Trade and Companies Register under number B 823 374 137, VAT Identification Number: FR 10.823 374 137.
+Kompass Group: Kompass International SA, its subsidiaries, and other affiliated or contracting companies.
+Host: Kompass may also host the data of its Users.
+Contracting Organization or Organization or Client: Any private or public entity wishing to contract or having contracted a subscription related to a Kompass Solution.
+Kompass Site or Site: Refers to the site accessible on the Kompass.com domain, edited by Kompass.
+Kompass Solutions: Any solution offered by Kompass as an online subscription or through its international commercial network.
+Sources: Include, but are not limited to, all public databases, official company information registers, online information sites, websites of private or public companies, blogs, social networks, duly authorized partners, and particularly those specialized by country.
+User(s): Refers to any user of the Site or Kompass Solutions.
+KOMPASS AS SOLUTIONS PUBLISHER
+
+These General Terms of Use and applicable legislation govern the access and use of Kompass Solutions by Contracting Organizations and Users.
+
+In addition to the B2B visibility offers provided through the Site for many years, Kompass is a publisher of Martech Solutions aimed at enhancing the capabilities of marketing and sales teams in terms of B2B prospecting and business opportunity portfolio management.
+
+The various services offered by the Kompass Solutions are strictly for professional use and are managed centrally by Kompass.
+
+They include providing data and general information about companies, their activities, products/services, and their operational managers and executives by function, along with contact details.
+
+In particular, this information is established and organized according to a method designed by Kompass, notably through its Nomenclature. This Nomenclature is the exclusive property of Kompass and is available in over 70 countries and in 26 languages.
+
+In cases where Kompass offers specific or third-party services, it may be necessary to obtain your consent to additional conditions to deliver these services, for example, at point g) below or further in the chapter "Kompass as Data Host."
+
+Based on the Kompass database, the Kompass Solutions implement all or part of the following services:
+
+a) Conduct searches for companies or contacts using numerous filters or relying on a semantic search engine.
+
+b) Import your own lists of clients or prospects to discover similar companies within your chosen geographical area.
+
+c) Perform analyses from numerous criteria and prepare charts, tables, and segmentations.
+
+d) Create lists of companies or professionals for prospecting purposes.
+
+e) Engage with one or more selected recipients.
+
+f) Synchronize with external solutions used by the Contracting Organization: CRM (Customer Relationship Management) or Outlook/Gmail Messaging.
+
+g) Receive alerts or notifications about targeted companies and professionals.
+
+h) Receive opportunities or purchase intentions for your offers through visitor identification technologies on your website or your profile on the Kompass Site.
+
+i) For a salesperson: manage their business opportunity pipeline from end to end, including storing information about companies and contacts with whom they are or must enter into a professional relationship.
+
+j) For a team leader: share prepared lists with their colleagues and supervise the team's activity.
+
+k) Finally, export data files of companies or contacts directly into other solutions of the Organization or via flat files.
+
+The Contracting Organization acknowledges and understands that the content and scope of the Services and search results presented by the Solutions, including the selection of possible Sources, by Kompass or by the User, are subject to change. Kompass may modify or supplement its offer at any time and at its sole discretion.
+
+The User is requested to read these General Terms of Use carefully before using the subscribed solution. By using the Kompass Solutions, the User accepts these General Terms of Use. These are updated regularly, and the applicable General Terms of Use are available online in Solution at the time of use.
+
+Access to the Kompass Solutions is available twenty-four (24) hours a day, seven (7) days a week, except in cases of force majeure or events beyond Kompass’ control and subject to any necessary maintenance outages required for the proper functioning of the solutions, which may be carried out without prior notice to the User.
+
+In case of non-acceptance of the General Terms of Use, the use of the Kompass Solutions is prohibited.
+
+KOMPASS AS DATA HOST
+
+In certain cases of using the Kompass Solutions, the User may import their own data, and in this case, Kompass acts as a Host.
+
+In cases where the imported data contains personal data, these will be processed on your behalf, and the Data Processing Agreement available at Kompass International to dpo@kompass.com.
+
+This agreement supplements these General Terms of Use and defines the conditions under which the entrusted personal data are processed and are part of the services executed by Kompass on behalf of the Contracting Organization.
+
+In this case, the hosted data remains the exclusive property of the User. In particular, the User is solely responsible for the use of the imported data, with Kompass’ role limited to hosting said data.
+
+It is the Client's responsibility to ensure that they have all the necessary rights and authorizations to comply with these Terms and to avoid any violation of third-party rights. The Client is responsible for ensuring compliance with these Terms by its users and must, in all circumstances, make reasonable efforts to prevent access or use of the Kompass Services by unauthorized people or algorithms and promptly inform Kompass of any unauthorized access or use.
+
+KOMPASS AS DATA PUBLISHER
+
+Apart from the previous case describing data processing on your behalf, Kompass, as the Publisher of the Site and the Kompass Solutions, acts on its own behalf as a Data Controller and not on your behalf.
+
+Kompass invests annually in data collection, either directly or through licenses or partnerships.
+
+The data collected and processed by Kompass, and its partners are regularly checked. Kompass ensures the reliability, quality, and updating of the data collected within its Group, in compliance with applicable legislation and the rights of third parties.
+
+In particular, Kompass and its partners have implemented data collection and processing processes for personal data in compliance with the GDPR.
+
+As part of our activities, we deal with data protection by adopting a "privacy by design" approach—placing the protection of personal data and privacy as an absolute priority from the design stage—and primarily work with providers offering technical and organizational security guarantees for the protection of personal data.
+
+We thank you for reading and accepting our Personal Data Protection Policy available at the following link:
+
+https://xx.kompass.com/l/general-data-use-policy (xx being the 2 letters iso country code)
+
+However, if any content concerning you seems incorrect, you can inform Kompass at this address service@kompass.com
+
+Nowadays, many processes are carried out algorithmically and automatically, and Kompass therefore does not guarantee the accuracy, completeness, or timeliness of the data and/or programs, information, content ("the Information") provided by the Kompass Solutions. The Information is provided "as is" without any express or implied warranty, including—but not limited to—warranties regarding fitness for a particular purpose. Similarly, Kompass makes its best efforts not to infringe on the intellectual property rights of third parties but cannot provide any guarantee in this regard.
+
+In no event shall Kompass or its affiliated companies be liable for any direct, indirect, special, consequential, or other damage caused by the use or reliance placed on the Information found on the Site or the Kompass Solutions or any other website to which it refers, including—but not limited to—loss of profit, business interruption, loss of programs or other data, even if Kompass has been expressly advised of the possibility of such damages.
+
+HYPERTEXT LINKS
+
+To third-party sites or social networks:
+
+From hypertext links or any other link, the User may access other Internet sites that are not part of the Kompass Solutions, and Kompass cannot be held responsible and provides no warranty for websites to which the User may access. By accessing a website that is not part of the Kompass Solutions, the User acknowledges and accepts that Kompass exercises no control over any content and information on said website. It is the User's responsibility to protect their computer equipment against viruses, worms, Trojan horses, and any other destructive elements.
+
+LICENSE AND CREDITS
+
+Kompass grants the Contracting Organization or User a non-exclusive and non-transferable license (hereinafter the "License") allowing them to use the Kompass Solutions, to consult the Kompass databases solely on behalf of the subscribing company according to the terms and conditions of these General Terms of Use and the General Terms of Sale.
+
+The License defines the geographical scope, the number of users, and the various included services.
+
+The User is informed that certain services cannot be provided without the use of Credits: displaying certain data, data exports, sending emails...
+
+In addition to the License, the Contracting Organization may acquire Credits that are usable throughout the subscription period and allocated to Users to enable the use of the aforementioned services.
+
+If all credits are used before the end of the term, some services may no longer be usable without purchasing additional credits.
+
+Conversely, if all credits are not used before the end of the subscription, the credits are deemed lost.
+
+PROHIBITED USES:
+
+Any inquiry regarding any multi-use or collective use must be addressed to the Kompass Group.
+
+The User may neither transfer, encode, sublicense, nor transmit in any other way the rights granted to them under the general terms of use and the General Terms of Sale. In particular, the User must not allow anyone (except their duly authorized employees when the User is a legal entity or a commercial association) to use or consult the Kompass databases without having obtained prior written authorization from the Kompass Group.
+
+It is not permitted to collect content and information from the Kompass Site or Solutions through a robot or any other automated means (program, software, automaton...).
+
+Except where legally permitted, the User must not decompile, disassemble, change, or modify in whole or in part any software that is accessible through or related to the Kompass services.
+
+Database extractions and prints are subject to prior acquisition of a license and compliance with its limits. Failure to comply with these prerequisites and limitations will result in the User's Account being blocked, temporarily or permanently, and the User will not be entitled to any refund or compensation. The databases contain witness addresses intended to detect any unauthorized use.
+
+In the case of a license, extractions and prints must not exceed the contractually authorized limit.
+
+If Kompass factually observes that a User has committed or attempted to commit a violation, Kompass may, with immediate effect, exclude the user from using the services until the observed issue is resolved.
+
+If the issue is reasonably unsolvable, Kompass may suspend this User and/or the account of the concerned Contracting Organization.
+
+SUBSCRIPTION TO THE KOMPASS SOLUTIONS
+
+To access a Kompass Solution, the User or client company must provide a certain amount of information that is recorded in the Personal Account or the company's account, including the email address of a User designated as the solution administrator.
+
+The system will automatically send a password to the administrator at the indicated email address. KOMPASS strongly advises administrators to customize their password as soon as they log in for the first time.
+
+The administrator may create access for additional users, if applicable, through their Client Area by providing a last name, first name, and email address for each. In the same way as for the administrator, the system will automatically send passwords to the various declared email addresses. KOMPASS strongly advises users to customize their password as soon as they log in for the first time.
+
+Each employee given one of the User accesses to the subscribed Solution must comply with these General Terms of Use.
+
+Furthermore, the User is solely responsible for maintaining the confidentiality of their password. The User acknowledges and accepts that their account is strictly personal and that communicating their password to a third party is not authorized.
+
+The User is fully responsible for any use of their identifiers and passwords, whether or not they have authorized said use. The User undertakes to inform Kompass immediately of any unauthorized use of their identifiers and passwords.
+
+Kompass does not guarantee that the operation of the Solutions is continuous and error-free. The Publisher may interrupt access to all or part of the Site or Solutions at any time, particularly for operational reasons, corrective or evolutionary maintenance, without Users being able to claim any compensation or seek the Publisher's liability in this regard.
+
+If the customer loses their password, they are prompted to click on “Forgot your password?”.
+
+On the subscription end date or termination date, personal data is retained for a period of 6 months for possible reactivation purposes and then permanently deleted if no reactivation has taken place during this period.
+
+USER OR ORGANIZATION RESPONSIBILITIES
+
+Any use made by the User or Organization of the Kompass databases is done under their own responsibility, and Kompass does not guarantee the suitability of the content of its Solutions to the User's needs and specifications.
+
+Kompass cannot be held responsible for any direct, indirect, or consequential consequence or direct or indirect damages and/or injuries related to the use of its Solutions and the data provided.
+
+WARNING REGARDING SERVICES OFFERED THROUGH KOMPASS SOLUTIONS
+
+The User or Client is requested to ensure that they are legally authorized to use the Search results and/or the services offered in the country from which the connection is established, as well as in the User's or Organization's target country.
+
+Kompass is not able to legally evaluate your use of the provided data (contact data of individuals, in particular, but also establishment addresses that may coincide with the personal address of an independent professional).
+
+The User or Client acknowledges being solely responsible for complying with the laws, rules, and regulations applicable to the use of data exported from Search results, for example, in terms of data protection and privacy.
+
+SENDING EMAILS VIA THE KOMPASS SOLUTIONS
+
+Apart from the telephone contact details of a company or professional contact, the Solutions may offer several services to contact a prospect by email:
+
+- Sending an email message to a single company or professional (1:1)
+
+- Simultaneously sending the same message to multiple companies (generic addresses) or professionals (individual addresses)
+
+- Sending actual campaigns through an integrated emailing module (available in certain countries)
+
+The User or Client of these tools must comply with all applicable laws and regulations, particularly the GDPR for the European Union, FADP for Switzerland, as well as similar regulations outside the European Union, and to these General Terms of Use and our Personal Data Protection Policy:
+
+https://xx.kompass.com/en/l/general-data-use-policy (xx being the 2 letters iso country code)
+
+The User or Client is solely responsible for the use they make of these services and the data provided by Kompass. In particular, it is the User's responsibility to read and understand the applicable laws and regulations, as well as these general terms of use.
+
+The Client undertakes to indemnify and/or hold Kompass harmless from any liability in the event of legal action or judgement that Kompass may face due to non-compliance with applicable laws and regulations by one or more Users of the Contracting Organization.
+
+Finally, Kompass reserves the right to limit usage or take other measures in the event of statistics revealing risk factors for your company and ours, as well as for the recipients of the shipments.
+
+COMPUTING AND FREEDOMS
+
+In accordance with European Regulation No. 2016-679 of April 27, 2016, and the amended local Data Protection laws, you have rights (access, rectification, erasure, restriction, and portability) regarding your data which you may exercise by contacting us at the following address: dpo@kompass.com
+
+or by mail:
+
+Kompass International / 6-10 rue Troyon – CS 10016 – 92310 Sèvres Cedex (France)
+
+The User can consult and modify certain data in a "My Account" area provided for this purpose in the Client Area.
+
+Kompass may also collect data to better understand your use of our site through Cookies. For more information on this subject, please carefully consult our documentation regarding cookies. Kompass may also be required to collect your IP address and temporarily keep a history of the pages visited on our site in a connection log.
+
+APPLICABLE LAW, JURISDICTION, AND LANGUAGE
+
+These General Terms of Use are subject to French law and written in French.
+
+In the event of a dispute regarding their interpretation or execution, the parties commit to a preliminary amicable phase.
+
+The User is informed that they may, in any case, resort to mediation with existing sectoral mediation bodies or any alternative dispute resolution method in the event of a dispute.
+
+In the absence of an amicable solution, the parties agree to submit said dispute to the Nanterre Courts, competent for this contract.
+
+For any questions relating to the application of these General Terms of Use, you can contact the publisher at the following address: info@kompass.com.
+
+MODIFICATION OF THE GENERAL TERMS OF USE
+
+Kompass reserves the right to modify these General Terms of Use at any time. The modifications will be effective upon their publication on the Solution. Users are recommended to consult the General Terms of Use regularly to be aware of any modifications.
+
+Last update : 03/09/2025

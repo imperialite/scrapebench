@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /alliance-partner
+Disallow: /archive
+Disallow: /audit-sitemap
+Disallow: /landing/
+Disallow: /link/
+Disallow: /siaa
+Disallow: /smart-choice
+Disallow: /*.gif$
+Disallow: /*.woff2$
+Disallow: /*.xls$
+Disallow: /*.xlsx$
+
+Sitemap: https://www.ezlynx.com/sitemap.xml

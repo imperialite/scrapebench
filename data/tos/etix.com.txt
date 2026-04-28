@@ -1,0 +1,389 @@
+Etix.com | API Partner Terms of Use
+Skip to Search
+Skip to Content
+Looking for our ticketing & marketing solutions?
+Learn More
+|
+Client Login
+Ticketing & Marketing Solutions
+Client Login
+Search
+GO
+ORDER LOOKUP
+CUSTOMER SUPPORT
+ORDER LOOKUP
+CUSTOMER SUPPORT
+Search
+GO
+Etix – API Partner Terms of Use
+Last Updated: June 30, 2022
+Hello, and thank you for partnering with Etix! The following are the API Partner Terms of Use (“Partner
+                    Terms” or “Terms”) that govern your and/or the company you represent
+                    (collectively, “you” or “Partner”) use of the Etix (“us” or
+                    “our”) application programming interface (“Etix APIs”) and any software
+                    development kits, software, tools, plugins, code, technology, content, or others services that
+                    enable you to develop functionality, retrieve data from Etix, or provide data to Etix (collectively,
+                    the “Etix Platform”). If you are using the Etix APIs and Etix Platform on behalf of a
+                    company, you represent and warrant that you have authority to bind that entity to these Terms.
+ACCEPTANCE OF TERMS
+Please read the following terms carefully. By using or allowing someone to use the Etix APIs and
+                    Etix Platform on your behalf, you expressly agree to these Partner Terms, as may be updated from
+                    time to time at Etix′s sole discretion. If you do not agree to the Partner Terms and execute an API
+                    Partner Agreement with Etix, you will not be entitled to use the Etix APIs and Etix Platform, and
+                    Etix does not grant you a license to use the Etix APIs and Etix Platform. If there is a conflict
+                    between the Partner Terms and any terms in the API Partner Agreement you execute with Etix, the
+                    terms in the API Partner Agreement will control for that conflict.
+Etix reserves the right to make changes to these Partner Terms at any time, effective immediately
+                    upon our posting them to Etix website or sending them to you electronically via the Etix Platform or
+                    by email to provide notice of any such changes. The “Last Updated” date above will tell
+                    you when these Partner Terms were last revised. By continuing to use the Etix APIs and Etix Platform
+                    after that date, you expressly agree to the changes.
+In order to register or use any part of the Etix Platform, including the Etix APIs, you must be at
+                    least eighteen (18) years old, a United States resident, and legally capable to enter into
+                    contracts.
+ACCOUNTS
+In order to access the Etix APIs and parts of the Etix Platform, you may be required to provide
+                    certain information (such as identification or contact details) as part of the registration process,
+                    or as part of your continued use of the Etix APIs and Etix Platform (e.g., to create an “Etix
+                    Account”). You agree that any registration information you provide Etix will always be
+                    accurate and up to date, and that you will inform us or update your Etix Account promptly with any
+                    updates. Etix Account credentials and information (such as usernames, passwords, and keys) are
+                    intended to be used solely by you. You agree to keep your Etix Account credentials confidential and
+                    are solely responsible for any activity via your Etix Account.
+LICENSE
+Upon acceptance of these Partner Terms, Etix hereby grants to Partner, during the Term, a revocable,
+                    non–transferable, non–sublicensable, non–exclusive, royalty–free, limited license to use the Etix
+                    APIs and Etix Platform to enhance your websites and applications (“API Clients”). During
+                    the Term, Etix will provide Partner access to use the Etix APIs and Etix Platform solely for the
+                    purpose of using the APIs and Platform in connection with Partner′s API Clients. No other rights or
+                    licenses are provided.
+Any payment processing for goods and services through the Etix APIs or Etix Platform will be
+                    governed by Etix′s Terms of Use, located at
+https://www.etix.com/ticket/online3/terms.jsp
+,
+                    and Etix′s Purchase Policy, located at
+https://www.etix.com/ticket/online3/purchase-policy.jsp
+.
+USING ETIX APIS AND ETIX PLATFORM
+Partner agrees to:
+comply with all applicable laws, regulations, and third–party rights (including without
+                        limitation laws regarding the import or export of data or software, privacy, and local laws);
+not use the Etix APIs or Etix Platform to encourage or promote illegal activity or violation of
+                        third–party rights;
+create and maintain quality products that function as expected, including all API Clients that
+                        use the Etix APIs or other parts of the Etix Platform, and hold all Partner′s affiliates,
+                        agents, sub-partners and sub–contractors accountable for doing the same;
+not violate any other terms of service or agreements with Etix and to comply with the Etix Terms
+                        of Use at
+https://www.etix.com/ticket/online3/terms.jsp
+;
+require all end users of Partner′s API Clients to comply with all applicable laws and
+                        regulations, including the Etix Terms of Use at
+https://www.etix.com/ticket/online3/terms.jsp
+;
+only access (or attempt to access) Etix APIs or the Etix Platform by the means described by Etix
+                        (e.g., if Etix assigns you credentials as in connection with an Etix Account), you must use them
+                        when accessing the Etix Platform and will not misrepresent or mask either your identity or your
+                        end users′ identities when using the Etix APIs, Etix Platform, or an Etix Account.
+remove from your API Clients immediately, and not later than 24 hours after being notified, any
+                        content owned by Etix or a third party, such as event information, or other information or
+                        tickets that Etix or the owner asks you to remove;
+treat any confidential information provided to Partner from Etix in accordance with any other
+                        agreements made between Partner and Etix relating to the handling of such confidential
+                        information;
+disclose on your API Clients through a privacy policy or otherwise how you collect, use, store,
+                        and disclose data collected from end users, including, where applicable, that third parties
+                        (including advertisers) may provide advertisements and collect information directly from
+                        visitors and may place or recognize cookies on visitors′ browsers.
+RESTRICTIONS
+Partner shall not:
+use the Etix APIs or any part of the Etix Platform for any API Clients that replicate or attempt
+                        to replace the unique essential user experience provided by Etix;
+use the Etix APIs or Etix Platform for any illegal purposes or for the transmission of material
+                        that is unlawful, harassing, libelous, invasive of another′s privacy, abusive, threatening,
+                        obscene, or that infringes the rights of others;
+use the Etix APIs or Etix Platform to post automated content to Etix, including likes and
+                        comments that were not initiated and entered by an Etix user;
+attempt to cloak or conceal your identity when requesting authorization to use the Etix APIs or
+                        Etix Platform;
+cache or store any Etix content made available via Etix′s website, applications, the Etix APIs,
+                        or Etix Platform, other than for reasonable periods in order to use the Etix APIs and Etix
+                        Platform for your API Clients;
+reverse engineer or attempt to extract the source code from any Etix APIs or the Etix Platform
+                        or any related software, except to the extent that this restriction is expressly prohibited by
+                        applicable law;
+use the Etix APIs or Etix Platform for any API Clients that constitute, promote, or are used in
+                        connection with spyware, adware, or any other malicious programs or code designed to interrupt,
+                        destroy or limit the functionality of any software or hardware. Notwithstanding any other
+                        provision of these Terms, if activities of the Partner cause undue technical stress to the Etix
+                        APIs and Etix Platform, interferes with use of the Etix APIs and Etix Platform by others, or
+                        transmits information or transactions that Etix believes are illegal or fraudulent, Etix
+                        reserves the right to revoke your Etix Account and block access immediately and indefinitely to
+                        part or all of the Etix APIs and Etix Platform;
+use the Etix APIs or Etix Platform in a manner that adversely impacts the stability of Etix′s
+                        servers or adversely impacts the behavior of other websites or applications using the Etix APIs
+                        or Etix Platform;
+sell, lease, or sublicense the Etix APIs or Etix Platform, including access thereto, or derive
+                        revenues from the use or provision of any part of the Etix Platform, whether for direct
+                        commercial or monetary gain or otherwise, except as set forth herein;
+remove any trademarks, logos, copyright notices, proprietary notices or labels displayed on the
+                        Etix APIs or Etix Platform;
+distribute, sell, lease, rent, lend, sublicense, or provide any access to any part of the Etix
+                        APIs and Etix Platform to any third party;
+In its sole discretion, Etix may set and enforce limits on your use of the Etix APIs and Etix
+                    Platform (e.g., by limiting the number of requests that you may make or the number of end users you
+                    may serve). You agree to, and will not attempt to circumvent, such limitations. If you would like to
+                    use any Etix APIs or other party of the Etix Platform beyond these limits, you must obtain Etix′s
+                    express consent (and Etix may decline such request or condition acceptance on your agreement to
+                    additional terms and/or charges for that use).
+INTELLECTUAL PROPERTY & OWNERSHIP
+The Etix APIs and Etix Platform may be protected by copyrights, trademarks, service marks,
+                        international treaties, and/or other proprietary rights and laws of the U.S. and other
+                        countries. Etix′s rights apply to the Etix APIs and Etix Platform, and all output and
+                        executables of the same, excluding any software components developed by you which do not
+                        themselves incorporate the Etix APIs or any other part of the Etix Platform or output or
+                        executables of the same. You agree to abide by all applicable intellectual property rights laws
+                        and other laws, as well as any additional copyright notices or restrictions contained in these
+                        terms. Etix owns all rights, title, and interest in and to the Etix APIs. Etix does not acquire
+                        ownership in your API Clients, and by using the Etix APIs and Etix Platform, you do not acquire
+                        ownership of any rights in our APIs or Platform or the content that is accessed through the
+                        same. These Partner Terms grant you no right, title, or interest in any intellectual property
+                        owned or licensed by Etix including but not limited to the Etix APIs, any part of the Etix
+                        Platform, or Etix′s other intellectual property (e.g., trademarks, trade names, copyrights,
+                        etc.). Partner agrees not to act in any manner inconsistent with such ownership and agrees that
+                        it will not challenge Etix′s ownership of the Etix APIs, the Etix Platform, any of Etix
+                        trademarks or other intellectual property rights, or challenge the validity of the licenses
+                        granted under these Terms.
+Partner may provide feedback to Etix regarding the Etix APIs and Etix Platform and any
+                        modifications, enhancements, updates and derivative works thereof. Etix will own and have a
+                        right to fully exploit such feedback regarding any modifications, enhancements, updates and
+                        derivative works as it deems appropriate. Partner agrees to and hereby assigns all rights to
+                        Etix necessary to accomplish the same.
+The entire contents of Etix′s websites, applications, Etix APIs and Etix Platform are protected
+                        by copyright law. Etix′s names and logos are registered trademarks of Etix. All other images,
+                        logos, or names on Etix′s website, applications, the Etix APIs and Etix Platform, are trademarks
+                        of their respective owners. Etix′s website, applications, the Etix APIs and Etix Platform, and
+                        the software used to power the same and any content incorporated therein are the sole property
+                        of Etix and may not be recorded, redistributed, sold, de–compiled, or reverse engineered in any
+                        way. None of the content from Etix′s website, applications, or the Etix APIs and Etix Platform
+                        may be copied, transmitted, or reproduced in any manner without the express written consent of
+                        Etix. Any transmission, copy, reproduction, or alteration of the material or content on Etix′s
+                        websites, applications, the Etix APIs or the Etix Platform is a violation of Etix's intellectual
+                        property rights.
+ATTRIBUTION
+Partner agrees to display any attribution(s) required by Etix. Etix hereby grants to you a
+                    nontransferable, non–sublicensable, non–exclusive license during the Term to display Etix′s
+                    trademarks, trade names, and logos (“Etix′s Brand”) solely for the purpose of promoting or
+                    advertising that you use the Etix APIs and Etix Platform in connection with your API Clients. You
+                    must only use the trademarks in accordance with these Partner Terms and for the purpose of
+                    fulfilling your obligations under this Section of the Terms. In using the trademarks, you must
+                    follow all guidelines regarding the use of Etix′s Brand, including the Etix Style Guide at:
+https://3rciqhy0rae308xhr1wmo5i1-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/Etix-Style-guide-rev.-102019.pdf
+,
+                    which is incorporated herein by reference. You understand and agree that Etix has the sole
+                    discretion to determine whether your attribution(s) and use of Etix′s Brand are in accordance with
+                    the above requirements and guidelines.
+PROMOTIONAL AND MARKETING USE BY ETIX
+In the course of promoting, marketing, or demonstrating the Etix APIs and Etix Platform, Etix may
+                    produce and distribute incidental depictions, including screenshots, video, or other content from
+                    API Clients, and may use your company or product name, logos, or other trademarks and service marks.
+                    You grant us all necessary rights for the above purposes.
+OPEN SOURCE SOFTWARE
+Some of the software required by or included in the Etix APIs or Etix Platform may be offered under
+                    an open source license. Open source software licenses constitute separate written agreements. For
+                    certain Etix APIs, open source software is listed in the documentation. To the limited extent the
+                    open source software license expressly supersedes the Terms, the open source license instead sets
+                    forth your agreement with Etix for the applicable open source software.
+PARTNER OBLIGATIONS
+Partner is responsible for assuring that you and your employees, contractors, sub–contractors and
+                    sub–partners, affiliates and/or agents comply with these Partner Terms. Partner is solely
+                    responsible for all costs, expenses, losses and liabilities incurred, and activities undertaken by
+                    Partner in connection with the Etix APIs and Etix Platform.
+NO SUPPORT
+Unless otherwise agreed to by the parties in writing, Etix is under no obligation under the Partner
+                    Terms to support the use of the Etix APIs or Etix Platform, or to provide Partner with subsequent
+                    releases, enhancements or error corrections of the same. Etix may provide reasonable support to
+                    Partner in connection with its use of the Etix APIs and Etix Platform at its sole discretion, but
+                    makes no guarantees to provide such support.
+UPDATES OR REMOVAL
+Etix may update, withdraw, edit, or otherwise amend the Etix APIs and Etix Platform at any time in
+                    its sole discretion and without notice to Partner. Etix may update the content, data, and features
+                    available via the Etix APIs and Etix Platform from time to time, but cannot guarantee that such
+                    content, data, or features are completely up to date. Partner agrees and acknowledges that content,
+                    data, and features of the Etix APIs and Etix Platform may not be accurate or current at any given
+                    time. Etix is not liable if for any reason all or any part of the Etix APIs or Etix Platform are
+                    unavailable at any time or for any period of time.
+NON–EXCLUSIVITY
+Partner acknowledges that Etix may develop products or services that may compete with Partner′s API
+                    Clients or any other products or services.
+THIRD PARTY CONTENT & END USERS
+The Etix websites, applications, Etix APIs and Etix Platform may contain third party content (such
+                    as text, images, videos, audio, software, etc.). This content is the sole responsibility of the
+                    third party that makes it available. Such content may also be subject to intellectual property
+                    rights, and, if so, you may not use it unless you are licensed to do so by the owner of that content
+                    or are otherwise permitted by law. Some of the Etix APIs may allow the submission of content. Etix
+                    does not acquire any ownership of any intellectual property rights in the content that you submit to
+                    the Etix APIs through your API Clients, except as expressly provided in these Terms. For the sole
+                    purpose of enabling Etix to provide, secure, and improve the Etix APIs and Etix Platform, you grant
+                    to Etix a perpetual, irrevocable, worldwide, sublicensable, royalty–free, and non–exclusive license
+                    to use content submitted, posted, or displayed to or from the Etix APIs through your API Clients,
+                    including to use, host, store, modify, communicate, and publish such content. Before you submit
+                    content to the Etix APIs or Etix Platform through your API Clients, you will ensure that you have
+                    the necessary rights (including the necessary rights from your end users) to grant us this license.
+Unless expressly permitted by the content owner or by applicable law, you will not, and will not
+                    permit the end users of you API Clients or others acting on your behalf, to do the following with
+                    content returned from the Etix APIs:
+Scrape, build databases, or otherwise create permanent copies of such content, or keep cached
+                        copies longer than permitted by the cache header;
+Copy, translate, modify, create a derivative work of, sell, lease, lend, convey, distribute,
+                        publicly display, or sublicense to any third party;
+Misrepresent the source or ownership; or
+Remove, obscure, or alter any copyright, trademark, or other proprietary rights notices; or
+                        falsify or delete any author attributions, legal notices, or other labels of the origin or
+                        source of material.
+WARRANTY DISCLAIMER
+THE ETIX APIS AND ETIX PLATFORM AND ALL ASSOCIATED MATERIALS ARE PROVIDED ON AN “AS IS” AND “AS
+                    AVAILABLE” BASIS. TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, ETIX DISCLAIMS ALL WARRANTIES,
+                    EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+                    FOR A PARTICULAR PURPOSE, OR NON–INFRINGEMENT OF INTELLECTUAL PROPERTY. ETIX MAKES NO
+                    REPRESENTATIONS OR WARRANTY THAT THE ETIX APIS AND ETIX PLATFORM WILL MEET YOUR REQUIREMENTS, OR
+                    THAT YOUR USE WILL NOT BE UNINTERRUPTED, TIMELY, SECURE, OR BUG OR ERROR FREE; NOR DOES ETIX MAKE
+                    ANY REPRESENTATION OR WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE ETIX APIS
+                    OR ETIX PLATFORM.
+ETIX MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF
+                    THE ETIX APIS OR ETIX PLATFORM, OR THE INFORMATION, CONTENT, MATERIALS, OR PRODUCTS INCLUDED IN THE
+                    ETIX APIS OR ON THE ETIX PLATFORM. ETIX DOES NOT WARRANT THAT THE ETIX APIS OR ETIX PLATFORM WILL
+                    ASSIST IN DEVELOPMENT OF ANY API CLIENTS.
+IN NO EVENT SHALL ETIX OR ANY OF ITS AGENTS, PARENT COMPANIES, OFFICERS, DIRECTORS, EMPLOYEES,
+                    SHAREHOLDERS OR LICENSEES BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION,
+                    DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF INFORMATION) ARISING OUT OF PARTNER′S
+                    USE, MISUSE OF OR INABILITY TO USE THE ETIX APIS OR ETIX PLATFORM , EVEN IF ETIX HAS BEEN ADVISED OF
+                    THE POSSIBILITY OF SUCH DAMAGES. THIS DISCLAIMER CONSTITUTES AN ESSENTIAL PART OF THIS AGREEMENT.
+                    THE ABOVE LIMITATION MAY NOT APPLY TO YOU, AS SOME JURISDICTIONS PROHIBIT THE EXCLUSION OR
+                    LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES.
+PARTNER UNDERSTANDS AND AGREES THAT ANY CONTENT DOWNLOADED, USED, OR OTHERWISE OBTAINED THROUGH THE
+                    ETIX APIS AND ETIX PLATFORM IS AT ITS OWN DISCRETION AND RISK. PARTNER IS SOLELY RESPONSIBLE FOR ANY
+                    DAMAGE TO ITS COMPUTER SYSTEMS, LOSS OF DATA, OR BUSINESS INTERRUPTION THAT RESULTS FROM PARTNER′S
+                    USE OF THE ETIX APIS AND ETIX PLATFORM. ETIX SHALL NOT BE RESPONSIBLE FOR ANY LOSS OR DAMAGE CAUSED,
+                    OR ALLEGED TO HAVE BEEN CAUSED, DIRECTLY OR INDIRECTLY, BY PARTNER′S USE OF THE ETIX APIS OR ETIX
+                    PLATFORM . NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM ETIX, ITS
+                    EMPLOYEES, OR THIRD PARTIES SHALL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN. YOU UNDERSTAND AND
+                    AGREE THAT YOUR USE OF THE ETIX APIS AND ETIX PLATFORM IS AT YOUR SOLE RISK.
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL OR EQUITABLE THEORY, WHETHER IN TORT, CONTRACT,
+                    NEGLIGENCE, STRICT LIABILITY OR OTHERWISE, SHALL ETIX OR ANY OF ITS AGENTS, PARENT COMPANIES,
+                    OFFICERS, DIRECTORS, EMPLOYEES, SHAREHOLDERS OR LICENSEES BE LIABLE TO YOU OR TO ANY OTHER PERSON
+                    FOR ANY INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL LOSSES OR DAMAGES OF ANY NATURE ARISING OUT
+                    OF OR IN CONNECTION WITH THE USE OF OR INABILITY TO USE THE ETIX APIS OR ETIX PLATFORM OR FOR ANY
+                    BREACH OF SECURITY ASSOCIATED WITH THE TRANSMISSION OF SENSITIVE INFORMATION THROUGH THE ETIX APIS
+                    OR ETIX PLATFORM, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOST PROFITS, LOSS OF GOODWILL, LOSS OR
+                    CORRUPTION OF DATA, WORK STOPPAGE, ACCURACY OF RESULTS, OR COMPUTER FAILURE OR MALFUNCTION, EVEN IF
+                    AN AUTHORIZED REPRESENTATIVE OF ETIX HAS BEEN ADVISED OF OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF
+                    SUCH DAMAGES. ETIX′S TOTAL CUMULATIVE LIABILITY FOR ANY AND ALL CLAIMS IN CONNECTION WITH THE ETIX
+                    APIS OR ETIX PLATFORM WILL NOT EXCEED ONE HUNDRED DOLLARS ($100.00). YOU ACKNOWLEDGE AND AGREE THAT
+                    THE FOREGOING LIMITATIONS ON LIABILITY ARE AN ESSENTIAL BASIS OF THE BARGAIN AND THAT ETIX WOULD NOT
+                    PROVIDE THE ETIX APIS AND ETIX PLATFORM WITHOUT SUCH LIMITATION.
+INDEMNIFICATION
+Partner will indemnify, hold harmless and defend Etix and its officers, directors, employees,
+                    affiliates, subsidiaries, licensors, suppliers and service providers from any and all third party
+                    claims, liability, damages, losses, expenses and costs (including, but not limited to, reasonable
+                    attorneys′ fees) caused by or arising from the Partner′s use of the Etix APIs and Etix Platform,
+                    Partner′s violation of these Partner Terms, or Partner′s infringement, or infringement by any user
+                    of Partner′s Etix Account, of any intellectual property or other right of anyone. Partner agrees to
+                    not hold Etix accountable for any issues, including any third–party claims, liability, damages,
+                    losses, expenses and costs (including, but not limited to, reasonable attorneys′ fees) caused by or
+                    arising from the Partner′s use of the Etix APIs and Etix Platform.
+RELEASE & WAIVER
+To the maximum extent permitted by applicable law, you hereby release and waive all claims against
+                    Etix, and its subsidiaries, affiliates, officers, agents, licensors, co–branders or other partners,
+                    and employees from any and all liability for claims, damages (actual and/or consequential), costs
+                    and expenses (including litigation costs and attorneys′ fees) of every kind and nature, arising from
+                    or in any way related to your use of the Etix APIs and Etix Platform. In addition, you expressly
+                    waive and relinquish any and all rights and benefits which you may have under any other state or
+                    federal statute or common law principle of similar effect, to the fullest extent permitted by law.
+PRIVACY/SECURITY
+Partner will comply with all applicable privacy laws and regulations including those applying to
+                    personal data and Etix′s Privacy Policy, which is hereby incorporated by reference and can be found
+                    at
+https://www.etix.com/ticket/online3/privacy-policy.jsp.
+You agree to provide and adhere to a
+                    privacy policy for your end users that clearly and accurately describes to such users what
+                    information you collect and how you use and share such information (including for advertising) with
+                    Etix and third parties. You will use commercially reasonable efforts to protect user information
+                    collected by your API Clients that utilize the Etix APIs or other parts of the Etix Platform,
+                    including your end users′ personal data, from unauthorized access or use, and will promptly report
+                    to your users any unauthorized access or use of such information to the extent required by
+                    applicable law.
+Partner agrees to use commercially reasonable physical, administrative and technical controls,
+                    screening and security procedures and other safeguards necessary to protect against any unauthorized
+                    access to or use of the Etix APIs and Etix Platform, including via your Etix Account. Partner may
+                    not use any part of the Etix Platform, including the Etix APIs, in any manner that does or could
+                    potentially undermine the security of the Etix APIs or Etix Platform, or of Etix′s servers. Partner
+                    will not, and will not attempt to interfere with, modify or disable any features, functionality or
+                    security controls of the Etix APIs or Etix Platform, including in its Etix Account, or perform any
+                    penetration or security testing of the Etix Platform. Partner will use best efforts to maintain the
+                    security of any of its information architecture, systems and procedures used in connection with the
+                    activities and API Clients under these Terms. You will immediately report to Etix any security flaws
+                    discovered in the Etix APIs or Etix Platform. Partner will immediately report any actual or
+                    suspected unauthorized access of its Etix Account.
+Partner′s use of its own data, including any end users of the API Clients′ data, in conjunction with
+                    the Etix APIs and Etix Platform shall be performed at Partner′s own risk. Partner will be solely
+                    liable for any claims for breach of security or privacy obligations with respect to its and its
+                    users′ data.
+TERM AND TERMINATION
+The Partner Terms and your license to use the Etix APIs and Etix Platform under such Terms continues
+                    until it is terminated by either party (the “Term”). You may terminate the license by discontinuing
+                    use of the Etix APIs and Etix Platform. Etix may terminate these Partner Terms and your license at
+                    any time for any reason. Your rights to use the Etix APIs and Etix Platform terminate automatically
+                    if you violate these Terms, if Etix sends a written notice of termination to you, or if Etix
+                    disables your Etix Account or otherwise restricts your access to the Etix APIs and Etix Platform.
+                    Upon termination of these Partner Terms for any reason, Partner will stop using, and destroy and
+                    remove from all computers, hard drives, networks, and other storage media, all copies of the Etix
+                    APIs and any part of the Etix Platform and any of Etix′s confidential information in its possession.
+GOVERNING LAW & DISPUTE RESOLUTION
+These Partner Terms shall be governed by the laws of the State of North Carolina without regard to
+                    its provisions on conflicts of law. In the event of any dispute or controversy arising from these
+                    Terms, the parties agree to first submit all issues to mediation under the procedures of the
+                    American Arbitration Association. In the event that mediation fails to resolve all issues, the
+                    parties shall submit all remaining issues to arbitration under the procedures of the American
+                    Arbitration Association; the prevailing party shall be entitled to reasonable attorneys' fees and
+                    expenses in accordance with those procedures. The venue of the mediation or arbitration shall be
+                    determined such that the party who commences the dispute resolution shall do so in the city where
+                    the other party has its principal place of business.
+MISCELLANEOUS
+These Partner Terms do not create any partnership, franchise, joint venture, agency, fiduciary
+                        or employment relationship between Partner and Etix. Neither party may bind the other party or
+                        act in a manner that expresses or implies a relationship other than that of independent
+                        contractor.
+Partner may not assign or otherwise transfer any of its rights or obligations under these
+                        Partner Terms.
+In the event that any part of the Partner Terms are found to be unenforceable, the remainder
+                        shall continue in effect to the extent permissible by law.
+Etix shall not be deemed to have waived any of its rights or remedies hereunder unless such
+                        waiver is in writing and signed by Etix. No delay or omission on the part of Etix in exercising
+                        any rights or remedies shall operate as a waiver of such rights or remedies or any other rights
+                        or remedies. A waiver on any one occasion shall not be construed as a bar or waiver of any
+                        rights or remedies on future occasions.
+The section headings and subheadings contained in these Terms are included for convenience only,
+                        and shall not limit or otherwise affect the terms of the Partner Terms. Any construction or
+                        interpretation to be made of the Partner Terms shall not be construed against the drafter.
+Looking for our ticketing & marketing solutions?
+Learn More
+Quick Links
+Find Events
+Print Your Tickets
+Customer Service
+Privacy Policy
+Terms of Use
+Purchase Policy
+Accessibility Statement
+Company
+Sell tickets with Etix
+Our Blog
+Press Kit
+Careers with Etix
+Our Team
+Sign Up for Our Newsletter
+Find out about the latest events catered to your interests before the rest of the world!
+Email
+Social Media
+© 2026  Etix.com

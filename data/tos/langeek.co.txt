@@ -1,0 +1,90 @@
+LanGeek Terms of Service
+Effective Date: May 8, 2025
+
+Welcome to LanGeek! These Terms of Service ("Terms") govern your use of the LanGeek website and mobile application (collectively, "LanGeek" or the "Platform"). By accessing or using LanGeek, or by creating an account, you agree to be bound by these Terms. If you do not agree with any part of these Terms, please refrain from using LanGeek.
+
+1. Definitions
+To ensure clarity, the following terms will have the meanings specified below:
+
+"LanGeek," "we," "us," "our" refers to LanGeek Inc., the company operating the LanGeek platform.
+
+"You," "your," "User" means any individual or entity using LanGeek.
+
+"Content" includes all materials available on LanGeek, such as lessons, quizzes, videos, audio files, images, and any user-submitted content.
+
+"Subscription" refers to a paid membership plan that grants access to additional features or premium content.
+
+2. Eligibility
+LanGeek is designed for users of all ages. By using the Platform, you confirm that you have the legal capacity to enter into these Terms. If you are a minor in your jurisdiction, you must obtain permission from a parent or legal guardian before using LanGeek.
+
+3. Account & Security
+To maintain a secure environment for all users, you agree to:
+
+Provide accurate and complete information when registering an account.
+Keep your login credentials confidential and do not share them with others.
+Notify us immediately at info@langeek.co if you suspect unauthorized access to your account.
+We reserve the right to suspend or terminate inactive, fraudulent, or suspicious accounts without prior notice.
+
+4. Subscriptions & Payments
+4.1 Temporary Plans
+Plan Options: You may choose between a 1-year or 3-year subscription.
+No Free Trial: LanGeek does not offer free trial periods.
+Auto-Renewal: Subscriptions automatically renew at the end of each term unless canceled before the renewal date.
+Billing: Payments made via the website are processed through Stripe, while mobile app payments are handled by Google Play or the App Store. All prices include applicable taxes.
+Cancellation: You may cancel your subscription at any time through your account settings. Access to premium features will continue until the end of the current billing period.
+Refunds:
+Full refunds are available within 7 days of purchase.
+Partial refunds may be granted within 3 months if a verified technical issue prevents access.
+No refunds are provided beyond these periods unless required by law.
+Price Changes: We will notify users of any pricing adjustments at least 30 days in advance.
+Promotions: Discounts and special offers are temporary and do not apply to renewal payments.
+4.2 Lifetime Plan
+Access: A single, one-time payment grants permanent access to all current and future content.
+Support & Updates: Full support and updates are provided for 3 years after purchase. After this period, the Platform remains accessible, but no new features or bug fixes are guaranteed.
+Discontinuation: If LanGeek ceases operations, we are not obligated to issue refunds or continue service.
+4.3 Additional Terms
+Account Linkage: Purchases are tied to your Apple ID or Google Account and cannot be transferred between accounts.
+Future Features: Access is provided "as-is." New features may require additional payment.
+Failed Payments: If a payment fails, your access may be temporarily suspended.
+Third-Party Processors: We are not responsible for issues caused by Stripe, Google, or Apple.
+Taxes: You are responsible for any local taxes or fees not included in the listed price.
+Promotions: Discounts cannot be transferred, combined, or applied retroactively.
+5. User Content
+You retain ownership of any content you upload to LanGeek, but grant us a license to use it for Platform operations.
+Do not upload content that infringes on others' rights or violates laws.
+We reserve the right to remove any content that breaches our policies.
+6. Privacy & Cookies
+Our Privacy Policy details how we collect, use, and protect your data.
+We use cookies to enhance your experience. You can manage cookie preferences in your browser settings.
+Depending on your location, you may have rights under GDPR, CCPA, or other privacy laws, including:
+Accessing, correcting, or deleting your data.
+Requesting data portability.
+To exercise these rights, contact us at info@langeek.co.
+7. Third-Party Services
+You may sign in via Google or Apple—their terms also apply.
+Our apps are distributed through Google Play and the App Store, subject to their respective policies.
+LanGeek may contain links to third-party websites or services. We do not control these and are not responsible for their content or practices.
+8. Indemnity
+You agree to indemnify and hold harmless LanGeek from any claims, damages, or expenses (including legal fees) arising from:
+
+Your use of the Platform.
+Your breach of these Terms.
+Any violation of third-party rights.
+9. Limitation of Liability
+We are not liable for indirect, incidental, or consequential damages.
+Our total liability is limited to the amount you paid in the last 12 months.
+We are not responsible for disruptions caused by events beyond our control (e.g., natural disasters, wars, internet outages).
+10. Disputes
+Informal Resolution: Contact us first to attempt resolution.
+Mediation/Arbitration: If unresolved, disputes will be settled through mediation or arbitration under the ADR Institute of Canada's rules, initiated within 90 days.
+Jurisdiction: All legal proceedings must take place in British Columbia, Canada.
+11. Changes to These Terms
+We may update these Terms periodically. While we won't notify users individually, we encourage you to review this page regularly. Continued use of LanGeek after changes constitutes acceptance of the revised Terms.
+
+12. Governing Law
+These Terms are governed by the laws of British Columbia and Canada. Any disputes must be resolved in BC courts.
+
+13. Contact Us
+For questions or concerns, email us at info@langeek.co. Note that we currently do not list a physical address.
+
+Thank you for choosing LanGeek!

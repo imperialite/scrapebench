@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: https://www.empoweremr.com/sitemap.xml
+Disallow: /blog?25aeaec8_page=
+
+Sitemap: https://www.empoweremr.com/sitemap.xml

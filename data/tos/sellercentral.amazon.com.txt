@@ -1,0 +1,137 @@
+Amazon
+Acceptable Use Policy
+The Acceptable Use Policy (“AUP”) clarifies the appropriate use of the Amazon Services API. In addition to the
+Amazon Solution Provider Agreement
+and the
+Data Protection Policy
+(“DPP”), Solution Providers must comply with this AUP. Failure to comply with this AUP may result in suspension or termination of Amazon Services API access in accordance with the Amazon Services API Developer Agreement.
+1. Perform acceptable Amazon activities
+The Amazon Services API is for Solution Providers - third party Developers and Service Providers (collectively, "Solution Providers") - who wish to help Authorized Users build, manage and grow successful businesses in Amazon’s store and/or participate in any Amazon Services.
+1.1 Use the Amazon Services API only to perform acceptable Amazon activities, and only for Authorized Users who have authorized you to perform these activities on their behalf.
+1.2 Do not facilitate or promote violation of any agreement between Authorized Users and Amazon (such as the Amazon Services Business Solutions Agreement), directly or indirectly.
+1.3 If you suspect that an Authorized User is using your service to violate their agreement with Amazon, notify Amazon (spapi-abuse@amazon.com) and block the Authorized User’s access to your Application.
+1.4 Comply with Amazon policies that pertain to specific APIs or functionality that your Application provides.
+2. Provide quality applications and services
+Transparency
+2.1 Do not falsely advertise your Application or service.
+2.2 Be clear and honest with Authorized Users about what data you are accessing and for what purpose.
+2.3 Do not attempt to deceive Authorized Users through the deliberate modification of Information.
+2.4 Be explicit about any calculations and the use of models such as artificial intelligence in the service you provide, their accuracy and data freshness.
+Compliance
+2.5 Comply with all applicable laws including data privacy and data protection laws (e.g. GDPR, Cybersecurity Law of the People’s Republic of China).
+2.6 Do not offer Applications or services that infringe on the intellectual property of others.
+Quality and performance
+2.7 Provide the Application availability, performance and support required to perform the business task.
+2.8 Identify and mitigate any negative Authorized User impact before launching new features, especially for business-critical tasks.
+2.9 Design your Application to respect per-Authorized User throttling quotas, and monitor and minimize client-side errors.
+2.10 Implement data integrity and validation checks within your Application for any analytical processing (e.g. AI models for insights, automated decision-making) that has material impact on an Authorized User’s business.
+3. Keep data secure
+Account access
+3.1 Never share access keys or passwords.
+3.2 Never request or accept an Authorized User’s or another Solution Provider’s access keys for any purpose.
+3.3 Do not request or share Amazon Portal usernames or passwords from Authorized Users.
+3.4 Only act on behalf of Authorized Users that have granted you permission through third-party authorization.
+3.5 Do not apply for access keys that you will not use. Amazon will baseline access keys every 90 days. Access keys that do not make a successful call in 90 days will be deleted and the Solution Provider will need to re-apply for access keys.
+3.6 Do not ask Authorized Users to share information retrieved from Amazon Portals manually or programmatically to circumvent Amazon policies.
+3.7 If Amazon Portal access is required to provide features or services that benefit Authorized Users, ask the Authorized User to grant access through secondary user permissions.
+Data access
+3.8 Do not request access to or retrieve Information that is not necessary for your Application’s functionality.
+3.9 Only grant access to data on a “need-to-know” basis within your organization, to any individual employed or contracted by your organization and among your Application users.
+3.10 Do not attempt to circumvent throttling quotas through the creation of multiple Solution Provider accounts within the same region.
+3.11 Inform Amazon SP-API Solution Provider Support at
+https://developer.amazonservices.com/support
+within 30 days of any organizational changes or events that change your organization’s need for or use of Information (such as a merger, acquisition, other transfer in business ownership or material change in your organization’s product or service offerings). Maintain a written policy to this effect.
+3.12 Disclose to Amazon about affiliated entities involved in your Application or service when requesting additional roles.
+3.13 Comply with the Data Protection Policy (“DPP”), which provides specific requirements on the receipt, storage, usage, transfer and disposition of Information.
+4. Use data for acceptable purposes
+Data Usage
+4.1 Do not use Personally Identifiable Information about Customers for any purposes other than merchant fulfilled shipping or to meet legal requirements, including tax and regulatory requirements. You must document with Authorized Users any requirement to process Personally Identifiable Information.
+4.2 Do not target Amazon Customers for product marketing or review fabrication and modification using data retrieved through the Amazon Services API or any external (non-Amazon) data services.
+4.3 Do not use, offer or promote external (non-Amazon) data services that vend information or data retrieved from Amazon’s websites.
+4.4 Do not aggregate data across Authorized Users’ businesses or customers obtained through the Amazon Services API to provide or sell to any parties, including competing Authorized Users.
+4.5 Do not promote, publish or share insights about Amazon’s business. Do not use insights about Amazon’s business for your own business purposes.
+Data sharing
+4.6 Do not disclose Information, individually labelled or aggregated, to other Application users, affiliated entities or any outside parties, unless required to perform acceptable Authorized User activities for Authorized Users that authorized your Application.
+4.7 Perform due diligence on the data security measures and policies of any parties with whom you share data and only share data with parties that have data security standards at least as strict as your own.
+4.8 As required under applicable law, Solution Providers transferring PII must have contractual provisions in place to provide a suitable legal basis for such transfers.
+4.9 Be transparent with Authorized Users about what data you share, with whom and for what purposes.
+5. API-specific policies
+5.1 If you support Buyer-Seller Messaging using the Buyer-Seller Messaging Service, you must comply with the Communication Guidelines and applicable Program policies.
+Amazon store
+Australia Communication Guidelines
+Brazil Communication Guidelines
+Canada Communication Guidelines
+France Communication Guidelines
+Germany Communication Guidelines
+Italy Communication Guidelines
+Japan Communication Guidelines
+Kingdom of Saudi Arabia Communication Guidelines
+Mexico Communication Guidelines
+The Netherlands Communication Guidelines
+Singapore Communication Guidelines
+South Africa Communication Guidelines
+Spain Communication Guidelines
+Sweden Communication Guidelines
+Turkey Communication Guidelines
+United Arab Emirates Communication Guidelines
+United Kingdom Communication Guidelines
+United States Communication Guidelines
+5.2 If you are using the Buyer-Seller Messaging Service, you must also support Amazon-approved templates through integration with the Messaging and Solicitations API.
+5.3 If you are using the Merchant Fulfillment API, you must comply with the Merchant Fulfillment API Service Terms.
+5.4 If you are using the Amazon Freight Services API, you must comply with the
+Amazon Freight Services API Terms
+(US only).
+5.5 If you are using the Amazon Business API, you must comply with the terms of the Technology Integration Agreement and its Addenda, or the Amazon Business Account Terms and Conditions, as applicable.
+Amazon Business Store
+Amazon Business Canada:
+Amazon Business Account Terms and Conditions
+Amazon Business France:
+Amazon Business Account Terms and Conditions
+Amazon Business Germany:
+Amazon Business Account Terms and Conditions
+Amazon Business Italy:
+Amazon Business Account Terms and Conditions
+Amazon Business Japan:
+Amazon Business Account Terms and Conditions
+Amazon Business Spain:
+Amazon Business Account Terms and Conditions
+Amazon Business UK:
+Amazon Business Account Terms and Conditions
+Amazon Business US:
+Amazon Business Account Terms and Conditions
+Amazon Business India:
+Amazon Business Account Terms and Conditions
+5.6 If you are using the Page View Report, you must comply with the
+Page View Report Terms and Conditions (EU only).
+5.7 If you are using the End User Data Report, you must comply with the
+End User Data Report Terms and Conditions (EU only)
+.
+6. Definitions
+“Amazon Services”
+means services provided or operated by Amazon.
+“Amazon Services API”
+means any application programming interface (API) offered by Amazon for the purpose of helping Amazon Authorized Users to programmatically exchange data.
+“Amazon Portal”
+means any Amazon website used by Authorized Users or others in a business relationship with Amazon to manage their participation in Amazon Selling Partner Services or other services provided by Amazon. This includes Seller Central and Vendor Central.
+“API Materials”
+means Materials we make available in connection with the Amazon Services API, including APIs, documentation, specifications, software libraries, software development kits, and other supporting materials, regardless of format.
+“Application”
+means a software application or website that interfaces with the Amazon Services API or the API Materials.
+“Authorized User”
+means a user of Amazon’s systems or services who has been specifically authorized by Amazon to use the applicable systems or services.
+“Content”
+means copyrightable works under applicable law and content protected under applicable law.
+“Customer”
+means any person or entity who has purchased items or services from Amazon’s public-facing websites.
+“Information”
+means any information that is exposed through the Amazon Services API, Amazon Portals or Amazon’s public-facing websites. This data can be public or non-public, including Personally Identifiable Information about Amazon customers.
+“Materials”
+means software, data, text, audio, video, images, or other Content.
+“Personally Identifiable Information”
+(
+“PII”
+) means information that can be used on its own or with other information to identify, contact or locate an individual (e.g., Customer or Authorized User), or to identify an individual in context. This includes, but is not limited to, a Customer or Authorized User's name, address, email address, phone number, gift message content, survey responses, payment details, purchases, cookies, digital fingerprint (e.g. browser, user device), IP Address, geo-location or Internet-connected device product identifier.
+“Service Provider”
+means is an individual or entity (including you, your employees, agents and contractors if applicable), that provides services to Amazon Partners.
+"Solution Provider"
+means any third-party Developer who uses the Amazon Services API or API Materials for a Permitted Use on behalf of an Authorized User, or Service Provider who provides services or solutions to support Amazon sellers and vendors (collectively, "Amazon Partners") in their business operations on Amazon's platforms.

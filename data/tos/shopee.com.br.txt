@@ -1,0 +1,297 @@
+1. INTRODUCTION
+
+ 
+
+1.1 Welcome to the Shopee platform (the "Site"). Please read the following Terms of Service carefully before using this Site or opening a Shopee account ("Account") so that you are aware of your legal rights and obligations with respect to Shopee Singapore Private Limited and its Affiliates and subsidiaries (individually and collectively, "Shopee", "we", "us" or "our"). For the purposes of these Terms of Services, “Affiliates” means, with respect to an entity, any entity that Controls, is Controlled by, or is under common Control with, that entity, where "Control" means the possession, directly or indirectly, of the power to direct or cause the direction of the management, operating policies, or assets of that entity, whether by way of ownership of more than 50% of its voting or equity securities or assets, or by way of contract, management agreement, voting trust, or otherwise; provided that the term "Affiliates" shall include any variable interest entity regardless of whether any variable interest entity may be, or required to be, consolidated with that entity under generally accepted accounting principles. The "Services" we provide or make available include (a) the Site, (b) the services provided by the Site and by Shopee client software made available through the Site, and (c) all information, linked pages, features, data, text, images, photographs, graphics, music, sounds, video (including live streams), messages, tags, content, programming, software, application services (including, without limitation, any mobile application services) or other materials made available through the Site or its related services ("Content"). Any new features added to or augmenting the Services are also subject to these Terms of Service. These Terms of Service govern your use of Services provided by Shopee.
+
+ 
+
+1.2 The Services include an online platform service that provides a place and opportunity for the sale of goods between the buyer (“Buyer”) and the seller (“Seller”) (collectively “you”, “Users” or “Parties”). The actual contract for sale is directly between Buyer and Seller and Shopee is not a party to that or any other contract between Buyer and Seller and accepts no obligations in connection with any such contract. Parties to such transaction will be entirely responsible for the sales contract between them, the listing of goods, warranty of purchase and the like. Shopee is not involved in the transaction between Users. Shopee may or may not pre-screen Users or the Content or information provided by Users. Shopee reserves the right to remove any Content or information posted by you on the Site in accordance to Section 6.4 herein. Shopee cannot ensure that Users will actually complete a transaction.
+
+ 
+
+1.3 Before becoming a User of the Site, you must read and accept all of the terms and conditions in, and linked to, these Terms of Service and you must consent to the processing of your personal data as described in the Privacy Policy linked hereto.
+
+ 
+
+1.4 Shopee reserves the right to change, modify, suspend or discontinue all or any part of this Site or the Services at any time or upon notice as required by local laws. Shopee may release certain Services or their features in a beta version, which may not work correctly or in the same way the final version may work, and we shall not be held liable in such instances. Shopee may also impose limits on certain features or restrict your access to parts of, or the entire, Site or Services in its sole discretion and without notice or liability.
+
+ 
+
+1.5 Shopee reserves the right to refuse to provide you access to the Site or Services or to allow you to open an Account for any reason.BY USING SHOPEE SERVICES OR OPENING AN ACCOUNT, YOU GIVE YOUR IRREVOCABLE ACCEPTANCE OF AND CONSENT TO THE TERMS OF THIS AGREEMENT, INCLUDING THOSE ADDITIONAL TERMS AND CONDITIONS AND POLICIES REFERENCED HEREIN , IN  OUR SELLER EDUCATION HUB, HELP CENTER  AND/OR LINKED HERETO. IF YOU DO NOT AGREE TO THESE TERMS, PLEASE DO NOT USE OUR SERVICES OR ACCESS THE SITE. IF YOU ARE UNDER THE AGE OF 18 OR THE LEGAL AGE FOR GIVING CONSENT HEREUNDER PURSUANT TO THE APPLICABLE LAWS IN YOUR COUNTRY (THE “LEGAL AGE”), YOU MUST GET PERMISSION FROM A PARENT OR LEGAL GUARDIAN TO OPEN AN ACCOUNT AND THAT PARENT OR LEGAL GUARDIAN MUST AGREE TO THE TERMS OF THIS AGREEMENT. IF YOU DO NOT KNOW WHETHER YOU HAVE REACHED THE LEGAL AGE, OR DO NOT UNDERSTAND THIS SECTION, PLEASE DO NOT CREATE AN ACCOUNT UNTIL YOU HAVE ASKED YOUR PARENT OR LEGAL GUARDIAN FOR HELP. IF YOU ARE THE PARENT OR LEGAL GUARDIAN OF A MINOR WHO IS CREATING AN ACCOUNT, YOU MUST ACCEPT THE TERMS OF THIS AGREEMENT ON THE MINOR'S BEHALF AND YOU WILL BE RESPONSIBLE FOR ALL USE OF THE ACCOUNT OR COMPANY SERVICES USING SUCH ACCOUNT, WHETHER SUCH ACCOUNT IS CURRENTLY OPEN OR CREATED LATER.
+
+ 
+
+2. PRIVACY
+
+ 
+
+2.1 Your privacy is very important to us at Shopee. To better protect your rights we have provided the Shopee Privacy Policy to explain our privacy practices in detail. Please review the Privacy Policy to understand how Shopee collects and uses the information associated with your Account and/or your use of the Services (the “User Information”). By using the Services or providing information on the Site, you:(i) consent to Shopee's collection, use, disclosure and/or processing of your Content, personal data and User Information as described in the Privacy Policy;(ii) agree and acknowledge that the proprietary rights of your User Information are jointly owned by you and Shopee; and(iii) shall not, whether directly or indirectly, disclose your User Information to any third party, or otherwise allow any third party to access or use your User Information, without Shopee’s prior written consent.
+
+ 
+
+2.2 Users in possession of another User’s personal data through the use of the Services (the “Receiving Party”) hereby agree that, they will (i) comply with all applicable personal data protection laws with respect to any such data; (ii) allow the User whose personal data the Receiving Party has collected (the “Disclosing Party”) to remove his or her data so collected from the Receiving Party’s database; and (iii) allow the Disclosing Party to review what information have been collected about them by the Receiving Party, in each case of (ii) and (iii) above, in compliance with and where required by applicable laws.
+
+ 
+
+3. LIMITED LICENSE
+
+ 
+
+3.1 Shopee grants you a limited and revocable license to access and use the Services subject to the terms and conditions of these Terms of Service. All proprietary Content, trademarks, service marks, brand names, logos and other intellectual property (“Intellectual Property”) displayed in the Site are the property of Shopee and where applicable, third party proprietors identified in the Site. No right or licence is granted directly or indirectly to any party accessing the Site to use or reproduce any Intellectual Property, and no party accessing the Site shall claim any right, title or interest therein. By using or accessing the Services you agree to comply with the copyright, trademark, service mark, and all other applicable laws that protect the Services, the Site and its Content. You agree not to copy, distribute, republish, transmit, publicly display, publicly perform, modify, adapt, rent, sell, or create derivative works of any portion of the Services, the Site or its Content. You also may not, without our prior written consent, mirror or frame any part or whole of the contents of this Site on any other server or as part of any other website. In addition, you agree that you will not use any robot, spider or any other automatic device or manual process to monitor or copy our Content, without our prior written consent (such consent is deemed given for standard search engine technology employed by Internet search websites to direct Internet users to this website).
+
+ 
+
+3.2 You are welcome to link to the Site from your website, provided that your website does not imply any endorsement by or association with Shopee. You acknowledge that Shopee may, in its sole discretion and at any time, discontinue providing the Services, either in part or as a whole, without notice.
+
+ 
+
+4. SOFTWARE
+
+ 
+
+Any software provided by us to you as part of the Services is subject to the provisions of these Terms of Service. Shopee reserves all rights to the software not expressly granted by Shopee hereunder. Any third-party scripts or code, linked to or referenced from the Services, are licensed to you by the third parties that own such scripts or code, not by Shopee.
+
+ 
+
+5. ACCOUNTS AND SECURITY
+
+ 
+
+5.1 Some functions of our Services require registration for an Account by selecting a unique user identification ("User ID") and password, and by providing certain personal information. If you select a User ID that Shopee, in its sole discretion, finds offensive or inappropriate, Shopee has the right to suspend or terminate your Account. You may be able to use your Account to gain access to other products, websites or services to which we have enabled access or with which we have tied up or collaborated. Shopee has not reviewed, and assumes no responsibility for any third party content, functionality, security, services, privacy policies, or other practices of those products, websites or services. If you do so, the terms of service for those products, websites or services, including their respective privacy policies, if different from these Terms of Service and/or our Privacy Policy, may also apply to your use of those products, websites or services.
+
+ 
+
+5.2    By registering an Account, you agree and understand that:
+ 
+(a)    You may use any product and/or services available in Sites or applications provided by and/or operated by Shopee.
+ 
+(b)    Shopee may make available through the Sites certain products and/or services that originate from or are offered by Shopee’s affiliates, subsidiaries or partners and other products made available by such affiliates, subsidiaries or partners from time to time in the Sites. You acknowledge and agree that the purchase or transaction of these products and/or services is subject to the terms of service for the respective products or services, which you separately agree to and accept when using or accessing such products, apps, websites or services and, therefore, that Shopee is not responsible for and shall not be liable in the case of any failure or error relating to the purchase or transaction of these products or services. Please contact the relevant provider if you have any questions or encounter any issue in relation to the purchase or transaction of these products or services.
+ 
+(c)    You may be directly connected to and use the product and/or services available in the out of platform application(s) provided by certain of Shopee’s affiliates and associates, including ShopeePay (“Out of Platform Application”).
+ 
+Your Account may be used to sign into, use or access the products, apps, websites and services provided by Shopee, as well as those provided by certain of its affiliates or partners, including but not limited to ShopeePay. Such products, websites and services shall be bound by the respective affiliate or partner's terms and conditions and privacy polices, which you agree to and accept when using or accessing such products, apps, websites or services. You may be able to use or access your Account, including any associated payment methods, transaction records, or other identifiers, through a variety of user interfaces, including, but not limited to, the Shopee app or website, ShopeePay or through other products, apps, websites or services.
+ 
+You may register for an account through Shopee or ShopeePay. By registering an Account, you agree and understand that, to connect all of your ShopeePay services and the Services, your Account will be linked with your account with ShopeePay if you have used the same mobile number to register for both accounts.
+ 
+(d)    In the event that you use the Out of Platform Application as mentioned in paragraph (b) above, the use of such product and/or services shall be subject to the respective terms of service provided by the relevant affiliate or associate of Shopee.
+
+ 
+
+5.3 You agree to (a) keep your password confidential and use only your User ID and password when logging in, (b) ensure that you log out from your account at the end of each session on the Site, (c) immediately notify Shopee of any unauthorised use of your Account, User ID and/or password, and (d) ensure that your Account information is accurate and up-to-date. You are fully responsible for all activities that occur under your User ID and Account even if such activities or uses were not committed by you. Shopee will not be liable for any loss or damage arising from unauthorised use of your password or your failure to comply with this Section.
+
+ 
+
+5.4 You agree that Shopee may for any reason, in its sole discretion and with or without notice or liability to you or any third party, immediately terminate or suspend your Account and your User ID, remove or discard from the Site any Content associated with your Account and User ID, withdraw any subsidies offered to you, cancel or suspend any transactions associated with your Account and User ID, temporarily or in more serious cases permanently withhold any sale proceeds or refunds, and/or take any other actions that Shopee deems necessary. Grounds for such actions may include, but are not limited to, actual or suspected (a) extended periods of inactivity, as determined by us from time to time, (b) violation of the letter or spirit of these Terms of Service, (c) illegal, fraudulent, harassing, defamatory, threatening or abusive behaviour (d) having multiple user accounts, (e) buying products on the Site for the purpose of commercial re-sale, (f) abnormal or excessive purchasing of products from the same Seller or related group of Sellers, (g) voucher abuse (including, but not limited to, selling of vouchers to third parties, selling of vouchers or other credits at a significant markup above face value, and/or abnormal or excessive use of vouchers on the Site, (h) failure to make timely payment of any outstanding amount including overdue amounts on bank loans (or other obligation) owed to Shopee or any of its Affiliates (subject to applicable law), or (i) behaviour that is harmful to other Users, third parties, or the business interests of Shopee. Use of an Account for illegal, fraudulent, harassing, defamatory, threatening or abusive purposes may be referred to law enforcement authorities without notice to you. If a legal dispute arises or law enforcement action is commenced relating to your Account or your use of the Services for any reason, Shopee may terminate your Account immediately with or without notice.
+
+ 
+
+5.5 Users may terminate their Account if they notify Shopee in writing (including via email at help@support.shopee.sg) of their desire to do so. Notwithstanding any such termination, Users remain responsible and liable for any incomplete transaction (whether commenced prior to or after such termination), shipment of the product, payment for the product, or the like, and Users must contact Shopee after he or she has promptly and effectively carried out and completed all incomplete transactions according to the Terms of Service. Shopee shall have no liability, and shall not be liable for any damages incurred due to the actions taken in accordance with this Section. Users waive any and all claims based on any such action taken by Shopee.
+
+ 
+
+5.6 You may only use the Services and/or open an Account if you are located in one of our approved countries, as updated from time to time. 
+
+ 
+
+5.7 If you are a Seller, you may be entitled to create sub-accounts (“Sub-Account”) on the sub-account platform operated by Shopee (“Sub-Account Platform”) that are linked to your Account(s). You acknowledge and agree that: (a) the purpose of the Sub-Accounts are to enhance the management of your Account(s) as a Seller, and you shall not use the Sub-Accounts for any other purposes (including, but not limited to, fraudulent or illegal activities); (b) while Sub-Accounts are not considered “Accounts” for the purposes of these Terms of Service, the provisions of this Clause 5 shall apply mutatis mutandis to the Sub-Accounts, except that references to “Accounts” shall be to the Sub-Accounts; (c) Sub-Accounts can be configured to have access to your Account(s) and the same rights as your Account(s) (or parts thereof), and you expressly acknowledge and agree that: (i) you are solely responsible for creating and configuring Sub-Accounts, and granting and controlling third party access to the Sub-Accounts; (ii) any third parties to whom you grant access to your Sub-Accounts will have the ability to access and operate your Account; (iii) we shall be entitled to treat any actions of the Sub-Accounts as actions of your Account; and (iv) you shall be responsible for all actions of the Sub-Accounts; and (d) Shopee reserves the right to amend or terminate the operation of the Sub-Account Platform and to close any Sub-Accounts at any time in its sole discretion.
+
+ 
+
+6. TERM OF USE
+
+ 
+
+6.1 The license for use of this Site and the Services is effective until terminated. This license will terminate as set forth under these Terms of Service or if you fail to comply with any term or condition of these Terms of Service. In any such event, Shopee may effect such termination with or without notice to you.
+
+ 
+
+6.2 You agree not to: 
+
+ 
+
+(a) upload, post, transmit or otherwise make available any Content that is unlawful, harmful, threatening, abusive, harassing, alarming, distressing, tortuous, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable;
+
+ 
+
+(b) violate any laws, including without limitation any laws and regulation in relation to export and import restrictions, third party rights or our Prohibited and Restricted Items policy; 
+
+ 
+
+(c) upload, post, transmit or otherwise make available any Content featuring an unsupervised minor or use the Services to harm minors in any way; 
+
+ 
+
+(d) use the Services or upload Content to impersonate any person or entity, or otherwise misrepresent your affiliation with a person or entity; 
+
+ 
+
+(e) forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through the Services; 
+
+ 
+
+(f) remove any proprietary notices from the Site; 
+
+ 
+
+(g) cause, permit or authorize the modification, creation of derivative works, or translation of the Services without the express permission of Shopee; 
+
+ 
+
+(h) use the Services for the benefit of any third party or any manner not permitted by the licenses granted herein; 
+
+ 
+
+(i) use the Services or upload Content in a manner that is fraudulent, unconscionable, false, misleading or deceptive;
+
+ 
+
+(j) open and/or operate multiple user accounts in connection with any conduct that violates either the letter or spirit of these Terms of Service;
+
+ 
+
+(k) access the Shopee platform, open a user account, or otherwise access your user account using any non-official Shopee hardware or software, including but not limited to an emulator, simulator, bot or other similar hardware or software; 
+
+ 
+
+(l) manipulate the price of any item or interfere with other User's listings; 
+
+ 
+
+(m) take any action that may undermine the feedback or ratings systems;
+
+ 
+
+(n) attempt to decompile, reverse engineer, disassemble or hack the Services (or any portion thereof), or to defeat or overcome any encryption technology or security measures implemented by Shopee with respect to the Services and/or data transmitted, processed or stored by Shopee; 
+
+ 
+
+(o) harvest or collect any information about or regarding other Account holders, including, without limitation, any personal data or information; 
+
+ 
+
+(p) upload, email, post, transmit or otherwise make available any Content that you do not have a right to make available under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements); 
+
+ 
+
+(q) upload, email, post, transmit or otherwise make available any Content that infringes any patent, trademark, trade secret, copyright or other proprietary rights of any party; 
+
+ 
+
+(r) upload, email, post, transmit or otherwise make available any unsolicited or unauthorised advertising, promotional materials, "junk mail", "spam", "chain letters", "pyramid schemes", or any other unauthorised form of solicitation; 
+
+ 
+
+(s) upload, email, post, transmit or otherwise make available any material that contains software viruses, worms, Trojan-horses or any other computer code, routines, files or programs designed to directly or indirectly interfere with, manipulate, interrupt, destroy or limit the functionality or integrity of any computer software or hardware or data or telecommunications equipment; 
+
+ 
+
+(t) disrupt the normal flow of dialogue, cause a screen to "scroll" faster than other Users of the Services are able to type, or otherwise act in a manner that negatively affects other Users' ability to engage in real time exchanges; 
+
+ 
+
+(u) interfere with, manipulate or disrupt the Services or servers or networks connected to the Services or any other User's use and enjoyment of the Services, or disobey any requirements, procedures, policies or regulations of networks connected to the Site; 
+
+ 
+
+(v) take any action or engage in any conduct that could directly or indirectly damage, disable, overburden, or impair the Services or the servers or networks connected to the Services;
+
+ 
+
+(w) use the Services to intentionally or unintentionally violate any applicable local, state, national or international law, rule, code, directive, guideline, policy or regulation including, without limitation, laws and requirements (whether or not having the force of law) relating to anti-money laundering or counter-terrorism; 
+
+ 
+
+(x) use the Services in violation of or to circumvent any sanctions or embargo administered or enforced by the U.S. Department of Treasury’s Office of Foreign Assets Control or the U.S. Department of State, the United Nations Security Council, the European Union, His Majesty’s Treasury or any other relevant sanctions authority (collectively, the “Sanctions”); 
+
+ 
+
+(y) use the Services to violate the privacy of others or to "stalk" or otherwise harass another; 
+
+ 
+
+(z) infringe the rights of Shopee, including any intellectual property rights and any passing off of the same thereof;
+
+ 
+
+(aa) use the Services to collect or store personal data about other Users in connection with the prohibited conduct and activities set forth above; 
+
+ 
+
+(bb) list items which infringe upon the copyright, trademark or other intellectual property rights of third parties or use the Services in a manner which will infringe the intellectual property rights of others; and/or
+
+ 
+
+(cc) direct or encourage another user to conduct a transaction other than on the Site.
+
+ 
+
+6.3 You understand that all Content, whether publicly posted or privately transmitted, is the sole responsibility of the person from whom such Content originated. This means that you, and not Shopee, are entirely responsible for all Content that you upload, post, email, transmit or otherwise make available through the Site. You understand that by using the Site, you may be exposed to Content that you may consider to be offensive, indecent or objectionable. To the maximum extent permitted by applicable law, under no circumstances will Shopee be liable in any way for any Content, including, but not limited to, any errors or omissions in any Content, or any loss or damage of any kind incurred as a result of the use of, or reliance on, any Content posted, emailed, transmitted or otherwise made available on the Site.
+
+ 
+
+6.4 You acknowledge that Shopee and its designees shall have the right (but not the obligation) in their sole discretion to pre-screen, refuse, delete, stop, suspend, remove or move any Content, including without limitation any Content or information posted by you, that is available on the Site without any liability to you. Without limiting the foregoing, Shopee and its designees shall have the right to remove any Content (i) that violates these Terms of Service or our Prohibited and Restricted Items Policy; (ii) if we receive a complaint from another User; (iii) if we receive a notice or allegation of intellectual property infringement or other legal instruction or request for removal; or (iv) if such Content is otherwise objectionable. We may also block delivery of a communication (including, without limitation, status updates, postings, messages and/or chats) to or from the Services as part of our effort to protect the Services or our Users, or otherwise enforce the provisions of these Terms and Conditions. You agree that you must evaluate, and bear all risks associated with, the use of any Content, including, without limitation, any reliance on the accuracy, completeness, or usefulness of such Content. In this regard, you acknowledge that you have not and, to the maximum extent permitted by applicable law, may not rely on any Content created by Shopee or submitted to Shopee, including, without limitation, information in Shopee Forums and in all other parts of the Site.
+
+ 
+
+6.5 You acknowledge, consent to and agree that Shopee may access, preserve, and/or disclose your Account information, Content, and any other materials or information you provide to us to any legal, regulatory, or governmental authority, the relevant rights owner, or other third parties if required to do so by law, pursuant to an order of a court or lawful request by any governmental or regulatory authority having jurisdiction over Shopee, or in a good faith belief that such access preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce these Terms of Service or our Prohibited and Restricted Items Policy; (c) respond to claims that any Content violates the rights of third parties, including intellectual property rights; (d) respond to your requests for customer service; or (e) protect the rights, property or personal safety of Shopee, its Users and/or the public.
+
+ 
+
+7. VIOLATION OF OUR TERMS OF SERVICE
+
+ 
+
+7.1 Violations of this policy may result in a range of actions, including, without limitation, any or all of the following:
+
+ 
+
+⦁ Listing deletion
+
+ 
+
+⦁ Limits placed on Account privileges 
+
+ 
+
+⦁ Account suspension and subsequent termination
+
+ 
+
+⦁ Criminal charges 
+
+ 
+
+⦁ Civil actions, including without limitation a claim for damages and/or interim or injunctive relief
+
+ 
+
+7.2 If you believe a User on our Site is violating these Terms of Service, please contact Shopee customer service.
+
+ 
+
+8. REPORTING INTELLECTUAL PROPERTY RIGHTS INFRINGEMENT
+
+ 
+
+8.1 As stated above, Shopee does not allow listings that violate the intellectual property rights of brands or other intellectual property rights owners (“IPR Owner”).
+
+ 
+
+8.2 Except where expressly stated otherwise, the Users are independent individuals or businesses and they are not associated with Shopee in any way and Shopee is neither the agent nor representative of the Users and does not hold and/or own any of the merchandises listed on the Site.
+
+ 
+
+8.3 If you are an IPR Owner or an agent duly authorised by an IPR Owner ("IPR Agent") and you believe that your right or your principal's right has been infringed, please submit a complaint via Shopee's Brand IP Portal and provide us the documents to support your claim. Do allow us time to process the information provided. Shopee will respond to your complaint as soon as practicable.
+
+ 
+
+8.4 Complaints under this Section 8 must be provided in the form prescribed by Shopee, which may be updated from time to time, and must include at least the following: (a) a physical or electronic signature of an IPR Owner or IPR Agent (collectively, “Informant”); (b) a description of the type and nature of intellectual property right that is allegedly infringed and proof of rights; (c) a description of the nature of alleged infringement with sufficient details to enable Shopee to assess the complaint; (d) URL(s) of the listing(s) which contain the alleged infringement; (e) sufficient information to allow Shopee to contact the Informant, such as Informant’s physical address, telephone number and e-mail address; (f) a statement by Informant that the complaint is filed on good faith belief and that the use of the intellectual property as identified by the Informant is not authorised by the IPR Owner or the law; (g) a statement by the Informant that the information in the notification is accurate, that the Informant will indemnify us for any damages we may suffer as a result of the information provided by the Informant, and that the Informant has the appropriate right or is authorised to act on the IPR Owner’s behalf in all matters relating to the complaint.
+
+ 
+
+8.5 Shopee acknowledges that a brand or manufacturer may, subject to applicable law, have the right to enter into certain exclusive distribution agreements or minimum advertised price agreements for its products with other third parties. However, violations of such agreements do not constitute intellectual property rights infringement. As the enforcement of these agreements is a matter between the brand or manufacturer and the respective third parties with whom it contracts, Shopee generally does not assist in the enforcement of such exclusive distribution rights or price-control matters except where required by law.
+
+ 
+
+8.6 Without limitation to the indemnity at Clause 32, each and every Seller agrees to indemnify and hold Shopee and its Affiliates harmless from any and all claims, causes of action, damages and judgments arising out of or relating to (a) any intellectual property infringement claim, complaint, or violation relating to any Content or product listings, and/or (b) any removal of such Content or product listings pursuant to or in relation to any intellectual property infringement claim, complaint, or violation.

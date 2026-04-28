@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /wp-admin
+Disallow: /3b9c0ed5d4b427811919cae4b2bf160f
+Disallow: /?s=
+Disallow: /search
+Disallow: /*?*scht=
+Disallow: /*?*sortby=
+Disallow: /*?*svctype=
+Disallow: /*?*svcsubtype=
+Disallow: /*?*sortdir=
+Disallow: /*?*hb=
+Disallow: /*?*la=
+Disallow: /*?*locpt=
+Disallow: /*?*onlyopen=
+Disallow: /*?*q=
+Disallow: /*?*ds=
+Disallow: /*?*tab=
+Disallow: /*?*s=
+
+Allow: /
+Sitemap: https://www.nhsinform.scot/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

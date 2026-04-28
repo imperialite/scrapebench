@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /checkout/
+Disallow: /uploads/
+Disallow: /mask
+Disallow: /investors
+Disallow: /partners
+Disallow: /maintenance
+Disallow: /embed_item/
+Disallow: /sandbox/
+Disallow: /2023conference
+Disallow: /login/elem/*
+Disallow: /go/*

@@ -1,0 +1,24 @@
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: *
+Crawl-delay: 1
+Disallow: /api/
+Disallow: /shops/
+Disallow: /sweeps/
+Disallow: /rsvp/
+Disallow: /search?*
+Disallow: /en-us/search?*
+Disallow: /en-gb/search?*
+Disallow: /de-de/search?*
+Disallow: /fr-fr/search?*
+Disallow: /en-ca/search?*
+Disallow: /en-au/search?*
+Disallow: /*.php
+Disallow: /*?bucketed*
+Disallow: /*&bucketed*
+Disallow: /history-cults-los-angeles
+
+Sitemap: https://www.refinery29.com/sitemap.xml

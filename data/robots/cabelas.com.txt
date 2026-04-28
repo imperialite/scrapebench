@@ -1,0 +1,183 @@
+# Robots.txt for Cabelas.com
+# This file controls search engine crawler behavior and ensures SEO best practices.
+# Organized by sitemap, general rules, and bot-specific directives.
+
+# --- Sitemap Directives ---
+Sitemap: https://www.cabelas.com/webapp/wcs/stores/servlet/sitemap_10651.xml.gz
+
+# --- General Rules for All User Agents ---
+User-agent: *
+# Disallow paths that should not be crawled for SEO or privacy purposes
+Disallow: /r/
+Disallow: /shop/SearchDisplay
+Disallow: /shop/BVProductListingView
+Disallow: /CategoryDisplay
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /account/
+Disallow: /*?*actualSearchTerm=
+
+
+# Disallow to prevent crawl traps on duplicate query parameters
+Disallow: /*&page=*&page=*
+
+# Disallow specific query parameters to prevent duplicate content
+Disallow: /*numberOfResults=*
+
+# Allow pagination for PLPs
+Allow: /l/*?page=*&firstResult=*
+
+# Allow indexing of important content
+Allow: /c/
+Allow: /l/
+Allow: /p/
+Allow: /b/
+Allow: /shop/en/
+Allow: /assets/
+Allow: /media/
+
+
+# Traditional Search Engines (SEO-critical)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# AI Search Bots (Allowed, with Crawl Delay where needed)
+User-agent: Google-Extended
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+Crawl-delay: 10
+
+User-agent: PerplexityBot
+Allow: /
+Crawl-delay: 10
+
+User-agent: YouBot
+Allow: /
+Crawl-delay: 10
+
+User-agent: PhindBot
+Allow: /
+Crawl-delay: 10
+
+User-agent: ExaBot
+Allow: /
+Crawl-delay: 10
+
+User-agent: xai-bot
+Allow: /
+Crawl-delay: 10
+
+User-agent: FirecrawlAgent
+Allow: /
+Crawl-delay: 10
+
+User-agent: AndiBot
+Allow: /
+Crawl-delay: 10
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+# Disallow AI Training Bots
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+# Global Rules for All Bots
+User-agent: *
+Disallow: /admin/
+Disallow: /internal/
+ 
+# --- Block Known Malicious or Excessive Crawling Bots ---
+# These bots are known for aggressive crawling or scraping and are disallowed.
+User-agent: AhrefsBot
+Disallow: /
+ 
+User-agent: MJ12bot
+Disallow: /
+ 
+User-agent: DotBot
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: Baiduspider
+Disallow: /
+ 
+User-agent: Sistrix
+Disallow: /
+ 
+User-agent: YandexBot
+Disallow: /
+ 
+User-agent: MegaIndex.ru
+Disallow: /
+ 
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: Ezooms
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: Python-urllib/2.7
+Disallow: /
+
+User-agent: SiteExplorer
+Disallow: /
+
+User-agent: CliqzBot
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
+
+User-agent: OpenLinkProfiler.org Bot
+Disallow: /
+
+User-agent: LinkpadBot
+Disallow: /
+
+User-agent: Qwantify
+Disallow: /
+User-agent: Wget/1.
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: ZoominfoBot
+Disallow: /
+
+User-agent: Cocolyzebot
+Disallow: /
+
+# --- Allow Known Helpful Bots ---
+
+# SEMrushBot is allowed due to its utility in SEO analysis.
+User-agent: SemrushBot
+Allow: /
+
+# Screaming Frog SEO Spider is allowed due to its utility in SEO analysis.
+User-agent: Screaming Frog SEO Spider
+Allow: /

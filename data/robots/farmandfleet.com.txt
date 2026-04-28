@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /account
+Disallow: /cart
+Disallow: /checkout
+Disallow: /s/
+Disallow: /sale/
+Disallow: /*.axd$
+Disallow: /*.csi$
+Disallow: /*?*categorynew=
+Disallow: /*?*bopus=
+Disallow: /*?*offer_category=
+Disallow: /*?*price_range=
+Disallow: /*?*subcat_id=
+Sitemap: https://www.farmandfleet.com/sitemap.xml.gz

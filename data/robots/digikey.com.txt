@@ -1,0 +1,49 @@
+# all crawlers
+User-agent: *
+
+Disallow: /MyDigiKey/*
+Disallow: /MyDigiKey
+Disallow: /mobile/api/*
+Disallow: /VoiceAssistant/*
+Disallow: /system/templates/*
+Disallow: /system/cb/*
+Disallow: /OrderHistory
+
+# Google-Adsbot
+User-agent: AdsBot-Google
+
+Disallow: /MyDigiKey/*
+Disallow: /MyDigiKey
+Disallow: /api/subsTable/
+
+# Bing-Adsbot
+User-agent: AdIdxBot
+
+Disallow: /MyDigiKey/*
+Disallow: /MyDigiKey
+Disallow: /api/subsTable/
+
+# Ahrefs
+User-agent: AhrefsBot
+Disallow: /
+
+# Moz
+User-agent: dotbot
+Disallow: /
+
+# Majestic
+User-agent: MJ12bot
+Disallow: /
+
+# PetalBot
+User-agent: PetalBot
+Disallow: /
+
+# Yandex
+User-agent: Yandex
+Disallow: /
+
+# Sitemaps
+Sitemap: https://www.digikey.com/product-detail/sitemap.xml
+Sitemap: https://www.digikey.com/product-search/sitemap.xml
+Sitemap: https://www.digikey.com/sitemap/homepage-sitemap_sitemapindex_com.xml

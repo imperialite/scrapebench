@@ -1,0 +1,202 @@
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+User-agent: anthropic-ai
+Disallow: /
+User-agent: Applebot-Extended 
+Disallow: /
+User-agent: Atomic_Email_Hunter
+Disallow: /
+User-agent: Bender
+Disallow: /
+User-agent: Birubot
+Disallow: /
+User-agent: BlogPulseLive
+Disallow: /
+User-agent: BOTW Spider
+Disallow: /
+User-agent: Butterfly
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: ClaudeBot 
+Disallow: /
+User-agent: Crowsnest
+Disallow: /
+User-agent: discobot
+Disallow: /
+User-agent: DoCoMo
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-agent: Exabot
+Disallow: /
+User-agent: expo9
+Disallow: /
+User-agent: Ezooms
+Disallow: /
+User-agent: FairShare
+Disallow: /
+User-agent: Feedtrace
+Disallow: /
+User-agent: Ginxbot
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: gosospider
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: knowaboutBot
+Disallow: /
+User-agent: meta-externalagent
+Disallow: /
+User-agent: MetaURI
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: MLBot
+Disallow: /
+User-agent: Moreoverbot
+Disallow: /
+User-agent: mxbot
+Disallow: /
+User-agent: my6sense
+Disallow: /
+User-agent: netseer
+Disallow: /
+User-agent: NHN Corp
+Disallow: /
+User-agent: NjuiceBot
+Disallow: /
+User-agent: Nutch
+Disallow: /
+User-agent: OneRiot
+Disallow: /
+User-agent: percbotspider
+Disallow: /
+User-agent: PerplexityBot
+Disallow: /
+User-agent: Postrank
+Disallow: /
+User-agent: proximic
+Disallow: /
+User-agent: Purebot
+Disallow: /
+User-agent: radian6
+Disallow: /
+User-agent: ScoutJet
+Disallow: /
+User-agent: semiocast
+Disallow: /
+User-agent: Showyoubot
+Disallow: /
+User-agent: SiteBot
+Disallow: /
+User-agent: suggybot
+Disallow: /
+User-agent: Summify
+Disallow: /
+User-agent: Tagoobot
+Disallow: /
+User-agent: TANNER
+Disallow: /
+User-agent: ThingFetcher
+Disallow: /
+User-agent: trendictionbot
+Disallow: /
+User-agent: TweetedTimes Bot
+Disallow: /
+User-agent: TweetmemeBot
+Disallow: /
+User-agent: Twiceler
+Disallow: /
+User-agent: Twingly Recon
+Disallow: /
+User-agent: twitmatic
+Disallow: /
+User-agent: Twitturls
+Disallow: /
+User-agent: Twitturly
+Disallow: /
+User-agent: Typhoeus
+Disallow: /
+User-agent: Viralheat
+Disallow: /
+User-agent: YodaoBot
+Disallow: /
+
+# Allow all LLM crawlers to access /parks/*-national-park and /press
+
+User-agent: anthropic-ai
+Allow: /parks/*-national-park
+Allow: /press*
+
+User-agent: CCBot
+Allow: /parks/*-national-park
+Allow: /press*
+
+User-agent: ChatGPT-User
+Allow: /parks/*-national-park
+Allow: /press*
+
+User-agent: ClaudeBot
+Allow: /parks/*-national-park
+Allow: /press*
+
+User-agent: facebookexternalhit
+Allow: /parks/*-national-park
+Allow: /press*
+
+User-agent: Google-Extended
+Allow: /parks/*-national-park
+Allow: /press*
+
+User-agent: GPTBot
+Allow: /parks/*-national-park
+Allow: /press*
+
+User-agent: MLBot
+Allow: /parks/*-national-park
+Allow: /press*
+
+User-agent: PerplexityBot
+Allow: /parks/*-national-park
+Allow: /press*
+
+User-agent: YouBot
+Allow: /parks/*-national-park
+Allow: /press*
+
+User-agent: *
+Allow: /*/maps/*/share_image
+Disallow: //api/
+Disallow: /static2/
+Disallow: /stob-dab/
+Disallow: /register/
+Disallow: /users/auth/
+Disallow: /api/
+Disallow: /api-v4/
+Disallow: /api-v5/
+Disallow: /*/api/
+Disallow: /*/api-v4/
+Disallow: /*/api-v5/
+Disallow: /*?lat=
+Disallow: /members/
+Disallow: /explore/map/
+
+Sitemap: https://www.alltrails.com/sitemap/secure/rails/index.xml
+Sitemap: https://www.alltrails.com/sitemap/secure/rails/en-gb/index.xml
+Sitemap: https://www.alltrails.com/sitemap/secure/rails/da-dk/index.xml
+Sitemap: https://www.alltrails.com/sitemap/secure/rails/de/index.xml
+Sitemap: https://www.alltrails.com/sitemap/secure/rails/es/index.xml
+Sitemap: https://www.alltrails.com/sitemap/secure/rails/es-mx/index.xml
+Sitemap: https://www.alltrails.com/sitemap/secure/rails/fr/index.xml
+Sitemap: https://www.alltrails.com/sitemap/secure/rails/it-it/index.xml
+Sitemap: https://www.alltrails.com/sitemap/secure/rails/nl-nl/index.xml
+Sitemap: https://www.alltrails.com/sitemap/secure/rails/nb-no/index.xml
+Sitemap: https://www.alltrails.com/sitemap/secure/rails/pl-pl/index.xml
+Sitemap: https://www.alltrails.com/sitemap/secure/rails/pt-br/index.xml
+Sitemap: https://www.alltrails.com/sitemap/secure/rails/pt-pt/index.xml
+Sitemap: https://www.alltrails.com/sitemap/secure/rails/sv-se/index.xml

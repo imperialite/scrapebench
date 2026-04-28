@@ -1,0 +1,6 @@
+User-agent: * 
+Allow: / 
+Sitemap:https://www.thejoint.com/sitemap.xml 
+Disallow: /ajax_new/ 
+Disallow: /BlackFridayStage 
+Disallow: /careers/search/*

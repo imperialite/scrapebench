@@ -1,0 +1,46 @@
+# The use of robots, crawlers, spiders, rovers, scrapers or other automated
+# means to access or mine data from any Boats Group hosted web sites
+# (including, but not limited to, boats.com, yachtworld.com, boatwizard.com,
+# and soldboats.com) without the express written permission of Boats Group
+# is strictly prohibited.
+
+# Boats Group may permit access to Boats Group hosted web sites for the
+# limited purpose of including content in publicly available search engines,
+# but only if those search engines are not specific to the marine industry
+# and do not frame or otherwise obscure any Boats Group hosted web sites.
+
+# Please read our Terms of Use at
+# https://www.boatsgroup.com/terms-of-use/ for more information.
+
+User-agent: *
+Disallow: /252108799/BoatTrader/*
+Disallow: /*?refSource
+Disallow: /featured-photos/
+Disallow: */other/
+Disallow: /listing/print/
+Disallow: /listing/photos/
+Disallow: /listing/photos/print/
+Disallow: /listing/*/*/
+Disallow: /myt/
+Disallow: /dealers/email
+Disallow: /oauth-redirect/
+Disallow: /boat-loans/apply/*
+Disallow: */sort
+Disallow: *?sort
+Disallow: *sortby-
+Disallow: *SortBy-
+Disallow: *Show-
+Disallow: *PhotoOnly-
+Disallow: *PerPage-
+Disallow: *ViewType-
+Disallow: /search-results/
+Disallow: /email
+Disallow: /dealers/*/*/*/*
+Disallow: /myboats/*
+Disallow: /getmap.php*
+Disallow: /app/
+
+User-agent: Vast_Bot
+Disallow: /
+
+Sitemap: https://www.boattrader.com/sitemap-index-en.xml

@@ -1,0 +1,23 @@
+Market Data - Terms of Use
+Home  Site  Market Data - Terms of Use
+Data is provided "as is" for informational purposes only and is not intended for trading purposes. FACTSET (a) does not make any express or implied warranties of any kind regarding the data, including, without limitation, any warranty of merchantability or fitness for a particular purpose or use; and (b) shall not be liable for any errors, incompleteness, interruption or delay, action taken in reliance on any data, or for any damages resulting therefrom. Data may be intentionally delayed pursuant to supplier requirements.
+
+Source: FACTSET
+
+Stocks: Real-time U.S. stock quotes reflect trades reported through Nasdaq only; comprehensive quotes and volume reflect trading in all markets and are delayed at least 15 minutes. International stock quotes are delayed as per exchange requirements. Fundamental company data and analyst estimates provided by FactSet. Source: FactSet
+
+Indexes: Index quotes may be real-time or delayed as per exchange requirements; refer to time stamps for information on any delays. Source: FactSet
+
+Stock Movers: Gainers, decliners and most actives market activity tables are a combination of NYSE, Nasdaq, NYSE American and NYSE Arca listings. Sources: FactSet, Dow Jones
+
+ETF Movers: Includes ETFs & ETNs with volume of at least 50,000. Sources: FactSet, Dow Jones
+
+Bonds: Bond quotes are updated in real-time. Sources: FactSet, Tullett Prebon
+
+Currencies: Currency quotes are updated in real-time. Sources: FactSet, Tullett Prebon
+
+Commodities & Futures: Futures prices are delayed at least 10 minutes as per exchange requirements. Change value during the period between open outcry settle and the commencement of the next day's trading is calculated as the difference between the last trade and the prior day's settle. Change value during other periods is calculated as the difference between the last trade and the most recent settle. Source: FactSet
+
+Mutual Funds & ETFs: All of the mutual fund and ETF information contained in this display, with the exception of the current price and price history, was supplied by Lipper, A Refinitiv Company, subject to the following: Copyright 2019© Refinitiv. All rights reserved. Any copying, republication or redistribution of Lipper content, including by caching, framing or similar means, is expressly prohibited without the prior written consent of Lipper. Lipper shall not be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
+
+Cryptocurrencies: Cryptocurrency quotes are updated in real-time. Sources: CoinDesk (Bitcoin), Kraken (all other cryptocurrencies)

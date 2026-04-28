@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+Disallow: /hs/preferences-center/
+Disallow: /Account/
+Disallow: /account/login/
+Disallow: /account/
+Disallow: /account/forgotpassword/
+
+Sitemap: https://www.getskimmer.com/sitemap.xml

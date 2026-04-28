@@ -1,0 +1,4 @@
+# THIS FILE DOESN'T PROVIDE ANY SECURITY FOR YOUR SITE! # This does NOT keep people or robots from viewing pages on this site. # It is a polite request that they ignore the following pages. # For more info see: http://www.robotstxt.org/ 
+User-agent: * 
+Disallow: /_osu_test/ 
+Disallow: /sandbox/

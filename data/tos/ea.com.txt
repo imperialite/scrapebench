@@ -1,0 +1,296 @@
+User Agreement
+Last Updated: December 11, 2025
+
+ⓘ You agree to these terms when you use our games or any of our services.
+
+Welcome to EA. This Agreement governs your access and use of products, content and services offered by EA and its subsidiaries ("EA"), such as game software and related updates, upgrades and features, and all online and mobile services, platforms, websites, and live events hosted by or associated with EA (collectively "EA Services"). This Agreement is between you and the EA entity listed in Section 13(B) below.
+
+ⓘ If you don’t agree, please don’t install or use our games or services.
+
+BY USING EA SERVICES, YOU AGREE TO THESE TERMS. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE THE EA SERVICES. FOR RESIDENTS OF CERTAIN COUNTRIES, YOU AGREE TO THE ARBITRATION AGREEMENT AND CLASS ACTION WAIVER DESCRIBED IN SECTION 15 TO RESOLVE ANY DISPUTES WITH EA.
+
+1. EA Account
+ⓘ You need an EA Account to play most EA games. To create one, you must be at least the minimum age and your parents must read and agree to these terms if you are a minor. EA can suspend or terminate your account if you break this agreement. You may cancel your EA Account or any EA subscriptions at any time.
+
+You need an EA Account to access and use many EA Services, including to play online.
+
+To create an EA Account, you must have a valid email address, and provide truthful and accurate information. You must be eligible to use the EA Service for which you are registering and must be a resident of a country where use of EA Services is permitted.
+
+You must be at least 13 years of age (or the minimum age of your country of residence) to create an EA Account. If your age is between the relevant minimum age and 18 (or the age of majority where you live), you and your parent or guardian must review and agree to this Agreement together. Parents and guardians are responsible for the acts of children under 18 years of age when using EA Services. EA recommends that parents and guardians familiarize themselves with parental controls on devices they provide their child.
+
+You are responsible for the activity on your EA Account; it’s yours, don’t share it. Your EA Account may be suspended or terminated if someone else uses it to engage in activity that violates this Agreement.
+
+You may cancel your EA Account or a subscription to an EA Service at any time by contacting EA's Customer Service Department at help.ea.com. To complete your request, EA may collect fees or costs incurred, if allowed by law, and any amounts owed to third-party vendors or content providers.
+
+2. License
+ⓘ EA grants you access to our games and services to you for your personal enjoyment.
+
+The EA Services are licensed to you, not sold. EA grants you a personal, limited, non-transferable (i.e., not for sharing), revocable and non-exclusive license to use the EA Services to which you have access for your non-commercial use, subject to your compliance with this Agreement. You may not access, copy, modify or distribute any EA Service, Content or Entitlements (as those terms are defined below), unless expressly authorized by EA or permitted by law. You may not reverse engineer or attempt to extract or otherwise use source code or other data from EA Services, unless expressly authorized by EA or permitted by law. EA or its licensors own and reserve all other rights, including all right, title and interest in the EA Services and associated intellectual property rights.
+
+3. Content and Entitlements
+ⓘ EA provides games, features and content through a series of entitlements. Some entitlements are unlocked using virtual currency that has no value outside of our games.
+
+The EA Services include Content and Entitlements. Content is the software, technology, text, forum posts, chat posts, profiles, widgets, messages, links, emails, music, sound, graphics, pictures, video, code, and all audio visual or other material appearing on or coming from EA Services, as well as the design and appearance of our websites. Content also includes user-generated Content ("UGC"). UGC includes EA Account personas, forum posts, profile content, a player’s voice or other audio transmitted as part of social features available in or through EA Services, images or other visual material submitted or otherwise contributed to or through EA Services, and other Content contributed by users to EA Services. All Content is either owned by EA or its licensors, or is licensed to EA and its licensors pursuant to Section 5 below.
+
+Entitlements are rights that EA licenses to you to access or use the online or off-line elements of EA Services. Examples of Entitlements include access to digital or unlockable Content; additional or enhanced functionality (including multiplayer services); subscriptions; virtual assets; unlock keys or codes, serial codes or online authentication; in-game accomplishments; and virtual points, coins, or currencies.
+We refer to these virtual points, coins or currencies as "EA Virtual Currency". When you obtain EA Virtual Currency from us or our authorized partners, you receive a personal, limited, non-assignable, non-exclusive, revocable license to access and select the Entitlements that EA expressly makes available to you.
+
+EA Virtual Currency has no monetary value and has no value outside of our products and services. EA Virtual Currency cannot be sold, traded, transferred, or exchanged for cash; it only may be redeemed for Entitlements available for the EA Service. EA Virtual Currency is non-refundable, and you are not entitled to a refund for any unused EA Virtual Currency. Once you redeem EA Virtual Currency for an Entitlement, that Entitlement is not returnable, exchangeable, or refundable. If you live in Japan, you agree to use any EA Virtual Currency within 180 days from the date of purchase.
+
+You will provide at your own expense the equipment, Internet connection and charges required to access and use EA Services.
+
+4. Availability of EA Services and Updates
+ⓘ Our games and services may not always be available or operate on all devices. We also may make updates or changes to our games and services, which might impact your use or game progress.
+
+We do not guarantee that any EA Service, Content or Entitlement will be available at all times, in all locations, or at any given time or that we will continue to offer a particular EA Service, Content or Entitlements for any particular length of time. EA does not guarantee that EA Services can be accessed on all devices, by means of a specific Internet or connection provider, or in all geographic locations.
+
+From time to time, EA may update or modify an EA Service, Content or Entitlements, and/or you may lose access to certain Content or Entitlements without notice if, at our discretion, we must remove such Content or Entitlements from the EA Services, for legal, contractual and licensing obligations, technical limitations, or if the Content or Entitlements could harm EA’s reputation. Updates and modifications may be required in order to continue to use EA Services.
+
+EA may need to update, or reset certain parameters to balance game play and usage of EA Services. These updates or "resets" may cause you setbacks within the relevant game world and may affect characters, games, groups or other Entitlements under your control.
+EA may also take actions on your EA Account and Entitlements without notice to you to protect you or EA, such as preventing unauthorized access, resetting EA Account passwords, suspending EA Account access, deleting data or removing EA Accounts from EA Services. Your availability to EA Services may also be affected in response to actual or suspected Rules of Conduct violations, as further described in Section 6.
+
+5. Your User-Generated Content (UGC)
+ⓘ You allow EA and our players to use anything you upload or create (UGC) for free within our games and services. You are responsible for your UGC, it must be your own content or content you’re allowed to use.
+
+You are responsible for your UGC. You may not upload UGC that infringes a third party's intellectual property rights or that violates the law, this Agreement or a third party's right of privacy or right of publicity.
+
+EA may, in its sole discretion, remove, edit or disable UGC for any reason, including if EA reasonably determines that UGC violates this Agreement. EA does not assume any responsibility or liability for UGC, for removing it, or not removing it or other Content. EA does not pre-screen all UGC and does not endorse or approve any UGC available on EA Services.
+
+When you contribute UGC, you grant to EA, its licensors and licensees a non-exclusive, perpetual, transferable, worldwide, sublicensable license to use, host, store, reproduce, modify, create derivative works, publicly perform, publicly display or otherwise transmit and communicate the UGC, or any portion of it, in any manner or form and in any medium or forum, whether now known or later devised, without notice, payment or attribution of any kind to you or any third party. You also grant to all other users who can access and use your UGC on an EA Service the right to use, copy, modify, display, perform, create derivative works from, and otherwise communicate and distribute your UGC on or through the relevant EA Service without further notice, attribution or compensation to you.
+
+6. Rules of Conduct
+ⓘ We want everyone to feel welcome, safe, and included when playing our games. We expect all our players to respect the community, play fairly, and follow local laws. By agreeing to our User Agreement, you agree that you will comply with our Rules of Conduct and the Positive Play Charter. The Positive Play Charter explains in more detail what is and isn’t allowed, and helps explain our Rules of Conduct.
+
+These Rules of Conduct apply to all your actions and UGC (defined in Section 3), such as your username, anything you type in chat, things that you say in voice chat, and image/asset uploads, when you access or use EA Services. The Positive Play Charter, incorporated by reference into this Agreement, has more detail about what is and isn’t allowed to help explain our Rules of Conduct on EA services. Any violation of the Positive Play Charter is a violation of this section of the User Agreement. Specific EA Services may identify additional illustrative examples of these rules as they apply to your conduct on those services. If you see something that you think violates these Rules of Conduct or the Positive Play Charter, please let us know by using the report feature.
+
+When you access or use an EA Service, you agree that you and your UGC will comply with the rules:
+
+Respect the Community
+
+Do not interfere with or disrupt another player’s use of an EA Service or use EA Services to upload, distribute, or engage with content that is harmful or inappropriate.
+All reasonably objectionable content posted, directed to other players or any EA employee or representative is prohibited, including content that is abusive, hateful, defamatory, sexually explicit, profane, obscene, bullying, harassing, or endangers minors.
+Do not upload or distribute any material that infringes another’s intellectual property rights (including copyrighted characters, individual names or likenesses, or protected logos or designs).
+Do not engage in activity that violates the privacy of others, or puts the privacy or security of others at risk.
+Play Fair
+
+Do not engage or assist in cheating, collusion, unfair play, or using exploits.
+Do not engage in any activity that is fraudulent, misleading, or abuses EA Services.
+Do not spam, hack, phish, or generate or distribute malware, or otherwise damage or disrupt the systems of EA, our partners, or our players.
+Do not promote or be involved in account or in-game currency buying, selling, distributing or farming.
+Follow Local Laws
+
+Do not use EA Services to promote or do anything that’s illegal. This includes generating, sharing, or discussing illegal content or engaging in illegal activities. For example, do not use EA Services to promote, incite, instruct or depict: terrorism, child exploitation, threats of violence, hate speech, self-harm, non-consensual image sharing, regulated goods and services, human exploitation or trafficking, or pornography.
+ⓘ To enforce these rules, we may monitor your activity and remove any inappropriate content you have shared. When we discover a violation of these rules, we may take a number of enforcement actions, including but not limited to issuing warnings, removing UGC, and suspending or banning accounts. If you come across a violation of these rules, please report them to EA.
+
+If you or someone using your EA Account violates these rules, EA may send you a warning or take action against you, including revoking access to certain or all EA Services, Content, or Entitlements, or terminating your EA Account(s) as described in Section 8.
+
+If you come across a violation of these rules, please report them to EA using the reporting functions in our Services, or contact Customer Support at help.ea.com.
+
+EA may monitor, record, review, and retain your voice or text communications (together “communications”) and other UGC, and take action in response to inappropriate content. If we detect inappropriate UGC, we may sanction the player who submitted it, and if applicable, remove it from any EA Service. See Content Moderation and Enforcement information for details. Remember that your communications, including your UGC in an EA Service, may be seen and heard by others, including other players and EA.
+
+In countries, territories, or other jurisdictions where consent or specific notice is required for monitoring or recording of communications, you hereby provide your express consent or acknowledge that notice has been provided to such monitoring or recording by accepting this User Agreement and choosing to contribute your UGC.
+
+Your use of EA Services is subject to EA's Privacy and Cookie Policy and Positive Play Charter, which are incorporated by reference into this Agreement.
+
+7. Games
+ⓘ This section applies to our games, in particular PC games, and EA-owned game platforms like the EA app.
+
+This Section applies to EA's games and game subscriptions ("EA Games"), including EA Games that run on a Personal Computer ("EA PC Games"), and the EA-owned client application and related services that distributes EA PC Games (the "EA app" currently https://www.ea.com/ea-app).
+
+A. Technical and Content Protection Measures
+ⓘ We use specific security software to combat piracy and cheating, and tampering with it can result in losing access to our games.
+
+EA utilizes technical or content protection measures, developed by EA or third-party partners, for EA Services in order to prevent piracy and the unauthorized copying or use of EA Games. Attempting to circumvent, disable or tamper with these measures shall terminate this license.
+
+B. EA app
+ⓘ To play our PC games, you may need to install our PC distribution platform software. We may automatically update the software. We provide instructions so you can uninstall our games and software.
+
+To play EA PC Games, EA may require you to install and use the EA app client application or successor application. An EA Account, your acceptance of this Agreement, and an Internet connection are required for the EA app to authenticate and verify your license to the EA PC Game ("Authenticate" or "Authentication").
+
+To access and use EA Services associated with an EA PC Game, you may first need to register with the serial code enclosed with an EA PC Game. The serial code provided with the EA PC Game will be verified during Authentication. Authentication is limited to one EA Account per serial code, which means the EA PC Game is not transferable. You may only launch and access an EA PC Game on no more than five unique machines in any rolling 24-hour period.
+
+The EA app and EA PC Games may download and install updates, upgrades and additional features. You agree that EA has no obligation to support previous version(s) of the EA app upon the availability of an update, upgrade and/or implementation of additional features. EA may provide you with the option to download, install and use an alpha or beta version of the EA app under these same terms.
+
+Instructions to uninstall the EA app client can be found on EA’s help website, help.ea.com.
+
+You may uninstall EA PC Games at any time using the EA app interface and deleting any remaining locally saved files. Punkbuster may remain on your computer after uninstall. To uninstall Punkbuster, run the executable at https://www.evenbalance.com/downloads/pbsvc/pbsvc.exe.
+
+C. Monitoring and Anti-Cheat Measures
+ⓘ EA installs software to detect cheating or hacking. These programs send data on your computer to EA.
+
+EA utilizes technologies to detect and prevent cheating in the use of EA Services, and in particular, EA Games. These technologies may be developed by EA or a third party.
+
+When you launch an online-capable game, these technologies may activate using kernel, admin or user privileges, and monitor and collect from your gameplay and device’s RAM or other memory, processes, visuals, communications, and file storage for the purposes of detecting violations of, and enforcing, the Rules of Conduct in Section 6, including the use of Unauthorized Third-Party Programs. An Unauthorized Third-Party Program is a third-party program or file (such as an "add-on", "mod", "hack", "trainer", or "cheat") that EA believes (i) enables or facilitates cheating of any type; (ii) allows users to bypass, modify or hack the game interface, environment, protections and/or experience in any way not expressly authorized by EA; or (iii) intercepts, "mines", or otherwise collects information from or through the game.
+
+EA may collect relevant information needed for our investigation and enforcement purposes such as your account information, details related to an Unauthorized Third-Party Program, any EA PC Game files that were modified, and times cheating was detected. We also may terminate your License and your EA Account if we determine you have been cheating.
+
+When you exit an online-capable game, these anti-cheat technologies will be deactivated.
+
+8. Termination and Other Sanctions
+ⓘ If you break this agreement or the law, EA may suspend or terminate your use of our games and services, without refunds.
+
+If we decide to shut down a game or a service, we will tell you at least 30 days in advance.
+
+This Agreement is effective until terminated by you or EA. EA may terminate your access and use of any EA Services or your EA Account if EA determines that you have violated this Agreement or that there has been otherwise unlawful, improper or fraudulent use of EA Services on your EA Account. When practical, EA will notify you of any termination of your EA Account, and you may lose your username and persona as a result. If you have more than one EA Account, depending on the type of violation or misuse, EA may terminate all of your EA Accounts and all related Entitlements. If your EA Account is terminated, you will not have access to your EA Account or Entitlements and may be barred from accessing or using any EA Service again. Upon termination, your license under this Agreement also shall terminate.
+
+Instead of terminating your EA Account, EA may alternatively issue you a warning, suspend or alter your access to a particular EA Service or your EA Account, remove or revoke Entitlements at an EA Account or device level, remove or delete any Content which is in violation with this Agreement, or ban your device or machine from accessing specific EA Services. If EA takes any action described in this Section, you will not be entitled to a refund (subject to any statutory refund rights) and no Entitlements will be credited to you or converted to cash or other forms of reimbursement. Actions are cumulative and repeated rule-breaking may result in your EA Account being terminated.
+
+EA may terminate any EA Service at any time by giving at least thirty days' notice either via email (if available), within the affected EA Service, or on the service updates page of EA's website (https://www.ea.com/service-updates). After online service termination, no software updates will be applied to our games and we can't guarantee our games will continue to function on newer or updated operating systems or be available for download via application distribution services such as the iOS App Store and the Google Play Store. Any games available via such application distribution services after online service termination may be removed without further notice to you.
+If you believe that any action has been taken against your Account or device in error, please contact Customer Support at help.ea.com.
+
+If you terminate this agreement, you agree to cease all use of EA Services.
+
+Sections 5, 8-9, 11-15 of this Agreement survive termination of this Agreement
+
+9. Use of Data
+ⓘ EA collects various information when you play our games (even offline) to operate our business, improve our products and services, enforce our rules and communicate with you. We encourage you to read EA’s Privacy and Cookie Policy at privacy.ea.com.
+
+When you use an EA Service, EA may collect and store data from your computer or device, including information about your computer or device, hardware, installed software, and operating system (such as IP Address and device ID), information about your EA Service usage, gameplay and usage statistics, system interactions and peripheral hardware. If you play an EA Service offline, this data will be stored on your device and transmitted to EA when your device connects to the Internet. EA uses this information to operate its business, improve its products and services, provide services to and communicate with you (including for marketing purposes), provide software updates, dynamically serve content and software support, enforce this Agreement, and trouble-shoot bugs or otherwise enhance your experience. If you participate in online services, EA also may collect, use, store, transmit and publicly display statistical data regarding game play (including scores, rankings and accomplishments), or identify content that is created and shared by you with other players.
+
+Your data is collected, used, stored and transmitted by EA Inc. in the United States, in accordance with EA's Privacy and Cookie Policy at privacy.ea.com.
+
+You can manage certain data collection preferences in the Settings tab of the EA PC Game client.
+
+10. Other Software, Utilities and Tools
+ⓘ If we update our games, you may need new software to keep playing our games.
+
+EA Services may require or allow you to download software, software updates or patches, or other utilities and tools from EA or its licensors onto your computer, entertainment system or device. These technologies may be different across platforms, and the performance of EA Services may vary depending on your computer and other equipment. You understand that certain updates to these technologies may be required in order to continue use of an EA Service. Some of these updates may contain locked features or content that require you to pay an additional fee to access them. You consent to EA automatically installing any available updates for EA Services. Failure to install available updates may render EA Services, including EA PC Games, unplayable.
+
+11. Third Parties
+ⓘ You are responsible for your use of game servers and services not owned by EA.
+
+Some EA Services may give you the option of playing on servers not owned or controlled by EA. EA does not control those services and is not responsible for your use of the EA Service on or through them. These third-party services may subject you to additional or different terms and restrictions.
+
+EA Services may include hyperlinks to third-party websites. Those sites may collect data or solicit personal information from you. EA does not control those sites and is not responsible for their content or for their collection, use or disclosure of personal information.
+
+12. Warranties; Limitation of Liability
+ⓘ EA does not make any promises about our software, but the local law in your country may include certain warranties. The damages you can recover for legal claims are limited.
+
+IF YOU LIVE IN THE EUROPEAN ECONOMIC AREA (EEA), UNITED KINGDOM OR SWITZERLAND, THE EA SERVICES WILL BE PROVIDED WITH REASONABLE CARE AND SKILL AND NO OTHER PROMISES OR WARRANTIES ABOUT THE EA SERVICES ARE MADE. IF YOU LIVE OUTSIDE THE EEA, UNITED KINGDOM AND SWITZERLAND, EA SERVICES ARE LICENSED AND PROVIDED "AS IS." YOU USE THEM AT YOUR OWN RISK. TO THE FULL EXTENT PERMITTED UNDER APPLICABLE LAW, EA GIVES NO EXPRESS, IMPLIED OR STATUTORY WARRANTIES, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT OF THIRD-PARTY RIGHTS, AND WARRANTIES ARISING FROM A COURSE OF DEALING, USAGE OR PRACTICE. EA DOES NOT WARRANT AGAINST INTERFERENCE WITH YOUR ENJOYMENT OF THE PRODUCT OR EA SERVICE; THAT THE EA SERVICE WILL MEET YOUR REQUIREMENTS; THAT OPERATION OF THE EA SERVICE WILL BE UNINTERRUPTED OR FREE FROM ERRORS, BUGS, CORRUPTION, LOSS, INTERFERENCE, HACKING OR VIRUSES, OR THAT EA SERVICES WILL INTEROPERATE OR BE COMPATIBLE WITH ANY OTHER SOFTWARE. EA DOES NOT WARRANT OR GUARANTEE ANY THIRD-PARTY PRODUCT OR SERVICE OFFERED VIA THE EA APP STORE. SEE https://help.ea.com/en/articles/security-and-rules/ea-warranty-policy/ FOR MORE INFORMATION ON STATUTORY WARRANTY AND OTHER STATUTORY CONSUMER RIGHTS IN YOUR TERRITORY.
+
+IF YOU LIVE IN THE EEA, UNITED KINGDOM OR SWITZERLAND, EA AND ITS EMPLOYEES, LICENSORS AND BUSINESS PARTNERS WILL NOT BE LIABLE TO YOU FOR ANY LOSSES OR DAMAGES ARISING FROM YOUR ACTIONS OR BREACH OF THIS AGREEMENT, OR WHICH ARISE AS A RESULT OF A THIRD PARTY'S (OR ANY OTHER) ACTS OR OMISSIONS BEYOND OUR CONTROL. IF YOU LIVE OUTSIDE THE EEA, UNITED KINGDOM AND SWITZERLAND, TO THE FULL EXTENT PERMITTED BY APPLICABLE LAW, EA AND ITS EMPLOYEES, LICENSORS AND BUSINESS PARTNERS SHALL NOT BE LIABLE TO YOU FOR ANY LOSSES THAT WERE NOT CAUSED BY EA'S BREACH OF THIS AGREEMENT, OR INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR SPECIAL DAMAGES. THE TYPES OF EXCLUDED DAMAGES INCLUDE, FOR EXAMPLE, FINANCIAL LOSS (SUCH AS LOSS INCOME OR PROFITS), COST OF SUBSTITUTE GOODS OR SERVICES, BUSINESS INTERRUPTION OR STOPPAGE, LOSS OF DATA, LOSS OF GOODWILL, AND COMPUTER FAILURE OR MALFUNCTION. THIS LIMITATION APPLIES TO ANY CLAIM ARISING OUT OF OR RELATED TO THIS LICENSE OR EA SERVICE, WHETHER BASED IN CONTRACT, TORT, STATUTE, STRICT LIABILITY OR OTHERWISE. IT ALSO APPLIES EVEN IF EA KNEW OR SHOULD HAVE KNOWN ABOUT THE POSSIBILITY OF SUCH DAMAGE. YOU MAY RECOVER ONLY DIRECT DAMAGES IN ANY AMOUNT NO GREATER THAN WHAT YOU ACTUALLY PAID FOR THE APPLICABLE EA SERVICE. EA DOES NOT LIMIT ITS LIABILITY FOR FRAUD, GROSS NEGLIGENCE, WILFUL MISCONDUCT, OR FOR DEATH OR PERSONAL INJURY. SOME JURISDICTIONS DO NOT ALLOW THE ABOVE EXCLUSIONS AND LIMITATIONS, SO SOME OR ALL OF THEM MAY NOT APPLY TO YOU.
+
+If you purchased a physical copy of an EA Service from a physical retail store in the United States and you do not agree to the terms of this Agreement and have not installed or used the EA Service, you may return it for a refund or exchange within thirty (30) days from the date of purchase to the original place of purchase by following the instructions for return available at https://warrantyinfo.ea.com.
+
+13. General Terms
+A. Entire Agreement
+ⓘ This agreement can be changed only in writing signed by EA.
+
+This Agreement, together with any other EA terms that govern your use of EA Services, constitutes the entire agreement between you and EA. The Agreement may not be amended or modified unless made in writing and signed by EA. The failure of EA to exercise any right under this Agreement shall not constitute a waiver of the right or any other right. If any part of this Agreement is held to be unenforceable, all other parts of this Agreement shall continue in full force and effect.
+
+B. Governing Law
+ⓘ If you live in the United States, Canada or Japan, this agreement is between you and Electronic Arts Inc. If you live in any other country, this agreement is between you and EA Swiss Sàrl.
+
+If you live in the EEA, United Kingdom, Switzerland, Brazil, Hong Kong, Mexico or Russia, (i) this Agreement is between you and EA Swiss Sàrl, a company registered in the Geneva Companies Registry with company registration number: CH-660-2328005-8 and with offices at Place de Hollande 2, 1204 Geneva, Switzerland; (ii) the laws of your country of residence govern this Agreement and your use of EA Services; and (iii) you expressly agree that exclusive jurisdiction for any claim or action arising out of or relating to this Agreement or EA Services shall be the courts of your country of residence.
+
+If you live in the Republic of Korea, (i) this Agreement is between you and EA Swiss Sàrl, a company registered in the Geneva Companies Registry with company registration number: CH-660-2328005-8 and with offices at Place de Hollande 2, 1204 Geneva, Switzerland; (ii) the laws of Korea, excluding its conflicts-of-law rules, govern this Agreement and your use of EA Services; and (iii) you expressly agree that exclusive jurisdiction for any claim or action arising out of or relating to this Agreement or EA Services shall be the courts of Korea. EA Swiss Sàrl has designated Electronic Arts Korea LLC at 17F, 129 Teheran-ro, Gangnam-gu, Seoul, Korea (Representative Manager: WhieDong Yoo; Email: ContactEAKorea@ea.com; Telephone: 1600-1273) as its Domestic Agent under the Game Industry Promotion Act.
+
+If you live in the United States, Canada or Japan, (i) this Agreement is between you and Electronic Arts Inc., 209 Redwood Shores Parkway, Redwood City, CA 94065, USA; (ii) the laws of the State of California, excluding its conflicts-of-law rules, govern this Agreement and your use of EA Services; and (iii) you expressly agree that for claims and disputes not subject to the arbitration agreement below, exclusive jurisdiction for any claim or action arising out of or relating to this Agreement or EA Services shall be the federal or state courts that govern San Mateo County, California, and you expressly consent to the exercise of personal jurisdiction of such courts.
+
+If you in live in any other country, (i) this Agreement is between you and EA Swiss Sàrl, a company registered in the Geneva Companies Registry with company registration number: CH-660-2328005-8 and with offices at Place de Hollande 2, 1204 Geneva, Switzerland; (ii) the laws of the State of California, excluding its conflicts-of-law rules, govern this Agreement and your use of EA Services; and (iii) you expressly agree that for claims and disputes not subject to the arbitration agreement below, exclusive jurisdiction for any claim or action arising out of or relating to this Agreement or EA Services shall be the federal or state courts that govern San Mateo County, California, and you expressly consent to the exercise of personal jurisdiction of such courts.
+
+The UN Convention on Contracts for the International Sale of Goods (Vienna, 1980) shall not apply to this Agreement or to any dispute arising out of or relating to this Agreement.
+
+C. Export
+ⓘ You must follow all export laws, and you agree you are not a prohibited person under export laws.
+
+You agree to follow U.S. and other export control laws and agree not to transfer an EA Service to a foreign national, or national destination, that is prohibited by such laws. You also acknowledge you are not a person with whom EA is prohibited from doing business under these export control laws.
+
+14. Changes to this Agreement
+ⓘ This agreement can be updated by EA at any time. If you do not agree to certain meaningful changes, you may not be able to play our games.
+
+EA reserves the right to modify this Agreement at any time, effective upon posting an updated version of the Agreement at terms.ea.com or through EA Services. If we make any material changes to the Agreement, we will notify you to obtain your consent. You should regularly review this Agreement, as your continued use of EA Services after any such changes constitutes your agreement to those changes. If you do not agree to this Agreement or any modifications to this Agreement, you should immediately cease using EA Services.
+
+15. Dispute Resolutions by Binding Arbitration
+ⓘ This section only applies if you live outside of Quebec, Russia, Switzerland, Brazil, Mexico, the member states of the EEA, United Kingdom and the Republic of Korea.
+
+If you have a dispute, you agree to send details in writing to EA, and then arbitrate. You agree that any claim you bring against EA is in your individual capacity, and not as a class member, class representative, or as part of a class, collective or representative action.
+
+THIS SECTION APPLIES TO ALL CONSUMERS AND PEOPLE WHO ACCEPTED THE TERMS OF THIS AGREEMENT. IT EXCLUDES RESIDENTS OF QUEBEC, RUSSIA, SWITZERLAND, BRAZIL, MEXICO, THE MEMBER STATES OF THE EEA, UNITED KINGDOM AND THE REPUBLIC OF KOREA. BY ACCEPTING THE TERMS OF THIS AGREEMENT, YOU AND EA EXPRESSLY WAIVE THE RIGHT TO A TRIAL BY JURY AND AGREE TO RESOLVE YOUR DISPUTES IN MANDATORY, FINAL AND BINDING ARBITRATION. YOU ALSO AGREE TO WAIVE THE RIGHT TO PARTICIPATE IN A CLASS, COLLECTIVE OR REPRESENTATIVE ACTION.
+
+This Section 15 offers a streamlined way to resolve disputes between us if they arise. You and EA agree that good-faith informal efforts to resolve disputes often can result in a prompt, low-cost, and mutually beneficial outcome. Most of your concerns can be resolved quickly and satisfactorily by logging into the EA customer support interface with your Account at help.ea.com. If EA cannot resolve your concern, you and EA agree to be bound by the procedure set forth in this Section to resolve any and all disputes between us.
+
+This Section 15 is an agreement between you and EA, and applies to our respective agents, employees, subsidiaries, predecessors, successors, beneficiaries and assigns. This agreement to arbitrate evidences a transaction in interstate commerce, and thus the Federal Arbitration Act ("FAA") governs the interpretation and enforcement of this Section 15 and any arbitration carried out under this Section. This Section 15 shall be interpreted broadly and shall survive termination of this Agreement.
+
+A. Claims Covered by Arbitration
+All disputes, claims or controversies arising out of or relating to this Agreement, any EA Service and its marketing, or the relationship between you and EA, including the validity, enforceability, and scope of this Section 15 ("Disputes"), shall be determined exclusively by binding arbitration. This includes claims that accrued before you entered into this Agreement. The only Disputes not covered by this Section 15 are claims (i) regarding the infringement, protection or validity of your, EA's or EA's licensors' trade secrets, copyright, trademark or patent rights; (ii) if you reside in Australia, to enforce a statutory consumer right under Australian consumer law; (iii) brought in small claims court; and (iv) any and all disputes arising out of or relating to the Class Action Waiver, including, but not limited to, any claim that all or part of the Class Action Waiver is unenforceable, unconscionable, illegal, void, or voidable.
+
+To the extent the parties have related arbitrable and non-arbitrable disputes, the arbitrable disputes shall proceed first in arbitration and the non-arbitrable disputes shall be stayed, and any applicable statutes of limitations tolled, pending completion of the arbitration.
+
+B. Informal Negotiations
+You and EA shall first attempt to resolve any Dispute informally before initiating arbitration. The informal negotiations begin upon receipt of written notice from one party to the other ("Notice of Dispute"). You must mail an individualized Notice of Dispute to: Electronic Arts Inc., 209 Redwood Shores Parkway, Redwood City CA 94065, ATTENTION: Legal Department. The Notice of Dispute must include: (a) your name, telephone number, mailing address, and e-mail address associated with your EA Account (or your EA username); (b) a description of the nature and basis of your dispute (including the game(s) at issue); (c) the amount you are seeking from EA; and (d) your personal signature. If EA has a dispute with you, EA will send a Notice of Dispute with the same information to the email address associated with your account. You and EA must participate in informal negotiations for at least 60 days after receiving the Notice of Dispute, unless the parties mutually agree to an extension. The party sending the Notice of Dispute may not file any demand for arbitration before the 60-day period (or any mutually-agreed upon extended period).
+
+The arbitrator shall dismiss any arbitration filed without fully and completely complying with these informal dispute resolution procedures. If an arbitration is dismissed because a party willfully failed to comply with these informal dispute resolution procedures, the arbitrator may order the non-compliant party to pay any arbitration filing fees and costs incurred by the other party. The statute of limitations and any filing fee deadlines shall be tolled while the parties engage in the informal dispute resolution process described in this paragraph.
+
+C. Binding Arbitration
+If you and EA cannot resolve a Dispute informally, you or EA may elect to have the Dispute finally and exclusively resolved by binding arbitration. Any election to arbitrate by one party shall be final and binding on the other. A party initiating an arbitration shall provide with its arbitration demand all of the information required in the Notice of Dispute, as well as a certification that the party complied with the informal dispute resolution procedures. The arbitration shall be administered by the American Arbitration Association under its Consumer Arbitration Rules ("AAA Consumer Rules") and, if applicable, its Mass Supplementary Arbitration Rules ("AAA Mass Arbitration Rules"), which are available at www.adr.org or by calling 1-800-778-7879, with the following modifications:
+
+1. Arbitration fees and costs shall be governed by the AAA Consumer Rules or AAA Mass Arbitration Rules (if applicable), unless as otherwise stated in this arbitration agreement.
+
+2. If the Dispute does not exceed $25,000, the arbitration will be conducted solely on the basis of written submissions, unless the arbitrator determines that a hearing is necessary for any reason, including but not limited to because a hearing is necessary to afford a party a full and fair opportunity to present its claims or defenses.
+
+3. The parties may bring any dispositive motion or motions during the course of the proceedings.
+
+4. The arbitrator shall make a decision in writing, which will include the findings and conclusions on which the decision is based. The arbitrator has the authority to issue any relief allowed by applicable law, but the arbitrator shall have no authority to issue any relief on any basis other than an individual basis. The arbitrator may award declaratory or injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party's individual claim.
+
+The arbitrator must follow applicable law, and any award may be challenged if the arbitrator fails to do so. You and EA may litigate in court to compel arbitration, to stay proceeding pending arbitration, or to confirm, modify, vacate or enter judgment on the award entered by the arbitrator.
+
+D. Class Action Waiver
+You and EA agree that any and all Disputes between the parties shall be resolved only in individual arbitration. The parties expressly waive the right to have any Dispute brought, heard, administered, resolved, or arbitrated as a class, collective, coordinated, consolidated, or representative action, and neither an arbitrator nor an arbitration provider shall have any authority to hear, arbitrate, or administer any class, collective, coordinated, consolidated, or representative action, or to award relief to anyone but the individual in arbitration. The parties also expressly waive the right to seek, recover, or obtain any non-individual relief. Notwithstanding anything else in this Agreement, this Class Action Waiver does not prevent you or EA from participating in a classwide, collective, or representative settlement of claims. If governing law (after taking FAA preemption into account) does not allow the parties to waive claims for public injunctive relief, any claim for public injunctive relief must be heard by a court, not an arbitrator, but the parties’ non-arbitrable disputes shall be stayed pending arbitration, as stated in paragraph A.
+
+E. Grouped Arbitrations
+To the extent permitted by applicable law and notwithstanding any other provision of this Agreement, to increase efficiency of resolution, in the event 50 or more similar arbitration demands are filed within a 30-day period:
+
+(a) the parties shall cooperate to organize the arbitration demands into randomized groups of no more than 50 demands (plus, to the extent there are fewer than 50 arbitration demands remaining, a final group consisting of the remaining demands);
+
+(b) AAA shall assess one set of filing and administrative fees per group and shall assign one arbitrator per group, subject to any applicable disclosure and disqualification procedures available under applicable law;
+
+(c) AAA shall set one initial conference per group;
+
+(d) regardless of the grouping described above, the arbitrator shall resolve all arbitrations within a group on an individual basis;
+
+(e) the first group of 50 arbitrations shall proceed on an individual basis, while the remaining cases are stayed and applicable statutes of limitations for those cases are tolled;
+
+(f) the parties shall use their best efforts to complete the initial 50 individual arbitrations within 120 days after the initial conference, and shall engage in good-faith mediation following resolution of the initial 50 individual arbitrations;
+
+(g) if mediation is unsuccessful, the remaining cases shall proceed on an individual basis in groups of 50 cases (plus, to the extent there are fewer than 50 arbitration demands remaining, a final group consisting of the remaining demands); and
+
+(h) no final award from an arbitrator in any one arbitration shall have preclusive effect in any other arbitration. 
+
+The parties agree to cooperate in good faith to implement such a grouped approach to administration of the arbitration demands. If any similar arbitration demands were originally processed as individual arbitration demands before this grouping procedure was commenced, further proceedings, including the assessment of further arbitration filing or administration fees to either party shall be governed by the procedures set forth in this paragraph E.
+
+F. Location
+If you live in the United States, arbitration will take place in the county in which you reside. For residents outside the United States, arbitration shall be initiated in the County of San Mateo, State of California, United States of America, so that an arbitrator familiar with California law can be appointed, and if the arbitrator determines that the proceedings will take place in person instead of by electronic or telephonic means, the arbitrator will select a location that is reasonably convenient to both parties with due consideration of their ability to travel and other pertinent circumstances. You and EA agree to submit to the personal jurisdiction of the courts in the County of San Mateo, State of California, United States of America to compel arbitration, to stay the proceeding pending arbitration, or to confirm, modify, vacate or enter judgment on the award entered by the arbitrator.
+
+G. Severability
+In the event any portion of this arbitration agreement is deemed unenforceable, the remainder of this agreement to arbitrate will be enforceable.
+
+16. Supplemental Terms for PlayStation®
+ⓘ Additional terms apply to PlayStation™Store purchases.
+
+A. For Purchases in PlayStation™Store in North America
+Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.
+
+B. For Purchases in PlayStation™Store in Europe
+Any content purchased in an in-game store will be purchased from Sony Interactive Entertainment Network Europe Limited ("SIENE") and be subject to PlayStation™Network Terms of Service and User Agreement which is available on the PlayStation™Store. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.
+
+17. Supplemental Terms Applicable to Purchases for Mobile Devices
+ⓘ Additional terms apply to mobile device purchases.
+
+If you live in the United States, Canada or Japan, the seller of Content and Entitlements purchased from EA for use on a mobile device is Electronic Arts Inc. If you live in any other country, the seller of such Content and Entitlements purchased from EA is EA Swiss Sàrl. Any EA subsidiary identified as the seller of the Content and Entitlements on the mobile app store is acting in its capacity as agent of either Electronic Arts Inc. or EA Swiss Sàrl.
+
+Available in additional languages:
+العربية (Arabic)
+Ελληνικά (Greek)
+हिन्दी (Hindi)
+Magyar (Hungarian)
+Bahasa Indonesia (Indonesian)
+Bahasa Melayu (Malay)
+Português - Portugal (Portuguese - Portugal)
+Română (Romanian)
+Slovenčina (Slovak)
+ไทย (Thai)
+Türkçe (Turkish)
+Українська (Ukrainian)
+Tiếng Việt (Vietnamese)
+Previous User Agreement

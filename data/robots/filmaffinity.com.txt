@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /*?FASID
+Disallow: /*&FASID
+Disallow: /*/sharerating
+Disallow: /*/userratings
+Disallow: /*/userrating
+Disallow: /*/names-together

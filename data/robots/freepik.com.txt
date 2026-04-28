@@ -1,0 +1,61 @@
+User-agent: *
+Disallow: /index.php
+Disallow: /login
+Disallow: /register
+Disallow: /shutterstock/
+Disallow: /premium-videos
+Disallow: /premium-videos/
+Disallow: /contacto/
+Disallow: /contact/
+Disallow: /trk-download/
+Disallow: /ad/adserver.php
+Disallow: /advertisers/
+Disallow: /terms_of_use
+Disallow: /contact
+Disallow: /privacy_policy
+Disallow: /dmca_notification
+Disallow: /search
+Disallow: /profile/payment/getstarted/*
+Disallow: /profile/license
+Disallow: /profile/downloads_limit
+Disallow: /xhr/
+Disallow: /media/js/translations.js
+Disallow: /download-limit
+Disallow: /download-file/
+Disallow: /redirect
+Disallow: /download/
+Disallow: /bmind
+Disallow: /blog-old
+Disallow: /language-switch?currentPath
+Disallow: /_ga
+Disallow: /photo-editor/*
+Disallow: /mockup-editor/*
+Disallow: */public/fc-assets/locales
+Disallow: /designer/edit
+Disallow: /_next/data
+Disallow: /premium-video/*/horizontal
+Disallow: /premium-video/*/vertical
+Disallow: /premium-video/*/square
+Disallow: /free-video/*/horizontal
+Disallow: /free-video/*/vertical
+Disallow: /free-video/*/square
+Disallow: /blog/?s=
+Disallow: /api/video/*
+Disallow: /audio/music/search
+Disallow: /audio/sound-effects/search
+Disallow: /ai/icon-generator/tool
+
+# Google AdSense
+User-agent: Mediapartners-Google
+Allow: /search
+
+# Adsbot-Google
+User-agent: Adsbot-Google
+Allow: /search
+
+# Twitter Bot
+User-agent: Twitterbot
+
+Allow: /
+
+Sitemap: https://www.freepik.com/sitemap-ai.xml

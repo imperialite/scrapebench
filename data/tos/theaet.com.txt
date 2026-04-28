@@ -1,0 +1,522 @@
+Terms of Service - COPPA - Privacy Policy
+About
+Our Story
+Our Team
+What is AET?
+Resources
+Ag Student Help
+Ag Teacher Help
+CTE Help
+Ag Practice AET
+Curriculum
+AET in the Classroom
+Explore SAE
+Trainings
+Contact
+Pricing
+Ag Education
+Other CTE
+Terms of Service - COPPA - Privacy Policy
+1EdTech
+AET Data Flow Summary
+AET Policies
+AET Accessibility
+Last Updated:
+[January 12, 2026]
+The Agricultural Experience Tracker (“
+AET
+,” “
+we
+,” “
+our
+,” or “
+us
+”) provides a digital recordkeeping and management platform to support CTE education programs, including supervised agricultural experiences (SAEs), work-based learning (WBL) coursework, and related activities.
+Accessibility Statement:
+The AET (theaet.com)
+is committed to providing a website that is accessible to the widest possible audience, regardless of technology or ability. We strive to ensure that our digital content is usable by individuals with diverse abilities and are continually working to improve accessibility across our public website.
+Accessibility Standards:
+Our goal is to align the AET public website with
+Web Content Accessibility Guidelines (WCAG) 2.1 Level AA
+, which are widely recognized as the standard for web accessibility and are referenced by
+Section 508 of the Rehabilitation Act
+and education accessibility policies.
+Ongoing Efforts:
+Accessibility is considered throughout our design, development, and maintenance processes. While a comprehensive third-party accessibility audit has not yet been completed, we are actively working to identify and remediate accessibility barriers as part of an ongoing improvement effort. Accessibility issues are prioritized based on impact and addressed through our regular development lifecycle.
+Feedback and Assistance:
+We welcome feedback on the accessibility of the AET website. If you encounter an accessibility barrier or need assistance accessing any content, please contact us using one of the methods below. We will make reasonable efforts to respond promptly and provide an accessible alternative when possible.
+Compatibility:
+The AET website is designed to be compatible with modern web browsers and to support the use of assistive technologies such as screen readers and keyboard navigation.
+Accessibility Contact:
+The Academic Experience Tracker (AET)
+198 Pool Rd
+Richards, Texas 77873
+Email: [
+info@theaet.com
+] /
+Phone: [936-649-0111]
+AET Privacy Policy & Student Data Protection Agreement
+This Privacy Policy & Student Data Protection Agreement (“
+Policy
+”) explains how AET collects, uses, discloses, protects, retains, and deletes personal information, including
+Student Data
+, and how we comply with applicable U.S. federal and state privacy laws, including the
+Children’s Online Privacy Protection Act (COPPA)
+and the
+Family Educational Rights and Privacy Act (FERPA)
+.
+1. Scope of This Policy
+This Policy applies to:
+AET’s websites, including
+www.theaet.com
+and related subdomains;
+AET’s web-based and mobile applications, tools, and services (collectively, the “
+Services
+”);
+All personal information processed by AET on behalf of Institutions, educators, students, and other users in connection with the Services.
+This Policy does
+not
+apply to websites or services that we do not own or control, including third-party websites that may be linked from the Services.
+2. Roles & Responsibilities
+When AET provides the Services to an
+Institution
+(e.g., a school, district, state FFA organization, or other educational program), the Institution is typically the
+data controller
+or
+“school official” holder of education records
+, and AET acts as a
+service provider
+,
+school official
+, or
+data processor
+under applicable law.
+For information collected directly from
+teachers, administrators, or other adult users
+outside the context of Student Data (such as contact information for business development or support), AET may act as a
+controller/business
+under applicable privacy laws.
+Institutions remain responsible for determining the legal basis for processing Student Data and for providing appropriate privacy notices and obtaining any necessary consents from parents/guardians or eligible students.
+3. Definitions
+For purposes of this Policy:
+“Student”
+means a current or former student who uses or is associated with an AET account under the direction of an Institution or educator.
+“Student Data”
+means any information that directly relates to an identifiable Student and is provided to AET by an Institution, educator, parent/guardian, or the Student, or collected by AET on behalf of an Institution in connection with the Services. Student Data may include information that constitutes
+education records
+under FERPA.
+“Personal Information”
+or
+“Personal Data”
+means information that identifies or can be reasonably linked to an identifiable individual, including Students, educators, and other users.
+“De-identified Data”
+means data that cannot reasonably be used to identify an individual, directly or indirectly.
+4. Categories of Information We Collect
+AET
+lists all categories of data we collect
+below. Specific data elements may vary by Institution configuration and usage.
+4.1 Student Data
+When an Institution or educator uses the Services, we may collect the following
+Student Data
+:
+Identifiers
+Full name, preferred name
+Student ID number or AET-generated ID
+Username and password (hashed)
+Institution name, program, chapter, class, or section
+Optional: Grade level and/or graduation year
+Contact Information
+Optional: Email address (institutional or program email)
+Optional: phone number or mailing address if enabled by the Institution
+Educational & Recordkeeping Information
+Optional: Course enrollments and participation
+Optional: SAE project information (descriptions, records, logs)
+Optional: Work experience hours, activities, and logs
+Optional: Financial records associated with educational projects (e.g., income/expense entries, inventories, budgets)
+Optional: Assignments, assessments, teacher feedback, and uploaded documents
+Optional: Activity logs related to FFA or agricultural education programs as configured by the Institution
+Demographic / Program Attributes
+(if provided by Institution)
+Optional: Year of birth
+Optional: Gender
+User-Generated Content
+Optional: Text entries, reflections, goals, journal entries
+Optional: Photos, files, and other media uploaded to document projects or experiences (subject to Institution policy)
+Account & Usage Information
+AET account identifiers and profile settings
+Activity history within the platform (e.g., logins, submissions, interactions with features)
+4.2 Educator, Administrator, and Institution Information
+For teachers, advisors, administrators, and Institution contacts, we may collect:
+Name, title, and role
+Institutional email address and phone number
+School, district, state organization, or employer name
+Account credentials (hashed passwords or SSO identifiers)
+Optional: Professional profile and preferences related to using the Services
+4.3 Technical & Usage Data
+When users access the Services, we may automatically collect:
+IP address and approximate location (city/region level, not precise GPS)
+Log data (pages viewed, date/time of access, referring URLs, error logs)
+Unique identifiers associated with browsers or devices (e.g., cookie IDs)
+Performance and diagnostic data to monitor system reliability
+4.4 Communications
+We collect information when users communicate with us, such as:
+Support requests and communications with AET
+Feedback, survey responses, or feature requests
+Records related to training or professional development sessions
+We do
+not
+intentionally collect sensitive categories, such as Social Security numbers, date of birth, or precise geolocation data.
+5. How We Collect Information
+AET
+states specifically how data is collected
+:
+From Institutions and Educators
+Institutions or educators may create accounts for Students by importing rosters or manually entering information.
+Educators and administrators may enter or upload Student information (e.g., project data, assessments, notes) directly into the Services.
+Directly From Students
+Students may enter information into the Services when logging their experiences, time, financial entries, reflections, or assignments.
+Students may upload files or media as permitted by their Institution.
+Automatically Through Use of the Services
+We automatically collect usage and device data (as described above) using server logs, secure session cookies, and similar technologies necessary for the operation, security, and performance of the Services.
+From Parents/Guardians (where applicable)
+In limited circumstances, parents/guardians may provide information (for example, when assisting younger Students or responding to requests under COPPA or FERPA).
+We do
+not
+purchase Student Data from data brokers or use Student Data for unrelated marketing.
+6. Data Ownership & Control
+6.1 Student Data Ownership
+Institutions (and, as applicable, Students and their parents/guardians) own all rights, title, and interest in Student Data.
+AET does
+not
+claim ownership of Student Data. As between AET and the Institution, Student Data is the property of the Institution (and, to the extent applicable, the Student or parent/guardian).
+6.2 AET’s Limited License to Student Data
+Institutions grant AET a
+limited, non-exclusive, revocable license
+to host, process, and use Student Data
+solely
+:
+To provide, maintain, secure, and support the Services.
+To comply with applicable laws and our contractual obligations.
+To develop and improve the Services in a manner that does not identify individual Students (using de-identified or aggregated data only).
+We do
+not
+use Student Data for unrelated purposes such as advertising, selling data, or building profiles for use outside the educational context.
+6.3 Ownership of AET Platform & De-identified Data
+AET owns and retains all rights to the Services, including software, source code, designs, and aggregated, de-identified data that does not identify any individual.
+De-identified and aggregated data may be used for research, analytics, and reporting, but only in a way that cannot reasonably be used to identify Students or other individuals.
+7.
+How We Use Information
+We use information, including Student Data, for the following purposes:
+To provide and operate the Services
+Creating and managing user accounts
+Enabling recordkeeping, logging of experiences, and educational workflows
+Supporting reporting, SAE/WBL tracking, and progress monitoring
+To support teaching and learning
+Enabling educators to view and evaluate Student activities and projects
+Providing tools for feedback, assessment, and documentation
+To ensure security and integrity
+Protecting against unauthorized access, fraud, or misuse
+Monitoring system performance and addressing technical issues
+To communicate with Institutions and users
+Providing support and responding to inquiries
+Sending service-related notifications (e.g., maintenance, updates, security alerts)
+To comply with legal obligations
+Responding to lawful requests and fulfilling regulatory requirements
+We do
+not
+use Student Data for behavioral targeting, commercial advertising, or unrelated marketing.
+8.
+COPPA Compliance – Children’s Privacy
+AET is committed to complying with the
+Children’s Online Privacy Protection Act (COPPA)
+for Students under 13.
+Use Through Schools Only
+AET is designed for use primarily
+through Institutions and educators
+, not for direct sign-up by children.
+Institutions and educators act as parents/guardians' agents for COPPA consent purposes when they authorize students' use of AET.
+Parental Rights Under COPPA
+Parents/guardians of Students under 13 have the right to:
+Review their child’s personal information stored in AET.
+Request that AET no longer collect or use their child’s information;
+Request deletion of their child’s personal information, subject to the Institution’s obligations.
+AET will work with the Institution to authenticate and honor such requests, in a manner consistent with FERPA and applicable laws.
+Limiting Collection & Use
+We collect only the Student Data reasonably necessary to provide the Services as authorized by the Institution.
+We do
+not
+require children to disclose more information than is reasonably necessary to use the core features of the Services.
+No Advertising or Selling of Children’s Data
+AET does
+not
+sell, rent, or trade personal information of children.
+AET does
+not
+use Student Data, including data of children under 13, for targeted advertising.
+9.
+FERPA Compliance – Student Education Records
+AET supports Institutions in complying with the
+Family Educational Rights and Privacy Act (FERPA)
+.
+School Official Status
+When providing the Services to an Institution, AET acts as a
+“school official”
+with a
+legitimate educational interest
+under FERPA.
+AET uses Student Data only as directed by the Institution and for educational purposes allowed under FERPA.
+Access & Disclosure
+AET does
+not
+disclose education records or Student Data to third parties except:
+To service providers acting on AET’s behalf under written contracts;
+As authorized by the Institution; or
+As required by law (e.g., in response to a valid subpoena, with notice to the Institution where permitted).
+Parent & Eligible Student Rights
+Requests to access, correct, or delete education records should generally be directed to the Institution.
+Upon verified written direction from the Institution, AET will assist in fulfilling access, correction, or deletion requests.
+Record of Disclosures
+AET assists Institutions in maintaining appropriate records of disclosures of education records, as requested and where technically feasible.
+10. Data Retention & Deletion
+10.1 Retention
+Active Accounts:
+Personal Information and Student Data are retained
+for as long as the Institution’s account is active
+and needed to provide the Services.
+After Termination:
+Upon termination of an Institution’s contract and written direction to delete Student Data:
+AET will delete or de-identify Student Data from active systems within
+30 days
+.
+Residual copies in system backups will be overwritten and unrecoverable within
+an additional 30 days
+, resulting in a
+maximum retention period of 60 days
+after termination or deletion request, except as described below.
+Legal and Compliance Obligations:
+AET may retain limited records (e.g., transaction or audit logs) as required for:
+Legal, regulatory, or accounting obligations
+Security, fraud prevention, and dispute resolution
+These records will be minimized and, where feasible, de-identified.
+10.2 Deletion Requests
+Institution-Controlled Deletion:
+Institutions may instruct AET to delete Student Data at any time by contacting us through the designated administrator or contract contact.
+Parents/Students:
+Parents/guardians or eligible Students who wish to delete Student Data should contact their Institution. AET will act upon the Institution’s verified instructions.
+Scope of Deletion:
+When we delete Student Data, we will:
+Remove the data from active databases and storage.
+Ensure that the data is also deleted from backups within the defined retention period;
+Ensure that third-party service providers delete or return Student Data in a manner consistent with our contracts.
+11.
+Security Measures
+AET implements administrative, technical, and physical safeguards to protect Personal Information and Student Data. These measures include, at a minimum:
+Secure data centers and hosting environments with industry-standard physical and environmental controls;
+Role-based access control and least-privilege principles for staff and system access;
+Strong password requirements and account security controls;
+Regular security patching, vulnerability management, and system hardening;
+Logging and monitoring of system activity to detect anomalous or unauthorized access;
+Encrypted backups and secure data disposal procedures;
+Staff training on data privacy, security, and confidentiality obligations.
+We regularly review and update our security practices to align with evolving standards and legal requirements.
+12.
+Encryption of Data
+To protect confidentiality and integrity:
+Data in Transit:
+AET uses
+Transport Layer Security (TLS 1.2 or higher)
+or equivalent modern protocols to encrypt all data transmitted between client devices and our servers.
+Data at Rest:
+AET encrypts confidential and sensitive information stored on our servers, including Student Data, using strong encryption algorithms such as
+AES-256
+or stronger, or their equivalent. For example, passwords.
+Encryption Keys:
+Encryption keys are stored, managed, and rotated in accordance with industry-standard security practices and are accessible only to authorized personnel and systems.
+13. Account Security, Passwords & Multi-Factor Authentication
+13.1 Strong Password Enforcement
+AET
+enforces strong password creation
+for all accounts that use AET-managed credentials:
+Passwords must meet minimum length and complexity..
+Passwords are hashed using industry-standard, one-way hashing algorithms before storage.
+We do not store passwords in plain text.
+We may enforce password expiration or rotation policies based on Institution requirements.
+13.2 Single Sign-On (SSO) and Federated Identity
+Where supported by Institutions:
+AET
+supports Single Sign-On (SSO)
+and/or federated identity (e.g., via SAML, OAuth, or LTI launches) so that users can authenticate using their Institution-managed credentials.
+When SSO is used, the Institution’s identity provider may enforce its own multi-factor authentication and password policies, which apply to access to AET.
+13.3 Multi-Factor Authentication (MFA)
+For AET-managed administrator and sensitive accounts, AET may require or support
+multi-factor authentication (MFA)
+for enhanced security.
+AET recommends that Institutions enable MFA wherever available for staff and administrative users.
+Users are responsible for maintaining the confidentiality of their login credentials and notifying AET or their Institution immediately of any unauthorized use.
+14.
+Cookies & Similar Technologies
+AET uses cookies and similar technologies to support the operation and security of the Services. We
+list the cookies and their purposes
+below. Specific names and durations may change over time and will be documented in AET’s cookie notice or help center.
+Strictly Necessary / Functional Cookies
+Purpose: Maintain login sessions, remember preferences, protect against cross-site request forgery (CSRF), and ensure service reliability.
+Examples: Session IDs, authentication tokens.
+These cookies are essential to provide the Services and cannot be disabled without affecting functionality.
+Performance & Analytics Cookies (AET-controlled or privacy-focused)
+Purpose: Collect aggregated usage data to help us understand how the Services are used and to improve performance and reliability.
+Data: Aggregated page views, feature usage, and error diagnostics.
+These cookies do
+not
+track users across websites or build advertising profiles.
+Institutions may request that optional analytics cookies be disabled for their deployment where feasible.
+No Advertising Cookies
+AET does
+not
+use third-party advertising cookies, web beacons, or similar tracking technologies for advertising or retargeting.
+Users can control cookies through their browser settings; however, disabling required cookies may impair the functionality of the Services.
+15. Third-Party Service Providers & Data Sharing
+15.1 Use of Third Parties
+AET uses a limited number of
+third-party service providers (“Sub processors”)
+to support the operation of the Services (e.g., hosting, email delivery, secure backups, analytics that are strictly service-related).
+These service providers process Personal Information and Student Data
+only on AET’s behalf
+and
+only for purposes necessary to provide the Services
+.
+A current list of key sub processors, including their purposes and data categories, is:
+[AWS]
+15.2 Data Shared with Third Party
+We use Amazon Web Services (AWS) as our cloud infrastructure provider to host our application, store data (including content and account information), and power our services. Information we collect about is stored on secure servers located in the AWS US. AWS processes this data on our behalf, subject to strict data processing agreements and security measures.
+AET does
+not
+authorize sub processors to use Personal Information or Student Data for their own marketing or advertising purposes.
+15.3 User Ability to opt Out of Third-Party Sharing
+AET does
+not
+share Student Data with third parties for their independent use; all sharing with sub processors is solely for providing the Services under contract.
+Institutions may:
+Request that certain optional third-party integrations (e.g., analytics, messaging tools) be disabled; and/or
+Terminate their use of the Services and request deletion of Student Data, which ends ongoing sharing with sub processors.
+Where required by law, we will support Institutions in providing parents/guardians or eligible Students with choices about optional third-party integrations.
+15.4 Contractual Protections & Flow-Down Obligations
+AET requires all sub processors that process Personal Information or Student Data to:
+Enter into written agreements that require them to maintain appropriate privacy and security protections;
+Use Personal Information and Student Data
+only
+to provide services to AET and not for their own purposes;
+Implement and maintain industry-standard security measures;
+Assist AET in meeting legal obligations (e.g., data protection, breach notification);
+Delete or return Student Data upon termination of services or at AET’s direction.
+AET remains responsible for the performance of its sub processors under these agreements.
+15.5 Changes in Third Parties & Notification
+AET will maintain an up-to-date list of sub processors at the URL noted above.
+When AET adds or replaces a sub processor that will process Student Data, we will:
+Update our policy listed; and
+Provide
+advance notice
+to the primary administrative contacts for affected Institutions (e.g., via email or dashboard notification) within a reasonable period before the change becomes effective.
+If an Institution reasonably objects to a new sub processor’s processing of Student Data, we will work in good faith to provide an alternative or allow termination of Services with respect to Student Data processed by that sub processor.
+16.
+Advertising & Marketing
+AET is an education-focused service. We do
+not
+use Student Data for targeted advertising.
+16.1 Display of Advertisements
+AET does
+not
+display third-party banner ads, targeted ads, or similar commercial advertising within the Student-facing portions of the Services.
+Limited informational or sponsorship acknowledgements (if any) will not be targeted based on Student Data.
+16.2 Targeted Advertising
+AET does
+not
+use Student Data to deliver
+interest-based or behavioral advertising
+to Students, educators, or other users.
+We do not build advertising profiles based on Student Data.
+16.3 Third-Party Tracking for Advertising
+AET does
+not
+allow third-party advertising networks to track users on the Services for advertising purposes.
+We do not share Personal Information or Student Data with third-party advertisers.
+16.4 Web Beacons & Ad-Related Tracking
+AET does
+not
+use web beacons, ad pixels, or similar technologies for advertising or cross-site tracking.
+Any use of web beacons or similar tools is limited to security, fraud detection, or internal analytics necessary for Service functionality and is not used for advertising.
+16.5 Opt-Out of Sharing Data with Advertisers
+Because AET does
+not
+share Personal Information or Student Data with advertisers for targeted advertising or marketing, there is no advertising-specific opt-out required.
+If this practice changes, AET will update this Policy, obtain any legally required consents, and provide clear opt-out mechanisms consistent with applicable law.
+17.
+State-Specific Privacy Rights (e.g., CCPA/CPRA and Similar Laws)
+For users residing in U.S. states with specific privacy laws (such as California, Colorado, Utah, Virginia, Connecticut, and others), AET will respect applicable rights, which may include:
+Right to know/access the categories and specific pieces of Personal Information collected;
+Right to request correction of inaccurate Personal Information;
+Right to request deletion of Personal Information, subject to legal obligations and educational context;
+Right to receive information about disclosures of Personal Information;
+Right to opt out of “sale” or certain types of “sharing” of Personal Information (which AET does not engage in with Student Data).
+For Student Data processed on behalf of an Institution, these requests will generally be coordinated with and fulfilled at the direction of the Institution, consistent with FERPA and applicable state law.
+AET does
+not
+sell Personal Information or Student Data as “sale” is defined under applicable state privacy laws.
+18.
+Data Access, Correction & Portability
+Institutions and Educators:
+May access and update Student Data via the Services and administrative tools.
+Parents/Guardians and Students:
+Requests to access, correct, or export education records should be directed to the Institution. Upon verified direction from the Institution, AET will assist in providing, correcting, or exporting Student Data in a structured, commonly used format where feasible.
+19.
+Data Breach Notification
+In the event of a data breach involving Student Data or other Personal Information:
+AET will promptly investigate and take steps to contain and remediate the incident.
+AET will notify affected Institutions
+without unreasonable delay
+after confirming a breach, and will provide information reasonably necessary for Institutions to meet their own legal notification obligations.
+AET will cooperate with Institutions and, where required, regulators to address the incident and prevent recurrence.
+20.
+International Transfers
+AET’s Services are primarily intended for use within the United States. Suppose data is transferred across borders (for example, due to the use of global cloud infrastructure). In that case, AET will ensure that such transfers comply with applicable data protection laws and that appropriate safeguards are in place.
+21. C
+hanges to This Policy
+We may update this Policy from time to time to reflect changes in our Services, laws, or industry practices.
+We will post the updated Policy with a new “Last Updated” date.
+For material changes affecting Student Data, we will provide additional notice to Institutions (e.g., by email or in-product notice) before the changes take effect.
+Where required by law, we will obtain renewed consent or agreement from Institutions.
+22. Contact Information
+If you have questions about this Policy, our privacy practices, or your rights, please contact us at:
+The Academic Experience Tracker (AET)
+198 Pool Rd
+Richards, Texas 77873
+Email: [
+info@theaet.com
+] / Phone: [936-649-0111]
+For requests related to
+Student Data
+, parents/guardians and Students should generally contact their
+Institution
+first. AET will act on verified directions from the Institution consistent with FERPA, COPPA, and applicable state laws.
+Add New Module
+Name:
+Module Type:
+select
+Module with New Page Link
+Module with NO New Page
+Documents
+Photo Gallery
+Add New Side Module
+Name:
+Edit Page Passcode
+Password:
+Get in Touch
+Question? We're here to help!
+info@theAET.com
+billing@theAET.com
+Sign up for our email updates
+Stay up-to-date with our Tuesday Tips messages, product updates, training opportunities, and more!
+Subscribe to Tuesday Tips
+Follow The AET
+We're on social media!
+Copyright © 2026 The Agricultural Experience Tracker. All Rights Reserved.
+Terms of Service - COPPA - Privacy Policy

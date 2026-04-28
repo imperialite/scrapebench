@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /account
+Disallow: /homepages
+Disallow: /v2
+Disallow: /v3
+Disallow: /legacy
+Disallow: /api/user-view-details
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+Sitemap: https://www.estatesales.net/site-maps

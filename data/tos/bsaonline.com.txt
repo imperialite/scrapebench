@@ -1,0 +1,81 @@
+Terms of Use
+AGREEMENT BETWEEN USER AND BS&A Software
+
+The bsaonline.com Website is a service comprised of various web pages that report data from various municipalities. This Website is offered to you, conditioned on your acceptance without modification of the terms, conditions, and notices contained herein. Your use of the bsaonline.com Website constitutes your agreement to all such terms, conditions, and notices.
+
+Terms of Use Modifications
+BS&A Software reserves the exclusive right to change the terms, conditions, and notices under which this service is offered, including, but not limited to, the charges associated with the use of the bsaonline.com Website.
+
+No Unlawful or Prohibited Use
+As a condition of your use of this site, you warrant to BS&A Software that you will not use the information provided for any purpose that is unlawful, prohibited, or in violation of these terms. BS&A Software offers, as a free service, the ability for residential property owners to look up and review the available information related to their own property at no charge. Use of this service for commercial benefit, either monetary or informational, is prohibited except as follows:
+
+With the acceptance of these terms, and the receipt of payment for services from you on a pay-per lookup basis.
+With the acceptance of these terms, and as paid for by the County or Municipality and offered as a service which is free to the end user by that entity.
+In all other cases commercial use of this service without the express written consent of BS&A Software is absolutely prohibited.
+
+You agree that you will not use the bsaonline.com Website in any manner which could damage, disable, overburden, or impair the Website or interfere with any other party's use and enjoyment of the Website. Access to, and use of the data provided within the bsaonline.com Website is conditioned upon acceptance of these Terms of Use.
+
+Prohibition Against the Use of Bots, Scraping, Automated Scripting and any Similar Automated Methods
+BS&A Software expressly prohibits the use of any software, including scripts, bots, automated processes, devices or any processes (including but not limited to crawlers, browser plug-ins and add-ons, or any other technological or manual methods) to scrape data, content, products or services made available by or through bsaonline.com. Use of such tools violates these Terms of Use. Bypassing or circumventing access controls or service use limits is also expressly prohibited.
+
+Warranty of Data Provided.
+BS&A provides no warranty, promise or assurance as to the accuracy of data provided in this service. As a condition of your use of this site, in any fashion, you understand that all data provided is the express property of the County or Municipality that created it. You further acknowledge that BS&A Software did not create, edit, modify or review the information provided; and that BS&A Software is in no way responsible its accuracy or any loss that may subsequently occur after using it.
+
+Links to Third Party Sites
+The bsaonline.com Website may contain links to other Websites ("Linked Sites"). The Linked Sites are not under the control of BS&A Software, and BS&A Software is not responsible for the contents of any Linked Site, including without limitation any link contained in a Linked Site, or any changes or updates to a Linked Site.
+
+Linking to information provided through this service for purposes commercial or otherwise is prohibited without the prior written consent of BS&A Software.
+
+Acknowledgment of Public Data
+Data provided on this site is, by nature, public information that is generally available through other means. This service is intended only to expedite and simplify the distribution of that information. The right to filter or remove data from this site remains exclusively with the public entity that created the data. You agree that all questions or requests to remove information will be directed toward the municipality that owns the data.
+
+Support Services Provided
+You agree that any support services provided by BS&A Software to you are on a best effort basis, and that BS&A Software provides no warranty, promise or other assurance as to the quality or speed of such support. You further agree that under no circumstances will BS&A be liable for any damages, perceived or otherwise incurred from providing support for this service.
+
+Data Collection for Software Improvement
+Purpose of Data Collection
+Our commitment to delivering high-quality, efficient software involves the continuous improvement of our services and features. To achieve this, we collect certain data from our users ("you") that helps us understand how our software is used, identify potential issues, and guide our development team in making enhancements that enhance user experience and software functionality.
+
+Types of Data Collected
+The data collected for the purposes of improving our software may include, but is not limited to:
+
+Usage Data: Information on how the software is accessed and used, such as clickstream data, user interface interaction data, and preferences.
+Technical Data: Details about devices accessing the software, including hardware model, operating system, unique device identifiers, and network information.
+Error Reports and Performance Data: Information on software performance, such as load times, and error reports that help us identify and fix potential issues.
+Methods of Collection
+Data is collected through various means, including:
+
+Automated technologies or interactions: As you interact with our software, we may automatically collect technical data and usage information through cookies, server logs, and other similar technologies.
+User reports and feedback: We may also collect information that you provide directly to us when you report a problem with our software or provide feedback on your experience.
+Use of Collected Data
+The data collected is used exclusively for the purposes of:
+
+Analyzing software usage trends and patterns to improve user interface design and functionality.
+Identifying and resolving technical issues to enhance software performance and reliability.
+Developing new features and services based on user feedback and usage data analysis.
+Sharing and Disclosure
+We do not share, sell, or otherwise disclose the data collected for software improvement purposes to third parties, except as required by law or as part of a business transaction such as a merger or acquisition. Any third-party processors acting on our behalf are subject to data processing agreements that ensure the confidentiality and security of your data.
+
+Data Security
+We implement appropriate technical and organizational measures to ensure the security of your data against unauthorized or unlawful processing, accidental loss, destruction, or damage.
+
+Refund Policy
+Merchant: The merchant for Public Records Search and service fee transactions is BS&A Software LLC. The merchant for municipal payment transactions is the municipality of record for that specific transaction.
+Responsibility for Refunds: Refunds for purchases made through our platform must be issued by the Merchant from whom the purchase was made. Our platform facilitates transactions between customers and Merchants, but the decision and process to approve a refund rest solely with the Merchant.
+Non-Refundable Service Fees: Please note that any payment processing fees, also referred to as service fees, are non-refundable. These fees are incurred as part of the transaction process and are retained regardless of whether a refund is granted by the Merchant.
+Refund Process: In the event that a refund is approved by the Merchant, the refunded amount will be credited back to the original payment method used during the transaction. The timeline for processing refunds may vary depending on the Merchant's policy and the payment processor’s requirements.
+Acceptance of Terms: By using our platform, you acknowledge and agree to this refund policy and understand that service fees are non-refundable under any circumstances.
+Liability Disclaimer
+THE INFORMATION, SOFTWARE, PRODUCTS, AND SERVICES INCLUDED IN OR AVAILABLE THROUGH THE bsaonline.com WEBSITE MAY INCLUDE INACCURACIES OR TYPOGRAPHICAL ERRORS. CHANGES ARE PERIODICALLY ADDED TO THE INFORMATION, SOFTWARE, PRODUCTS AND SERVICES HEREIN. BS&A Software AND/OR ITS SUPPLIERS MAY MAKE IMPROVEMENTS AND/OR CHANGES IN THE bsaonline.com WEBSITE AT ANY TIME. ADVICE RECEIVED VIA THE bsaonline.com WEBSITE SHOULD NOT BE RELIED UPON FOR PERSONAL, MEDICAL, LEGAL, OR FINANCIAL DECISIONS AND YOU SHOULD CONSULT AN APPROPRIATE PROFESSIONAL FOR SPECIFIC ADVICE TAILORED TO YOUR SITUATION.
+
+BS&A Software AND/OR ITS SUPPLIERS MAKE NO REPRESENTATIONS ABOUT THE SUITABILITY, RELIABILITY, AVAILABILITY, TIMELINESS, OR ACCURACY OF THE INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS CONTAINED ON THE bsaonline.com WEBSITE FOR ANY PURPOSE. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ALL SUCH INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS ARE PROVIDED "AS IS" WITHOUT WARRANTY OR CONDITION OF ANY KIND. BS&A Software AND/OR ITS SUPPLIERS HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH REGARD TO THIS INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS, INCLUDING ALL IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL BS&A Software AND/OR ITS SUPPLIERS BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF USE, DATA OR PROFITS, ARISING OUT OF, OR IN ANY WAY CONNECTED WITH THE USE OR PERFORMANCE OF, THE bsaonline.com WEBSITE, WITH THE DELAY OR INABILITY TO USE THE bsaonline.com WEBSITE OR RELATED SERVICES, THE PROVISION OF OR FAILURE TO PROVIDE SERVICES, OR FOR ANY INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS OBTAINED THROUGH THE bsaonline.com WEBSITE, OR OTHERWISE ARISING OUT OF THE USE OF THE bsaonline.com WEBSITE, WHETHER BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE, EVEN IF BS&A Software OR ANY OF ITS SUPPLIERS HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES. BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU. IF YOU ARE DISSATISFIED WITH ANY PORTION OF THE bsaonline.com WEBSITE, OR WITH ANY OF THESE TERMS OF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE bsaonline.com WEBSITE.
+
+SERVICE CONTACT: bsaonlinesupport@bsasoftware.com
+
+Termination/Access Restriction
+BS&A Software reserves the right, in its sole discretion, to terminate your access to the bsaonline.com Website and the related services, or any portion thereof, at any time, without notice. To the maximum extent permitted by law, this agreement is governed by the laws of the State of Michigan, U.S.A. and you hereby consent to the exclusive jurisdiction and venue of courts in Ingham County, Michigan, U.S.A. in all disputes arising out of or relating to the use of the bsaonline.com Website. Use of the bsaonline.com Website is unauthorized in any jurisdiction that does not give effect to all provisions of these terms and conditions, including without limitation this paragraph. You agree that no joint venture, partnership, employment, or agency relationship exists between you and BS&A Software as a result of this agreement or use of the bsaonline.com Website. BS&A Software's performance of this agreement is subject to existing laws and legal process, and nothing contained in this agreement is in derogation of BS&A Software's responsibility or right to comply with governmental, court and law enforcement requests or requirements relating to your use of the bsaonline.com Website, or information provided to, or gathered by BS&A Software with respect to such use. If any part of this agreement is determined to be invalid or unenforceable pursuant to applicable law including, but not limited to, the warranty disclaimers and liability limitations set forth above, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of the agreement shall continue in effect. Unless otherwise specified herein, this agreement constitutes the entire agreement between the user and BS&A Software with respect to the bsaonline.com Website and it supersedes all prior or contemporaneous communications and proposals, whether electronic, oral or written, between the user and BS&A Software with respect to the bsaonline.com Website. A printed version of this agreement and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to this agreement to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form. It is the express wish to the parties that this agreement and all related documents be drawn up in English.
+
+Copyright and Trademark Notices
+All contents of the bsaonline.com Website are: ©2026 BS&A Software, Inc. | All Rights Reserved.

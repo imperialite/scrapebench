@@ -1,0 +1,39 @@
+User-agent: Bingbot
+
+Disallow: /*.html
+Disallow: /en_gb
+Disallow: /en_in
+Disallow: /da_dk
+Disallow: /nl_be
+Disallow: /nl_nl
+Disallow: /en_us
+Disallow: /en_ca
+Disallow: /es_es
+Disallow: /fr_fr
+
+User-agent: *
+
+Disallow: /*login
+Disallow: /*cart
+Disallow: /*account
+Disallow: /*checkout
+Disallow: /*/store-locator/*
+Allow: /ma/store-locator/morocco/
+Allow: /za/store-locator/south-africa/
+Allow: /kh/store-locator/cambodia/
+Allow: /kz/store-locator/kazakhstan/
+Allow: /al/store-locator/albania/
+Allow: /ru_ru/store-locator/russia/
+Allow: /ba/store-locator/bosnia-and-herzegovina/
+Allow: /ge/store-locator/georgia/
+Allow: /is/store-locator/iceland/
+Allow: /xk/store-locator/kosovo/
+Allow: /mk/store-locator/macedonia/
+Allow: /ua/store-locator/ukraine/
+Allow: /bh/store-locator/bahrain/
+Allow: /jo/store-locator/jordan/
+Allow: /om/store-locator/oman/
+Allow: /cr/store-locator/costa-rica/
+Allow: /gt/store-locator/guatemala/
+Allow: /pa/store-locator/panama/
+Allow: /nz/store-locator/new-zealand/

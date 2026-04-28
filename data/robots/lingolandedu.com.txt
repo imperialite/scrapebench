@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /vi/
+
+Sitemap: https://lingolandedu.com/sitemap.xml

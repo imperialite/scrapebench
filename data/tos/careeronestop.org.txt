@@ -1,0 +1,116 @@
+Site Privacy | CareerOneStop
+Skip to main content
+Site Privacy
+Saved
+Site Privacy
+Privacy policy for CareerOneStop websites
+Thank you for visiting the CareerOneStop suite of websites, sponsored by the U.S. Department of Labor Employment and Training Administration.
+Our privacy policy is clear: we collect no personal information about you when you visit any of our websites unless you choose to provide that information to us, nor will we share that information with any other party except as described below.
+Information collected and stored automatically
+While you browse through our website, read pages, or download information, we gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store the following information about visits made to our website:
+The IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which our website is accessed
+The type of browser and operating system used to access our site
+The date and time our site is accessed
+The pages visited
+If a CareerOneStop website is visited from another website, the address of that website
+We aggregate this information and use it to help us make our site more useful to visitors—to learn about the number of visitors to our site, to determine those portions of our site which are of greatest interest to our users, and to learn about the types of technology our visitors use. Individual-level data is never shared with other organizations or entities.
+CareerOneStop uses Google Analytics 4 (GA4) for analyzing site usage in anonymous mode with Google Signals and with Google Ads Personalization disabled.
+Use of cookies
+CareerOneStop websites use cookies to measure website activity. Cookies are small amounts of information stored on your computer by your web browser software. None of the information collected is personally identifiable. CareerOneStop websites use both single-session temporary cookies and multi-session persistent cookies for the purpose of website measurement.
+Single-session cookies are temporarily stored on your computer and are deleted as soon as you close your web browser. Multi-session cookies are used for the purpose of web measurement, and to improve your online experience by remembering your online interactions and preferences across multiple sessions, and to identify if you are a returning user. None of the information stored in either single-session or multi-session cookies used by CareerOneStop contain any personally identifiable information. Information collected for web measurement is stored and maintained indefinitely for the purpose of historical web measurement and tracking.
+If you prefer not to have non-personally identifiable persistent multi-session cookies stored on your computer, you can remove or block the use of multi-session web measurement technologies by changing the settings of your browser as described at
+USA.gov’s web measurement and customization opt-out
+web page.
+Information collected from emails
+All email information provided to CareerOneStop (as a part of a mailing list or as feedback to our Service Center) is only used for the provided purpose. We do not share your email information with any other organizations, unless we are required to as part of a law enforcement investigation.
+Information collected during website use
+Any information shared by CareerOneStop users (such as location data, career preferences, or selecting to use your device location information) is stored to provide targeted resources. Sharing information while on CareerOneStop websites is always voluntary and never required of users. Individual-level data is never shared with other organizations or entities.
+Security, intrusion, and detection issues
+For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs that monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
+Links to other sites
+CareerOneStop websites have links to other government agencies and private organizations. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
+Disclaimer
+The CareerOneStop suite of websites were created to support public access to career, education, and employment information. The occupational information, specifically, was created and is maintained by other public and private organizations and is the responsibility of these organizations. The accuracy of the information for individual occupations can vary because of the many factors that affect the economy over time. While occupational projections and related job outlook information can provide valuable inputs to the career decision-making process, they should not be the sole basis of a career choice.
+Further, the inclusion of links to particular items or sites is not intended to reflect their importance, nor is it intended to endorse any views expressed or products or services offered by the author of the reference or the organization operating the server on which the reference is maintained.
+Privacy policy for CareerOneStop accounts
+The privacy policy for CareerOneStop accounts is the same as above, expect in these specific cases:
+Emails
+When creating a user account on CareerOneStop, you must provide a valid email address and password. This information is stored on secure servers and is used by Microsoft Azure AD B2C to authenticate users who login to their account. Email addresses and passwords are not made available to any other third parties. The email address is used to contact a user who has forgotten a password.
+Occasionally, we use the email addresses we are provided to seek comments from individuals on services offered. These comments allow us to determine how to improve our services and improve our relationship with those who use our services. You may decide to send us personally identifying information, for example your mailing address or telephone number, in an electronic mail message requesting information. Information collected in this manner is used solely for responding to requests for information. We may forward your email to other representatives of the Department of Labor or its contractors who are better able to respond to you.
+Our commitment to data security
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and management procedures to safeguard and secure the information we collect online.
+All user information in user accounts is maintained on a secure server. The information can only be accessed through an administrator login. User information is not shared with any third parties. We are committed to protecting users' privacy and ensuring that personal information is handled in a safe and responsible manner.
+Microsoft Geocoding Terms of Use in APIs
+CareerOneStop geocoding is provided through a license agreement with Microsoft. You may use the geocodes locally in your applications. But geocodes cannot be stored, copied or shared. Your use of the data is subject to the
+Microsoft Bing Maps Terms of Use
+.
+Microsoft Azure AD B2C
+CareerOneStop user account information is stored on secure servers in the Microsoft Azure cloud and uses Microsoft Azure AD B2C to authenticate users who login to their account. Your use of user accounts is subject to the Microsoft Azure Terms of Use.
+Read more about Microsoft security and privacy information
+.
+How to contact us
+Questions or comments about these privacy policies? Please email us at
+info@careeronestop.org
+.
+Find Local Help
+Employment or training help:
+1-877-US2-JOBS
+(1-877-872-5627)
+TTY:1-877-889-5627
+CareerOneStop help:
+info@CareerOneStop.org
+Explore & Find
+Explore Careers
+Find Training
+Job Search
+Find Local Help
+Toolkit
+Resources For ...
+Video Library
+How-to Guides
+Our Sites
+CareerOneStop
+Business Center
+Competency Model Clearinghouse
+GetMyFuture
+Justice-Impacted
+mySkills myFuture
+Veterans
+Help
+FAQs
+Data Sources
+Cite this Website
+Need to Register?
+For Developers
+Link to Us
+Data Downloads
+Web API
+Widgets and Logos
+News Center
+CareerOneStop News
+Outreach Materials
+User Accounts
+About User Accounts
+Login
+Connect
+For information about jobs, training, career resources, or unemployment benefits call:
+1-877-US2-JOBS
+						(1-877-872-5627)
+						or TTY
+						1-877-889-5627
+For help using the CareerOneStop website:
+info@careeronestop.org
+CareerOneStop is sponsored by the U.S. Department of Labor, Employment and Training Administration
+A proud partner of the
+network.
+About Us
+Site Map
+Contact Us
+Site Privacy
+Accessibility
+Partner Sites
+Copyright © 2026 State of Minnesota
+/JS/5e7d01b1.js?v=02252026
+6LdDIyAcAAAAAC94osFjA_jAWGJ-Wdhvy8ndlDMb
+gDb72VFatslEx+/v/7kVqB2/m8Me9D2K7AEfyMtCpg4=

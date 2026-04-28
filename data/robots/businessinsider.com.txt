@@ -1,0 +1,53 @@
+User-agent: *
+Disallow: /*?utm_campaign=Monitor&
+Disallow: /adframe
+Disallow: /afp$
+Disallow: /ajax/
+Disallow: /answers$
+Disallow: /archives
+Disallow: /associated-press$
+Disallow: /authentication$
+Disallow: /author/*/date
+Disallow: /author/*/mostread
+Disallow: /categories
+Disallow: /cms/
+Disallow: /comments$
+Disallow: /cross-domain$
+Disallow: /document/
+Disallow: /insider$
+Disallow: /partner/
+Disallow: /reuters$
+Disallow: /reviews/out?
+Disallow: /s?
+Disallow: /guides/s?
+Disallow: /personal-finance/s?
+Disallow: /track.gif
+Disallow: /uk$
+Disallow: /ws/
+Disallow: /business-insider$
+Disallow: /*/contributor
+Disallow: /bi$
+Disallow: /news-insider$
+Disallow: /*/rss
+Disallow: /*.rss
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+Sitemap: https://www.businessinsider.com/sitemap/latest.xml
+Sitemap: https://www.businessinsider.com/sitemap/google-news.xml
+Sitemap: https://www.businessinsider.com/sitemap/index.xml
+
+Sitemap: https://www.businessinsider.com/guides/sitemap/latest.xml
+Sitemap: https://www.businessinsider.com/guides/sitemap/google-news.xml
+Sitemap: https://www.businessinsider.com/guides/sitemap/index.xml
+
+
+Sitemap: https://www.businessinsider.com/sitemap/landing-pages.xml
+Sitemap: https://feeds.businessinsider.com/custom/tech-sj-sitemap

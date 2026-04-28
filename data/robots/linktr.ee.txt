@@ -1,0 +1,178 @@
+User-agent: Applebot
+Disallow: /admin
+
+User-agent: baiduspider
+Disallow: /admin
+
+User-agent: Bingbot
+Disallow: /admin
+
+User-agent: Discordbot
+Disallow: /admin
+
+User-agent: facebookexternalhit
+Disallow: /admin
+
+User-agent: Googlebot
+Disallow: /admin
+
+User-agent: Googlebot-Image
+Disallow: /admin
+
+User-agent: Google-InspectionTool
+Disallow: /admin
+
+User-agent: ia_archiver
+Disallow: /admin
+
+User-agent: LinkedInBot
+Disallow: /admin
+
+User-agent: msnbot
+Disallow: /admin
+
+User-agent: Naverbot
+Disallow: /admin
+
+User-agent: Pinterestbot
+Disallow: /admin
+
+User-agent: Screaming Frog SEO Spider
+Disallow: /admin
+
+User-agent: seznambot
+Disallow: /admin
+
+User-agent: Slurp
+Disallow: /admin
+
+User-agent: teoma
+Disallow: /admin
+
+User-agent: TelegramBot
+Disallow: /admin
+
+User-agent: Twitterbot
+Disallow: /admin
+
+User-agent: Yandex
+Disallow: /admin
+
+User-agent: Yeti
+Disallow: /admin
+
+User-agent: SnapchatAdsBot
+Disallow: /admin
+
+User-agent: SemrushBot
+Disallow: /admin
+
+# OpenAI
+User-agent: OAI-SearchBot
+Disallow: /admin
+
+User-agent: ChatGPT-User
+Disallow: /admin
+
+User-agent: ChatGPT-User/2.0
+Disallow: /admin
+
+User-agent: ChatGPT Agent
+Disallow: /admin
+
+User-agent: OpenAI
+Disallow: /admin
+
+User-agent: GPTBot
+Disallow: /
+
+# Anthropic
+User-agent: Claude-SearchBot
+Disallow: /admin
+
+User-agent: Claude-User
+Disallow: /admin
+
+User-agent: Claude-Web
+Disallow: /admin
+
+# Perplexity
+User-agent: Perplexity-User
+Disallow: /admin
+
+# Mistral
+User-agent: MistralAI-User
+Disallow: /admin
+
+User-agent: MistralAI-User/1.0
+Disallow: /admin
+
+# Meta
+User-agent: Meta-ExternalFetcher
+Disallow: /admin
+
+# Google
+User-agent: Google
+Disallow: /admin
+
+User-agent: Google-NotebookLM
+Disallow: /admin
+
+User-agent: NotebookLM
+Disallow: /admin
+
+User-agent: Gemini-Deep-Research
+Disallow: /admin
+
+User-agent: GoogleAgent-Mariner
+Disallow: /admin
+
+User-agent: Google-CloudVertexBot
+Disallow: /admin
+
+# Amazon
+User-agent: Amazonbot
+Disallow: /admin
+
+User-agent: amazon-kendra
+Disallow: /admin
+
+User-agent: AmazonBuyForMe
+Disallow: /admin
+
+User-agent: NovaAct
+Disallow: /admin
+
+# Misc AI Bots
+User-agent: atlassian-bot
+Disallow: /admin
+
+User-agent: Cloudflare-AutoRAG
+Disallow: /admin
+
+User-agent: KlaviyoAIBot
+Disallow: /admin
+
+User-agent: ShapBot
+Disallow: /admin
+
+User-agent: Bravebot
+Disallow: /admin
+
+User-agent: DuckAssistBot
+Disallow: /admin
+
+User-agent: Devin
+Disallow: /admin
+
+# Fallback, disallow scraping
+User-agent: *
+Disallow: /
+
+Sitemap: https://linktr.ee/discover/profile-directory/sitemapindex.xml
+Sitemap: https://linktr.ee/s/sitemap-0.xml
+Sitemap: https://linktr.ee/marketplace/sitemap.xml
+Sitemap: https://linktr.ee/recent.sitemapindex.profiles.b95c13c7ed9f220b7aa7.xml
+Sitemap: https://linktr.ee/share-link-preview-v2.sitemapindex.profiles.b95c13c7ed9f220b7aa7.xml
+Sitemap: https://linktr.ee/high_value.sitemapindex.profiles.b95c13c7ed9f220b7aa7.xml
+Sitemap: https://linktr.ee/s/wf/sitemap.xml

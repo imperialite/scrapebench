@@ -1,0 +1,163 @@
+Tabelog Terms of Use
+Kakaku.com, Inc. ("Kakaku.com" or the "Company") hereby establishes the following terms and conditions for the use of the "Tabelog" service ("Tabelog") provided by the Company (the "Terms and Conditions"). (hereinafter referred to as the "Company") hereby establishes the following terms of use (hereinafter referred to as the "Terms of Use") for the use of the "Tabelog" service provided by the Company. The Terms and Conditions of Use Users of Tabelog (hereinafter referred to as "Customers") The user of Tabelog (hereinafter referred to as "Customer") shall use Tabelog upon agreeing to the Terms of Use in advance.
+
+The contents of this Agreement are subject to change in accordance with Article 11, so please refer to the latest version of this Agreement when using Tabelog.
+
+1. Purpose of Tabelog
+Tabelog is a website that publishes comments, images, and other information posted by customers about restaurants (hereinafter, information posted by customers to Tabelog is collectively referred to as "reviews"). The main purpose of Tabelog is to provide a reference for other Tabelog visitors when selecting a restaurant.
+
+2. Membership registration procedures
+You may register as a Tabelog member (hereinafter referred to as "Tabelog member") in accordance with the procedures specified by the Company. The Company will not be liable for any service provided by a customer who is not a EatLog member or who has not completed the membership registration procedures prescribed by the Company. We may offer different services on Tabelog to customers who are not Tabelog members or who have not completed the membership registration process. The content of the services provided may be determined at the discretion of the Company, or may be changed at any time.
+
+3. Security
+Tabelog member registration uses SSL (Secure Socket Layer), the most reliable encryption technology currently available on the Internet, to encrypt transmitted information so that it cannot be viewed by third parties. In addition, we have installed anti-virus software to protect against computer viruses.
+
+4. Registration and management of login accounts, etc.
+The customer shall be responsible for the registration and management of the login account and password (hereinafter referred to as "login account, etc."). The customer shall be responsible for the registration and management of the login account and password (hereinafter referred to as "login account, etc."). The Company shall not be liable for any damage caused by the customer's poor management, error in use, or use by a third party. In addition, the customer shall not be liable for the use of the services (including services operated by other than our company, and the same shall apply hereafter) related to the login account, etc. The customer shall use the service (including the service operated by other than our company, and the same shall apply hereafter) for the login account, etc. at his/her own responsibility, and shall follow the provisions of each agreement that the operator of the service concerned prescribes for the use of the service concerned. In no event shall the Company be liable for any damage (including but not limited to damages caused by inadequate management by the customer, error in use, use by a third party, etc.) and/or any trouble between the customer and the operator of the service in question, arising from use of the services related to the login account, etc., if the Company's negligence (excluding gross negligence) results in default of its obligations. In the event that the Company is found liable for default of obligation or tort liability due to its negligence (excluding gross negligence), the Company shall be liable for damages only to the extent of damages that would ordinarily arise (excluding lost profits and other damages arising from special circumstances). However, this shall not apply if such damage or trouble is caused by our company's willful misconduct or gross negligence.
+
+5. Privacy
+(1) Handling of personal information
+[1] Businesses handling personal information
+Please refer to our Privacy Policy for the name of the business, the title of the person in charge of personal information protection management, etc., and contact information.
+
+[2] Purpose of use
+In order to provide Tabelog to our customers, we obtain a certain amount of personal information from our customers.
+
+a. To confirm your identity when you log in
+b. To inform you of the products and services of the Company or its group companies by mail, telephone, e-mail, or other means.
+c. To promote the use of the Company's services by creating statistical data in a format that does not allow individuals to be identified.
+d.To contact customers as necessary in relation to Tabelog
+e.To confirm the identity of customers when using functions linked to external services.
+[3] Provided by a third party
+We will not disclose or provide customers' personal information to third parties except in the following cases
+
+a. When we have the customer's consent
+b. When disclosed or provided as statistical data in a form that does not allow identification of the customer
+c. When required by law
+d. When it is necessary for the protection of the life, body, or property of an individual and it is difficult to obtain the consent of the customer.
+e.When it is especially necessary to improve public health or to promote the sound growth of children, and when it is difficult to obtain the consent of the customer
+f. When it is necessary to cooperate with a national agency, a local government, or an individual or entity entrusted by either a national agency or local government to execute affairs prescribed by law, and obtaining the customer's consent may impede the execution of such affairs.
+[4] Outsourcing
+We may outsource all or part of the handling of acquired personal information to third parties within the scope necessary for the purposes of use described above, after taking the necessary protective measures.
+
+[5] Disclosure, correction/deletion, suspension of use, etc.
+If you wish to request notification of the purpose of use, disclosure, correction, addition, deletion, suspension of use, or elimination of your personal information, we will accept your request in the manner set forth in Handling of Personal Information.
+
+[6] Other
+Please note that if you do not fill in all the fields, you may not be able to use all or part of Tabelog.
+
+(2) Informative data
+In order to provide better service to our customers who use Tabelog, we may collect and use information about our customers such as cookies, web beacons, device identifiers, and location information
+(hereinafter collectively referred to as "informative data"). For more information on informative data, please refer to the following pages.
+For details of Informative Data, please refer to Handling of Personal Information.
+Please refer to External Transmission (Opt-out) for information on how to disable (opt-out) cookies, etc. issued by each service provider.
+
+[1] Status of Service Usage
+We may obtain the screens you access while using the Tabelog application, interaction patterns (screen actions, gestures: tapping, scrolling, etc.), and device details (type, version, model, operating system). This information is obtained in a form that does not personally identify you and is used solely to understand how you access our services, to provide you with services that better meet your needs, and to improve our services, and is not used for any other purpose. To learn more, please review the privacy policies of the companies listed below.
+
+UX Cam
+[2] Use of Other Companies' Services
+Tabelog uses an external service provided by Google, LLC. Your usage information (excluding personal information) regarding Tabelog may be used by us and Google, LLC to improve the quality and convenience of the service, such as usability and security. You agree to this before using Tabelog.
+
+Please review Google's Use of Your Data When You Use Google Partner Sites and Apps for more information.
+
+6. Use of Tabelog
+(1) Prohibition of diversion or resale of Tabelog
+[1] You may not use or access Tabelog provided by the Company, in whole or in part, for the purpose of business activities or other profit-oriented activities, or for any similar activities or preparatory activities for such activities. You may not use or access the site for any other purposes such as religious or political activities.
+[2] Unauthorized reproduction or use of reviews posted on Tabelog is prohibited.
+[3] If you profit from the use of a review posted on Tabelog, we reserve the right to demand payment of money equivalent to the amount of profit, except in cases specifically permitted by this agreement, such as use of the review by the person who posted the review.
+(2) Change or stop Tabelog
+We reserve the right to change the meals provided to our customers at any time. We reserve the right to suspend the food due to disasters, accidents or other emergencies. In the event that the Company is held liable in default of duty or tort for damages incurred by the customer or a third party due to the Company's negligence (excluding gross negligence) in altering or stopping the food log without the prior consent of the customer, the Company shall be liable for damages within the scope of damages normally incurred (excluding lost profits and other damages resulting from special circumstances). In such cases, SBM shall be liable for damages only to the extent of the damages that would ordinarily arise (excluding lost profits and other damages arising from special circumstances). However, this shall not apply if such damages are caused by our willful misconduct or gross negligence.
+
+(3) Facilities required to use Tabelog
+In order to use Tabelog, you need to access the web. You must prepare and operate the necessary equipment and software to access the web at your own responsibility and expense.
+
+(4) Posting of word-of-mouth and copyrights, etc.
+[1] You must be registered as a Tabelog member to post a review on Tabelog.
+[2] When posting a review on "Shokubelog", you are also required to comply with the guidelines that we have established separately. This guideline shall constitute a part of the Terms and Conditions and shall be considered as part of the Terms and Conditions including this guideline.
+[3] When a Tabelog member submits a review to Tabelog, the member is granted the right to reproduce, publicly transmit, distribute, translate, and adapt the said review in Japan and abroad, as well as other rights under the Copyright Act (including the right to sublicense from the Company to a third party), for the duration of the copyright. (4) Tabelog members agree that they may use the information provided by Tabelog members without compensation until the expiration date of the term of the copyrights.
+[4] Tabelog members must guarantee that they have all the rights under the copyright law, including the right to reproduce, publicly transmit, distribute, translate, and adapt reviews posted by Tabelog members themselves. In addition, if you use a third party's copyrighted work, please be careful when posting, as it is the responsibility of the Tabelog member to ensure that the rights necessary for the permission described in (3) above have been taken care of.
+[5] We or a third party who has received a sublicense from us may use Tabelog members' reviews on our site or in providing content to our partner sites. In such cases, we may summarize or excerpt a portion of the Tabelog member's review, or alter the size or crop a portion of the submitted photo (image). In addition, when using a Tabelog member's review, we may display the handle under which the Tabelog member posted the review. However, in the unlikely event that the alteration infringes on the honor or reputation of a Tabelog member, please contact us.
+[6] When our company or a third party who has received a sublicense from our company uses a Tabelog member's review, there are no geographical restrictions, copyright notice obligations, or other incidental conditions, and the term of the license granted by the Tabelog member is as long as the Tabelog member's copyright continues to exist. No royalties or other compensation will be paid.
+[7] If we or a third party is found liable for damages incurred by a Verlog member or a third party due to negligence (excluding gross negligence) of our company in default of duty or in tort for the use of a Verlog member's air tape, we will pay for damages to the extent that they would normally arise (excluding lost profits and damages arising from special circumstances). In such cases, we shall be liable for damages only to the extent that such damages are caused by our willful misconduct or negligence (excluding gross negligence). However, this shall not apply if such damages are caused by our company's willful misconduct or gross negligence.
+(5) Use of Tabelog (including word-of-mouth posting) (5) Linkage with external services when using TAEBUROG (including word-of-mouth posting)
+[1] Use of Tabelog (including posting reviews) (2) Tabelog members may be able to post reviews created by Tabelog members to external services on behalf of Tabelog members, and (3) Tabelog members may not be able to post reviews to external services on behalf of Tabelog members. (4) The member agrees in advance that the Company may acquire the postings registered by the member with an external service operator and display them on the Company's respective services. Tabelog members may be asked for permission to access the Company's data when logging in to use the linking function, and may use the linking function only after confirming and granting permission.
+[2] All use of external services including registration and use of user IDs for external services (including posting of reviews created by Tabelog members to external services). Tabelog members shall follow the terms and conditions stipulated by the operator of the external service.
+[3] When using an external service, you are responsible for your own use of that service. In the event that we are found to be liable in tort or default for any damages incurred by Tabelog members due to the use of such services, problems with the operator or users of such services, or any other matters related to such services, we will not be liable in tort or default due to our negligence (except for gross negligence), In the event that the Company is found to be liable in tort or default due to its negligence (excluding gross negligence), the Company shall be liable for damages only to the extent of the damages that would normally arise (excluding lost profits and other damages arising from special circumstances). However, this shall not apply if the damage or trouble was caused by our company's willful misconduct or gross negligence.
+[4] If a Tabelog member requests the deletion of personal data provided by the Instagram Basic Display API, we will promptly take action in accordance with the terms and conditions.
+7. Disclaimer
+Use of Tabelog is at your own risk. You agree in advance to the following
+
+(1) Restaurant Information
+We do not guarantee any information about the listed restaurants. We recommend that you call the restaurant directly to confirm the address, hours of operation and holidays before making a reservation or visiting the restaurant. In the event that we are found liable in tort or negligence (excluding gross negligence) for any damages incurred by you or any other guest arising from the information contained in this website, we will be liable only to the extent of the damages that would otherwise be incurred (excluding lost profits and other damages resulting from extraordinary circumstances). In such cases, we shall be liable for damages only to the extent of the damages that would ordinarily arise (excluding lost profits and other damages caused by special circumstances). However, this shall not apply if such damage or trouble is caused by our company's willful misconduct or gross negligence.
+Please contact us if any of the restaurant information is incorrect.
+
+(2) Word of mouth
+We do not guarantee any of the contents of the posted air air fresheners. Please use at your own discretion. In the event that any damages (including computer virus infection caused by various contents created by customers) or problems between customers caused by the airplay or broadcast are caused by our negligence (excluding gross negligence), we will not be held liable for any default of obligation or tort liability. In the event that we are found to be liable in tort or negligence, we shall be liable only to the extent of the damages that would ordinarily arise (excluding lost profits and other damages caused by special circumstances). However, this shall not apply if such damage or trouble is caused by our company's willful misconduct or gross negligence.
+
+(3) Linked sites
+We make no warranty of any kind regarding third party sites linked to our food logs. Use at your own discretion. In the event that we are found to be liable in tort or negligence (excluding gross negligence) for damages arising from links to other sites, we will be liable for damages only to the extent of the damages that would otherwise arise (excluding lost profits and other damages caused by extraordinary circumstances). However, in the event that the Company is found to be liable in tort for such damage or trouble, the Company shall be liable for damages only to the extent of the damages that would ordinarily arise. However, this shall not apply if such damage or trouble is caused by our company's willful misconduct or gross negligence.
+
+(4) Deletion of word-of-mouth
+Tabelog is a community based on the self-responsibility of customers to post reviews. In order to ensure that all customers can use the site comfortably, Tabelog reserves the right to remove reviews without prior notice if any of the following or similar reviews are found.
+We will determine whether or not a review is eligible for deletion.
+We will not take any action to remove reviews posted on external services linked in accordance with section 6 (5), as they are displayed on services/websites operated by third parties.
+
+[1] Those that violate the guidelines.
+[2] Offensive to public order and morals.
+[3] Items that are unrelated to the purpose of Tabelog or the restaurant that is the subject of the review (excluding diaries).
+[4] Matters that contain harmful programs, scripts, etc.
+[5] Contents that are intended for profit, personal sales or transfers, or advertising.
+[6] Other contents that we deem inappropriate, such as those that interfere with the management and operation of Tabelog.
+(5) Map information
+We do not guarantee the accuracy of the map information for restaurant locations. The map information is provided by Google Inc. and is subject to the Terms of Use and Privacy Policy of Google Inc.
+
+(6) AI chat
+[1] We do not guarantee the completeness, accuracy, currency, usefulness, etc. of the information output when using Tabelog through AI Chat.
+[2] We reserve the right to terminate the function of AI chat on Tabelog without prior notice at our discretion.
+[3] In the event that we are found liable for default of obligation or tort liability due to our negligence (excluding gross negligence) regarding AI Chat on Tabelog, we shall be liable for damages only to the extent of damages that would normally arise (excluding lost profits and other damages arising from special circumstances). However, this shall not apply if such damage or trouble is caused by our company's willful misconduct or gross negligence.
+(7) When the Consumer Contract Act does not apply
+Notwithstanding the preceding items and any other provisions of this Agreement, if the contract between you and the Company regarding Tabelog does not constitute a consumer contract as defined in the Consumer Contract Act, the Company shall not be liable for any and all damages incurred by you or any third party in connection with Tabelog, except those caused by the intentional act or gross negligence of the Company In such cases, the Company shall not be liable for any loss or damage incurred by you or any third party in connection with the EATLOG. In such cases, if the Company is found liable for default or tort liability due to gross negligence, the Company shall be liable for damages only to the extent of damages that would ordinarily arise (excluding lost profits and other damages caused by special circumstances).
+
+8. Copyrights, property rights and other rights
+(1) All copyrights, trademarks, images, advertisements, designs, and other intellectual property rights, and other property rights related to the content and individual information, trademarks, images, advertisements, and designs contained in Tabelog are the property of the Company or the rightful owner.
+(2) Tabelog and all software used in connection therewith contain property rights protected by intellectual property laws and regulations.
+(3) You may not reproduce, edit, modify, publish, reprint, publicly transmit, distribute, publicly display or otherwise use Tabelog or the contents of Tabelog, unless you have been authorized to do so by us or a third party that has copyright or other intellectual property rights or other property rights, or unless you are permitted by law to use or exploit Tabelog without authorization from the right holder.
+(4) The Company shall not be liable for any loss or damage incurred by you as a result of your violation of any of the preceding items, and the Company shall have the right to claim an amount equivalent to such profit in the event that you profit from such acts.
+9. Prohibited acts
+(1) The following acts are prohibited in connection with the use of Tabelog.
+
+[1] Reproducing, duplicating, sending, transferring, distributing, distributing, reselling, or storing for the purpose of using the information provided by Tabelog without our prior consent, except as specifically permitted by law, these Terms of Use or the Guidelines.
+[2] Violating these Terms of Use or Guidelines.
+[3] Offending public order and morals.
+[4] To be associated with or to encourage illegal, criminal, or seriously dangerous acts.
+[5] Infringe on the intellectual property rights [including but not limited to copyrights, design rights, utility model rights, trademark rights, patent rights, and know-how] of the Company, other customers, or third parties.
+[6] Illegally infringing or threatening to infringe on the rights or interests of other customers or third parties.
+[7] Interfere with the operation of Tabelog, or damage the Company's reputation.
+[8] Making a false declaration when registering as a Tabelog member.
+[9] Multiple Tabelog member registrations by the same person.
+[10] Unauthorized use of IDs and passwords, or allowing other customers or third parties to use them.
+[11] Using Tabelog's functions for the purpose of meeting someone of the opposite sex whom you do not know.
+[12] To input personal information, confidential information for which the customer is obliged to maintain confidentiality, information that is extremely contrary to the purpose of using AI chat to improve the convenience of the customer's search for restaurants, or inappropriate information such as slanderous, defamatory, or discriminatory expressions.
+[13] Other activities that the Company deems inappropriate.
+(2) If a customer performs an act that falls under each item of the preceding paragraph or an act that our company judges to be inappropriate in light of the purpose and goal of the testimonials, our company may take measures that our company judges to be appropriate such as suspending the use of the testimonials (hereinafter called "use suspension measures"). In addition, we will not be able to answer to the customer about the reason why we have taken such measures. In addition, if the Company is found to be liable for default of obligation or tort liability due to its negligence (excluding gross negligence), the Company shall be liable for damages only within the scope of damages that would normally arise (excluding lost profits and other damages caused by special circumstances). However, this shall not apply if such damages are caused by our company's willful misconduct or gross negligence.
+10. Withdrawal procedure
+(1) If a Tabelog member wishes to cancel his/her membership, he/she shall follow the prescribed cancellation procedure.
+(2) If a Tabelog member cancels his/her membership, he/she will lose all rights and privileges related to his/her Tabelog account.
+(3) Tabelog members agree that their reviews will not be deleted even if they cancel their membership.
+(4) Even if a Tabelog member completes the withdrawal procedure or the agreement between the company and the Tabelog member is terminated, the Tabelog member shall not be liable for any loss or damage arising from the termination of the agreement, except for the following: 4. Copyrights, property rights and other rights; 9. Prohibited acts; 12. Governing law and jurisdiction shall remain in effect.
+11. Modification of these Terms and Conditions
+(1) The Company may modify the Terms and Conditions, and the modified Terms and Conditions shall become effective on the effective date determined at the discretion of the Company.
+(2) In the case of the preceding paragraph, the Company shall notify the customer of the contents of the amendment and the effective date of the amendment at least one month prior to the effective date. However, the Company may shorten such period if the Company deems that the disadvantage to the customer caused by such change is minor.
+(3) The provisions of the preceding paragraph shall not apply in cases where the modification of these Terms and Conditions is in the general interest of the customer.
+12. Governing Law and Jurisdiction
+These Terms and Conditions shall be governed by and construed in accordance with the laws of Japan, and in the event that a lawsuit becomes necessary in connection with these Terms and Conditions, the Tokyo District Court shall have exclusive jurisdiction as the court of first instance.
+
+13. Contact us
+If you have any questions, please contact us using the form below.
+
+≫Inquiry Form
+
+These terms and conditions are machine translated. Please note that machine translation is not always 100% accurate, so the content may vary from the original Japanese text.
+
+Final revision: January 29, 2024

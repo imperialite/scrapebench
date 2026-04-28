@@ -1,0 +1,159 @@
+#
+# Welcome to NVIDIA 
+#
+#@@@@@@@@@@@@@@@@@@@@@@@@@@@///////////////////////////////////@@@@@@@@@@@@@@@@@@
+#@@@@@@@@@@@@@@@@@@@@@@@@@@@///////////////////////////////////@@@@@@@@@@@@@@@@@@
+#@@@@@@@@@@@@@@@@@@@@@@@@@@%#@#////////////////////////////////@@@@@@@@@@@@@@@@@@
+#@@@@@@@@@@@@@@@@@//////////@@@@@@@@@@@@///////////////////////@@@@@@@@@@@@@@@@@@
+#@@@@@@@@@@@@@//////@@@@@@@@/////////@@@@@@@///////////////////@@@@@@@@@@@@@@@@@@
+#@@@@@@@@@//////@@@@@@//////@@@@@@@//////@@@@@@////////////////@@@@@@@@@@@@@@@@@@
+#@@@@@@//////@@@@@//////@@@@///@@@@@@@/////&@@@@@//////////////@@@@@@@@@@@@@@@@@@
+#@@@@@@//////@@@@////@@@@@@@/////@@@@/////@@@@@@///////////////@@@@@@@@@@@@@@@@@@
+#@@@@@@@@/////@@@@/////@@@@@////////////@@@@@///////@//////////@@@@@@@@@@@@@@@@@@
+#@@@@@@@@@//////@@@@/////@@@/////////@@@@@///////@@@@@@@@//////@@@@@@@@@@@@@@@@@@
+#@@@@@@@@@@@//////@@@@@/////@@@@@@@@@@////////@@@@@@@@@@@//////@@@@@@@@@@@@@@@@@@
+#@@@@@@@@@@@@@@//////@@@@@@@/////////////@@@@@@@@@@@///////////@@@@@@@@@@@@@@@@@@
+#@@@@@@@@@@@@@@@@@/////////%/////@@@@@@@@@@@@@/////////////////@@@@@@@@@@@@@@@@@@
+#@@@@@@@@@@@@@@@@@@@@@@@&///@@@@@@@@///////////////////////////@@@@@@@@@@@@@@@@@@
+#@@@@@@@@@@@@@@@@@@@@@@@@@@@///////////////////////////////////@@@@@@@@@@@@@@@@@@
+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#
+# We dig it when people read our code! Check out the jobs while you're here.
+# https://www.nvidia.com/en-us/about-nvidia/careers/
+#
+# Or check out our YouTube channel for our latest
+# https://www.youtube.com/user/nvidia
+#
+# Last updated 19 Nov 2025 by LC
+
+sitemap: https://www.nvidia.com/sitemap_index.xml
+
+# AI Agents
+User-agent: ai2bot
+User-agent: anthropic-ai
+User-agent: Amazonbot
+User-agent: Amazon-kendra
+User-agent: Applebot-extended
+User-agent: AutoGPT
+User-agent: BedrockBot
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: Chatglm-spider
+User-agent: ChatGPT
+User-agent: ChatGPT-User
+User-agent: Claudebot
+User-agent: Claude-user
+User-agent: Claude-search
+User-agent: Claude-web
+User-agent: Cohere-ai
+User-agent: Cotoyogi
+User-agent: Deepseek
+User-agent: Deepseek Chat
+User-agent: Deepseekbot
+User-agent: DuckAssistBot
+User-agent: DuckDuckBot
+User-agent: FacebookBot
+User-agent: Geminiios
+User-agent: Google-Extended
+User-agent: Googleagent-manier
+User-agent: GPTBot
+User-agent: Grok
+User-agent: ia-archiver
+User-agent: iaskbot
+User-agent: iaskspider
+User-agent: ICC-crawler
+User-agent: Linerbot
+User-agent: Metaaib
+User-agent: Meta-externalagent
+User-agent: Meta-externalfetcher
+User-agent: Meta-llama
+User-agent: Mistralai-user
+User-agent: NovaAct
+User-agent: OAI-Searchbot
+User-agent: Pangubot
+User-agent: Perplexity
+User-agent: PerplexityBot
+User-agent: Perplexity-user
+User-agent: Phindbot
+User-agent: PoeBot
+User-agent: Qwen
+User-agent: Sogou
+User-agent: Timpibot
+User-agent: Tongyi
+User-agent: Wenxiaobai
+User-agent: Xinghuo
+User-agent: Youbot
+User-agent: Yuanbaobot
+Allow: /*.llms.txt$
+Allow: /*.md$
+Allow: https://www.nvidia.com/llms.txt
+
+User-agent: Googlebot
+User-agent: Googlebot Smartphone
+User-agent: Google AdsBot
+User-agent: Bingbot
+Disallow: /*.md$
+Disallow:/*.llms.txt$
+
+User-agent: *
+
+# Gated Content
+Disallow: /content/g/*
+Disallow: /content/gated-pdfs/*
+Disallow: /content/*/gated-resources/*
+Disallow: /content/*/gated-pdfs/*
+Disallow: /gated-resources/*
+
+# GF Forums
+Disallow: /*?topicPage=
+Disallow: /*&topicPage=
+Disallow: /*?commentPage=
+Disallow: /*&commentPage=
+
+Disallow: /admin/
+Disallow: /attach/
+Disallow: /content/experience-fragments/*
+Disallow: /content/forms/
+Disallow: /content/license/driver_license.aspx
+Disallow: /content/nvidiaGDC.*\.(?!png|jpg|svg).+$
+Disallow: /content/temp/*
+Disallow: /ddl2*
+Disallow: /email-verify/*
+Disallow: /forms/*
+Disallow: /*/geforce/release-notes/GFE/Rich/*
+Disallow: /*/geforce/release-notes/GFN/Rich/*
+Disallow: /*/geforce/release-notes/GFNB/Rich/*
+Disallow: /*/geforce/comparisons/*
+Disallow: /*/geforce/billboards/*
+Disallow: /*/geforce/news/gfecnt/*
+Disallow: /processFind*
+Disallow: /props/
+Disallow: /*.swf$
+
+# Parameters
+
+Disallow: /*[?&]accessToken=*
+Disallow: /*[?&]cid=*
+Disallow: /*[?&]eid=*
+Disallow: /*[?&]hstc=*
+Disallow: /*[?&]jso=*
+Disallow: /*[?&]link=*
+Disallow: /*[?&]lx=*
+Disallow: /*[?&]ncid=*
+Disallow: /*[?&]nv_excludes=*
+Disallow: /*[?&]nvid=*
+Disallow: /*[?&]page=*
+Disallow: /*[?&]ref=*
+Disallow: /*[?&]srsltid=*
+Disallow: /*[?&]section=*
+Disallow: /*[?&]target=*
+Disallow: /*[?&]topicpage=*
+Disallow: /*[?&]utm*
+
+# GTC Fixes
+
+Disallow: /*[?&]regcode=*
+Disallow: /*[?&]wcmmode=*
+Disallow: /*/gtc/gtc-chatbot/*

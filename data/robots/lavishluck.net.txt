@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://lavishluck.net
+
+# Sitemaps
+Sitemap: https://lavishluck.net/sitemap.xml

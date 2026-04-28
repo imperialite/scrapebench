@@ -1,0 +1,9 @@
+Sitemap: https://www.sortiraparis.com/sitemap-index.xml
+User-agent: *
+Disallow: /ajax/
+Disallow: /nl-out
+
+User-agent: TTD-Content
+Disallow: /
+
+

@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /*prefn*
+Disallow: /*prefv*
+Disallow: /*pmin
+Disallow: /*pmax
+Disallow: /*shopping-cart*
+Disallow: /*srule*
+Disallow: /*start=
+Disallow: /*account*
+Disallow: /*checkout*
+Disallow: *view=grid*
+Disallow: *view=list*
+Disallow: /quickview*
+Disallow: */search-result?q=*
+Disallow: /*cgid=*
+Disallow: /*wishlist*
+Disallow: /*main-size-guide/?*
+
+Sitemap:https://www.brooksrunning.com/sitemap_index.xml
+Sitemap:https://www.brooksrunning.com/en_gb/sitemap_index.xml
+Sitemap:https://www.brooksrunning.com/en_ch/sitemap_index.xml
+Sitemap:https://www.brooksrunning.com/en_ca/sitemap_index.xml

@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: *?s
+Disallow: *?list
+Disallow: *?amp
+Disallow: */wp-login.php*
+Disallow: */search/
+Disallow: /calendar/action:posterboard/
+Disallow: /calendar/action:agenda/
+Disallow: /calendar/action:oneday/
+Disallow: /calendar/action:month/
+Disallow: /calendar/action:week/
+Disallow: /calendar/action:map/
+
+Sitemap: https://atlantablackstar.com/sitemap_index.xml
+Sitemap: https://atlantablackstar.com/news-sitemap.xml

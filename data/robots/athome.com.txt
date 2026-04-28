@@ -1,0 +1,55 @@
+# Access for all spiders
+User-agent: *
+Disallow: /*pmin=*
+Disallow: /*pmax=*
+Disallow: /*Size=*
+Disallow: /*prefv1=*
+Disallow: /*prefn1=*
+Disallow: /*prefv2=*
+Disallow: /*prefn2=*
+Disallow: /*prefv3=*
+Disallow: /*prefn3=*
+Disallow: /*dwcont=*
+Disallow: /*srule=*
+Disallow: */search/*
+Disallow: */flash-find-*
+Disallow: *WriteReviewPage*
+Disallow: */current-promotions/*
+Disallow: */Athome-TrackEvent*
+Disallow: */Product-VoteReview
+Disallow: /*review-new-products
+Disallow: */cart/
+Disallow: /*URLUtils*
+Disallow: */OnePageCheckout-Begin
+Disallow: */your-perks/*
+Disallow: */gift-with-purchase/*
+Disallow: */at-home-deals/*
+Disallow: */Account-RegisterForm*
+Disallow: */ip-deal-*   
+
+
+User-agent: Pinterest
+Crawl-delay: 30
+
+User-agent: Pinterestbot
+Crawl-delay: 30
+
+User-agent: Pinterestbot/1.0
+Crawl-delay: 30
+
+User-agent: Mozilla/5.0 (compatible; Pinterestbot/1.0; +https://www.pinterest.com/bot.html)
+Crawl-delay: 30
+
+User-agent: AhrefsBot/6.1
+Crawl-delay: 30
+
+User-agent: rogerbot/1.2
+Crawl-delay: 30
+
+User-agent: rogerbot
+Crawl-delay: 30
+
+User-agent: python-requests/2.24.0
+Disallow: /
+
+Sitemap: https://www.athome.com/sitemap_index.xml

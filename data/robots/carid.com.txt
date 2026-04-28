@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /search/
+Disallow: /alternate-part-number/
+Disallow: /advanced-search/
+Disallow: /similar-products/
+Disallow: /fulfillment-by-geo/
+Disallow: /cndpages/

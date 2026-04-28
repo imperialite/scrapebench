@@ -1,0 +1,183 @@
+Terms of Service - Nift
+Skip to content
+Nift Terms of Service
+Version 2025.02.25
+Nift is a commerce media network that delights consumers by delivering gifts, not ads. Our gifts create more moments of joy and unlock new revenue for publishers, while giving DTC brands and restaurants exclusive access to new customers at scale.
+Thank you for using Nift to grow your business!
+Nift’s Business FAQs
+What follows is a legally binding agreement. We encourage you to read it carefully and look forward to working with you.
+These Nift Advertising Terms and Conditions (these
+“Terms”
+) are made and entered into between Nift Networks, Inc. (
+“Nift”
+), you and the client (
+“Client”
+,
+“you” or “your”
+) on whose behalf you registered, accessed or use the Nift advertising and performance marketing platform (
+“Nift Platform”
+). You represent that you have the legal authority to bind such client entity. Client and Nift are each
+“Party”
+and collectively the
+“Parties”
+. All Insertion Order(s) between the Parties together with these Terms are the
+“Agreement”
+.
+1. Description of Services
+1.1. Nift Platform.
+Nift operates an advertising and performance marketing platform through its website available at
+http://www.gonift.com
+, including any subdomains thereof, mobile device applications, application program interfaces, and a network of partners (“Partner Network”) through which Gifts may be distributed as detailed in this Agreement, collectively the “Nift Platform”.
+1.2. Services.
+Through the Nift Platform you may create advertising campaigns, each a “Campaign”, whereby you make available to consumers on the Nift Platform (“Consumer(s)”) a promotional offer that can be selected (“Selected”) by Consumers for your goods or services (“Gift”). You may manage Campaigns through the Nift Platform or a Nift account manager. Nift may publish your Gift, present your Gift on the Nift Platform to Consumers, collect and analyze Campaign data, and endeavor to optimize your Campaign. These services are collectively the “Services”.
+1.3. Client Account.
+The Services may be provided to you by registering for an account (“Account”) through the Nift Platform or through a Nift account manager by submitting your corporate information, contact information, and a valid payment method. Through your Account you may manage certain aspects of your Campaign through such Nift Platform dashboard (“Dashboard”), including create and edit Campaigns, Gifts, budget, bid, audience settings and features provided by Nift from time to time and view Campaign performance.
+2. Campaigns
+2.1.
+Insertion Orders.
+From time to time, the Parties may enter into insertion orders (“Insertion Order(s)”) under which you and Nift will generate and manage your Campaign(s) in its performance of the Services. Each Insertion Order will specify at a minimum: your contact information, maximum spend per specified period, e.g., day, month, (“Budget”), start date, end date (if applicable), payment method, and payment terms. Changes to an Insertion Order may be requested by you or recommended by Nift via e-mail or through communication with your account manager. If Nift agrees to any such change, Nift may indicate such agreement by implementing the change without further confirmation. In the event of any conflict or inconsistency between any Insertion Order and these Terms and Conditions, these Terms will control, except to the extent such Insertion Order expressly supersedes or amends a specifically referenced section of these Terms.
+2.2. Ad Content.
+To launch a Campaign, you will need to provide advertising materials that may include text, images, logos, video, other forms of media, and terms of one or multiple Gifts in a Campaign (“Ad Content”). Client is solely responsible for all Ad Content, landing pages and other properties to which Client directs viewers (e.g., landing pages) along with the related URLs and redirects (“Destinations”) through which Consumers will redeem Your Gifts, as well as the Gifts and any other products and services advertised on Destinations. Nift may, in its sole discretion, reject or remove any Ad Content at any time, with or without notice, which violates this Agreement or which Nift determines to be inappropriate for any reason in its sole discretion, whether or not such Ad Content was previously approved.
+3. Billing and Payments
+3.1. Billing.
+The fees Nift charges for your Campaigns are based on the billing criteria specified in an Insertion Order. If no such criteria are specified, then the default criteria shall be on a cost-per-click “CPC” basis where when a Consumer selects a Gift you accrue a fee payable to Nift for the amount of the CPC. You may set a maximum CPC for your Campaign in an Insertion Order, on the Nift Platform, or through your account manager. Any portion of a charge not disputed in good faith must be paid in full.
+3.2. Payments.
+You will pay all charges incurred in connection with a Campaign using a payment method approved by Nift for you (as modified from time to time). Invoiced amounts will be due and payable thirty (30) days after Nift’s delivery of the applicable invoice. Late payments bear interest at the rate of 1.5% per month (or the highest rate permitted by law, if less). All amounts payable by you to Nift are exclusive of any applicable tax, duty, levy, or other governmental charge, including but not limited to sales, use, value-added, withholding, and excise taxes (“Taxes”). You are responsible for payment of all Taxes to the proper taxing or governmental authority. No Party may offset any payment due under the Agreement against any other payment to be made under the Agreement.
+4. Cancellation and Termination
+4.1. Cancellation.
+You may pause or cancel an Insertion Order or Campaign at any time with two (2) business days’ notice. Upon cancellation, your Gift or Gifts will no longer be presented to Consumers. However, Gifts that were previously presented to Consumers may be selected after the effective date of the cancellation, and Fees in connection with these selections shall still accrue and be payable by you to Nift.
+4.2. Termination.
+Either Party may terminate this Agreement at any time (i) upon written notice to the other Party if the other Party fails to cure a material breach of this Agreement within (5) days’ prior written notice by the non-breaching party; or (ii) with at least ten days’ prior written notice for any reason. In addition, Nift may suspend Services immediately upon written notice to you (email sufficing) in the event of any failure by you to make any payment hereunder when due. Sections 3 (Billing and Payments), 4.1 (Cancellation), 4.2 (Termination), 5.3 (Honoring Gifts), 6.3 (Agency Indemnification), 7 (Representations and Indemnification), 8 (Limitation of Liability), 9 (Privacy), 10 (Confidentiality), 11 (Intellectual Property Rights), 13 (Disputes) and 14 (General) of these Terms, together with any accrued but unpaid payment obligations of either Party, will survive any expiration or termination of the Agreement.
+5. Client Responsibilities
+5.1. Account Access.
+You will create an administrative username and password for your Account, determine access controls for your authorized users, and shall be solely responsible for the actions taken by authorized users under your account.
+5.2. Usage of the Nift Platform.
+You may only use the Nift Networks Platform to manage Gifts available for redemption at your own location(s); you may not use the Nift Networks Platform to manage Gifts for other merchants on the Nift Networks Platform.
+5.3. Honoring Gifts.
+You will honor all of your Gifts that offered on the Nift Platform, allowing Consumers, regardless of race, religion, national origin, ethnicity, disability, sex, gender identity, sexual orientation or age, to redeem Gifts while such Gifts are valid. You may not refuse or limit redemption of Gifts with respect to value, eligible location(s), eligible times, or eligible products or services, unless specified in the Terms of the published Gift. You may add or remove Gifts at any time subject to this Section 5.3. In the event that a Gift is removed, it will no longer be offered to new customers, but you are required to honor all outstanding Gift Selections.
+6. Agencies
+6.1.
+This Section 6 shall apply to you only if you are an advertising agency or other entity (“Agency”) representing an individual or entity on whose behalf you are using the Services (“Advertiser”).
+6.2.
+You represent and warrant that you have the legal authority to enter into this Agreement on behalf of, make all decisions for, and take all actions relating to Campaigns for the Advertiser. Upon Nift’s request, you will immediately deliver to Nift any applicable agreements with an Advertiser substantiating your authority to act on the behalf of the Advertiser. If your relationship with an Advertiser terminates, you agree that Nift may contract directly with such Advertiser to allow such Advertiser to continue to use the Services, including full access to the Account and historical Campaign performance.
+6.3.
+Without limiting any other provision of this Agreement, any acts or omissions by any Advertiser in violation of this Agreement shall be deemed a breach of this Agreement, and you will indemnify, defend, and hold Nift harmless from and against all damages, liabilities, costs, and expenses that Nift may incur as the result of such violation.
+7. Representations and Indemnification
+7.1. Representations and Warranties.
+Each Party represents and warrants that: (a) it is duly organized, validly existing, and in good standing under the laws of the jurisdiction in which it was organized; (b) the execution and delivery of this Agreement, and the performance of the transactions contemplated hereby, are within its corporate powers, and have been duly authorized by all necessary corporate action; and (c) its performance of this Agreement, and the other Party’s exercise of its rights under this Agreement, will not result in a violation of any agreement or other obligation by which it is bound. You further represent and warrant to Nift that: (x) you have and will maintain through the Term all applicable rights, licenses and authorizations including without limitation any copyright, trademark, patent, publicity, consents or other rights) to (i) provide the Ad Content, Campaigns and Gifts under this Agreement; and (ii) to permit Nift to provide the Services contemplated under this Agreement (including without limitation any rights needed to host, cache, route, transmit, store, copy, modify, distribute, perform, display, reformat, excerpt, analyze Customer Content and Campaigns); (y) the Ad Content, Campaigns, Gifts and Destinations shall not contain material which is harmful, unlawful, defamatory, obscene, fraudulent, or which may encourage a criminal offense or otherwise give rise to civil liability and (y) you will comply with all applicable privacy and other applicable laws and regulations in your performance of this Agreement.
+7.2. Disclaimer of Warranties.
+EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT, NEITHER PARTY MAKES ANY REPRESENTATIONS OR WARRANTIES REGARDING THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT OR IMPLIED WARRANTIES ARISING OUT OF COURSE OF DEALING, COURSE OF PERFORMANCE OR USAGE OF TRADE. NIFT DOES NOT WARRANT THAT THE SERVICE OR ITS DELIVERY OF GIFTS HEREUNDER WILL BE ERROR-FREE, UNINTERRUPTED OR CONTINUOUS. WITHOUT LIMITING THE FOREGOING, (A) NIFT SHALL HAVE NO LIABILITY FOR CLICK FRAUD OR OTHER IMPROPER ACTIONS, OR FOR INVALID CLICKS OR OTHER TECHNOLOGICAL ISSUES, EACH OF MAY AFFECT THE COST OF ADVERTISING AND (B) ANY CAMPAIGN MANAGEMENT WILL BE “AS IS” AND NIFT MAKES NO REPRESENTATION THAT THE CAMPAIGN MANAGEMENT WILL IMPROVE THE APPLICABLE CAMPAIGN IN ANY WAY. THE FOREGOING DISCLAIMER OF WARRANTY IS A FUNDAMENTAL PART OF THE BASIS OF THE BARGAIN HEREUNDER, AND THAT THE PARTIES WOULD NOT ENTER INTO THIS AGREEMENT ABSENT SUCH DISCLAIMER.
+7.3. No Stored Value.
+Nift represents and warrants that it is not a “Money Services Business” as defined under the Bank Secrecy Act and that Gifts on the Nift Platform hold no stored value and are the functional equivalent of a promotional or discount code that may be entered into your systems to reduce the purchase price of your goods or services.
+7.4. Indemnification.
+You will indemnify and hold harmless Nift and its affiliates, and each of their officers, directors and employees (“Affiliates”) (collectively, the “Indemnified Parties”), from and against any and all expenses, damages and losses of any kind (including, without limitation, reasonable legal fees and costs) incurred by any of the Indemnified Parties arising out of or in connection with any claim by a third Party (a “Third Party Claim”) against any of the Indemnified Parties resulting from: (a) any actual or alleged breach of your representations or warranties in this Agreement; (b) any Campaign including any claims for any delivery of, non-delivery of, defects in, use of or inability to use any of your goods or services; (c) any Ad Content, Gifts or other materials provided by you. Nift will notify you promptly of any Third Party Claim for which it seeks indemnification and will permit you to control the defense of such Third Party Claim with counsel reasonably chosen by you; provided, that you will not enter into any settlement that contains any admission of or stipulation to any guilt, fault, liability or wrongdoing on the part of any Indemnified Party without Nift’s prior written consent.
+8. Limitation of Liability
+EXCEPT TO THE EXTENT ARISING OUT OF A BREACH OF CONFIDENTIALITY, NIFT WILL NOT BE LIABLE FOR LOST PROFITS OR OTHER CONSEQUENTIAL, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES, WHETHER ARISING IN CONTRACT, TORT, INCLUDING NEGLIGENCE, WARRANTY, STRICT LIABILITY OR OTHERWISE, EVEN IF IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT WILL NIFT’S TOTAL AGGREGATE LIABILITY TO YOU ARISING OUT OF OR RELATING TO THIS AGREEMENT EXCEED THE AMOUNT PAID BY YOU TO NIFT DURING THE TWELVE MONTHS IMMEDIATELY PRECEDING THE DAY THE ACT OR OMISSION OCCURRED THAT GAVE RISE TO YOUR CLAIM. NIFT’S (AND ITS AFFILIATES’) TOTAL CUMULATIVE LIABILITY TO YOU FOR ANY OTHER PARTY FOR ANY LOSS OR DAMAGES RESULTING FROM ANY CLAIMS, DEMANDS, OR ACTIONS ARISING OUT OF OR RELATING TO THIS AGREEMENT SHALL NOT EXCEED U.S. $10,000.
+9. Privacy
+9.1.
+All data and other information provided from time to time by Nift to you in relation to the Services, any Campaign, or Consumers, including, but not limited to personal data and information, and performance data (“Nift Data”), is provided to you for the specific purpose of providing the Services and the objectives therein, and for no other purpose. The use and disclosure of Nift Data will be subject to such limitations for the use and disclosure of Nift Data as applicable at the time of its collection.
+9.2.
+Nift will process, collect and use data in accordance with applicable privacy and data protection laws applicable in the jurisdictions in which the specific data are collected.
+9.3.
+With respect to any Nift Data provided from time to time by Nift to you, you agree to process, collect, use and control Nift Data in accordance with all applicable privacy, electronic communications, spam, cookie, data protection, telemarketing, do-not-call and other applicable laws or regulations in the jurisdictions in which you operate and in which such Nift Data was originally collected. This shall include (but not be limited to) your:
+9.3.1.
+Sending electronic messages only with the Consumer’s consent;
+9.3.2.
+Including clear and accurate information in electronic messages about the person or business that is responsible for sending the message;
+9.3.3.
+Taking reasonable steps to protect the personal information and data from unauthorized access, misuse, modification or disclosure;
+9.3.4.
+Allowing users to access and correct their personal data in accordance with applicable laws;
+9.3.5.
+Including a feature in each electronic message allowing Consumers to unsubscribe from future electronic messages. Once a Consumer has unsubscribed from electronic messages from you, you will promptly remove the Consumer and will not send any future electronic messages to the Consumer;
+9.3.6.
+Maintaining a complaint management process for the handling of any privacy complaints received, in accordance with any applicable laws;
+9.3.7.
+Providing Consumers with clear and comprehensive information about information stored on, accessed on, or collected from Consumers’ devices in connection with the Services including cookies, device-specific information, location information and other information.
+9.4.
+You are not required to provide data, including personally identifiable information, of your customers (“Client Data”) to Nift for the performance of the Services, but if you do provide Client Data to Nift under the Agreement, you warrant that you are authorized to disclose Client Data to Nift in accordance with your own privacy policy and applicable privacy and data protection laws. For purposes of this Agreement and for clarity, any PII or other data that i) Nift possesses or comes into possession of independent of any provision of Client Data to Nift by you and ii) overlaps with Client Data (as may be demonstrated and substantiated by Nift’s internal records) shall not be considered part of Client Data for purposes of Section 11.
+10. Confidentiality
+10.1.
+“Confidential Information”
+means information, whether written, oral, or in any other medium disclosed by one Party (“Discloser”) to the other Party (“Recipient”) that has been designated as confidential or that, given the nature of the information and/or the circumstances surrounding its disclosure, should reasonably be considered confidential. Without limiting the foregoing, Confidential Information shall include technical specifications, algorithms, documents, designs, processes, software programs, and trade and business secrets. Confidential Information will also include information disclosed by Nift which relates to current, planned or proposed products, marketing and business plans, forecasts, projections and analyses, financial information. Recipient shall maintain in confidence and not disclose Confidential Information to any third Party (other than its employees, agents or contractors who have a need to know and who have agreed in writing to obligations as protective of Confidential Information as set forth herein), or use or accumulate such Confidential Information for any purpose other than performance of this Agreement, without Discloser’s prior written consent. For the avoidance of doubt, the terms of this Agreement will be deemed Confidential Information of both Parties. Notwithstanding the foregoing: (i) the foregoing restrictions will not apply as to any information that was in the Recipient’s possession prior to disclosure thereof by Discloser, that is or subsequently becomes available to the general public other than through a breach by Recipient, or that is independently developed by Recipient without reference to Confidential Information; and (ii) Recipient will be permitted to disclose Confidential Information to the extent required by applicable law, regulation or legal process, provided that it provides prompt written notice to Discloser of any such disclosure and provides reasonable cooperation to the Discloser in connection with any attempt to contest or limit such disclosure.
+10.2.
+Recipient agrees and acknowledges that any breach of this Section 10 will cause irreparable harm to Discloser for which monetary damages will be inadequate. Accordingly, the aggrieved Discloser will be entitled to seek and, if granted, obtain and enforce injunctive or other equitable relief (in addition to any other remedies available to it) to remedy any threatened or actual breach of Section 10 by Recipient without the necessity of posting any bond or proving any harm or damages. In addition, Recipient agrees promptly to advise Discloser in writing of any unauthorized misappropriation, disclosure or use by any person of the Confidential Information which may come to its attention and to take all steps at its own expense reasonably requested by the Discloser to limit, stop or otherwise remedy such misappropriation, disclosure or use.
+10.3.
+You may from time to time provide ideas, suggestions or other feedback regarding the Services (including as to improvements or modifications thereto). Both Parties agree that such ideas, suggestions and other feedback is not Confidential Information and that Nift will be entitled to use, implement, disclose and otherwise exploit such feedback in any manner, without restriction or duty to account.
+10.4.
+Except as permitted by Section 11, neither Party will issue any press releases, or otherwise make any public statements or communications regarding this Agreement or the relationship of the Parties without the other Party’s prior written consent.
+11. Intellectual Property Rights​
+Nift owns all right, title, and interest in the Nift Platform. Nift Data, and all software, tools, reporting, or websites provided in connection with this Agreement. Nift grants you a limited, non-exclusive and non-sublicensable license during the Term to access the Nift Platform through the Interface solely for managing your Campaigns as detailed in Section 1.3. Except to the limited extent expressly provided in this Agreement, Nift does not grant, and You will not acquire, any right, title or interest (including, without limitation, any implied license) in or to any Nift intellectual property rights; and all rights not expressly granted herein are reserved to Nift. You own all right, title, and interest in the Ad Content and grant Nift a non-exclusive, royalty-free, worldwide, license to use the Ad Content and your brand marks for the purposes of providing the Services (including for the purposes of displaying Campaigns on its Nift Platform). You own all right, title, and interest in the Client Data and grant Nift a non-exclusive, royalty-free, worldwide, license to use the Client Data, if provided by you, for the purposes of providing the Services. Without limiting the foregoing, you agree that Nift may use your name, trade name, trademarks, and logos for certain marketing and promotional purposes. Other than as expressly set out in this Agreement, neither Party has or will acquire any right, title or interest in any intellectual property rights owned or licensed by the other Party.
+12. General
+12.1. Notice.
+Notice under this Agreement must be in writing and sent via email, registered or certified mail, or commercial courier to the Parties at their respective addresses set forth below. A notice is effective only upon receipt by the receiving Party and if the Party giving the notice has complied with the requirements of this Section. If to Nift: Nift Networks, Inc., 867 Boylston St., Suite 500, Boston, MA 02116, With a copy to: legal@gonift.com. If to Client, notice is sufficient if provided to the email address of your account representative under this Agreement.
+12.2. Force Majeure
+. Excluding payment obligations, neither Party will be liable for any delay or default in the performance of its obligations if such delay or default is caused by conditions beyond its reasonable control, including fire, flood, accident, earthquakes, telecommunications line failures, electrical outages, network failures, war, civil commotion, epidemic, or acts of God (collectively, “Force Majeure”).
+12.3. Assignment.
+Neither Party may assign this Agreement without the prior written consent of the other Party, which consent shall not be unreasonably withheld or delayed; provided, however, that a Party may assign the Agreement or any portion hereof to: (a) an acquirer of all or substantially all of such Party’s equity, business or assets; (b) a successor in interest whether by merger, reorganization or otherwise; or (c) any entity controlling or under common control with such Party, provided that notice of such assignment is sent in writing. Any attempted assignment or delegation in violation of this section will be of no effect. Subject to the preceding sentence, the rights and liabilities of the Parties under this Agreement will bind and inure to the benefit of the Parties’ respective successors and permitted assigns and delegates.
+12.4. Relationships of Parties.
+The relationships of the Parties shall be solely that of independent business entities, and nothing contained in this Agreement shall be construed otherwise. Nothing in this Agreement or in the business or dealings between the Parties shall be construed to create a relationship of employer and employee, agency, joint venturers or clients between the Parties. Neither Party shall have the right, power or authority to enter into agreements of any kind on behalf of the other Party, or to create any obligation or responsibility, express or implied, on behalf of the other Party and neither Party shall do anything to suggest to third Parties that the relationship between the Parties is anything other than that of independent contractors.
+12.5. Headings and References.
+Headings of Sections are for the convenience of reference only. Words indicated in quotes and capitalized signify an abbreviation or defined term for indicated words or terms, including those definitions contained in the opening paragraph.
+12.6. Disputes.
+Except for a breach of the confidentiality provisions of this Agreement, prior to either Party commencing any legal action under this Agreement, the Parties agree to try, in good faith, to settle the dispute amicably between executives of the respective Parties who have sufficient authority to sign a binding settlement agreement.
+12.7. Choice of Law.
+This Agreement shall be governed by, and shall be construed in accordance with, the laws of the Commonwealth of Massachusetts without reference to its Choice of Law principles. Exclusive jurisdiction over and venue of any suit arising out of or relating to this Agreement will be in the state and federal courts located in Boston, Massachusetts, and each of the Parties hereto consents to the personal jurisdiction of, and venue in, those courts.
+12.8. Severability/Waiver.
+If any provision of this Agreement is held by any court of competent jurisdiction to be illegal or against public policy, the remaining provisions of this Agreement shall remain in full force and effect. The Parties shall in good faith attempt to modify any invalidated provision to carry out the stated intentions in this Agreement. The waiver of any breach of any provision under this Agreement by a Party shall not be deemed to be a waiver of any preceding or subsequent breach, nor shall any waiver constitute a continuing waiver.
+12.9. Entire Agreement.
+This Agreement contains the entire understanding and agreement of the Parties regarding the subject matter hereof and supersedes all oral and prior written negotiations, understandings, and agreements with respect thereto. The Parties understand and acknowledge that there have been no promises, representations, agreements, warranties or undertakings by either of the Parties, either written or oral, except as stated in this Agreement. This Agreement may only be altered, amended or modified by a written instrument signed by both Parties, and the Parties understand and acknowledge that emails are not recognized as signed writings for the purpose of amending the terms and conditions of this Agreement.
+Thank you for reviewing this Agreement. If you have any questions please email us at
+legal@gonift.com
+.
+Our Happiness Guarantee
+We’re committed to making sure you love your experience — if something’s not right,
+we’ll make it right
+. It’s our promise.
+Business FAQ
+Find helpful information in our
+frequently asked questions
+.
+Solutions
+Claim a Thank-You Gift
+Nift for Consumers
+Monetize & Delight
+Nift for Partnerships
+Acquire Customers
+Nift for Brands & Services
+Drive Traffic
+Nift for Restaurants
+Resources
+How to Get a Nift Gift
+Consumer FAQ
+Business FAQ
+Case Studies
+Newsroom
+Company
+About Us
+Careers
+Customer Support
+Talk to Sales
+Terms & Policies
+Terms of Service
+Privacy Policy
+Data Privacy Framework
+Cookie Policy
+Vulnerability Disclosure
+Campaign & Gifts Policy
+Do Not Sell or Share My Personal Information
+Login
+Consumers
+My Gifts
+Business
+Dashboards
+Linkedin
+X-twitter
+Copyright © 2015-2025 NIFT NETWORKS INC.
+All Rights Reserved | US Patent: 10,346,868
+11964
+Login
+Consumers
+my gifts
+Business
+dashboards

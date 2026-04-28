@@ -1,0 +1,179 @@
+Terms of Use - Game8
+Game8
+Terms of Use
+Terms of Use
+The following terms and conditions of use (the “Terms of Use”) must be followed in order to use the Services provided by Game8 inc. (the “Company”), and are applicable to all users of the Services.
+Section 1 (Terms)
+Except for otherwise stated or context requiring otherwise, each of the capitalized terms set out below shall mean the following..
+(1) “Services” means the web services operated by the Company, which provides game-related contents including game walkthroughs and strategy guides, as well as any peripheral services, including, but not limited to Game8 Store in which the Company provides opportunities for Publishers to sell Publisher Contents to users (“Game 8 Store”).
+(2) “Rules” means any guideline, policy, regulation and protocol that have been prepared by the Company for users separately from the Terms of Use.
+(3) “Contents” means any sentence, voice, music, images, videos, programs or other information. “Service Contents” means the Contents provided by the Company which can be accessed through the Services. “User Contents” mean the Contests posted or sent by  Users on the Services. “Publisher Contents” mean the Contents sold or otherwise provided by the Publishers to Users through Game 8 Store.
+(4) “Intellectual Property Right” means any copyright (including any right to derivative works as set out in Articles 27 and 28 of the Copyright Act of Japan), patent right, utility model, design right or other intellectual property, and includes the acquisition of those rights as well as the right to register them.
+(5) “Member” means the User who has registered as Member in accordance with Section 3 of this Terms of Use.
+(6) “Publishers” means outside service providers who enter into that certain contract with the Company and, subject to such contract, distribute Contents to Users through Services.
+(7) “Publisher Services” means an application, software and any other services that distribute digital contents to users on the Publisher’s own platform or other platforms.
+(8)  “Anti-social Forces” means organized crime groups, organized crime group members, those who have not yet passed five years since they ceased to be organized crime group members, organized crime group associate members, organized crime group-related companies, corporate extortionists, social movement advocates, special intelligence violence groups and other similar groups.
+Section 2 (Applications and Modifications of the Terms of Use)
+1. In addition to the Terms of Use, Rules will be applicable to Users upon usage of the Services.
+2. Users are deemed to have agreed on the Terms of Use and the Rules (hereinafter collectively referred to as the “Terms of Use”) upon usage of the Services, thereby an agreement for the use of Services is concluded between the Company and each of the Users.
+3. If an User is a minor, an adult ward, a person subject to a conservatorship or a person subject to a limited guardianship, the user must obtain the consent of their parent or guardian, adult guardian, conservator or assistant and agree to the Terms of Use.
+4. If an User wishes to use this Services for commercial purposes, such User must contact the Company separately through the inquiry contact designated by the Company and follow the procedure as specified by the Company.
+5. The Terms of Use may be altered as necessary, either (i) to the extent that it is in the interests of Users in general, or (ii) to the extent that it is reasonable and does not conflict with the purpose of the Terms of Use. The Company shall post the revised Terms of Use and the effective date on the website for the Service and elsewhere, and the revised Terms of Use shall come into effect on the effective date. If a User uses the Services after the Terms of Use have been revised, the User shall be deemed to have agreed to the revised Terms of Use.
+Section 3 (Account Registration, Management and Deletion)
+1. Users must register an account in accordance with the Company’s prescribed method when using certain features of the Services. The Company accepts or rejects the registration of an account based on the User’s application according to the standard prescribed by the Company, and if the registration is accepted, the Company will notify the applicant, and registration will be completed.
+2. The Company may refuse account registration if it determines, in its sole discretion, that the User applying for account registration under paragraph 1 falls under any of the following items. In this case, the Company will not be obligated to explain the reason for refusal to the User.
+(1) All or part of the information provided to the Company in connection with account registration is false, a misrepresentation, omits details, is a violation of public order and morals, or the content is offensive to any third party;
+(2) The applicant is a minor, an adult ward, a person under curatorship, or an assisted person who has not obtained consent from his/her legal representative, guardian, conservator, or assistant;
+(3) The applicant has violated the Terms of Use in the past;
+(4) The applicant is affiliated with any Anti-social Forces, or when the Company determines that they have interacted with or been involved in any way with any Anti-social Forces by cooperating or participating in the maintenance, operation, or management of the Anti-social Forces through financial provision
+(5) Any other instances where the Company deems inappropriate
+3. If there is a change to the information that the Member has submitted when applying for account registration, the Member shall promptly reflect such change on the account, or notify the Company of it, in a manner prescribed by the Company.
+4. Members must manage their own ID and password (collectively “Credential”) securely and at their own risk to prevent improper usage of the Credential. The Member finding out that the Credential is used or stolen by a third party must immediately notify the Company and follow its instructions. The Company may regard any act performed using the Credential as the act of the Member.
+5. All usage rights for the Services held by Members cannot be transferred, loaned, changed in name, or provided as collateral to a third party, nor are they subject to inheritance.
+6. Members may at any time delete their account at https: //game8.jp/i/mypage/edit (such deletion by a Member, the “withdrawal”).
+7. The Company may suspend the service for or delete the account of the Member without prior notification if it determines in its sole discretion that the Member falls under any of the following items. In such an instance, the Company will not accept any questions or complaints about the suspension or deletion.
+(1) The Member has violated the Terms of Use
+(2) The registered information is false or inaccurate
+(3) The Member falls under any of the items listed in paragraph 2 of this section.
+(4) Any other instances where the Company reasonably deems the Member inappropriate
+8. The Company may delete accounts that have not been accessed in over 180 days without prior notification to the Member.
+9. When the account is deleted for any reason, the Member ceases to be a Member and  will become unable to use any of the features of the Services that require a registered account. Even if the Member mistakenly deletes its account, the account may not be recovered, and it will be necessary to once again register an account in order to regain access to these features of the Services.
+10. The Company will not be liable for any damages caused to the User by the actions the Company has taken under this Section.
+Section 4 (Personal Data)
+1. The Company may retain and manage information about Users obtained through the provision of the Services (including personal information, “User Data”). The scope of User Data, purpose of use and management method shall be as stipulated in the Company's privacy policy “Privacy Policy”.
+2.  With the exception of the following information that is required to be made public, Members can choose whether or not to make the registration information (hereinafter referred to as “Member Information”) public on the Member-only page of the Services.
+(1) nickname
+(2) icon image
+(3) X ID
+(4) favorite games
+(5) ranking of favorite games
+(6) monthly charge on games
+3. The Company will notify Members which information is subject to public disclosure by displaying the public/private status of Member Information on the Member-only page. By registering Member Information, you are agreeing to have the Member Information displayed as public information on the Services.
+4. Even if the Users suffer any damage through the action taken by the Company in accordance with this Section, the Company will not be held liable for any such damage, except in cases where the damage is due to reasons attributable to the Company.
+Section 5 (Prohibited Acts)
+1. Users must not engage in any of the following actions or any actions that may be construed as falling under any of the following when using this service.
+(1) Any act that violates laws and regulations, court decisions or orders, or binding administrative measures;
+(2) Any act that defies public order and morals;
+(3) Any act that infringes the copyright, trademark right, patent right and other intellectual property rights, honor right, privacy right, or any other legal or contractual rights or interests of the Company, Publishers or any third party;
+(4) Any act committed with the intention of encountering or dating with an unacquainted person, and acts committed with the intention of sexual intercourse or indecent conduct;
+(5) Act of transmitting excessively violent expressions, explicit sexual expressions, expressions associated with discrimination based on race, nationality, religion, gender, social status, family lineage, etc., expressions that encourage or promote suicide, self-harm, or drug abuse, expressions linked to crime or encouraging crime, or other expressions that contain offensive content that makes others feel uncomfortable;
+(6) Any act intended for the purpose of harassment or slander against any third party;
+(7) Acts of transmitting information that includes computer viruses or other harmful computer programs;
+(8) Reverse engineering or other analysis of the Services or the Contents provided by the Company or any third party, including Publisher, that are available through the Services, as well as other systems.
+(9) Selling, transferring, distributing, leasing, sublicensing, or publicly transmitting Contents obtained through the Services.
+(10) Using hardware or software that has not been authorized by the Company.
+(11) Any act that impersonates the Company, Publishers or any other third party, or obtaining Credential from other Members;
+(12) Acts of intentionally spreading false or inaccurate information;
+(13) Sales, publicity, advertising, solicitation, or other acts intended for profit;
+(14) Acts that provide benefit to Anti-social Forces as well as other cooperation or involvement with Anti-social Forces;
+(15) Acts of inviting others to participate in religious or political activities or groups;
+(16) The act of illegally collecting, disclosing or transmitting personal information of a third party;
+(17) Acts that interfere with or impede the operation of the Services by the Company or use of the Services by Publishers or other Users;
+(18) Act of using this service for commercial purpose without the Company’s prior permission;
+(19) Any other acts that promote conducts that fall under any of the previous items; or
+(20) Other acts deemed inappropriate by the Company.
+2. If the Company determines that the User's conduct falls, or is likely to fall, under any of the items in the preceding paragraph, the Company may delete all of or a portion of the contents transmitted by the User through the Services, or the Member’s account, without prior notification to the User.
+3. The Company will not take responsibility for any damages caused to the Users related to the measures taken by the Company in accordance with the preceding paragraph, except in cases where the damage is due to reasons attributable to the Company.
+Section 6 (Suspension, Modification, and Termination of the Services)
+1. The Company may suspend all or part of the Services without giving prior notice to the Users if any of the following conditions apply.  In such a case, the Company will notify the Members in advance in a manner deemed appropriate by the Company, or post a notice on the Company’s website. However, this does not apply in cases where notification or posting is not possible due to emergencies or other unavoidable circumstances.
+(1) When inspection or maintenance work on equipment related to the Services is being performed, whether regularly or emergently;
+(2) When the equipment and communication lines related to the Services are shut down due to unforeseeable circumstances;
+(3) When it is impossible or difficult to provide the Service due to force majeure such as fire, power outage, or natural disaster;
+(4) Other instances where the Company deems it necessary;
+2. The Company may change the content of all or part of the Service at any time without notifying Users in advance if the Company deems it necessary.
+3. The Company can terminate the provision of the Service at its convenience. In this case, the Company will notify Users in advance.
+4. The Company may provide all or part of the Services to limited Users who have met their age, identity verification status, and other conditions prescribed by the Company.
+5. The Company will not be liable for any damage caused to Users based on the measures the Company has taken under this Section.
+Section 7 (Contents and Intellectual Property Rights)
+1. All intellectual property rights and other rights related to the Service as well as Service Contents belong to the Company or its authorized licensor, and the Company does not grant a license of any rights to the User by way of these Terms of Use.
+2. Users are only authorized to browse the Service Contents provided by the Company through the Services, and may not use such contents beyond the means anticipated by the Services (such unauthorized usage includes, without limitation, reproduction, copying, modification, public transmission as well as the sublicensing to a third party.)
+3. Users are responsible for the contents that they post or send through the Services. The Company does not guarantee the accuracy, completeness, usefulness, legitimacy regarding any User Contents.
+4. Users may reserve their own intellectual property rights and other rights of User Contents that they post and send through the Services. Users shall be able to post, send or transmit User Contents only in a manner that does not violate these Terms of Use.
+5. The Company has no obligation to back up Service Contents, Publisher Contents or User Contents. It is the responsibility of Users to back up User Contents or Publisher Contents at their own expense, if Users think the backup is necessary.
+6. User posting or transmitting User Contents through the Services is deemed granted the Company the right to use these User Contents free of charge and indefinitely, regardless of region, for services or promotions of the Company, or any other business purposes of the Company (this includes copying, modification, public transmission, and all other uses, as well as the sublicense to third parties). Users shall not exercise moral rights in connection with the use of their User Contents against the Company or any third party who has obtained a license from the Company under this paragraph. The Company's right to use User Contents and the non-exercise of moral rights concerning User Contents as set forth in this Section, shall survive the termination of the agreement under these Terms of Use between the Company and the relevant User.
+7. The Company shall be able to verify the User Contents if the Company deems it necessary to verify that they conform with the applicable laws or the Terms of Use. If the Company determines that User Contents violate or are likely to violate the Terms of Service, the Company may delete such User Contents without notifying the User in advance.
+8. The Company may post advertisements of the Company or third parties on the Services.
+9. By purchasing publisher content, intellectual property rights of the Publisher Contents are not transferred to the user.
+Section 8 (Use of the Service and User Responsibilities)
+1. Users may use the Services only in accordance with the Terms of Use and any other terms determined by the Company.
+2. Computers, smartphones and other devices, as well as software, communication lines and other communication environments necessary to receive the Services will be prepared and maintained at the User's expense and responsibility. The Company does not guarantee that the Services will be compatible with all devices.
+3. Users shall be held responsible when using the Services and are solely responsible for all conduct and outcomes resulting from using the Services.
+4. Users will resolve any disputes or conflicts that arise between other Users or with a third party in connection with the Services at their own risk, and the Company will not be liable for such matters.
+5. Users shall indemnify in accordance with the Company’s request immediately if the Company suffers any damage (attorneys' fees) directly or indirectly in connection with their use of Services (Includes cases in which the Company receives a claim or a complaint from a third party as a result of User’s action).
+Section 9 (Scope of  Company’s Responsibilities and Disclaimer)
+1. The Company does not provide any guarantee for the accuracy, reliability, legitimacy, compatibility for a specific purpose or any other matters regarding this service (including the contents provided through the Services (including Publisher Contents), the content and tools provided, notices posted through the Services and advertisements, hereinafter the same in this Section), and there is no effective or legal guarantee that the Services will be free of defects.
+2. Users shall use the Services at their own risk and responsibility and shall be solely responsible for any consequences of using the Services.
+3. A website provided by, and operated by, a third party that can be used transitioned to by the User via the link established on the Services (the “a third party site”) is provided at the responsibility of that third party, and the terms of use defined separately by the third party apply. Users shall use third party sites at their own risk and responsibility.
+4. The Publisher Services are subject to the terms of use and other rules and regulations regarding the Publisher Contents that apply between the User and the Publisher, and Users shall review these terms at their own responsibility. Publisher Services are provided by Publishers and the  Company is not responsible for them, including,without limitation, whether the copyright of the Publisher Contents is owned by such Publisher, whether a Publisher is permitted to license to use the Publisher Contents, or whether the license to the User by the Publisher will be altered, suspended or terminated.
+5. The Company will not be liable for any damages incurred by the User related to the Services, such as the suspension, termination, or modification of the Services by the Company, account deletion, deletion or loss of contents, the loss of data due to the use of the service, breakdown of equipment, or downloads and computer virus infections from third party websites, including advertisements placed on the Services, except in cases where the damage is due to reasons attributable to the Company. However, even in cases where the Company is liable for damages to Users, the Company's liability for damages to Users shall be limited to actual, ordinary, and direct damages up to a maximum of 5,000 yen unless such damages have arisen from the Company’s wilful misconduct or gross negligence.
+6. The Company will not take any responsibility for monitoring communications or activities of Users. If there is a dispute between the User and a third party, the User shall resolve the dispute at his/her own responsibility and expense. If the Company is responsible for paying compensation for damages to a third party in the event of a dispute between a User and a third party, the User shall compensate the Company for the full amount (including reasonable legal fees and other expenses incurred in resolving the dispute).
+7. The Company may suspend, terminate or change the provision of the Services without prior notice to the User due to circumstances of the Publisher, such as the suspension of the provision of the Publisher's services or Publisher Content, and the User shall acknowledge this in advance.
+Section 10 (Publisher Contents)
+1. Members may purchase Publisher Contents directly from the Publisher on the Services in accordance with the provisions of this Section. Please note that the “purchase” of the Publisher Contents in this Terms of Use shall mean that the User is granted a license to use the specific Publisher Content by the Publisher in accordance with the terms provided by such Publisher, on condition that the User makes a payment to the Publisher in accordance with this Section 10.
+2. The purchase of Publisher Contents and other transactions are between the Publisher and the Member, and the Company is not a party to these transactions. Transactions for Publisher Contents are conducted under the terms disclosed by the Publisher in the relevant page of the Game 8 Store. Except in cases where the Company is at fault, the Company shall not be liable for any issues that arise in relation to the Publisher services and Publisher Contents, and the User shall resolve any issues that arise between the User and the Publisher in relation to the agreement with the Publisher.
+3. The payment for Publisher Contents shall be made to the Publisher by using the User’s own credit cards or other payment methods designated by the Company on the Services.
+4. The Company or its contractors (such as payment processors) have been granted the authority by each Publisher to receive payment on behalf of the Publisher for transactions involving Publisher Contents, and based on this authority, the Company or its contractors may receive payment for Publisher Contents. Payment to the Publisher by the Member is settled when the payment is received by the Company or its contractor.
+5. After purchasing Publisher Content, the User shall be responsible for storing and saving the relevant Publisher Content. Even if the Publisher Content is deleted by the User, the Publisher or a third party, the Company shall not be held responsible unless the reason for deletion is attributable to the Company.
+6. The relevant provisions of these Terms of Use shall apply to the responsibilities of the Company in relation to the provision of Publisher Contents and the rules imposed on Users in transacting Publisher Contents.
+Section 11 (Exclusion of Anti-social Forces)
+1. Each Member hereby represents and warrants that he/she does not and will not fall under the category of Anti-social Forces. If it is discovered that the Member falls under one of these categories, the Company may immediately suspend the Member's use of the Services and cancel their membership without prior notice.
+2. If a Member falls under any of the following categories, the Company may immediately suspend the Member's use of the Services without prior notice.
+(1) Making threatening remarks or using violence against the Company, or engaging in any act that damages the Company's reputation or credibility;
+(2) Interfering with the Company's business using fraudulent means or force;
+(3) Making unreasonable demands of the Company that exceed the scope of its legal responsibilities; or
+(4) Causing a third party, such as an antisocial force, to engage in any of the acts listed in the preceding three items.
+Section 12 (General Terms)
+1. Notices and other communications from the Company to the Users in respect to the Services will be made by posting to an appropriate place in the Services, and by the means deemed appropriate by the Company. The Company does not take any responsibility for damage caused by undelivered or delayed notifications from the Company, except in cases where the damage is due to reasons attributable to the Company.
+2. Notification from the User to the Company in respect to the Services shall be made by sending an inquiry form from the designated place within the Services or by a means specified by the Company. In the case of contact or a notification from the User, the Company shall be able to verify the identity of the User according to the means prescribed by the Company. In addition, regarding the means of responding to notices and communications from the User, the Company may respond by a means that it deems optimal for each situation, and the User may not specify the means of response.
+3. The User may not assign, transfer, lend, provide collateral or otherwise dispose of a contractual status under these Terms of Use or their rights or obligations under these Terms of Use without prior written consent of the Company.
+4. In the case where the Company transfers the operations of the Services to a third party (including business transfer, company split, and any other structure in which any part of the Services is transferred), the Company may transfer the contractual status with Users, rights and obligations vis-a-vis Users under the Terms of Use, and information registered with the account to the assignee of the business, and the Users are deemed to have agreed to such transfer.
+5. Even if any Section or part of the Terms of Use is determined to be invalid under the Consumer Contracts Act or other laws, the remaining provisions of the Terms of Use and parts of the provisions not determined to be invalid shall continue to be valid, and they shall be modified to the extent that the invalidated clause or part of it becomes valid, ensuring the same legal and financial effect to the fullest extent of the invalidated clause or part of it.
+6. The original language of the Terms and Use shall be in Japanese and the governing law shall be Japanese laws. For all disputes arising out of or relating to these Terms of Use or Services, the Tokyo District Court shall have the exclusive jurisdiction for the first trial.
+7. To the maximum extent permitted by applicable law, Users and the Company agree to only bring disputes in an individual capacity and shall not: seek to bring, join, or participate in any class or representative action, collective or class-wide arbitration, or any other action where another individual or entity acts in a representative capacity; or consolidate or combine individual proceedings or permit another to do so without the express consent of all parties to these Terms of Use.
+Enacted on August 1, 2014
+Revised on August 22, 2014
+Revised on November 15, 2016
+Revised on October 24, 2024
+Terms of Use
+Privacy Policy
+External Communication Policy
+Opt-out
+Inquiries
+Operating Company
+Advertising
+Video Ads
+Act on specified commercial transactions
+Gaming Wikis
+Genshin Impact Walkthrough & Guides Wiki
+Arknights: Endfield Walkthrough & Guides Wiki
+Honkai: Star Rail Walkthrough & Guides Wiki
+Wuthering Waves Walkthrough & Guides Wiki
+Umamusume: Pretty Derby Walkthrough & Guides Wiki
+Zenless Zone Zero Walkthrough & Guides Wiki
+Pokemon TCG Pocket (PTCGP) Strategies & Guides Wiki
+Clair Obscur: Expedition 33 Walkthrough & Guides Wiki
+Digimon Story: Time Stranger Walkthrough & Guides Wiki
+Where Winds Meet Walkthrough & Guides Wiki
+Palworld Walkthrough & Guides Wiki
+Pokemon Legends: Z-A Walkthrough & Guides Wiki
+Dragon Quest 7 Reimagined (DQ7) Walkthrough & Guides Wiki
+Monster Hunter Wilds Walkthrough & Guides Wiki
+Chaos Zero Nightmare Walkthrough & Guides Wiki
+Recommended Games
+Fire Emblem Heroes (FEH) Walkthrough & Guides Wiki
+Diablo 4: Vessel of Hatred Walkthrough & Guides Wiki
+Super Smash Bros. Ultimate Walkthrough & Guides Wiki
+Yu-Gi-Oh! Master Duel Walkthrough & Guides Wiki
+Pokemon Brilliant Diamond and Shining Pearl (BDSP) Walkthrough & Guides Wiki
+Elden Ring Shadow of the Erdtree Walkthrough & Guides Wiki
+Monster Hunter World Walkthrough & Guides Wiki
+The Legend of Zelda: Tears of the Kingdom Walkthrough & Guides Wiki
+Persona 3 Reload Walkthrough & Guides Wiki
+Cyberpunk 2077: Ultimate Edition Walkthrough & Guides Wiki
+Code Vein II Walkthrough & Guides Wiki
+Dragon Quest 7 Reimagined (DQ7) Walkthrough & Guides Wiki
+Nioh 3 Walkthrough & Guides Wiki
+Abyss Walkthrough & Guides Wiki
+Pokemon Champions Walkthrough & Guides Wiki
+Game8 - Your Go-To Platform For All Game Walkthroughs and Strategy Guides
+© 2019 Game8, Inc.

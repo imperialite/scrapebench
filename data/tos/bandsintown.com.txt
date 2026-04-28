@@ -1,0 +1,157 @@
+Data Application Terms of Use — Bandsintown
+Data Application Terms of Use
+BANDSINTOWN, LLC
+Bandsintown Terms of Use (Fans)
+Bandsintown Terms of Use (Artists)
+Bandsintown Data Applications Terms of Use
+Last Updated:
+February 25, 2019
+Please read the following Data Applications Terms of Use Agreement (these “
+Data Applications Terms of Use
+”) carefully because the terms and conditions herein are part of the
+Bandsintown
+Terms of Use Agreement
+(“
+Terms of Use
+”) and represent a legally binding agreement between you and Bandsintown, LLC and its affiliates (collectively, “
+Bandsintown
+”, “
+we
+”, “
+our
+”, “
+us
+”) regarding your use of any Bandsintown (a) application programing interface (each, a “
+Bandsintown API
+”), (b) widget (each, a “
+Bandsintown Widget
+”), or (c) software application, software component or code, and any other technology, that, in each case, is made available to you by Bandsintown and enable you to use and, display certain artist and event data on your websites and/or mobile applications (the Bandsintown APIs, Bandsintown Widgets and all such other technologies, collectively, the “
+Bandsintown Data Applications
+”).  The Bandsintown APIs include, without limitation, that certain Bandsintown API made available via
+https://manager.bandsintown.com/support/bandsintown-api
+and
+https://www.artists.bandsintown.com/bandsintown-api
+. The Bandsintown Widgets include, without limitation, that certain Bandsintown Widgets made available via
+https://manager.bandsintown.com/support/events-widget
+and
+https://www.artists.bandsintown.com/events-widget
+as well as
+https://manager.bandsintown.com/support/track-button
+and
+https://www.artists.bandsintown.com/track-button
+. These Data Applications Terms of Use also govern your use of any (y) technical specifications and/or documentation provided by or on behalf of Bandsintown relating to the Bandsintown Data Applications and your use thereof (collectively, the “
+Specifications
+”) and (z) any and all content, data and media displayed or otherwise made available through the Bandsintown Data Applications (which is made available solely for your use, display and re-distribution in connection with the Bandsintown Data Applications) (collectively, the “
+Bandsintown Content
+”). The Bandsintown Data Applications are meant to be used solely by artists, or people working in connection with or on behalf of artists (collectively, the “
+Bandsintown Data Application Users
+”). Bandsintown Data Applications cannot be used under any other circumstances unless specifically approved by Bandsintown. Unless defined separately, capitalized terms used in these Data Applications Terms of Use have the same meanings ascribed to them in our
+Terms of Use
+or
+Privacy Policy
+.
+When you use or attempt to use the Bandsintown Data Applications and/or the Bandsintown Content, you are signifying your agreement with and acceptance of all these terms and conditions as part of the
+Terms of Use
+that govern your legal and contractual relationship with us. If you are using the Bandsintown Data Applications on behalf of an organization, by accepting this Data Applications Terms of Use, you agree to the terms and conditions hereof on behalf of such organization, and its parents, subsidiaries and sister companies, and you represent and warrant you have full legal authority to bind each of the foregoing entities. In such a scenario, “you” and “your” will refer to that organization, its parents, subsidiaries and sister companies.
+We have the right to change the terms and conditions of these Data Applications Terms of Use at any time as described in our
+Terms of Use
+. If you do not agree with all of the terms and conditions of these Data Applications Terms of Use at any time, including, without limitation, those times when we make changes, do not use or attempt to use the Bandsintown Data Applications and Bandsintown Content, because if you do any of these things, you are agreeing to be bound by all of the terms and conditions of these Data Applications Terms of Use, including, without limitation, any changes we have made.
+1. Bandsintown Data Applications.
+The Bandsintown Data Applications may allow for the access and retrieval of certain Bandsintown Content via the Services, which may be used, displayed and re-distributed to end users of your website(s) and software and mobile applications (collectively, “
+Your Website(s)
+”) in conformance with the Specifications, all subject to the terms and conditions of these Data Applications Terms of Use.
+2. Bandsintown API app IDs; Registration Information.
+In order to access and use the Bandsintown APIs, you must obtain one or more unique application IDs from Bandsintown (collectively, the “
+Bandsintown API app IDs
+”). Your Bandsintown API app IDs are personal to you. You shall not sell, transfer, sublicense, disclose or otherwise allow any other person or entity to use your Bandsintown API app IDs to access and use the Bandsintown APIs and/or Bandsintown Content under any circumstances. You are solely responsible for maintaining the strict confidentiality of your Bandsintown API app IDs and for any damages, liabilities or losses incurred or suffered as a result of your failure to do so. We are not liable for any harm caused by or related to the theft of your Bandsintown API app IDs, your disclosure of your Bandsintown API app IDs, or your authorization to allow another person or entity to access and use any Bandsintown APIs or Bandsintown Content using your Bandsintown API app IDs. You shall immediately notify us if you become aware of any unauthorized use of your Bandsintown API app IDs or other need to deactivate any Bandsintown API app ID due to security concerns. Additionally, you may be required to provide us with certain information including, without limitation, your name or your company’s name, address, email address, the name and/or URL of Your Website(s) on which you intend to implement the Bandsintown APIs and/or display the Bandsintown Content (collectively, your “
+Profile Information
+”). You represent, warrant and covenant that any and all Profile Information and any other information or data you provide to us, is and shall be true, accurate and complete when given to us, that in providing such information to us you shall not knowingly omit or misrepresent any material facts or information, and that you shall promptly enter corrected or updated Profile Information, or otherwise advise us promptly in writing of any such changes or updates. You further consent and authorize us to verify your Profile Information as required for your use and access to the Bandsintown APIs and Bandsintown Content, as applicable.
+3. PERMITTED USE OF BANDSINTOWN DATA APPLICATIONS AND BANDSINTOWN CONTENT.
+a.     Bandsintown APIs License Grant. Subject to the terms and conditions contained herein, Bandsintown grants to you a limited, revocable, non-exclusive, non-transferable, non-sublicensable right and license to use the Bandsintown APIs to display Bandsintown Content on Your Websites. All calls sent to the Bandsintown APIs requesting Bandsintown Content must incorporate your applicable Bandsintown API app ID.
+b.	Bandsintown Widgets License Grant. Subject to the terms and conditions contained herein, Bandsintown grants to you a limited, revocable, non-exclusive, non-transferable, non-sublicensable right and license to display the Bandsintown Widgets on Your Websites. For the avoidance of doubt, you may not make any Bandsintown Widgets available on any third party website or webpage not controlled by you.
+c.     No Modification; No Rights of Transfer or Redistribution; Duty Not To Interfere. You shall not (or permit or facilitate any of the end users of Your Website(s) to) modify, enhance, edit, translate, adapt, copy, reverse engineer, decompile, disassemble, create derivative works based upon, extract source code from, or otherwise alter the Bandsintown Data Applications and/or the Bandsintown Content in any manner unless specifically approved by Bandsintown. You shall not sublicense, transfer, convey or assign to any third party any of the rights granted to you herein or otherwise use, market, promote, display, re-distribute or re-transmit the Bandsintown Content in connection with or via any software applications, systems, platforms or services other than the Bandsintown Data Applications via Your Website(s) as specifically permitted herein unless specifically approved by Bandsintown. You shall not (or permit or facilitate any of the end users of Your Website(s) to) (i) interfere with, impair or otherwise adversely affect, directly or indirectly, the operation of the Services, Bandsintown Data Applications and/or the display or distribution of the Bandsintown Content or (ii) use the Bandsintown Data Applications or Bandsintown Content in any manner that does or could potentially undermine the security or performance of the Services.
+d.     Bandsintown Content Collection, Transfer and Use. You shall not use any automated means (
+e.g.
+, scraping, robots,
+etc
+.) other than the Bandsintown Data Applications (in accordance with these Data Applications Terms of Use) to access, query or otherwise collect the Bandsintown Content or any other information or data from the Services. You may employ session-based caching of Bandsintown API results, provided that you notify us of such caching and update cached results upon any changes in the applicable metadata. For instance, if any Bandsintown Content is removed from the Services or is no longer made available for general viewing, any cached results data and media file related to such Bandsintown Content must be promptly removed from your cache. Do not transfer Bandsintown Content to unauthorized third parties, including (i) directly or indirectly transferring any data (including aggregate, anonymous or derivative data) received via the Bandsintown Data Applications to, or use such data in connection with, any ad network, ad exchange, data broker, or other advertising or monetization-related toolset, even if a user consents to such transfer or use; or (ii) to another service that competes with Bandsintown.
+e.     No Violation of Laws; Infringement of Third Party Rights. You may not use the Bandsintown Data Applications or the Bandsintown Content in any manner and/or for any purpose, or in connection with any application, product, service, website or other offering, that (i) violates (x) the
+Terms of Use
+, (y) any laws, regulations, rules or ordinances or infringes or misappropriates the rights of any third party or (z) terms, conditions and requirements promulgated by any provider of a Third Party Platform (e.g., Facebook’s Terms of Use, etc.), (ii) damages, disparages or adversely affects Bandsintown or its affiliates and/or any of their respective brands, businesses, reputation or goodwill, as determined by Bandsintown in its sole discretion, (iii) Bandsintown, in its good faith reasonable discretion, deems to be objectionable, including without limitation, facilitating and/or promoting illegal activity, depicting sexually explicit images, promoting violence, promoting discrimination, engaging in the endorsement of political positions or political candidates, or engaging in the sale or advertisement of tobacco, firearms, personal hygiene products, pornography, or religious causes, or (iv) does not conform or is inconsistent with the Specifications.
+f.     Bandsintown API Usage Quotas. Bandsintown may, in its sole discretion, and without notice, monitor and restrict your use of the Bandsintown APIs at any time for any reason, including, without limitation, limiting the number of calls you may make from Your Website(s) to the Bandsintown APIs and/or the volume of Bandsintown Content that may be accessed. Bandsintown may use technical measures to prevent over-usage or stop usage of the Bandsintown APIs. Without limiting the generality of the foregoing, you may not use the Bandsintown APIs in any manner that exceeds reasonable request volume, constitutes excessive or abusive usage, or otherwise fails to conform or is inconsistent with the Specifications, all as determined by Bandsintown in its sole discretion. You shall not attempt to aggregate use of the Bandsintown APIs or representation of multiple Bandsintown API app IDs, if applicable, for the purpose of circumventing any such usage quotas.
+g.     Other Restrictions. You shall not use, display, integrate, embed or otherwise make available the Bandsintown Content on any web pages that contain content that competes with or otherwise adversely affects the Services, Bandsintown or its affiliates and/or any of their respective brands, businesses, reputation or goodwill, as determined by Bandsintown in its sole discretion. Any use of the Bandsintown Data Applications and/or Bandsintown Content that (i) is competitive to or inconsistent with Bandsintown's own services or products, including the Services, (ii) aggregates, in any way, any Bandsintown Content with third party content (without distinction) or (iii) fails to attribute the Bandsintown Content appropriately to Bandsintown is expressly prohibited. In addition to the foregoing, you agree to comply with the following restrictions if you use Bandsintown Widgets:
+i.	You shall display the Bandsintown Widgets in the form made available by Bandsintown, without alteration, and in accordance with the requirements set forth in the Specifications.
+ii.	You shall not obfuscate the Bandsintown Widgets in any way, whether by banner advertisements or by any other means, or alter the form or format of the Bandsintown Widgets from that made available by Bandsintown.
+iii.	In the event that you receive information from Bandsintown or from the use of a Bandsintown Widget about visitors to Your Website, your use of such information must comply with these Data Applications Terms of Use, your end user license agreement, your privacy policy, and all applicable laws and regulations. You may not collect or store personal information about Bandsintown users such as a name, user ID, or password.
+iv.	You are responsible for use of Bandsintown Widgets, and for all licensing, reporting, and payment obligations to third parties required in connection with content on or within Your Website other than content within the Bandsintown Widgets.
+v.	The Bandsintown Widgets may not be used for commercial purposes. This restriction does not prohibit you from embedding the Bandsintown Widgets on Your Websites that contain advertising.
+vi.	You may not use a Bandsintown Widget to locally cache any Bandsintown Content.
+h.     Monitoring. You acknowledge that Bandsintown may, but has no obligation to, monitor your access to and use of the Bandsintown Data Applications and Bandsintown Content, and collect usage data related to the same, for the purpose of ensuring quality, improving Bandsintown products and services, and verifying your compliance with these Data Applications Terms of Use and the Specifications. You shall not interfere with or impair any of Bandsintown’s efforts to do so and you agree to provide us with reasonable access to information related to your compliance with these Data Applications Terms of Use.
+i.     Non-Exclusive. You acknowledge and agree that Bandsintown may develop products or services that may compete with Your Website(s) or any other products or services owned or controlled by you or any third party.
+j.     No Technical Support. You acknowledge and agree that Bandsintown has no obligation to provide any software upgrades, enhancements, modifications or technical support services to you in connection with your access to and/or use of the Bandsintown Data Applications or Bandsintown Content. You are solely responsible for providing end user support and any other technical assistance to your end users.
+k.   Fees. Bandsintown reserves the right at any time to impose a fee for your access to and/or use of the Bandsintown Data Applications, in Bandsintown’s sole discretion.
+l.	Commercial Use Restrictions. Unless you receive Bandsintown’s written approval, commercial uses are not permitted for the Bandsintown Data Applications. Such prohibited commercial uses include, but are not limited to: (i) the sale, whether integrated or as a standalone product, of the Bandsintown Data Applications or Bandsintown Content, or sale of access to any of the foregoing; or (ii) the sale of advertising, sponsorships, or promotions on the Bandsintown Data Applications or Bandsintown Content.
+m.	Privacy Policy; End User Data. Each of Your Websites must provide a publicly available and easily accessible privacy policy that complies with all applicable laws, rules and regulations, and explains what data you are collecting and how you will use and disclose such data. With respect to any end user data that is provided to Bandsintown in connection with the use of the Bandsintown Data Applications or Bandsintown Content on Your Websites (including any data collected by Bandsintown as set forth in Section 4 below), you represent and warrant that you have obtained any and all necessary express consents from end users required for the transfer of such data to Bandsintown and Bandsintown’s use thereof as contemplated by these Data Applications Terms of Use.
+4. BRANDING; DISPLAY OF BANDSINTOWN CONTENT.
+You may not remove, modify or impair the display of any trademarks, service marks, trade names, brands, logos and other distinctive identification and/or proprietary indicia legends and/or copyright notices that appear on or in connection with the Bandsintown Data Applications and/or the Bandsintown Content as provided to you (collectively, the “
+Branding
+”).  You acknowledge and agree that any Bandsintown logo that may be provided to you in connection with any Bandsintown Data Application may include a pixel/tag therein. You agree that Bandsintown may collect end user data via such pixel/tag if such logo is included on Your Website and that Bandsintown may use the same for purposes of marketing and advertising the products, services and offerings made available by Bandsintown, its affiliates or promotional partners. Bandsintown hereby grants to you a limited, revocable, non-exclusive, non-sublicensable, non-transferable right and license to use, reproduce, publish, perform and display Branding solely on Your Website(s) that display the Bandsintown Content, all subject to the provisions of these Data Applications Terms of Use. You shall strictly comply with all standards and guidelines with respect to your permitted use of the Branding that could be furnished by Bandsintown at any time and all uses of the Branding in proximity to the trade name, trademark, service name or service mark of any third party shall be consistent with the same. You shall not create a combination or composite mark consisting of the Branding, commingle any Branding with that of any third party, nor shall you engage, participate or otherwise become involved in any activity or course of action that diminishes, tarnishes or otherwise adversely affects the goodwill associated with any Branding. All uses of the Branding shall inure to the benefit of Bandsintown, its suppliers and licensors, as applicable. You may not use the Bandsintown Data Applications, Bandsintown Content, or Branding for any other purpose without Bandsintown’s prior written consent. When displaying Bandsintown Content on Your Website(s), you acknowledge that the Specifications for the applicable Bandsintown Data Application(s) you are using may require you to include the Track artist, RSVP and Notify Me buttons and the ticket link(s) provided to you by the Bandsintown Data Applications as the primary ticket link(s) wherever it is used in the Bandsintown Data Application, and you agree to follow such other requirements, guidelines and “best practices” as may be specified in the Specifications.
+5. OWNERSHIP RIGHTS.
+The Bandsintown Data Applications, Bandsintown Content, Branding and the Specifications (collectively, the “
+Bandsintown Materials
+”) are proprietary to Bandsintown and/or its respective suppliers and licensors and protected by United States copyright and other laws, as well as international treaty provisions and you must treat the same as any other copyrighted and legally protected material. As between you and Bandsintown, Bandsintown owns all right, title and interest in and to the Bandsintown Materials, including, without limitation, all intellectual and proprietary rights appurtenant thereto, and, except for the limited license granted to you herein, nothing in these Data Applications Terms of Use shall be construed to transfer, convey, impair or otherwise adversely affect Bandsintown’s ownership or proprietary rights therein or any other Bandsintown information or materials, tangible or intangible, in any form and in any medium. Bandsintown reserves all rights not expressly granted herein in and to all of the foregoing. Bandsintown has the sole right to obtain, hold and renew in its own name and for its own benefit, all patents, copyrights, registrations and other similar protection in connection with the foregoing and you hereby agree to assign, transfer and convey to Bandsintown all right, title and interest therein and will cooperate with Bandsintown and execute all documents necessary to enable Bandsintown to perfect, preserve, register and record its rights therein. You shall not contest, or assist others in contesting, the validity, enforceability, ownership, or title of the Bandsintown Materials. You do not have the right to use the Bandsintown Materials in any manner not covered by these Data Applications Terms of Use.
+6. NO REPRESENTATIONS OR WARRANTIES
+. THE BANDSINTOWN MATERIALS ARE BEING PROVIDED TO YOU ON AN “AS IS” AND “AS AVAILABLE” BASIS WITHOUT GUARANTEE, REPRESENTATION OR WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR ARISING FROM A COURSE OF DEALING OR USAGE OF TRADE. YOU ASSUME THE ENTIRE RISK ARISING OUT OF USE OR PERFORMANCE OF THE BANDSINTOWN MATERIALS. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, BANDSINTOWN DOES NOT WARRANT THAT THE BANDSINTOWN MATERIALS WILL MEET YOUR REQUIREMENTS OR THAT YOUR ACCESS TO AND USE OR OPERATION OF THE SAME SHALL BE ACCURATE, COMPLETE, APPROPRIATE, RELIABLE, TIMELY UNINTERRUPTED, ERROR-FREE, FREE OF VIRUSES, MALICIOUS CODE, OR OTHER HARMFUL COMPONENTS, OR OTHERWISE SECURE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES. ACCORDINGLY, SOME OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.
+7. LIMITATION OF LIABILITY.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NEITHER BANDSINTOWN NOR ITS AFFILIATES SHALL BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES, OR ANY OTHER FORM OF DAMAGES IN ANY MANNER ARISING OUT OF OR IN CONNECTION WITH THESE DATA APPLICATION TERMS OF USE OR YOUR ACCESS TO, USE AND/OR OPERATION OF THE BANDSINTOWN MATERIALS, REGARDLESS OF THE FORM OF ACTION OR THE BASIS OF THE CLAIM OR WHETHER OR NOT BANDSINTOWN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS AND EXCLUSIONS MAY NOT APPLY TO YOU.
+8. RELEASE AND WAIVER.
+To the maximum extent permitted by applicable law, you hereby release and waive all claims against Bandsintown, its parents, subsidiaries, affiliates and/or their respective successors and assigns, officers, directors, employees, agents, licensors, representatives, advertisers, sponsors, business and promotional partners, operational service providers, suppliers and contractors from any and all liability for claims, damages (actual and/or consequential), costs and expenses (including litigation costs and attorneys' fees) of every kind and nature, arising from or in any way related to your access to and use of the Bandsintown Materials. If you are a California resident, you waive your rights under California Civil Code § 1542, which states, “A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which if known by him must have materially affected his settlement with the debtor.” You understand that any fact relating to any matter covered by this release may be found to be other than now believed to be true and you accept and assume the risk of such possible differences in fact. In addition, you expressly waive and relinquish any and all rights and benefits that you may have under any other state or federal statute or common law principle of similar effect, to the fullest extent permitted by law.
+9. INDEMNITY.
+Your indemnification obligations under the
+Terms of Use
+include, without limitation, any third party claims arising from, related to or caused by (a) your use of the Bandsintown Materials (or any component thereof) or (b) your breach of the terms and conditions of these Data Applications Terms of Use.
+10. TERMINATION.
+Bandsintown may change, suspend, or discontinue all or any aspect of the Services, and/or the Bandsintown Materials, including the availability thereof, and/or take down, remove, suspend or cease transmission of the Bandsintown Materials (or any component thereof). Bandsintown may terminate your access to and use of the Bandsintown Materials (or any component thereof) at any time and for any reason, without notice or liability of kind, and, upon notification of such termination, you shall immediately discontinue all use of and remove all Bandsintown Materials from Your Websites, and delete all Bandsintown Content (including, without limitation, any cached Bandsintown Content).
+11.
+Relationship.
+There is no joint venture, partnership, agency, or fiduciary relationship existing between you and Bandsintown, and nothing in these Data Applications Terms of Use shall be construed to create or recognize any such relationship.
+12. MISCELLANEOUS.
+You agree that Bandsintown may, at any time in its sole discretion, use your name, service or trademarks and/or logos in any publicity, promotional and marketing materials, Site listings of developers, and/or other marketing-related activities. You may not issue any public announcement regarding your use of the Bandsintown Data Applications and/or Bandsintown Content and/or use the name, service or trademarks or logos or otherwise identify or refer to Bandsintown in any press releases, publicity, marketing or promotional material without Bandsintown’s prior, express approval, in its sole discretion, in each instance. The
+Terms of Use
+, incorporating these Data Applications Terms of Use, is the entire agreement between you and us relating to the Bandsintown Materials and your use thereof and supersedes any prior or inconsistent agreements.
+This Data Applications Terms of Use Agreement was last modified on the date indicated above and is effective immediately.
+Copyright © 2024 Bandsintown, LLC
+ABOUT
+Company
+Careers
+Newsroom
+Media Library
+Impact
+FANS
+iPhone App
+Android App
+Website
+PRO SERVICES
+Artists
+Promoters
+Venues
+Publishers
+Brands
+ARTIST TOOLS
+Discovery Engine
+Fan Manager
+Widget & API
+Smart Link
+Posts
+Email Builder
+Signup Form
+HELP
+Help Center
+Contact Us
+Copyright 2011-2023 Bandsintown, LLC
+Terms of Use
+|
+Privacy Policy
+|
+Cookie Policy
+GDPR/CCPA Privacy Request

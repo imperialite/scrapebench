@@ -1,0 +1,49 @@
+BYU BOX.COM TERMS OF SERVICE AND USER AGREEMENT
+Close
+Home
+Burger Menu Icon
+Skip to main content
+Box
+Secure File Sharing, Storage, and Collaboration
+Menu
+BYU BOX.COM TERMS OF SERVICE AND USER AGREEMENT
+BYU has contracted with Box.com to provide cloud based storage service accounts to all BYU students, faculty and staff. As a user of a BYU provided Box.com account ( the “Box Service”), you are responsible for all data and content that you upload to the Box Service or otherwise create using the Box Service (collectively, “Data”).
+Please read these terms of service carefully before using the Box Service. These terms of service govern your access to and use of the Box Service and constitute a legally binding agreement(“Agreement”) by and between y ou and BYU.
+YOU AGREE TO ABIDE BY THE FOLLOWING TERMS AND CONDITIONS IN CONNECTION WITH YOUR ACCESS TO AND/OR USE OF THE BOX SERVICE:
+1. You agree that your access, use, and Data are subject to review, monitoring, and/or downloading at any time by the BYU information security staff for purposes of maintenance, ensuring compliance with university policies, and/or as necessary (in BYU’s sole discretion) to meet any legal obligations, including without limitation responding to subpoenas or investigating violations of law.
+2. You acknowledge and agree that your access to and use of the Box Service is subject to the
+Appropriate Use of IT Resources Policy
+, the
+Information and Records Retention Policy
+, and other relevant
+university policies
+, as they may be updated and/or newly created by BYU from time to time (collectively, the “BYU Policies”), and that such BYU Policies are hereby incorporated into and made a part of this Agreement.
+3. You may not store your own personal data on the Box Service, and fully acknowledge that BYU may use data loss prevention (DLP) scanning and other technical methods to identify certain types of data, protected or otherwise, for security purposes and in order to support overall university compliance with BYU Policies as well as FERPA, HIPAA, PCI, and other legal obligations. Further, you accept the risks associated with storing data on the Box Service and waive any claim associated with the loss or unauthorized disclosure of or access to such data not caused by any willful act or negligence of BYU.
+4. You may not store on the BOX Service any sensitive personal information of others (e.g., SSN, driver’s license) and/or sensitive financial information of others (e.g., tax records, student loan info, bank info) UNLESS the following three conditions are met: a. the information is necessary to meet university business or legal requirements, b. the information is only stored in BYU service account folders and not in personal folders, and c. the information is promptly removed when no longer needed.
+5. The following Data shall not be stored in the Box Service: a. Credit card or debit card data protected by the PCI Data Security Standard b. Federally protected research data (e.g., Controlled Unclassified Information) c. Data subject to and protected by export control laws (e.g., OFAC, ITAR, EAR)
+6. If you use the Box Service to store any FERPA protected data, you agree to and accept the responsibilities associated with such use and agree to complete the university’s online FERPA training before engaging in such use (see
+https://registrar.byu.edu/records-privacy-ferpa
+).
+7. You may not use the Box Service to store any data protected under HIPAA.
+8. The Box Service is provided by BYU primarily for university purposes and as such will be subject to and follow the same de-provisioning rules as other IT systems and services when an individual is no longer affiliated with the university. Further, you acknowledge and agree that the
+Information and Records Retention Policy
+mandates retention and destruction of university records under the university’s records retention schedule, and that university records must be kept in a system (e.g., Box, Sharepoint) approved by University Records and Information Management (URIM).
+9. You will not share passwords or devices or otherwise authorize any third party to access or use the Box Service on your behalf.
+10. You will not engage in unlawful, fraudulent or illegal activity, including unauthorized access or use of the Box Service or any accounts, computers or networks related to the Box Service.
+11. You will not attempt to access or view any information that you are not authorized to access or view. You will not use the Box Service to breach or violate any confidentiality obligations, security controls or privacy requirements, including, without limitation, by collecting or harvesting confidential information.
+12. You will not use the Box Service to misappropriate or violate the rights of any third party, including, without limitation, using the Box Service to store, send, or make available materials protected by intellectual property rights of third parties without the permission of the owner of the intellectual property rights, unless otherwise permitted by applicable law.
+13. You will not damage, disrupt, interfere with, diminish, or render inaccessible or unusable the Box Service, the site or others’ equipment or software or others’ data, communications or use of the Box Service, or attempt to do so, or encourage or assist others to do so.
+14. You will not initiate a denial of service attack from or against the Box Service or release a virus, Trojan horse, worms or other malware or spyware from or against the Box Service.
+15. You will not use the Box Service to perpetrate a hoax or engage in phishing schemes or forgery or other similar falsification or manipulation of data
+16. You will not use the Box Service to abuse, harass, stalk, threaten, or otherwise violate the legal rights of others.
+17. You will not take any action that encourages or assists others in engaging in any acts prohibited under this Agreement (including, without limitation, providing others with the ability to access data they should not be able to access).
+18. You will abide by reasonable administrative directives issued by BYU or Box.com from time to time concerning the access or use of the Box Service.
+19. If you are found to be in violation of this Agreement, BYU may take disciplinary action, including restriction of and possible loss of computing privileges or more serious consequences, up to and including suspension, termination, or expulsion from BYU. You may also be subject to federal, state and local laws applicable to the prohibitions set forth in this Agreement.
+20. You agree that BYU may, from time to time, deem it necessary to make changes to this Agreement. In the event BYU makes changes to this Agreement, BYU will endeavor to notify users that changes have been made to the Agreement (except that with respect to any BYU Policy, BYU’s obligation, if any, to endeavor to notify users as to changes to such BYU Policy will be governed by the terms of such BYU Policy). Unless otherwise specified, changes made to this Agreement will be effective when they are posted to
+http://box.byu.edu
+. IF YOU DO NOT AGREE WITH ANY CHANGES THAT HAVE BEEN MADE TO THE AGREEMENT IN THE INTERIM, YOUR SOLE AND EXCLUSIVE REMEDY WILL BE TO TERMINATE YOUR USE OF THE BOX SERVICE.
+If you have any questions about this Agreement please contact the OIT Service Desk at
+801‑422‑4000
+.
+Version 2
+November 1, 2018

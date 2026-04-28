@@ -1,0 +1,63 @@
+# robots.txt for https://www.imdb.com properties
+# See https://m.imdb.com/robots.txt for the mDot equivalent
+ 
+User-agent: *
+Disallow: /OnThisDay
+Disallow: /*/OnThisDay
+Disallow: /ads/
+Disallow: /*/ads/
+Disallow: /ap/
+Disallow: /*/ap/
+Disallow: /mymovies/
+Disallow: /*/mymovies/
+Disallow: /register
+Disallow: /*/register
+Disallow: /registration/
+Disallow: /*/registration/
+Disallow: /search/name-text
+Disallow: /*/search/name-text
+Disallow: /search/title-text
+Disallow: /*/search/title-text
+Disallow: /find
+Disallow: /*find
+Disallow: /find$
+Disallow: /*/find$
+Disallow: /find/
+Disallow: /*/find/
+Disallow: /updates
+Disallow: /*/updates
+Disallow: /search/title/?title_type=feature,tv_movie,tv_miniseries,documentary,short,video,tv_short&release_date=,2020-12-31&lists=%21ls538187658,%21ls539867036,%21ls538186228&view=simple&sort=num_votes,asc&aft
+Disallow: /*/search/title/?title_type=feature,tv_movie,tv_miniseries,documentary,short,video,tv_short&release_date=,2020-12-31&lists=%21ls538187658,%21ls539867036,%21ls538186228&view=simple&sort=num_votes,asc&aft
+Disallow: /user/ur*/ratings
+Disallow: /*/user/ur*/ratings
+Disallow: /user/ur*/checkins
+Disallow: /*/user/ur*/checkins
+Disallow: /_json/*
+Disallow: /*/_json/*
+Disallow: /contribute/*
+Disallow: /*/contribute/*
+ 
+User-agent: Baiduspider
+Disallow: /list/*
+Disallow: /*/list/*
+Disallow: /user/*
+Disallow: /*/user/*
+ 
+User-agent: bingbot
+Disallow: /showtimes/location/*
+Disallow: /*/showtimes/location/*
+
+User-agent: anthropic-ai
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+User-agent: CCbot
+Disallow: /
+User-agent: FacebookBot
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: PiplBot
+Disallow: /

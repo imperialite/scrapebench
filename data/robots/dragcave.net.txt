@@ -1,0 +1,41 @@
+User-agent: *
+Disallow: /agreement/
+Disallow: /image/
+Disallow: /images/
+Disallow: /click/
+Disallow: /layout/
+Disallow: /api
+Disallow: /el
+Disallow: /diag.php
+Disallow: /proxycheck.gif
+Allow: /api/docs
+
+User-agent: Adsbot-Google
+User-agent: Mediapartners-Google
+User-agent: Googlebot
+Allow: /image/
+Allow: /images/
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /

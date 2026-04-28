@@ -1,0 +1,1058 @@
+Fever Terms of Use
+Terms of Use and Service
+TERMS OF USE
+1.
+Who We Are
+2.
+Our Terms of Use
+3.
+Your Use of the Services
+4.
+Fever’s role
+5.
+Email
+6.
+Account, Password And Security
+7.
+Content
+8.
+Conduct
+9.
+Additional Services; Coupons and Vouchers
+10.
+Links
+11.
+Disclaimer
+12.
+Limitation of Liability
+13.
+Intellectual Property
+14.
+Privacy Policy; Customer information
+1. Who we are
+1.1
+Fever Labs Inc. is a corporation duly organized and existing under the laws of the State of Delaware, United States of America, TAX ID 99-0368536,
+            with offices at 50 Greene St 3 Fl, New York, NY 10013, United States (“Fever”). The Fever platform comprises this website and our mobile apps (iOS
+            and Android), and helps people discover curated experiences in their cities.
+1.2 The Services
+Fever’s Websites and domains, including www.feverup.com, and all of the webpages, subdomains, country level domain variants and subparts of those
+            Websites (collectively, our “Website”), all of the services available on or through the Website or otherwise provided by us (including our
+            application programming interfaces), and all of our free mobile applications, including without limitation, Fever app, are offered, maintained and
+            provided by Fever. We refer to these as our “Services.”
+1.3 Users
+Through the Services, Fever provides a simple and quick means for registered users who are event organizers, planners and charitable organizations
+            (“Event Organizers”) to create event registration, speaker profile, organizer profile, fundraising and other webpages related to their events, to
+            promote those pages and events to visitors or browsers on the Services and to sell tickets and registrations (or issue free registrations) and sell
+            merchandise related to those events to users who wish to make purchases, registrations or donations from or to such events (including to free
+            events) (“Customers”).
+We refer to Event Organizers, Customers and other visitors and browsers of the Services collectively as “Users” or “you.”
+2. Our Terms Of Use
+2.1 Application
+The following policy sets forth the terms and conditions upon which you may use the Services (the “Terms of Use”). If you use the Services in any
+            way, these Terms of Use apply to you. By accepting the Terms of Service and using the Services in any manner, you agree to these Terms of Use
+            without modification and enter into a binding contract with Fever.
+2.2 Incorporation By Reference
+These Terms of Use and the rights and obligations contained in these Terms of Use are in addition to and are incorporated into the Terms of Service
+            by reference. Nothing in these Terms of Use shall be deemed to modify, waive, amend or rescind any other term of the Terms of Service.
+3. Your Use Of The Services
+3.1 The Services
+Fever hereby grants you a personal, non-exclusive, non-transferable, non-sublicensable, revocable (in accordance with Section 4 of the Terms of
+            Service), limited right to access and use the Services solely for the purposes of (a) browsing the Services and searching for, viewing, registering
+            for or purchasing tickets or making donations to an event that is registered on the Services; and/or (b) if you are an Organizer, creating event
+            registration, speaker profile, organizer profile, fundraising and other webpages with respect to, and promoting, managing, tracking, and collecting
+            sales proceeds for, an event, in each case (i) in compliance with these Terms of Use, Merchant Agreement, Privacy Policy and, in general, the Terms
+            of Service; and (ii) to the extent permitted under all applicable local, state, provincial, national and other laws, rules and regulations.
+            Notwithstanding the foregoing, you shall not, and shall not permit anyone else to, directly or indirectly (A) copy, modify, reproduce, translate,
+            localize, port or otherwise create derivatives of any part of the Services; (B) reverse engineer, disassemble, decompile or otherwise attempt to
+            discover the source code or structure, sequence and organization of all or any part of the Services (except that this restriction shall not apply to
+            the limited extent restrictions on reverse engineering are prohibited by applicable local, state, provincial, national or other law, rule or
+            regulation); (C) rent, lease, resell, distribute, use the Services for timesharing, service bureau or other commercial purposes not contemplated by
+            this paragraph or otherwise exploit the Services in any unauthorized or unintended manner; (D) remove or alter any proprietary notices or labels on
+            or in the Services; or (E) engage in any activity that interferes with or disrupts the Services. Any rights not expressly granted in this paragraph
+            are reserved.
+3.2 Applications
+You may access and use the Services through our Applications, Website or any other Fever Platforms (all together, “the Applications”). For clarity,
+            any access to or use of the Services via the Applications and the Applications themselves shall be deemed to be part of the Services and subject to
+            the Terms of Service and these Terms of Use. This right to access and use the Applications may be revoked in accordance with Section 4 of the Terms
+            of Service and Fever may discontinue or modify the Applications as set forth in Section 12 below.
+4. Fever's Role
+4.1 Listing Service and Limited Agent
+Unless otherwise stated in the contract between Fever and the Event Organizer (i.e.: prepurchase of inventory by Fever for certain events), Fever
+            is not the organizer or owner of the events listed for sale or registration on the Services. Fever provides the Services, which allow Event
+            Organizers to list and promote their events, but all sales are, by default and in origin, made by the respective Organizer listed on the applicable
+            event page. Fever also acts as the Organizer’s limited agent solely for the purpose of using its third party payment providers to collect payments
+            made by Customers on the Services with respect to an event and passing such payments through to the applicable Organizer. It is the Organizer’s sole
+            obligation to ensure that any event page posting on the Services and the nature and conduct of the underlying event meet all applicable local,
+            state, provincial, national and other laws, rules and regulations, and that the goods and services described in any event page posting are actually
+            delivered in a satisfactory manner.
+4.2 Payments from Customers
+All payments made by Customers to attend the Events of Organizers will be made through the Fever Applications. Fever may use third party payment
+            processing partners to process the transaction as Organizer’s limited payment agent.
+4.3 Fees
+Creating an account, listing an event through the 0% Commission Link and accessing the Services is free. We charge our fees only when you sell or
+            buy paid tickets or registrations through one of Fever Platforms. All descriptions of standard fees on the Services represent the standard fees that
+            Fever charges to Organizers. These fees may vary based on individual agreements between Fever and certain Organizers. These fees will be absorbed
+            into the ticket or registration price and, at Fever’s sole discretion, either a) paid by the Organizer out of ticket and registration gross proceeds
+            or b) deducted by Fever from the amount owed by Fever to the Organizer. The fees charged to Customers may include certain other charges, including
+            without limitation, facility fees, royalties, taxes, processing fees and fulfilment fees. Therefore, the implied fees paid by Customers for an event
+            are not necessarily the same as those charged by Fever to the applicable Organizer or the standard fees described on the Merchant Agreement. In
+            addition, certain fees are meant, on average, to defray certain costs incurred by Fever, but may in some cases include an element of profit and in
+            some cases include an element of loss. Fever does not control (and thus cannot disclose) fees levied by your bank and/or credit card company,
+            including fees for purchasing tickets and registrations in foreign currencies or from foreign persons. Be sure to check with your bank or credit
+            card company prior to engaging in a transaction to understand all applicable fees, credit card surcharges and currency conversion rates.
+4.4 Refunds
+The varying exchange and refund policies set forth by our Event Organisers prohibit Fever, by default, from issuing exchanges or refunds after a
+            booking is placed.
+If a refund or exchange is requested by a Customer, such request will be processed by Fever. Fever therefore asks that all Customers contact
+            Fever’s Customer Service with any refund requests.
+Fever tickets are not refundable. In case an event is postponed, there is a change of venue or any other significant change to event (or, in the
+            case of a music festival, to the line-up), or the event is cancelled for reasons not imputable to Fever, customers are required to contact Fever no
+            later than the Monday following the event to request a voucher for the same ticket at a later date or the equivalent amount to be spent in other
+            plans from the Application.
+5. Email
+5.1 Email Tools
+Fever may make available to you features and tools that allow you to contact other users of the Services or third parties via email (the “Email
+            Tools”). In the event that you use these Email Tools, you represent, warrant and agree that:
+(a) you have all right and authority necessary to send emails to the addresses on your recipient list, including without limitation, that such
+            addresses were gathered on an opt-in basis in any jurisdiction where that is required by applicable local, state, provincial, national or other law,
+            rule or regulation, and your emailing of such addresses complies with the privacy policy under which the recipient emails were gathered and which
+            was disclosed to recipients at the time of gathering;
+(b) your use of the Email Tools is in compliance with all applicable local, state, provincial, national and other laws, rules and regulations,
+            including those relating to spam and email;
+(c) your use of the Email Tools will be solely to manage a bona fide event that you have listed on the Services;
+(d) your use of the Email Tools and the content of your emails complies with Section 8.1 of these Terms of Use;
+(e) you will not use false or misleading headers or deceptive subject lines in emails sent using the Email Tools;
+(f) you will identify the email message as commercial in nature;
+(g) you will not hide, disable, remove, or attempt to hide, disable or remove the unsubscribe link that Fever includes on every email; and
+5.2 Remedies
+If you fail to abide by any of the foregoing, if your use of the Email Tools results in bounce rates, complaint rates or unsubscribe requests in
+            excess of industry standards or if your emails are found to cause disruption to the Services, Fever may, among other actions, limit or suspend your
+            access to the Email Tools or, ultimately, cancel your account.
+6. Account, Password And Security
+6.1 Registration
+As part of certain registration processes on the Services, you will create an account or change or add information about your account. You agree
+            (a) to provide true, accurate, current and complete information about yourself, (the “Registration Data”); and (b) to maintain and promptly update
+            the Registration Data to keep it true, accurate, current and complete. In the event of any dispute between two or more parties as to account
+            ownership, you agree that Fever shall be the sole arbiter of such dispute in its discretion and that Fever’s decision (which may include termination
+            or suspension of any account subject to dispute) shall be final and binding on all parties.
+6.2 Security
+You are responsible for maintaining the confidentiality of your password and account details, and are fully responsible for all activities that
+            occur under your account. You agree to immediately notify Fever of any unauthorized use of your password or account or any other breach of
+            security.
+6.3 Age Restrictions
+Fever is concerned about the safety and privacy of children. For this reason, and to be consistent with the terms of use of any third party service
+            providers used by Fever, you must be at least eighteen (18) years of age, or the legal age of majority where you reside, to use the Services.
+            Otherwise you may use the Services only with the involvement of a parent or guardian. In any event, you may not use the Services or register if you
+            are under the age of thirteen (13).
+7. Content
+7.1 Website Content
+You agree that all material, including without limitation information, data, text, editorial content, design elements, look and feel, formatting,
+            graphics, images, photographs, videos, music, sounds and other content (collectively, “Content”), contained in or delivered via the Services or
+            otherwise made available by Fever in connection with the Services (collectively, “Website Content”) is protected by copyrights, trademarks, service
+            marks, trade secrets or other intellectual property and other proprietary rights and laws. Fever may own the Website Content or portions of the
+            Website Content may be made available to Fever through arrangements with third parties. The compilation of all Website Content included in or made
+            available through the Services is the exclusive property of Fever and is protected by copyright laws. Except as expressly authorized by Fever in
+            writing or in connection with your permitted use of the intended functionality of the Services, you agree not to sell, license, rent, modify,
+            distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works of any Website Content,
+            or post any Website Content on any other website or in a networked computer environment for any purpose. You shall use the Website Content only for
+            purposes that are permitted by these Terms of Use and any applicable local, state, provincial, national or other law, rule or regulation. Any rights
+            not expressly granted herein are reserved.
+7.2 Your Content
+You acknowledge and agree that if you contribute, provide or make available any Content to the Services (“Your Content”), you hereby grant to Fever
+            a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, transferable, sublicensable (through multiple tiers) right and license to access,
+            use, reproduce, transmit, adapt, modify, perform, display, distribute, translate, publish and create derivative works based on Your Content, in
+            whole or in part, in any media, for the purpose of operating the Services (including Fever's promotional and marketing services). Notwithstanding
+            the foregoing, Fever does not claim, and you do not transfer, any ownership rights in any of Your Content and nothing in these Terms of Use will
+            restrict any rights that you may have to use and exploit Your Content outside of the Services. You represent and warrant that you have all the
+            rights, power and authority necessary to grant the foregoing license, and that all Your Content (a) does not infringe, violate, misappropriate or
+            otherwise conflict with the rights of any third party; (b) complies with all applicable local, state, provincial, national and other laws, rules and
+            regulations; and (c) does not violate the Terms of Service, including without limitation these Terms of Use and the Privacy Policy. In addition,
+            Your Content must be accurate and truthful.
+Fever reserves the right to remove any of Your Content from the Services at any time if Fever believes in its discretion that it violates the Terms
+            of Service, including without limitation, these Terms of Use. In addition, you agree that Fever may use your name and logo (whether or not you have
+            made it available through the Services) for the purpose of identifying you as an existing or past customer of Fever both on the Services and in
+            marketing, advertising and promotional materials.
+7.3 Feedback & Revisions
+You hereby acknowledge that (a) any and all suggestions for correction, change and modification to the Services and other feedback (including but
+            not limited to quotations of written or oral feedback), information and reports provided to Fever by you (collectively “Feedback”); and (b) all
+            improvements, updates, modifications or enhancements, whether made, created or developed by Fever or otherwise relating to Feedback (collectively,
+            “Revisions”), are and will remain the property of Fever. All Feedback and Revisions become the sole and exclusive property of Fever and Fever may
+            use and disclose Feedback and/or Revisions in any manner and for any purpose whatsoever without further notice or compensation to you and without
+            retention by you of any proprietary or other right or claim. You hereby assign to Fever any and all right, title and interest (including, but not
+            limited to, any patent, copyright, future copyright, trade secret, trademark, show-how, know-how and any and all other intellectual property right)
+            that you may have in and to any and all Feedback and Revisions. You hereby agree to waive any moral rights you may have in any and all Feedback and
+            Revisions, and consent to any act which amounts to an infringement of any such moral right, in favor of Fever. At Fever’s request, you will execute
+            any document, registration or filing required to give effect to these provisions.
+8. Conduct
+8.1 Certain Restrictions
+All interactions on the Website must comply with Fever’s Terms of Service. To the extent your conduct, in our sole discretion, restricts or
+            inhibits any other user from using or enjoying any part of the Website, we may limit your privileges on the Website and seek other remedies. The
+            following activities performed by any user of the Website are prohibited on the Website and constitute express violations of The Terms of Service
+            and of these Terms of Use:
+A. Submitting any content to the Website that: i) contains personal information of users, such as their e-mail and name ("Personal Information"),
+            except when we expressly ask you to provide such information ; ii) violates any national or international applicable laws (including but not limited
+            to intellectual property laws, laws relating to rights of privacy and rights of publicity and laws related to defamation); iii) offers unauthorized
+            downloads of any copyrighted, confidential or private information; iv) impersonates any person or entity, or falsifies or otherwise misrepresents
+            yourself or your affiliation with any person or entity; v) possesses or creates a privacy or security risk to any person; vi) makes use of offensive
+            language or images; vii) contains software viruses or malware or any other computer code designed to interrupt or limit the functionality of any
+            computer software or hardware; or viii) is protected by copyright, trademark or other proprietary right without the express permission of the owner
+            of the copyright, trademark or other proprietary right.
+B. Attempting to do or actually doing any of the following: i) interfering with, disrupting or damaging the service given to any user in any
+            manner, including, without limitation, submitting a virus to the Website or attempting to overload, “flood,” “spam,” “mail bomb” or “crash” the
+            Website; ii) scanning or monitoring the Website for data gathering purposes in an effort to track sales, usage, aggregate offering information,
+            pricing information or similar data; iii) scanning or testing the security or configuration of the Website or to breach security or authentication
+            measures; or iv) accessing data not intended for you, such as logging into a server or an account which you are not authorized to access.
+C. Using any of the following: i) frames, framing techniques or framing technology to enclose any content included on the Website without our
+            express written permission; ii) any Website content, including without limitation “Customer Information” (defined below in Section 14.2 of these
+            Terms of Use), in any meta tags or any other “hidden text” techniques or technologies without our express written permission; iii) the Website or
+            any of its resources to solicit consumers, activity providers or other third-parties to become users or partners of other online or offline services
+            directly or indirectly competitive or potentially competitive with Fever, including, without limitation, aggregating current or previously offered
+            activities; or iv) the Website or any of its contents to advertise or solicit any content with commercial, political or religious purposes.
+D. Collecting any of the following: i) personal Information, “Customer Information” (as defined in Section 14.2. of these Terms of Use); or ii)
+            content from the Website, including, but not limited to, information in connection with current or previously offered activities; with the aim of
+            featuring such content to consumers in any manner that diverts traffic from the Website without our express written permission.
+E. Engaging in any of the following: i) tampering or interfering with the proper functioning of any part, page or area of the Website or any
+            functions or services provided by Fever; ii) violating the restrictions in any robot exclusion headers on the Website or bypassing or circumventing
+            other measures employed to prevent or limit access to the Website; iii) reselling or repurposing your access to the Website or any purchases made
+            through the Website; iv) using any Fever account for resale or for speculative, false, fraudulent or any other purpose not expressly permitted by
+            these Terms of Use; v) taking any action that places excessive demand on our services or imposes, or may impose, an unreasonable or
+            disproportionately large load on our servers or other portion of our infrastructure (as determined in our sole discretion); vi) accessing,
+            monitoring or copying any content from the Website using any “robot,” “spider,” “scraper” or other automated means or any manual process for any
+            purpose without our express written permission; vii) aggregating any current or previously-offered activities or other content or information from
+            the Website (whether using links or other technical means or physical records associated with purchases made through the Website) with material from
+            other websites and publishing it neither on our Website nor on a secondary website without our express written permission; viii) deep-linking to any
+            portion of the Website (including, without limitation, the purchase path for any Ticket) without our express written permission; ix) hyperlinking to
+            the Website from any other website without our written consent; or x) acting illegally or maliciously against the business interests or reputation
+            of Fever and/or its subsidiaries or affiliates, including without limitation Fever Labs, Inc., our activity providers or our services.
+8.2 Certain Remedial Rights.
+You acknowledge and agree that Fever may preserve Your Content and account information and may also disclose Your Content and account information
+            if required to do so by law or  for attending potential requests from public authorities and courts to (a) comply with legal process; (b)
+            respond to claims that any of Your Content violates the rights of third parties; (c) enforce or administer the Terms of Service, including without
+            limitation, these Terms of Use; and/or (d) protect the rights, property and/or personal safety of Fever, its users and/or the public, including
+            fraud prevention. You understand that the technical processing and transmission of the Services, including Your Content, may involve transmissions
+            over various networks and/or changes to conform and adapt to technical requirements of connecting networks or devices.
+9. Additional Services; Coupons and Vouchers
+9.1. Other Services
+Fever may, upon request, and for such fees as Fever may establish from time to time in its sole discretion, provide additional services to you
+            beyond the basic functionality of the Site and Applications, including without limitation, marketing and promotion services, leasing ticket scanning
+            and other equipment, providing on-site entry management consultants to assist you with your event set-up and providing dedicated account management
+            services. All such additional services, whether provided prior to, during or following your event, shall be deemed a part of the Services and
+            subject to all the terms and conditions of the Terms of Service, including without limitation, these Terms of Use. Such additional services shall be
+            set forth in additional terms and conditions or other written agreements between you and an authorized officer of Fever, and shall set forth the
+            applicable fees and the other terms and conditions relating to such additional services.
+9.2. Coupons and Vouchers
+Fever will, from time to time, grant vouchers (the “Coupons”) to Customers to redeem them at the time of purchasing a paid event through any of the
+            Fever platforms. The use of and redemption of such coupons will fall under the specific conditions stipulated by Fever and added to the Coupon
+            information available to the Customer. Fever reserves the right to stipulate, at its sole discretion, a different policy or set of terms for each of
+            the Coupons granted.
+Coupons are owned by Fever and are offered under its own discretion. The users agree that Coupons may be subject to change, whether they have been
+            redeemed or not, in cases where Fever considers it necessary.
+Each Coupon will only be valid and redeemable in the same city where the Coupon was originally granted. Trying to change the selected City in the
+            Application for the sole purpose of being awarded the Coupons being offered in such different cities constitutes a wrongful use of the Applications
+            and of Fever’s platforms and may automatically result in the cancellation of part or all of the user’s coupons or, ultimately, in the cancellation
+            of the account.
+Each Coupon has it own expiration date and conditions which will be indicated in the own coupon and that will be available to the Customer. Plans
+            purchased with invalid coupons will be automatically cancelled.
+10. Links
+10.1 Third Party Websites
+The Services may provide, or Users (in particular, Event Organizers) may provide, links to other Internet websites or resources. Because Fever has
+            no control over such websites and resources, you acknowledge and agree that Fever is not responsible for the availability of such websites or
+            resources, and does not endorse and is not responsible or liable for any Content, advertising, products, services or other materials on or available
+            from such websites or resources, or any damages or losses related thereto, even if such websites or resources are connected with Fever partners or
+            third party service providers. Any personal data processed by such third party websites is subject to their own privacy policies that you should
+            read carefully and accept, when applicable. No personal data is transferred from Fever to those third party website, except in those cases set out
+            in
+the Privacy Policy .
+10.2 Linked Accounts
+As part of the Services you may be able to link an account you have with a third party service, such as a social media website (e.g.: Facebook or
+            Google). By linking such third party account, you agree that Fever may access, make available to and store any Content that you have provided to and
+            stored in such third party account so that it is available on or through the Services
+11. Disclaimer
+The Website and its content are delivered on an "as-is" and "as-available" basis. Fever disclaims all warranties, express or implied, including
+            also any implied warranties of merchantability and fitness for a particular purpose. Fever does not promise that the Website will be error-free,
+            uninterrupted, or that it will provide specific results from use of the Website or any content, search or link on it. Fever cannot ensure that files
+            you download from the Website will be free of viruses or contamination or destructive features. Fever will not be liable for any damages of any kind
+            arising from the use of this Website, including without limitation, direct, indirect, incidental and punitive and consequential damage. Fever makes
+            no guarantee of any specific result from use of this Website or use of the Fever service.
+12. Limitation of liability
+Whilst we endeavour to ensure that the website is fully operational at all times, on those occasions when there are interruptions to service due to
+            essential maintenance, system upgrades, internet service interruptions or any other factors beyond our control, Fever will not be liable for any
+            indirect, consequential, exemplary, incidental, special or punitive damages, or for lost profits, revenues or business opportunities, even if Fever
+            has been advised of the possibility of such damages. In no event shall Fever be liable for any indirect or consequential loss or any loss (whether
+            incurred directly or indirectly) of profit, business, revenue, date, goodwill or reputation. Fever disclaims any and all liability for the acts,
+            omissions and conduct of any third party users, Fever users, advertisers and / or sponsors on the Website, in connection with the Services or
+            otherwise related to your use of the Website and /or the Services. Fever is not responsible for the products, services, actions or failure to act of
+            any venue, performer, promoter or other third party in connection with or reference on the Website. Notwithstanding the foregoing, nothing in the
+            Terms of Service, in general, and in the Terms of Use, in particular, shall be taken to limit or exclude any liability which Fever may have for (i)
+            death or personal injury arising from Fever negligence; (ii) fraudulent misrepresentation; or (iii) any liability that cannot be excluded or
+            restricted by law.
+13. Intellectual Property
+All content provided on the Fever website is protected by copyright, trademark, trade secret or other intellectual property laws and treaties.
+            Fever, the website and design are protected by intellectual property laws and owned by Fever Labs, Inc. All rights reserved.
+14. Privacy Policy; Customer information
+14.1. Privacy Policy
+Fever highly values the privacy of its user's. For more information regarding personal data protection, please refer to the Fever Privacy Policy
+available here
+.
+The Privacy Policy is incorporated into the Terms of Service by reference. You should review and accept the Privacy Policy.
+14.2 Access to personal data by the Event Organizers
+All Customer Information inputted by a Customer on event pages posted by an Organizer on the Services will be shared with the applicable Organizer
+            and may also be used by Fever in accordance with our
+Privacy Policy
+, including marketing or promotion of other events or services that may be of interest to the applicable Customer. Note that payment data (as
+defined in the Privacy Policy)
+will not be shared with Organizers. Each Organizer represents, warrants and agrees that (a) it will at all times comply with all applicable
+            local, state, provincial, national and other laws, rules and regulations with respect to Customer Information; (b) it will at all times comply with
+            any applicable policies posted on the Services with respect to Customer Information; and (c) upon a request of a given Customer or as permitted in
+            Section 8.2 of these Terms of Use, Fever is authorized at its discretion to delete or anonymize Customer Information of a requesting Customer from
+            the Services at which time it will no longer be available to Organizer through the Services or will no longer be linked to an identifiable Customer
+            through the Services. For purposes of this Section, “Customer Information” means information about a given Customer made available on or through the
+            Services, including, without limitation, name, address, e-mail address, past event attendance, event interests, credit card type, last 4 credit card
+            digits and phone numbers, but excluding Payment Data.
+TERMS OF SERVICE
+1.
+Who We Are
+2.
+Our Terms of Service
+3.
+Your Acceptance
+4.
+Term; Termination
+5.
+Special Terms For International Use
+6.
+Important Legal Terms Governing All Use Of The Services
+1. Who we are
+1.1 Fever
+The owner of the Website www.feverup.com as well as the application (or “app”) is FEVER LABS, INC. (hereinafter, Fever), TIN:99-0368536, registered
+            at 50 Greene St 3 Fl, New York, NY 10013, United States.
+Fever is a web and mobile app that drives users to consume offline entertainment by providing curated events based on its proprietary analytics of
+            consumer data. Fever is able to drive traffic and provide an avenue for spontaneous discovery for event organizers.
+1.2 The Services
+Fever’s Websites and domains, including www.feverup.com, and all of the webpages, subdomains, country level domain variants and subparts of those
+            Websites (collectively, our “Website”), all of the services available on or through the Website or otherwise provided by us (including our
+            application programming interfaces), and all of our free mobile applications, including without limitation, Fever app, are offered, maintained and
+            provided by Fever. We refer to all of these as our “Services.”
+1.3 Users
+Through the Services, Fever provides a simple and quick means for registered users who are event organizers, planners and charitable organizations
+            (“[Event] Organizers”) to create event registration, speaker profile, organizer profile, fundraising and other webpages related to their events, to
+            promote those pages and events to visitors or browsers on the Services and to sell tickets and registrations (or issue free registrations) and sell
+            merchandise related to those events to users who wish to make purchases, registrations or donations from or to such events (including to free
+            events) (“Customers”). We refer to Event Organizers, Customers and other visitors and browsers of the Services collectively as “Users” or
+            “you.”
+1.4 Contracting Party
+The Services are being provided to you by, and you are entering into these Terms of Service with, Fever Labs, Inc., a Delaware Corporation with
+            head offices at New York (50 Greene St 3 Fl, New York, NY 10013, United States) “Fever,” “us,” “we” or “our.”
+2. Our Terms Of Service
+2.1 Terms of Service Agreement
+The following pages contain our Terms of Service Agreement (“Terms of Service”). These Terms of Service govern all of our Services, all of which
+            are offered subject to your acceptance without modification of these Terms of Service. In addition to the Sections below, these Terms of Service
+            include and incorporate by reference the following agreements, terms, policies, requirements and guidelines:
+• our Terms of Use available
+here
+;
+• our Privacy Policy available
+here
+;
+• for Organizers who post events with paid or free tickets, either through our 0% Commission Link or through Fever Platforms, our Merchant
+            Agreement available
+here
+;
+• additional terms and conditions that are displayed along with additional Services that you may use or purchase from time to time.
+3. Your Acceptance
+3.1 Binding Agreement
+You agree to these Terms of Service and you enter into a binding contract with Fever either when you sign up for a registered account by clicking
+            “Sign Up,” “Register Now,” “Get Started”, “Create your Event” or similar buttons, or if you are an unregistered Customer, when you purchase a ticket
+            to or register for an event (including free events) or purchase merchandise, a service or make a donation related to an event, in each case by
+            clicking “Pay Now,” “Register Now,” “Buy Now”, “Purchase”, “Join” or similar buttons, or in accordance with Section 3.2 below. In the case the
+            Privacy Policy was not expressly accepted by you, while being a registered user, Fever will only process any personal data that is necessary to
+            provide the Services. If you do not agree to any portion of these Terms of Service, do not use or access the Services. If you will be using the
+            Services on behalf of an entity, you agree to these Terms of Service on behalf of that entity and its affiliates and you represent that you have the
+            authority to do so. In such case, “you” and “your” will refer to that entity. If you do not have such authority, or if you do not agree to any
+            portion of these Terms of Service, do not use or access the Services.
+THESE TERMS OF SERVICE INCLUDE (A) AN ARBITRATION PROVISION FOR USERS LOCATED IN THE UNITED STATES; (B) A WAIVER OF RIGHTS TO BRING A CLASS ACTION
+            AGAINST FEVER FOR USERS LOCATED IN THE UNITED STATES; (C) CERTAIN DISCLAIMERS OF WARRANTIES ON BEHALF OF FEVER; (D) CERTAIN LIMITATIONS OF LIABILITY
+            FOR THE BENEFIT OF FEVER; AND (E) A RELEASE BY YOU OF ALL CLAIMS FOR DAMAGE AGAINST FEVER ARISING OUT OF DISPUTES BETWEEN YOU AND THIRD PARTIES IN
+            CONNECTION WITH YOUR USE OF THE SERVICES. BY USING ANY OF THE SERVICES, YOU AGREE TO THESE PROVISIONS.
+3.2 Modifications
+Except to the extent set forth in Section 6.10(i) below, Fever reserves the right, at its sole discretion, to modify or replace any of the terms or
+            conditions of these Terms of Service (or any of the agreements that make up these Terms of Service) at any time (collectively, “Modifications”).
+            Modifications to these Terms of Service will be posted to the Fever website with a change to the "Updated” date at the top of these Terms of
+            Service. In certain circumstances Fever may provide you with additional notice of such Modifications, via email or with in-Service notifications.
+            Modifications will be effective the sooner of any date established by Law or thirty (30) days following the "Updated” date or such other date as
+            communicated in any other notice to you, except that changes addressing new functions of the Services or which do not impose any additional burdens
+            or obligations on you will be effective immediately. Fever will always inform you of any changes that may affect the use or processing of your
+            Personal Data. Your continued use of the Services following the effectiveness of any Modifications to these Terms of Service constitutes acceptance
+            of those Modifications as well. If any Modification to these Terms of Service is not acceptable to you, you must cease accessing, browsing and
+            otherwise using the Services. Other than as set forth in this paragraph, these Terms of Service may only be modified through a written Ticketing
+            Services Agreement or written Addendum Agreement , signed by you and an authorized officer of Fever.
+3.3 Language
+We may translate these Terms of Service (or any of the agreements that make up these Terms of Service) into other languages for your convenience.
+            The English language version of each of these documents is the version that governs your use of the Services and in the event of any conflict
+            between the English language version and a translated version, the English language version will control.
+4. Term; Termination
+4.1 Term
+These Terms of Service are effective upon your Acceptance as set forth under Section 3.1 above and continue in effect until terminated.
+4.2 Termination by Fever
+Except to the extent we have agreed otherwise in a separate written Addendum Agreement or Ticketing Services Agreement between you and an
+            authorized officer of Fever, Fever may terminate your right to use the Services at any time for (a) your violation or breach of these Terms of
+            Service; (b) your misuse or abuse of the Services; or (c) if allowing you to access and use the Services would violate any applicable local, state,
+            provincial, national and other laws, rules and regulations or would expose Fever to legal liability. We will use reasonable efforts to provide you
+            notice of any such termination. Further, you agree that Fever shall not be liable to you or any third-party for any such termination of your right
+            to use or otherwise access the Services.
+The closure of your account will involve the deletion by Fever of all of your Personal Data.
+4.3 Termination by You
+Except to the extent you have agreed otherwise in a separate written Addendum Agreement or Ticketing Services Agreement between you and an
+            authorized officer of Fever, you may terminate your access to the Services and these Terms of Service by deleting your account. Customers may cancel
+            their account by contacting a Fever office by phone or email through one of the addresses or numbers set forth in Section 6.7. Event Organizers,
+            except for those who may have entered into a separate Ticketing Services or Partnership Agreement (where the clauses specified therein will apply),
+            may also cancel their account by addressing themselves to one of the contacts set herein.
+In the event there is a separate agreement between you and Fever governing your use of the Services and that agreement terminates or expires, these
+            Terms of Service (as unmodified by such agreement) shall govern your use of the Services unless and until you cancel your account.
+4.4 Survival of Terms
+All provisions of these Terms of Service that by their nature should survive termination of these Terms of Service shall survive (including,
+            without limitation, all limitations on liability, releases, indemnification obligations, disclaimers of warranties, agreements to arbitrate, choices
+            of law and judicial forum and intellectual property protections and licenses).
+5. Special Terms For International Use
+5.1 US Export Laws
+The Services are subject to United States export controls and economic sanctions laws. In accepting these Terms of Service you represent and
+            warrant that: (a) you are not located in, and you are not a national or resident of, any country to which the United States, United Kingdom,
+            European Union, Australia or Canada has embargoed goods and/or services of the same type as the Services (“Restricted Countries”), including without
+            limitation, Cuba, Iran, North Korea, Sudan or Syria; and (b) you are not a person or entity, or owned by, under the control of, or affiliated with,
+            a person or entity (i) that appears on the U.S. Office of Foreign Assets Control’s Specially Designated Nationals List, Foreign Sanctions Evaders
+            List or Palestinian Legislative Council List; (ii) that appears on the U.S. Department of State’s Terrorist Exclusion List; (iii) that appears on
+            the Bureau of Industry and Security’s Denied Persons, Entity or Unverified List; (iv) that appears on the Consolidated List of Targets published by
+            the U.K. HM Treasury; (v) that appears on the Consolidated List published by the A.U. Department of Foreign Affairs and Trade; (vi) that is subject
+            to sanctions in any other country; or (vii) that is engaged in the design, development or production of nuclear, biological or chemical weapons,
+            missiles or unmanned aerial vehicles.
+6. Important Legal Terms Governing All Use Of The Services
+6.1 Indemnification
+You agree to defend, indemnify and hold Fever, and its affiliates and subsidiaries, and each of its and their respective officers, directors,
+            agents, co-branders, licensors, payment processing partners, other partners and employees, harmless from any and all damage (whether direct,
+            indirect, incidental, consequential or otherwise), loss, liability, cost and expense (including, without limitation, reasonable attorneys’ and
+            accounting fees) resulting from any claim, demand, suit, proceeding (whether before an arbitrator, court, mediator or otherwise) or investigation
+            made by any third party (each a “Claim”) due to or arising out of: (a) your breach of these Terms of Service, including, without limitation the
+            Terms of Use, the Merchant Agreement and any other part of these Terms of Service; (b) your improper use of the Services; (c) your breach of any
+            applicable local, state, provincial, national or other law, rule or regulation or the rights of any third party; or (d) in the case of Event
+            Organizers, your events or the fact that Fever was providing Services with respect to those events, provided that in the case of (d), this
+            indemnification shall not apply to the extent that the Claim arises out of Fever’s gross negligence or willful misconduct. Fever shall provide
+            notice to you of any such Claim, provided that the failure or delay by Fever in providing such notice shall not limit your obligations hereunder
+            except to the extent you are materially disadvantaged by such failure.
+6.2 Disclaimer of Warranties
+FEVER PROVIDES OUR SERVICES USING A COMMERCIALLY REASONABLE LEVEL OF SKILL AND CARE AND WE TRY TO KEEP FEVER RUNNING, ERROR-FREE AND SAFE. BUT
+            THERE ARE CERTAIN THINGS THAT WE DON’T PROMISE ABOUT OUR SERVICES AND YOU USE THE SERVICES AT YOUR OWN RISK. TO THE EXTENT PERMITTED BY APPLICABLE
+            LAWS, THE SERVICES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. FEVER HEREBY EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, EXPRESS OR
+            IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, NON-INFRINGEMENT AND FITNESS FOR A PARTICULAR PURPOSE. BY WAY
+            OF EXAMPLE, FEVER MAKES NO WARRANTY THAT (A) THE SERVICES (OR ANY PORTION OF THE SERVICES) WILL MEET YOUR REQUIREMENTS OR
+EXPECTATIONS; (B) THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE; OR (C) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE
+            SERVICES WILL BE ACCURATE OR RELIABLE. YOU ACKNOWLEDGE THAT FEVER HAS NO CONTROL OVER AND DOES NOT GUARANTEE THE QUALITY, SAFETY OR LEGALITY OF
+            EVENTS ADVERTISED, THE TRUTH OR ACCURACY OF ANY USERS’ (INCLUDING CUSTOMERS’, OTHER NON-ORGANIZERS’ AND ORGANIZERS’) CONTENT OR LISTINGS OR THE
+            ABILITY OF ANY USER (INCLUDING CUSTOMERS AND ORGANIZERS) TO PERFORM OR ACTUALLY COMPLETE A TRANSACTION AND FEVER IS NOT AFFILIATED WITH, AND HAS NO
+            AGENCY OR EMPLOYMENT RELATIONSHIP WITH, ANY THIRD PARTY SERVICE PROVIDER USED IN CONJUNCTION WITH THE SERVICES, AND FEVER HAS NO RESPONSIBILITY FOR,
+            AND HEREBY DISCLAIMS ALL LIABILITY ARISING FROM, THE ACTS OR OMISSIONS OF ANY SUCH THIRD PARTIES. NOTHING IN THESE TERMS OF SERVICE IS INTENDED TO
+            EXCLUDE OR LIMIT ANY CONDITION, WARRANTY, RIGHT OR LIABILITY WHICH MAY NOT BE LAWFULLY EXCLUDED OR LIMITED. SOME JURISDICTIONS DO NOT ALLOW THE
+            EXCLUSION OF CERTAIN WARRANTIES OR CONDITIONS OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR LOSS OR DAMAGE CAUSED BY WILLFUL ACTS, NEGLIGENCE,
+            BREACH OF CONTRACT OR BREACH OF IMPLIED TERMS, OR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, ONLY THOSE LIABILITY AND OTHER LIMITATIONS WHICH
+            ARE LAWFUL IN YOUR JURISDICTION (IF ANY) WILL APPLY TO YOU AND OUR LIABILITY IS LIMITED TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+6.3 Limitation of Liability
+TO THE EXTENT PERMITTED BY APPLICABLE LAWS, FEVER, AND ITS AFFILIATES AND SUBSIDIARIES, AND EACH OF ITS AND THEIR RESPECTIVE OFFICERS, DIRECTORS,
+            AGENTS, CO-BRANDERS, LICENSORS, PAYMENT PROCESSING PARTNERS, OTHER PARTNERS, EMPLOYEES AND ANY APPLICABLE CARD SCHEMES, SHALL NOT BE LIABLE UNDER
+            ANY CIRCUMSTANCES OR UNDER ANY LEGAL THEORY, WHETHER IN TORT, CONTRACT, OR OTHERWISE, WITH RESPECT TO THE SERVICES, OR ANY OTHER SUBJECT MATTER OF
+            THESE TERMS OF SERVICE, INCLUDING WITHOUT LIMITATION THE TERMS OF USE, THE MERCHANT AGREEMENT AND ANY OTHER PART OF THESE TERMS OF SERVICE, FOR: (A)
+            ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS,
+            GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF FEVER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), (B) THE COST OF PROCUREMENT OF
+            SUBSTITUTE SERVICES, (C) ANY OF YOUR CONTENT (AS DEFINED IN THE TERMS OF USE) OR ANY CONTENT OF ANY OTHER USER OF THE SERVICES, OR (D) ANY MATTERS
+            BEYOND FEVER’S REASONABLE CONTROL. IN ADDITION, OTHER THAN THE OBLIGATION OF FEVER TO PAY OUT EVENT REGISTRATION FEES TO CERTAIN ORGANIZERS UNDER
+            THE MERCHANT AGREEMENT, THE MAXIMUM AGGREGATE LIABILITY OF FEVER, ITS PAYMENT PROCESSING PARTNERS, LICENSORS AND ANY APPLICABLE CARD SCHEMES FOR ALL
+            DAMAGES, LOSSES, LIABILITIES, COSTS AND EXPENSES UNDER ANY LEGAL THEORY, WHETHER IN TORT, CONTRACT, OR OTHERWISE, WITH RESPECT TO, ARISING OUT OF OR
+            RELATED TO THE SERVICES, OR ANY OTHER SUBJECT MATTER OF THESE TERMS OF SERVICE, INCLUDING WITHOUT LIMITATION THE TERMS OF USE, THE MERCHANT
+            AGREEMENT AND ANY OTHER PART OF THESE TERMS OF SERVICE, SHALL BE LIMITED TO (I) FOR ORGANIZERS OF EVENTS WITH PAID TICKETS OR REGISTRATIONS, AND
+            SUBJECT TO THE TERMS OF THE MERCHANT AGREEMENT, THE COMMISSIONS (NET OF FEVER PAYMENT PROCESSING FEES) THAT FEVER CHARGED YOU WITH IN THE THREE (3)
+            MONTH PERIOD IMMEDIATELY PRECEDING THE CIRCUMSTANCES GIVING RISE TO YOUR CLAIM; AND (II) FOR ORGANIZERS OF EVENTS WITH FREE TICKETS ONLY, ORGANIZERS
+            OF EVENTS PROMOTED THROUGH A 0% COMMISSION LINK, CUSTOMERS AND OTHER USERS, EITHER (1) THE TOTAL AMOUNT OF ALL TICKETS OR REGISTRATIONS THAT YOU
+            PURCHASED OR MADE THROUGH THE SERVICES IN THE THREE (3) MONTH PERIOD IMMEDIATELY PRECEDING THE CIRCUMSTANCES GIVING RISE TO YOUR CLAIM; OR (2) IF
+            YOU MADE NO SUCH PURCHASES, ONE HUNDRED U.S. DOLLARS (US$100).
+NOTHING IN THESE TERMS OF SERVICE IS INTENDED TO EXCLUDE OR LIMIT ANY CONDITION, WARRANTY, RIGHT OR LIABILITY WHICH MAY NOT BE LAWFULLY EXCLUDED OR
+            LIMITED. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR CONDITIONS OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR LOSS OR
+            DAMAGE CAUSED BY WILLFUL ACTS, NEGLIGENCE, BREACH OF CONTRACT OR BREACH OF IMPLIED TERMS, OR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, ONLY
+            THOSE LIABILITY AND OTHER LIMITATIONS WHICH ARE LAWFUL IN YOUR JURISDICTION (IF ANY) WILL APPLY TO YOU AND OUR LIABILITY IS LIMITED TO THE MAXIMUM
+            EXTENT PERMITTED BY LAW.
+6.4 Release
+Fever provides a marketplace in which Customers and Event Organizers can transact. However, Fever could not function if it were held responsible
+            for the actions or inactions of different Customers, Organizers and/or third parties both on and off the Services. Therefore, as an inducement to
+            Fever permitting you to access and use the Services, you hereby agree to release Fever, and its affiliates and subsidiaries, and each of its and
+            their respective officers, directors, agents, partners and employees from all damages (whether direct, indirect, incidental, consequential or
+            otherwise), losses, liabilities, costs and expenses of every kind and nature, known and unknown, arising out of or in any way connected with
+            disputes between you and third parties (including other Users) in connection with the Services or any event listed on the Services. In addition, you
+            waive any applicable law or statute, which says, in substance: “A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE RELEASING PARTY DOES NOT KNOW
+            OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE
+            RELEASED PARTY."
+6.5 Trademarks
+The trademarks, service marks and logos of Fever (the “Fever Trademarks”) used and displayed in connection with the Services are registered and
+            unregistered trademarks or service marks of Fever. Other company, product and service names used in connection with the Services may be trademarks
+            or service marks owned by third parties (the “Third Party Trademarks,” and, collectively with Fever Trademarks, the “Trademarks”). The offering of
+            the Services shall not be construed as granting, by implication, estoppel, or otherwise, any license or right to use any Trademark displayed in
+            connection with the Services without the prior written consent of Fever specific for each such use. The Trademarks may not be used to disparage
+            Fever, any third party or Fever’s or such third party’s products or services, or in any manner that may damage any goodwill in the Trademarks. Use
+            of any Trademarks as part of a link to or from any site is prohibited unless Fever approves the establishment of such a link by prior written
+            consent specific for each such link. All goodwill generated from the use of any Fever Trademark shall inure to Fever’s benefit.
+6.6 Patents; Copyrights
+A number of issued patents and patents pending apply to the Services. The Content (as defined in the Terms of Use) of the Services is also
+            protected by copyrights owned by Fever and/or third parties. Please note that if you copy portions of the Services you are violating these patent
+            rights and copyrights.
+6.7 Notices
+Notices to you may be sent via either email or regular mail to the address in Fever’s records. The Services may also provide notices of changes to
+            these Terms of Service or other matters by displaying notices or links to notices to you generally on the Services. If you wish to contact Fever or
+            deliver any notice, you can do so as follows:
+A) By post:
+-United States:
+Fever Labs, Inc.
+50 Greene St 3 Fl, New York, NY 10013, US
+-Europe:
+Calle de Fernando el Santo 16, Madrid 28010, Madrid, Spain
+B) By Email:
+hello@feverup.com;
+hola@feverup.com
+, ola@feverup.com, salut@feverup.com
+Please note that any notice related to personal data matters should be addressed in the terms set out in
+the Privacy Policy
+6.8 Entire Agreement
+These Terms of Service, including the Terms of Use, Merchant Agreement, Privacy Policy and any other part of these Terms of Service, constitute the
+            entire agreement between you and Fever and govern your use of the Services, superseding any prior or contemporaneous agreements, proposals,
+            discussions or communications between you and Fever on the subject matter hereof, other than any written Ticketing Services Agreement, Fever
+            Equipment Lease Agreement or Addendum Agreement between you and an authorized officer of Fever relating to a specified event or events.
+6.9 Choice of Law
+Except as set forth in Section 6.10 below, these Terms of Service and the provision of the Services to you are governed by the laws of the state of
+            New York, U.S.A., without reference to principles of conflict of laws.
+6.10 BINDING ARBITRATION
+ONLY FOR USERS LOCATED IN THE UNITED STATES
+:
+PLEASE READ THIS SECTION CAREFULLY AS IT AFFECTS YOUR RIGHTS. ANY DISPUTE OR CLAIM UNDER THESE TERMS OF SERVICE OR WITH RESPECT TO THE SERVICES
+            WILL BE SETTLED BY BINDING ARBITRATION OR IN SMALL CLAIMS COURT (TO THE EXTENT THE CLAIM QUALIFIES) AND WILL TAKE PLACE ON AN INDIVIDUAL BASIS ONLY;
+            CLASS, CONSOLIDATED OR REPRESENTATIVE ARBITRATIONS AND CIVIL ACTIONS ARE NOT PERMITTED ONCE THIS SECTION IS EFFECTIVE
+(a) Contact Us First
+If you have a question or concern about the Services, please contact us first. Our customer support team will try to answer your question or
+            resolve your concern.
+(b) Agreement to Arbitrate
+In the unlikely event that our customer support team is unable to resolve your concerns, we each hereby agree to resolve any and all disputes or
+            claims under these Terms of Service or with respect to the Services through binding arbitration or in small claims court (to the extent the claim
+            qualifies) instead of in courts of general jurisdiction and only on an individual basis and not as part of any purported class, consolidated or
+            representative proceeding. Arbitration, which is often cheaper, faster and less formal than a lawsuit in court, uses a neutral arbitrator instead of
+            a judge or jury. Arbitrators can award the same damages and relief as a court. Binding arbitration is subject to very limited review. Only the
+            arbitrator appointed pursuant to this Section, and not any federal, state or local court or agency, shall have the authority to resolve any dispute
+            or claim relating to this Section, including, without limitation, the scope, enforceability and arbitrability of these Terms of Service. This
+            arbitration provision shall survive termination of these Terms of Service. These Terms of Service evidence a transaction in interstate commerce and
+            the interpretation and enforcement of this Section 6.10 is governed by the Federal Arbitration Act, notwithstanding the choice of law set forth in
+            Section 6.9 above.
+(c) Scope of Agreement
+This agreement to arbitrate is intended to be broadly interpreted. It includes, but is not limited to: (i) all claims arising out of or relating to
+            any aspect of the relationship between us, whether based in contract, tort, statute, fraud, misrepresentation or any other legal theory; (ii) all
+            claims that arose before this or any prior agreement (including, but not limited to, claims relating to advertising); and (iii) all claims that may
+            arise after termination of these Terms of Service and/or your use of the Services. (d) Exceptions
+Notwithstanding this Agreement to arbitrate, either party may (i) bring an action on an individual basis in small claims court (to the extent the
+            applicable claim qualifies), (ii) bring issues to the attention of federal, state or local agencies which may be able to
+seek relief on a party’s behalf, and (iii) bring suit in court to seek a preliminary injunction or other interim relief pending the outcome of
+            arbitration. In addition, the portion of any dispute or complaint relating to our participation in the US-EU or US-Swiss Safe Harbor Frameworks is
+            subject to the Dispute Resolution section of our Privacy Policy before being subject to this Section.
+(e) No Class Actions.
+YOU AND FEVER AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN
+            ANY PURPORTED CLASS, CONSOLIDATED OR REPRESENTATIVE PROCEEDING. THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON’S CLAIMS, MAY NOT PRESIDE
+            OVER ANY FORM OF CLASS, CONSOLIDATED OR REPRESENTATIVE PROCEEDING AND MAY ONLY PROVIDE RELIEF IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND
+            ONLY TO THE EXTENT NECESSARY TO PROVIDE RELIEF WARRANTED BY THAT PARTY’S INDIVIDUAL CLAIM.
+(f) Notice of Dispute.
+A party who intends to seek arbitration must first send to the other a written Notice of Dispute (“Notice”). The Notice to Fever must be addressed
+            to the address in Section 6.7 above (“Notice Address”) and must be sent by certified mail. The Notice to you must be addressed to a mailing, home or
+            payment address currently on record with Fever and must be sent by certified mail. If Fever has no records of such physical address, such notice may
+            be delivered to your Fever account email address. The Notice must (i) describe the nature and basis of the claim or dispute; and (ii) set forth the
+            specific relief sought. If Fever and you do not reach an agreement to resolve the claim within sixty (60) calendar days after the Notice is
+            received, you or Fever may commence an arbitration proceeding.
+(g) Arbitration Proceedings.
+The arbitration will be governed by the Commercial Arbitration Rules, or, if the actions giving rise to the dispute or claim relate to your
+            personal or household use of the Services (rather than business use), the Consumer Arbitration Rules (in each case, the “AAA Rules”) of the American
+            Arbitration Association (“AAA”), as modified by this Section 6.10, and will be administered by the AAA and settled by a single arbitrator. The AAA
+            Rules are available online at adr.org or by calling the AAA at 1-800-778-7879. The arbitrator is bound by the terms of these Terms of Service. All
+            issues are for the arbitrator to decide, including, but not limited to, issues relating to the scope, enforceability, and arbitrability of this
+            Section 6.10. Unless Fever and you agree otherwise, any arbitration hearings will take place in a reasonably convenient location in the United
+            States for both parties with due consideration of their ability to travel and other pertinent circumstances. If the parties are unable to agree on a
+            location, AAA shall determine the location. If your claim is for ten thousand dollars ($10,000) or less, we agree that you may choose whether the
+            arbitration will be conducted solely on the basis of documents submitted to the arbitrator, through a telephonic hearing, or by an in-person hearing
+            as established by the AAA Rules. If your claim exceeds ten thousand dollars ($10,000), the right to a hearing will be determined by the AAA Rules.
+            Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient to explain the
+            essential findings and conclusions on which the award is based. All decisions by the arbitrator shall be final and binding and judgment on the award
+            rendered may be entered in any court having jurisdiction.
+(h) Costs of Arbitration; Legal Fees.
+i. Payment of all filing, administration, and arbitrator costs and expenses imposed by AAA will be governed by the AAA rules, provided that if you
+            are initiating an arbitration against Fever and the value of the relief sought is ten thousand dollars ($10,000) or less, then Fever will advance
+            all filing, administrative and arbitration costs and expenses imposed by AAA (subject to reimbursement as set forth below). If the circumstances in
+            the preceding sentence apply, but the value of relief sought is more than ten thousand dollars ($10,000) and you demonstrate to the arbitrator that
+            such costs and expenses would be prohibitively more expensive than a court proceeding, then Fever will pay the amount of any such costs and expenses
+            that the arbitrator determines are necessary to prevent the arbitration from being prohibitively more expensive than a court proceeding (subject to
+            reimbursement as set forth below). In the event that the arbitrator determines that all of the claims you assert in arbitration are frivolous
+            according to Federal Rule of Civil Procedure 11, you agree to reimburse Fever for all such cost and expenses that Fever paid and that you would have
+            been obligated to pay under the AAA rules.
+ii. Just as in any court proceeding, each party will initially bear its own attorneys’ fees and expenses in connection with any arbitration. Should
+            either party be determined to have substantially prevailed in the arbitration, then upon such party’s request, the arbitrator shall award such
+            prevailing party the reasonable attorneys’ fees and expenses that it incurred in connection with the arbitration, provided that to the extent that
+            the dispute or claim relate to your personal or household use of the Services (rather than business use) Fever will not seek to recover its
+            attorneys’ fees and expenses in an arbitration initiated by you. The arbitrator may make rulings and resolve disputes as to the reimbursement of
+            attorneys’ fees and expenses upon request from either party made within fourteen (14) days of the arbitrator’s ruling on the merits.
+(i) Future Changes.
+Notwithstanding any provision in these Terms of Service to the contrary, you and Fever agree that if Fever makes any future change to this
+            arbitration provision (other than a
+change to the Notice Address) Fever will provide you with notice of such change and you may reject any such change by sending us written notice
+            within thirty (30) calendar days of the change to the Notice Address provided above. By rejecting any future change, you are agreeing that you will
+            arbitrate any dispute between us in accordance with the language of this provision as unmodified by such rejected change.
+(j) Special Severability.
+In the event that the provisions of Section 6.10(e) above are found to be invalid or unenforceable for any dispute or claim, then, notwithstanding
+            Section 6.11, the entirety of this Section 6.10 shall be null and void with respect to such dispute or claim and Section 6.12 shall apply in lieu of
+            this Section 6.10.
+6.11 Waiver; Invalid Provisions
+The failure or delay of Fever to exercise or enforce any right or provision of these Terms of Service shall not constitute a waiver of such right
+            or provision. No oral waiver, amendment or modification shall be effective under any circumstance whatsoever. If any provision of these Terms of
+            Service is found by an arbitrator or court of competent jurisdiction to be invalid, the parties nevertheless agree that the arbitrator or court
+            should endeavour to give effect to the parties’ intentions as reflected in the provision, and the other provisions of these Terms of Service shall
+            remain in full force and effect.
+6.12 Judicial Forum
+In the event that the Agreement to Arbitrate above is found not to apply to you or to a particular claim or dispute for any reason, then any
+            dispute or claim not subject to arbitration shall be resolved exclusively by a federal court located in the city of New York, New York, and to the
+            extent there is no subject matter jurisdiction in such federal court, then a state court in the State of New York. Both you and Fever agree to
+            submit to the personal jurisdiction and venue of such courts and agree that such forum is convenient.
+6.13 Titles
+Any Section titles in these Terms of Service are for convenience only and have no legal or contractual effect.
+6.14 Violations
+Please report any violations of these Terms of Service by email. For any issue related to data protection matters, please use any of the means
+            included
+in the Privacy Policy .
+6.15 Relationship
+No independent contractor, agency, partnership, joint venture, employer-employee or franchiser-franchisee relationship is intended or created by
+            these Terms of Service, except to the extent expressly set forth in the Terms of Use and the Merchant Agreement.
+ANNEX
+FIFTH PURCHASE PROGRAM
+1 The fifth purchase reward is the option to receive a voucher after four paid purchases done by one user in order to get the fifth purchase for
+            free.
+2 The fifth purchase rewards is offered by FEVER to specific aleatory users, not being mandatory to offer this option to all the users in our
+            platform.
+3 These four previous purchases have to be done in events in the same Country and the events must have a price higher than zero
+4 This reward is limited to one thousand users.
+5 The amount of the voucher is equal to the average of the prices paid by the user in their four previous purchases. Any kind of voucher applied in
+            the four previous purchases will not be taken into account to calculate the amount of the reward voucher.
+6 If the reward voucher is applied, none of the four previous purchases will be able to be cancelled
+7 The four previous tickets and the reward voucher  obtained are not transferable
+8 If any of the four previous purchases is eventually canceled by the user, FEVER can cancel the voucher sent to the user
+9.  FEVER has the right to cancel this promotion at any time.
+Merchant Agreement
+1.
+Who We Are
+2.
+Acceptance of Merchant Agreement
+3.
+Registration & account security
+4.
+Process of Acceptance and payments
+5.
+Exchanges and refunds
+6.
+Remedies
+7.
+Prohibited Merchants; Prohibited Events; Prohibited Transactions
+8.
+Permitted Uses of the Website
+9.
+Customer data
+10.
+Disclaimer
+11.
+Limitation of liability
+12.
+Indemnity
+13.
+Trademarks
+14.
+Privacy Policy
+15.
+Contact information for customer service
+1. Who we are
+The owner of the Website www.feverup.com as well as the application (or “app”) is FEVER LABS, INC. (hereinafter, FEVER), TIN:99-0368536, registered
+            at 50 Greene St 3 Fl, New York, NY 10013, United States.
+Fever is a web and mobile app that drives users to consume offline entertainment by providing curated events based on its proprietary analytics of
+            consumer data. Fever is able to drive traffic, generate demand and provide an avenue for spontaneous discovery or other marketing services for event
+            organizers.
+Through your Fever secure portal account, you (hereinafter “you”, “the client”, “the Event Organizer” or “the user”) will be able to create and
+            modify your own event listings, record details of cash and view ticket sales reports. Anytime there are modifications, these will have to be
+            pre-approved by Fever before coming into effect.
+2. Acceptance of Merchant Agreement
+The following terms set forth the terms and conditions upon which you may use our Services to create, promote and/or collect sales proceeds from
+            the sale of tickets, registrations, or other items (e.g., merchandise; travel; lodging) related to an event, and specifically applies to those who
+            use the Services for such purposes. Except where specifically stated (e.g.: terms that apply to those Event Organizers in the case where they
+            register an event through our 0% Commission Link) the terms included herein will apply to all Event Organizers that use any of Fever’s Services or
+            enter into any type of Ticket Services or Partnership Agreement with Fever.
+Fever provides the technical infrastructure to enable online sales by Event Organizers. If you continue to browse and use this Website, you are
+            agreeing to comply with and be bound by the following terms and conditions of use, which our incorporated into our Terms of Service and govern
+            Fever's relationship with you in relation to this Website and to any of the platforms and services related to it and managed by Fever. If you
+            disagree with any part of these terms and conditions, please do not use our Website or any of the Fever Services, participate in any activity,
+            purchase or sell any ticket, product or purchase any other service offered through the Website or any of the associated platforms.
+We reserve the right at all times to discontinue or modify this Merchant Agreement or any part thereof in our sole discretion, with or without
+            notice. If we make changes that affect your use of the Website or our services we will post notice of the change on the Terms of Services page. Any
+            changes to these Terms will be effective upon our posting of the notice; provided that these changes will not apply to i) events created or ii)
+            Tickets sold prior to the effective date of such changes. You may close your account and you should not use the Website or any of the services
+            offered through the Website after the effective date of the changes in the event that you do not agree to such changes. You agree that posting
+            notice of any such changes on the Terms of Service page is adequate notice to advise you of these changes, and that your continued use of the
+            Website or any of the associated services or platforms will constitute acceptance of these changes and the Terms of Use as modified.
+This Merchant Agreement and the rights and obligations contained herein are in addition to and are incorporated into the Terms of Service by
+            reference. Nothing in this Merchant Agreement shall be deemed to modify, waive, amend or rescind any other term of the Terms of Service.
+3. Registration & account security
+As part of entering into a Partnership or Ticketing Services Agreements or as part of the creation of an event or at any time following such
+            creation, you may be required by Fever to provide additional information (beyond the information required to register for the Services) about
+            yourself, the entity you represent (if any) and the principals/beneficial owners of the entity you represent (if any) (collectively, “Additional
+            Registration Data”). As an example, the Additional Registration Data may include a current address, doing business as (DBA) names, description of
+            products, website address, bank account or other payment account information, Tax Identification Numbers, date of birth, passport or driver’s
+            license number, country of origin, copies of government identification documents and other personal information. This information may be used to
+            verify your identity, the validity and/or legality of your transactions and/or whether you qualify to use the Services for paid events. You agree
+            to: (a) provide this information in a timely, accurate and complete manner and (b) maintain and promptly update this information in a timely manner
+            to ensure it remains accurate and complete at all times. If you provide any information that is untrue, inaccurate, not current or incomplete, or
+            Fever has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, Fever has the right to suspend or
+            terminate all of your accounts and refuse any and all of your current or future use of Fever.
+During the Fever registration process, a unique account and password will be created. It is the responsibility of the Event Organizer and its Users
+            to maintain the confidentiality of the password and account and are fully responsible for all activities that occur under your account, including
+            without limitation, all actions by sub-users registered under your account. The Event Organizer must immediately notify Fever of any unauthorised
+            use of your password or account or any breach of security. Fever cannot and will not be liable for any loss, damage or other liability arising from
+            your failure to comply with this Section or from any unauthorised access to or use of your account.
+4. Event Registration Process; Payments
+4.1. Overview
+For the avoidance of doubt, Fever does not and will not provide banking, deposit taking, stored value, insurance or any other financial services to
+            an Event Organizer other than serving as a limited payment collection agent as set forth below. To provide the EPP Service, Fever utilizes third
+            party gateways, payment processors, merchant acquirers and/or merchant acquiring banks with which we have relationships (collectively, “Payment
+            Processing Partners”) and both Event Organizers and Fever are subject to the rules and regulations of such Payment Processing Partners.
+4.2. Event Registration; Further onboarding on Fever Applications
+As part of the Services offered by Fever, an Event Organizer can create its own event at no cost. For this matter, the Organizer will have to share
+            some required information regarding the Organizer and the event by filling in an online questionnaire, “Create your event in Fever”. The Organizer
+            will have to proceed to complete all of the required fields in the questionnaire in order for its event to be eligible for evaluation by Fever.
+Once the Event Organizer has submitted the form “Create your event in Fever”, Fever will proceed to carry out the validation process, replying
+            within 48 hours after the submission of such form.
+The validation process by Fever may result in two different responses:
+A- Valid / Accepted:
+Fever will share a link with the Event Organizer (the “0% Commission Link”) through which the Organizer of the event will be able to publish and
+            promote the event through his owns means. All sales achieved through the 0% Commission Link will entail no Commission.
+Fever reserves the right to its sole discretion to decide if an event is compliant with Fever standards of quality and relevance in order to be
+            onboarded to and promoted in the Applications or any other Fever platform. In the case that Fever decides to promote the event through the Fever
+            app, web or media network; Fever will charge a 30% commission to the Event Organizer, calculated over the total amount of the sales achieved through
+            Fever’s platforms (this 30% Commission, along with any other commission, discount, fee, or similar, agreed between Fever and the Event Organizer,
+            either in writing or within the framework of a signed Ticket Services Agreement or Partnership Agreement, will constitute, altogether, “the
+            Commission”).
+B- Rejected:
+Fever will contact the Event Organizer to inform him/her that the event has been rejected. In this case neither the Event Organizer will receive
+            the 0% Commission Link, nor the event will be promoted by Fever through its platforms.
+4.3. Payments; Processing of Fever Commission
+a) Sales made through events promoted on a 0% Commission Link
+All sales achieved through the 0% Commission Link will entail no Commission. Fever will have to deposit the Event Organizer a sum equivalent to the
+            face value of all the sales made through such means (these, as well as the face value of the sales generated through events promoted on any of the
+            Fever Applications, will be considered, altogether, as “Registration Fees”), net of (i) our right of setoff against any debts or other amounts owed
+            to us under this Merchant Agreement; (ii) any other deductions authorized pursuant to this Merchant Agreement (including but not limited to any
+            refunds to be made to customers as a result of cancellation and net of any chargebacks as set below) ; and (iii) any reserves established as set
+            forth in Section 5.1.(b). Such payment will be made within 15 days after the finalization of the event in an account specified by the user and by
+            the means chosen by Fever.
+b) Sales made through events promoted on any of the Fever Applications
+After the finalization of the event, Fever will proceed to pay the Organizer an amount equivalent to the face value of the sales made through the
+            Fever platforms net of (i) the value of the Commission charged (ii) our right of setoff against any debts or other amounts owed to us under this
+            Merchant Agreement; (iii) any other deductions authorized pursuant to this Merchant Agreement (including but not limited to any refunds to be made
+            to customers as a result of cancellation and net of any chargebacks as set below) ; and (iv) any reserves established as set forth in Section
+            5.1.(b). Such payment will be made within 15 days after the finalization of the event in an account specified by the user and by the means chosen by
+            Fever.
+Event Organizers do not need their own payment gateway to utilize the Fever payment processing option. All money shall be paid into the bank
+            account specified in your payment details. It is not the responsibility of Fever to verify bank details but is the responsibility of the Event
+            Organizer to ensure that accurate bank details are provided. Fever will not accept any responsibility if incorrect bank details have been provided
+            by the Event Organizer or their account Users and monies owed are paid into the wrong bank account.
+You agree that we may, from time to time, in our sole discretion, without notice to you, setoff against your reserve, setoff against any Event
+            Registration Fees you receive, or both, based upon the level of refunds, disputed charges, chargebacks, customer complaints, allegations of fraud,
+            changes in your credit profile or the underlying event(s)’
+risk profile, fraudulent conduct by you or anyone acting on your behalf, or breaches of the Terms of Service, including this Merchant Agreement. We
+            may exercise such setoff rights before we make any payout to you. We are not liable to you for any claims resulting from our decision to exercise
+            our setoff rights. We may also exercise any of our rights and remedies under Section 6 of this Agreement regarding recovery of such amounts due and
+            payable to us from you.
+4.4. Appointment as Agent
+Event Organizer hereby appoints Fever as Organizer's limited payment collection agent solely for the purpose of collecting payments made by
+            Customers for such events through our Payment Processing Partners. Organizer agrees that a payment made by a Customer to Fever shall be considered
+            the same as a payment made by a Customer directly to the Event Organizer and the Event Organizer will sell or provide all advertised goods and
+            services to the Attendee as if the Event Organizer had directly received the Event Registration Fees from such Attendee, regardless of whether the
+            Event Registration Fees have yet to be received from Fever. The Event Organizer agrees that in its role as limited agent, Fever is authorized to (i)
+            enable Customers to transfer or upgrade a ticket and/or registration (if such transfers are permitted by the Event Organizer during the event
+            registration process); (ii) hold, disburse and retain proceeds on the Event Organizer’s behalf pursuant to this Merchant Agreement; (iii) issue
+            refunds to Customers as set forth in Section 5 below; and (iv) manage credit card chargebacks as set forth in subsection 4.5 below. In accepting
+            appointment as the limited agent of the Event Organizer, Fever assumes no liability for any acts or omissions of the Event Organizer and Event
+            Organizer understands that Fever’s obligation to pay the client is subject to and conditional upon receipt of the associated Event Registration Fees
+            from Customers. The client further authorizes Fever to delegate its obligations under this Merchant Agreement to certain of its affiliated entities
+            both within and outside the United States, provided, that Fever will remain liable for the discharge of its obligations under this Merchant
+            Agreement by such affiliated entities.
+4.5. Chargebacks
+A chargeback occurs when a customer disputes a charge on their credit/debit card with our merchant services provider. When a chargeback occurs the
+            merchant services provider will investigate as to whether the charge is to stand or be refunded to the customer.
+Any credit card chargebacks or other transaction reversals initiated against Fever or its affiliates for any reason (except to the extent they are
+            caused solely by Fever’s negligence or willful misconduct) with respect to an Organizer’s event and all related credit card association, payment
+            processing, re-presentment, penalty and other fees and expenses incurred by Fever or its affiliates in connection with such chargebacks shall
+            ultimately be the responsibility of the Event Organizer, and Event Organizer agrees to promptly and fully reimburse Fever for such amounts on
+            demand. If such chargeback happens before the transfer of the funds to the Event Organizer, Fever will deduct such amount (including the penalty
+            incurred) from the total amount due by Fever to the partner.
+As part of Fever’s limited payment collection agency, Fever will use commercially reasonable efforts to manage the re-presentment of such
+            chargebacks and reversals on behalf of Event Organizer and Event Organizer hereby authorizes Fever to do so and agrees to use reasonable efforts to
+            cooperate with Fever in such re-presentment. However, Fever shall have no obligation to represent any chargeback that it believes in its discretion
+            it is more likely than not to lose or that relates to a transaction that should be refunded in accordance with our refund policy set within this
+            Merchant Agreement. Both parties agree that Fever’s loss of any chargeback that has been re-presented by Fever shall not in any way limit Event
+            Organizer’s obligation to reimburse Fever and its affiliates under this paragraph.
+Any tickets that are subject to a successful chargeback dispute will be cancelled.
+In case the chargeback is processed after the finalisation of the event or after having transferred the funds to the Event Organizer, and such
+            chargeback results on a refund to the customer, Fever will still have the right to seek reimbursement for the chargeback amount and the penalty
+            incurred. In such cases, Fever will deduct these amounts from any future amount due by Fever to the Event Organizer. In the case no further events
+            are organised by the Event Organizer, Fever will have the right to seek reimbursement during a period of two (2) months since the finalisation of
+            the event.
+FAILURE BY THE EVENT ORGANIZER TO PAY THE CHARGEBACK AND ASSOCIATED PENALTIES WITHIN FIFTEEN (15) DAYS AFTER RECEIVING WRITTEN NOTICE FROM FEVER
+            WILL RESULT IN THE BEARING OF INTERESTS AND OTHER ASSOCIATED COSTS SUBJECT TO THE PROVISIONS OF SECTION 6.1 AND 6.2 AND, ULTIMATELY, IN THE ACCOUNT
+            BEING SUSPENDED.
+4.6. VAT Liability
+Event Organizer's remain solely responsible for the accounting and payment of VAT (or equivalent local, regional or national taxes) collected
+            through the sale of tickets to HM Revenue and Customs (or equivalent tax authority). Fever is only liable for the VAT component of the booking
+            fee.
+5. Exchanges, cancellations and refunds
+5.1. Refunds and cancellations
+a) Cancellations
+No payments shall be made to the Event Organizer with respect to any event that is cancelled or with respect to which Fever believes there is a
+            risk of cancellation or nonperformance, unless Fever receives adequate security (as determined by Fever in its discretion) for the client’s
+            obligations under this Merchant Agreement. In addition, no Event Registration Fees for a given event shall be earned until that event is
+            successfully completed. If payments have already been made to an Event Organizer for a cancelled
+event, the client will immediately refund to a payment address designated by Fever all such payments upon cancellation of such event for the
+            purpose of effecting refunds if refunds are being made. You are responsible for complying with the requirements of Fever’s Refund Policy
+            Requirements incorporated herein. If you do not remit funds to Fever that are sufficient to cover refunds due to Customers for an event cancellation
+            or nonperformance, including, but not limited to, any mandatory refunds under Section 5.1.(d) below, then you acknowledge and agree that the
+            unremitted amount will become due and payable to us under this Merchant Agreement, and subject to a setoff right until you have satisfied the amount
+            in full. Such unremitted amounts are also subject to the provisions of Sections 5.1(b) and 6 of this Merchant Agreement.
+b) Reserves and Fever’s Right of Setoff
+Fever reserves the right to retain a certain percentage of the Registration Fees (with such percentage being determined by Fever in its discretion)
+            to fund a reserve (i) at any time as we determine in our discretion to be necessary based upon the level (or expected level) of refunds, disputed
+            charges, chargebacks, customer complaints, allegations of fraud or changes in Event Organizer’s credit profile or the underlying event(s)’ risk
+            profile; and (ii) as otherwise necessary to secure the performance of your obligations under the Terms of Use and Conditions, including this
+            Merchant Agreement, or to protect Fever against fraudulent or erroneous activity. Fever’s right to hold a reserve shall continue following the
+            applicable event(s) and until either (A) the Event Organizer has discharged all obligations under the Terms of Service and the applicable periods
+            for refunds, disputed charges, chargebacks, and complaints have passed; or (B) Fever determines it no longer has risk or exposure that would
+            otherwise be mitigated by the reserve. Further, the reserve is subject to the right of setoff as set forth in Section 4. In the event that the
+            exercise of our setoff right does not fully cover the amount of funds due and owing from you to us under these Terms of Service, including this
+            Merchant Agreement, then such amount of funds shall be deemed due and owing to us until you have satisfied the amount in full.
+c) Refunds
+The varying exchange and refund policies set forth by our Event Organizers prohibit Fever, by default, from issuing exchanges or refunds after a
+            booking is placed. If a refund or exchange is requested by a Customer, such refund will be fully processed by Fever. In the case such refund is
+            finally executed, the value of such refund will be deducted from the amount owed by Fever to the Event Organizer, as set forth is Section 4.
+Refunds that you are responsible for due to the cancellation or non-performance of an event are subject to the following refund requirements:
+(i)   In the event of a full or partial event cancellation, Event Organizer agrees to remit funds due for refunds back to Fever so that
+            refunds can be processed by Fever on the Event Organizer’s behalf;
+(ii) Event Organizer agrees that, unless otherwise mutually agreed in writing (email acceptable) no refunds shall be made outside of any of the
+            Fever’s platforms;
+(iii) Event Organizer must remit funds to Fever that are sufficient to cover refunds due to Customers within five (5) days of the cancellation of
+            the event;
+(iv) Organizer agrees to notify Customers of the event cancellation as soon as reasonably possible and prior to the event start time;
+(v) Organizer acknowledges that Fever reserves the right to charge the Event Organizer for the cost of chargebacks related to the cancelled event,
+            and such amounts are also subject to the provisions of Sections 5.1(b) and 6.1. and 6.2. of this Merchant Agreement.
+(vi) If the Event Organizer cancels only part of a multi-day event, then Organizer agrees to submit to Fever the necessary funds for a refund equal
+            to the pro-rata monetary value portion of the purchase price of a multi-day ticket based on the corresponding monetary value of the portion of the
+            multi-day event that was cancelled. For example, if Organizer sells a 3-day ticket to a festival for $150, and cancels 1 day of the festival, the
+            Organizer must provide Fever enough funds for a $50 refund to Customers for the cancelled day.
+(vii) If an event is cancelled by the Event Organizer within 24 hours before the event starts, this will lead to the payment by the collaborator of
+            30% of the face value of the tickets sold. This amount will be given to the users as a compensation of the event cancellation on such short
+            notice.
+(viii) Event Organizer will provide clear instructions and contact information to Customers regarding the Refund Policy included within this
+            Merchant Agreement so that Customers can make refund requests in due time (e.g.: Event Organizer agrees to inform Customers that they should duly
+            ask for a refund before the Monday following the Event’s stated or revised date as set forth in Sections 5.2 and 5.3 below).
+Fever does not permit exchanges for tickets to other events.
+d) Mandatory Refunds
+Notwithstanding the foregoing, Event Organizer authorizes Fever to make refunds in the following situations (i) Organizer specifically authorizes
+            the refunds at the time; (ii) the event description presented to a Customer at time of purchase is significantly different from the actual event;
+            (iii) Customers are unable to attend the event due to failure of the Organizer to adequately plan for capacity, ingress or egress, or attendance
+            will otherwise subject the Attendee to safety concerns; (iv) Fever believes in its discretion that specific orders should be refunded under certain
+            applicable local, state, provincial, national or other law, rule or regulation; (v) Fever believes in its discretion that the refund request, if not
+            granted, will lead to a chargeback that Fever is more likely than not to lose; (vi)
+Organizer failed to list a refund policy on the applicable event page and Fever believes in its discretion that a refund would be reasonable under
+            the circumstances; (vii) Fever believes in its discretion that specific orders are fraudulent (e.g., made with stolen credit cards or otherwise not
+            bona fide transactions); or (viii) Fever believes in its discretion that the order is a duplicate. Organizer also authorizes Fever to make refunds
+            of any and all orders (including those for unrelated events) if (A) Fever believes in its discretion that Organizer has engaged in any fraudulent
+            activity or made any misrepresentations; (B) Fever believes in its discretion that there is substantial risk of non-performance by Organizer with
+            respect to the applicable event or future events; (C) Fever believes in its discretion that it is likely to receive complaints, refund requests,
+            transaction reversals and/or chargebacks with respect to a substantial amount of orders; or (D) Fever believes in its discretion that Organizer is a
+            Prohibited Merchant, has used the Services to process Prohibited Transactions or to manage Prohibited Events or that failing to make the refunds
+            would otherwise expose Fever to legal liability. Because all sales are ultimately made by Organizers, Organizer hereby agrees to promptly and fully
+            reimburse Fever and its affiliates upon demand for refunds that Fever makes pursuant to this Merchant Agreement, other than to the extent that the
+            necessity for such refunds is caused by Fever’s negligence or willful misconduct. Organizer acknowledges and agrees that chargebacks will result in
+            losses to Fever in excess of the amount of the underlying transaction and that by refunding transactions in advance of a chargeback Fever is
+            mitigating such losses and its damages with respect to Organizer’s breach of this Merchant Agreement. If you do not remit funds to Fever that are
+            sufficient to cover mandatory refunds as described by Sections 4 and 5 for an event cancellation or nonperformance, then you acknowledge and agree
+            that the amount of such funds shortfall will become due and owing from you to us under the Terms of Service, including this Merchant Agreement,
+            until you have satisfied the amount in full and such amounts are also subject to the provisions of Sections 5.1(b) and 6 of this Merchant
+            Agreement.
+5.2. Event postponed or change of venue
+If an event is moved from its advertised venue and / or the date is changed, tickets already purchased may remain valid should the Customer wish to
+            attend the revised Event. If not, Fever will refund the purchase price of a Customer's tickets. Customers must contact Fever no later than the
+            Monday following the event's revised date.
+5.3. Significant Change to Event Line-up
+Should the headline artist not appear or if the line up or content is substantially changed from that advertised at the time of purchase, then
+            Fever will on request refund the purchase price of a Customer's tickets including (in the case of those tickets sold through any of Fever platforms)
+            our fee our commission; whether that fee was originally presented as a separate item or was included within the stated face value of the ticket.
+            Customers must contact us as soon as possible and no later than the Monday following the event's stated date.
+5.4. Refunds requested after the Transfer of Funds
+Customers are required to contact Fever no later than the Monday following the event to request refunds due to a postponed event, change of venue
+            or significant change to event or line-up. Refunds can then be processed prior to the transfer of ticket income to the Event Organizer. Fever will
+            not be able to process refunds after the Monday following the event unless the refund is due to an event cancellation that we have retained funds to
+            cover all ticket refunds.
+If Customers request refunds of their tickets after the Funds have been transferred to the Event Organizer, the ultimate responsibility for the
+            refund will still lie with the Event Organizer. Fever will continue to be in charge of processing the refunds and all Refund policies and the right
+            of setoff will still be applicable as set forth within Section 5 of this Merchant Agreement.
+In any case, FAILURE BY THE EVENT ORGANIZER TO PAY THE REQUIRED FUNDS TO PROCESS THE REFUNDS WITHIN FIFTEEN (15) DAYS AFTER RECEIVING WRITTEN
+            NOTICE FROM FEVER WILL RESULT IN THE BEARING OF INTERESTS AND OTHER ASSOCIATED COSTS SUBJECT TO THE PROVISIONS OF SECTION 6.1 AND 6.2 AND,
+            ULTIMATELY, IN THE ACCOUNT BEING SUSPENDED.
+6. Remedies
+6.1. Non-Exclusive Remedies
+In the event that Event Organizer fails to pay to Fever any amount owed pursuant to this Merchant Agreement when due and following a late payment
+            notice being delivered by Fever, such amount shall bear interest calculated from the date due until paid in full at a rate equal to the lesser of
+            (i) one percent (1%) per month, compounded monthly; and (ii) the maximum amount permitted by applicable local, state, provincial, national or other
+            laws, rules or regulations. In the event any amounts are owed by Organizer to Fever under the Terms of Service (including without limitation this
+            Merchant Agreement), Fever may, without limiting its other rights and remedies and to the extent permitted by applicable local, state, provincial,
+            national or other laws, rules or regulations (A) withhold any amounts due to the Event Organizer, whether for a particular event or for any other
+            event that Organizer lists through the Services and use the withheld amount to setoff the amount owed by Organizer to Fever; or (B) send an invoice
+            to Organizer for such amounts to the extent Organizer’s outstanding balance is insufficient to cover these costs, in which case Organizer shall pay
+            Fever such invoiced amounts within thirty (30) days after the date of the invoice. If payment for any amounts due to Fever hereunder is not made by
+            Organizer when due and after receiving a late payment notice from Fever, Fever reserves the right, in its discretion and without limiting its other
+            rights and remedies, to suspend or terminate Organizer’s registration for the Services (including any and all accounts that Organizer may have). In
+            addition, any such unpaid amounts due and owing to Fever are subject to collections in accordance with Section 6.2.
+6.2. Collections and Cost of Recovery
+Fever reserves the right to pursue any late and unpaid amounts due and owing to Fever for collections if such amounts are not paid within thirty
+            (30) days after the date of the invoice. In addition, Organizer agrees to promptly and fully reimburse Fever upon its demand for all out-of-pocket
+            costs and expenses, including without limitation, reasonable attorneys’ fees and expenses, incurred by Fever in collecting past due amounts or any
+            other amounts due and owing from Organizer under this Merchant Agreement, the Terms of Service or otherwise. Organizer agrees that if Fever must
+            seek collections for past due amounts and Organizer does not respond or pay in full after receiving a collection notice, Fever reserves the right to
+            pursue outstanding balances through any available legal means in accordance with the Terms of Service.
+7. Prohibited Merchants; Prohibited Events; Prohibited Transactions
+7.1 Prohibited Merchants
+By registering for the Services and accepting this Merchant Agreement, you represent and warrant that:
+a)       you are not located in, and you are not a national or resident of, any country to which the United States, United Kingdom,
+            European Union, Australia or Canada has embargoed goods and/or services of the same type as the Services (“Restricted Countries”);
+b)      you are not a person or entity or under the control of or affiliated with a person or entity that (i) appears on the U.S.
+            Office of Foreign Assets Control’s Specially Designated Nationals List, Foreign Sanctions Evaders List or Palestinian Legislative Council List; (ii)
+            appears on the U.S. Department of State’s Terrorist Exclusion List; (iii) appears on the Bureau of Industry and Security’s Denied Persons List; (iv)
+            appears on the Consolidated List of Targets published by the U.K. HM Treasury; (v) appears on the Consolidated List published by the A.U. Department
+            of Foreign Affairs and Trade or (vi) is subject to sanctions in any other country; and
+c)        you are not listed in the MasterCard MATCH terminated merchant database or Visa terminated merchant file and your
+            right to access each Card Scheme and each Alternative Form of Payment is not presently revoked or suspended.
+If you fall into any of the categories set forth above, as determined by Fever in its discretion, you are a “Prohibited Merchant.”
+7.2 Prohibited Events
+You may not post events to the Services that:
+a) violate or facilitate the violation of any applicable local, state, provincial, national or other law, rule or regulation;
+b) would be prohibited under the Payment Scheme Rules;
+c) take place in Restricted Countries ; and
+d) contain any Content (as defined in the Terms of Use) that would violate the Terms and Conditions of Use.
+Any event that falls into any of the categories set forth above, as determined by Fever in its discretion, is a “Prohibited Event.”
+7.3 Prohibited Transactions
+You represent and warrant that you will not submit for processing through the Services:
+a) any transaction that would violate the payment rules set in this Merchant Agreement;
+b) any transaction that is fraudulent or criminal in nature;
+c) any transaction that would constitute sending money to another party other than for the purchase of bona fide tickets or registrations to, or
+            solicitation of a donation for, events, or sale of items related to such events.
+Any transaction that falls into any of the categories set forth above, as determined by Fever in its discretion, is a “Prohibited
+            Transaction.”
+7.4. Remedies
+In the event that Fever discovers that you are a Prohibited Merchant, that you have posted a Prohibited Event and/or that you have attempted to
+            process or processed a Prohibited Transaction, then Fever may take any or all of the following actions in its discretion in addition to any and all
+            remedies that Fever may have under the law or elsewhere in the Terms of Service:
+a) suspend or terminate your Fever account;
+b) alter, edit, or remove any Prohibited Event or any portion thereof;
+c) block, reverse or refund any or all of your transactions;
+d) hold any and all funds associated with your account to the extent required by applicable local, state, provincial, national or other law, rule,
+            regulation, judgment or order; and
+e) refer you, your events and/or your transactions and information relating to the same to our Payment Processing Partners, the Card Schemes and/or
+            applicable law enforcement agencies for further action.
+8. Permitted Uses of the Website
+All interactions on the Website must comply with Fever’s Terms of Service. To the extent your conduct, in our sole discretion, restricts or
+            inhibits any other user from using or enjoying any part of the Website, we may limit your privileges on the Website and seek other remedies.
+The following activities performed by any user of the Website are prohibited on the Website and constitute express violations of The Terms of
+            Service and of this Merchant Agreement:
+A. Submitting any content to the Website that: i) contains personal information of users, such as their e-mail and name ("Personal Information"),
+            except when we expressly ask you to provide such information; ii) violates any national or international applicable laws (including but not limited
+            to intellectual property laws, laws relating to rights of privacy and rights of publicity and laws related to defamation); iii) offers unauthorized
+            downloads of any copyrighted, confidential or private information; iv) impersonates any person or entity, or falsifies or otherwise misrepresents
+            yourself or your affiliation with any person or entity; v) possesses or creates a privacy or security risk to any person; vi) makes use of offensive
+            language or images; vii) contains software viruses or malware or any other computer code designed to interrupt or limit the functionality of any
+            computer software or hardware; or viii) is protected by copyright, trademark or other proprietary right without the express permission of the owner
+            of the copyright, trademark or other proprietary right.
+B. Attempting to do or actually doing any of the following: i) interfering with, disrupting or damaging the service given to any user in any
+            manner, including, without limitation, submitting a virus to the Website or attempting to overload, “flood,” “spam,” “mail bomb” or “crash” the
+            Website; ii) scanning or monitoring the Website for data gathering purposes in an effort to track sales, usage, aggregate offering information,
+            pricing information or similar data; iii) scanning or testing the security or configuration of the Website or to breach security or authentication
+            measures; or iv) accessing data not intended for you, such as logging into a server or an account which you are not authorized to access.
+C. Using any of the following: i) frames, framing techniques or framing technology to enclose any content included on the Website without our
+            express written permission; ii) any Website content, including without limitation “Customer Information” (as defined in Section 14.2 of the Terms of
+            Use), in any meta tags or any other “hidden text” techniques or technologies without our express written permission; iii) the Website or any of its
+            resources to solicit consumers, activity providers or other third-parties to become users or partners of other online or offline services directly
+            or indirectly competitive or potentially competitive with Fever, including, without limitation, aggregating current or previously offered
+            activities; or iv) the Website or any of its contents to advertise or solicit any content with commercial, political or religious purposes.
+D. Collecting any of the following: i) personal Information, “Customer Information” (as defined in Section 14.2 of the Terms of Use); or ii)
+            content from the Website, including, but not limited to, information in connection with current or previously offered activities; with the aim of
+            featuring such content to consumers in any manner that diverts traffic from the Website without our express written permission.
+E. Engaging in any of the following: i) tampering or interfering with the proper functioning of any part, page or area of the Website or any
+            functions or services provided by Fever; ii) violating the restrictions in any robot exclusion headers on the Website or bypassing or circumventing
+            other measures employed to prevent or limit access to the Website; iii) reselling or repurposing your access to the Website or any purchases made
+            through the Website; iv) using any Fever account for resale or for speculative, false, fraudulent or any other purpose not expressly permitted by
+            these Terms of Use; v) taking any action that places excessive demand on our services or imposes, or may impose, an unreasonable or
+            disproportionately large load on our servers or other portion of our infrastructure (as determined in our sole discretion); vi) accessing,
+            monitoring or copying any content from the Website using any “robot,” “spider,” “scraper” or other automated means or any manual process for any
+            purpose without our express written permission; vii) aggregating any current or previously-offered activities or other content or information from
+            the Website (whether using links or other technical means or physical records associated with purchases made through the Website) with material from
+            other websites and publishing it neither on our Website nor on a secondary website without our express written permission; viii) deep-linking to any
+            portion of the Website (including, without limitation, the purchase path for any Ticket) without our express written permission; ix) hyperlinking to
+            the Website from any other website without our written consent; or x) acting illegally or maliciously against the business interests or reputation
+            of Fever and/or its subsidiaries or affiliates, including without limitation Fever Labs, Inc., our activity providers or our services.
+9. Customer data
+In respect of any personal data (as defined in the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the
+            protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive
+            95/46/EC), the Event Organizer is responsible to ensure that they comply with the applicable laws and continue to comply with any future laws that
+            may amend or replace the existing regime and any guidance notes or guidelines issued by the relevant data protection authority.
+10. Disclaimer
+The Website and its content are delivered on an "as-is" and "as-available" basis. Fever disclaims all warranties, express or implied, including
+            also any implied warranties of merchantability and fitness for a particular purpose.
+Fever does not promise that the Website will be error-free, uninterrupted, or that it will provide specific results from use of the Website or any
+            content, search or link on it.
+Fever cannot ensure that files you download from the Website will be free of viruses or contamination or destructive features.
+Fever will not be liable for any damages of any kind arising from the use of this Website, including without limitation, direct, indirect,
+            incidental and punitive and consequential damage. Fever makes no guarantee of any specific result from use of this Website or use of the Fever
+            service.
+11. Limitation of liability
+Whilst we endeavour to ensure that the website is fully operational at all times, on those occasions when there are interruptions to service due to
+            essential maintenance, system upgrades, internet service interruptions or any other factors beyond our control, Fever will not be liable for any
+            indirect, consequential, exemplary, incidental, special or punitive damages, or for lost profits, revenues or business opportunities, even if Fever
+            has been advised of the possibility of such damages.
+In no event shall Fever be liable for any indirect or consequential loss or any loss (whether incurred directly or indirectly) of profit, business,
+            revenue, date, goodwill or reputation.
+Fever disclaims any and all liability for the acts, omissions and conduct of any third party users, Fever users, advertisers and / or sponsors on
+            the Website, in connection with the Fever service or otherwise related to your use of the Website and /or the Fever service. Fever is not
+            responsible for the products, services, actions or failure to act of any venue, performer, promoter or other third party in connection with or
+            reference on the Website.
+Notwithstanding the foregoing, nothing in the Merchant Agreement shall be taken to limit or exclude any liability which Fever may have for (i)
+            death or personal injury arising from Fever negligence; (ii) fraudulent misrepresentation; or (iii) any liability that cannot be excluded or
+            restricted by law.
+12. Indemnity
+You shall indemnify Fever, defend and hold harmless Fever and Fever affiliated or related companies and their respective joint ventures,
+            successors, assigns, directors, officers, employees and agents and shall keep each of them fully and effectively indemnified against any and all
+            losses, imposed on, incurred by or asserted against them arising from:
+1. any breach of the Agreement or breach of warranty by the Event Organizer of the acts or omissions of the Event Organizer, your employees,
+            sub-contractors or agents;
+2. any Event or Venue (other than and to the extent that any losses arise directly from breach of this Agreement by Fever or our negligence);
+3. any breach of copyright or privacy laws or any other applicable law;
+4. any advertisement, marketing or promotion (other than any material produced by Fever), including without limitation the production and placement
+            of fly-posters.
+13. Trademarks
+Fever, the website and design are registered trademarks of Fever Labs, Inc. All rights reserved.
+14. Privacy Policy
+Fever highly values the privacy of its user's. For more information regarding personal data protection, please refer to the Fever Privacy Policy
+available here
+15. Contact information for Customer service:
+E-mail:
+hello@feverup.com
+,
+hola@feverup.com
+,
+ola@feverup.com
+,
+salut@feverup.com

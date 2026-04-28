@@ -1,0 +1,130 @@
+#    Robots.txt file www.healthgrades.com
+#    July 7, 2025
+
+# XML Sitemap Root File
+Sitemap: https://www.healthgrades.com/sitemapindex.xml
+Sitemap: https://www.healthgrades.com/sitemapindex-rlp.xml
+Sitemap: https://www.healthgrades.com/sitemapindex-psr.xml
+
+User-agent: *
+Disallow: /ContentLic/
+Disallow: /Contentlic/
+Disallow: /contentlic/
+Disallow: /Professional/
+Disallow: /professional/
+Disallow: /logos/
+Disallow: /Logos/
+Disallow: /sales/
+Disallow: /Sales/
+Disallow: /provider-search-directory/
+Disallow: /hospital-directory/search/
+Disallow: /facility-search-directory/
+Disallow: /edit-survey
+Disallow: /promo
+Disallow: /Folio
+Disallow: /components
+Disallow: /health-stories/submit
+Disallow: /autosuggest
+Disallow: /Appointment
+Disallow: /stagealpha
+Allow: /ucms/sitemap*
+Disallow: /ucms
+Disallow: /modules/slideshow
+Disallow: /4925
+Disallow: /guide?
+Disallow: /node 
+Disallow: /uisvc/v1_0/EPPUIService/
+Disallow: /uisvc/v1_0/eppuiservice/
+Disallow: /searchengines/
+Disallow: /account-admin/
+Disallow: /chatbot-embed/
+Disallow: /healthguides/ucms-write/
+Disallow: /ssp/
+Disallow: /img/prov/
+Disallow: /*.rss$
+Disallow: /dir/
+
+# Disallow certain directories for b2b site
+Disallow: /ipac/
+Disallow: /sneakpeek/
+Disallow: /MHsneakpeek/
+Disallow: /mhsneakpeek/
+Disallow: /HLsneakpeek/
+Disallow: /hlsneakpeek/
+Disallow: /sneakpeekaccess/
+Disallow: /TenetDemo/
+Disallow: /tenetdemo/
+Disallow: /ipacDemo/
+Disallow: /ipacdemo/
+Disallow: /ipacdemodoc/
+
+# Next specific paths for blocking chunks from googlebot, the first is a catch-all for all NextJS sites.
+Disallow: */_next/static/chunks/*.js
+Disallow: /hg-provider-search-app/_next/static/chunks/*.js
+Disallow: /hg-landing-pages-app/_next/static/chunks/*.js
+Disallow: /hg-facility-search-app/_next/static/chunks/*.js
+
+# Block API routes 
+Disallow: /api
+
+# Disallow consumer javascript and css folders
+# Commented out to test impact on ability of Google to crawl / rankings
+# Disallow: /Consumer/styles/
+# Disallow: /consumer/styles/
+# Disallow: /Consumer/scripts/
+# Disallow: /consumer/scripts/
+Disallow: /sites/custom/Consumer/styles/
+Disallow: /sites/custom/consumer/styles/
+Disallow: /sites/custom/Consumer/scripts/
+Disallow: /sites/custom/consumer/scripts/
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: DDM-DCipher
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: NextGenSearchBot
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: ShopWiki
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: Webzio-Extended
+Disallow: /
+
+User-agent: Mediapartners-Google 
+Disallow:
+
+
+# End robots.txt file

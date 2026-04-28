@@ -1,0 +1,65 @@
+User-agent: *
+Disallow: /results
+Sitemap: https://www.ea.com/sitemap.xml
+
+# --- BLOCKED BOTS ---
+User-agent: AI2Bot
+Disallow: /
+
+User-agent: AI2Bot-Dolma
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: FriendlyCrawler
+Disallow: /
+
+User-agent: ICC-Crawler
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: Claudebot
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: cohere-training-data-crawler
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: *AI*
+Disallow: /
+
+#Electronic Arts Inc. and its affiliated companies explicitly reserve all their rights in any content made available, including on websites, social media pages and any other platforms. Electronic Arts content includes without limitation, video games, visual displays of video games, characters, brands, artworks, images, videos, music, dialogue, story, and any Electronic Arts works or data.  Any use of such content for the development, training, programming, improvement and/or enhancement of artificial intelligence (including, but not limited to, generative AI systems), web scraping, machine learning, or any form of text or data mining, is prohibited, unless specifically and explicitly authorized in writing by Electronic Arts.
+
+#This statement is a reservation of rights with respect to text and data mining under Article 4 (3) of Directive (EU) 2019/790 and any analogous statutes worldwide.

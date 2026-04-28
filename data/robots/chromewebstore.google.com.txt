@@ -1,0 +1,19 @@
+User-agent: *
+
+Disallow: /detail/*/report
+Disallow: /detail/*/privacy
+Disallow: /detail/*/support
+Disallow: /detail/*/reviews
+Disallow: /detail/*/related
+Disallow: /detail/*/preview
+Disallow: /detail/*?*utm_source=*
+Disallow: /detail/*?*utm_medium=*
+Disallow: /detail/*?*utm_campaign=*
+Disallow: /detail/*?*authuser=*
+Disallow: /detail/*?*pli=*
+Disallow: /detail/*?*sid=*
+Disallow: /detail/*?*hubs_content=*
+Disallow: /detail/*?*q=*
+Disallow: /search
+
+Sitemap: https://chromewebstore.google.com/sitemap

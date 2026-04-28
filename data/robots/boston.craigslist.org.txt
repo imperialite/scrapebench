@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /reply
+Disallow: /fb/
+Disallow: /suggest
+Disallow: /flag
+Disallow: /mf
+Disallow: /mailflag
+Disallow: /eaf
+Disallow: /area/
+Disallow: /subarea/
+Disallow: /city/
+Disallow: /search/area/
+Disallow: /search/subarea/
+Disallow: /search/city/
+Disallow: /view/
+
+Sitemap: https://boston.craigslist.org/sitemap/index.xml
+Sitemap: https://boston.craigslist.org/sitemap/index-by-date-cat.xml

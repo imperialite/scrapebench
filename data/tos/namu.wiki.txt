@@ -1,0 +1,317 @@
+1. specialty
+namuwiki was established on April 17, 2015 to equally guarantee the freedom and rights of users and to strive for the sharing of knowledge and information. As a wiki site, namuwiki aims to promote various fields such as academia and subculture without being biased towards a specific area, and aims for descriptions that are somewhat interesting rather than rigid and dry. namuwiki aims for neutral and factual descriptions through discussion, and descriptions that are not subordinate to specific viewpoints or forces, and rejects ideas and groups that go against universal human rights and ethics.
+
+namuwiki does not have any special credentials for writing and editing articles. However, since not all namuwiki editors have the same ideas, when a dispute arises, it is a principle to reach a consensus through fair and free discussion among users. When this principle is followed, namuwiki guarantees users' free document description and discussion. However, acts that ignore others' opinions or promote discrimination and contempt are not tolerated, and such acts may be subject to sanctions.
+
+In order to guarantee free wiki activities by good users through autonomous operation by users of namuwiki and establishment of minimum guidelines for resolving disputes, these basic guidelines were created through continuous free discussion among namuwiki users starting May 3, 2015, and are announced on September 5, 2015 by agreement of users including all discussants who participated in the regulations discussion.
+2. namuwiki
+2.1. Definition of namuwiki
+namuwiki refers to this site, all wiki documents described on this site, and all users of this site.
+2.2. namuwiki's direction
+namuwiki's most important goal is fairness through discussion, not mechanical neutrality. I believe that the narrative becomes fair by reasonably reaching a consensus that the discussion participants can agree on.
+namuwiki aims to ensure that facts are clearly identified during the discussion process and that a single point of view is described in the document.
+2.3. Description of namuwiki
+Basically, documents on any topic can be written on namuwiki , except in cases where writing is restricted by this Basic Policy and other regulations granted authority in accordance with the Basic Policy.
+All documents on the wiki are revised through discussion if there are differences of opinion between users.
+2.3.1. Conflict of interest
+namuwiki does not restrict the registration or editing of documents about a person, organization, product, service, etc. if the person, organization, product, service, etc. meets the registration criteria. However, in the case of any of the following acts, it is considered an illegal activity for publicity purposes and is prohibited.
+Private Toto, online gambling, illegal sports betting, etc.
+Actions to claim unproven efficacy for general foods that are not allowed as medicines or health functional foods
+Make marketing terms of misunderstanding as a real concept, or creating a false concept to promote its products or companies
+Inserting a link to a certain product or service partner program, or listing documents on self-republic exchanges of cryptocurrency exchanges
+Other executives judge as a fraudulent activity for the purpose of promotion, specific figures, organizations, goods, and services.
+namuwiki prohibits statements that criticize real individuals, organizations, etc., but whose facts cannot be confirmed through external sources.
+2.4. License of namuwiki
+Namuwiki's documents are basically distributed under CC BY-NC-SA 2.0 KR .
+However, images inserted into documents may be distributed under a separate license.[backgroundexplanation]
+[backgroundexplanation] Separate licensing terms are limited to images uploaded to namuwiki servers and do not apply to text on namuwiki. namuwiki's image uploader has the ability to select various licenses to comply with distribution licenses such as CCL, and CC BY-NC-SA 2.0 is a regulation that allows images distributed under licenses other than Korea to be used on namuwiki without violating the license.
+3. Users and Rights
+3.1. user definition
+User refers to all users who view, edit, create, or modify namuwiki documents.
+3.2. User's Rights
+“Right to use” is defined as encompassing all rights that users of namuwiki generally have . The right to use can be divided into the following four rights:
+Access: The right to access namuwiki's documents.
+Editorial Rights: The right to edit, create, move, delete documents not restricted by regulation.
+Right to Discussion: The right to express your opinion about the article or wiki rules and operation.
+Right to Vote: The right to appeal a sanction.
+3.3. Restrictions on Rights of Use
+namuwiki may restrict users' usage rights based on regulations.
+Basically, the right to explanation is not restricted, but the right to explanation may also be restricted depending on other regulations.
+If a specific user places a large burden on the namuwiki server and causes operational problems, the user's right to use may be restricted.
+If there are legal issues related to namuwiki, the right to view certain documents may be restricted in accordance with the document management policy .
+4. Rule
+Namuwiki's regulations refer to the standards of judgment that must be followed and observed when using Namuwiki or when a judgment is needed on any matter. The range is 4.1. It shall be mentioned in the Types of Regulations .
+4.1. type of regulation
+namuwiki:Basic policy is the regulations for managing namuwiki.[2]
+Management of the management team organization and operation follows namuwiki: Basic Policy/Operation Management Policy .
+Management of the management election procedure follows namuwiki: Basic Policy/Operation Management Policy/Election of Management Team .
+Document management follows namuwiki:Basic Policy/Document Management Policy .
+Discussion management follows namuwiki:Basic Policy/Discussion Management Policy .
+User management follows namuwiki:Basic Policy/User Management Policy .
+namuwiki:Editing Guidelines are regulations that determine the editing direction of namuwiki documents.
+The descriptive principles that general documents must follow follow namuwiki:Editing Guidelines/General Documents .
+The descriptive principles that special documents must follow follow namuwiki:Editing Guidelines/Special Documents .
+The editing direction for documents belonging to a specific field follows namuwiki:Editing Guidelines/Specific Field .
+The editing direction for humanities and social sciences follows namuwiki:Editing Guidelines/Specific Fields/Humanities and Social Sciences .
+Editing directions in the fields of mathematics, natural science, and engineering follow namuwiki:Editing Guidelines/Specific Fields/Science and Technology .
+Editing direction for arts, sports, and other popular culture fields follows namuwiki:Editing Guidelines/Specific Fields/Culture and Arts .
+The editing direction for creative works follows namuwiki:Editing Guidelines/Specific Field/Creative Works .
+The standards for creating specific documents follow namuwiki:Editing Guidelines/Listing Standards .
+The headword standards for documents follow namuwiki:Editing Guidelines/Headwords .
+namuwiki:Project guidelines are regulations that determine how a project will operate. This also includes detailed instructions for individual projects.
+To comprehensively manage namuwiki's documentation, namuwiki may create specific guidelines.
+Rules established for operational convenience are governed by namuwiki: Basic Policy/Operation Management Policy .
+[2] The preamble has historical significance only, commemorating the original regulatory promulgation.
+4.2. conflict of regulations
+In the event of a conflict between regulations, the more specific one shall take precedence.
+If the operator determines that problems will arise when the operator first applies the regulations pursuant to this paragraph, the company manager may not apply this regulation or may apply it in a modified manner.
+4.3. Interpretation of regulations
+In namuwiki's regulations, the terms below are defined as follows.
+Warning is a different term from caution and recommendation, and caution and recommendation do not have the effect of the term warning specified in the regulations.
+Objection refers to a dictionary definition, not a legal definition, and the proposal of an amendment is also included in the objection.
+An objection is a concept that includes not only presenting opposing opinions to an agreement, but also suggesting amendments to the agreement.
+The times mentioned in namuwiki's regulations are interpreted as follows.
+Unless otherwise specified, dates and times mentioned in namuwiki's regulations follow the Gregorian calendar and Korea Standard Time (KST).
+If only the date is mentioned in namuwiki's regulations and no separate time is mentioned, it is interpreted as 0:00:00:00 on the relevant day.
+Unless otherwise specified, in namuwiki's regulations, 1 day means 24 hours, 1 week means 7 days (=168 hours), 1 month means 4 weeks (=28 days), and 1 year means 12 months (=336 days).
+In the case of regulations with character limits, only the original citation and text are counted, excluding link addresses, wiki grammar marks, frames, images, spaces, etc.[3] However, if a different interpretation law is already included in the individual regulations, this interpretation law does not apply.
+The number of administrators mentioned in namuwiki regulations is interpreted as follows.
+When counting the number of operators who have agreed to a specific issue, in principle, the operator who proposed the proposal is also included in the number of consenters. However, an exception is made if a neutral or opposing opinion on the proposal is separately expressed at the time of proposal.
+The number of administrators mentioned in the regulations is calculated as follows.
+(Total number of operators) - (Number of operators on vacation) + (Number of operators who are on vacation but have expressed opinions)
+If the number of operators required by the regulations is not a natural number, it is interpreted as rounding up to one decimal place.[4]
+[3] 1 Hangul character is based on 1 character.
+[4] For example, if the number of management members calculated according to the above provisions is 19, and the regulations require the consent of more than 1/3 of the number of management members, 19 * 1/3 = 6.33... Therefore, the consent of 7 or more people is required.
+4.4. Revision of regulations
+Amendments to regulations must be made in accordance with 4.4. Any amendments to the regulations must be followed.
+In the regulations below, terms are defined as follows.
+Regulation revision discussion is in 4.4. Refers to discussions following amendments to the regulations .
+A regulation amendment refers to a text written without exception of changes made through regulation revision discussions, or an equivalent text.
+Amendments to regulations must be made through the procedures below.
+Debating regulation revision and drafting an agreement
+→
+Objection Period Begins
+→
+Approval and Reflection of Discussion Agreement
+4.4.1. regulation revision discussion
+For discussion on revisions to regulations, use the discussion section of the relevant regulations or a similar venue.
+The title and presentation of a regulation revision discussion must clearly indicate the topic of discussion.
+Participants in a rule revision discussion may only make comments related to the topic of the discussion.
+Discussion participants can ask the moderator to determine whether a particular statement is related to the discussion topic, and the moderator can reject it.
+The purpose of the revision must be clearly stated in the presentation for the regulation revision discussion, and the proposed revision to the regulation does not necessarily need to be presented.
+The purpose of revision should not be overly abstract or unclear and must express the problem for which the regulation is being revised.
+Discussion titles such as those below cannot be used.
+Titles that do not identify the part to be revised and the proposed amendment at all, such as 'Rule Revision Discussion'
+A title in which the paragraph number of the part to be revised is indicated without a paragraph name
+Regarding the procedures for regulation revision discussions, matters not specified in these regulations shall be governed by Paragraph 2 of the Discussion Management Policy - General Discussion and Paragraph 5 of the Discussion Management Policy - Threads and Comments .
+In the case of a namuwiki project detailed guideline discussion, a phrase must be written in the discussion title indicating that it is a discussion on revision of the editing guidelines, and the discussion agreement is reflected in namuwiki:Editing Guidelines/Specific Area .
+For special projects, the discussion agreement is reflected in namuwiki:Editing Guidelines/Special Documents .
+4.4.2. Differences from regular discussion
+The 'general discussion presentation requirements' set forth in paragraph 2.1 of the discussion management policy - discussion presentation and burden of proof - do not apply, and regulation revision discussions can be presented without any separate requirements.
+However, in the case of some regulations, discussion of regulation revision may be limited due to their nature.
+Paragraph 2.3 of the discussion management policy - Despite the presentation of evidence, when discussing regulation revisions, documents or discussions to which the revision will be applied may be presented as evidence.
+Discussion Management Policy Paragraph 2.4 - Despite the discussion agreement , it is possible to reach an agreement to fix a specific string as is.
+Paragraph 2.4.2 of the Discussion Management Policy - The objection period applies, but this regulation takes precedence.
+Discussion Management Policy Paragraph 2.4.3 - Invalidation of discussion agreements does not apply.
+Discussion Management Policy Paragraph 2.6 - During the conclusion of a discussion, the following applies to "cases where the discussion has been abandoned without meaningful comments or progress for more than 48 hours since the last meaningful statement by the discussion participant or the moderator in charge."
+Comments from users who have previously participated in the discussion are considered 'significant comments' in order to be included in the most recent discussion before the objection period begins in the rule revision discussion.
+Regulation revision discussions that fall under any of the following will not be abandoned.
+In the case where a discussion requesting initial administrator confirmation is waiting for processing on the inquiry board
+There is no 'Valid Objection' in a discussion that has had 6 valid renewals, spaced at least 3 hours apart from the start of the Objection Period.
+Company managers may reject the policy amendment discussion after reviewing it. In this case, the discussion will be closed immediately.
+If a company manager refuses to discuss a rule amendment but does not close the discussion, the elected manager may also close the discussion.
+4.4.2.1. Arbitration of Rule Amendment Debate
+Arbitration is also possible in rule revision discussions, and the procedures and methods are governed by these regulations and the discussion management policy, paragraph 2.7 - Arbitration of Discussions . If there is a conflict between the former and the latter, the provisions of the former shall apply.
+Moderators who wish to moderate rule revision discussions must prove that the number of general discussions they have moderated is 10 or more. This does not include the number of discussions that only involved specific mediation actions .
+If there is less than one operator that satisfies the above conditions, two operators will be appointed to mediate the regulation revision discussion according to the priorities below until there are two or more operators that satisfy the conditions. However, operators who meet the conditions are included regardless of priority.
+number of discussions moderated
+tenure
+Appointment of management manager
+The arbitrator in charge of the rule revision discussion may reach an arbitration conclusion , but may not immediately start the objection period. In order to start the objection period, he or she must follow the provisions of paragraph 4.4.2 - Appeal Period .
+Paragraph 2.7.4.2 of the discussion management policy - Forced discussion and conclusion drawing by the company - does not apply to regulation revision discussions , and the following applies.
+The management of the company may, at the request of the arbitrator in charge, draw a forced conclusion in the regulation revision debate.
+Users of namuwiki can raise objections to the mandatory conclusion of regulation revision discussions. At this time, the user raising an objection must demonstrate grounds for reexamining the mandatory conclusion.
+Appeals under this regulation will be handled by management.
+4.4.3. objection period
+The agreement in the regulation amendment discussion must be presented in the form of a regulation amendment and can be presented as an agreement that has effect not only on the target document but also on other documents specified in the agreement. The revised regulations must specify the content and scope of application of the revised regulations , and if the regulations are to be applied retroactively, the subject of retroactive application must be specified in the agreement.
+To enter the objection period, one administrator must confirm that there are no problems with the settlement.
+If you request confirmation of the agreement through the bulletin board, you must use the inquiry bulletin board .
+Administrators cannot refuse to confirm the agreement unless there is a reason specified in namuwiki:Basic Policy.
+If the agreement is to maintain the status quo, the objection period may proceed without confirmation from the administrator and without notice.
+To enter the objection period, the user can directly declare the start of the objection period after satisfying the conditions for requesting administrator confirmation described later.
+Any settlement requesting confirmation by the Administrator must meet all of the following conditions at the time of review by the Administrator:
+There is no 'valid objection' as defined by the Debate Management Policy
+satisfies one of the following three
+3 or more participants, excluding the discussion participant who presented the agreement, agreed to the agreement[5]
+At least 24 hours have elapsed since the proposal was presented and at least 3 hours have elapsed since at least 3 renewals at intervals of 3 hours or more
+The agreement is the arbitration conclusion of the moderator in charge as defined in the Debate Management Policy.
+If the agreement is changed, conditions 1 and 2 must be met again.
+If the changes are minor, such as correcting typos or grammatical errors, the agreement will not be considered changed.
+Before the objection period for the applicable agreement opens, changes to the Statement of Purpose of Amendment will be considered minor changes unless there is an objection to the intent of the amendment.
+If the discussion has moved, the agreement is considered to have changed.
+Administrators must post a link to the discussion on namuwiki:Main within 30 minutes of declaring the objection period open. If this is violated or an incorrect notice is given, the declaration will be considered invalid.[6]
+The objection period shall commence from the time of declaration of commencement.
+During the objection period, only discussions regarding supplementation/change/deletion of the amendment are possible. If there is an objection to a part unrelated to the amendment, a new regulation revision discussion must be opened.
+If the agreement changes while the appeal period is in progress, you must re-satisfy the conditions for requesting administrator confirmation of the changed agreement and then start the appeal period again. However, in this case, no separate confirmation from the administrator is required, and discussion participants can directly declare a restart of the objection period.
+If the changes are minor, such as correcting typos or grammatical errors, the agreement will not be considered changed.
+If the discussion moves during the objection period, the agreement will be considered changed.
+Regardless of whether the confirmation requirements are met, the administrator may suggest requesting confirmation again after revision if there is a possibility that the proposed agreement may not satisfy some or all of the requirements of namuwiki: Enforcement Rules on Approval of Regulations Amendment Discussion Agreement.
+If the discussion participant determines that the requirements of namuwiki: Enforcement Rules for Approval of Regulation Amendment Discussion Agreement have been met, he or she may request continuation of approval despite the administrator's suggestion. In this case, the administrator must process the confirmation request as is, if there are no other problems.
+The objection period ends when all of the conditions below are met.
+There is no 'valid objection' as defined by the Debate Management Policy
+3 hours after 6 valid renewals, spaced at least 3 hours apart, starting at the time the comment announcing the start of the objection period was posted.
+72 hours have passed since an admin-verified comment[7]
+If you restart the appeal period, you must meet the above conditions again.
+There is no need to re-satisfy the condition 72 hours after administrator confirmation if it is satisfied only once, but 48 hours must pass from the comment notifying the restart of the objection period.
+[5] When agreeing to a settlement, the thread number must be specified.
+[6] This does not apply to discussions where the agreement is to maintain the status quo.
+[7] Discussions where the status quo is a consensus start objection period 72 hours from comment
+4.4.3.1. Acceptance and Denial of Objections
+If the administrator or arbitrator determines that a particular objection has been adequately considered in previous discussions, the administrator or arbitrator may dismiss the objection with clear reasons.
+4.4.4. discussion agreement
+The discussion agreement refers to the agreement reached at the end of the objection period.
+The company's administrator has the authority to approve and reflect the discussion agreement, and any user can request approval of the discussion agreement.
+The editorial summary of a discussion agreement approval request must include a link to the discussion of revisions.
+If the edit request is approved by management, the discussion agreement will be incorporated into the regulations, and the discussion of amendments to the regulations will be closed.
+Necessary matters regarding procedures and standards for approval of discussion agreements are determined by the Enforcement Rules .
+4.4.5. When Amendments Take Effect
+If the effective time of the amendment is not specifically determined, it will take effect from the time the relevant regulations are reflected in the document.
+If necessary, the discussion agreement may set the time for the amendment to enter into force. However, this point must be after the change in regulations has been announced on namuwiki:Daemun.
+4.4.6. exceptions
+Company managers can revise regulations without discussion of amendments.
+After the regulations are revised, the company manager must announce the details of the changes in the regulations on the main page.
+The administrator cannot sanction users based on this for 24 hours after the revision in accordance with the above provisions.
+If the regulations are revised according to the results of the management meeting, the related procedure follows the special provisions for revision of regulations according to the agreement of the management meeting .
+namuwiki: Matters related to revision of basic policy/operation management policy/management election shall follow the management election policy: special regulations regarding restrictions on revision of regulations and timing of application .
+User Management Policy: In case of operational disruption, regulations cannot be revised through regulation revision discussions.
+Basic Policy: In order to discuss revisions to the full text and related regulations, agreement at the operating meeting must be obtained first.
+The agenda of the operating meeting pursuant to this provision shall be handled in accordance with the work-related agenda .
+Amendments to regulations related to the regulations and notice framework mentioned below can only be made through a management meeting.
+namuwiki:Editing guidelines/Special document 3. Some provisions mentioned in the notice template regulations in the template document, 3.1.3. All notice template regulations
+namuwiki:Editing Guidelines/General Document 2.3. Others, 3. Some provisions in which the notice framework provisions are mentioned in the narrative priority.
+namuwiki:Basic policy/User management policy 3.1 Abuse of editing rights, 3.1.1. Acts subject to increased sanctions for abuse of editing rights, 3.4. Some provisions that mention the notice template regulations in user-related documents
+4.4.6.1. the text of the regulations
+In the cases below, you can request to edit the regulations without separate discussion, and there is no need for the change details to be listed in the main text.
+Editing for obvious typos and inscriptions, etc.
+Correction of simple mistakes and errors in the editing process
+Other cases where the manager of the management decides that discussion on revision of the regulation is not necessary
+Discussions for editing that do not modify the essential content of the regulations do not apply the regulations revision discussion procedures, and follow the procedures for general document editing discussions.
+However, even if the discussion is for Yoon Moon, only an operator who can mediate regulation revision discussions can mediate the discussion.
+The arbitrator in charge may determine whether the proposed settlement would amend the substantive provisions of the Rules.
+In order to make the edits below, you must follow the procedures for discussion of revisions to the regulations, even if they do not change the substantive content of the regulations.
+New/deleted regulatory documents and headword changes
+Other cases where the operator determines that the editing has a significant impact on the use of the rules and requires deliberation
+4.4.6.2. Amendment to regulations on weighting of duties of management team
+Amendments to regulations that increase the workload of the management (hereinafter referred to as “work aggravation amendments”) will be handled in accordance with the provisions of this paragraph. At this time, the revised regulations that increase the workload of the management team are as follows.[8]
+An amendment to add new additional tasks in the enforcement of the regulation
+Amendments that violate the operator's discretion
+Other amendments that are not listed in the preceding paragraph, but are judged by the manager of the company to increase work
+Operators may express opposition to the workload aggravation amendment without providing separate grounds. In this case, the regulation revision discussion process is immediately suspended and regulation revision is possible only through a management meeting .
+Users may raise an objection to the company's administrator within 48 hours of the first objection pursuant to the preceding paragraph. The management of the company can confirm the work-intensive amendment or proceed with the regulation revision discussion process.[9]
+When the operator expresses opposition to the workload increase amendment in accordance with this regulation, the following must be included.
+Thread number of the amendment judged to be a work-intensive amendment
+Clear opposition to the amendment in this thread[10]
+Notice that the regulation amendment discussion process will be immediately suspended from the point of opposition.
+Notice of right to appeal within 48 hours
+Despite objections from one or more moderators, discussions may continue in the following cases:
+If the management determines that it is not an amendment to increase work load.
+When the operator's expression of opposition applies only to part of the agreement
+Other amendments are being discussed for which the operator has not expressed opposition.[11]
+When all operators who expressed opposition withdraw their opposition
+If the workload aggravation amendment satisfies the conditions for requesting administrator confirmation and requests administrator confirmation, the administrator who declared the start of the objection period for the agreement must notify all management staff, excluding those on vacation, of the entry into the objection period within 30 minutes from the declaration of commencement or through user discussion.
+[8] This only applies when one or more operators determine that it is a work-intensive issue. In case of disagreement between operators, the judgment of the management shall be followed.
+[9] If no objections are raised within 48 hours, it will be confirmed as a workload amendment and the debate will be closed.
+[10] At this time, moderators can express opposition to some or all of the amendments in the thread.
+[11] However, if opposition to other agreements is expressed as a work-intensive regulation revision, the regulation revision process cannot proceed.
+4.4.7. Special provisions regarding revision of editorial guidelines
+namuwiki: Editing Guidelines Reorganization and its sub-documents are documents to discuss and record matters related to editing guidelines reorganization.
+Administrators can adjust permissions to edit and participate in discussions on the documents to ensure smooth discussion and recording.
+Discussions regarding the revision of the editing guidelines are held in the discussion thread of namuwiki:Editing Guidelines Reform/Editing Guidelines and its sub-documents.
+Users can submit discussions to discuss whether to move or remain in each article of the editorial guidelines.
+The procedure for discussion on revision of regulations applies to the discussion.
+To prevent duplicate discussions, provisions that have been decided to move/remain through discussion cannot be discussed again.
+In order to re-discuss the decided provisions, you must demonstrate the need for re-discussion through the inquiry bulletin board.
+Clauses for which transfer/retention discussions have been completed are marked in green .
+Users can create edit requests in namuwiki:Editing Guidelines Reorganization/Editing Guidelines , namuwiki:Editing Guidelines Reorganization/Edit Agreement , and their sub-documents to reflect changes to provisions that have been discussed .
+Administrators can check and approve the edit request.
+Unless there are special reasons such as provisions that have already been discussed or duplicate provisions, the administrator cannot refuse to approve an edit request.
+After discussion of all provisions is completed, the management meeting may decide to reflect the revised editorial guidelines through a resolution.
+To simplify the process, if more than ⅔ of the members of the management team agree to the reflection without opposition, it can be considered a resolution of the management meeting.
+Confirmation of consent to this provision will be made on the management bulletin board.
+4.5. Non-retroactive principle of regulation
+Whether the document is registered or not[12] , discussion agreements, and user actions are subject to the regulations at the time the relevant actions were completed and are not affected by subsequent revisions to the regulations.
+Notwithstanding this regulation, the regulation may be applied retroactively at the discretion of the company manager in any of the following cases.
+If there are more than three previous discussion agreements affected by the revision of the regulations, and the necessity of destruction is recognized
+There are more than three documents affected by the revision of the registration standards, and if the necessity of cancellation of registration is recognized
+As a revision of regulations on operational interference , when the user behavior before the revision is recognized, the necessity of sanctions is recognized.
+The procedure for retroactive application of regulations follows the provisions of the ‘ List of retroactive application regulations ’ paragraph.
+Descriptions in documents that are not related to registration have priority over editing in accordance with the revised regulations, even if they were written before the regulations were revised.
+If a document that could not be registered according to the registration criteria before the revision meets the registration criteria after the revision, it can be re-registered even if the regulation does not apply retroactively.
+If the revised regulations are interpreted favorably to a user who has previously been sanctioned, the user may request a reduction or cancellation of the sanctions within six months from the date of enforcement of the regulations.
+[12] This includes cases where editorial guidelines impose conditions on whether or not specific content is described.
+4.5.1. List of retroactive rules
+Paragraph 4.5 of the Basic Policy : In accordance with the principle of non-retroactivity of regulations, retroactively applied regulations are recorded in namuwiki: List of Retroactively Applicable Regulations (hereinafter referred to as “List”).
+Basic Policy Paragraph 4.5 : According to the non-retroactive principle of the rules, when requesting approval of a discussion agreement that is applied retroactively, an edit request must be made in the list.
+The administrator has the right to edit the list.
+The following information must be entered in the list. At this time, it is written using list grammar according to the guide written in the list.
+Links to regulation revision discussions and subject of discussions[13]
+Link to edit request requesting reflection of discussion consensus[14]
+Date the regulation was reflected
+If the revised regulations are retroactively applied by the manager of the company without discussing the revision of the regulations, the following shall apply.
+The link to the regulation revision discussion and the topic of the discussion will not be written. If a guide post related to the regulation is written on the namuwiki bulletin board , the link and title of the post must be written. If there is no related guide, you must copy and write exactly what is written in Template: Operational Notice .
+We do not create a link in the edit request requesting a reflection of the discussion consensus, but instead we create a comparison link to view the rule amendments .
+The date the regulation was reflected is written the same as in the case of regulation revision discussion.
+Content created in the list will not be edited or removed thereafter. However, the following cases are exceptions.
+After your rule revision edit request is reflected, you can add a comparison link to check the changes to the rule.[15]
+If the retroactive application of a rule is canceled, we will remove that content from the list.
+If a regulation is repealed, we will remove its contents from the list.
+If the regulations have significantly changed , write a link and topic of the discussion revised to the current regulations, a link to request an edit, and the date the regulations were reflected as sublists.
+If the location of the regulation is moved or the regulation is differentiated[16] , You can move the contents of the list to another paragraph.
+If you encounter a broken link, you can fix the broken link.
+If a typo or error in content or format is obvious, the typo or error may be corrected.[17]
+[13] Even if there are typos or spelling errors in the discussion topic, write the discussion topic as it is.
+[14] Format such as https://namu.wiki/edit_request/AbcdEfghi.
+[15] We will not remove existing edit request links. Additionally, when adding a comparison link, the comparison link will not be edited or removed unless it falls under an exception.
+[16] Example: Cases where some of the contents in the specific field guidelines are differentiated into creative work guidelines , etc.
+[17] Example: If the discussion title is entered incorrectly in the list, the date on which the regulations are reflected is incorrectly entered, etc.
+5. Supplementary provisions <2025. 12. 06>
+Until the establishment of the (tentative name) namuwiki Steering Committee, elected managers can temporarily exercise the authority specified in the regulations as the authority of “management managers.” However, the following powers are excluded from those that elected managers can exercise:
+The authority of the manager of the company prescribed in the regulations on the election and disciplinary action of the operator
+Authority related to the amendment of the regulations
+Technically, the authority to be elected manager is impossible
+Powers that could have been exercised by elected managers by a steering committee or similar body prior to the enactment of these by-laws
+In addition, the authority has been decided to prohibit the exercise by the elected manager by the agreement between the management.
+Notwithstanding the above provisions, a request may be made to the management to discipline or sanction an operator with the consent of three or more elected operators.
+The procedures and methods for disclosing disciplinary proposals are subject to the regulations on disclosing consultation threads according to consultation procedures.
+The “authoritative interpretation” of the existing management manager has no binding force on any subsequent judgment.
+If an objection is received through the inquiry bulletin board regarding the interpretation of the regulations, it will go through the following temporary authoritative interpretation procedures.
+Wiki Management: We are opening a thread to proceed with the consultation process in the temporary authoritative interpretation.
+When an objection is received, the moderator in charge posts the fact that the objection has been received as a comment on the thread.
+The consultation process is deemed to have commenced at the time of posting.
+The conclusion of the interpretation is drawn by obtaining the consent of a majority of the operators involved through consultation.
+The consultation process ends when:
+If the conclusion is drawn by presenting opinions at 1/3 of the staff members
+If more than 24 hours but less than 48 hours have passed since the start of the consultation process, and two or more people have presented their opinions and a conclusion has been reached
+It has been over 48 hours since the beginning of the consultation procedure, and if the conclusion is not drawn,
+In this case, the objection is deemed to have been dismissed.
+The interpretation decided in accordance with this provision will remain in effect until a formal, authoritative interpretation is proposed to the (tentative name) namuwiki Steering Committee.
+Users cannot request a temporary authoritative interpretation for the same issue again.
+With the consent of the manager in charge, this procedure may be applied to handling objections to the management's work, rather than interpretation of regulations.[18]
+Even in this case, disciplinary action or sanctions against the operator in charge cannot be concluded.
+When processing an objection according to the consultation procedure, the summary of the discussion will be notified to the inquirer who raised the objection. In this case, a request for an authoritative interpretation to raise an objection is also considered an objection.
+Discussion threads according to the consultation process will be disclosed in the following cases. In this case, the scope and method of disclosure may not be disclosed or the scope and method of disclosure may be limited for content recognized as requiring operational security based on the consent and agreement of the management or the judgment of the company's manager.
+When the consent of the majority of operators involved is obtained during the consultation process.
+When disclosure is made through a decision by a company manager or agreement between management.
+Regulation revisions related to the following issues can only be carried out through management meetings. However, an exception is made in cases where Yoon Moon or a company manager revises ex officio.
+Revision of the regulations to revise this adventure
+(Tentative name) An amendment to regulations related to the establishment of the Namuwiki Steering Committee
+This supplementary provision loses its effect upon the establishment of the (tentative name) namuwiki Steering Committee, and in principle is to be removed immediately.
+[18] If consent is not received, only the company's administrator can handle the objection.
+6. Supplementary Provisions <2026. 02. 02>
+Basic policy 4.4.7. The ‘Special Provisions for Reorganization of Editorial Guidelines’ paragraph and these supplementary provisions may be revised only through a management meeting.
+Basic policy 4.4.3. ‘Objection Period’ and 4.4.4. Despite the 'discussion agreement', until the resolution of the management meeting, the presentation of the discussion on the revision of regulations for namuwiki:Editorial Guidelines and its sub-documents, the opening of the objection period, and reflection of the agreement are restricted.
+However, regulation revision discussions for which the objection period has already expired at the time this provision is added are excluded from the restriction.
+Notwithstanding the above provisions, if urgent revision is unavoidable due to a statement that causes serious problems, you may proceed with the discussion of revision of the regulations and the opening of the objection period with the confirmation of an administrator through the inquiry bulletin board.
+When revising the regulations in accordance with this provision, the changes must also be reflected in the sub-documents of namuwiki: Editing Guidelines Reorganization .
+namuwiki: The revision of the editing guidelines and its sub-documents are in accordance with basic policy 4.4.7. It will be preserved after the resolution of the management meeting as defined in the ‘Special Provisions for Reorganization of Editorial Guidelines’ paragraph.
+Basic policy 4.4.7. In principle, the ‘Special Provisions for Reorganization of Editorial Guidelines’ paragraph and these supplementary provisions shall be deleted upon resolution at the management meeting.

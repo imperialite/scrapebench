@@ -1,0 +1,13 @@
+User-agent: grapeshot
+Disallow: /
+
+User-agent: *
+Disallow: /profile/
+Disallow: /reset/
+Disallow: /my-stuff
+Disallow: /login?redirect=*
+Disallow: /signup?redirect=*
+
+Sitemap: https://tubitv.com/sitemap.xml
+Sitemap: https://tubitv.com/sitemaps/static-pages.xml
+Sitemap: https://tubitv.com/sitemaps/nfl-draft-center.xml

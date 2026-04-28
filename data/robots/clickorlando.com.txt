@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /appfeeds/*
+Disallow: /meta/*
+Disallow: /climate-collaborative/*
+Disallow: /*outputType=rawHTML
+Disallow: /*outputType=appfeeds
+
+User-Agent: GPTBot
+Disallow: /
+
+User-Agent: Baiduspider
+Disallow: /
+
+Sitemap: https://www.clickorlando.com/sitemap.xml
+Sitemap: https://www.clickorlando.com/arc/outboundfeeds/sitemap/?outputType=xml
+Sitemap: https://www.clickorlando.com/arc/outboundfeeds/news-sitemap/?outputType=xml
+Sitemap: https://www.clickorlando.com/arc/outboundfeeds/google-news-feed/?outputType=xml

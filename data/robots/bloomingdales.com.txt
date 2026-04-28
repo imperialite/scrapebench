@@ -1,0 +1,35 @@
+User-agent: *
+	Disallow:  /signin/
+	Disallow:  /myinfo/
+	Disallow:  /service/order/
+	Disallow:  /service/policies/
+	Disallow:  /bag/*
+	Disallow:  /my-bag/*
+	Disallow:  /customerservice/fandf/	
+	Disallow:  /customerservice/international.jsp 	
+	Disallow:  /internationalContext/index.ognc 
+	Disallow:  /timedevents/index.ognc
+	Disallow:  /search/
+	Disallow:  /shop/search
+	Disallow:  /shop/registry/wedding/search
+	Disallow:  /shop/wedding-registry/product
+	Disallow:  /p404.jsp
+	Disallow:  *Special_offers*
+	Disallow:  */Price/*
+	Disallow:  */Price,*
+	Disallow:  *,Price,*
+	Disallow:  *,Price/*
+	Disallow:  /catalog/product/*
+	Disallow:  *dana-rebecca*
+	Noindex:   *dana-rebecca*
+	Disallow:  *dana%20rebecca*
+	Disallow:  /buy/*/* 
+	Disallow:  *_PERCENT_*
+	Disallow:  /Price_discount_range/
+	Disallow:  /sdp/rto/request/recommendations
+	Disallow:  /userEventsConsumer/*  
+	Disallow:  /EventsWar/*
+        Disallow:  *Available_for_registry*
+        Disallow:  /shop/*/*,*/*?*
+
+	Sitemap:   https://www.bloomingdales.com/dyn_img/sitemap/bcom_sitemapindex.xml

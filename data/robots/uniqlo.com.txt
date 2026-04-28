@@ -1,0 +1,423 @@
+User-Agent: *
+
+#AU
+Disallow: /au/en/cms/
+Disallow: /au/en/search
+Disallow: /au/en/news/search
+Disallow: /au/en/news/sp/search
+Disallow: /au/en/*?avoidNextModelRedirect=true
+Disallow: /au/en/size/*
+Disallow: /au/en/*/reviews/new
+Sitemap: https://www.uniqlo.com/au/sitemap_AU_SPL.xml
+Sitemap: https://www.uniqlo.com/au/sitemap_AU_PLP.xml
+Sitemap: https://www.uniqlo.com/au/sitemap_AU_pdp.xml
+Sitemap: https://www.uniqlo.com/au/sitemap_au-en_l1l2_hreflang.xml
+Sitemap: https://www.uniqlo.com/au/sitemap_au-en_l3_hreflang.xml
+
+#CA
+Disallow: /ca/en/cms/
+Disallow: /ca/fr/cms/
+Disallow: /ca/en/search
+Disallow: /ca/fr/search
+Disallow: /ca/en/news/search
+Disallow: /ca/en/news/sp/search
+Disallow: /ca/en/*?avoidNextModelRedirect=true
+Disallow: /ca/fr/*?avoidNextModelRedirect=true
+Disallow: /ca/en/size/*
+Disallow: /ca/fr/size/*
+Disallow: /ca/en/*/reviews/new
+Disallow: /ca/fr/*/reviews/new
+Sitemap: https://www.uniqlo.com/ca/sitemap_ca-en_l1l2_hreflang.xml
+Sitemap: https://www.uniqlo.com/ca/sitemap_ca-en_l3_hreflang.xml
+Sitemap: https://www.uniqlo.com/ca/sitemap_ca-fr_l1l2_hreflang.xml
+Sitemap: https://www.uniqlo.com/ca/sitemap_ca-fr_l3_hreflang.xml
+
+#DE
+Disallow: /de/de/cart
+Disallow: /de/de/*q=
+Disallow: /de/de/news/search
+Disallow: /de/de/news/sp/search
+Disallow: /de/de/size/*
+Disallow: /de/de/search
+Disallow: /de/de/*?avoidNextModelRedirect=true
+Disallow: /de/de/*/reviews/new
+Disallow: /de/en/cart
+Disallow: /de/en/search
+Disallow: /de/en/*q=
+Disallow: /de/en/news/search
+Disallow: /de/en/news/sp/search
+Disallow: /de/en/size/*
+Disallow: /de/en/*?avoidNextModelRedirect=true
+Disallow: /de/en/*/reviews/new
+Sitemap: https://www.uniqlo.com/de/sitemap_de-en.xml
+Sitemap: https://www.uniqlo.com/de/sitemap_de-de.xml
+
+
+#DK
+Disallow: /dk/en/cart
+Disallow: /dk/en/*q=
+Disallow: /dk/en/size/*
+Disallow: /dk/en/search
+Disallow: /dk/en/*?avoidNextModelRedirect=true
+Disallow: /dk/en/*/reviews/new
+Sitemap: https://www.uniqlo.com/dk/sitemap_dk-en.xml
+
+
+#ES
+Disallow: /es/es/cart
+Disallow: /es/es/*q=
+Disallow: /es/es/news/search
+Disallow: /es/es/news/sp/search
+Disallow: /es/es/size/*
+Disallow: /es/es/search
+Disallow: /es/es/*?avoidNextModelRedirect=true
+Disallow: /es/es/*/reviews/new
+Disallow: /es/en/cart 
+Disallow: /es/en/search
+Disallow: /es/en/news/search 
+Disallow: /es/en/news/sp/search 
+Disallow: /es/en/size/* 
+Disallow: /es/en/*?avoidNextModelRedirect=true
+Disallow: /es/en/*/reviews/new
+Sitemap: https://www.uniqlo.com/es/sitemap_es-en.xml
+Sitemap: https://www.uniqlo.com/es/sitemap_es-es.xml
+
+#EU
+Disallow: /eu-at/en/search
+Disallow: /eu-bg/en/search
+Disallow: /eu-cz/en/search
+Disallow: /eu-ee/en/search
+Disallow: /eu-fi/en/search
+Disallow: /eu-gr/en/search
+Disallow: /eu-hr/en/search
+Disallow: /eu-hu/en/search
+Disallow: /eu-ie/en/search
+Disallow: /eu-lt/en/search
+Disallow: /eu-lu/en/search
+Disallow: /eu-lv/en/search
+Disallow: /eu-pl/en/search
+Disallow: /eu-pt/en/search
+Disallow: /eu-ro/en/search
+Disallow: /eu-si/en/search
+Disallow: /eu-sk/en/search
+
+Disallow: /eu-at/en/cart
+Disallow: /eu-bg/en/cart
+Disallow: /eu-cz/en/cart
+Disallow: /eu-ee/en/cart
+Disallow: /eu-fi/en/cart
+Disallow: /eu-gr/en/cart
+Disallow: /eu-hr/en/cart
+Disallow: /eu-hu/en/cart
+Disallow: /eu-ie/en/cart
+Disallow: /eu-lt/en/cart
+Disallow: /eu-lu/en/cart
+Disallow: /eu-lv/en/cart
+Disallow: /eu-pl/en/cart
+Disallow: /eu-pt/en/cart
+Disallow: /eu-ro/en/cart
+Disallow: /eu-si/en/cart
+Disallow: /eu-sk/en/cart
+
+Disallow: /eu-at/en/size
+Disallow: /eu-bg/en/size
+Disallow: /eu-cz/en/size
+Disallow: /eu-ee/en/size
+Disallow: /eu-fi/en/size
+Disallow: /eu-gr/en/size
+Disallow: /eu-hr/en/size
+Disallow: /eu-hu/en/size
+Disallow: /eu-ie/en/size
+Disallow: /eu-lt/en/size
+Disallow: /eu-lu/en/size
+Disallow: /eu-lv/en/size
+Disallow: /eu-pl/en/size
+Disallow: /eu-pt/en/size
+Disallow: /eu-ro/en/size
+Disallow: /eu-si/en/size
+Disallow: /eu-sk/en/size
+
+Sitemap: https://www.uniqlo.com/eu-at/sitemap_at-en.xml
+Sitemap: https://www.uniqlo.com/eu-bg/sitemap_bg-en.xml
+Sitemap: https://www.uniqlo.com/eu-cz/sitemap_cz-en.xml
+Sitemap: https://www.uniqlo.com/eu-ee/sitemap_ee-en.xml
+Sitemap: https://www.uniqlo.com/eu-fi/sitemap_fi-en.xml
+Sitemap: https://www.uniqlo.com/eu-gr/sitemap_gr-en.xml
+Sitemap: https://www.uniqlo.com/eu-hr/sitemap_hr-en.xml
+Sitemap: https://www.uniqlo.com/eu-hu/sitemap_hu-en.xml
+Sitemap: https://www.uniqlo.com/eu-ie/sitemap_ie-en.xml
+Sitemap: https://www.uniqlo.com/eu-lt/sitemap_lt-en.xml
+Sitemap: https://www.uniqlo.com/eu-lu/sitemap_lu-en.xml
+Sitemap: https://www.uniqlo.com/eu-lv/sitemap_lv-en.xml
+Sitemap: https://www.uniqlo.com/eu-pl/sitemap_pl-en.xml
+Sitemap: https://www.uniqlo.com/eu-pt/sitemap_pt-en.xml
+Sitemap: https://www.uniqlo.com/eu-ro/sitemap_ro-en.xml
+Sitemap: https://www.uniqlo.com/eu-si/sitemap_si-en.xml
+Sitemap: https://www.uniqlo.com/eu-sk/sitemap_sk-en.xml
+
+#FR
+Disallow: /fr/fr/cart
+Disallow: /fr/fr/search
+Disallow: /fr/fr/*q=
+Disallow: /fr/fr/news/search
+Disallow: /fr/fr/news/sp/search
+Disallow: /fr/fr/size/*
+Disallow: /fr/fr/*?avoidNextModelRedirect=true
+Disallow: /fr/fr/*/reviews/new
+Disallow: /fr/en/cart
+Disallow: /fr/en/search
+Disallow: /fr/en/*q=
+Disallow: /fr/en/news/search
+Disallow: /fr/en/news/sp/search
+Disallow: /fr/en/size/*
+Disallow: /fr/en/*?avoidNextModelRedirect=true
+Disallow: /fr/en/*/reviews/new
+Sitemap: https://www.uniqlo.com/fr/sitemap_fr-en.xml
+Sitemap: https://www.uniqlo.com/fr/sitemap_fr-fr.xml
+
+#UK
+Disallow: /uk/en/cart
+Disallow: /uk/en/search
+Disallow: /uk/en/*q=
+Disallow: /uk/en/news/search
+Disallow: /uk/en/news/sp/search
+Disallow: /uk/en/size/*
+Disallow: /uk/en/*?avoidNextModelRedirect=true
+Disallow: /uk/en/*/reviews/new
+Sitemap: https://www.uniqlo.com/uk/sitemap_gb-en.xml
+
+#IT
+Disallow: /it/it/cart
+Disallow: /it/it/search
+Disallow: /it/it/*q=
+Disallow: /it/it/news/search
+Disallow: /it/it/news/sp/search
+Disallow: /it/it/size/*
+Disallow: /it/it/*?avoidNextModelRedirect=true
+Disallow: /it/it/*/reviews/new
+Disallow: /it/en/cart
+Disallow: /it/en/search
+Disallow: /it/en/*q=
+Disallow: /it/en/news/search
+Disallow: /it/en/news/sp/search
+Disallow: /it/en/size/*
+Disallow: /it/en/*?avoidNextModelRedirect=true
+Disallow: /it/en/*/reviews/new
+Sitemap: https://www.uniqlo.com/it/sitemap_it-en.xml
+Sitemap: https://www.uniqlo.com/it/sitemap_it-it.xml
+
+#SE
+Disallow: /se/en/cart
+Disallow: /se/en/*q=
+Disallow: /se/en/size/*
+Disallow: /se/en/search
+Disallow: /se/en/*?avoidNextModelRedirect=true
+Disallow: /se/en/*/reviews/new
+Sitemap: https://www.uniqlo.com/se/sitemap_se-en.xml
+
+#NL
+Disallow: /nl/en/cart
+Disallow: /nl/en/search
+Disallow: /nl/en/*q=
+Disallow: /nl/en/news/search
+Disallow: /nl/en/news/sp/search
+Disallow: /nl/en/size/*
+Disallow: /nl/en/*?avoidNextModelRedirect=true
+Disallow: /nl/en/*/reviews/new
+Disallow: /nl/nl/cart
+Disallow: /nl/nl/search
+Disallow: /nl/nl/*q=
+Disallow: /nl/nl/news/search
+Disallow: /nl/nl/news/sp/search
+Disallow: /nl/nl/size/*
+Disallow: /nl/nl/*?avoidNextModelRedirect=true
+Disallow: /nl/nl/*/reviews/new
+Sitemap: https://www.uniqlo.com/nl/sitemap_nl-en.xml
+Sitemap: https://www.uniqlo.com/nl/sitemap_nl-nl.xml
+
+#BE
+Disallow: /be/en/cart
+Disallow: /be/en/search
+Disallow: /be/en/*q=
+Disallow: /be/en/news/search
+Disallow: /be/en/news/sp/search
+Disallow: /be/en/size/*
+Disallow: /be/en/*?avoidNextModelRedirect=true
+Disallow: /be/en/*/reviews/new
+Disallow: /be/nl/cart
+Disallow: /be/nl/search
+Disallow: /be/nl/*q=
+Disallow: /be/nl/news/search
+Disallow: /be/nl/news/sp/search
+Disallow: /be/nl/size/*
+Disallow: /be/nl/*?avoidNextModelRedirect=true
+Disallow: /be/nl/*/reviews/new
+Disallow: /be/fr/cart
+Disallow: /be/fr/search
+Disallow: /be/fr/*q=
+Disallow: /be/fr/news/search
+Disallow: /be/fr/news/sp/search
+Disallow: /be/fr/size/*
+Disallow: /be/fr/*?avoidNextModelRedirect=true
+Disallow: /be/fr/*/reviews/new
+Sitemap: https://www.uniqlo.com/be/sitemap_be-en.xml
+Sitemap: https://www.uniqlo.com/be/sitemap_be-nl.xml
+Sitemap: https://www.uniqlo.com/be/sitemap_be-fr.xml
+
+#HK
+Disallow: /hk/news/search
+Disallow: /hk/news/sp/search
+
+#ID
+Disallow: /id/id/cms/
+Disallow: /id/en/cms/
+Disallow: /id/id/search
+Disallow: /id/en/search
+Disallow: /id/en/news/search
+Disallow: /id/en/news/sp/search
+Disallow: /id/id/*?avoidNextModelRedirect=true
+Disallow: /id/en/*?avoidNextModelRedirect=true
+Disallow: /id/id/size/*
+Disallow: /id/en/size/*
+Disallow: /id/id/*/reviews/new
+Disallow: /id/en/*/reviews/new
+Sitemap: https://www.uniqlo.com/id/sitemap_id-en_l1l2_hreflang.xml
+Sitemap: https://www.uniqlo.com/id/sitemap_id-en_l3_hreflang.xml
+Sitemap: https://www.uniqlo.com/id/sitemap_id-id_l1l2_hreflang.xml
+Sitemap: https://www.uniqlo.com/id/sitemap_id-id_l3_hreflang.xml
+
+#IN
+Disallow: /in/en/cms/
+Disallow: /in/en/search
+Disallow: /in/en/news/search
+Disallow: /in/en/news/sp/search
+Disallow: /in/en/*?avoidNextModelRedirect=true
+Disallow: /in/en/size/*
+Disallow: /in/en/*/reviews/new
+Sitemap: https://www.uniqlo.com/in/sitemap_in-en_l1l2_hreflang.xml
+Sitemap: https://www.uniqlo.com/in/sitemap_in-en_l3_hreflang.xml
+
+#JP
+Disallow: /jp/ja/cms
+Disallow: /jp/ja/iq/
+Disallow: /jp/ja/search*?q=
+Disallow: /jp/ja/news/search
+Disallow: /jp/ja/*?avoidNextModelRedirect=true
+Disallow: /jp/ja/*/reviews/new
+Sitemap: https://www.uniqlo.com/jp/sitemap_jp-ia_all.xml
+Sitemap: https://www.uniqlo.com/jp/sitemap_jp-ja_l1l2_hreflang.xml
+Sitemap: https://www.uniqlo.com/jp/sitemap_jp-ja_l3_hreflang.xml
+
+#KR
+Disallow: /kr/ko/cms
+Disallow: /kr/ko/size/*
+Disallow: /kr/ko/search
+Disallow: /kr/ko/news/search
+Disallow: /kr/ko/news/sp/search
+Disallow: /kr/ko/*?avoidNextModelRedirect=true
+Disallow: /kr/ko/*/reviews/new
+Sitemap: https://www.uniqlo.com/kr/sitemap_kr-ko.xml
+Sitemap: https://www.uniqlo.com/kr/sitemap_kr-ko_l1l2_hreflang.xml
+Sitemap: https://www.uniqlo.com/kr/sitemap_kr-ko_l3_hreflang.xml
+
+
+#MY
+Disallow: /my/en/cms/
+Disallow: /my/en/search
+Disallow: /my/en/news/search
+Disallow: /my/en/stylehint/
+Disallow: /my/en/stylebook/
+Disallow: /my/en/*?avoidNextModelRedirect=true
+Disallow: /my/en/size/*
+Disallow: /my/en/*/reviews/new
+Sitemap: https://www.uniqlo.com/my/sitemap_my-en_spl_feature_content.xml
+Sitemap: https://www.uniqlo.com/my/sitemap_my-en_l4.xml
+Sitemap: https://www.uniqlo.com/my/sitemap_my-en_l3.xml
+Sitemap: https://www.uniqlo.com/my/sitemap_my-en_l2.xml
+Sitemap: https://www.uniqlo.com/my/sitemap_my-en_l1.xml
+Sitemap: https://www.uniqlo.com/my/sitemap_my-en_l1l2_hreflang.xml
+Sitemap: https://www.uniqlo.com/my/sitemap_my-en_l3_hreflang.xml
+
+#PH
+Disallow: /ph/en/cms/
+Disallow: /ph/en/search
+Disallow: /ph/en/news/search
+Disallow: /ph/en/news/sp/search
+Disallow: /ph/en/*?avoidNextModelRedirect=true
+Disallow: /ph/en/size/*
+Disallow: /ph/en/*/reviews/new
+Sitemap: https://www.uniqlo.com/ph/sitemap_ph-en_l1l2_hreflang.xml
+Sitemap: https://www.uniqlo.com/ph/sitemap_ph-en_l3_hreflang.xml
+
+
+#RU
+Disallow: /ru/estore/ru_RU/cart.html
+Disallow: /ru/estore/ru_RU/account
+Disallow: /ru/estore/ru_RU/*description=
+Disallow: /ru/estore/ru_RU/inbox.html
+Disallow: /ru/estore/ru_RU/register.html?redirect_url=
+Disallow: /ru/estore/ru_RU/login.html?redirect_url=
+Disallow: /ru/estore/en_GB/
+
+#SG
+Disallow: /sg/en/cms/
+Disallow: /sg/en/search
+Disallow: /sg/en/news/search
+Disallow: /sg/en/news/sp/search
+Disallow: /sg/en/*?avoidNextModelRedirect=true
+Disallow: /sg/en/size/*
+Disallow: /sg/en/*/reviews/new
+Sitemap: https://www.uniqlo.com/sg/sitemap_sg-en_l1l2_hreflang.xml
+Sitemap: https://www.uniqlo.com/sg/sitemap_sg-en_l3_hreflang.xml
+
+#TH
+Disallow: /th/th/cms/
+Disallow: /th/en/cms/
+Disallow: /th/th/search
+Disallow: /th/en/search
+Disallow: /th/th/news/search
+Disallow: /th/th/news/sp/search
+Disallow: /th/en/*?avoidNextModelRedirect=true
+Disallow: /th/en/size/*
+Disallow: /th/en/*/reviews/new
+Disallow: /th/th/*?avoidNextModelRedirect=true
+Disallow: /th/th/size/*
+Disallow: /th/th/*/reviews/new
+Sitemap: https://www.uniqlo.com/th/sitemap_th-en_l1l2_hreflang.xml
+Sitemap: https://www.uniqlo.com/th/sitemap_th-en_l3_hreflang.xml
+Sitemap: https://www.uniqlo.com/th/sitemap_th-th_l1l2_hreflang.xml
+Sitemap: https://www.uniqlo.com/th/sitemap_th-th_l3_hreflang.xml
+
+#TW
+Disallow: /tw/news/search
+Disallow: /tw/news/sp/search
+
+#US
+Disallow: /us/en/cms
+Disallow: /us/en/size/*
+Disallow: /us/en/search
+Disallow: /us/en/news/search
+Disallow: /us/en/news/sp/search
+Disallow: /us/en/*?avoidNextModelRedirect=true
+Disallow: /us/en/*/reviews/new
+Sitemap: https://www.uniqlo.com/us/sitemap_us-en.xml
+Sitemap: https://www.uniqlo.com/us/sitemap_us-en_l1l2_hreflang.xml
+Sitemap: https://www.uniqlo.com/us/sitemap_us-en_l3_hreflang.xml
+
+#VN
+Disallow: /vn/vi/cms/
+Disallow: /vn/en/cms/
+Disallow: /vn/vi/search
+Disallow: /vn/en/search
+Disallow: /vn/vi/news/search
+Disallow: /vn/vi/news/sp/search
+Disallow: /vn/en/*?avoidNextModelRedirect=true
+Disallow: /vn/en/size/*
+Disallow: /vn/en/*/reviews/new
+Disallow: /vn/vi/*?avoidNextModelRedirect=true
+Disallow: /vn/vi/size/*
+Disallow: /vn/vi/*/reviews/new
+Sitemap: https://www.uniqlo.com/vn/sitemap_vn-en_l1l2_hreflang.xml
+Sitemap: https://www.uniqlo.com/vn/sitemap_vn-en_l3_hreflang.xml
+Sitemap: https://www.uniqlo.com/vn/sitemap_vn-vi_l1l2_hreflang.xml
+Sitemap: https://www.uniqlo.com/vn/sitemap_vn-vi_l3_hreflang.xml

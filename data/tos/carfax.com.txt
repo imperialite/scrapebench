@@ -1,0 +1,179 @@
+TERMS AND CONDITIONS
+Thank you for choosing CARFAX Europe GmbH.
+
+These terms and conditions (“Terms and Conditions”) apply to all contracts between CARFAX Europe GmbH (“CARFAX”) and consumers or entrepreneurs, concluded on our website www.carfax.eu and providing access to a VHR (Vehicle History Report).
+
+Consumers are defined in Sec. 13 of the German Civil Code (Bürgerliches Gesetzbuch), i.e. every natural person who enters into a legal transaction for purposes that predominantly are outside his trade, business or profession (hereinafter referred to as “Consumers”).
+
+An entrepreneur is defined in Sec. 14 of the German Civil Code (Bürgerliches Gesetzbuch), i.e. a natural or legal person or a partnership with legal personality who or which, when entering into a legal transaction, acts in exercise of his or its trade, business or profession (hereinafter referred to as “Business Customer”).
+
+Both “Consumers” and “Business Customers" are jointly referred to as “Customers”.
+
+If you do not agree to all of these Terms and Conditions, you may not create a CARFAX account or/and access or/and use any site or any part of the CARFAX service(s).
+
+Please read this document carefully. It contains important information about your rights and obligations, as well as limitations and exclusions that apply to you.
+
+1 Formation of contract, validity of credits
+1.1 Formation of contract
+
+The following applies to Consumers & Business Customers:
+
+The representations of CARFAX’s services available through its website do not constitute a binding offer. With a Customer’s order, the Customer submits a binding offer for the formation of a contract. Following the order CARFAX will process the Customer’s order and send a confirmation email to acknowledge the receipt of the Customer’s order. This acknowledgement of receipt does not constitute an acceptance of the order. The order is accepted with a separate notification or with the provision of the requested services. CARFAX sends the order confirmation and the Terms and Conditions to the Customer by email. The Customer can obtain the Terms and Conditions at any time.
+
+1.2 Validity of credit
+
+The credit paid has a maximum validity period of 4 years. After that it expires automatically. The period ends four (4)  years after the purchase..
+
+2 License; scope of the services
+2.1 In case of purchase of an access to a Vehicle History Report ("VHR"), CARFAX hereby grants a limited, non-transferable and nonexclusive license to access and use the data contained in such report for personal, non-commercial purposes if it concerns a Consumer and for commercial purposes if it concerns a Business Customer.
+
+2.2 Commercial purposes (Permitted Use) means actual or potential purchase of used cars for sale to individuals or by a Consumer to individuals, vehicle financing, providing insurance policy, inspecting and appraising vehicles. Additional commercial purposes such as advertising vehicles through third parties with the use of CARFAX services requires an explicit consent by CARFAX. Once the order has been accepted by CARFAX as described in Sec.1 above,
+
+2.2.1 the report will be visible for the Customer for 30 days. During this time period, the Customer has unlimited access to the VHR including any data updates. After expiring automatically, the access can be renewed at any time.
+
+2.2.2 the access to VHR´s will be not available in the case of force majeure and other circumstances beyond the control of CARFAX, as well as malfunction or maintenance of system thereof.
+
+2.3 The Customer acknowledges that CARFAX is collecting data from public records and other sources for use in VHRs and that this data may contain errors and omissions. CARFAX does neither guarantee nor warrant the correctness or completeness of VHRs and does not assume any liability. The Customer understands that not all information is available for all jurisdictions and that CARFAX does not have access to some information that may be available to other parties. The Customer also understands there may be a period of time between receipt of certain information by CARFAX and its inclusion of such information onto a VHR. The Customer acknowledges that VHRs do not provide any conclusions regarding the condition of any vehicle, and the Customer assumes full responsibility with respect to its decisions and transactions using VHRs. 
+
+In case a potential error has been noticed in our Vehicle History Reports, CARFAX should be notified in writing. The customer or person making the request acknowledges that CARFAX may investigate and make corrections to the Vehicle History Report only if official documents or a validated statement prove the information to be inaccurate.
+
+3 Restrictions on access and use
+CARFAX reserves the right to reject any orders or to exercise an extraordinary right to terminate a contract with a Customer without notice when it believes VHRs will be used in a manner which will adversely affect CARFAX, as further described below:
+
+The Customer may not sell, distribute, disseminate, copy or publish the data or information contained in the VHR, either in whole or in part. The resale and redistribution of the CARFAX VHR, in whole or in part, is strictly prohibited. 
+
+The removal and reuse of all or a substantial part of the content of the CARFAX VHR, either qualitatively or quantitatively, is not permitted. The repeated and systematic removal and reuse of insignificant parts of the content of the data set, which imply actions that conflict with the normal use of the data set or unreasonably impair the legitimate interests of CARFAX, are not permitted. In particular, any automated access to the data set or its utilization, e.g. through screen scraping or comparable techniques, is not permitted.
+
+In the event a Customer provides a VHR to another party, the Customer will not:
+
+use the VHR or information for unlawful purposes
+
+provide the VHR or information to any party for resale or remarketing in any manner;
+
+provide the VHR or information to any motor vehicle manufacturer, or their financing or leasing subsidiaries (except in the normal course of dealership operations) or such motor vehicle manufacturers' advertising agencies
+
+replace, modify, redact labels, copyright notices and ownership information of CARFAX’s VHRs and the associated documentation components
+
+parse any VHR or information obtained from CARFAX.
+
+The Customer shall make no announcement to any person or entity regarding CARFAX or any VHR, whether written or oral, that is inconsistent with the provisions of this Agreement and the information contained in the VHR.
+
+The Customer acknowledges that no ownership rights will be acquired by downloading or printing the copyright material, or by using CARFAX´ provided infrastructure.
+
+4 Fees
+Access to a VHR will be charged only for a VHR where a valid vehicle identification number (“VIN”) or valid License Plate number is provided. Invalid VINs submitted shall return an error message and shall not incur any fees. Access to a VHR will also not be charged if a valid VIN or a valid License Plate is provided, but no data is found. Subject to Sec. 6 below, to return any VHRs once an order has been accepted by CARFAX is not possible.
+
+5 Billing; payment
+The Customer may pay with credit card (e.g. MasterCard or Visa) or using an online payment service (e.g. PayPal or Google Pay) or country specific Payment methods. Any fees, including VAT, are payable at the time the order is accepted.
+
+6 Right of withdrawal – Only applicable to Consumers
+6.1 Instructions on withdrawal
+
+The following information applies to the purchase of access to a Single CARFAX and to the purchase of access to CARFAX Package purchased by a consumer.
+
+Instructions on withdrawal
+
+Withdrawal right
+
+You have the right to withdraw from this contract within 14 days without giving any reason.
+
+The withdrawal period will expire after 14 days from the day of the conclusion of the contract. To exercise the right of withdrawal, you must inform us (CARFAX Europe GmbH, Barthstraße 2-10, 80339 München, Germany, Email: support@carfax.eu, of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, fax or e-mail). You may use the attached model withdrawal form, but it is not obligatory.
+
+To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
+
+Effects of withdrawal
+
+If you withdraw from this contract, we shall reimburse to you all payments received from you, without undue delay and in any event not later than 14 days from the day on which we are informed about your decision to withdraw from this contract. We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event, you will not incur any fees as a result of such reimbursement.
+
+If you requested to begin the performance of services during the withdrawal period, you shall pay us an amount which is in proportion to what has been provided until you have communicated us your withdrawal from this contract, in comparison with the full coverage of the contract.
+
+End of instructions on withdrawal
+
+6.2 Exclusion of right of withdrawal
+
+Pursuant to Sec. 356(4) of the German Civil Code, the above right of withdrawal expires in those cases in which CARFAX has completely provided the service and began with the performance of the service only after the Consumer has given its express consent thereto and concurrently acknowledged that he/she would lose its right to withdraw from the contract once CARFAX has fully performed the contract.
+
+6.3 Model withdrawal form
+
+Model withdrawal form
+
+(complete and return this form only if you wish to withdraw from the contract)
+
+- To:
+
+CARFAX Europe GmbH, Barthstraße 2-10, 80339 München, Germany
+
+email: support@carfax.eu
+
+I/We (*) hereby give notice that I/We (*) withdraw from my/our (*) contract of sale for the provision of the following service (*),
+
+Ordered on (*)/received on (*),
+
+Name of consumer(s),
+
+Address of consumer(s),
+
+Signature of consumer(s) (only if this form is notified on paper),
+
+Date
+
+ __________
+
+(*) Delete as appropriate. 
+
+7 CARFAX 30 day money back guarantee 
+Extended right of return - only for Consumers buying a consumer offer, never applicable for a business package purchase
+7.1 In addition to the statutory 14-day right of withdrawal, CARFAX offers Consumers a subsequent 16-day money-back guarantee for the purchase of a consumer offer.
+
+7.2 In case of dissatisfaction and corresponding complaint to support@carfax.eu, the purchase price for the 1 CARFAX offer will be 100 % refunded. In case of dissatisfaction and corresponding complaint, the purchase price for the 3 CARFAX Package will be 100 % refunded, unless more than one credit has already been redeemed. In case of dissatisfaction and corresponding complaint, the purchase price for the 5 CARFAX Package will be 100 % refunded, unless more than two credits has already been redeemed.
+
+7.3 You will receive a confirmation e-mail from us when the refund has been made. If you have paid by credit card, please check your bank statement. If you made your original payment with a credit card that has been expired or cancelled since your purchase, please contact your bank. Your refund will always be processed according to the original payment method and cannot be sent to another card.
+
+8 Breach and liability
+8.1 For Customers The Customer is liable for any penalties or charges resulting from any misuse or unauthorized use of the customer or business account and/or resulting from the misuse or unauthorized use of the Customer's password(s).
+
+8.2 For Business Customers The Business Customer ensures that only authorized representatives receive the user name and password for access to the CARFAX used car histories. 
+
+8.3 In the event that third parties are culpably and illegally enabled to use a customer or business account to access the CARFAX used car histories, a lump-sum contractual penalty of EUR 5,000 shall be payable to CARFAX. In addition, the account holder who culpably enabled the unauthorized use shall pay an additional EUR 25 per used car history accessed by third parties.
+
+8.4 In the event that a customer or business account is used to resell used car histories accessible via the account or information contained therein, EUR 25 shall be payable to CARFAX for each resold report/for each resold piece of information. In addition, a general contractual penalty of EUR 5,000 shall be due.
+
+8.5 CARFAX reserves the right to temporarily block customer or business account in the event of suspicion.
+
+9 Limitation of liability
+CARFAX shall be liable as follows:
+
+9.1 CARFAX shall be fully liable for intent and gross negligence as well as for damages caused by injury to life, body or health.
+
+9.2 In an event of slight negligence, CARFAX shall be liable only for breaches of a material contractual obligation (cardinal duty). A “cardinal duty” in the meaning of this provision is an obligation whose fulfilment makes the implementation of this contract possible in the first place and on the fulfilment of which the contractual partner may therefore generally rely.
+
+9.3 Liability in accordance with the above Clause 9.2 shall be limited to the typical, foreseeable damages.
+
+9.4 The limitation of liability shall apply mutatis mutandis to the benefit of the employees, agents and vicarious agents of CARFAX.
+
+9.5 Any potential liability on the part of CARFAX for claims based on the German Product Liability Act shall not be affected.
+
+10 Ownership (applicable to Business Customers)
+Business Customer acknowledges that the website and all services contain copyrighted material, trademarks, and other proprietary information. The services, including the content and the organization, layout, arrangement and design elements of the site and each individual page of the site, and all intellectual property relating either directly or indirectly to the services, including but not limited to patents, design rights, copyrights, trademarks, service marks, database rights (including, but not limited to information provided by the Business Customer), trade secrets, know-how and all derivative works thereof (collectively, “intellectual property”), are and will remain the property of CARFAX and are protected by international copyright, trademark and other applicable intellectual property laws. A Business Customer shall not, in any manner, attempt to obtain any right, title, or interest, by registration, patent, copyright or otherwise in or to such intellectual property or any derivative thereto. You shall not take any action that jeopardizes, limits or interferes with CARFAX or its affiliates’ ownership of and/or right to use the intellectual property.
+
+11 Indemnification
+The Customer will indemnify and hold CARFAX and its agents harmless from any claims, suits or damages, direct or indirect, arising out of the Customer's use of VHRs not being compliant with these Terms and Conditions.
+
+12 Governing law; contractual language
+12.1 These Terms and Conditions shall be governed by and construed in accordance with the laws of Germany, excluding the UN Convention on Contracts for the International Sale of Goods (CISG). Mandatory provisions of the country in which a Consumer usually resides shall remain unaffected by the choice of law.
+
+12.2 Any dispute, controversy or claim between CARFAX and a Business Customer arising in connection with these Terms and Conditions shall be settled by the courts in Munich, Germany, applying German law.
+
+12.3 The contractual language is English.
+
+13 Modification
+13.1 CARFAX reserves the right to amend or to supplement these Terms and Conditions after conclusion of the agreement, if this seems necessary and you will not be unreasonably disadvantaged and if this is not contrary to good faith.
+
+13.2 Ex-post changes of these Terms and Conditions will be regularly intended to improve our services in your interest, to react to a change in law or jurisprudence or to unforeseeable changes which – without revision or amendment – would complicate the execution of the agreement or make it impossible. Substantial changes of the Terms and Conditions valid upon conclusion of the agreement are excluded from the previously mentioned power to change the Terms and Conditions.
+
+13.3 CARFAX will notify Customers via email or in an otherwise suitable form, e.g. in form of a notice during the login process. Such notification will take place at least six weeks prior to the effectiveness of the intended changes. If a Customer does not object to such changes within the six weeks’ deadline, the changes shall come into force. CARFAX will notify the Customer or of the effect of the Customer’s silence in the aforementioned notification.
+
+14 Miscellaneous
+Should a provision of the present Terms and Conditions be or become invalid, the validity of the remaining provisions shall remain unaffected. The contracting parties shall in such a case reach an agreement that the ineffective provisions shall be replaced with a provision that most resembles the economic spirit and purpose of the invalid provision. The same applies for any omissions in these Terms and Conditions.
+
+Munich, January 19th 2021

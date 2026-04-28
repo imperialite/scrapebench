@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /en/association/
+Disallow: /en/corporate/
+Disallow: /fr/association/
+Disallow: /fr/corporate/
+Disallow: /web/rental/receipt/pdf/fetchpdf
+Disallow: /content/avis/*.html
+Disallow: */jcr:content*
+Disallow: /web/*
+Disallow: /car-rental/
+Sitemap: https://www.avis.com/sitemap.xml

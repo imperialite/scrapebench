@@ -1,0 +1,244 @@
+End User License Agreement for UPS Mobile Applications | UPS - United States
+End User License Agreement for UPS Mobile Applications
+INTRODUCTION
+This End User License Agreement (this “
+Agreement
+”) is a legal agreement between you, (the “
+User
+”), and UPS Market Driver, Inc. (“
+UPS
+”) related to your use of the UPS mobile application associated with this Agreement (the “
+UPS Mobile Application
+”). By clicking the “Accept” button or using the UPS Mobile Application, you acknowledge that you have read, fully understand, agree to, and will be bound by this Agreement. If you do not agree to be bound by this Agreement, you will not be able to use the UPS Mobile Application and you should exit the UPS Mobile Application immediately. If the person accepting this Agreement does so on behalf of a User that is a juristic person, the person accepting this Agreement confirms that he/she is authorized to enter into this Agreement on the User’s behalf, and to bind the User to its terms and conditions.
+If you are an individual or a juristic entity in Brazil or you are an individual acting or dealing as a consumer in one of the other jurisdictions listed on Schedule 1 entitled “JURISDICTION-SPECIFIC TERMS” (below), certain terms set forth on such schedule will apply to your use of the UPS Mobile Application, and such terms shall supersede and control in the event of any conflict or inconsistency with the other provisions of this Agreement.
+This document contains:
+1. LICENSE AND GENERAL USE RESTRICTIONS
+2. MOBILE PLATFORMS
+3. TERM AND TERMINATION
+4. CHANGES TO ACCESSIBLE SERVICES; SUSPENSION AND TERMINATION OF RIGHTS
+5. INTELLECTUAL PROPERTY
+6. THIRD PARTY SOFTWARE
+7. TRACKING
+8. USAGE DATA
+9. INFORMATION RECEIVED BY UPS
+10. SUPPORT AND MAINTENANCE
+11. EXPORT CONTROL LAWS
+12. U.S. GOVERNMENT END-USERS
+13. WARRANTY/DISCLAIMER OF WARRANTIES
+14. LIMITATION OF LIABILITY
+15. CHOICE OF LAW AND FORUM
+16. TAXES
+17. ENFORCEABILITY
+18. WAIVER
+19. ENTIRE AGREEMENT/THIRD PARTY BENEFICIARY
+20. PERMITTED TERRITORY
+21. LOCAL UPS OFFICE INFORMATION
+SCHEDULE 1 – JURISDICTION-SPECIFIC TERMS
+1. LICENSE AND GENERAL USE RESTRICTIONS
+UPS hereby grants to the User a limited, nonexclusive, nontransferable, revocable, free of charge license to use the UPS Mobile Application for Non-Commercial Use on any device running a Mobile Platform that the User owns or controls (“
+Mobile Device
+”); provided that the User shall not copy, reproduce, issue, make available to the public, or distribute copies of the UPS Mobile Application or use the UPS Mobile Application outside the Permitted Territory. “
+Non-Commercial Use
+” means personal use and use for internal business purposes. For clarity, the license does not include any right to copy, reproduce, issue, make available to the public, or distribute copies of the UPS Mobile Application, to use the UPS Mobile Application for the benefit of any third party or to monetize use of the UPS Mobile Application or the UPS services available through the UPS Mobile Application. Certain services are accessible through the UPS Mobile Application only with a UPS Profile user ID and password. Without limiting the generality of the foregoing, any access to the UPS Mobile Application or the services accessible through the UPS Mobile Application by automated inquiry devices, robots, or repetitive data gathering and extraction tools, routines, scripts or other mechanisms with similar functionality is expressly prohibited. User agrees not to associate, input or upload to or through any UPS Mobile Application any virus, Trojan horse, worm, time bomb or other computer programming routines, coding, or tools (i) that is intended, or reasonably likely, to damage, interfere with, intercept or expropriate the UPS Mobile Application or any UPS-owned or -controlled system or technology or (ii) that infringe the intellectual property rights of another.
+UPS may modify the UPS Mobile Application at any time for any reason and may provide modified, updated and upgraded versions of the UPS Mobile Application to the User at UPS’s discretion. Unless such modified, updated or upgraded versions of the UPS Mobile Application are delivered with different applicable license terms, such modified, updated and upgraded versions of the UPS Mobile Application will be considered the UPS Mobile Application and User’s use thereof shall be subject to this Agreement. To the extent permitted by applicable law, UPS may update the terms of this Agreement at any time in its sole discretion, and User agrees that it is User’s responsibility to periodically review the updated terms of this Agreement, which are available within the UPS Mobile Application user menu or on
+www.ups.com
+, and any use of the UPS Mobile Application after the posting of such updated terms shall constitute User’s agreement to such updated terms.
+User must comply with all applicable third-party terms of agreement when using the UPS Mobile Application. User’s use of the UPS Mobile Application must not violate the terms of User’s wireless data services agreement for the applicable Mobile Device or any User agreement pertaining to its use of the applicable Mobile Platform.
+id
+link1
+2. MOBILE PLATFORMS
+The UPS Mobile Application shall only be used on a permitted mobile platform (“
+Mobile Platform
+”). The approved Mobile Platforms are Apple Inc.’s (“
+Apple
+”) iOS and Google Inc.’s (“
+Google
+”) Android.
+If you use the UPS Mobile Application on a Mobile Device running iOS, then the following terms and conditions apply: You shall only use the UPS Mobile Application on your Mobile Device as such Mobile Device is permitted to be used by the Usage Rules set forth in the Apple Media Services Terms and Conditions. UPS, not Apple, is solely responsible for the UPS Mobile Application, including (i) any third-party claim that the UPS Mobile Application or the User’s possession and use of UPS Mobile Application infringes that third-party’s intellectual property rights, for which, as between UPS and Apple, UPS will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim, (ii) any information or content received through the UPS Mobile Application, and(iii) the services accessible through the UPS Mobile Application.
+If you use the UPS Mobile Application on a Mobile Device running Android, then the following terms and conditions apply: Notwithstanding anything to the contrary in this Agreement, if you use the UPS Mobile Application on a Mobile Device running Android, each User hereby acknowledges and agrees that (i) the UPS Mobile Application relies in part on functionality provided by Google (the “
+Google Functionality
+”), (ii) any information provided by such User via the UPS Mobile Application may be shared with Google in connection with such User’s use of the Google Functionality, (iii) all such information shall be handled by Google in accordance with the then-current Google Privacy Policy (currently available at
+https://www.google.com/policies/privacy
+), as may be amended by Google from time to time), and (iv) Google has no liability in connection with User’s use of the UPS Mobile Application under this Agreement.
+id
+link2
+3. TERM AND TERMINATION
+This Agreement shall become effective upon a User’s acceptance hereof by click-through below and shall remain in full force and effect thereafter until terminated as provided herein (the “Term”). User may terminate this Agreement for convenience at any time by deleting the UPS Mobile Application from all Mobile Devices that User owns or controls. UPS may terminate this Agreement for convenience at any time upon written notice to the other party at the email or postal address for the UPS Profile associated with the UPS Mobile Application by User. Notwithstanding the foregoing, with respect to any User, this Agreement shall terminate without any further action needing to be taken by UPS (1) upon a breach by such User of the “INTELLECTUAL PROPERTY” or “TRACKING” paragraphs of this Agreement; (2) in the event of such User’s bankruptcy, commencement of bankruptcy, corporate reorganization, civil rehabilitation, concordat, special liquidation or any other insolvency proceeding with respect to such User, or if such User shall have a receiver, administrator, administrative receiver or liquidator appointed or shall pass a resolution for winding up, or a court shall make an order to that effect; or (3) if such User is a partner in a partnership and such partnership is dissolved. Upon the termination of this Agreement for any reason whatsoever all licenses granted hereunder shall immediately terminate and the affected User shall immediately cease and desist from all access to and use of the UPS Mobile Application and shall immediately purge from such User’s Mobile Devices all copies of the UPS Mobile Application. The terms set forth in the following paragraphs of this Agreement shall survive the termination of this Agreement for any reason: “INTELLECTUAL PROPERTY”; “TRACKING”; “INFORMATION RECEIVED BY UPS”; “WARRANTY/DISCLAIMER OF WARRANTIES”; “LIMITATION OF LIABILITY”; “CHOICE OF LAW AND FORUM”, “ENFORCEABILITY” and “ENTIRE AGREEMENT/THIRD PARTY BENEFICIARY.”
+id
+link3
+4. CHANGES TO ACCESSIBLE SERVICES; SUSPENSION AND TERMINATION OF RIGHTS
+UPS may, at any time, change, update, modify, or terminate any service (e.g., tracking or shipping) that may be accessed through the UPS Mobile Application including, without limitation, to improve a service or its functionality; add or remove access to a service; improve ease of use for the User or UPS; correct an error or bug; prevent or discontinue harmful or improper access to UPS services; prevent or discontinue unauthorized use of UPS services; comply with a Mobile Platform provider or government request; or comply with a statute or judicial order.
+UPS may suspend or terminate User’s rights in and to the UPS Mobile Application or UPS services accessible through the UPS Mobile Application in UPS’s sole discretion including, without limitation, if a newer version of the UPS Mobile Application or a service thereof is available, to improve the UPS Mobile Application or a service or any functionality thereof; to add or remove access to a service accessible through the UPS Mobile Application; to improve ease of use for the User or UPS; to correct an error or bug; to prevent or discontinue harmful or improper access to the UPS Mobile Application or a service thereof; to prevent or discontinue unauthorized use of the UPS Mobile Application or a service thereof; to comply with a Mobile Platform provider or government request; or to comply with a statute or judicial order.
+id
+link4
+5. INTELLECTUAL PROPERTY
+The User acknowledges that UPS and its licensors own all right, title and interest in and to the UPS Mobile Application and that UPS owns all right, title and interest in and to all content available via the UPS Mobile Application, including, without limitation, all Intellectual Property Rights. “
+Intellectual Property Rights
+” means (i) all patents, patent applications, and certificates of invention, and all continuations, continuations in part, extensions, renewals, divisions, re-issues and re-examinations relating thereto; (ii) all moral rights and copyrights in any work of authorship or other work recognized by foreign or domestic law, by statute or at common law or otherwise, including all copyright registrations and applications therefor, together with any renewal or extension thereof and all rights deriving therefrom; (iii) all, whether registered or unregistered, trademarks, service marks, trade names and trade dress, and all goodwill relating thereto; (iv) all rights in all trade secrets, know-how, and confidential information; and (v) other intellectual property rights protectable under any laws or international conventions throughout the world. The User agrees to not remove, obscure, or alter any copyright, trademark, or other proprietary rights notice affixed to, contained within, or accessed in conjunction with or through the UPS Mobile Application. Except as set forth below in the section entitled “THIRD PARTY SOFTWARE”, the User further agrees not to modify, adapt, translate, prepare derivative works from, transmit, decompile, reverse engineer, disassemble or otherwise attempt to derive source code from any portion of the UPS Mobile Application. Without limiting the generality of the foregoing, in those jurisdictions where law grants a User rights that such User cannot waive to translate, decompile, reverse engineer, or disassemble the UPS Mobile Application, solely to the extent required by law, such User may exercise such rights to translate, decompile, reverse engineer, or disassemble to the extent necessary to achieve interoperability of the UPS Mobile Application with an independently created program, but the foregoing rights are granted solely in the event that the information necessary to achieve interoperability of the UPS Mobile Application with an independently created program has not been made available to such User by UPS within a reasonable time upon such User’s written request. User shall restrict any such decompilation pursuant to foregoing sentence to the parts of the UPS Mobile Application that is necessary to achieve interoperability.
+id
+link5
+6. THIRD PARTY SOFTWARE
+The UPS Mobile Application includes the following third-party software applications:
+ML Kit Scanner, and Google Places API, each of which is distributed to you under the Apache License, Version 2.0, available at
+https://www.apache.org/licenses/LICENSE-2.0
+.
+If you use the UPS Mobile Application on a Mobile Device running iOS, the UPS Mobile Application may include the following third-party software applications:
+Lottie for iOS, Mixpanel (Copyright (c) 2018 Mixpanel, Inc.) which is distributed to you under the Apache License, Version 2.0, available at
+https://www.apache.org/licenses/LICENSE-2.0
+.
+If you use the UPS Mobile Application on a Mobile Device running Android, the UPS Mobile Application may include the following third-party software applications:
+Appmatus/Certificate Transparency, Bumptech – Glide, Coil, FasterXML – Jackson, Google Dagger, Google ZXing, Install Referrer for Play Store, Lottie Animation, and Square, which are distributed to you under the Apache License, Version 2.0, available at
+https://www.apache.org/licenses/LICENSE-2.0
+.
+Dionsegijn Konfetti Animation, Jsoup, and Mockito, distributed to you under the MIT License, available at
+https://opensource.org/licenses/MIT
+.
+id
+link6
+7. TRACKING
+The UPS Mobile Application accesses a UPS information service that allows User to track UPS shipments. The UPS package tracking systems accessed via the UPS Mobile Application (the “
+Tracking Systems
+”) and all UPS shipment information, including tracking information, obtained through the UPS Mobile Application (the “
+Information
+”) are the private property of UPS. UPS authorizes each User to use the Tracking Systems solely to track shipments tendered by or for such User to UPS for delivery and for no other purpose. Without limitation, Users are not authorized to make the Information available on or via any website or application or otherwise reproduce, distribute, copy, store, use or sell the Information for commercial gain without the express written consent of UPS. Access to the Tracking Systems is a personal service, and a User’s right to use the Tracking Systems or Information is therefore non-assignable. Any access to or use of the Tracking Systems or the functionality provided in the UPS Mobile Application to access the Tracking Systems that is inconsistent with this paragraph is unauthorized and strictly prohibited.
+id
+link7
+8. USAGE DATA
+UPS can measure use of various features available through the UPS Mobile Application. UPS shares this information with its affiliates and third-party service providers, and UPS and its affiliates and third-party service providers use this information consistently with the UPS Privacy Notice. In particular, UPS and its affiliates and third-party service providers use this information to determine the popularity of and improve the UPS Mobile Application and services available through the UPS Mobile Application and to enhance the services UPS makes available to Users. By clicking the “Accept” button below or using the UPS Mobile Application, User consents to UPS’s measurement, collection, processing, transfer, storage, disclosure and use of the User’s usage data, in each case in accordance with this paragraph. If User does not wish to have usage measured, User should not install the UPS Mobile Application on their Mobile Device, and if User no longer wishes to have their usage measured after User has installed the UPS Mobile Application, User must delete the UPS Mobile Application from their Mobile Device.
+id
+link8
+9. INFORMATION RECEIVED BY UPS
+All information User provides to UPS through the UPS Mobile Application or measured by UPS pursuant to the “USAGE DATA” section above shall be handled by UPS in accordance with the then-current UPS Privacy Notice, which can be found at
+www.ups.com
+. By clicking to accept the terms of this Agreement within the Mobile Application or using the UPS Mobile Application, you agree to UPS’s collection and use of information consistent with the UPS Privacy Notice. Please review this notice and print a copy for your records. If User deletes the UPS Mobile Application from their Mobile Device or this Agreement is otherwise terminated, UPS may continue to use any information User previously provided to UPS through the UPS Mobile Application or previously measured by UPS pursuant to the “USAGE DATA” section above, in each case in accordance with the applicable provisions of this Agreement and the then-current UPS Privacy Notice.
+id
+link9
+10. SUPPORT AND MAINTENANCE
+UPS is not, and User acknowledges the Mobile Platform provider (e.g., Apple, Google) is not, obligated to provide any support or maintenance services to User related to the UPS Mobile Application. Any complaints related to the UPS Mobile Application can be addressed to United Parcel Service, Customer Relations, 55 Glenlake Parkway, Atlanta, Georgia 30328, 1-800-742-5877.
+id
+link10
+11. EXPORT CONTROL LAWS
+User agrees to comply with all United States and all other applicable laws, rules, and regulations (“Export Control and Sanctions Laws”) relating to the export, re-export, transshipment, or use of the UPS Mobile Application. User will not directly or indirectly export, re-export, transmit, or cause to be exported, re-exported, or transmitted, to any country, individual, corporation, or entity to which such export, re-export, transmission, or use is prohibited by Export Control and Sanctions Laws. User represents and warrants that export, re-export, transmission, or use of the UPS Mobile Application will be limited to, or within the Permitted Territory.
+id
+link11
+12. U.S. GOVERNMENT END-USERS
+The UPS Mobile Application is a “commercial product,” as that term is defined at 48 C.F.R. 2.101 (Aug. 2023), consisting of “commercial computer software” and “commercial computer software documentation,” as such terms are used in 48 C.F.R. 12.212 (Nov. 2007). Any services accessible through the UPS Mobile Application is a “commercial service,” as that term is defined at 48 C.F.R. 2.101 (Aug. 2023). Consistent with 48 C.F.R. 12.212 and 48 C.F.R. 227.7202-1 through 227.7202-4 (Mar. 2023) (or an equivalent provision, e.g., in supplements of various U.S. government agencies, as applicable), any User who is a U.S. Government end user acquires the UPS Mobile Application with only those rights set forth herein.
+id
+link12
+13. WARRANTY/DISCLAIMER OF WARRANTIES
+USER HEREBY REPRESENTS AND WARRANTS THAT (I) HE/SHE IS NOT LOCATED IN A COUNTRY THAT (I) IS SUBJECT TO A U.S. GOVERNMENT EMBARGO, (II) HAS BEEN DESIGNATED BY THE U.S. GOVERNMENT AS A “TERRORIST SUPPORTING” COUNTRY, OR (III) IS OUTSIDE THE PERMITTED TERRITORY; AND (II) HE/SHE IS NOT LISTED ON ANY U.S. GOVERNMENT LIST OF PROHIBITED OR RESTRICTED PARTIES.
+IF USER IS AN INDIVIDUAL ACTING OR DEALING AS A CONSUMER, USER MAY HAVE CERTAIN STATUTORY RIGHTS WHICH MAY NOT BE WAIVED, AND SUCH STATUTORY RIGHTS ARE NOT AFFECTED BY THE FOLLOWING TERMS IN THIS PARAGRAPH. THE USER HEREBY ACKNOWLEDGES AND AGREES THAT THE USE OF THE UPS MOBILE APPLICATION IS ENTIRELY AT THE USER’S OWN RISK. THE UPS MOBILE APPLICATION IS PROVIDED FREE OF CHARGE, ON AN “AS IS” BASIS, WITHOUT ANY WARRANTIES OR UNDERTAKINGS OF ANY KIND. ALL EXPRESS, IMPLIED, AND STATUTORY WARRANTIES OR UNDERTAKINGS, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OR UNDERTAKINGS AS TO CONFORMITY TO DESCRIPTION OR SAMPLE, TITLE, OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, RELIABILITY, ACCESSIBILITY AND NON-INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS OR OTHER PROPRIETARY RIGHTS, ARE EXPRESSLY DISCLAIMED BY UPS TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAWS. UPS MAKES NO WARRANTY OR UNDERTAKING WITH RESPECT TO THE SECURITY, TIMELINESS, CARE AND SKILLS, CONTENT OR PERFORMANCE OF THE UPS MOBILE APPLICATION, AND ANY SUCH WARRANTIES OR UNDERTAKINGS ARE EXPRESSLY DISCLAIMED BY UPS TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAWS. SOME JURISDICTIONS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTY, SO THE LIMITATIONS AND EXCLUSIONS IN THIS SECTION MAY NOT APPLY TO EVERY USER. THIS AGREEMENT GIVES USER SPECIFIC LEGAL RIGHTS. USER MAY ALSO HAVE OTHER RIGHTS WHICH VARY FROM JURISDICTION TO JURISDICTION. USER AGREES AND ACKNOWLEDGES THAT THE LIMITATIONS AND EXCLUSIONS OF LIABILITY AND WARRANTY PROVIDED IN THIS AGREEMENT ARE FAIR AND REASONABLE. USER ACKNOWLEDGES THE MOBILE PLATFORM PROVIDER (E.G., APPLE, GOOGLE) HAS NO WARRANTY OBLIGATION WHATSOEVER WITH RESPECT TO THE UPS MOBILE APPLICATION.
+IN ADDITION TO THE FOREGOING, IN SOME JURISDICTIONS, THIS AGREEMENT MAY PROVIDE USER WITH SPECIFIC LEGAL RIGHTS. OTHER THAN AS PERMITTED BY APPLICABLE LAWS, UPS DOES NOT EXCLUDE, LIMIT, OR SUSPEND SUCH LEGAL RIGHTS WHICH USER MAY HAVE IN SUCH JURISDICTIONS. FOR A FULL UNDERSTANDING OF USER’S RIGHTS, USER SHOULD CONSULT THE LAWS OF THEIR JURISDICTION.
+id
+link13
+14. LIMITATION OF LIABILITY
+IF USER IS AN INDIVIDUAL ACTING OR DEALING AS A CONSUMER OR WHEN DICTATED BY APPLICABLE LAWS, USER MAY HAVE CERTAIN STATUTORY RIGHTS WHICH MAY NOT BE WAIVED, AND SUCH STATUTORY RIGHTS ARE NOT AFFECTED BY THE FOLLOWING. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED IN THIS AGREEMENT, TO THE FULLEST EXTENT PERMITTED UNDER APPLICABLE LAWS, UPS SHALL NOT BE LIABLE TO ANY USER OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, PUNITIVE, MULTIPLE, INCIDENTAL, OR SPECIAL DAMAGES, LOST PROFITS, LOSS OF DATA OR DATA USE, LOST SAVINGS, OR COSTS OF PROCURING SUBSTITUTE GOODS ARISING OUT OF THIS AGREEMENT, DUE TO BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), DELICT, USE OF THE UPS MOBILE APPLICATION OR OTHERWISE, EVEN IF UPS HAS BEEN ADVISED OF THE LIKELIHOOD OF SUCH LOSS OR DAMAGES OCCURRING. TO THE FULLEST EXTENT PERMITTED UNDER APPLICABLE LAWS, IN NO EVENT SHALL THE LIABILITY OF UPS FOR ANY DAMAGES (DIRECT OR OTHERWISE), PENALTIES OR LOSS, REGARDLESS OF THE FORM OF ACTION OR CLAIM, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), DELICT OR OTHERWISE OF ANY TYPE EXCEED, IN THE AGGREGATE, ONE THOUSAND UNITED STATES DOLLARS (USD $1,000), ANY CLAIM FOR DAMAGES IN EXCESS THEREOF BEING HEREBY WAIVED BY EACH USER. USER ACKNOWLEDGES THAT TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAWS, THE MOBILE PLATFORM PROVIDER (E.G., APPLE, GOOGLE) WILL NOT BE LIABLE TO USER FOR ANY CLAIMS, LOSSES, LIABILITIES, DAMAGES, COSTS OR EXPENSES ATTRIBUTABLE TO ANY FAILURE OF, OR IN CONNECTION WITH YOUR USE OF, THE UPS MOBILE APPLICATION. THE ABOVE LIMITATIONS AND EXCLUSIONS OF LIABILITY SHALL BE APPLICABLE ONLY TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAWS IN THE EVENT OF THE GROSS NEGLIGENCE OR WILLFUL MISCONDUCT OF UPS OR IN THE EVENT OF PERSONAL INJURY OR DEATH OR IN RESPECT OF ANY OTHER LIABILITY THAT MAY NOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAWS.
+IF YOU USE THE UPS MOBILE APPLICATION ON A MOBILE DEVICE RUNNING IOS, AS BETWEEN UPS AND APPLE, BUT SUBJECT TO THE TERMS, CONDITIONS AND LIMITATIONS OF THIS AGREEMENT, APPLE WILL NOT BE RESPONSIBLE TO USER FOR ANY CLAIM RELATING TO THE UPS MOBILE APPLICATION OR USER’S POSSESSION AND/OR USE OF THE UPS MOBILE APPLICATION, INCLUDING BUT NOT LIMITED TO, (I) PRODUCT LIABILITY CLAIMS; (II) ANY CLAIM THAT THE UPS MOBILE APPLICATION FAILS TO CONFORM TO ANY APPLICABLE LEGAL OR REGULATORY REQUIREMENT; (III) CLAIMS ARISING UNDER CONSUMER PROTECTION OR SIMILAR LEGISLATION, AND (IV) CLAIMS ARISING UNDER THIRD PARTY INTELLECTUAL PROPERTY RIGHTS, TO THE FULLEST EXTENT AS PERMITTED UNDER APPLICABLE LAWS.
+id
+link14
+15. CHOICE OF LAW AND FORUM
+To the fullest extent permitted by applicable laws, this Agreement shall be governed by and construed in accordance with the laws of the State of Georgia, United States of America, excluding (1) its conflict of law principles; (2) the United Nations Convention on Contracts for the International Sale of Goods; (3) the 1974 Convention on the Limitation Period in the International Sale of Goods; and (4) the Protocol amending the 1974 Convention, done at Vienna, April 11, 1980. To the fullest extent permitted by applicable laws, the parties declare that they have required that this Agreement and all documents related hereto, either present or future, be drawn up in the English language only. To the fullest extent permitted by applicable laws, in the event of any discrepancies and/or inconsistencies between the English version and the translated version(s), the English version shall prevail. To the fullest extent permitted by applicable laws and consistent with valid entry into a binding agreement, the controlling language of this Agreement is English and translations have been provided for convenience only. To the fullest extent permitted by applicable laws, all correspondence and communications between Users and UPS under this Agreement must be in the English language.
+To the fullest extent permitted by applicable laws, any controversy or dispute arising out of or relating to this Agreement and the transactions contemplated hereby, or breach thereof, shall be resolved by arbitration conducted in accordance with the commercial arbitration rules of the American Arbitration Association (“
+AAA
+”) and judgment upon the award rendered by the arbitral tribunal may be entered in any court having jurisdiction thereof. The arbitration tribunal shall consist of a single arbitrator mutually agreed upon by the Parties, or in the absence of such agreement within thirty (30) calendar days from the first referral of the dispute to the AAA, designated by the AAA. The venue for arbitration shall be Atlanta, Georgia, USA. All arbitration proceedings and submissions, and the arbitration award, shall be in the English language. The arbitral award shall be final and binding. The Parties waive any right to appeal the arbitral award, to the extent a right to appeal may be lawfully waived. Each Party retains the right to seek judicial assistance: (a) to compel arbitration; (b) to obtain interim measures of protection prior to or pending arbitration; (c) to seek injunctive relief in the courts of any jurisdiction as may be necessary and appropriate to protect the unauthorized disclosure of its proprietary or confidential information, and (d) to enforce any decision of the arbitrator, including the final award.
+id
+link15
+16. TAXES
+User agrees to be responsible for any and all taxes, duties, tariffs, or other such assessments of any value relating to this Agreement.
+id
+link16
+17. ENFORCEABILITY
+If, for any reason, a tribunal or court of competent jurisdiction finds any provision or portion of this Agreement to be unenforceable, the remainder of this Agreement will continue in full force and effect to the maximum extent permitted by applicable law.
+id
+link17
+18. WAIVER
+Any waiver of any provision of this Agreement will be effective only if in writing and signed by or on behalf of UPS.
+id
+link18
+19. ENTIRE AGREEMENT/THIRD PARTY BENEFICIARY
+This Agreement constitutes the entire and only agreement between the parties in relation to its subject matter and replaces and extinguishes all prior or simultaneous agreements, undertakings, arrangements, understandings or statements of any nature made by the parties or any of them whether oral or written (and, if written, whether or not in draft form) with respect to such subject matter. Each of the parties acknowledge that they are not relying on any statements, warranties or representations given or made by any of them in relation to the subject matter of this Agreement, save those expressly set out in this Agreement, and that they shall have no rights or remedies with respect to such subject matter otherwise than under this Agreement save to the extent that they arise out of the fraud or fraudulent misrepresentation of another party. No variation of this Agreement shall be effective unless it is in writing and signed by or on behalf of UPS.
+If you use the UPS Mobile Application on a Mobile Device running iOS, Apple is a third party beneficiary of this Agreement and may enforce this Agreement against User as a third party beneficiary. Subject to such right of Apple to enforce this Agreement as a third party beneficiary, a person who is not a party to this Agreement has no right under any applicable law (including but not limited to the Contract (Rights of Third Parties) Ordinance of Hong Kong) to enforce any term of this Agreement. Notwithstanding that any term of this Agreement may be or become enforceable by any other third party (including Apple, if you use the UPS Mobile Application on a Mobile Device running iOS), the terms of this Agreement may be varied, amended or modified, or this Agreement may be rescinded, suspended, cancelled or terminated by agreement in writing signed by or on behalf of UPS, in each case without the consent of such other third party.
+id
+link19
+20. PERMITTED TERRITORY
+As used herein, the term “
+Permitted Territory
+” means all countries and territories in which UPS provides package pick-up and delivery service.
+id
+link20
+21. LOCAL UPS OFFICE INFORMATION
+Local UPS office and contact information is made available for each jurisdiction in the Permitted Territory; to access the local office and contact information (1) go to
+Global page
+and follow the instructions for locating a UPS branch in your jurisdiction, or (2) follow the user menu within the UPS Mobile Application for locating a UPS branch in your area. If applicable, this information may include local entity names, physical and mailing addresses, telephone numbers, fax numbers, e-mail addresses, designated representatives, VAT numbers, trade registry details and related registration numbers.
+id
+link21
+SCHEDULE 1 – JURISDICTION-SPECIFIC TERMS
+If you are an individual or a juristic entity in Brazil or you are an individual acting or dealing as a consumer in one of the other jurisdictions listed in this Schedule 1, the following terms applicable for such specified jurisdiction will apply to your use of the UPS Mobile Application, and such terms shall supersede and control in the event of any conflict or inconsistency with the other provisions of this Agreement. All terms in the Agreement that are not specifically modified by the applicable jurisdiction-specific terms in this Schedule 1 remain unchanged and in full force and effect.
+Brazil
+13. Limitation of Liability.
+The following sentence is hereby added to the end of the first paragraph of the Section:
+“NOTWITHSTANDING THE FOREGOING, AND EXCEPT FOR INSTANCES WHERE LIMITATION OF LIABILITY IS EXPRESSLY PERMITTED BY LAW, IF YOU ARE A CONSUMER YOU MAY RECOVER THE ENTIRE DAMAGE REPAIR, INCLUDING PECUNIARY AND/OR MORAL.”
+14. Choice of Law and Forum.
+The following sentences are hereby added to the end of the Section:
+“Notwithstanding the foregoing, if you are a business user, you may elect a local Brazilian forum as the venue for arbitration. Notwithstanding the foregoing, if user is an individual acting or dealing as a consumer, you may elect to resolve the dispute in a Brazilian court.”
+Brasil
+13. Limitação de Responsabilidade.
+É adicionada a seguinte frase ao final do primeiro parágrafo da Secção:
+“NÃO OBSTANTE O ANTERIORMENTE REFERIDO E SALVO EM SITUAÇÕES ONDE O LIMITE DE RESPONSABILIDADE É EXPRESSAMENTE PERMITIDO POR LEI, CASO SEJA UM CONSUMIDOR, PODE RECUPERAR A REPARAÇÃO TOTAL DO DANO, INCLUINDO OS DANOS PECUNIÁRIOS E/OU MORAIS.”
+14. Escolha da legislação e foro.
+São adicionadas as seguintes frases ao final da Secção:
+“Não obstante o anteriormente referido, caso seja um utilizador empresarial, pode selecionar um foro local brasileiro, como local de arbitragem. Não obstante o anteriormente referido, caso o utilizador seja um indivíduo a agir ou a transacionar como um consumidor, pode optar por resolver a disputa num tribunal brasileiro.”
+Canada
+14. Choice of Law and Forum. The following sentence is hereby added after the second sentence:
+“Les parties déclarent qu’elles exigent que cette entente et tous les documents y afférents, soit pour le présent ou l’avenir, soient rédigés en langue anglaise seulement.”
+Canada
+14. Choix de la loi applicable et du tribunal compétent. La phrase suivante est par les présentes ajoutée après la seconde phrase :
+« Les parties déclarent qu’elles exigent que cette entente et tous les documents y afférents, soit pour le présent ou l’avenir, soient rédigés en langue anglaise seulement. »
+Colombia
+8. Usage Data.
+The following clause is hereby added after the end of the fourth sentence of the Section:
+“, including the transfer of information from UPS to its affiliates and third-party service providers for the described purposes.”
+Colombia
+8. Datos sobre el uso.
+La siguiente cláusula se agrega después del final de la cuarta oración de la Sección:
+“, incluida la transferencia de información de UPS a sus empresas filiales y proveedores de servicios de terceros para los fines descritos.”
+Morocco
+Preamble.
+The following changes are hereby made to the Preamble:
+In the second sentence, the word “or” is hereby deleted and replaced with “and.”
+In the second sentence, the clause “once it is installed on your device” is hereby added immediately following the word “Application.”
+The following sentence is hereby added to the end of the Preamble:
+“The User expressly agrees that the UPS Mobile Application could be used as an electronic mean to exchange contractual and legal information.”
+9. Information Received by UPS.
+The following changes are hereby made to the Section:
+In the second sentence, the word “or” is hereby deleted and replaced with “and.”
+The last sentence is hereby deleted.
+المغرب
+الديباجة يتم إدخال التغييرات التالية على الديباجة:
+أ. في الجملة الثانية، يتم حذف كلمة "أو" وتحل محلها "و".
+ب. في الجملة الثانية، تتم إضافة العبارة "بمجرد تثبيته على جهازك" مباشرة بعد كلمة "التطبيق".
+ج. يضاف هنا الجملة التالية إلى نهاية الديباجة:
+"يوافق المُستخدم صراحة على أنه يمكن استخدام تطبيق UPS Mobile كوسيلة إلكترونية لتبادل المعلومات التعاقدية والقانونية".
+9. المعلومات المُستلمة من قبل UPS
+يتم إدخال التغييرات التالية على القسم:
+أ. في الجملة الثانية، يتم حذف كلمة "أو" وتحل محلها "و".
+ب. يتم حذف الجملة الأخيرة بموجب ذلك.
+Maroc
+Préambule.
+Les changements suivants sont par les présentes apportés au Préambule:
+Dans la seconde phrase, le terme « ou » est par les présentes supprimé et remplacé par « et ».
+Dans la seconde phrase, la clause « une fois qu’elle est installée sur votre appareil » est par les présentes ajoutée immédiatement après le terme « Application ».
+La phrase suivante est par les présentes ajoutée à la fin du Préambule :
+« L’utilisateur reconnait expressément que l’Application Mobile UPS pourra être utilisée comme un moyen électronique d’échanger des informations contractuelles et légales. »
+9. Informations reçues par UPS.
+Les changements suivants sont par les présentes apportés à la Section:
+Dans la seconde phrase, le terme « ou » est par les présentes supprimé et remplacé par « et ».
+La dernière phrase est par les présentes supprimée.
+Nigeria
+9. Information Received by UPS.
+The following sentence is hereby added to the end of the Section:
+“If you are a corporate entity, you hereby confirm that you have obtained the consent of your employees and officers to collect their personal data.”
+style
+bullet-alphabet
+id
+link22

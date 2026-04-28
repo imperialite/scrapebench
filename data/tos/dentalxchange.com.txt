@@ -1,0 +1,60 @@
+Learn more about our Privacy Statement | DentalXChange
+Skip to content
+Contact Us
+Credential Now
+Privacy
+EDI-Health Group, Inc. (EHG) understands that our visitors and registered members care about how their personal information is used and shared, and your privacy is important to us. We have created this Privacy Policy in order to demonstrate our commitment to client privacy. This policy discloses the privacy practices for all of EHG's sites and services. It tells you what information we collect from our visitors and how we use this information. It is important for all users who access our sites and services to read through and understand our entire Privacy Policy.
+Information Gathered From All Visitors
+There are certain types of information that are gathered from all visitors to the EHG sites, including those areas that do not require the user to register or log in.
+Aggregate Data
+We want to present information on our sites that's tailored to our visitors' needs. In order to do so, we track and analyze anonymous user data, which does not personally identify you, related to your access and usage of our sites and the pages you visit. We aggregate this statistical information to provide us with information useful to customize our content, services and advertising to meet our visitors' current and future needs.
+IP Addresses
+An IP address is a number that's automatically assigned to your computer whenever you're using the World Wide Web. Web servers -- the big computers that host or serve up Web pages -- automatically identify your computer by its IP address.
+EHG collects IP addresses for purposes of system administration, to collect aggregate usage data and to audit the use of our sites. When visitors visit pages from EHG sites, our servers log the guests' IP address. We do not normally link IP addresses to anything personally identifiable. This means that a visitor's session will be logged, but the visitor remains anonymous to us. We can and will use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our rules or terms of service or to protect our service, site, clients or others.
+Cookies
+The use of cookies is common in the Internet industry; you'll find them used on our Web sites, as you will at other major sites. Cookies are small text files written to your computer. They make our Web sites easier for you to use because they save your preferences while you're on our sites. With your permission only, EHG may also use a persistent cookie to help save and retrieve your user name when accessing particular services (although we do not save passwords in cookies). Cookies also help us to know what technologies and Internet services our visitors and members are using, which areas are favorites and which need a bit of improvement.
+The non-personally identifying information we track with cookies is anonymous and is not used to identify, or lead us back to, any particular visitor. Visitors to our sites may have the option of disabling cookies via their browser preferences (most browsers are initially set up to accept cookies). However, some features of our Web sites won't function properly or may be considerably slower if you refuse cookies.
+While browsing our Web sites, you may get cookies from our advertisers or sponsors. EHG does not control these cookies.
+Information Posted on Community Areas
+If you post any content to the public areas of EHG sites, it will be treated as non-confidential and non-proprietary to you. By posting any content on these areas, you authorize us to use and allow others to use, distribute and reproduce the content.
+‍
+Information You Give Us
+There are specific areas of our sites where we require clients to register in order to use certain services. These services are those where you must log in with a username and password to access the service.
+Registration Information
+Depending on the particular service you want to use, we will ask for varying levels of information in order to provide service to you. The registration process may ask you to provide contact information, such as a name, company name, address, phone number and e-mail address, and financial and billing information, such as a billing name and address, credit card number and the number of users within the organization using the service.
+EHG uses this information in order to set up and administer our products and services. We also use the information to provide customized content and service, to communicate with registered clients and to solicit feedback. For the same reasons, we may share the personal information provided to us with third-party business partners who are affiliated with our sites or who are employed to perform functions on our behalf. Examples include manufacturers that fulfill e-commerce product orders and the company we use to process credit-card payments. These third-party business partners have access to personal information needed to perform their functions only, and they are bound and required by EHG to keep all such information confidential and to not use it for any other purposes.
+We may use personally identifiable information to contact clients to conduct surveys, to alert you to product upgrades or special offers and to send information regarding our company's news, promotions and events. If you provide your e-mail address, we may contact you via e-mail as well. If you don't want EHG, our partners or selected third parties to contact you, you may opt out when you initially provide your personal information during registration, by later modifying your Account, or by contacting us directly to let us know. For instructions on how to do so, please see the Opt-Out Policy section below.
+Except as explicitly stated at the time we request registration information or as provided for in this Policy, we do not otherwise disclose personally identifiable information to any third party. We collect this personally identifiable information from you when you voluntarily submit it. Providing your personally identifiable information to EHG is optional. If you choose not to register or provide your personal information, you can still visit many areas of our sites; however, you won't have access to the Transaction Based Services or features that require registration.
+Hosted Data
+Clients that use our ClaimConnect™ services use these services to host their organizations' data and information (Data) on our systems. EHG does not review, use or distribute such Data except as provided in this Policy or the applicable Service Agreement. For example, for purposes of ClaimConnect™, the Service Agreement authorizes us to transmit Data between individual dental providers and those payers (insurance companies and health plans) that the provider chooses to register to his/her account. Hosted Data and records may also be reviewed or accessed by EHG to resolve a problem or support issue, suspected violation of our terms and conditions or as may be required by law. Of course, clients are responsible for maintaining the confidentiality and security of their user registration and password.
+Protection of EHG & Others
+EHG may use information gathered from our sites to track and verify compliance with EHG policies, our terms of use and applicable laws. We may disclose any information, including personally identifying information, in special cases when we have reason to believe doing so is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) EHG's rights or property, other EHG visitors or members or anyone else who could be harmed by such activities. EHG may disclose any such information when we believe in good faith the law requires us to do so.
+‍
+Link to Other Sites
+Our site has security measures in place to help protect against the loss, misuse and alteration of your personally identifiable information and the Data under our control. We have systems in place to assist us in providing secure transmission of information from your PC to our servers, and secure storage of the information once it is on our servers.Furthermore, DentalXChange is required by HIPAA regulations to establish guidelines for periodically changing passwords to help ensure the security of your Electronic Medical Records and your client's Protected Health Information. To accomplish this goal, we require all clients to change passwords every 90 days.For more information on EHG's security systems, please see our Security Policy.
+‍
+Security
+Our site has security measures in place to help protect against the loss, misuse and alteration of your personally identifiable information and the Data under our control. We have systems in place to assist us in providing secure transmission of information from your PC to our servers, and secure storage of the information once it is on our servers.Furthermore, DentalXChange is required by HIPAA regulations to establish guidelines for periodically changing passwords to help ensure the security of your Electronic Medical Records and your client's Protected Health Information. To accomplish this goal, we require all clients to change passwords every 90 days.For more information on EHG's security systems, please see our
+Security Policy
+.
+Link to Other Sites
+You'll find links from EHG sites to independently owned, controlled and/or managed Web sites whose content we believe will be of possible interest and value to our visitors. Additionally, you'll see links from advertisers, sponsors and other partners that may use EHG's logo as part of a co-branding agreement.EHG is not responsible for the content or privacy practices of these other Web sites. Once you leave our servers (i.e., when you click on a link or advertisement that takes you off a EHG site; you can generally tell where you are by checking the URL in the location bar on your browser), the use of any information you provide is governed by the privacy policy of the operator of the site you're visiting. That policy may differ from ours. These other sites may send their own cookies to you, collect data or solicit personal information. Clients will need to check the privacy statement of these other Web sites to understand their policies.
+‍
+Correcting & Updating Your Information
+As stated above, you can always choose not to provide personal information, even though it might be needed to use certain features of our sites. If you do provide us with personal information, you can help EHG maintain the accuracy of your personal information by managing your own profile. You should notify us when any of your personal information changes, such as your address, phone number, e-mail address or billing information. In order to update or change your personal information, you may select the Account feature on our site, or you may call Client Care at 949.852.0825.
+‍
+Opt-Out Policy
+As noted above, information provided by you at the time of registration or submission may be used for marketing and promotional purposes by EHG and our third-party business partners. However, you can request not to receive such communications. If you object to such use for any reason, you can e-mail your request to
+info@dentalxchange.com
+or modify your online Account accessible from our EHG Web site after logging on (choose the option I do not want to be notified about future EHG offerings).
+‍
+Additional Information
+Questions or concerns regarding this policy or the practices of our sites should be directed to our Privacy Officer by e-mailing such questions to
+info@dentalxchange.com
+.
+‍
+Your Acceptance of these Terms
+By using our Website(s) and services, you signify your consent to EHG's Privacy Policy. If you do not agree to these terms, please do not use our Websites or services. We reserve the right to change this policy and, upon revision, will update our sites accordingly. Your continued use of EHG's Websites or services following the posting of changes to these terms will be deemed an acceptance of the revised Policy.
+‍
+Privacy Policy Version 2.0
+‍

@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /link.php
+Disallow: /links.php
+Disallow: /*_filter=
+Disallow: /*module=file&act=procFileDownload
+Disallow: /*listStyle=
+Disallow: /*act=IS&
+Disallow: /*dload.php?

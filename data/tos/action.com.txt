@@ -1,0 +1,339 @@
+PRIVACY STATEMENT
+Action respects your privacy. We treat the data you share with us with the utmost
+care. You can read more about how we do so in this Privacy Statement.
+Together with Action Nederland B.V. (stores), Action Service & Distributie B.V.
+(headquarters and distribution centres) is the controller for processing your
+personal data as set out in this Privacy Statement. Action Service & Distributie B.V.
+defines the measures that Action takes to process your personal data pursuant to
+the applicable legislation.
+This Privacy Statement provides you with information on the personal data Action
+processes when you visit our stores or website (www.action.com) or use the My
+Action programme.
+1. Which data do we process and why?
+1.1. Shopping at Action
+1.1.1. Purchases and orders in stores and VAT receipts
+When you make a purchase in one of our Action stores, your payment
+details will be processed by our payment service (Adyen B.V.). At Action,
+you can pay for products in various ways. The data that will be processed
+depends on the payment method chosen. Such data includes the
+transaction, the payment method and the store in which you made the
+payment.
+This data will be used to process the payment prior to the purchase so we
+can execute the agreement with you.
+Your payment details may also be used to recognise and detect fraud. We
+have a legitimate interest to process your personal data for such purposes.
+Furthermore, we may also use said data for analytics purposes at an
+aggregated level. We have a legitimate interest to use your personal data
+for such purposes, as this allows us to understand how our customers use
+our services and subsequently improve and optimise them.
+In order to fulfil our legal obligation, we will store the details of your
+purchase and your payment details for seven years.
+You may also place orders in our Action stores if you would like to buy large
+numbers of our products. We require your name and telephone number so
+we can keep you informed of your order status and prepare the order.We process this data when drawing up the sales contract with you, and
+store it until you have picked up your order.
+If you require a VAT receipt for your (business) records, you can request
+such a receipt while making your payment in-store. When creating VAT
+receipts, we are legally obliged to ask for your company's VAT number and
+address as well as your contact details (including your name and telephone
+number). As we have a legitimate interest in ensuring we maintain a
+thorough and orderly structure in our records, we may also create a profile
+for you in our system. We will then link all VAT receipts we have created for
+you to this profile.
+In order to fulfil our legal obligation, we will store this profile (if applicable)
+and your VAT receipts for a maximum of 10 years.
+Providing personal data for this purpose is not mandatory. If you do not
+provide any personal data, we will not be able to process your order and
+will not be able to create any VAT receipts for you.
+1.1.2. Click & Collect and Shopping by appointment
+In some Action stores, we offer Click & Collect and/or Shopping by
+appointment. These services may not be available in your country or region.
+Click & Collect
+Using the Click & Collect service, you can reserve products directly on our
+website and pick up and pay for them during a specific time slot at a store
+offering this service.
+We require your name, telephone number, e-mail address and town or city
+to register your Click & Collect selections, confirm receipt of your order and
+keep you informed of the progress of your order. We process this data
+when drawing up the sales contract with you,
+We will store your personal data for one month following the completion
+of your Click & Collect order. Your data will be anonymised once this period
+has expired and we will no longer be able to associate the data to you.
+You can also log in to My Action to use the Click & Collect service. If you do
+this, we will use the contact details available in My Action for your Click &
+Collect order and you will only need to enter your phone number and town
+or city to confirm the order.
+If you use Click & Collect while logged in to My Action, you will be able to
+view your Click & Collect orders under Purchases & Reservations. For more
+information about My Action, see 1.3.1. (My Action).Shopping by appointment
+When using the Shopping by appointment service, you can make an
+appointment on our website so you can visit an Action store during a
+specific time slot.
+We require your name and e-mail address to register your shopping
+appointment, confirm receipt of your order and inform you of any changes
+to your appointment. We process this data when preparing to welcome you
+in the stores and for drawing up a sales contract with you. We also record
+this data as we wish to welcome the permitted number of customers in our
+stores safely. To this end, we have a legitimate interest to record
+appointments and communicate any important information or changes so
+we can ensure the health and safety of our customers and store
+employees.
+Once you have left the store, your personal data will be stored for 14 days
+and then anonymised. We will then no longer be able to associate the data
+to you.
+1.1.3. Asking a question or submitting a complaint
+Our Customer Service team is at your disposal to answer any questions and
+resolve complaints. You can reach them by telephone, on our website or
+social media channels, and at the Customer Service counters in our stores.
+If you have a question or issue you would like to raise, we will ask you for
+your name, e-mail address, telephone number and any other information
+that is necessary for dealing with your question or complaint. We believe
+that we have a legitimate interest to process your personal data for this
+purpose. We want to respond to and resolve your questions and complaints
+in a friendly and timely manner and will also keep you informed of the
+status of your question or complaint. This is part of our service and the
+Action customer experience.
+After your question or complaint has been dealt with, we will store your
+data for a maximum of two years, unless the nature of the question or
+complaint requires us to store the data for longer.
+Providing us with this personal data is not mandatory. If you do not provide
+any personal data, we may not be able to process or respond to your
+question or complaint.
+1.1.4. Camera surveillance
+All our stores are fitted with cameras. We have a legitimate interest to
+ensure your safety as well as that of our colleagues and products.We store our camera images for 28 days, unless there are well-founded
+reasons to store these images for a longer period (such as a police
+investigation).
+1.2. Online services
+1.2.1. Visiting the Action website
+Action uses cookies and other technologies on its website to optimise your
+user experience. Cookies are small information files that are saved on the
+device used (such as a computer, mobile phone or tablet) when visiting our
+website. Action uses different types of cookies. If you would like to know
+more about the cookies we use, please see our Cookie Statement.
+Removing or disabling cookies
+You can disable our cookies, though you should bear in mind that you may
+not be able to make full use of all the features on our website. You can
+read how to disable or remove cookies using the following links:
+• Chrome: https://support.google.com/chrome/answer/95647?
+• Edge: https://support.microsoft.com/en-us/help/10607/microsoft-edge-
+view-delete-browser-history
+• Firefox: https://support.mozilla.org/en-US/kb/delete-browsing-search-
+download-history-firefox
+• Internet Explorer: https://support.microsoft.com/en-
+us/help/17442/windows-internet-explorer-delete-manage-
+cookies#ie=ie-11
+• Opera: http://www.opera.com/blogs/news/2015/08/how-to-manage-
+cookies-in-opera/
+• Safari (iOS): https://support.apple.com/en-us/HT201265
+• Safari (macOS): https://support.apple.com/guide/safari/manage-
+cookies-and-website-data-sfri11471/mac
+Our website contains links to other websites such as Facebook, LinkedIn
+and Instagram. This Privacy Statement only applies to our website. We
+recommend that you also read the privacy statements for any other
+relevant websites.
+1.2.2. Wish lists
+If you have seen products you like on the Action website, you can add such
+products to your wish list. You can print your wish list out and take it with
+you to the store or simply send it to yourself by e-mail. We want to make
+shopping at Action as enjoyable as possible and help you find the products
+that suit you. We also have a legitimate interest to process your e-mail
+address so we can send you your wish list. We will store your e-mail address
+for one week after sending you your wish list.
+1.2.3. E-mail communicationsNewsletters
+If you would like to receive all the latest news about our products, offers,
+and tips and trends, you are welcome to subscribe to our Action
+newsletters.
+We believe it is important to communicate with our customers in a personal
+and relevant way. This is why we like to personalise the newsletter based
+on your data and interactions. When you sign up for our newsletters, you
+grant us your permission to use your e-mail address to send you
+personalised newsletters and other promotional e-mails.
+We process the following data to do so:
+• Information about the products you have viewed online (if you have
+accepted marketing cookies), your interactions with the newsletters
+and, where applicable, your participation in promotional campaigns,
+with a view to ensuring that our newsletters better match your
+interests using segmentation and data analysis.
+• If you have shared information such as your name and date of birth,
+we will use it to make the newsletter more personal and, for
+example, to send you a birthday e-mail.
+If you are a member of the My Action programme (see 1.3.1) and you have
+also signed up for the newsletter, we may also use your personal data,
+details about your use of the website, participation in the My Action
+programme and in-store purchases to further tailor the newsletter to your
+preferences. In this case, we will personalise the newsletter based on your
+consent for personalisation that you gave when you created your account,
+unless you have since withdrawn your consent for personalisation in your
+My Action account.
+You will have the option to unsubscribe with each newsletter you receive.
+We will delete your data as soon as you unsubscribe from the newsletter.
+Transactional e-mails
+Alongside newsletters, we also send transactional e-mails. These are non-
+commercial e-mails that we send you to inform you about your interactions
+with us.
+Such e-mails include order confirmations, account verification and/or
+password reset e-mails or e-mails containing important information such as
+changes to our terms and conditions.
+We send these e-mails as we believe it is important to offer our customers
+a high-quality service, which involves communicating essential information
+as clearly as possible. In this light, we have a legitimate interest to sendsuch transactional e-mails. In order to avoid unwanted e-mails, we will
+always consider the purpose of the communication and only communicate
+essential information relating to your interactions with us.
+1.2.4. Social media
+Action uses social media to keep you informed of the latest products and
+promotional campaigns. You can follow us on Facebook, Twitter, Instagram,
+LinkedIn and YouTube. While Action does not require you to consent to
+terms and conditions for using social media, you will have to give your
+consent to the terms and conditions for the social media platform in
+question.
+Action uses advertising opportunities on social media platforms. We show
+you adverts based on data that the social media platforms collect with your
+consent. Such data may include the fact that you follow us, are interested
+in our products or live in a certain region. Action has no control over which
+data social media platforms collect about you. The terms and conditions
+(including the privacy statement) under which your data is collected are
+listed on the websites of the social media platforms.
+If you have given your consent on subscribing to our newsletters or in your
+My Action account, we will match the e-mail address where you receive our
+newsletter with the e-mail address that you use on social media platforms
+such as Facebook, Instagram, Pinterest and Google. This will take place in
+an encrypted, anonymised manner, meaning we will not give your e-mail
+address to such social media platforms. A match will only appear if you use
+the same e-mail address on such social media platforms. We will then be
+able to show you relevant adverts or make sure that you don't see adverts
+that you don't find interesting. If you have not given your consent, we will
+not take any action.
+1.3. My Action and promotions
+1.3.1. My Action
+You can create a My Action account on our website, and you can also sign
+up to the My Action programme.
+It is not possible to sign up to the My Action programme without providing
+your personal data. It goes without saying that you are not obliged to
+create a My Action account or sign up to the My Action programme.
+My Action account
+By creating an account for the My Action programme, you can benefit from
+a number of features. These include the following:• creating a shopping list so you always have your favourite
+products to hand.
+In order to register and manage your My Action account, we process your
+name, e-mail address, password and date of birth. In addition, we also
+collect technical data such as the registration date, the last log-in date, and
+the geolocation of the log-in (based on the IP address). We process this
+personal data to enable the use of My Action and the technical platform in
+order to execute our agreement with you.
+The personal data stored after registering for a My Action account will be
+kept for as long as your account is active.
+If you do not use your account for more than one year, we will contact you
+to ask whether you still wish to keep your account. If we do not receive a
+response from you, we will deactivate your account. You can also have your
+account deactivated by contacting the Action Customer Service team.
+Personalisation
+When you participate in the My Action programme, we may also use your
+data to personalise your user experience, for example, by tailoring the
+content of the website to your interests.
+To personalise the user experience, we use personal information such as
+your name, age and your use of the website using cookies and other
+tracking technologies (see also our Cookie Statement) as well as your
+purchases and online orders (such as Click & Collect).
+We may also use this data to personalise our newsletters (see 1.2.3 – E-mail
+communication).
+When you create a My Action account, you consent to the use of your data
+for personalisation purposes. You can change your consent for
+personalisation at any time in your My Action account.
+Analysis
+We may also use your data within My Action for analysis purposes at an
+aggregated level. We do this based on our legitimate interest to
+understand how our customers use our services so that we can then
+improve and optimise them.
+1.3.2. Taking part in a promotional campaign
+Action runs promotional campaigns, such as promotional games,
+competitions and price-drop campaigns on a regular basis. When you take
+part in a campaign or competition, it is important for us to know who is
+taking part. In order to register and/or confirm your participation and to be
+able to send you any prizes you may win, we need some information about
+you (your name, address and e-mail address). Depending on the campaign,we also process information relating to your participation, such as scores or
+answers to a competition question. We process your personal data based
+on your consent.
+Providing your personal data for this purpose is not mandatory. If you do
+not provide this personal data, however, it will not be possible to process
+your participation in the campaign.
+If you take part in a campaign but do not have a My Action account, we will
+store your data relating to your participation in order to send you any
+prizes you may win or answer any questions about the campaign. We will
+store your data for up to three months following the end of the campaign.
+If you do hold a My Action account, we will store your data relating to your
+participation for as long as the account is active.
+2. How do we handle data relating to children?
+Our services are not marketed towards children. If you're not yet 16 years
+old, we will ask your parent(s) or legal guardian(s) for their consent so you
+can use our products and services.
+3. Protecting your personal data
+Action handles your personal data with the utmost care and attention. We
+have taken various technical and organisational measures to protect your
+personal data against loss and unlawful use. As a result, we have secured
+our systems and applications pursuant to the applicable information
+security standards. This also applies to any third parties acting on our
+behalf.
+4. With whom do we share your personal data?
+We may share your personal data with other Action entities. Action may
+also engage third parties in executing its activities. Such third parties may
+include marketing specialists to support us in campaigns and promotions
+and technical service providers for managing our customer database. Such
+third parties may only use your data for carrying out the relevant services.
+We make sure that these third parties handle your data with due care and
+attention and observe the applicable legislation and regulations. We will
+not share your information with third parties for marketing purposes.
+Action will, however, share your personal data with supervisory bodies, tax
+authorities and/or investigative authorities if legally obliged to do so.
+5. Transfer of personal data to countries outside the EEA
+Action uses third parties, such as technical service providers, to offer our
+products and services. Your personal data may therefore be processed in
+countries outside the European Economic Area (EEA). Action will onlytransfer your personal data if adequate protection of your personal data is
+guaranteed, and to this end will sign agreements with such third parties
+(including agreements concerning the European Commission's standard
+contractual clauses regarding data protection).
+Contact our Customer Service team if you have any further questions about
+the measures we have taken to guarantee the security of your data when
+processed outside the EEA.
+6. Your privacy rights
+Your privacy is yours, and yours alone. You also hold several rights in this
+regard. You may contact our Customer Service team if you:
+• would like to know whether we process your personal data or not
+and, if this is the case, would like to access your data (right of
+access);
+• would like us to correct your personal data (right of rectification);
+• would like to delete your personal data (right of erasure);
+• would like us to transfer your personal data to another
+organisation (right to data portability);
+• would like to withdraw your consent (right to withdraw consent);
+• would like to restrict the processing of your personal data (right
+to restriction of processing);
+• would like to object to the processing of your personal data if
+Action processes such data based on a legitimate interest (right
+to object).
+If you wish to exercise one or more of these privacy rights, please contact
+Action's Customer Service team at:
+Action Customer Service
+Perenmarkt 15
+1681 PG Zwaagdijk-Oost
+E-mail: klantenservice@action.nl
+In order to prevent fraud, we will ask you to provide certain information
+known to us so we can check that you are indeed the person to whom the
+personal data relates. We may also ask you to identify yourself. If it
+concerns a request to access personal data linked to a cookie, you should
+also submit a copy of the cookie in question. You can find this in your
+browser settings.
+Right to submit a complaint
+We would be happy to help you further should you have any complaints
+about the processing of your personal data. Should we fail to reach anagreement, however, you also have the right to submit a complaint to the
+relevant data protection authority.
+7. Contact details
+If you have any questions or complaints about your privacy and/or this
+Privacy Statement, please contact our Data Protection Officer using the
+contact details below:
+Action Data Protection Officer
+Perenmarkt 15
+1681 PG Zwaagdijk-Oost
+The Netherlands
+E-mail: privacy@action.nl
+This Privacy Statement was last updated on 15 February 2022.

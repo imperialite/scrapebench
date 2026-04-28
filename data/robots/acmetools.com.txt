@@ -1,0 +1,124 @@
+# robots.txt for https://www.acmetools.com/
+
+User-agent: *
+
+Disallow: /login/
+Disallow: /cart/
+Disallow: /account/
+Disallow: /browsing-history/
+Disallow: /my-orders/
+Disallow: /my-returns/
+Disallow: /account-settings/
+Disallow: /address-book/
+Disallow: /payment-methods/
+Disallow: /account-support/
+ 
+# Block Pipelines 
+Disallow: /*Account*
+Disallow: /*Address-List*
+Disallow: /*Brand-Show*
+Disallow: /*Browsing-History*
+Disallow: /*COBilling-Start*
+Disallow: /*Content-Show*
+Disallow: /*COShipping-Start*
+Disallow: /*COSummary-Start*
+Disallow: /*Cart-Show*
+Disallow: /*Checkout-Begin*
+Disallow: /*Compare-Show*
+Disallow: /*CustomerService*
+Disallow: /*Default*
+Disallow: /*Error-Start*
+Disallow: /*GiftCard-Show*
+Disallow: /*GiftCert*
+Disallow: /*GiftRegistry*
+Disallow: /*Home*
+Disallow: /*LastBrandStanding-Show*
+Disallow: /*Login-Show*
+Disallow: /*Order*
+Disallow: /*Payment*
+Disallow: /*Product-GetDewaltToughSystem*
+Disallow: /*Search*
+Disallow: /*Signifyd-Callback*
+Disallow: /*SiteMap-Start*
+Disallow: /*Stores-Find*
+Disallow: /*Wishlist*
+Disallow: /*ZenkraftReturns*
+ 
+# Blocked Navbar Imagery
+Disallow: */images/Navbar/*
+Disallow: /on/demandware.static/-/Sites-acme-sf-catalog-en/default/dwb21bb641/images/categories/*?sw=300
+
+# Promotional Pages
+Disallow: /*pmid=*
+Disallow: /*creationDate*
+Disallow: /*WhatsNewBrand*
+Disallow: /*prefn1=w1cctd*
+Allow: /all/?prefn1=acme-tools-brand-name-2&prefv1=WhatsNewBrand&prefn2=creationDate&prefv2=-121
+
+# Other Blocked Pages
+Disallow: /on/demandware.static/Sites-AcmeTools-Site/-/default/dwd857bfbe/images/img-na.png
+Disallow: /*?q=*
+Disallow: /*srule=*
+Disallow: /*pmax*
+Disallow: /*pmin*
+Disallow: /*?*srsltid*
+Disallow: /null* 
+Disallow: /none* 
+Disallow: */*?sz=*
+
+# Blocked Filters & Refinements
+Disallow: */?*prefn*
+Disallow: */?*prefv*
+Disallow: */new/all/*
+Disallow: */used/all/*
+Disallow: */cordless/all/*
+Disallow: */corded/all/*
+Disallow: */air/all/*
+Disallow: */alkaline-style-battery/all/*
+Disallow: */attachment/all/*
+Disallow: */battery/all/*
+Disallow: */butane/all/*
+Disallow: */charcoal/all/*
+Disallow: */diesel/all/*
+Disallow: */dual-fuel-engine/all/*
+Disallow: */electric/all/*
+Disallow: */gas/all/*
+Disallow: */hydraulic/all/*
+Disallow: */kerosene/all/*
+Disallow: */liquid-propane/all/*
+Disallow: */manual/all/*
+Disallow: */natural-gas/all/*
+Disallow: */pellet/all/*
+Disallow: */powder-actuated/all/*
+Disallow: */pto/all/*
+Disallow: */solar/all/*
+Disallow: */tri-fuel-engine/all/*
+Disallow: */wood-burning/all/*
+
+User-agent: Baiduspider 
+Disallow: / 
+ 
+User-agent: 008 
+Disallow: / 
+ 
+User-Agent: WilandDirectWebSearch 
+Disallow: / 
+ 
+User-Agent: MJ12bot 
+Disallow: / 
+ 
+User-Agent: Heretrix 
+Disallow: / 
+ 
+User-Agent: Nutch 
+Disallow: / 
+ 
+User-Agent: aranhabot 
+Disallow: / 
+ 
+User-Agent: PetalBot 
+Disallow: / 
+ 
+Sitemap: https://www.acmetools.com/sitemap-index.xml
+
+#Want to work with us? Visit: https://www.acmetools.com/careers.html

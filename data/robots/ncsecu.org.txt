@@ -1,0 +1,70 @@
+# robots.txt, www.ncsecu.org 4/24/2024
+# http://www.w3.org/TR/1998/REC-html40-19980424/appendix/notes.html#h-B.4.1
+#
+
+User-agent: PowerMapper
+Allow: /
+
+User-agent: Slurp
+#Yahoo specific directives
+Disallow: /LOCATOR
+Disallow: /Locator
+Disallow: /locator
+Disallow: /Errors
+
+
+#All other robots
+User-agent: *
+#folders to disallow
+Disallow: /admin
+Disallow: /system/console
+Disallow: /crx
+Disallow: /bin/crxde/logs
+Disallow: /projects
+Disallow: /tagging
+Disallow: /welcome
+#Files to disallow
+Disallow: /dav/crx.default   
+Disallow: /jcr:system/jcr:versionStorage.json
+Disallow: /_jcr_system/_jcr_versionStorage.json
+Disallow: /libs/wcm/core/content/siteadmin.html
+Disallow: /libs/collab/core/content/admin.html
+Disallow: /libs/cq/ui/content/dumplibs.html
+Disallow: /var/linkchecker.html
+Disallow: /etc/linkchecker.html
+Disallow: /home/users/a/admin/profile.json
+Disallow: /home/users/a/admin/profile.xml
+Disallow: /libs/cq/core/content/login.json
+Disallow: /content/../libs/foundation/components/text/text.jsp
+Disallow: /content/.{.}/libs/foundation/components/text/text.jsp
+Disallow: /apps/sling/config/org.apache.felix.webconsole.internal.servlet.OsgiManager.config/jcr%3acontent/jcr%3adata
+Disallow: /libs/foundation/components/primary/cq/workflow/components/participants/json.GET.servlet
+Disallow: /content.pages.json
+Disallow: /content.languages.json
+Disallow: /content.blueprint.json
+Disallow: /content.-1.json
+Disallow: /content.10.json
+Disallow: /content.infinity.json
+Disallow: /content.tidy.json
+Disallow: /content.tidy.-1.blubber.json
+Disallow: /content/dam.tidy.-100.json
+Disallow: /content/content/geometrixx.sitemap.txt
+Disallow: /content/add_valid_page.query.json?statement=//*
+Disallow: /content/add_valid_page.qu%65ry.js%6Fn?statement=//*
+Disallow: /content/add_valid_page.query.json?statement=//*[@transportPassword]/(@transportPassword%20|%20@transportUri%20|%20@transportUser)
+Disallow: /content/add_valid_path_to_a_page/_jcr_content.json
+Disallow: /content/add_valid_path_to_a_page/jcr:content.json
+Disallow: /content/add_valid_path_to_a_page/_jcr_content.feed
+Disallow: /content/add_valid_path_to_a_page/jcr:content.feed
+Disallow: /content/add_valid_path_to_a_page/pagename._jcr_content.feed
+Disallow: /content/add_valid_path_to_a_page/pagename.jcr:content.feed
+Disallow: /content/add_valid_path_to_a_page/pagename.docview.xml
+Disallow: /content/add_valid_path_to_a_page/pagename.docview.json
+Disallow: /content/add_valid_path_to_a_page/pagename.sysview.xml
+Disallow: /etc.xml
+Disallow: /content.feed.xml
+Disallow: /content.rss.xml
+Disallow: /content.feed.html
+Disallow: /content/add_valid_page.html?debug=layout
+Disallow: /etc/replication.html
+Disallow: /etc/cloudservices.html

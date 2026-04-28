@@ -1,0 +1,88 @@
+#updated on - 25-12-07
+
+
+User-agent: *
+
+#Allow SEObility for testing purpose
+#User-agent: Seobility
+Allow: /draft-homepage/
+Allow: /draft-therap-for-states/
+Allow: /draft-therap-for-providers/
+
+
+Disallow: /cgi-bin/
+Disallow: /lorijenn/
+Disallow: /supportandtraining/
+Disallow: /trainers/
+Disallow: /northeast/
+Disallow: /southeast/
+Disallow: /central/
+Disallow: /west/
+Disallow: /justin/
+Disallow: /state/
+Disallow: /rfp/
+Disallow: /national/
+Disallow: /therap-basic/
+Disallow: /apk/
+
+#Avada preset pages
+Disallow: /*?*attachment_id=
+Disallow: /blog/
+Disallow: /faq-items/
+Disallow: /portfolio-items/
+Disallow: /portfolio_category/
+Disallow: /portfolio_skills/
+Disallow: /portfolio_tags/
+Disallow: /faq_category/
+Disallow: /themefusion_es_groups/
+Disallow: /element_category/
+Disallow: /slide-page/
+
+#Author Pages and Draft Pages
+Disallow: */author/*
+Disallow: /*draft*
+Disallow: /*test*
+Disallow: /*trouble-logging-in*
+
+#Disallow thank you page
+Disallow: /thank-contacting-therap/
+Disallow: /thank-you-for-managing-your-subscriptions/
+Disallow: /thank-you-for-contacting-us/
+Disallow: /thank-you-for-your-request/
+
+
+
+Disallow: /online-conference-sessions-survey-2021/
+Disallow: /request_for_marketing_and_design_materials/
+Disallow: /internal-team-usa-profile-page-information-request/
+Disallow: /external-conference-form/
+Disallow: /trouble-logging-in-to-conference-platform-2023-national-conference/
+Disallow: /the-intersection-of-person-centeredness-recorded-webinar/
+Disallow: /person-centered-thinking-recorded-webinar/
+Disallow: /the-value-of-data-driven-service-provision-recorded-webinar/
+Disallow: /discover-the-keys-to-person-centered-data-driven-service-delivery-with-therap/
+Disallow: /blogs-2/
+Disallow: /online-therap-community-group-request-form/
+Disallow: /online-user-group-request-form/
+Disallow: /therap-conference-evaluation/
+Disallow: /conference-feedback-internal/
+Disallow: /small-providers-payment-via-paypal/
+Disallow: /conference-feedback/
+Disallow: /billing-questionnaire/
+Disallow: /request_for_marketing_and_design_materials/
+Disallow: /online-conference-sessions-survey-2021/
+Disallow: /external-conference-form/
+Disallow: /nationalconference/exhibitors/
+Disallow: /5-steps-to-evv-compliance/
+Disallow: /pharmacy-interface-mar-promotions/
+Disallow: /android/
+Disallow: /accessibility/
+
+Disallow: /resources/publications/National-Catalog-2020.pdf
+Disallow: /resources/publications/Employment-Services-Digital-Single-Sheet-210824.pdf
+
+#Sitemap
+Sitemap: https://www.therapservices.net/page-sitemap.xml
+Sitemap: https://www.therapservices.net/2026nationalconference/page-sitemap.xml
+Sitemap: https://www.therapservices.net/nationalconference/page-sitemap.xml
+Sitemap: https://www.therapservices.net/TherapServices.xml

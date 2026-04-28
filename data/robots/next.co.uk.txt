@@ -1,0 +1,3672 @@
+ï»¿User-agent: *
+disallow: /error.asp
+disallow: */Error
+disallow: /thanks.asp
+disallow: /navigate.asp
+disallow: /login.asp
+disallow: /giftlist/
+disallow: /Published
+disallow: /api/
+disallow: /spring
+disallow: /summer
+disallow: /autumn
+disallow: /*book=*
+disallow: /shopping/
+disallow: /beaverbrooks
+disallow: /shop/*brand-beaverbrooks*
+disallow: /dryrobe
+disallow: /shop/*brand-dryrobe*
+disallow: /search/search
+disallow: /homeware/all-*
+disallow: /shop/*&isort
+disallow: /shop/*0Shop
+disallow: /shop/*-pb-*
+disallow: /shop/pb-*
+disallow: /shop/*-price-*
+disallow: /shop/price-*
+disallow: /shop/length-*-length-
+disallow: /shop/*-length-*-length-
+disallow: /shop/*/length-*-length-
+disallow: /shop/*/*-length-*-length-
+disallow: /shop/*-colour-*-colour-*
+disallow: /shop/colour-*-colour-*
+disallow: /shop/*/*-colour-*-colour-*
+disallow: /shop/*/colour-*-colour-*
+disallow: /shop/*-category-*-category-*
+disallow: /shop/*/category-*-category-*
+disallow: /shop/*-scent-*-scent-*
+disallow: /shop/scent-*-scent-*
+disallow: /shop/*/*-scent-*-scent-*
+disallow: /shop/*/scent-*-scent-*
+disallow: /shop/*-brand-*-brand-*
+disallow: /shop/brand-*-brand-*
+disallow: /shop/*/*-brand-*-brand-*
+disallow: /shop/*/brand-*-brand-*
+disallow: /shop/*-department-*-department-*
+disallow: /shop/department-*-department-*
+disallow: /shop/*/*-department-*-department-*
+disallow: /shop/*/department-*-department-*
+disallow: /shop/department-*/department-*
+disallow: /shop/*department-*/*department-*
+disallow: /shop/*-use-*-use-*
+disallow: /shop/use-*-use-*
+disallow: /shop/*/*-use-*-use-*
+disallow: /shop/*/use-*-use-*
+disallow: /shop/*-designfeature-*-designfeature-*
+disallow: /shop/designfeature-*-designfeature-*
+disallow: /shop/*/*-designfeature-*-designfeature-*
+disallow: /shop/*/designfeature-*-designfeature-*
+disallow: /shop/*-size-*
+disallow: /shop/*/size-*
+disallow: /shop/*/special-thecollection
+disallow: /shop/*/*-special-thecollection
+disallow: /shop/*-special-thecollection
+disallow: /shop/*availability-*
+disallow: /shop/*fabric-*
+disallow: /shop/*image-*
+disallow: /shop/*plainorpatterned-*
+disallow: /shop/*brand-next*
+disallow: /shop/*-other*
+disallow: /shop/editorial-*
+disallow: /shop/*editorial-*
+disallow: /shop/promotion-justarrived*
+disallow: /shop/*promotion-justarrived*
+disallow: /shop/*/*neckline-standard*
+
+disallow: /favourites$
+
+disallow: /shop/gender-men-gender-women*
+disallow: /shop/*gender-men-gender-women*
+disallow: /shop/gender-olderboys-gender-oldergirls*
+disallow: /shop/*gender-olderboys-gender-oldergirls*
+disallow: /shop/gender-olderboys-gender-youngergirls*
+disallow: /shop/*gender-olderboys-gender-youngergirls*
+disallow: /shop/gender-men-gender-oldergirls*
+disallow: /shop/*gender-men-gender-oldergirls*
+disallow: /shop/gender-youngerboys-gender-youngergirls*
+disallow: /shop/*gender-youngerboys-gender-youngergirls*
+disallow: /shop/gender-women-gender-youngergirls*
+disallow: /shop/*gender-women-gender-youngergirls*
+disallow: /shop/gender-newborngirls-gender-olderboys*
+disallow: /shop/*gender-newborngirls-gender-olderboys*
+disallow: /shop/gender-olderboys-gender-oldergirls-gender-youngergirls*
+disallow: /shop/*gender-olderboys-gender-oldergirls-gender-youngergirls*
+disallow: /shop/gender-infant-gender-youngerboys-gender-youngergirls*
+disallow: /shop/*gender-infant-gender-youngerboys-gender-youngergirls*
+disallow: /shop/gender-men-gender-youngergirls*
+disallow: /shop/*gender-men-gender-youngergirls*
+disallow: /shop/gender-newborngirls-gender-youngerboys*
+disallow: /shop/*gender-newborngirls-gender-youngerboys*
+disallow: /shop/gender-newbornboys-gender-oldergirls*
+disallow: /shop/*gender-newbornboys-gender-oldergirls*
+disallow: /shop/gender-men-gender-women-gender-youngergirls*
+disallow: /shop/*gender-men-gender-women-gender-youngergirls*
+disallow: /shop/gender-oldergirls-gender-youngerboys-gender-youngergirls*
+disallow: /shop/*gender-oldergirls-gender-youngerboys-gender-youngergirls*
+disallow: /shop/gender-olderboys-gender-youngerboys-gender-youngergirls*
+disallow: /shop/*gender-olderboys-gender-youngerboys-gender-youngergirls*
+disallow: /shop/gender-newborngirls-gender-olderboys-gender-youngergirls*
+disallow: /shop/*gender-newborngirls-gender-olderboys-gender-youngergirls*
+disallow: /shop/gender-newbornboys-gender-newborngirls-gender-oldergirls*
+disallow: /shop/*gender-newbornboys-gender-newborngirls-gender-oldergirls*
+disallow: /shop/gender-newbornboys-gender-newborngirls-gender-youngergirls*
+disallow: /shop/*gender-newbornboys-gender-newborngirls-gender-youngergirls*
+disallow: /shop/gender-newbornboys-gender-newborngirls-gender-olderboys-gender-oldergirls*
+disallow: /shop/*gender-newbornboys-gender-newborngirls-gender-olderboys-gender-oldergirls*
+disallow: /shop/gender-newborngirls-gender-olderboys-gender-oldergirls-gender-youngergirls*
+disallow: /shop/*gender-newborngirls-gender-olderboys-gender-oldergirls-gender-youngergirls*
+disallow: /shop/gender-infant-gender-olderboys-gender-oldergirls*
+disallow: /shop/*gender-infant-gender-olderboys-gender-oldergirls*
+disallow: /shop/gender-newborngirls-gender-olderboys-gender-oldergirls-gender-youngerboys*
+disallow: /shop/*gender-newborngirls-gender-olderboys-gender-oldergirls-gender-youngerboys*
+disallow: /shop/gender-newbornboys-gender-newborngirls-gender-olderboys-gender-youngerboys*
+disallow: /shop/*gender-newbornboys-gender-newborngirls-gender-olderboys-gender-youngerboys*
+disallow: /shop/gender-newbornboys-gender-olderboys-gender-oldergirls-gender-youngerboys*
+disallow: /shop/*gender-newbornboys-gender-olderboys-gender-oldergirls-gender-youngerboys*
+disallow: /shop/gender-women-gender-women*
+disallow: /shop/*gender-women-gender-women*
+disallow: /shop/gender-newbornboys-gender-newborngirls-gender-olderboys-gender-youngergirls*
+disallow: /shop/*gender-newbornboys-gender-newborngirls-gender-olderboys-gender-youngergirls*
+disallow: /shop/gender-newborngirls-gender-oldergirls*
+disallow: /shop/gender-newbornboys-gender-olderboys*
+disallow: /shop/gender-unisex-gender-youngerboys*
+disallow: /shop/gender-newborngirls-gender-oldergirls-gender-youngergirls*
+disallow: /shop/gender-newbornboys-gender-olderboys-gender-youngerboys*
+disallow: /shop/gender-newbornboys-gender-unisex-gender-youngerboys*
+disallow: /shop/gender-olderboys-gender-unisex-gender-youngerboys*
+disallow: /shop/gender-newborngirls-gender-oldergirls-gender-unisex*
+disallow: /shop/gender-newbornboys-gender-olderboys-gender-unisex*
+disallow: /shop/gender-girls-gender-oldergirls-gender-youngergirls*
+disallow: /shop/gender-newbornunisex-gender-unisex*
+disallow: /shop/gender-oldergirls-gender-unisex*
+disallow: /shop/gender-men-gender-unisex*
+disallow: /shop/gender-oldergirls-gender-unisex-gender-youngergirls*
+disallow: /shop/gender-girls-gender-oldergirls*
+disallow: /shop/gender-girls-gender-youngergirls*
+disallow: /shop/gender-unisex-gender-women*
+disallow: /shop/*gender-newborngirls-gender-oldergirls*
+disallow: /shop/*gender-newbornboys-gender-olderboys*
+disallow: /shop/*gender-unisex-gender-youngerboys*
+disallow: /shop/*gender-newborngirls-gender-oldergirls-gender-youngergirls*
+disallow: /shop/*gender-newbornboys-gender-olderboys-gender-youngerboys*
+disallow: /shop/*gender-newbornboys-gender-unisex-gender-youngerboys*
+disallow: /shop/*gender-olderboys-gender-unisex-gender-youngerboys*
+disallow: /shop/*gender-newborngirls-gender-oldergirls-gender-unisex*
+disallow: /shop/*gender-newbornboys-gender-olderboys-gender-unisex*
+disallow: /shop/*gender-girls-gender-oldergirls-gender-youngergirls*
+disallow: /shop/*gender-newbornunisex-gender-unisex*
+disallow: /shop/*gender-oldergirls-gender-unisex*
+disallow: /shop/*gender-men-gender-unisex*
+disallow: /shop/*gender-oldergirls-gender-unisex-gender-youngergirls*
+disallow: /shop/*gender-girls-gender-oldergirls*
+disallow: /shop/*gender-girls-gender-youngergirls*
+disallow: /shop/*gender-unisex-gender-women*
+
+disallow: /shop/*/-newin*
+disallow: /shop/*/*-newin*
+disallow: /shop/*-newin*
+disallow: /shop/*/0-feat*
+disallow: /shop/*/feat-available*
+disallow: /shop/*/*feat-available*
+disallow: /shop/feat-available*
+disallow: /shop/*feat-available*
+disallow: /shop/gender-women/*
+disallow: /shop/gender-men/*
+disallow: /shop/1*/
+disallow: /shop/2*/
+disallow: /shop/3*/
+disallow: /shop/4*/
+disallow: /shop/5*/
+disallow: /shop/6*/
+disallow: /shop/7*/
+disallow: /shop/8*/
+disallow: /shop/9*/
+disallow: /shop/0*/
+disallow: /shop/brand-*/noindex
+disallow: /shop/*/brand-*/noindex
+disallow: /shop/*/*brand-*/noindex
+disallow: /shop/*/*category-boots-category-wellies*/noindex
+disallow: /shop/*/*brand-*-feat-newin
+disallow: /shop/waist/*
+disallow: */noindex
+disallow: /eoss
+disallow: /flowers-gifts
+disallow: /recentlyviewed
+disallow: /brands/lipsy
+disallow: /brands/electrical
+disallow: /brands/homeware
+disallow: /brands/women
+disallow: /brands/men
+disallow: /brands/girls
+disallow: /brands/boys
+disallow: /brands/fragrances
+disallow: /*sec_ak_reference
+disallow: /shop/*brand-*/
+disallow: /shop/*brand-*productaffiliation-*-0$
+disallow: /shop/*benefit-*
+disallow: /shop/*promotion-michellekeegan*
+disallow: /preview*
+disallow: /nightwear-prelaunch$
+disallow: /sammy-test$
+disallow: /genderwomenproductaffiliationtailoring0*
+disallow: /lipsy-catwalk-looks/
+disallow: /shop/*/srt-$
+disallow: /shop/*/*srt-$
+disallow: *removecategory*
+disallow: *removestory*
+disallow: *brand*removecategory
+disallow: /clearance/search*
+disallow: /sale/search*
+disallow: /shop/productaffiliation-/
+disallow: /shop/*productaffiliation-furniture*
+disallow: /shop/gender-women-category-dresses-bra*
+disallow: /shop/*productaffiliation-homefurnishings*
+disallow: /shop/*department-homeware-productaffiliation-homefurnishings*
+disallow: /shop/gender-newborngirls-gender-newbornunisex-gender-youngergirls*
+disallow: /shop/gender-newbornboys-gender-newbornunisex-gender-youngerboys*
+disallow: /shop/*-productaffiliation-*-productaffiliation-*
+disallow: /shop/*gender-men-productaffiliation-underwearsocks*
+disallow: /shop/*productaffiliation-underwearsocks*
+disallow: /shop/*-madewith-*-madewith-*
+disallow: /shop/madewith-*-madewith-*
+disallow: /shop/*/*-madewith-*-madewith-*
+disallow: /shop/*/madewith-*-madewith-*
+disallow: /shop/-/*
+disallow: /shop/department-beauty-gender-women-category-fragrances/colour*
+disallow: /shop/-productaffiliation*
+disallow: /shop/20/*
+disallow: /shop/baby/*
+disallow: /shop/boys/*
+disallow: /shop/brand/*
+disallow: *isort-*
+disallow: /shop/brand-*/brand-*
+disallow: /shop/cat/*
+disallow: /shop/category-/*
+disallow: /shop/*_2/*
+disallow: /shop/*isort-popular*
+disallow: /shop/category-*/category-*
+disallow: /shop/clearance/*
+disallow: /shop/*-isort-title*
+disallow: /shop/*productaffi/*
+disallow: /shop/*editorial/*
+disallow: /shop/*-minprice-000-maxprice-20000*
+disallow: /shop/fit-/*
+disallow: /shop/g/*
+disallow: /shop/gend/*
+disallow: /shop/*fit*-fit-*
+disallow: /shop/*cate/*
+disallow: /shop/*-cnt-300*
+disallow: /shop/*-o/*
+disallow: /shop/*size*-size-*
+disallow: /shop/genxt/*
+disallow: /shop/girls/*
+disallow: /shop/monsoon/*
+disallow: /shop/mens/*
+disallow: /shop/postcodecheckview/*
+disallow: /shop/productaffili/*
+disallow: /shop/*category-boots-category-wellies*removecategory*
+disallow: /shop/*category-boots-category-wellies*removestory*
+disallow: /shop/designfeature-animalprint*
+disallow: *issale-*
+disallow: /shop/product/*
+disallow: /shop/productaffiliation/*
+disallow: /shop/*-srt/*
+disallow: /shop/use/*
+disallow: /shop/produ/*
+disallow: /shop/*-0cached*
+disallow: /shop/...*
+disallow: /shop/sleeve/*
+disallow: /shop/bra/*
+disallow: /shop/jeans/*
+disallow: /shop/pro/*
+disallow: /shop/produ/*
+disallow: /shop/colour-/*
+disallow: /shop/-*
+disallow: /shop/cat-*
+disallow: /shop/fit--*
+disallow: /shop/gende/*
+disallow: /shop/s-/*
+disallow: /shop/*productaffiliation-/*
+disallow: /style/es460501$
+disallow: /style/es929442$
+disallow: /shop/promotion-mensjeans*
+disallow: /shop/promotion-tshirts*
+disallow: /shop/promotion-chinotrousers*
+disallow: /shop/promotion-chinoshorts*
+disallow: /shop/promotion-polos*
+disallow: /shop/promotion-menstshirts*
+disallow: /shop/promotion-menschinotrousers*
+disallow: /shop/promotion-menschinoshorts*
+disallow: /shop/promotion-menspolos*
+disallow: /shop/gender-*/sizetype-*sizetype*
+disallow: /shop/*/*brand-*size-*
+disallow: /shop/*pattern-*size-*
+disallow: /shop/fit-/*brand-*
+disallow: /shop/*/*brand-*isort-*
+disallow: /shop/*/brand-*srt-$
+disallow: /shop/*productaffiliation-shirtsandblouses*
+disallow: /shop/*/gender*
+disallow: /shop/*productaffiliation-holidayshop*
+disallow: /shop/*tog-*tog-*
+disallow: /shop/gender-women-productaffiliation-dresses*
+disallow: /shop/gender-women/sizetype-*/*
+disallow: /shop/*srt*/*brand-*
+disallow: /shop/department-homeware/*
+disallow: /shop/department-beauty/*
+disallow: /shop/*-newin*
+disallow: /shop/*-*-*-*-*-*-*-*-*-*-*-
+disallow: /shop/gender-men-productaffiliation-casualshirts*
+disallow: /shop/gender-men-productaffiliation-formalshirts*
+disallow: /shop/gender-men-productaffiliation-shirts*
+disallow: /shop/s-*
+disallow: /shop//*
+disallow: /shop/*--*
+disallow: /shop/*productaffiliation-occasion*
+disallow: /secure/account/MyAccount/AccountSummary/ForgetMe$
+disallow: /shop/*productaffiliation-dresses*
+disallow: *Scripts/CountryRedirect.js*
+disallow: *Scripts/ModernisedHeader/CountryRedirect.js*
+disallow: */CountryRedirect*
+disallow: /shop/*productaffiliation-*productaffiliation-*
+disallow: /shop/*/srt-3*
+disallow: /shop/*/srt-5*
+disallow: /shop/*/srt-6*
+disallow: /shop/*/srt-8*
+disallow: /shop/*/*-srt-3*
+disallow: /shop/*/*-srt-5*
+disallow: /shop/*/*-srt-6*
+disallow: /shop/*/*-srt-8*
+disallow: /opt-out*
+disallow: /directoryoptout*
+disallow: /unsubscribe*
+disallow: /shop/*/*brand-*-use-$
+disallow: /shop/*-use-$
+disallow: /footer$
+disallow: /shop/*-style-*-style-*
+disallow: /shop/style-*-style-*
+disallow: /shop/*/*-style-*-style-*
+disallow: /shop/*/style-*-style-*
+disallow: /shop/style-animalprint*
+disallow: /shop/style-*/style-*
+disallow: /shop/*/style-*/style-*
+disallow: *color-*
+disallow: /shop/*/*/*
+disallow: *SiteURL*
+disallow: *siteurl*
+disallow: /shop/*siteurl*brand-*
+allow: /shop/designerboutique-boutiquebrands-designerboutique-designercollaborations-designerboutique-labelcollection-0$
+disallow: /shop/designerboutique-boutiquebrands-designerboutique-designercollaborations-designerboutique-labelcollection/*
+disallow: /shop/designerboutique-boutiquebrands-designerboutique-designercollaborations-designerboutique-labelcollection-*
+disallow: *designerboutique*
+allow: /shop/gender-men-category-trousers/style-jeansstyle$
+allow: /shop/gender-men-category-trousers/colour-black-style-jeansstyle$
+allow: /shop/gender-men-category-trousers/brand-next-style-jeansstyle$
+allow: /shop/gender-women-category-dresses/size-16$
+allow: /shop/gender-women-category-dresses/size-20$
+allow: /shop/gender-women-category-dresses/size-22$
+allow: /shop/gender-women-category-dresses/size-4$
+allow: /shop/gender-women-category-dresses/size-6$
+allow: /shop/gender-women-category-dresses/size-12$
+allow: /shop/gender-women-category-dresses/size-24$
+allow: /shop/gender-women-category-dresses/size-8$
+allow: /shop/gender-women-category-dresses/size-10$
+allow: /shop/gender-women-category-dresses/size-26$
+allow: /shop/gender-women-category-dresses/size-28$
+allow: /shop/gender-women/designfeature-christmassweater$
+allow: /shop/gender-men-productaffiliation-casualshirts/category-shirts$
+allow: /shop/gender-men-productaffiliation-formalshirts/category-shirts$
+allow: /shop/gender-women-category-dresses/size-18$
+allow: /shop/gender-women-productaffiliation-jumpsuitsandplaysuits/category-jumpsuit-size-18$
+allow: /shop/gender-women-productaffiliation-footwear/category-shoes-size-uk9eu43$
+allow: /shop/gender-women-category-dresses/size-14$
+allow: /shop/gender-women-productaffiliation-lingerie/category-bras-size-30dd$
+allow: /shop/*productaffiliation-holidayshop-0$
+allow: /shop/department-beauty-*-0$
+
+allow: /shop/gender-women/brand-lipsy-sizetype-petite$
+allow: /shop/gender-women/brand-lipsy-sizetype-plussizes$
+allow: /shop/department-homeware-feat-newin-0$
+allow: /shop/category-dresses-brand-lipsy-0$
+disallow: /shop/-/brand-*
+allow: /shop/gender-women/feat-newin$
+allow: /shop/gender-oldergirls-gender-youngergirls/feat-newin$
+allow: /shop/gender-women-productaffiliation-tops/feat-newin$
+allow: /shop/department-homeware-feat-newin-0$
+allow: /shop/gender-men/feat-newin$
+allow: /shop/productaffiliation-labelmix-editorial-label-0$
+allow: /shop/gender-men-category-trousers/designfeature-jeansstyle$
+allow: /shop/gender-men-category-trousers/colour-black-designfeature-jeansstyle$
+allow: /shop/gender-men-category-trousers/brand-next-designfeature-jeansstyle$
+
+
+
+disallow: /women/*/1*
+disallow: /women/*/2*
+disallow: /women/*/3*
+disallow: /women/*/4*
+disallow: /women/*/5*
+disallow: /women/*/6*
+disallow: /women/*/7*
+disallow: /women/*/8*
+disallow: /women/*/9*
+disallow: /men/*/1*
+disallow: /men/*/2*
+disallow: /men/*/3*
+disallow: /men/*/4*
+disallow: /men/*/5*
+disallow: /men/*/6*
+disallow: /men/*/7*
+disallow: /men/*/8*
+disallow: /men/*/9*
+disallow: /girls/*/1*
+disallow: /girls/*/2*
+disallow: /girls/*/3*
+disallow: /girls/*/4*
+disallow: /girls/*/5*
+disallow: /girls/*/6*
+disallow: /girls/*/7*
+disallow: /girls/*/8*
+disallow: /girls/*/9*
+disallow: /boys/*/1*
+disallow: /boys/*/2*
+disallow: /boys/*/3*
+disallow: /boys/*/4*
+disallow: /boys/*/5*
+disallow: /boys/*/6*
+disallow: /boys/*/7*
+disallow: /boys/*/8*
+disallow: /boys/*/9*
+
+disallow: /homeware/*/1*
+disallow: /homeware/*/2*
+disallow: /homeware/*/3*
+disallow: /homeware/*/4*
+disallow: /homeware/*/5*
+disallow: /homeware/*/6*
+disallow: /homeware/*/7*
+disallow: /homeware/*/8*
+disallow: /homeware/*/9*
+disallow: /lipsy-shop/*/1*
+disallow: /lipsy-shop/*/2*
+disallow: /lipsy-shop/*/3*
+disallow: /lipsy-shop/*/4*
+disallow: /lipsy-shop/*/5*
+disallow: /lipsy-shop/*/6*
+disallow: /lipsy-shop/*/7*
+disallow: /lipsy-shop/*/8*
+disallow: /lipsy-shop/*/9*
+disallow: /branded/*/1*
+disallow: /branded/*/2*
+disallow: /branded/*/3*
+disallow: /branded/*/4*
+disallow: /branded/*/5*
+disallow: /branded/*/6*
+disallow: /branded/*/7*
+disallow: /branded/*/8*
+disallow: /branded/*/9*
+
+disallow: /shop/promotion-school1$
+disallow: /shop/promotion-school1/gender-olderboys-gender-youngerboys$
+disallow: /shop/promotion-school1/gender-oldergirls-gender-youngergirls$
+disallow: /shop/promotion-school2$
+disallow: /shop/promotion-school2/gender-olderboys-gender-youngerboys$
+disallow: /shop/promotion-school2/gender-oldergirls-gender-youngergirls$
+disallow: /shop/promotion-school3$
+disallow: /shop/promotion-school3/gender-olderboys-gender-youngerboys$
+disallow: /shop/promotion-school3/gender-oldergirls-gender-youngergirls$
+
+
+disallow: /shop/*gender-newborngirls-gender-newbornunisex-gender-oldergirls-gender-youngergirls*
+disallow: /shop/*gender-newbornboys-gender-newbornunisex-gender-olderboys-gender-youngerboys*
+disallow: /shop/*gender-newbornunisex-gender-oldergirls-gender-youngergirls*
+disallow: /shop/*gender-newbornunisex-gender-olderboys-gender-youngerboys*
+disallow: */shop/*/collaboration-*collaboration
+disallow: */shop/designfeature-*/designfeature
+disallow: */shop/*jacketsize-*-jacketsize
+disallow: */shop/material-*-material
+disallow: */shop/occasion-*-occasion
+disallow: */shop/*-type-*-type
+disallow: */shop/*/type-*-type
+
+disallow: *0-edit*
+disallow: *0-email*
+disallow: *0-campaign*
+disallow: *0-homepage*
+disallow: *0-editpage*
+disallow: *0-blsr*
+disallow: *0-push*
+disallow: *0-osalink*
+disallow: *0-mission*
+disallow: *0-tiktok*
+disallow: *0-osa*
+disallow: *0-made*
+disallow: *0-brandpage*
+disallow: *0-premiumbrands*
+disallow: *0-brandsemail*
+disallow: *0-kidslandingpage*
+disallow: /shop/*0-campaign*
+disallow: *0-seasonshack*
+
+allow: /homeware/sofas/fabric-sofas-collection/1$
+allow: /women/casualwear/holiday-shop/1$
+allow: /women/tailored-looks/navy-yellow-workwear/1$
+allow: /homeware/new-in/bedroom-furniture/1$
+allow: /homeware/bedroom/bed-linen/1$
+allow: /homeware/home-diy/decorative-accessories/1$
+allow: /boys/new-in/older-boys/1$
+allow: /homeware/bedroom/beds-headboards/1$
+allow: /homeware/sofas/sofa-beds-collection/1$
+allow: /homeware/home-decor/curtains-blinds-collection/1$
+allow: /women/nightwear/nightwear/1$
+allow: /men/tailoring/tailoring-essentials/1$
+disallow: /shop/*pattern-*pattern*
+disallow: /shop/department-beauty-*brand-*/category-*0
+disallow: /shop/*-category-*/category-*
+disallow: /shop/*-category-*/*-category-*
+disallow: /shop/gender-*/colour-*-gender-*
+disallow: /shop/*/*-0$
+disallow: *range-*-range-*
+disallow: /shop/productaffiliation-*/brand-*-0$
+disallow: *0-edt*
+disallow: /shop/*/*-gender-*
+disallow: /shop/*-category-*-productaffiliation-*
+
+disallow: /shop/gender-men-gender-*
+disallow: /shop/*gender-men-gender-*
+disallow: /shop/gender-*-gender-men*
+disallow: /shop/*gender-*-gender-men*
+disallow: /shop/gender-women-gender-*
+disallow: /shop/*gender-women-gender-*
+disallow: /shop/gender-*-gender-women*
+disallow: /shop/*gender-*-gender-women*
+
+allow: /shop/brand-adidas-brand-adidasgolf-brand-adidasoriginals-0$
+allow: /shop/brand-ff/range-ffmrshinch$
+
+
+allow: /shop/brand-lipsy/collaboration-chrishell$
+disallow: /shop/gender-/brand-*
+disallow: /shop/*0-banner*
+disallow: /shop/s-/
+disallow: /shop/s-/*brand-*
+disallow: *use-baby*
+disallow: /newborn-test$
+disallow: *gender-women-category-bikinis*
+disallow: *gender-women-category-lingerie*
+disallow: *gender-women-category-bras*
+disallow: *story-brandedfashion*
+disallow: /barclays-credit-eligibility-checker$
+disallow: /shop/*/0-blsr-brand-*
+allow: /shop/department-beauty-productaffiliation-makeup/brand-benefit-category-mascaras$
+allow: /shop/brand-benefit-0$
+disallow: *designfeature-pencil*
+disallow: *colors-*
+disallow: *0-homelandingpage*
+disallow: */gender-/*
+
+
+disallow: *search?w=*
+disallow: *bandsize*
+disallow: *cupsize*
+disallow: *srt-*
+disallow: /shop/sizetype-maternity/*
+disallow: /shop/maternity-maternity/*
+disallow: *minprice*
+disallow: *maxprice*
+disallow: *minprice*maxprice*
+allow: /shop/department-homeware-productaffiliation-furniture-0$
+disallow: */department-/*
+disallow: /shoppingbag$
+allow: /shop/brand-victoriassecret-brand-victoriassecretpink-0$
+disallow: *latestarrivals-last*
+allow: /shop/gender-women-brand-gap-0$
+allow: /shop/gender-men-brand-gap-0$
+allow: /shop/gender-newbornboys-gender-newborngirls-gender-newbornunisex-brand-gap-0$
+allow: /shop/gender-olderboys-gender-youngerboys-brand-gap-0$
+allow: /shop/gender-oldergirls-gender-youngergirls-brand-gap-0$
+disallow: /shop/*-/brand*
+disallow: /shop/category-*/brand-*
+allow: /shop/brand-victoriassecret/subbrand-vspink$
+disallow: /shop/productaffiliation-suits*
+disallow: /shop/*/style-christmassweater
+disallow: /shop/*/*style-christmassweater-*
+disallow: /shop/size-*
+
+disallow: /*designerboutique*
+disallow: /shop/sizetype-*
+disallow: /*boutiqueworkingfromhome*
+disallow: /*designer-boutique*
+disallow: /lablestudio/shop/*
+disallow: /labelstudio/shop/*
+disallow: *0-storyly*
+disallow: *styletest*
+disallow: *emmawillis*
+disallow: *emma-willis*
+
+disallow: /shop/department-beauty-productaffiliation-face*
+disallow: /shop/department-beauty-productaffiliation-eyes*
+disallow: /shop/department-beauty-productaffiliation-lips*
+disallow: /shop/department-beauty-productaffiliation-brows*
+
+allow: /shop/department-beauty-productaffiliation-face-0$
+allow: /shop/department-beauty-productaffiliation-eyes-0$
+allow: /shop/department-beauty-productaffiliation-lips-0$
+allow: /shop/department-beauty-productaffiliation-brows-0$
+
+disallow: *0-brandcampaign*
+disallow: *offer-*
+disallow: *donotuse*
+
+disallow: //shop/*
+
+disallow: /promotions-publish*
+disallow: */gender-*-promotion-*/*
+disallow: */gender-*-promotions-*/*
+disallow: /shop/*promotion-*/*promotions*
+disallow: /shop/*promotion-*/0-
+disallow: /shop/gender-*-promotion-*/0-
+
+#gender attributes - alphabetical
+disallow: *-a-gender*
+disallow: /a-gender*
+disallow: *-b-gender*
+disallow: /b-gender*
+disallow: *-c-gender*
+disallow: /c-gender*
+disallow: *-d-gender*
+disallow: /d-gender*
+disallow: *-e-gender*
+disallow: /e-gender*
+disallow: *-f-gender*
+disallow: /f-gender*
+disallow: *-g-gender*
+disallow: /g-gender*
+disallow: */g-gender/*
+disallow: *-h-gender*
+disallow: /h-gender*
+disallow: *-i-gender*
+disallow: /i-gender*
+disallow: *-j-gender*
+disallow: /j-gender*
+disallow: *-k-gender*
+disallow: /k-gender*
+disallow: *-l-gender*
+disallow: /l-gender*
+disallow: *-m-gender*
+disallow: /m-gender*
+disallow: *-n-gender*
+disallow: /n-gender*
+disallow: *-o-gender*
+disallow: /o-gender*
+disallow: *-p-gender*
+disallow: /p-gender*
+disallow:*gender-men-p/
+disallow: *-q-gender*
+disallow: /q-gender*
+disallow: *-r-gender*
+disallow: /r-gender*
+disallow: *-s-gender*
+disallow: /s-gender*
+disallow: *-t-gender*
+disallow: /t-gender*
+disallow: *-u-gender*
+disallow: /u-gender*
+disallow: *-v-gender*
+disallow: /v-gender*
+disallow: *-w-gender*
+disallow: /w-gender*
+disallow: *-x-gender*
+disallow: /x-gender*
+disallow: *-gender-y/
+disallow: *-z-gender*
+disallow: /z-gender*
+
+disallow: *gender-a*
+disallow: *gender-b*
+disallow: *gender-c*
+disallow: *gender-d*
+disallow: *gender-e*
+disallow: *gender-f*
+disallow: *gender-g*
+disallow: *gender-h*
+disallow: *gender-i*
+disallow: *gender-j*
+disallow: *gender-k*
+disallow: *gender-l*
+disallow: *gender-p*
+disallow: *gender-q*
+disallow: *gender-r*
+disallow: *gender-s*
+disallow: *gender-t*
+disallow: *gender-u*
+disallow: *gender-v*
+disallow: *gender-x*
+disallow: *gender-z*
+
+#gender attributes
+disallow: /shop/*gender-recycled*
+disallow: /shop/*=-gender*
+disallow: /shop/department-homeware--gender*
+disallow: /shop/*gender-*pack*
+disallow: /shop/*gender-other*
+disallow: /shop/*gender-mini*
+disallow: *gender-diggers*
+disallow: *gender-fauxfur*
+disallow: *gender-fantasticfoxes*
+disallow: *gender-darkgreen*
+disallow: *gender-cuban*
+disallow: *gender-chukka*
+disallow: *gender-brown*
+disallow: *gender-christmas*
+disallow: *gender-check*
+disallow: *gender-short*
+disallow: *gender-long*
+disallow: *gender-boatneck*
+disallow: *gender-foxes*
+disallow: *gender-fulllength*
+disallow: *gender-syntheticfill*
+disallow: *gender-bardot*
+disallow: *gender-mid*
+disallow: *gender-low*
+disallow: *gender-gapfit*
+disallow: *gender-silk*
+disallow: *gender-trail*
+disallow: *gender-asymmetric*
+disallow: *gender-anklelength*
+disallow: *gender-./
+disallow: *gender--category-shoes/
+disallow: *gender--gender*
+disallow: /shop/-gender/*
+disallow: *gender-sweetheart*
+disallow: *1-gender/
+disallow: /gender-velvet-*
+disallow: /*-gender-velvet-*
+disallow: /gender-cotton-*
+disallow: /*-gender-cotton-*
+disallow: /*-gender-infant-*
+disallow: *gender-trending*
+disallow: /shop/*-trend-*
+disallow: /shop/*/trend-*
+disallow: /shop/trend-
+disallow: *gender-realmadrid*
+disallow: *gender-holiday*
+disallow: *gender-cotton*
+disallow: *gender-hooded*
+disallow: *gender-zip*
+disallow: *gender-teengirls*
+disallow: *gender-darkblue*
+disallow: *gender-34sleeve*
+disallow: *gender-colourblock*
+disallow: *gender-/*
+disallow: *--gender/*
+disallow: *gender-velvet*
+disallow: *gender-schoolwear*
+disallow: *gender-donotuse*
+disallow: *catetiae-gender*
+disallow: *gender-holiday*
+disallow: *gender-squareneck*
+disallow: *gender-teengirls*
+disallow: *gender-plain*
+disallow: *gender-recycled*
+disallow: *gender-anklelength*
+disallow: */zol-gender/*
+disallow: */pr-gender/*
+disallow: */cl-gender/*
+disallow: *gender-stripe*
+disallow: *gender-wool*
+disallow: *gender-schoolwear*
+disallow: *gender-fulllength*
+disallow: *gender-flowergirl*
+disallow: *gender-zip*
+disallow: *gender-darkblue*
+disallow: *gender-womens-*
+disallow: *gender-colourblock*
+disallow: *gender-cotton*
+disallow: *gender-buttondown*
+disallow: /brand--gender/
+disallow: *gender-woshref=*
+disallow: *gender-logo*
+disallow: *gender-sparkle*
+disallow: *gender-100*
+disallow: *gender-buttondown-*
+disallow: *gender-cotton-*
+disallow: *gender-crossstraps-*
+disallow: *gender-cuban-*
+disallow: *gender-donotuse-*
+disallow: *gender-eyes-*
+disallow: *gender-floral-*
+disallow: *gender-flowergirl-*
+disallow: *gender-green-*
+disallow: *gender-halloween-*
+disallow: *gender-hen-*
+disallow: *gender-highneck-*
+disallow: *gender-hooded-*
+disallow: *gender-knitted-*
+disallow: *gender-leather-*
+disallow: *gender-linen-*
+disallow: *gender-loungewear-*
+disallow: *gender-natural-*
+disallow: *gender-nid=-*
+disallow: *gender-niketechfleece*
+disallow: *gender-organiccotton-*
+disallow: *gender-outdoor-*
+disallow: *gender-outdoor-*
+disallow: *gender-pink-*
+disallow: *gender-plain-*
+disallow: *gender-plan-*
+disallow: *gender-plunge-*
+disallow: *gender-print-*
+disallow: *gender-red-*
+disallow: *gender-rollneck-*
+disallow: *gender-schoolwear-*
+disallow: *gender-softshell-*
+disallow: *gender-sparkle-*
+disallow: *gender-sportswear-*
+disallow: *gender-train-*
+disallow: *gender-tunic-*
+disallow: *gender-uni-*
+disallow: *gender-uni**-*
+disallow: *gender-uni***-*
+disallow: *gender-wool-*
+disallow: *gender-workwear-*
+disallow: *gender-yo-*
+disallow: *gender-youngerbm-*
+disallow: *gender-youngerboys -*
+disallow: *gender-youngerg%20none-*
+disallow: *gender-3pack-*
+disallow: *gender-loungewear-*
+disallow: *âgender$
+disallow: *gender-sweetheart*
+disallow: *gender-weddingguest*
+disallow: *gender-casual
+disallow: *gender-football
+disallow: *gender-machinewashable*
+
+disallow: *gender-*boys-*-gender-women
+disallow: *gender-*girls-*-gender-women
+
+disallow: *gender-babyunisex*
+
+
+disallow: *range-*-range-*
+disallow: *-collection-*-collection-*
+disallow: /collection-*-collection-*
+disallow: *lining-*-lining-*
+
+disallow: */1000$
+disallow: *-mxsp-*
+disallow: /shop/*/mxsp-
+
+disallow: */.-brand*
+disallow: */.-feat*
+
+disallow: *search?text=*
+disallow: *gclid=*
+
+allow: /beauty/offers$
+disallow: /shop/activity-*
+disallow: /shop/productaffiliation-smallkitchenappliances*
+disallow: /shop/brand-*/category*
+disallow: /shop/brand-*/productaffiliation-*
+disallow: /shop/gender-*-productaffiliation-clothing/*
+
+disallow: *0-pf-*
+disallow: /shop/category-dresses/*
+disallow: /shop/gender-*-category-/*
+disallow: /shop/colour-pink-s/*
+disallow: /shop/productaffiliation-$
+disallow: /shop/gender-$
+disallow: /shop/brand-$
+disallow: /shop/promotion-$
+disallow: /shop/activity-$
+disallow: *department-beauty-gender-unisex*
+disallow: *type-faketan*
+
+allow: /shop/brand-crocs/category-charms$
+
+# Men
+allow: /shop/gender-men-productaffiliation-clothing/material-linen$
+allow: /shop/gender-women-productaffiliation-clothing/material-linen$
+
+
+#Laura Ashley
+disallow: /laura-ashley/shop/*
+disallow: /laura-ashley/shop/*/*
+disallow: /laura-ashley/shop/*/*brand-*
+disallow: /laura-ashley/shop/*/*brand-lauraashley*brand-*
+disallow: /laura-ashley/shop/*brand-lauraashley*brand-*
+disallow: /laura-ashley/inspiration
+
+disallow: /laura-ashley/shop/*brand-lauraashley*style-readymade
+disallow: /laura-ashley/shop/*/*brand-lauraashley*style-readymade
+disallow: /laura-ashley/shop/*brand-lauraashley*style-madetomeasure
+disallow: /laura-ashley/shop/*/*brand-lauraashley*style-madetomeasure
+
+allow: /laura-ashley/shop/*brand-lauraashley*
+allow: /laura-ashley/shop/*/*brand-lauraashley*
+allow: /laura-ashley/homeware/
+allow: /laura-ashley/shop/*promotion-*
+
+disallow: /laura-ashley/shop/promotion-*/brand-*
+allow: /laura-ashley/shop/promotion-*/brand-lauraashley
+disallow: /laura-ashley/shop/promotion-*/brand-lauraashley-brand-*
+disallow: /laura-ashley/shop/*promotion-*/*range-*-range-*
+disallow: /laura-ashley/shop/*promotion-*/*gender-*-gender-*
+disallow: /laura-ashley/shop/*promotion-*/*sizetype-*-sizetype-*
+disallow: /laura-ashley/shop/*promotion-*/*type-*-type-*
+disallow: /laura-ashley/shop/*promotion-*/*category-*-category-*
+disallow: /laura-ashley/shop/*promotion-*/*material-*-material-*
+disallow: /laura-ashley/shop/*promotion-*/*colour-*-colour-*
+disallow: /laura-ashley/shop/*promotion-*/*gender-men-*
+
+
+
+disallow: /edited-test*
+
+disallow: *productaffiliation-premiumbrands*
+disallow: *productaffiliation-accessoriesall*
+disallow: */0-hompage-*
+
+disallow: /foryou$
+disallow: /shop/*/popular$
+
+# Homeware - General
+allow: /shop/department-homeware-category-sofas/fabrictype-fabric-feature-sofabed$
+
+allow: /shop/department-homeware-productaffiliation-bedding/collaboration-disney$
+allow: /shop/department-homeware-productaffiliation-bedding/collaboration-minecraft$
+
+disallow: /shop/department-homeware*/*collaboration*
+
+disallow: /shop/category-blinds
+
+disallow: /shop/*/*-type-roller
+disallow: /shop/*/type-roller
+
+disallow: /shop/*/*-type-roman
+disallow: /shop/*/type-roman
+
+disallow: /shop/*/*-lining-madetomeasure
+disallow: /shop/*/lining-madetomeasure
+
+disallow: *productaffiliation-madetomeasure*
+allow: /shop/department-homeware-productaffiliation-madetomeasure/category-curtains$
+allow: /shop/department-homeware-productaffiliation-madetomeasure/category-blinds$
+allow: /shop/department-homeware-productaffiliation-madetomeasure/blindtype-roman-category-blinds$
+allow: /shop/department-homeware-productaffiliation-madetomeasure-0$
+
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-size-upto160cmwx230cml$
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-size-upto200cmwx290cml$
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-colour-cream-size-upto200cmwx290cml$
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-colour-grey-size-upto200cmwx290cml$
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-materialtype-jute-size-upto200cmwx290cml$
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-colour-green-size-upto200cmwx290cml$
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-shape-circle-size-upto200cmwx290cml$
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-colour-black-size-upto200cmwx290cml$
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-size-upto200cmwx290cml-type-washable$
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-colour-pink-size-upto200cmwx290cml$
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-materialtype-sheepskin-size-upto200cmwx290cml$
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-colour-blue-size-upto200cmwx290cml$
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-colour-white-size-upto200cmwx290cml$
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-materialtype-wool-size-upto200cmwx290cml$
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-size-upto300cmwx400cml$
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-size-upto67cmwx137cml$
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-size-upto80cmwx150cml$
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-shape-circle-size-upto67cmwx137cml$
+
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-size-upto160cmwx230cml
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-size-upto200cmwx290cml
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-colour-cream-size-upto200cmwx290cml
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-colour-grey-size-upto200cmwx290cml
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-materialtype-jute-size-upto200cmwx290cml
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-colour-green-size-upto200cmwx290cml
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-shape-circle-size-upto200cmwx290cml
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-colour-black-size-upto200cmwx290cml
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-size-upto200cmwx290cml-type-washable
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-colour-pink-size-upto200cmwx290cml
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-materialtype-sheepskin-size-upto200cmwx290cml
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-colour-blue-size-upto200cmwx290cml
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-colour-white-size-upto200cmwx290cml
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-materialtype-wool-size-upto200cmwx290cml
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-size-upto300cmwx400cml
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-size-upto67cmwx137cml
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-size-upto80cmwx150cml
+allow: /shop/department-homeware-productaffiliation-rugsrunnersdoormats/category-rugs-shape-circle-size-upto67cmwx137cml
+
+disallow: *promotion-nexthome*
+disallow: *promotion-china*
+disallow: *promotion-accentchairs*
+
+
+# Storage
+
+allow: /shop/department-homeware-productaffiliation-storage/category-jewellerystorage$
+allow: /shop/department-homeware-productaffiliation-storage/type-jewellerytree$
+
+# Storage Organisation
+disallow: /shop/department-homeware-productaffiliation-storageorganisation/*category-storage*
+disallow: /shop/department-homeware-productaffiliation-storageorganisation/*category-shelves*
+disallow: /shop/department-homeware-productaffiliation-storageorganisation/*category-ornaments*
+disallow: /shop/department-homeware-productaffiliation-storageorganisation/*category-drinkstorage*
+disallow: /shop/department-homeware-productaffiliation-storageorganisation/*category-kitchenstorageorganisation*
+disallow: /shop/department-homeware-productaffiliation-storageorganisation/*category-stoolsottomans*
+
+# Furniture
+allow: /shop/department-homeware-category-sofas/sofasize-2seats-sofasize-3seats$
+allow: /shop/department-homeware-productaffiliation-decorativeaccessories/category-photoframes-size-a4$
+allow: /shop/department-homeware-productaffiliation-furniture/feat-deliveryby$
+
+disallow: /shop/*productaffiliation-downstairsfurniture*
+disallow: /shop/*productaffiliation-livingroomfurniture*
+
+# Paint
+allow: /shop/department-homeware-productaffiliation-diy/category-paint-size-1litre$
+allow: /shop/department-homeware-productaffiliation-diy/category-paint-size-25litre$
+allow: /shop/department-homeware-productaffiliation-diy/category-paint-size-5litre$
+allow: /shop/department-homeware-productaffiliation-diy/category-paint-size-750ml$
+
+# Decorative Accessories
+
+allow: /shop/department-homeware-productaffiliation-decorativeaccessories/category-clocks-size-large$
+allow: /shop/department-homeware-productaffiliation-decorativeaccessories/category-clocks-size-small$
+allow: /shop/department-homeware-productaffiliation-decorativeaccessories/category-photoframes-size-large$
+allow: /shop/department-homeware-productaffiliation-decorativeaccessories/category-photoframes-size-small$
+allow: /shop/department-homeware-productaffiliation-decorativeaccessories/category-vases-size-large$
+allow: /shop/department-homeware-productaffiliation-decorativeaccessories/category-vases-size-small$
+
+# Bathrooms
+
+disallow: *bathshower*
+
+allow: /shop/department-homeware-productaffiliation-bathroomtextiles/category-bathmats-size-showermat$
+allow: /shop/department-homeware-productaffiliation-bathroomtextiles/category-towels-size-bathsheet$
+allow: /shop/department-homeware-productaffiliation-bathroomtextiles/category-towels-size-bathtowel$
+allow: /shop/department-homeware-productaffiliation-bathroomtextiles/category-towels-size-facecloths$
+allow: /shop/department-homeware-productaffiliation-bathroomtextiles/category-towels-size-handtowel$
+allow: /shop/department-homeware-productaffiliation-bathroomtextiles/category-bathmats-size-pedestalmat$
+
+disallow: /shop/department-homeware-productaffiliation-bathroom/*category-beachtowels*
+disallow: /shop/department-homeware-productaffiliation-bathroom/*category-towels*
+disallow: /shop/department-homeware-productaffiliation-bathroom/*category-bathmats*
+disallow: /shop/department-homeware-productaffiliation-bathroom/*category-towelbales*
+
+disallow: /shop/department-homeware-productaffiliation-bathroomfittings*
+allow:  /shop/department-homeware-productaffiliation-bathroomfittings/category-towelrails$
+allow:  /shop/department-homeware-productaffiliation-bathroomfittings-0$
+
+disallow: /shop/department-homeware-productaffiliation-bathroomfurniture*
+allow:  /shop/department-homeware-productaffiliation-bathroomfurniture-0$
+allow: /shop/department-homeware-productaffiliation-bathroomfurniture/category-cabinets-type-undersink$
+
+disallow: /shop/department-homeware-productaffiliation-bathroomaccessories*
+
+# Beds
+
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-headboards-size-king$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-headboards-size-double$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-headboards-size-superking$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-headboards-size-single$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-headboards-size-smalldouble$
+
+disallow: /shop/department-homeware-productaffiliation-bedsandmattresses/category-mattresses-size-single$
+disallow: /shop/department-homeware-productaffiliation-bedsandmattresses/category-mattresses-size-double$
+disallow: /shop/department-homeware-productaffiliation-bedsandmattresses/category-mattresses-size-king$
+disallow: /shop/department-homeware-productaffiliation-bedsandmattresses/category-mattresses-size-superking$
+
+disallow: /shop/department-homeware-productaffiliation-bedsandmattresses/category-beds-size-double$
+disallow: /shop/department-homeware-productaffiliation-bedsandmattresses/category-beds-size-king$
+disallow: /shop/department-homeware-productaffiliation-bedsandmattresses/category-beds-size-single$
+disallow: /shop/department-homeware-productaffiliation-bedsandmattresses/category-beds-size-smalldouble$
+disallow: /shop/department-homeware-productaffiliation-bedsandmattresses/category-beds-size-superking$
+
+disallow: /shop/department-homeware-productaffiliation-bedsandmattresses/category-mattresses-size-smalldouble$
+disallow: /shop/department-homeware-productaffiliation-bedsandmattresses/category-beds-size-single$
+disallow: /shop/department-homeware-productaffiliation-bedsandmattresses/category-beds-size-double$
+disallow: /shop/department-homeware-productaffiliation-bedsandmattresses/category-beds-size-smalldouble$
+disallow: /shop/department-homeware-productaffiliation-bedsandmattresses/category-beds-size-king$
+disallow: /shop/department-homeware-productaffiliation-bedsandmattresses/category-beds-size-superking$
+
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-superking$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-king$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-double$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-smalldouble$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-single$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-mattresses-size-superking$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-mattresses-size-king$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-mattresses-size-double$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-mattresses-size-smalldouble$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-mattresses-size-single$
+allow: /shop/department-homeware-productaffiliation-bedding/category-bedsets-size-single
+allow: /shop/department-homeware-productaffiliation-bedding/category-bedsets-size-superking
+allow: /shop/department-homeware-productaffiliation-bedding/category-bedsets-size-double
+allow: /shop/department-homeware-productaffiliation-bedding/category-bedsets-size-king
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-single
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-double
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-smalldouble
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-king
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-superking
+allow: /shop/department-homeware-productaffiliation-bedding/category-pillowcases-size-housewife$
+allow: /shop/department-homeware-productaffiliation-bedding/category-pillowcases-size-oxford$
+allow: /shop/department-homeware-productaffiliation-bedding/category-duvets-size-single
+allow: /shop/department-homeware-productaffiliation-bedding/category-duvets-size-double
+allow: /shop/department-homeware-productaffiliation-bedding/category-duvets-size-king
+allow: /shop/department-homeware-productaffiliation-bedding/category-duvets-size-superking
+
+allow: /shop/department-homeware-productaffiliation-bedding/category-bedsets-size-emperorking
+allow: /shop/department-homeware-productaffiliation-bedding/category-bedsets-size-smalldouble
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-emperorking
+allow: /shop/department-homeware-productaffiliation-bedding/size-single
+allow: /shop/department-homeware-productaffiliation-bedding/size-double
+allow: /shop/department-homeware-productaffiliation-bedding/size-king
+allow: /shop/department-homeware-productaffiliation-bedding/size-superking
+allow: /shop/department-homeware-productaffiliation-bedding/size-emperorking
+
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-king-style-ottoman
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-double-style-ottoman
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-material-wooden-size-king
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-single-type-storage
+
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-black-size-double$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-pink-size-single$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-pink-size-double$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-black-size-single$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-cream-size-double$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-black-size-king$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-pink-size-smalldouble$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-cream-size-king$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-black-size-smalldouble$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-white-size-single-type-ottoman$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-grey-size-double-type-ottoman$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-blue-size-double$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-blue-size-single$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-cream-size-single$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-green-size-double$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-grey-size-king-type-ottoman$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-white-size-smalldouble-type-ottoman$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-cream-size-smalldouble$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-white-size-single-type-storage$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-white-size-double-type-ottoman$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-cream-size-double-type-ottoman$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-pink-size-king$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-black-size-single-type-ottoman$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-green-size-king$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-pink-size-single-type-ottoman$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-black-size-double-type-ottoman$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-black-size-smalldouble-type-ottoman$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-blue-size-king$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-green-size-single$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-pink-size-double-type-ottoman$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-white-size-king-type-ottoman$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-white-size-double-type-storage$
+disallow: */department-homeware-productaffiliation-bedsandmattresses/*
+disallow: */department-homeware-productaffiliation-bedroomfurniture/category-beds*-type-childrens*
+
+disallow: /shop/*productaffiliation-duvetsandpillows*
+
+allow: /shop/department-homeware-productaffiliation-childrensbedding/size-toddler
+allow: /shop/department-homeware-productaffiliation-childrensbedding/size-single
+allow: /shop/department-homeware-productaffiliation-childrensbedding/size-double
+
+disallow: /shop/*productaffiliation-childrensbedroom*/*category-bedsets*
+disallow: /shop/*productaffiliation-childrensbedroom*/*category-throws*
+disallow: /shop/*productaffiliation-childrensbedroom*/*category-sleepbag*
+disallow: /shop/*productaffiliation-childrensbedroom*/*category-bedsheets*
+disallow: /shop/*productaffiliation-childrensbedroom*/*category-cushions*
+disallow: /shop/*productaffiliation-childrensbedroom*/*category-blankets*
+disallow: /shop/*productaffiliation-childrensbedroom*/*category-duvetcover*
+disallow: /shop/*productaffiliation-childrensbedroom*/*type-fittedsheet*
+disallow: /shop/*productaffiliation-childrensbedroom*/*type-babyblanket*
+disallow: /shop/*productaffiliation-childrensbedroom*/*type-flatsheet*
+disallow: /shop/*productaffiliation-childrensbedroom*/*type-fittedsheetsets*
+disallow: /shop/*productaffiliation-childrensbedroom*/*type-mattressprotectors*
+disallow: /shop/*productaffiliation-childrensbedroom/*type-bedspreads*
+disallow: /shop/*productaffiliation-childrensbedroom*/*type-childrensblanket*
+disallow: /shop/*productaffiliation-brandedbedlinen*/*category-bedsheets*
+disallow: /shop/*productaffiliation-brandedbedlinen*/*category-curtains*
+disallow: /shop/*productaffiliation-brandedbedlinen*/*category-cushions*
+disallow: /shop/*productaffiliation-brandedbedlinen*/*category-duvetcovers*
+disallow: /shop/*productaffiliation-brandedbedlinen*/*category-duvets*
+disallow: /shop/*productaffiliation-brandedbedlinen*/*category-pillowcases*
+disallow: /shop/*productaffiliation-brandedbedlinen*/*category-pillows*
+disallow: /shop/*productaffiliation-brandedbedlinen/*category-protectors*
+disallow: /shop/*productaffiliation-brandedbedlinen/*category-throws*
+disallow: /shop/*productaffiliation-brandedbedlinen*/*type-bedspreads*
+
+#Sofas
+disallow: /shop/department-homeware-category-sofas/*collection-*collection-*
+disallow: /shop/department-homeware-category-sofas/*sofasize-*sofasize-*
+disallow: /shop/department-homeware-category-sofas/*fabriccolour-*fabriccolour-*
+disallow: /shop/department-homeware-category-sofas/*fabrictype-*fabrictype-*
+disallow: /shop/department-homeware-category-sofas/*function-*function-*
+disallow: /shop/department-homeware-category-sofas/*style-*style-*
+disallow: /shop/department-homeware-category-sofas/*fabricdesign-*fabricdesign-*
+disallow: /shop/department-homeware-category-sofas/*sofatype-*sofatype-*
+
+
+disallow: /shop/department-homeware-productaffiliation-livingroom/category-sofas$
+disallow: /shop/department-homeware-productaffiliation-livingroom/category-sofas*
+
+allow:/shop/department-homeware-category-sofas/sofatype-2seatersofa-sofatype-chaise
+allow:/shop/department-homeware-category-sofas/sofatype-2seatersofa-sofatype-corner
+allow:/shop/department-homeware-category-sofas/sofatype-3seatersofa-sofatype-chaise
+allow:/shop/department-homeware-category-sofas/sofatype-3seatersofa-sofatype-corner
+allow:/shop/department-homeware-category-sofas/sofatype-4seatersofa-sofatype-corner
+
+allow:/shop/department-homeware-category-sofas/sofatype-chaise-sofatype-corner
+
+allow:/shop/department-homeware-productaffiliation-bathroomtextiles/category-bathmats-size-showermat
+allow:/shop/department-homeware-productaffiliation-decorativeaccessories/category-photoframes-size-10x8in
+allow:/shop/department-homeware-productaffiliation-decorativeaccessories/category-photoframes-size-6x4in
+allow:/shop/department-homeware-productaffiliation-decorativeaccessories/category-photoframes-size-7x5in
+allow:/shop/department-homeware-productaffiliation-decorativeaccessories/category-photoframes-size-8x6in
+
+#Curtains
+disallow: *promotion-curtains*
+disallow: /shop/category-curtains/*
+
+allow: /shop/department-homeware-productaffiliation-curtainsandblinds/category-curtains-style-readymade$
+allow: /shop/department-homeware-productaffiliation-curtainsandblinds/category-blinds-style-readymade$
+
+disallow: *style-readymade*
+
+allow: /shop/gender-men-productaffiliation-accessories/brand-calvinklein-category-bags-style-backpack$
+
+disallow: /shop/*productaffiliation-readymade-
+disallow: /shop/*/*style-madetomeasure
+disallow: *feat-deliverby*
+disallow: /shop/*/*feat-deliverby*
+disallow: *range-nextedit*
+disallow: *productaffiliation-beautyandgrooming*
+disallow: */gender-unisex-category-stoolsottomans*
+disallow: *use-grooming*
+
+disallow: *itemsize-*
+disallow: *promosearch-*
+
+allow: /shop/category-shorts/brand-nike-range-nikepro
+allow: /shop/category-shorts/brand-nike-colour-*-range-nikepro
+
+disallow: *use-swim*
+disallow: */gender-women-category-swimsuits/
+disallow: /shop/*/done
+disallow: */done
+
+allow: /shop/promotion-thankyouteacher/minprice-0-maxprice-1000
+
+disallow: /shop/gender-men-promotion-suits
+disallow: *use-straplessmultiway*
+disallow: *use-straplessmultiwaybrasolutions*
+disallow: /shop/*/*style-schoolshoes
+disallow: /shop/*productaffiliation-schoolaccessories*
+
+# Halloween
+allow: /shop/gender-newbornboys-gender-newborngirls-gender-newbornunisex-gender-youngerboys-gender-youngergirls-promotion-halloween-0$
+allow: /shop/gender-newbornboys-gender-newborngirls-gender-newbornunisex-gender-youngerboys-gender-youngergirls-promotion-pumpkin-0$
+
+disallow: /shop/*/*-pattern-pumpkin
+disallow: /shop/*/pattern-pumpkin
+disallow: /shop/promotion-pumpkin/*length-*
+disallow: /shop/promotion-pumpkin/plussizetall*
+disallow: /shop/promotion-pumpkin/*plussizetall*
+disallow: /shop/*giftsbyoccasion-*/*giftsbyoccasion-
+disallow: /shop/*promotion-*/brand-next*
+disallow: /shop/*promotion-*/*-brand-next*
+disallow: /shop/*promotion-pumpkin/size-*
+disallow: /shop/*promotion-pumpkin/*size-*
+disallow: /shop/*promotion-pumpkin/brand-next*
+disallow: /shop/*promotion-pumpkin/*brand-next*
+
+disallow: /shop/gender-olderboys-gender-youngerboys-promotion-halloween/0-homepage-category-pyjamas-promotions-pumpkin$
+disallow: /shop/gender-women-promotion-halloween/0-homepage-brand-longtallsally-promotions-pumpkinpicking$
+disallow: /shop/promotion-pumpkinpicking-0
+disallow: /shop/promotion-pumpkinpicking/*
+
+allow: /shop/gender-women-promotion-pumpkin/*
+allow: /shop/gender-newbornunisex-promotion-pumpkin/*
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-pumpkin/*
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-pumpkin/*
+
+allow: /shop/gender-women-promotion-halloween/*
+allow: /shop/gender-men-promotion-halloween/*
+allow: /shop/gender-newbornunisex-promotion-halloween/*
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-halloween/*
+
+allow: /shop/department-homeware-promotion-pumpkin-0$
+allow: /shop/department-homeware-promotion-halloween-0$
+
+disallow: /shop/department-homeware-promotion-pumpkin/*
+disallow: /shop/department-homeware-promotion-halloween/*
+
+disallow: /shop/gender-*-gender-*-promotion-pumpkin/category
+
+disallow: /shop/gender-*-promotion-pumpkin/category-*-*
+
+allow: /shop/gender-newbornboys-gender-newborngirls-gender-newbornunisex-gender-youngerboys-gender-youngergirls-promotion-pumpkin/category-*$
+disallow: /shop/gender-newbornboys-gender-newborngirls-gender-newbornunisex-gender-youngerboys-gender-youngergirls-promotion-pumpkin/category-*-*
+
+allow: /shop/gender-newbornboys-gender-newborngirls-gender-newbornunisex-gender-youngerboys-gender-youngergirls-promotion-halloween/category-*$
+disallow: /shop/gender-newbornboys-gender-newborngirls-gender-newbornunisex-gender-youngerboys-gender-youngergirls-promotion-halloween/category-*-*
+
+allow: /shop/gender-women-promotion-pumpkin-0$
+allow: /shop/gender-women-promotion-halloween-0$
+allow: /shop/gender-men-promotion-pumpkin-0$
+allow: /shop/gender-men-promotion-halloween-0$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-pumpkin-0$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-halloween-0$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-pumpkin-0$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-halloween-0$
+
+# Promo-school
+disallow: /shop/promotion-girlsteenschool-0
+disallow: /shop/promotion-girlsteenschool/productaffiliation-footwear
+disallow: /shop/promotion-girlsteenschool/occasion-sportswear
+disallow: /shop/promotion-boysteenschool-0
+disallow: /shop/promotion-boysteenschool/productaffiliation-footwear
+disallow: /shop/promotion-boysteenschool/occasion-sportswear
+disallow: /shop/promotion-girlscollege/productaffiliation-footwear
+disallow: /shop/promotion-boyscollege/productaffiliation-footwear
+
+disallow: /shop/promotion-schoolpromo2024-0*
+disallow: /shop/promotion-schoolpromo2024-0$
+
+# School
+
+disallow: *occasion-schoolwear*
+
+allow: /shop/department-childrenswear-productaffiliation-footwear/benefit-halfsize-use-schoolwear$
+allow: /shop/productaffiliation-schoolwear/benefit-stretch$
+allow: /shop/productaffiliation-schoolwear/benefit-multipack$
+allow: /shop/productaffiliation-schoolwear/benefit-adjustablewaist$
+allow: /shop/productaffiliation-schoolwear/benefit-teflon$
+allow: /shop/gender-oldergirls-gender-youngergirls-productaffiliation-footwear/benefit-halfsize-use-schoolwear$
+allow: /shop/gender-olderboys-gender-youngerboys-productaffiliation-footwear/benefit-halfsize-use-schoolwear$
+
+allow: /shop/gender-oldergirls-gender-youngergirls-productaffiliation-schoolwear/benefit-stretch-category-trousers$
+allow: /shop/gender-olderboys-gender-youngerboys-productaffiliation-schoolwear/benefit-stretch-category-trousers$
+
+## Prom is cancelled :(
+disallow: *use-promdresses*
+
+disallow: /shop/category-noveltygifts/*
+allow: /shop/category-noveltygifts-0$
+
+disallow: *newinbyday-last28days*
+disallow: /shop/*/t-use-*
+disallow: /shop/*/*-fit-$
+
+disallow: *productaffiliation-swimandbeachwear*
+disallow: *productaffiliation-girlsclothing*
+disallow: *0-lingeriecampaign*
+
+disallow: /*-$
+disallow: /shop/*-$
+disallow: /shop/*/*-$
+disallow: /shop/*/*/*-$
+disallow: /shop/*/*/*/*-$
+
+
+
+disallow: *c-star*
+disallow: /shop/c-star/
+disallow: /shop/*gender-*-c-star
+
+disallow: /shop/*/*-test-*
+disallow: /shop/*/test-*
+
+disallow: /shop/promotion-noveltychristmashomeware-0*
+
+
+disallow: /shop/department-homeware-promotion-autumndecor/*
+
+disallow: *0-homepage1*
+disallow: *0-homepage2*
+disallow: *0-homepage3*
+
+disallow: /shop/gender-women-*/*productaffiliation-trousersleggings*
+disallow: /shop/gender-women-productaffiliation-trousersleggings*
+disallow: *productaffiliation-trousersleggings*
+
+# Beauty
+
+allow: /shop/department-beauty-brand-clinique/range-moisturesurge$
+
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-justpink$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-codered$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-signature$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-cashmere$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-eaunude$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-paradise$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-codeblack$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-sparkle$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-summersun$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-captivate$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-gold$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-no85$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-signaturegold$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-whiteamber$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-amara$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-aura$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-chapter022$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-edition$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-icewhite$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-luminate$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-onlyone$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-signaturevert$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-define$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-divinity$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-embrace$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-love$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-signaturesuede$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-adorned$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-inspire$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/brand-next-range-lhomme$
+
+disallow: */*productaffiliation-haircare*
+disallow: /shop/*gender-*-productaffiliation-haircare*
+disallow: /shop/*department-*-productaffiliation-haircare*
+
+disallow: /shop/*gender-*-*productaffiliation-beautyelectrical*
+disallow: /shop/*gender-*gender-*-*productaffiliation-beautyelectrical*
+
+disallow: /shop/*gender-*-*department-beauty-productaffiliation-beautyelectrical*
+disallow: /shop/*gender-*gender-*-*department-beauty-productaffiliation-beautyelectrical*
+
+allow: /shop/department-beauty-gender-men-productaffiliation-beautyelectrical/category-shavershairtrimmers$
+allow: /shop/department-beauty-gender-men-productaffiliation-beautyelectrical/category-shavershairtrimmers-type-shaver$
+allow: /shop/department-beauty-gender-women-productaffiliation-beautyelectrical/category-shavershairtrimmers$
+allow: /shop/department-beauty-gender-women-productaffiliation-beautyelectrical/category-shavershairtrimmers-type-shaver$
+
+allow: /shop/department-beauty-gender-men-productaffiliation-beautyelectrical/brand-*-category-shavershairtrimmers$
+allow: /shop/department-beauty-gender-men-productaffiliation-beautyelectrical/brand-*-category-shavershairtrimmers-type-shaver$
+allow: /shop/department-beauty-gender-women-productaffiliation-beautyelectrical/brand-*-category-shavershairtrimmers$
+allow: /shop/department-beauty-gender-women-productaffiliation-beautyelectrical/brand-*-category-shavershairtrimmers-type-shaver$
+
+disallow: /shop/*/*type-wallpaper*
+allow: /shop/category-samples/type-wallpaper
+
+disallow: /shop/ak.*
+disallow: /shop/*/ak.*
+disallow: /shop/*/*/ak.*
+disallow: /shop/*/*/*/ak.*
+disallow: /shop/*/*/*/*/ak.*
+
+disallow: /shop/productaffiliation-tops*
+
+allow: /shop/*/*-madecom-feature
+
+disallow: /*?pp=
+disallow: /shop/*?pp=
+disallow: /shop/*/*?pp=
+disallow: /shop/*/*/*?pp=
+disallow: /shop/*/*/*/*?pp=
+disallow: /shop/*/*/*/*/*?pp=
+
+
+disallow: /shop/*range-hamish
+disallow: /shop/*/*range-hamish
+disallow: /shop/*/*/*range-hamish
+disallow: /shop/*/*/*/*range-hamish
+disallow: /shop/*/*/*/*/*range-hamish
+
+disallow: *countryselectchange*
+disallow: /shop/*countryselectchange*
+disallow: /shop/*/*countryselectchange*
+disallow: /shop/*/*/*countryselectchange*
+disallow: /shop/*/*/*/*countryselectchange*
+disallow: /shop/*/*/*/*/*countryselectchange*
+
+# Mothers Day
+allow: /shop/promotion-mothersdaygifts/minprice-0-maxprice-1000$
+
+# promotion
+disallow: /shop/promotion-*-productaffiliation-*
+disallow: /shop/promotion-*-gender-* 
+disallow: /shop/promotion-*-department-*
+disallow: /shop/productaffiliation-*-gender-*-promotion-* 
+disallow: /shop/productaffiliation-*-department-*-promotion-*
+
+disallow: /shop/*/*promotion-*
+
+# Christmas is not around around the corner
+disallow: *type-artificialwreath*
+
+disallow: /shop/department-homeware-promotion-christmaskitchenanddining*
+disallow: /shop/department-homeware-promotion-christmasathome*
+disallow: /shop/department-homeware-productaffiliation-bedding-promotion-christmasathome/use-christmas$
+disallow: /shop/department-homeware-productaffiliation-bedding-promotion-christmasathome/*-use-christmas$
+
+disallow: /shop/*category-christmastrees/*giftsbyoccasion-christmas*	
+disallow: /shop/*category-christmastrees/*use-christmas*	
+disallow: /shop/category-christmastrees-0	
+disallow: /shop/category-christmastrees/*	
+disallow: *productaffiliation-homeware*
+disallow: *roductaffiliation-christmashome*
+disallow: *promotion-multibrandchristmas*
+disallow: */shop/*promotion-christmasathome*/category-christmastrees
+
+allow: /shop/promotion-christmas/category-pets$
+
+
+allow: /shop/department-homeware-productaffiliation-bedding-promotion-christmasathome/size-double$
+allow: /shop/department-homeware-productaffiliation-bedding-promotion-christmasathome/size-king$
+allow: /shop/department-homeware-productaffiliation-bedding-promotion-christmasathome/size-single$
+allow: /shop/department-homeware-productaffiliation-bedding-promotion-christmasathome/size-superking$
+
+allow: /shop/productaffiliation-homefragrance-promotion-christmasathome-0*
+
+allow: /shop/promotion-christmas-0$
+disallow:/shop/promotion-christmas-0/*
+disallow: /shop/*-promotion-christmas/*
+disallow: /shop/*-promotion-christmas$
+disallow:  /shop/*-promotion-christmas-0
+disallow: /shop/promotion-christmas/*
+
+disallow: /shop/promotion-noveltygifts-0
+disallow: /shop/promotion-noveltygifts
+
+allow: /shop/promotion-christmasgifts/minprice-0-maxprice-500$
+allow: /shop/promotion-christmasgifts/minprice-0-maxprice-1000$
+allow: /shop/promotion-christmasgifts/minprice-0-maxprice-2000$
+allow: /shop/promotion-christmasgifts/minprice-0-maxprice-5000$
+allow: /shop/promotion-christmasgifts/minprice-0-maxprice-10000$
+allow: /shop/promotion-giftsforher/minprice-0-maxprice-1000$
+allow: /shop/promotion-giftsforher/minprice-0-maxprice-2000$
+allow: /shop/promotion-giftsforher/minprice-0-maxprice-3000$
+allow: /shop/promotion-giftsforher/minprice-0-maxprice-5000$
+allow: /shop/promotion-giftsforher/minprice-0-maxprice-10000$
+allow: /shop/promotion-giftsforhim/minprice-0-maxprice-1000$
+allow: /shop/promotion-giftsforhim/minprice-0-maxprice-2000$
+allow: /shop/promotion-giftsforhim/minprice-0-maxprice-3000$
+allow: /shop/promotion-giftsforhim/minprice-0-maxprice-5000$
+allow: /shop/promotion-giftsforhim/minprice-0-maxprice-10000$
+allow: /shop/promotion-secretsanta/minprice-0-maxprice-1000$
+allow: /shop/promotion-secretsanta/minprice-0-maxprice-2000$
+allow: /shop/promotion-childrengifts/minprice-0-maxprice-1000$
+allow: /shop/category-noveltygifts-0$
+allow: /gender-oldergirls-gender-youngergirls-promotion-noveltychristmasclothing-0$
+allow: /gender-olderboys-gender-youngerboys-promotion-noveltychristmasclothing-0$
+allow: /gender-olderboys-gender-youngerboys-promotion-noveltychristmasclothing
+allow: /shop/gender-women-promotion-noveltychristmasclothing-0$
+allow: /shop/gender-men-promotion-noveltychristmasclothing-0$
+allow: /shop/gender-men-promotion-christmasjumpers-0$
+allow: /shop/gender-women-promotion-christmasjumpers-0$
+allow: /shop/department-childrenswear-promotion-christmasjumpers-0$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-christmasjumpers-0$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-christmasjumpers-0$
+
+
+allow: /shop/gender-men-promotion-christmasnightwear-0$
+allow: /shop/gender-women-promotion-christmasnightwear-0$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-christmasnightwear-0$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-christmasnightwear-0$
+allow: /shop/department-childrenswear-promotion-christmasnightwear-0$
+
+allow: /shop/gender-women-promotion-secretsanta-0$
+allow: /shop/gender-men-promotion-secretsanta-0$
+allow: /shop/gender-men-promotion-stockingfillers-0$
+allow: /shop/gender-women-promotion-stockingfillers-0$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-stockingfillers-0$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-stockingfillers-0$
+
+allow: /shop/gender-women-productaffiliation-tops-promotion-noveltychristmasclothing-0$
+allow: /shop/gender-men-productaffiliation-tops-promotion-noveltychristmasclothing-0$
+allow: /shop/department-childrenswear-productaffiliation-tops-promotion-noveltychristmasclothing-0$
+allow: /shop/gender-oldergirls-gender-youngergirls-productaffiliation-tops-promotion-noveltychristmasclothing-0$
+allow: /shop/gender-olderboys-gender-youngerboys-productaffiliation-tops-promotion-noveltychristmasclothing-0$
+
+allow: /shop/gender-men-promotion-christmasjumpers/colour-black$
+allow: /shop/gender-men-promotion-christmasjumpers/colour-blue$
+allow: /shop/gender-men-promotion-christmasjumpers/colour-green$
+allow: /shop/gender-men-promotion-christmasjumpers/colour-grey$
+allow: /shop/gender-men-promotion-christmasjumpers/colour-natural$
+allow: /shop/gender-men-promotion-christmasjumpers/colour-red$
+allow: /shop/gender-men-promotion-christmasjumpers/material-wool$
+allow: /shop/gender-men-promotion-christmasjumpers/pattern-fairisle$
+allow: /shop/gender-men-promotion-christmasjumpers/personalised-canbepersonalised$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-christmasjumpers/pattern-fairisle$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-christmasjumpers/personalised-canbepersonalised$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-christmasjumpers/colour-blue$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-christmasjumpers/colour-red$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-christmasjumpers/colour-black$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-christmasjumpers/colour-grey$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-christmasjumpers/colour-pink$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-christmasjumpers/colour-black$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-christmasjumpers/colour-blue$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-christmasjumpers/colour-cream$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-christmasjumpers/colour-pink$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-christmasjumpers/colour-red$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-christmasjumpers/personalised-canbepersonalised$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-christmasjumpers/pattern-fairisle$
+allow: /shop/gender-women-promotion-christmasjumpers/colour-black$
+allow: /shop/gender-women-promotion-christmasjumpers/colour-blue$
+allow: /shop/gender-women-promotion-christmasjumpers/colour-cream$
+allow: /shop/gender-women-promotion-christmasjumpers/colour-green$
+allow: /shop/gender-women-promotion-christmasjumpers/colour-grey$
+allow: /shop/gender-women-promotion-christmasjumpers/colour-pink$
+allow: /shop/gender-women-promotion-christmasjumpers/colour-red$
+allow: /shop/gender-women-promotion-christmasjumpers/colour-white$
+allow: /shop/gender-women-promotion-christmasjumpers/material-wool$
+allow: /shop/gender-women-promotion-christmasjumpers/pattern-embellished$
+allow: /shop/gender-women-promotion-christmasjumpers/pattern-fairisle$
+allow: /shop/gender-women-promotion-christmasjumpers/pattern-sequin$
+allow: /shop/gender-women-promotion-christmasjumpers/personalised-canbepersonalised$
+allow: /shop/gender-women-promotion-christmasjumpers/sizetype-curve$
+allow: /shop/gender-women-promotion-christmasjumpers/sizetype-maternity$
+
+
+allow: /shop/gender-men-promotion-christmasnightwear/category-pyjamas$
+allow: /shop/gender-men-promotion-christmasnightwear/category-pyjamas-colour-grey$
+allow: /shop/gender-men-promotion-christmasnightwear/category-robes$
+allow: /shop/gender-men-promotion-christmasnightwear/category-slippers$
+allow: /shop/gender-men-promotion-christmasnightwear/colour-blue$
+allow: /shop/gender-men-promotion-christmasnightwear/colour-red$
+allow: /shop/gender-men-promotion-christmasnightwear/personalised-canbepersonalised$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-christmasnightwear/category-pyjamas$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-christmasnightwear/category-robes$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-christmasnightwear/category-slippers$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-christmasnightwear/personalised-canbepersonalised$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-christmasnightwear/category-pyjamas$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-christmasnightwear/category-robes$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-christmasnightwear/category-slippers$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-christmasnightwear/personalised-canbepersonalised$
+allow: /shop/gender-women-promotion-christmasnightwear/category-blankethoodies$
+allow: /shop/gender-women-promotion-christmasnightwear/category-nighties$
+allow: /shop/gender-women-promotion-christmasnightwear/category-pyjamas$
+allow: /shop/gender-women-promotion-christmasnightwear/category-pyjamas-colour-black$
+allow: /shop/gender-women-promotion-christmasnightwear/category-pyjamas-colour-blue$
+allow: /shop/gender-women-promotion-christmasnightwear/category-pyjamas-colour-cream$
+allow: /shop/gender-women-promotion-christmasnightwear/category-pyjamas-colour-red$
+allow: /shop/gender-women-promotion-christmasnightwear/category-robes$
+allow: /shop/gender-women-promotion-christmasnightwear/category-slippers$
+allow: /shop/gender-women-promotion-christmasnightwear/colour-black$
+allow: /shop/gender-women-promotion-christmasnightwear/colour-blue$
+allow: /shop/gender-women-promotion-christmasnightwear/colour-cream$
+allow: /shop/gender-women-promotion-christmasnightwear/colour-grey$
+allow: /shop/gender-women-promotion-christmasnightwear/colour-red$
+allow: /shop/gender-women-promotion-christmasnightwear/personalised-canbepersonalised$
+
+# Valentines
+
+disallow: *use-valentines*
+
+allow: /shop/promotion-valentinesforher-0$
+allow: /shop/promotion-valentinesforhim-0$
+allow: /shop/promotion-valentinesgiftsforthem-0$
+
+disallow: /shop/promotion-valentinesforher/*
+disallow: /shop/promotion-valentinesforhim/*
+disallow: /shop/promotion-valentinesgiftsforthem/*
+
+allow: /shop/gender-women-productaffiliation-lingerie-promotion-valentines/brand-annsummers$
+allow: /shop/gender-women-productaffiliation-lingerie-promotion-valentines/sizetype-curve$
+allow: /shop/gender-women-productaffiliation-lingerie-promotion-valentines/brand-victoriassecret$
+allow: /shop/gender-women-productaffiliation-lingerie-promotion-valentines/colour-red$
+allow: /shop/gender-women-productaffiliation-lingerie-promotion-valentines/colour-black$
+allow: /shop/gender-women-productaffiliation-lingerie-promotion-valentines/colour-pink$
+
+disallow: /shop/*/*-test-*
+disallow: /shop/*/*-test$
+disallow: /shop/*/*promosearch-test-*
+disallow: /shop/*/*promosearch-test$
+
+disallow: /shop/department-beauty-brand-travelsize-0
+
+allow: /shop/gender-women-productaffiliation-accessories/category-bags-style-backpack-use-workwear$
+
+allow: /shop/gender-women-productaffiliation-clothing/0-homepage-colour-red$
+
+disallow: *style-christmasnovelty*
+
+disallow: *fit-regular-*
+disallow: /shop/*fit-regular*
+disallow: /shop/*/*fit-regular*
+disallow: /shop/*/*/*fit-regular*
+disallow: /shop/*/*/*/*fit-regular*
+disallow: /shop/*/*/*/*/*fit-regular*
+
+disallow: *fit-regularwide-*
+disallow: /shop/*fit-regularwide*
+disallow: /shop/*/*fit-regularwide*
+disallow: /shop/*/*/*fit-regularwide*
+disallow: /shop/*/*/*/*fit-regularwide*
+disallow: /shop/*/*/*/*/*fit-regularwide*
+
+disallow: /shop/*0-*
+disallow: /shop/*/*0-*
+disallow: /shop/*/*/*0-*
+disallow: /shop/*/*/*/*0-*
+disallow: /shop/*/*/*/*/*0-*
+
+disallow: /shop/department-homeware-category-sofas/range-*
+disallow: /shop/department-homeware-category-sofas/*-range-*
+
+disallow: *productaffiliation-brandedkitchenware*
+disallow: /shop/*productaffiliation-brandedkitchenware*
+disallow: /shop/*/*productaffiliation-brandedkitchenware*
+disallow: /shop/*/*/*productaffiliation-brandedkitchenware*
+
+disallow: *productaffiliation-cookware*
+disallow: /shop/*productaffiliation-cookware*
+disallow: /shop/*/*productaffiliation-cookware*
+disallow: /shop/*/*/*productaffiliation-cookware*
+
+disallow: *productaffiliation-baking*
+disallow: /shop/*productaffiliation-baking*
+disallow: /shop/*/*productaffiliation-baking*
+disallow: /shop/*/*/*productaffiliation-baking*
+
+disallow: *productaffiliation-kitchenaccessories*
+disallow: /shop/*productaffiliation-kitchenaccessories*
+disallow: /shop/*/*productaffiliation-kitchenaccessories*
+disallow: /shop/*/*/*productaffiliation-kitchenaccessories*
+
+disallow: *productaffiliation-kitchentextiles*
+disallow: /shop/*productaffiliation-kitchentextiles*
+disallow: /shop/*/*productaffiliation-kitchentextiles*
+disallow: /shop/*/*/*productaffiliation-kitchentextiles*
+
+disallow: /shop/*productaffiliation-girlsclothing
+disallow: /shop/*/*productaffiliation-girlsclothing
+disallow: /shop/*/*/*productaffiliation-girlsclothing
+disallow: /shop/*/*/*/*productaffiliation-girlsclothing
+disallow: /shop/*/*/*/*/*productaffiliation-girlsclothing
+
+disallow: /shop/*productaffiliation-boysclothing
+disallow: /shop/*/*productaffiliation-boysclothing
+disallow: /shop/*/*/*productaffiliation-boysclothing
+disallow: /shop/*/*/*/*productaffiliation-boysclothing
+disallow: /shop/*/*/*/*/*productaffiliation-boysclothing
+
+disallow: /shop/*productaffiliation-babyclothing
+disallow: /shop/*/*productaffiliation-babyclothing
+disallow: /shop/*/*/*productaffiliation-babyclothing
+disallow: /shop/*/*/*/*productaffiliation-babyclothing
+disallow: /shop/*/*/*/*/*productaffiliation-babyclothing
+
+disallow: /shop/promotion-duratrek*
+
+disallow: *productaffiliation-adultbedroomfurniture*
+disallow: *productaffiliation-beanbags*
+disallow: *productaffiliation-bedroom-*
+disallow: *productaffiliation-bedroom/*
+disallow: *productaffiliation-bedsandmattresses*
+disallow: *productaffiliation-candlesandlanterns*
+disallow: *productaffiliation-ceilinglights*
+disallow: *productaffiliation-childrensbedroomfurniture*
+disallow: *productaffiliation-collarsleads*
+disallow: *productaffiliation-cupsmugsanddrinksbottles*
+disallow: *productaffiliation-cupsmugsdrinksbottles*
+disallow: *productaffiliation-decorating*
+disallow: *productaffiliation-duvetsandpillows*
+disallow: *productaffiliation-fireplaces*
+disallow: *productaffiliation-fireplacesandheaters*
+disallow: *productaffiliation-floorlights*
+disallow: *productaffiliation-kitchenaccessories*
+disallow: *productaffiliation-kitchenfurniture*
+disallow: *productaffiliation-lightingaccessories*
+disallow: *productaffiliation-mirrors*
+disallow: *productaffiliation-picnicware*
+disallow: *productaffiliation-plaindyebedding*
+disallow: *productaffiliation-planterspotsandsculptures*
+disallow: *productaffiliation-readymade*
+disallow: *productaffiliation-scion*
+disallow: *productaffiliation-sofas*
+disallow: *productaffiliation-storageandorganisation*
+disallow: *productaffiliation-toppersandprotectors*
+disallow: *productaffiliation-towelsandbathrobes*
+disallow: *productaffiliation-utilityandlaundry*
+disallow: *productaffiliation-walllights*
+disallow: *productaffiliation-williammorris*
+
+disallow: *duratrek*
+
+allow: /shop/promotion-eidgifts/minprice-0-maxprice-2000
+
+
+allow: /shop/department-beauty-productaffiliation-bathbody/category-bathbodygiftset-minprice-0-maxprice-3000$
+allow: /shop/department-beauty-productaffiliation-bathbody/category-bathbodygiftset-minprice-0-maxprice-2000$
+allow: /shop/department-beauty-productaffiliation-bathbody/category-bathbodygiftset-minprice-0-maxprice-1000$
+allow: /shop/department-beauty-productaffiliation-beautygifting/minprice-0-maxprice-3000$
+allow: /shop/department-beauty-productaffiliation-beautygifting/minprice-0-maxprice-2000$
+allow: /shop/department-beauty-productaffiliation-beautygifting/minprice-0-maxprice-1500$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/category-fragrancegiftsets-minprice-0-maxprice-2000$
+allow: /shop/department-beauty-productaffiliation-perfumeaftershave/category-fragrancegiftsets-minprice-0-maxprice-3000$
+allow: /shop/department-beauty-productaffiliation-skincare/category-skincaregiftset-minprice-0-maxprice-2000$
+
+# New Years
+allow: /shop/gender-women-promotion-newyearseve/category-dresses$
+
+# seasons
+allow: /seasons$
+disallow: /seasons/seasonsgift-guide*
+disallow: /seasons/the-guide/*
+
+"allow: /seasons/*brand-aninebing*
+allow: /seasons/*brand-rixo*
+allow: /seasons/*brand-toryburch*
+allow: /seasons/*brand-ganni*
+allow: /seasons/*brand-michaelkors*
+allow: /seasons/*brand-rotate*
+allow: /seasons/*brand-aspinaloflondon*
+allow: /seasons/*brand-apc*
+allow: /seasons/*brand-lesdeux*
+allow: /seasons/*brand-missoma*
+allow: /seasons/*brand-selfportait*
+allow: /seasons/*brand-ragbone*
+allow: /seasons/*brand-weekendmaxmara*
+allow: /seasons/*brand-viviennewestwood*
+allow: /seasons/*brand-universalworks*
+allow: /seasons/*brand-annilu*
+allow: /seasons/*brand-agolde*
+allow: /seasons/*brand-edwin*
+allow: /seasons/*brand-autry*
+allow: /seasons/*brand-hunzag*
+allow: /seasons/*brand-sportyrich*
+allow: /seasons/*brand-citizensofhumanity*
+allow: /seasons/*brand-joseph*
+allow: /seasons/*brand-nn07*
+allow: /seasons/*brand-folk*
+allow: /seasons/*brand-loefflerrandall*
+allow: /seasons/*brand-manuatelier*
+allow: /seasons/*brand-norseprojects*
+allow: /seasons/*brand-diemme*
+allow: /seasons/*brand-percival*
+allow: /seasons/*brand-oliverspencer*
+allow: /seasons/*brand-johnsmedley*
+allow: /seasons/*brand-frame*
+allow: /seasons/*brand-bymalenebirger*
+allow: /seasons/*brand-parajumpers*
+allow: /seasons/*brand-simkhai*
+allow: /seasons/*brand-herminaathens*
+allow: /seasons/*brand-stepneyworkersclub*
+allow: /seasons/*brand-seanewyork*
+allow: /seasons/*brand-desmonddempsey*
+allow: /seasons/*brand-balmain*
+allow: /seasons/*brand-grenson*
+allow: /seasons/*brand-velebrequin*
+allow: /seasons/*brand-neuwdenim*
+allow: /seasons/*brand-stagni*
+allow: /seasons/*brand-otiumberg*
+allow: /seasons/*brand-chintiparker*
+allow: /seasons/*brand-cdlp*
+allow: /seasons/*brand-adidasstellamccartney*
+allow: /seasons/*brand-marni*
+allow: /seasons/*brand-completedworks*
+allow: /seasons/*brand-stellamccartneykids*
+allow: /seasons/*brand-missoni*
+allow: /seasons/*brand-isabelmarant*
+allow: /seasons/*brand-frescobolcarioca*
+allow: /seasons/*brand-kenzo*
+
+disallow:  *brand-aninebing*
+disallow:  *brand-rixo*
+disallow:  *brand-toryburch*
+disallow:  *brand-ganni*
+disallow:  *brand-michaelkors*
+disallow:  *brand-rotate*
+disallow:  *brand-aspinaloflondon*
+disallow:  *brand-apc*
+disallow:  *brand-lesdeux*
+disallow:  *brand-missoma*
+disallow:  *brand-selfportait*
+disallow:  *brand-ragbone*
+disallow:  *brand-weekendmaxmara*
+disallow:  *brand-viviennewestwood*
+disallow:  *brand-universalworks*
+disallow:  *brand-annilu*
+disallow:  *brand-agolde*
+disallow:  *brand-edwin*
+disallow:  *brand-autry*
+disallow:  *brand-hunzag*
+disallow:  *brand-sportyrich*
+disallow:  *brand-citizensofhumanity*
+disallow:  *brand-joseph*
+disallow:  *brand-nn07*
+disallow:  *brand-folk*
+disallow:  *brand-loefflerrandall*
+disallow:  *brand-manuatelier*
+disallow:  *brand-norseprojects*
+disallow:  *brand-diemme*
+disallow:  *brand-percival*
+disallow:  *brand-oliverspencer*
+disallow:  *brand-johnsmedley*
+disallow:  *brand-frame*
+disallow:  *brand-bymalenebirger*
+disallow:  *brand-parajumpers*
+disallow:  *brand-simkhai*
+disallow:  *brand-herminaathens*
+disallow:  *brand-stepneyworkersclub*
+disallow:  *brand-seanewyork*
+disallow:  *brand-desmonddempsey*
+disallow:  *brand-balmain*
+disallow:  *brand-grenson*
+disallow:  *brand-velebrequin*
+disallow:  *brand-neuwdenim*
+disallow:  *brand-stagni*
+disallow:  *brand-otiumberg*
+disallow:  *brand-chintiparker*
+disallow:  *brand-cdlp*
+disallow:  *brand-adidasstellamccartney*
+disallow:  *brand-marni*
+disallow:  *brand-completedworks*
+disallow:  *brand-stellamccartneykids*
+disallow:  *brand-missoni*
+disallow:  *brand-isabelmarant*
+disallow:  *brand-frescobolcarioca*
+disallow:  *brand-kenzo*"
+
+# S_pdps
+disallow: /style/st296272/t11358
+disallow: /style/st258312/c30995
+disallow: /style/su332704/e05589
+disallow: /style/su200021/k86735
+disallow: /style/su332713/e05595
+disallow: /style/su200020/k86718
+disallow: /style/su338791/e11263
+disallow: /style/su338796/e11273
+disallow: /style/su342384/e15596
+disallow: /style/su342385/e15606
+disallow: /style/su342390/e15597
+disallow: /style/su342386/e15595
+disallow: /style/su342389/e15605
+disallow: /style/su342388/e15603
+disallow: /style/su342391/e15598
+disallow: /style/su342392/e15604
+disallow: /style/su342393/e15602
+disallow: /style/su342394/e15601
+disallow: /style/su342395/e15600
+disallow: /style/su342394/e15594
+disallow: /style/su342396/e15599
+disallow: /style/su397872/e80407
+disallow: /style/su444385/ad7818
+disallow: /style/su444388/ad7828
+disallow: /style/su444391/ad7826
+disallow: /style/su444389/ad7816
+disallow: /style/su444394/ad7827
+disallow: /style/su459296/ag2829
+disallow: /style/su459295/ag2828
+disallow: /style/su164973/q86212
+disallow: /style/su200019/k86716
+disallow: /style/su065737/c19797
+disallow: /style/st574039/402792
+disallow: /style/st890918/a44672
+disallow: /style/su578087/e72280
+disallow: /style/su505949/al8923
+disallow: /style/su505950/al8929
+disallow: /style/su505947/al8933
+disallow: /style/su505948/al8930
+disallow: /style/su505945/al8931
+disallow: /style/su505944/al8924
+disallow: /style/su505946/al8934
+disallow: /style/su505943/al8922
+
+allow: /shop/gender-women-productaffiliation-lingerie-promotion-valentines/category-bras
+allow: /shop/gender-women-promotion-eid/category-shoes
+
+disallow: *category-*productaffiliation-*
+disallow: *brand-*/*category-*
+disallow: *colour-*category-*
+disallow: *-use-*category-*
+disallow: */use-*category-*
+disallow: *material-*category-*
+disallow: *pattern-*category-*
+disallow: *style-*category-*
+disallow: *personalised-*category-*
+disallow: *sizetype-*category-*
+disallow: *fit-*category-*
+disallow: *activity-*/*category-*
+disallow: *benefit-*/*category-*
+disallow: *leglength-*category-*
+disallow: *leglength-*waistline-*
+disallow: *productaffiliation-tops*category-tops*
+disallow: *brand-*productaffiliation-*
+disallow: *colour-*productaffiliation-*
+disallow: *use-*productaffiliation-*
+disallow: *material-*productaffiliation-*
+disallow: *pattern-*productaffiliation-*
+disallow: *style-*productaffiliation-*
+disallow: *personalised-*productaffiliation-*
+disallow: *sizetype-*productaffiliation-*
+disallow: *fit-*productaffiliation-*
+disallow: *activity-*productaffiliation-*
+disallow: *benefit-*productaffiliation-*
+disallow: *leglength-*productaffiliation-*
+disallow: /shop/gender-women-productaffiliation-trousers*
+disallow: /shop/*brand-*/*-*
+disallow: /shop/*colour-*/*-*
+disallow: /shop/*use-*/*-*
+disallow: /shop/*material-*/*-*
+disallow: /shop/*pattern-*/*-*
+disallow: /shop/*style-*/*-*
+disallow: /shop/*personalised-*/*-*
+disallow: /shop/*sizetype-*/*-*
+disallow: /shop/*fit-*/*-*
+disallow: /shop/*activity-*/*-*
+disallow: /shop/*leglength-*/*-*
+disallow: /shop/*benefit-*/*-*
+disallow: /shop/*waistline-*/*-*
+disallow: *productaffiliation-*gender-*
+disallow: *category-*gender-*
+disallow: *gender-women-productaffiliation-jeans*
+disallow: *gender-men-productaffiliation-jeans*
+disallow: /shop/*-t-use*
+disallow: /shop/*-t-fit*
+disallow: *feat-deliveryby*
+disallow: *category-*gender-*
+disallow: /shop/gender-women-category-tanktops*
+disallow: /shop/gender-men-category-tanktops*
+disallow: /shop/gender-women-category-poloshirts*
+disallow: /shop/gender-women-category-tshirts*
+disallow: /shop/gender-women-category-blouses*
+disallow: /shop/gender-women-category-vests*
+disallow: /shop/gender-women-category-tunics*
+disallow: /shop/gender-women-category-bodies*
+disallow: /shop/gender-women-category-tops*
+disallow: /shop/gender-women-category-footballshirts*
+disallow: /shop/gender-women-category-camisoles*
+disallow: /shop/gender-women-category-waistcoats*
+disallow: /shop/gender-women-category-croptops*
+disallow: /shop/gender-women-category-boobtube*
+disallow: /shop/gender-women-category-rugbyshirts*
+disallow: /shop/gender-women-category-bodysuits*
+disallow: /shop/gender-women-category-coverups*
+
+
+
+# Subbrands
+disallow: /subbrand-*
+disallow: *subbrand-*subbrand-*
+disallow: *brand-adidas*subbrand-adidas-*
+disallow: *brand-allsaints*subbrand-allsaints-*
+disallow: *brand-barbour*subbrand-barbour-*
+disallow: *brand-calvinklein*subbrand-calvinklein-*
+disallow: *brand-friendslikethese*subbrand-friendslikethese-*
+disallow: *brand-ralphlauren*subbrand-ralphlauren-*
+disallow: *brand-victoriassecret*subbrand-victoriassecret-*
+disallow: *brand-tedbaker*subbrand-tedbaker-*
+disallow: *brand-armani*subbrand-armani-*
+disallow: *brand-hugoboss*subbrand-hugoboss-*
+disallow: *brand-tommyhilfiger*subbrand-tommyhilfiger-*
+disallow: *brand-adidas*subbrand-adidas/*
+disallow: *brand-allsaints*subbrand-allsaints/*
+disallow: *brand-barbour*subbrand-barbour/*
+disallow: *brand-calvinklein*subbrand-calvinklein/*
+disallow: *brand-friendslikethese*subbrand-friendslikethese/*
+disallow: *brand-ralphlauren*subbrand-ralphlauren/*
+disallow: *brand-victoriassecret*subbrand-victoriassecret/*
+disallow: *brand-tedbaker*subbrand-tedbaker/*
+disallow: *brand-armani*subbrand-armani/*
+disallow: *brand-hugoboss*subbrand-hugoboss/*
+disallow: *brand-tommyhilfiger*subbrand-tommyhilfiger/*
+disallow: *brand-carharttwip*
+allow: /seasons/shop/brand-carharttwip*
+
+disallow: /bag/
+disallow: *category...*
+disallow: *.-*
+
+disallow: *-gender-multi-*
+disallow: /gender-multi-*
+disallow: /shop/*-gender-multi-*
+disallow: /shop/*gender-multi-*
+disallow: /shop/gender-multi-*
+disallow: /shop/gender-multi-
+
+
+allow: /use-wedding-*
+allow: *-use-wedding-*
+
+allow: /shop/gender-women-productaffiliation-wedding-0$
+allow: /shop/gender-men-productaffiliation-wedding-0$
+allow: /shop/gender-newborn*-productaffiliation-wedding-0$
+allow: /shop/gender-younger*-productaffiliation-wedding-0$
+allow: /shop/gender-older*-productaffiliation-wedding-0$
+
+disallow: /shop/gender-women-productaffiliation-wedding/*
+disallow: /shop/gender-men-productaffiliation-wedding/*
+disallow: /shop/gender-newborn*-productaffiliation-wedding/*
+disallow: /shop/gender-younger*-productaffiliation-wedding/*
+disallow: /shop/gender-older*-productaffiliation-wedding/*
+
+disallow: /shop/*/*wedding-wedding
+
+
+disallow: *-productaffiliation-suitsandtailoring
+disallow: /shop/gender-men-productaffiliation-suits*giftsbyoccasion-*
+disallow: /find/
+
+disallow: *productaffiliation-prom*
+
+disallow: *?crlt.pid=*
+disallow: *feat-sale*
+
+disallow: *productaffiliation-fragrancescandles*
+disallow: /shop/*/*-t-category
+
+allow: /shop/gender-newbornboys-gender-newborngirls-gender-newbornunisex-promotion-eid/category-rompersuits$
+allow: /shop/gender-newbornboys-gender-newborngirls-gender-newbornunisex-promotion-eid/category-dresses$
+
+disallow: /shop/promotion-homewaremothersdaygifts
+
+allow: /shop/department-homeware-promotion-mothersdaygifts-0
+disallow: /shop/department-homeware-promotion-mothersdaygifts/
+
+disallow: /homeware/sofasbylauraashley
+
+allow: /shop/department-homeware/range-premium$
+
+disallow: *type-bikinibottom*
+
+disallow: /shop/*/occasion-*
+disallow: /shop/*/*-occasion-*
+disallow: *occasion-loungewear*
+
+allow: /shop/*productaffiliation-flowersplants/*-occasion-
+allow: /shop/*productaffiliation-flowersplants/occasion-
+
+allow: /shop/productaffiliation-wedding-0$
+allow: /shop/gender-women-productaffiliation-wedding-0$
+allow: /shop/gender-men-productaffiliation-wedding-0$
+allow: /shop/gender-oldergirls-gender-youngergirls-productaffiliation-wedding-0$
+allow: /shop/gender-olderboys-gender-youngerboys-productaffiliation-wedding-0$
+allow: /shop/productaffiliation-wedding/use-bridal$
+allow: /shop/productaffiliation-wedding/use-bridesmaid$
+allow: /shop/productaffiliation-wedding/use-groom$
+allow: /shop/productaffiliation-wedding/use-motherofthebride$
+allow: /shop/productaffiliation-wedding/use-weddingguest$
+allow: /shop/gender-women-productaffiliation-wedding/use-weddingguest$
+allow: /shop/gender-men-productaffiliation-wedding/use-weddingguest$
+allow: /shop/productaffiliation-wedding/use-flowergirl$
+allow: /shop/productaffiliation-wedding/use-pageboy$
+
+disallow: /shop/*promotions-tppublish
+
+disallow: /shop/*productaffiliation-diningroom$
+disallow: /shop/*productaffiliation-diningroom/
+
+disallow: /shop/*/*productaffiliation-wedding
+disallow: /shop/*/*promotion-wedding
+
+disallow: /shop/*/*-wedding-wedding
+disallow: /shop/*/*-wedding-flowergirl
+disallow: /shop/*/*-wedding-bride
+disallow: /shop/*/*-wedding-groom
+disallow: /shop/*/*-wedding-motherofthebride
+disallow: /shop/*/*-wedding-motherofthegroom
+disallow: /shop/*/*-wedding-fatherofthebride
+disallow: /shop/*/*-wedding-fatherofthegroom
+disallow: /shop/*/*-wedding-groomsmen
+disallow: /shop/*/*-wedding-groomsman
+disallow: /shop/*/*-wedding-bestman
+disallow: /shop/*/*-wedding-maidofhonour
+disallow: /shop/*/*-wedding-flowerboy
+disallow: /shop/*/*-wedding-ringbearer
+
+disallow: /shop/*/wedding-wedding
+disallow: /shop/*/wedding-flowergirl
+disallow: /shop/*/wedding-bride
+disallow: /shop/*/wedding-groom
+disallow: /shop/*/wedding-motherofthebride
+disallow: /shop/*/wedding-motherofthegroom
+disallow: /shop/*/wedding-fatherofthebride
+disallow: /shop/*/wedding-fatherofthegroom
+disallow: /shop/*/wedding-groomsmen
+disallow: /shop/*/wedding-groomsman
+disallow: /shop/*/wedding-bestman
+disallow: /shop/*/wedding-maidofhonour
+disallow: /shop/*/wedding-flowerboy
+disallow: /shop/*/wedding-ringbearer
+
+allow: /shop/gender-women/sizetype-petite$
+allow: /gender-women/sizetype-maternity$
+allow: /shop/gender-women/sizetype-tall$
+allow: /shop/gender-women/sizetype-curve$
+allow: /shop/gender-women-sizetype-dd$
+
+disallow: /shop/*/madewith-
+disallow: /shop/*/*-madewith-
+
+disallow: /shop/*/*newinbyday-
+
+disallow: /shop/*-a-*
+disallow: /shop/*-b-*
+disallow: /shop/*-c-*
+disallow: /shop/*-d-*
+disallow: /shop/*-e-*
+disallow: /shop/*-f-*
+disallow: /shop/*-g-*
+disallow: /shop/*-h-*
+disallow: /shop/*-i-*
+disallow: /shop/*-j-*
+disallow: /shop/*-k-*
+disallow: /shop/*-l-*
+disallow: /shop/*-m-*
+disallow: /shop/*-n-*
+disallow: /shop/*-o-*
+disallow: /shop/*-p-*
+disallow: /shop/*-q-*
+disallow: /shop/*-r-*
+disallow: /shop/*-s-*
+disallow: /shop/*-t-*
+disallow: /shop/*-u-*
+disallow: /shop/*-v-*
+disallow: /shop/*-w-*
+disallow: /shop/*-x-*
+disallow: /shop/*-y-*
+disallow: /shop/*-z-*
+
+disallow: /shop/*/*-a-*
+disallow: /shop/*/*-b-*
+disallow: /shop/*/*-c-*
+disallow: /shop/*/*-d-*
+disallow: /shop/*/*-e-*
+disallow: /shop/*/*-f-*
+disallow: /shop/*/*-g-*
+disallow: /shop/*/*-h-*
+disallow: /shop/*/*-i-*
+disallow: /shop/*/*-j-*
+disallow: /shop/*/*-k-*
+disallow: /shop/*/*-l-*
+disallow: /shop/*/*-m-*
+disallow: /shop/*/m-*
+disallow: /shop/*/*-n-*
+disallow: /shop/*/*-o-*
+disallow: /shop/*/*-p-*
+disallow: /shop/*/*-q-*
+disallow: /shop/*/*-r-*
+disallow: /shop/*/*-s-*
+disallow: /shop/*/*-t-*
+disallow: /shop/*/*-u-*
+disallow: /shop/*/*-v-*
+disallow: /shop/*/*-w-*
+disallow: /shop/*/*-x-*
+disallow: /shop/*/*-y-*
+disallow: /shop/*/*-z-*
+
+disallow: *gender-homeware*
+disallow: *gender-beauty*
+
+allow: /shop/gender-men-productaffiliation-prom-0$
+
+disallow: /shop/*/*use-lingerie*
+disallow: /shop/*use-lingerie*
+
+allow: /shop/promotion-fathersdaygifts/minprice-0-maxprice-2000$
+
+disallow: /shop/*-promotion-fathersdaydressing*
+disallow: /shop/promotion-fathersdaydressing*
+disallow: /shop/*-promotion-fathersdaybrands*
+disallow: /shop/promotion-fathersdaybrands*
+disallow: /shop/*productaffiliation-gifts/giftsbyoccasion-fathersday*
+disallow: /shop/productaffiliation-gifts/giftsbyoccasion-*-giftsbyoccasion-*
+disallow: /shop/productaffiliation-gifts/giftsbyoccasion-fathersday-recipient-*
+
+disallow: /shop/*/promotions-
+disallow: /shop/*/*-promotions-
+
+disallow: /shop/*productaffiliation-gifts/*-occasion-*-occasion-*
+
+disallow: /homeware/sofa-collection#all_Mx:12
+
+allow: /shop/gender-women-productaffiliation-clothing/style-coord$
+
+allow: /shop/productaffiliation-schoolwear/benefit-machinewashable-range-dressingmadeeasy$
+allow: /shop/productaffiliation-schoolwear/benefit-tumbledryable-range-dressingmadeeasy$
+allow: /shop/productaffiliation-schoolwear/benefit-easyiron-range-dressingmadeeasy$
+allow: /shop/productaffiliation-schoolwear/benefit-teflon-range-dressingmadeeasy$
+allow: /shop/productaffiliation-schoolwear/benefit-adjustablewaist-range-dressingmadeeasy$
+allow: /shop/productaffiliation-schoolwear/benefit-stretch-range-dressingmadeeasy$
+
+allow: /shop/gender-oldergirls-gender-youngergirls-productaffiliation-schoolwear/benefit-machinewashable-range-dressingmadeeasy$
+allow: /shop/gender-oldergirls-gender-youngergirls-productaffiliation-schoolwear/benefit-tumbledryable-range-dressingmadeeasy$
+allow: /shop/gender-oldergirls-gender-youngergirls-productaffiliation-schoolwear/benefit-easyiron-range-dressingmadeeasy$
+allow: /shop/gender-oldergirls-gender-youngergirls-productaffiliation-schoolwear/benefit-teflon-range-dressingmadeeasy$
+allow: /shop/gender-oldergirls-gender-youngergirls-productaffiliation-schoolwear/benefit-adjustablewaist-range-dressingmadeeasy$
+allow: /shop/gender-oldergirls-gender-youngergirls-productaffiliation-schoolwear/benefit-stretch-range-dressingmadeeasy$
+allow: /shop/gender-olderboys-gender-youngerboys-productaffiliation-schoolwear/benefit-machinewashable-range-dressingmadeeasy$
+allow: /shop/gender-olderboys-gender-youngerboys-productaffiliation-schoolwear/benefit-tumbledryable-range-dressingmadeeasy$
+allow: /shop/gender-olderboys-gender-youngerboys-productaffiliation-schoolwear/benefit-easyiron-range-dressingmadeeasy$
+allow: /shop/gender-olderboys-gender-youngerboys-productaffiliation-schoolwear/benefit-teflon-range-dressingmadeeasy$
+allow: /shop/gender-olderboys-gender-youngerboys-productaffiliation-schoolwear/benefit-adjustablewaist-range-dressingmadeeasy$
+allow: /shop/gender-olderboys-gender-youngerboys-productaffiliation-schoolwear/benefit-stretch-range-dressingmadeeasy$
+
+disallow: *occasion-beachwear*
+
+disallow: */productaffiliation-boyssuits/*
+
+allow: /shop/promotion-fathersdaygifts/minprice-0-maxprice-5000$
+allow: /shop/promotion-fathersdaygifts/minprice-0-maxprice-1000$
+
+disallow: /shop/*/*type-standard*
+
+#Beds
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/brand-silentnight-category-mattresses-size-single$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/brand-silentnight-category-mattresses-size-double$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/brand-silentnight-category-mattresses-size-king$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/brand-silentnight-category-mattresses-size-superking$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/brand-silentnight-category-mattresses-size-smalldouble$
+
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-grey-size-double$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-grey-size-king$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-grey-size-single$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-grey-size-smalldouble$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-white-size-double$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-white-size-king$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-white-size-single$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-colour-white-size-smalldouble$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-finish-oakeffect-size-double$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-finish-oakeffect-size-king$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-finish-oakeffect-size-single$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-finish-oakeffect-size-smalldouble$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-finish-oakeffect-size-superking$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-material-metal-size-double$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-material-metal-size-king$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-material-metal-size-single$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-material-metal-size-smalldouble$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-material-metal-size-superking$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-material-wooden-size-double$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-material-wooden-size-single$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-material-wooden-size-smalldouble$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-material-wooden-size-superking$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-double-type-divan$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-double-type-ottoman$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-double-type-storage$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-double-type-tvbed$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-double-type-withdrawers$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-king-type-divan$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-king-type-fourposter$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-king-type-ottoman$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-king-type-storage$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-king-type-tvbed$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-king-type-withdrawers$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-single-type-daybed$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-single-type-divan$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-single-type-trundle$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-single-type-withdrawers$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-smalldouble-type-storage$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-smalldouble-type-withdrawers$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-superking-type-divan$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-superking-type-storage$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-superking-type-tvbed$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-size-superking-type-withdrawers$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/category-beds-material-wooden-size-double-type-ottoman$
+
+disallow: *productaffiliation-adultbedroomfurniture*
+
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/brand-emma-category-mattresses-size-double$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/brand-emma-category-mattresses-size-king$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/brand-emma-category-mattresses-size-single$
+allow: /shop/department-homeware-productaffiliation-bedroomfurniture/brand-emma-category-mattresses-size-superking$
+
+allow: /shop/department-homeware-productaffiliation-gifts-0$
+disallow: *department-homeware-productaffiliation-accessories-*
+disallow: *department-homeware-productaffiliation-accessories/*
+disallow: *department-homeware-productaffiliation-all-*
+disallow: *department-homeware-productaffiliation-all/*
+disallow: *department-homeware-productaffiliation-allaccessories-*
+disallow: *department-homeware-productaffiliation-allaccessories/*
+disallow: *department-homeware-productaffiliation-allalcohol-*
+disallow: *department-homeware-productaffiliation-allalcohol/*
+disallow: *department-homeware-productaffiliation-allbeauty-*
+disallow: *department-homeware-productaffiliation-allbeauty/*
+disallow: *department-homeware-productaffiliation-baby-*
+disallow: *department-homeware-productaffiliation-baby/*
+disallow: *department-homeware-productaffiliation-babyessentials-*
+disallow: *department-homeware-productaffiliation-babyessentials/*
+disallow: *department-homeware-productaffiliation-babyfoodstoragepreparation-*
+disallow: *department-homeware-productaffiliation-babyfoodstoragepreparation/*
+disallow: *department-homeware-productaffiliation-babygrowsandrompers-*
+disallow: *department-homeware-productaffiliation-babygrowsandrompers/*
+disallow: *department-homeware-productaffiliation-babysleep-*
+disallow: *department-homeware-productaffiliation-babysleep/*
+disallow: *department-homeware-productaffiliation-babytowels-*
+disallow: *department-homeware-productaffiliation-babytowels/*
+disallow: *department-homeware-productaffiliation-babytravel-*
+disallow: *department-homeware-productaffiliation-babytravel/*
+disallow: *department-homeware-productaffiliation-bags-*
+disallow: *department-homeware-productaffiliation-bags/*
+disallow: *department-homeware-productaffiliation-bagspursesluggage-*
+disallow: *department-homeware-productaffiliation-bagspursesluggage/*
+disallow: *department-homeware-productaffiliation-bathbody-*
+disallow: *department-homeware-productaffiliation-bathbody/*
+disallow: *department-homeware-productaffiliation-bathshower-*
+disallow: *department-homeware-productaffiliation-bathshower/*
+disallow: *department-homeware-productaffiliation-bathtime-*
+disallow: *department-homeware-productaffiliation-bathtime/*
+disallow: *department-homeware-productaffiliation-beachwear-*
+disallow: *department-homeware-productaffiliation-beachwear/*
+disallow: *department-homeware-productaffiliation-beautyelectrical-*
+disallow: *department-homeware-productaffiliation-beautyelectrical/*
+disallow: *department-homeware-productaffiliation-beautygifting-*
+disallow: *department-homeware-productaffiliation-beautygifting/*
+disallow: *department-homeware-productaffiliation-beautytools-*
+disallow: *department-homeware-productaffiliation-beautytools/*
+disallow: *department-homeware-productaffiliation-bedlinensets-*
+disallow: *department-homeware-productaffiliation-bedlinensets/*
+disallow: *department-homeware-productaffiliation-bodycare-*
+disallow: *department-homeware-productaffiliation-bodycare/*
+disallow: *department-homeware-productaffiliation-cardsandwrap-*
+disallow: *department-homeware-productaffiliation-cardsandwrap/*
+disallow: *department-homeware-productaffiliation-charactershop-*
+disallow: *department-homeware-productaffiliation-charactershop/*
+disallow: *department-homeware-productaffiliation-christmasclothing-*
+disallow: *department-homeware-productaffiliation-christmasclothing/*
+disallow: *department-homeware-productaffiliation-clothing-*
+disallow: *department-homeware-productaffiliation-clothing/*
+disallow: *department-homeware-productaffiliation-clothingandfootwear-*
+disallow: *department-homeware-productaffiliation-clothingandfootwear/*
+disallow: *department-homeware-productaffiliation-coatsandjackets-*
+disallow: *department-homeware-productaffiliation-coatsandjackets/*
+disallow: *department-homeware-productaffiliation-designerbrands-*
+disallow: *department-homeware-productaffiliation-designerbrands/*
+disallow: *department-homeware-productaffiliation-disney-*
+disallow: *department-homeware-productaffiliation-disney/*
+disallow: *department-homeware-productaffiliation-fabricbythemetre-*
+disallow: *department-homeware-productaffiliation-fabricbythemetre/*
+disallow: *department-homeware-productaffiliation-flowersplants-*
+disallow: *department-homeware-productaffiliation-flowersplants/*
+disallow: *department-homeware-productaffiliation-fooddrinkgifts-*
+disallow: *department-homeware-productaffiliation-fooddrinkgifts/*
+disallow: *department-homeware-productaffiliation-footwear-*
+disallow: *department-homeware-productaffiliation-footwear/*
+disallow: *department-homeware-productaffiliation-footwearandaccessories-*
+disallow: *department-homeware-productaffiliation-footwearandaccessories/*
+disallow: *department-homeware-productaffiliation-fortnite-*
+disallow: *department-homeware-productaffiliation-fortnite/*
+disallow: *department-homeware-productaffiliation-giftbagswrap-*
+disallow: *department-homeware-productaffiliation-giftbagswrap/*
+disallow: *department-homeware-productaffiliation-gifts-*
+disallow: *department-homeware-productaffiliation-gifts/*
+disallow: *department-homeware-productaffiliation-hairstylingtools-*
+disallow: *department-homeware-productaffiliation-hairstylingtools/*
+disallow: *department-homeware-productaffiliation-hatsglovesandscarves-*
+disallow: *department-homeware-productaffiliation-hatsglovesandscarves/*
+disallow: *department-homeware-productaffiliation-hatsglovesscarves-*
+disallow: *department-homeware-productaffiliation-hatsglovesscarves/*
+disallow: *department-homeware-productaffiliation-hotwaterbottle-*
+disallow: *department-homeware-productaffiliation-hotwaterbottle/*
+disallow: *department-homeware-productaffiliation-jewellery-*
+disallow: *department-homeware-productaffiliation-jewellery/*
+disallow: *department-homeware-productaffiliation-jumpersandcardigans-*
+disallow: *department-homeware-productaffiliation-jumpersandcardigans/*
+disallow: *department-homeware-productaffiliation-knittedclothing-*
+disallow: *department-homeware-productaffiliation-knittedclothing/*
+disallow: *department-homeware-productaffiliation-knitwear-*
+disallow: *department-homeware-productaffiliation-knitwear/*
+disallow: *department-homeware-productaffiliation-laundry-*
+disallow: *department-homeware-productaffiliation-laundry/*
+disallow: *department-homeware-productaffiliation-loungewear-*
+disallow: *department-homeware-productaffiliation-loungewear/*
+disallow: *department-homeware-productaffiliation-luggage-*
+disallow: *department-homeware-productaffiliation-luggage/*
+disallow: *department-homeware-productaffiliation-luxurybrands-*
+disallow: *department-homeware-productaffiliation-luxurybrands/*
+disallow: *department-homeware-productaffiliation-makeup-*
+disallow: *department-homeware-productaffiliation-makeup/*
+disallow: *department-homeware-productaffiliation-marvel-*
+disallow: *department-homeware-productaffiliation-marvel/*
+disallow: *department-homeware-productaffiliation-minecraft-*
+disallow: *department-homeware-productaffiliation-minecraft/*
+disallow: *department-homeware-productaffiliation-newborn-*
+disallow: *department-homeware-productaffiliation-newborn/*
+disallow: *department-homeware-productaffiliation-newbornfashionaccessories-*
+disallow: *department-homeware-productaffiliation-newbornfashionaccessories/*
+disallow: *department-menswear*
+disallow: *department-womenswear*
+disallow: *productaffiliation-womenswear*
+disallow: *department-homeware-productaffiliation-nightwear-*
+disallow: *department-homeware-productaffiliation-nightwear/*
+disallow: *department-homeware-productaffiliation-nightwearandlingerie-*
+disallow: *department-homeware-productaffiliation-nightwearandlingerie/*
+disallow: *department-homeware-productaffiliation-nightwearandloungewear-*
+disallow: *department-homeware-productaffiliation-nightwearandloungewear/*
+disallow: *department-homeware-productaffiliation-organicbaby-*
+disallow: *department-homeware-productaffiliation-organicbaby/*
+disallow: *department-homeware-productaffiliation-outerwear-*
+disallow: *department-homeware-productaffiliation-outerwear/*
+disallow: *department-homeware-productaffiliation-pawpatrol-*
+disallow: *department-homeware-productaffiliation-pawpatrol/*
+disallow: *department-homeware-productaffiliation-peppapig-*
+disallow: *department-homeware-productaffiliation-peppapig/*
+disallow: *department-homeware-productaffiliation-performancesportswear-*
+disallow: *department-homeware-productaffiliation-performancesportswear/*
+disallow: *department-homeware-productaffiliation-perfumeaftershave-*
+disallow: *department-homeware-productaffiliation-perfumeaftershave/*
+disallow: *department-homeware-productaffiliation-personalcare-*
+disallow: *department-homeware-productaffiliation-personalcare/*
+disallow: *department-homeware-productaffiliation-personalisedgifting-*
+disallow: *department-homeware-productaffiliation-personalisedgifting/*
+disallow: *department-homeware-productaffiliation-premiumcollection-*
+disallow: *department-homeware-productaffiliation-premiumcollection/*
+disallow: *department-homeware-productaffiliation-schoolwear-*
+disallow: *department-homeware-productaffiliation-schoolwear/*
+disallow: *department-homeware-productaffiliation-shortsandskirts-*
+disallow: *department-homeware-productaffiliation-shortsandskirts/*
+disallow: *department-homeware-productaffiliation-shortsskirts-*
+disallow: *department-homeware-productaffiliation-shortsskirts/*
+disallow: *department-homeware-productaffiliation-skincare-*
+disallow: *department-homeware-productaffiliation-skincare/*
+disallow: *department-homeware-productaffiliation-skirts-*
+disallow: *department-homeware-productaffiliation-skirts/*
+disallow: *department-homeware-productaffiliation-sleepwear-*
+disallow: *department-homeware-productaffiliation-sleepwear/*
+disallow: *department-homeware-productaffiliation-socksandaccessories-*
+disallow: *department-homeware-productaffiliation-socksandaccessories/*
+disallow: *department-homeware-productaffiliation-sportlounge-*
+disallow: *department-homeware-productaffiliation-sportlounge/*
+disallow: *department-homeware-productaffiliation-sportswear-*
+disallow: *department-homeware-productaffiliation-sportswear/*
+disallow: *department-homeware-productaffiliation-starwars-*
+disallow: *department-homeware-productaffiliation-starwars/*
+disallow: *department-homeware-productaffiliation-stationery-*
+disallow: *department-homeware-productaffiliation-stationery/*
+disallow: *department-homeware-productaffiliation-sunglasses-*
+disallow: *department-homeware-productaffiliation-sunglasses/*
+disallow: *department-homeware-productaffiliation-swaddles-*
+disallow: *department-homeware-productaffiliation-swaddles/*
+disallow: *department-homeware-productaffiliation-sweatshirtsandhoodies-*
+disallow: *department-homeware-productaffiliation-sweatshirtsandhoodies/*
+disallow: *department-homeware-productaffiliation-swim-*
+disallow: *department-homeware-productaffiliation-swim/*
+disallow: *department-homeware-productaffiliation-tops-*
+disallow: *department-homeware-productaffiliation-tops/*
+disallow: *department-homeware-productaffiliation-topsandbodies-*
+disallow: *department-homeware-productaffiliation-topsandbodies/*
+disallow: *department-homeware-productaffiliation-topsandtshirts-*
+disallow: *department-homeware-productaffiliation-topsandtshirts/*
+disallow: *department-homeware-productaffiliation-topssweats-*
+disallow: *department-homeware-productaffiliation-topssweats/*
+disallow: *department-homeware-productaffiliation-travelaccessories-*
+disallow: *department-homeware-productaffiliation-travelaccessories/*
+disallow: *department-homeware-productaffiliation-watches-*
+disallow: *department-homeware-productaffiliation-watches/*
+disallow: *department-homeware-productaffiliation-wellness-*
+disallow: *department-homeware-productaffiliation-wellness/*
+disallow: *department-homeware-productaffiliation-womenswear-*
+disallow: *department-homeware-productaffiliation-womenswear/*
+
+disallow: /shop/promotion-valentineslingerieandnightwear*
+disallow: /shop/promotion-pastellingerie
+disallow: /shop/productaffiliation-lingerie
+
+disallow: /shop/promotion-giftingelectricals/*
+
+disallow: *productaffiliation-denim*
+
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-wicked/category-pyjamas$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-wicked/category-tshirts$
+allow: /shop/gender-women-promotion-wicked/category-tshirts$
+allow: /shop/gender-women-promotion-wicked/category-pyjamas$
+allow: /shop/gender-women-promotion-wicked/category-jumpers$
+allow: /shop/gender-women-promotion-wicked/category-sweatshirts$
+
+disallow: /shop/*productaffiliation-wedding
+disallow: /shop/promotion-suitshopwedding*
+disallow: /shop/gender-*-promotion-suitshopwedding*
+disallow: /shop/gender-*-promotion-weddingsuits*
+disallow: /shop/promotion-weddingsuits*
+
+allow:  /shop/productaffiliation-tops-promotion-fathersdaygifts-0$
+
+disallow: /shop/gender-women-productaffiliation-dresses
+
+allow: /shop/gender-women-category-dresses-0$
+disallow: /shop/gender-women-category-dresses-*-*
+
+disallow: /shop/promotion-/*
+disallow: /shop/*-story-/*
+
+disallow: /shop/*/fastening-elasticatedlacelaceup-
+disallow: /shop/*/*-fastening-elasticatedlacelaceup$
+disallow: /shop/*/*-fastening-elasticatedlacelaceup-
+
+disallow: /shop/*/style-laceups-
+disallow: /shop/*/*-style-laceups$
+disallow: /shop/*/*-style-laceups-
+
+disallow: /shop/*/style-trainers-
+disallow: /shop/*/*-style-trainers$
+disallow: /shop/*/*-style-trainers-
+
+disallow: /shop/*/fastening-bucklefasteningtouchfastening-
+disallow: /shop/*/*-fastening-bucklefasteningtouchfastening$
+disallow: /shop/*/*-fastening-bucklefasteningtouchfastening-
+
+disallow: /shop/*/fastening-lacewithzip-
+disallow: /shop/*/*-fastening-lacewithzip$
+disallow: /shop/*/*-fastening-lacewithzip-
+
+disallow: /shop/*/fastening-laceupzip-
+disallow: /shop/*/*-fastening-laceupzip$
+disallow: /shop/*/*-fastening-laceupzip-
+
+disallow: /shop/*/fastening-pullonslipon-
+disallow: /shop/*/*-fastening-pullonslipon$
+disallow: /shop/*/*-fastening-pullonslipon-
+
+disallow: /shop/*/fastening-laceuptouchfastening-
+disallow: /shop/*/*-fastening-laceuptouchfastening$
+disallow: /shop/*/*-fastening-laceuptouchfastening-
+
+# Promotion Festival
+allow: /shop/gender-women-promotion-festival/category-dresses$
+allow: /shop/gender-men-promotion-festival/category-shirts$
+allow: /shop/gender-men-promotion-festival/category-tshirts$
+allow: /shop/gender-women-promotion-festival/category-jumpers$
+allow: /shop/gender-women-promotion-festival/category-bags$
+allow: /shop/gender-women-promotion-festival/category-tops$
+allow: /shop/gender-men-promotion-festival/category-bags$
+allow: /shop/gender-men-promotion-festival/category-shorts$
+allow: /shop/gender-men-promotion-festival/category-hats$
+allow: /shop/gender-women-promotion-festival/category-jackets$
+allow: /shop/gender-women-promotion-festival/category-hats$
+allow: /shop/gender-men-promotion-festival/category-sunglasses$
+allow: /shop/gender-men-promotion-festival/category-jackets$
+allow: /shop/gender-women-promotion-festival/category-sunglasses$
+allow: /shop/gender-women-promotion-festival/category-shorts$
+allow: /shop/gender-women-promotion-festival/category-blouses$
+allow: /shop/gender-men-promotion-festival/category-trainers$
+allow: /shop/gender-women-promotion-festival/category-dresses-sizetype-curve$
+allow: /shop/gender-women-promotion-festival/category-tshirts$
+allow: /shop/gender-women-promotion-festival/category-skirts$
+allow: /shop/gender-women-promotion-festival/category-sandals$
+allow: /shop/gender-women-promotion-festival/category-shirts$
+allow: /shop/gender-women-promotion-festival/category-trousers$
+allow: /shop/gender-women-promotion-festival/category-earrings$
+allow: /shop/gender-women-promotion-festival/category-boots$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-festival/category-tshirts$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-festival/category-jackets$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-festival/category-hats$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-festival/category-tshirts$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-festival/category-dresses$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-festival/category-jackets$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-festival/category-boots$
+
+allow: /shop/brand-rituals/range-karma$
+allow: /shop/brand-rituals/range-sakura$
+
+disallow: *style-tshirtbra-*
+disallow: *style-add1cup-*
+disallow: *use-lifestyle*
+
+# travelsize
+disallow: *brand-travelsize* 
+disallow: *type-travelsize*
+allow: /shop/department-beauty-travelsize-travelsize-0$
+allow: /shop/promotion-christmasathome/0-neutraldecor$
+
+allow: /shop/department-beauty-travelsize-travelsize/brand-abercrombiefitch$
+allow: /shop/department-beauty-travelsize-travelsize/brand-allsaints$
+allow: /shop/department-beauty-travelsize-travelsize/brand-ameliorate$
+allow: /shop/department-beauty-travelsize-travelsize/brand-arianagrande$
+allow: /shop/department-beauty-travelsize-travelsize/brand-armani$
+allow: /shop/department-beauty-travelsize-travelsize/brand-aromaworks$
+allow: /shop/department-beauty-travelsize-travelsize/brand-aromatherapyassociates$
+allow: /shop/department-beauty-travelsize-travelsize/brand-australiangold$
+allow: /shop/department-beauty-travelsize-travelsize/brand-aveda$
+allow: /shop/department-beauty-travelsize-travelsize/brand-azzaro$
+allow: /shop/department-beauty-travelsize-travelsize/brand-babyliss$
+allow: /shop/department-beauty-travelsize-travelsize/brand-barberpro$
+allow: /shop/department-beauty-travelsize-travelsize/brand-barebyvogue$
+allow: /shop/department-beauty-travelsize-travelsize/brand-barefeetbymargaretdabbs$
+allow: /shop/department-beauty-travelsize-travelsize/brand-bareminerals$
+allow: /shop/department-beauty-travelsize-travelsize/brand-bathbodyworks$
+allow: /shop/department-beauty-travelsize-travelsize/brand-baylisharding$
+allow: /shop/department-beauty-travelsize-travelsize/brand-beachpowder$
+allow: /shop/department-beauty-travelsize-travelsize/brand-benefit$
+allow: /shop/department-beauty-travelsize-travelsize/brand-beurer$
+allow: /shop/department-beauty-travelsize-travelsize/brand-billieeilish$
+allow: /shop/department-beauty-travelsize-travelsize/brand-bloomblossom$
+allow: /shop/department-beauty-travelsize-travelsize/brand-bobbibrown$
+allow: /shop/department-beauty-travelsize-travelsize/brand-bombcosmetics$
+allow: /shop/department-beauty-travelsize-travelsize/brand-bondisands$
+allow: /shop/department-beauty-travelsize-travelsize/brand-bouclme$
+allow: /shop/department-beauty-travelsize-travelsize/brand-braun$
+allow: /shop/department-beauty-travelsize-travelsize/brand-brushworks$
+allow: /shop/department-beauty-travelsize-travelsize/brand-bulldog$
+allow: /shop/department-beauty-travelsize-travelsize/brand-bumbleandbumble$
+allow: /shop/department-beauty-travelsize-travelsize/brand-burberry$
+allow: /shop/department-beauty-travelsize-travelsize/brand-byterry$
+allow: /shop/department-beauty-travelsize-travelsize/brand-calvinklein$
+allow: /shop/department-beauty-travelsize-travelsize/brand-carolinaherrera$
+allow: /shop/department-beauty-travelsize-travelsize/brand-cathkidston$
+allow: /shop/department-beauty-travelsize-travelsize/brand-caudalie$
+allow: /shop/department-beauty-travelsize-travelsize/brand-childsfarm$
+allow: /shop/department-beauty-travelsize-travelsize/brand-chlo$
+allow: /shop/department-beauty-travelsize-travelsize/brand-clarins$
+allow: /shop/department-beauty-travelsize-travelsize/brand-clinique$
+allow: /shop/department-beauty-travelsize-travelsize/brand-clomanbeauty$
+allow: /shop/department-beauty-travelsize-travelsize/brand-cloudnine$
+allow: /shop/department-beauty-travelsize-travelsize/brand-coach$
+allow: /shop/department-beauty-travelsize-travelsize/brand-cocoeve$
+allow: /shop/department-beauty-travelsize-travelsize/brand-coola$
+allow: /shop/department-beauty-travelsize-travelsize/brand-cosrx$
+allow: /shop/department-beauty-travelsize-travelsize/brand-cowshed$
+allow: /shop/department-beauty-travelsize-travelsize/brand-daimonbarber$
+allow: /shop/department-beauty-travelsize-travelsize/brand-davidoff$
+allow: /shop/department-beauty-travelsize-travelsize/brand-delilah$
+allow: /shop/department-beauty-travelsize-travelsize/brand-dermalogica$
+allow: /shop/department-beauty-travelsize-travelsize/brand-diesel$
+allow: /shop/department-beauty-travelsize-travelsize/brand-dkny$
+allow: /shop/department-beauty-travelsize-travelsize/brand-dolcegabbana$
+allow: /shop/department-beauty-travelsize-travelsize/brand-drhauschka$
+allow: /shop/department-beauty-travelsize-travelsize/brand-drpawpaw$
+allow: /shop/department-beauty-travelsize-travelsize/brand-drybar$
+allow: /shop/department-beauty-travelsize-travelsize/brand-dyson$
+allow: /shop/department-beauty-travelsize-travelsize/brand-effntan$
+allow: /shop/department-beauty-travelsize-travelsize/brand-elemis$
+allow: /shop/department-beauty-travelsize-travelsize/brand-eliesaab$
+allow: /shop/department-beauty-travelsize-travelsize/brand-elizabetharden$
+allow: /shop/department-beauty-travelsize-travelsize/brand-elvie$
+allow: /shop/department-beauty-travelsize-travelsize/brand-embryolisse$
+allow: /shop/department-beauty-travelsize-travelsize/brand-emmahardie$
+allow: /shop/department-beauty-travelsize-travelsize/brand-erborian$
+allow: /shop/department-beauty-travelsize-travelsize/brand-espa$
+allow: /shop/department-beauty-travelsize-travelsize/brand-estelauder$
+allow: /shop/department-beauty-travelsize-travelsize/brand-evelom$
+allow: /shop/department-beauty-travelsize-travelsize/brand-ferragamo$
+allow: /shop/department-beauty-travelsize-travelsize/brand-floralstreet$
+allow: /shop/department-beauty-travelsize-travelsize/brand-foreo$
+allow: /shop/department-beauty-travelsize-travelsize/brand-furla$
+allow: /shop/department-beauty-travelsize-travelsize/brand-ghd$
+allow: /shop/department-beauty-travelsize-travelsize/brand-ghost$
+allow: /shop/department-beauty-travelsize-travelsize/brand-gracecole$
+allow: /shop/department-beauty-travelsize-travelsize/brand-growgorgeous$
+allow: /shop/department-beauty-travelsize-travelsize/brand-gucci$
+allow: /shop/department-beauty-travelsize-travelsize/brand-guess$
+allow: /shop/department-beauty-travelsize-travelsize/brand-hawaiiantropic$
+allow: /shop/department-beauty-travelsize-travelsize/brand-hawkinsbrimble$
+allow: /shop/department-beauty-travelsize-travelsize/brand-heathcoteivory$
+allow: /shop/department-beauty-travelsize-travelsize/brand-hellosunday$
+allow: /shop/department-beauty-travelsize-travelsize/brand-hollister$
+allow: /shop/department-beauty-travelsize-travelsize/brand-hugoboss$
+allow: /shop/department-beauty-travelsize-travelsize/brand-iconiclondon$
+allow: /shop/department-beauty-travelsize-travelsize/brand-invisibobble$
+allow: /shop/department-beauty-travelsize-travelsize/brand-itcosmetics$
+allow: /shop/department-beauty-travelsize-travelsize/brand-jeanpaulgaultier$
+allow: /shop/department-beauty-travelsize-travelsize/brand-jimmychoo$
+allow: /shop/department-beauty-travelsize-travelsize/brand-jojomamanbb$
+allow: /shop/department-beauty-travelsize-travelsize/brand-joop$
+allow: /shop/department-beauty-travelsize-travelsize/brand-josephjoseph$
+allow: /shop/department-beauty-travelsize-travelsize/brand-katieloxton$
+allow: /shop/department-beauty-travelsize-travelsize/brand-kenzo$
+allow: /shop/department-beauty-travelsize-travelsize/brand-kiehls$
+allow: /shop/department-beauty-travelsize-travelsize/brand-kitsch$
+allow: /shop/department-beauty-travelsize-travelsize/brand-korres$
+allow: /shop/department-beauty-travelsize-travelsize/brand-labseries$
+allow: /shop/department-beauty-travelsize-travelsize/brand-lacoste$
+allow: /shop/department-beauty-travelsize-travelsize/brand-lancaster$
+allow: /shop/department-beauty-travelsize-travelsize/brand-lancme$
+allow: /shop/department-beauty-travelsize-travelsize/brand-lauramercier$
+allow: /shop/department-beauty-travelsize-travelsize/brand-legology$
+allow: /shop/department-beauty-travelsize-travelsize/brand-lipsy$
+allow: /shop/department-beauty-travelsize-travelsize/brand-littlebutterflylondon$
+allow: /shop/department-beauty-travelsize-travelsize/brand-livingproof$
+allow: /shop/department-beauty-travelsize-travelsize/brand-lizearle$
+allow: /shop/department-beauty-travelsize-travelsize/brand-loccitane$
+allow: /shop/department-beauty-travelsize-travelsize/brand-mac$
+allow: /shop/department-beauty-travelsize-travelsize/brand-madebymitchell$
+allow: /shop/department-beauty-travelsize-travelsize/brand-maisonmargiela$
+allow: /shop/department-beauty-travelsize-travelsize/brand-manscaped$
+allow: /shop/department-beauty-travelsize-travelsize/brand-manucurist$
+allow: /shop/department-beauty-travelsize-travelsize/brand-marcjacobs$
+allow: /shop/department-beauty-travelsize-travelsize/brand-margaretdabbslondon$
+allow: /shop/department-beauty-travelsize-travelsize/brand-mdlondon$
+allow: /shop/department-beauty-travelsize-travelsize/brand-mimitika$
+allow: /shop/department-beauty-travelsize-travelsize/brand-mobros$
+allow: /shop/department-beauty-travelsize-travelsize/brand-moncler$
+allow: /shop/department-beauty-travelsize-travelsize/brand-montblanc$
+allow: /shop/department-beauty-travelsize-travelsize/brand-moroccanoil$
+allow: /shop/department-beauty-travelsize-travelsize/brand-moschino$
+allow: /shop/department-beauty-travelsize-travelsize/brand-mugler$
+allow: /shop/department-beauty-travelsize-travelsize/brand-murad$
+allow: /shop/department-beauty-travelsize-travelsize/brand-murdocklondon$
+allow: /shop/department-beauty-travelsize-travelsize/brand-myexpertmidwife$
+allow: /shop/department-beauty-travelsize-travelsize/brand-nailsinc$
+allow: /shop/department-beauty-travelsize-travelsize/brand-nalasbaby$
+allow: /shop/department-beauty-travelsize-travelsize/brand-nars$
+allow: /shop/department-beauty-travelsize-travelsize/brand-natashadenona$
+allow: /shop/department-beauty-travelsize-travelsize/brand-nclabeauty$
+allow: /shop/department-beauty-travelsize-travelsize/brand-nealsyardremedies$
+allow: /shop/department-beauty-travelsize-travelsize/brand-neom$
+allow: /shop/department-beauty-travelsize-travelsize/brand-next$
+allow: /shop/department-beauty-travelsize-travelsize/brand-nioxin$
+allow: /shop/department-beauty-travelsize-travelsize/brand-nobleisle$
+allow: /shop/department-beauty-travelsize-travelsize/brand-nono$
+allow: /shop/department-beauty-travelsize-travelsize/brand-nudestix$
+allow: /shop/department-beauty-travelsize-travelsize/brand-nuxe$
+allow: /shop/department-beauty-travelsize-travelsize/brand-olaplex$
+allow: /shop/department-beauty-travelsize-travelsize/brand-omorovicza$
+allow: /shop/department-beauty-travelsize-travelsize/brand-opi$
+allow: /shop/department-beauty-travelsize-travelsize/brand-origins$
+allow: /shop/department-beauty-travelsize-travelsize/brand-oskia$
+allow: /shop/department-beauty-travelsize-travelsize/brand-p20$
+allow: /shop/department-beauty-travelsize-travelsize/brand-pai$
+allow: /shop/department-beauty-travelsize-travelsize/brand-patchology$
+allow: /shop/department-beauty-travelsize-travelsize/brand-percynobleman$
+allow: /shop/department-beauty-travelsize-travelsize/brand-percyreed$
+allow: /shop/department-beauty-travelsize-travelsize/brand-philipkingsley$
+allow: /shop/department-beauty-travelsize-travelsize/brand-philips$
+allow: /shop/department-beauty-travelsize-travelsize/brand-philosophy$
+allow: /shop/department-beauty-travelsize-travelsize/brand-pixi$
+allow: /shop/department-beauty-travelsize-travelsize/brand-prada$
+allow: /shop/department-beauty-travelsize-travelsize/brand-rabanne$
+allow: /shop/department-beauty-travelsize-travelsize/brand-ralphlauren$
+allow: /shop/department-beauty-travelsize-travelsize/brand-realtechniques$
+allow: /shop/department-beauty-travelsize-travelsize/brand-remington$
+allow: /shop/department-beauty-travelsize-travelsize/brand-ren$
+allow: /shop/department-beauty-travelsize-travelsize/brand-revitalash$
+allow: /shop/department-beauty-travelsize-travelsize/brand-revolution$
+allow: /shop/department-beauty-travelsize-travelsize/brand-rituals$
+allow: /shop/department-beauty-travelsize-travelsize/brand-riverisland$
+allow: /shop/department-beauty-travelsize-travelsize/brand-sabrinacarpenter$
+allow: /shop/department-beauty-travelsize-travelsize/brand-salvatoreferragamo$
+allow: /shop/department-beauty-travelsize-travelsize/brand-sanctuaryspa$
+allow: /shop/department-beauty-travelsize-travelsize/brand-saramiller$
+allow: /shop/department-beauty-travelsize-travelsize/brand-scottishfinesoaps$
+allow: /shop/department-beauty-travelsize-travelsize/brand-shark$
+allow: /shop/department-beauty-travelsize-travelsize/brand-shopbeautypro$
+allow: /shop/department-beauty-travelsize-travelsize/brand-skandinavisk$
+allow: /shop/department-beauty-travelsize-travelsize/brand-slip$
+allow: /shop/department-beauty-travelsize-travelsize/brand-spectrumcollections$
+allow: /shop/department-beauty-travelsize-travelsize/brand-stylpro$
+allow: /shop/department-beauty-travelsize-travelsize/brand-sunbum$
+allow: /shop/department-beauty-travelsize-travelsize/brand-sweed$
+allow: /shop/department-beauty-travelsize-travelsize/brand-t3$
+allow: /shop/department-beauty-travelsize-travelsize/brand-tangleteezer$
+allow: /shop/department-beauty-travelsize-travelsize/brand-tedbaker$
+allow: /shop/department-beauty-travelsize-travelsize/brand-thebrightonbeardco$
+allow: /shop/department-beauty-travelsize-travelsize/brand-theflatlayco$
+allow: /shop/department-beauty-travelsize-travelsize/brand-theinkeylist$
+allow: /shop/department-beauty-travelsize-travelsize/brand-theluxurybathingcompany$
+allow: /shop/department-beauty-travelsize-travelsize/brand-theordinary$
+allow: /shop/department-beauty-travelsize-travelsize/brand-thisworks$
+allow: /shop/department-beauty-travelsize-travelsize/brand-tiffanyco$
+allow: /shop/department-beauty-travelsize-travelsize/brand-tomford$
+allow: /shop/department-beauty-travelsize-travelsize/brand-tommyhilfiger$
+allow: /shop/department-beauty-travelsize-travelsize/brand-toofaced$
+allow: /shop/department-beauty-travelsize-travelsize/brand-tresemm$
+allow: /shop/department-beauty-travelsize-travelsize/brand-tweezerman$
+allow: /shop/department-beauty-travelsize-travelsize/brand-ultrasun$
+allow: /shop/department-beauty-travelsize-travelsize/brand-urbandecay$
+allow: /shop/department-beauty-travelsize-travelsize/brand-urbanapothecary$
+allow: /shop/department-beauty-travelsize-travelsize/brand-valentino$
+allow: /shop/department-beauty-travelsize-travelsize/brand-versace$
+allow: /shop/department-beauty-travelsize-travelsize/brand-victoriassecret$
+allow: /shop/department-beauty-travelsize-travelsize/brand-viktorrolf$
+allow: /shop/department-beauty-travelsize-travelsize/brand-wahl$
+allow: /shop/department-beauty-travelsize-travelsize/brand-weleda$
+allow: /shop/department-beauty-travelsize-travelsize/brand-wetbrush$
+allow: /shop/department-beauty-travelsize-travelsize/brand-williammorrisathome$
+allow: /shop/department-beauty-travelsize-travelsize/brand-yvessaintlaurent$
+
+allow: /shop/department-beauty-productaffiliation-makeup/brand-benefit$
+allow: /shop/department-beauty-productaffiliation-makeup/brand-benefit-category-blushers$
+allow: /shop/department-beauty-productaffiliation-makeup/brand-benefit-category-mascaras$
+allow: /shop/department-beauty-productaffiliation-makeup/brand-benefit-category-highlighters$
+allow: /shop/department-beauty-productaffiliation-makeup/brand-benefit-category-primers$
+allow: /shop/department-beauty-productaffiliation-makeup/brand-benefit-category-bronzers$
+allow: /shop/department-beauty-productaffiliation-makeup/brand-benefit-category-concealers$
+allow: /shop/department-beauty-productaffiliation-makeup/brand-benefit-category-makeuptools$
+allow: /shop/department-beauty-productaffiliation-makeup/brand-benefit-category-brushessponges$
+allow: /shop/department-beauty-productaffiliation-makeup/brand-benefit-category-eyeliners$
+allow: /shop/department-beauty-productaffiliation-makeup/brand-benefit-category-lipglosses$
+allow: /shop/department-beauty-productaffiliation-makeup/brand-benefit-category-powders$
+allow: /shop/department-beauty-productaffiliation-makeup/brand-benefit-category-lipbalms$
+allow: /shop/department-beauty-productaffiliation-makeup/brand-benefit-category-settingspray$
+allow: /shop/department-beauty-productaffiliation-skincare/brand-benefit$
+allow: /shop/department-beauty-productaffiliation-skincare/brand-benefit-category-cleansers$
+allow: /shop/department-beauty-productaffiliation-skincare/brand-benefit-category-masks$
+allow: /shop/department-beauty-productaffiliation-skincare/brand-benefit-category-moisturisers$
+allow: /shop/department-beauty-productaffiliation-skincare/brand-benefit-category-serums$
+allow: /shop/department-beauty-productaffiliation-skincare/brand-benefit-category-toners$
+allow: /shop/department-beauty-productaffiliation-skincare/brand-benefit-category-exfoliators$
+allow: /shop/department-beauty-productaffiliation-skincare/brand-benefit-category-skincaretools$
+
+disallow: /shop/*gender-*-travelsize-travelsize*
+disallow: /shop/*travelsize-travelsize*gender-
+disallow: /shop/*travelsize-travelsize*/*travelsize-travelsize*
+disallow: *travelsize-travelsize*travelsize-travelsize
+disallow: /shop/department-beauty-productaffiliation-*-travelsize-travelsize-0$
+disallow: /shop/department-beauty-productaffiliation-*-travelsize-travelsize/*
+disallow: *gender-*productaffiliation-face*
+
+disallow: /shop/promotion-topchristmasgifts-0$
+disallow: /shop/promotion-topchristmasgifts/
+disallow: /shop/*promotion-topchristmasgifts/
+
+disallow: /cathkidston
+allow: /shop/gender-men-productaffiliation-clothing/range-nextedit$
+
+allow: /shop/department-homeware-productaffiliation-bedding-promotion-christmasathome/size-toddler$
+allow: /shop/productaffiliation-fooddrinkgifts/giftsbyoccasion-christmas-type-redwine-type-rosewine-type-sparklingwine-type-whitewine$
+allow: /shop/productaffiliation-fooddrinkgifts/type-redwine-type-rosewine-type-sparklingwine-type-whitewine$
+
+disallow: *designerboutique-*-designerboutique-*
+
+disallow: *type-mixandmatch*
+disallow: *mixandmatchlighting*
+
+disallow: *style-heeled*
+
+disallow: /shop/*/room-
+disallow: /shop/*/*-room-
+
+allow: /shop/department-homeware-category-mirrors/room-bathroom$
+allow: /shop/department-homeware-category-mirrors/room-livingroom$
+allow: /shop/department-homeware-productaffiliation-lighting/category-ceilinglights-room-bedroom$
+allow: /shop/department-homeware-productaffiliation-lighting/category-ceilinglights-room-childrensbedroom$
+allow: /shop/department-homeware-productaffiliation-lighting/category-ceilinglights-room-livingroom$
+allow: /shop/department-homeware-productaffiliation-lighting/category-desktablelamps-room-childrensbedroom$
+allow: /shop/department-homeware-productaffiliation-lighting/category-desktablelamps-room-livingroom$
+allow: /shop/department-homeware-productaffiliation-lighting/colour-brass-room-bathroom$
+allow: /shop/department-homeware-productaffiliation-lighting/room-bathroom$
+allow: /shop/department-homeware-productaffiliation-lighting/room-bedroom$
+allow: /shop/department-homeware-productaffiliation-lighting/room-childrensroom$
+allow: /shop/department-homeware-productaffiliation-lighting/room-kitchendiningroom-type-pendantlights$
+allow: /shop/department-homeware-productaffiliation-lighting/room-livingroom$
+
+allow: /shop/department-homeware-productaffiliation-childrensfurniture/category-beds-size-single$
+allow: /shop/department-homeware-productaffiliation-childrensfurniture/category-beds-size-single-type-storage$
+allow: /shop/department-homeware-productaffiliation-childrensfurniture/category-beds-size-double$
+allow: /shop/department-homeware-productaffiliation-bedding/colour-blue-size-single$
+
+disallow: /shop/gender-*-department-*/
+
+disallow: /shop/department-homeware-productaffiliation-cushionsandthrows*/*type-bedspreads$
+disallow: /shop/department-homeware-productaffiliation-cushionsandthrows*/*type-bedspreads-
+
+allow: /shop/gender-women-productaffiliation-footwear/colour-black-style-heeled$
+allow: /shop/gender-women-productaffiliation-footwear/colour-red-style-heeled$
+allow: /shop/gender-women-productaffiliation-footwear/colour-blue-style-heeled$
+allow: /shop/gender-women-productaffiliation-footwear/colour-white-style-heeled$
+allow: /shop/gender-women-productaffiliation-footwear/colour-brown-style-heeled$
+allow: /shop/gender-women-productaffiliation-footwear/colour-gold-style-heeled$
+allow: /shop/gender-women-productaffiliation-footwear/colour-natural-style-heeled$
+allow: /shop/gender-women-productaffiliation-footwear/colour-silver-style-heeled$
+allow: /shop/gender-women-productaffiliation-footwear/colour-pink-style-heeled$
+allow: /shop/gender-women-productaffiliation-footwear/colour-nude-style-heeled$
+allow: /shop/gender-women-productaffiliation-footwear/colour-green-style-heeled$
+allow: /shop/gender-women-productaffiliation-footwear/colour-orange-style-heeled$
+allow: /shop/gender-women-productaffiliation-footwear/colour-purple-style-heeled$
+allow: /shop/gender-women-productaffiliation-footwear/colour-grey-style-heeled$
+allow: /shop/gender-women-productaffiliation-footwear/category-sandals-style-heeled$
+
+disallow: /f/
+
+allow: /shop/department-homeware-productaffiliation-decorativeaccessories/category-clocks-size-large$
+
+disallow: *gender-women-productaffiliation-skirts*
+
+disallow: *collaboration-*-collaboration
+
+disallow: *productaffiliation-brandedfurniture*
+disallow: *productaffiliation-homeaccessories*
+disallow: /shop/department-homeware-productaffiliation-curtainsandblinds/*pattern-plain*
+
+allow: /shop/gender-men-gender-women-promotion-matchingfamilynightwear-0$
+allow: /shop/gender-men-gender-women-promotion-matchingfamilyjumpers-0$
+
+disallow: /shop/*/f/*/f/
+
+allow: /shop/department-homeware-productaffiliation-lighting/room-kitchendiningroom$
+
+disallow: *ingredientpreference-*-ingredientpreference-*
+disallow: /shop/productaffiliation-bathbody*/*
+disallow: /shop/productaffiliation-perfumeaftershave*/*
+disallow: /shop/productaffiliation-makeup*/*
+disallow: /shop/productaffiliation-skincare*/*
+disallow: /shop/productaffiliation-hair*/*
+disallow: /shop/productaffiliation-beautyelectrical*/*
+disallow: /shop/productaffiliation-suncare*/*
+disallow: /shop/productaffiliation-beautygifting*/*
+
+
+disallow: /shop/*productaffiliation-bathbody*/*use-*
+disallow: /shop/*productaffiliation-perfumeaftershave*/*use-*
+disallow: /shop/*productaffiliation-makeup*/*use-*
+disallow: /shop/*productaffiliation-skincare*/*use-*
+disallow: /shop/*productaffiliation-hair*/*use-*
+disallow: /shop/*productaffiliation-beautyelectrical*/*use-*
+disallow: /shop/*productaffiliation-suncare*/*use-*
+disallow: /shop/*productaffiliation-beautygifting*/*use-*
+
+disallow: /shop/gender-women-productaffiliation-bathbody-*
+disallow: /shop/gender-women-productaffiliation-perfumeaftershave-*
+disallow: /shop/gender-women-productaffiliation-makeup-*
+disallow: /shop/gender-women-productaffiliation-skincare-*
+disallow: /shop/gender-women-productaffiliation-hair-*
+disallow: /shop/gender-women-productaffiliation-beautyelectrical-*
+disallow: /shop/gender-women-productaffiliation-suncare-*
+
+disallow: /shop/gender-men-productaffiliation-bathbody-*
+disallow: /shop/gender-men-productaffiliation-perfumeaftershave-*
+disallow: /shop/gender-men-productaffiliation-makeup-*
+disallow: /shop/gender-men-productaffiliation-skincare-*
+disallow: /shop/gender-men-productaffiliation-hair-*
+disallow: /shop/gender-men-productaffiliation-beautyelectrical-*
+disallow: /shop/gender-men-productaffiliation-suncare-*
+
+disallow: /shop/gender-women-department-beauty-productaffiliation-bathbody-*
+disallow: /shop/gender-women-department-beauty-productaffiliation-perfumeaftershave-*
+disallow: /shop/gender-women-department-beauty-productaffiliation-makeup-*
+disallow: /shop/gender-women-department-beauty-productaffiliation-skincare-*
+disallow: /shop/gender-women-department-beauty-productaffiliation-hair-*
+disallow: /shop/gender-women-department-beauty-productaffiliation-beautyelectrical-*
+disallow: /shop/gender-women-department-beauty-productaffiliation-suncare-*
+
+disallow: /shop/gender-men-department-beauty-productaffiliation-bathbody-*
+disallow: /shop/gender-men-department-beauty-productaffiliation-perfumeaftershave-*
+disallow: /shop/gender-men-department-beauty-productaffiliation-makeup-*
+disallow: /shop/gender-men-department-beauty-productaffiliation-skincare-*
+disallow: /shop/gender-men-department-beauty-productaffiliation-hair-*
+disallow: /shop/gender-men-department-beauty-productaffiliation-beautyelectrical-*
+disallow: /shop/gender-men-department-beauty-productaffiliation-suncare-*
+
+allow: /shop/department-homeware-productaffiliation-cushionsandthrows/category-cushions-size-30x50cm$
+allow: /shop/department-homeware-productaffiliation-cushionsandthrows/category-cushions-size-40x40cm$
+allow: /shop/department-homeware-productaffiliation-cushionsandthrows/category-cushions-size-40x60cm$
+allow: /shop/department-homeware-productaffiliation-cushionsandthrows/category-cushions-size-43x43cm$
+allow: /shop/department-homeware-productaffiliation-cushionsandthrows/category-cushions-size-45x45cm$
+allow: /shop/department-homeware-productaffiliation-cushionsandthrows/category-cushions-size-50x50cm$
+allow: /shop/department-homeware-productaffiliation-cushionsandthrows/category-cushions-size-55x55cm$
+allow: /shop/department-homeware-productaffiliation-cushionsandthrows/category-cushions-size-60x60cm$
+
+
+allow: /shop/department-homeware-productaffiliation-decorativeaccessories/category-vases-type-ceramic$
+
+disallow: *use-gifting*
+disallow: *style-fooddrink*
+disallow: *type-gifts*
+disallow: *department-beauty-productaffiliation-gifts*
+disallow: *noindex*
+disallow: *brand-bluey*
+disallow: *brand-disney*
+disallow: *brand-minecraft*
+disallow: *brand-character*
+disallow: *brand-pawpatrol*
+disallow: *brand-spiderman*
+disallow: *brand-disneyprincess*
+disallow: *brand-marvel*
+disallow: *brand-avengers*
+disallow: *brand-starwars*
+disallow: *brand-peppapig*
+disallow: *brand-frozen*
+disallow: *brand-toystory*
+disallow: *type-greetingcard*
+disallow: *type-*-type-*
+disallow: *category-fragrances*
+disallow: *use-fragrance*
+disallow: *type-aftershave*
+disallow: *type-bodymist*
+disallow: *type-vases*
+disallow: *type-candles-*
+disallow: *type-candles$
+disallow: *category-stationeryandcraft*
+disallow: *type-sheetwrap*
+disallow: *type-wrappack*
+disallow: *type-metal-*
+disallow: *type-metal$
+disallow: *personalised-canbepersonalised-*personalised-canbepersonalised*
+disallow: *recipient-unisex*
+disallow: *type-artscrafts*
+disallow: *type-ceramic*
+disallow: *department-beauty-gender-youngerboys*
+disallow: *department-beauty-gender-youngergirls*
+disallow: *giftsbyoccasion-shirt*
+disallow: *giftsbyoccasion-gifting*
+disallow: /shop/*productaffiliation-gifts*/*giftsbyoccasion-newhome*
+disallow: /shop/*productaffiliation-gifts*/*giftsbyoccasion-christmas*
+disallow: /shop/*productaffiliation-gifts*/*giftsbyoccasion-birthday*
+disallow: /shop/*productaffiliation-gifts*/*giftsbyoccasion-congratulations*
+disallow: /shop/*productaffiliation-gifts*/*giftsbyoccasion-anniversary*
+disallow: /shop/*productaffiliation-gifts*/*giftsbyoccasion-mothersday*
+disallow: /shop/*productaffiliation-gifts*/*giftsbyoccasion-fathersday*
+disallow: /shop/*productaffiliation-gifts*/*giftsbyoccasion-mothersday*
+disallow: /shop/*productaffiliation-gifts*/*giftsbyoccasion-engagement*
+disallow: /shop/*productaffiliation-gifts*/*giftsbyoccasion-valentines*
+disallow: /shop/*productaffiliation-gifts*/*giftsbyoccasion-christening*
+disallow: /shop/*productaffiliation-gifts*/*giftsbyoccasion-thankyouteacher*
+disallow: /shop/*productaffiliation-gifts*/*giftsbyoccasion-thankyou*
+disallow: /shop/*productaffiliation-gifts*/*giftsbyoccasion-easter*
+disallow: /shop/*productaffiliation-gifts*/*giftsbyoccasion-eid*
+disallow: /shop/department-childrenswear-promotion-christmasgifts*
+disallow: /shop/department-childrenswear-promotion-christmasgiftsforher*
+disallow: /shop/department-childrenswear-promotion-christmasgiftsforhim*
+disallow: /shop/department-childrenswear-promotion-christmasgiftsforchildren*
+disallow: *type-singlesize*
+disallow: /shop/department-childrenswear-promotion-giftsforher*
+disallow: /shop/department-childrenswear-promotion-giftsforhim*
+disallow: /shop/*productaffiliation-gifts*/*type-*
+disallow: /shop/promotion-selfcare/*
+disallow: *type-giftbagset*
+disallow: *type-singlegiftbag*
+disallow: *type-singleroll*
+disallow: *type-partydecorations*
+
+disallow: /shop/productaffiliation-trousers*
+disallow: /shop/productaffiliation-coatsandjackets*
+disallow: /shop/productaffiliation-livingfurniture*
+
+disallow: *coats&jackets*
+disallow: *nursery&baby*
+disallow: *shorts&skirts*
+disallow: *duvets&pillows*
+disallow: *shirts&blouses*
+disallow: *trousers&leggings*
+disallow: *shampoos&conditioners*
+disallow: *toppers&protectors*
+disallow: *ties&pocket-squares*
+disallow: *kitchen&dining*
+disallow: *belts&braces*
+disallow: *cushions&throws*
+
+disallow: /shop/productaffiliation-toysandgames/*category-toys*
+disallow: *type-fancydress*
+disallow: /shop/gender-women-category-coats*
+disallow: *0-sportsclub*
+
+disallow: /shop/gender-women-productaffiliation-shortsskirts
+
+disallow: *department-homeware-productaffiliation-toysandgames*
+disallow: *department-homeware-productaffiliation-cardsandwrap*
+disallow: *style-christmassweater*
+
+disallow: /shop/*/*category-christmastrees*
+disallow: /shop/*productaffiliation-knitwear*/*style-christmasjumper
+
+disallow: /shop/*productaffiliation-christmasclothing*/*use-christmas$
+disallow: /shop/*promotion-laurashleychristmas*
+allow: /laura-ashley/shop/*promotion-laurashleychristmas*
+
+allow: /shop/gender-women-productaffiliation-footwear/style-heeled$
+allow: /shop/gender-women-productaffiliation-footwear/colour-*-style-heeled$
+
+disallow: /shop/gender-women-productaffiliation-footwear/colour-*-size-*-style-heeled$
+disallow: /shop/gender-women-productaffiliation-footwear/colour-*-heel-*-style-heeled$
+disallow: /shop/gender-women-productaffiliation-footwear/colour-*-fit-*-style-heeled$
+disallow: /shop/gender-women-productaffiliation-footwear/colour-*-range-*-style-heeled$
+disallow: /shop/gender-women-productaffiliation-footwear/colour-*-material-*-style-heeled$
+
+disallow: *productaffiliation-performancesportswear*
+
+disallow: *type-beautyadventcalendar*
+
+disallow: /laura-ashley/shop/promotion-*/promotion*-
+
+# Incorrect PAs
+disallow: *department-beauty-productaffiliation-babyfeedingandweaning*
+disallow: *department-beauty-productaffiliation-bathroom*
+disallow: *department-beauty-productaffiliation-bedding*
+disallow: *department-beauty-productaffiliation-candleholdersandlanterns*
+disallow: *department-beauty-productaffiliation-decorativeaccessories*
+disallow: *department-beauty-productaffiliation-gardenandoutdoors*
+disallow: *department-beauty-productaffiliation-homefragrance*
+disallow: *department-beauty-productaffiliation-homeoffice*
+disallow: *department-beauty-productaffiliation-nurseryandbaby*
+disallow: *department-beauty-productaffiliation-storageorganisation*
+disallow: *department-beauty-productaffiliation-tableware*
+disallow: *department-childrenswear-productaffiliation-babyfeedingandweaning*
+disallow: *department-childrenswear-productaffiliation-bathroom*
+disallow: *department-childrenswear-productaffiliation-bathroomtextiles*
+disallow: *department-childrenswear-productaffiliation-childrensbedding*
+disallow: *department-childrenswear-productaffiliation-childrensbedroom*
+disallow: *department-childrenswear-productaffiliation-childrenshomeaccessories*
+disallow: *department-childrenswear-productaffiliation-cushionsandthrows*
+disallow: *department-childrenswear-productaffiliation-decorativeaccessories*
+disallow: *department-childrenswear-productaffiliation-homeoffice*
+disallow: *department-childrenswear-productaffiliation-kitchen*
+disallow: *department-childrenswear-productaffiliation-lighting*
+disallow: *department-childrenswear-productaffiliation-nurseryaccessories*
+disallow: *department-childrenswear-productaffiliation-nurseryandbaby*
+disallow: *department-childrenswear-productaffiliation-nurserybedding*
+disallow: *department-childrenswear-productaffiliation-storageorganisation*
+disallow: *department-childrenswear-productaffiliation-tableware*
+disallow: *gender-men-productaffiliation-babyfeedingandweaning*
+disallow: *gender-men-productaffiliation-bathroom*
+disallow: *gender-men-productaffiliation-bathroomtextiles*
+disallow: *gender-men-productaffiliation-bedding*
+disallow: *gender-men-productaffiliation-candleholdersandlanterns*
+disallow: *gender-men-productaffiliation-childrensbedding*
+disallow: *gender-men-productaffiliation-childrenshomeaccessories*
+disallow: *gender-men-productaffiliation-curtainpoles*
+disallow: *gender-men-productaffiliation-cushionsandthrows*
+disallow: *gender-men-productaffiliation-decorativeaccessories*
+disallow: *gender-men-productaffiliation-gardenandoutdoors*
+disallow: *gender-men-productaffiliation-homefragrance*
+disallow: *gender-men-productaffiliation-homeoffice*
+disallow: *gender-men-productaffiliation-kitchen*
+disallow: *gender-men-productaffiliation-nurseryandbaby*
+disallow: *gender-men-productaffiliation-nurserybedding*
+disallow: *gender-men-productaffiliation-storageorganisation*
+disallow: *gender-men-productaffiliation-tableware*
+disallow: *gender-newbornunisex-productaffiliation-audioandelectronics*
+disallow: *gender-newbornunisex-productaffiliation-babyfeedingandweaning*
+disallow: *gender-newbornunisex-productaffiliation-bathroom*
+disallow: *gender-newbornunisex-productaffiliation-bathroomfurniture*
+disallow: *gender-newbornunisex-productaffiliation-bathroomsuites*
+disallow: *gender-newbornunisex-productaffiliation-bathroomtextiles*
+disallow: *gender-newbornunisex-productaffiliation-bedding*
+disallow: *gender-newbornunisex-productaffiliation-bedroomfurniture*
+disallow: *gender-newbornunisex-productaffiliation-bedsheets*
+disallow: *gender-newbornunisex-productaffiliation-candleholdersandlanterns*
+disallow: *gender-newbornunisex-productaffiliation-childrensbedding*
+disallow: *gender-newbornunisex-productaffiliation-childrensbedroom*
+disallow: *gender-newbornunisex-productaffiliation-childrensfurniture*
+disallow: *gender-newbornunisex-productaffiliation-childrenshomeaccessories*
+disallow: *gender-newbornunisex-productaffiliation-childrenslighting*
+disallow: *gender-newbornunisex-productaffiliation-coffeesidetables*
+disallow: *gender-newbornunisex-productaffiliation-conservatoryfurniture*
+disallow: *gender-newbornunisex-productaffiliation-curtainpoles*
+disallow: *gender-newbornunisex-productaffiliation-curtainsandblinds*
+disallow: *gender-newbornunisex-productaffiliation-cushionsandthrows*
+disallow: *gender-newbornunisex-productaffiliation-decorativeaccessories*
+disallow: *gender-newbornunisex-productaffiliation-diningroomfurniture*
+disallow: *gender-newbornunisex-productaffiliation-diy*
+disallow: *gender-newbornunisex-productaffiliation-furniture*
+disallow: *gender-newbornunisex-productaffiliation-gardenandoutdoors*
+disallow: *gender-newbornunisex-productaffiliation-gardenfurniture*
+disallow: *gender-newbornunisex-productaffiliation-hallway*
+disallow: *gender-newbornunisex-productaffiliation-homefragrance*
+disallow: *gender-newbornunisex-productaffiliation-homeoffice*
+disallow: *gender-newbornunisex-productaffiliation-kitchen*
+disallow: *gender-newbornunisex-productaffiliation-lighting*
+disallow: *gender-newbornunisex-productaffiliation-livingfurniture*
+disallow: *gender-newbornunisex-productaffiliation-madetomeasure*
+disallow: *gender-newbornunisex-productaffiliation-nurseryaccessories*
+disallow: *gender-newbornunisex-productaffiliation-nurseryandbaby*
+disallow: *gender-newbornunisex-productaffiliation-nurserybedding*
+disallow: *gender-newbornunisex-productaffiliation-nurseryfurniture*
+disallow: *gender-newbornunisex-productaffiliation-rugsrunnersdoormats*
+disallow: *gender-newbornunisex-productaffiliation-smallkitchenappliances*
+disallow: *gender-newbornunisex-productaffiliation-storageorganisation*
+disallow: *gender-newbornunisex-productaffiliation-tableware*
+disallow: *gender-newbornunisex-productaffiliation-utility*
+disallow: *gender-olderboys-productaffiliation-babyfeedingandweaning*
+disallow: *gender-olderboys-productaffiliation-bathroom*
+disallow: *gender-olderboys-productaffiliation-bathroomtextiles*
+disallow: *gender-olderboys-productaffiliation-bedding*
+disallow: *gender-olderboys-productaffiliation-childrensbedding*
+disallow: *gender-olderboys-productaffiliation-childrensbedroom*
+disallow: *gender-olderboys-productaffiliation-childrenshomeaccessories*
+disallow: *gender-olderboys-productaffiliation-cushionsandthrows*
+disallow: *gender-olderboys-productaffiliation-decorativeaccessories*
+disallow: *gender-olderboys-productaffiliation-gardenandoutdoors*
+disallow: *gender-olderboys-productaffiliation-homefragrance*
+disallow: *gender-olderboys-productaffiliation-homeoffice*
+disallow: *gender-olderboys-productaffiliation-kitchen*
+disallow: *gender-olderboys-productaffiliation-nurseryaccessories*
+disallow: *gender-olderboys-productaffiliation-nurseryandbaby*
+disallow: *gender-olderboys-productaffiliation-nurserybedding*
+disallow: *gender-olderboys-productaffiliation-storageorganisation*
+disallow: *gender-olderboys-productaffiliation-tableware*
+disallow: *gender-oldergirls-productaffiliation-babyfeedingandweaning*
+disallow: *gender-oldergirls-productaffiliation-bathroom*
+disallow: *gender-oldergirls-productaffiliation-bathroomtextiles*
+disallow: *gender-oldergirls-productaffiliation-bedding*
+disallow: *gender-oldergirls-productaffiliation-childrensbedding*
+disallow: *gender-oldergirls-productaffiliation-childrensbedroom*
+disallow: *gender-oldergirls-productaffiliation-childrenshomeaccessories*
+disallow: *gender-oldergirls-productaffiliation-curtainpoles*
+disallow: *gender-oldergirls-productaffiliation-cushionsandthrows*
+disallow: *gender-oldergirls-productaffiliation-decorativeaccessories*
+disallow: *gender-oldergirls-productaffiliation-gardenandoutdoors*
+disallow: *gender-oldergirls-productaffiliation-homefragrance*
+disallow: *gender-oldergirls-productaffiliation-homeoffice*
+disallow: *gender-oldergirls-productaffiliation-kitchen*
+disallow: *gender-oldergirls-productaffiliation-lighting*
+disallow: *gender-oldergirls-productaffiliation-nurseryaccessories*
+disallow: *gender-oldergirls-productaffiliation-nurseryandbaby*
+disallow: *gender-oldergirls-productaffiliation-nurserybedding*
+disallow: *gender-oldergirls-productaffiliation-storageorganisation*
+disallow: *gender-oldergirls-productaffiliation-tableware*
+disallow: *gender-women-productaffiliation-audioandelectronics*
+disallow: *gender-women-productaffiliation-babyfeedingandweaning*
+disallow: *gender-women-productaffiliation-bathroom*
+disallow: *gender-women-productaffiliation-bathroomtextiles*
+disallow: *gender-women-productaffiliation-bedding*
+disallow: *gender-women-productaffiliation-bedroomfurniture*
+disallow: *gender-women-productaffiliation-candleholdersandlanterns*
+disallow: *gender-women-productaffiliation-childrensbedding*
+disallow: *gender-women-productaffiliation-childrenshomeaccessories*
+disallow: *gender-women-productaffiliation-curtainpoles*
+disallow: *gender-women-productaffiliation-cushionsandthrows*
+disallow: *gender-women-productaffiliation-decorativeaccessories*
+disallow: *gender-women-productaffiliation-furniture*
+disallow: *gender-women-productaffiliation-gardenandoutdoors*
+disallow: *gender-women-productaffiliation-homefragrance*
+disallow: *gender-women-productaffiliation-homeoffice*
+disallow: *gender-women-productaffiliation-kitchen*
+disallow: *gender-women-productaffiliation-nurseryaccessories*
+disallow: *gender-women-productaffiliation-nurseryandbaby*
+disallow: *gender-women-productaffiliation-nurserybedding*
+disallow: *gender-women-productaffiliation-storageorganisation*
+disallow: *gender-women-productaffiliation-tableware*
+disallow: *gender-youngerboys-productaffiliation-babyfeedingandweaning*
+disallow: *gender-youngerboys-productaffiliation-bathroom*
+disallow: *gender-youngerboys-productaffiliation-bathroomtextiles*
+disallow: *gender-youngerboys-productaffiliation-bedding*
+disallow: *gender-youngerboys-productaffiliation-childrensbedding*
+disallow: *gender-youngerboys-productaffiliation-childrensbedroom*
+disallow: *gender-youngerboys-productaffiliation-childrenshomeaccessories*
+disallow: *gender-youngerboys-productaffiliation-cushionsandthrows*
+disallow: *gender-youngerboys-productaffiliation-decorativeaccessories*
+disallow: *gender-youngerboys-productaffiliation-gardenandoutdoors*
+disallow: *gender-youngerboys-productaffiliation-homefragrance*
+disallow: *gender-youngerboys-productaffiliation-homeoffice*
+disallow: *gender-youngerboys-productaffiliation-kitchen*
+disallow: *gender-youngerboys-productaffiliation-nurseryaccessories*
+disallow: *gender-youngerboys-productaffiliation-nurseryandbaby*
+disallow: *gender-youngerboys-productaffiliation-nurserybedding*
+disallow: *gender-youngerboys-productaffiliation-storageorganisation*
+disallow: *gender-youngerboys-productaffiliation-tableware*
+disallow: *gender-youngergirls-productaffiliation-babyfeedingandweaning*
+disallow: *gender-youngergirls-productaffiliation-bathroom*
+disallow: *gender-youngergirls-productaffiliation-bathroomtextiles*
+disallow: *gender-youngergirls-productaffiliation-bedding*
+disallow: *gender-youngergirls-productaffiliation-childrensbedding*
+disallow: *gender-youngergirls-productaffiliation-childrensbedroom*
+disallow: *gender-youngergirls-productaffiliation-childrenshomeaccessories*
+disallow: *gender-youngergirls-productaffiliation-curtainpoles*
+disallow: *gender-youngergirls-productaffiliation-cushionsandthrows*
+disallow: *gender-youngergirls-productaffiliation-decorativeaccessories*
+disallow: *gender-youngergirls-productaffiliation-gardenandoutdoors*
+disallow: *gender-youngergirls-productaffiliation-homefragrance*
+disallow: *gender-youngergirls-productaffiliation-homeoffice*
+disallow: *gender-youngergirls-productaffiliation-kitchen*
+disallow: *gender-youngergirls-productaffiliation-lighting*
+disallow: *gender-youngergirls-productaffiliation-nurseryaccessories*
+disallow: *gender-youngergirls-productaffiliation-nurseryandbaby*
+disallow: *gender-youngergirls-productaffiliation-nurserybedding*
+disallow: *gender-youngergirls-productaffiliation-storageorganisation*
+disallow: *gender-youngergirls-productaffiliation-tableware*
+
+disallow: /shop/productaffiliation-audioandelectronics*
+disallow: /shop/productaffiliation-babyfeedingandweaning*
+disallow: /shop/productaffiliation-bathroom*
+disallow: /shop/productaffiliation-bathroomsuites*
+disallow: /shop/productaffiliation-bathroomtextiles*
+disallow: /shop/productaffiliation-bedding*
+disallow: /shop/productaffiliation-bedroomfurniture*
+disallow: /shop/productaffiliation-bedsheets*
+disallow: /shop/productaffiliation-candleholdersandlanterns*
+disallow: /shop/productaffiliation-childrensbedding*
+disallow: /shop/productaffiliation-childrensbedroom*
+disallow: /shop/productaffiliation-childrensfurniture*
+disallow: /shop/productaffiliation-childrenshomeaccessories*
+disallow: /shop/productaffiliation-childrenslighting*
+disallow: /shop/productaffiliation-coffeesidetables*
+disallow: /shop/productaffiliation-conservatoryfurniture*
+disallow: /shop/productaffiliation-curtainpoles*
+disallow: /shop/productaffiliation-curtainsandblinds*
+disallow: /shop/productaffiliation-cushionsandthrows*
+disallow: /shop/productaffiliation-decorativeaccessories*
+disallow: /shop/productaffiliation-diningroomfurniture*
+disallow: /shop/productaffiliation-diy*
+disallow: /shop/productaffiliation-gardenandoutdoors*
+disallow: /shop/productaffiliation-gardenfurniture*
+disallow: /shop/productaffiliation-hallway*
+disallow: /shop/productaffiliation-homefragrance*
+disallow: /shop/productaffiliation-homeoffice*
+disallow: /shop/productaffiliation-kitchen*
+disallow: /shop/productaffiliation-lighting*
+disallow: /shop/productaffiliation-livingfurniture*
+disallow: /shop/productaffiliation-madetomeasure*
+disallow: /shop/productaffiliation-nurseryaccessories*
+disallow: /shop/productaffiliation-nurseryandbaby*
+disallow: /shop/productaffiliation-nurserybedding*
+disallow: /shop/productaffiliation-nurseryfurniture*
+disallow: /shop/productaffiliation-rugsrunnersdoormats*
+disallow: /shop/productaffiliation-smallkitchenappliances*
+disallow: /shop/productaffiliation-storageorganisation*
+disallow: /shop/productaffiliation-tableware*
+disallow: /shop/productaffiliation-utility*
+disallow: *-department-homeware*
+allow: /shop/productaffiliation-bedding-promotion-autumndecor-0$
+allow: /shop/productaffiliation-homefragrance-promotion-christmasathome-0$
+
+disallow: *pattern-christmas*
+
+disallow: /shop/promotion-*/material-*
+disallow: /shop/promotion-*/style-*
+disallow: /shop/promotion-*/size-*
+disallow: /shop/promotion-*/colour-*
+
+disallow: *category-kitchenappliances*
+
+disallow: /shop/brand-*/size-*
+disallow: /shop/brand-*/material-*
+disallow: /shop/brand-*/colour-*
+disallow: /shop/brand-*/style-*
+
+disallow: /shop/gender-men-productaffiliation-clothing/colour-*
+disallow: /shop/gender-men-productaffiliation-clothing/material-*
+disallow: /shop/gender-men-productaffiliation-clothing/size-*
+disallow: /shop/gender-men-productaffiliation-clothing/style-*
+
+disallow: /shop/*-use-*-gender-*
+disallow: /shop/use-*-gender-*
+disallow: /shop/*-use-*-department-*
+disallow: /shop/use-*-department-*
+
+disallow: *-use-use$
+
+disallow: *use-christmassweater*
+disallow: *type-shampoo*
+disallow: *use-ruffle*
+disallow: *use-kneehigh*
+disallow: *use-halloween*
+disallow: *use-camouflage*
+disallow: *use-sportsclub*
+
+disallow: /laura-ashley/shop/*/0-*-brand-lauraashley
+
+disallow: *0-christmascampaign25*
+
+disallow: /style/*/shop
+
+disallow: /shop/department-homeware-productaffiliation-kitchen/*category-bins*
+disallow: *type-microwave*
+disallow: *category-kitchenaccessories*
+
+disallow: *use-christmaslights*
+disallow: /shop/*category-christmasdecorations*/*
+
+disallow: *material-youngergirls*
+disallow: *productaffiliation-clothing/category-coats
+disallow: *gender-youngerboys/category-coats
+disallow: *gender-youngergirls/category-coats
+disallow: *gender-women/category-coats
+disallow: *gender-men/category-coats
+disallow: *gender-olderboys/category-coats
+disallow: *gender-oldergirls/category-coats 
+disallow: /shop/category-coats
+
+disallow: *productaffiliation-bedsheets-type-*
+
+disallow: *department-beauty-promotion-giftsforhim*
+disallow: *department-beauty-promotion-giftsforher*
+disallow: *department-beauty-promotion-giftsforchildren*
+
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-double-type-flatsheet$
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-king-type-deepfittedsheet$
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-king-type-extradeepfittedsheet$
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-king-type-fittedsheet$
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-king-type-flatsheet$
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-single-type-deepfittedsheet$
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-single-type-extradeepfittedsheet$
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-single-type-fittedsheet$
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-single-type-flatsheet$
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-superking-type-deepfittedsheet$
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-superking-type-extradeepfittedsheet$
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-superking-type-fittedsheet$
+allow: /shop/department-homeware-productaffiliation-bedsheets/size-superking-type-flatsheet$
+allow: /shop/department-homeware-productaffiliation-bedding/material-100cotton-size-single$
+allow: /shop/department-homeware-productaffiliation-bedding/size-smalldouble
+
+allow: /shop/department-homeware/0-sleepsanctuary$
+allow: /shop/department-homeware-category-sofas/fabrictype-fabric-sofatype-corner$
+allow: /shop/department-homeware/pattern-bow$
+allow: /shop/department-homeware-productaffiliation-curtainsandblinds/style-readymade$
+allow: /shop/department-homeware-productaffiliation-curtainsandblinds/category-curtains-style-readymade$
+allow: /shop/department-homeware-productaffiliation-curtainsandblinds/category-blinds-style-readymade$
+allow: /shop/department-homeware/material-fauxfur$
+allow: /shop/department-homeware/material-fleece$
+
+disallow: *gender-men-category-fleeces*
+disallow: *gender-women-category-fleeces*
+disallow: *gender-women/category-fleeces*
+disallow: *gender-men/category-fleeces*
+disallow: /shop/gender-olderboys/category-fleeces*
+disallow: /shop/gender-youngerboys/category-fleeces*
+disallow: /shop/gender-olderboys-gender-youngerboys/category-fleeces*
+disallow: /shop/gender-oldergirls-gender-youngergirls/category-fleeces*
+disallow: /shop/productaffiliation-baby/category-fleeces*
+disallow: /shop/productaffiliation-baby/*category-fleeces*
+disallow: /shop/gender-oldergirls/category-fleeces*
+disallow: /shop/gender-oldergirls/*category-fleeces*
+disallow: /shop/gender-olderboys-category-fleeces*
+disallow: /shop/gender-youngerboys-category-fleeces*
+disallow: /shop/gender-olderboys-gender-youngerboys-category-fleeces*
+disallow: /shop/gender-oldergirls-gender-youngergirls-category-fleeces*
+
+disallow: *gender-*-productaffiliation-loungewear/category-fleeces*
+disallow: *gender-*-productaffiliation-loungewear/*category-fleeces*
+disallow: *gender-*-productaffiliation-sportswear/category-fleeces*
+disallow: *gender-*-productaffiliation-sportswear/*category-fleeces*
+disallow: *gender-*-productaffiliation-sweatshirtsandhoodies/category-fleeces*
+disallow: *gender-*-productaffiliation-sweatshirtsandhoodies/*category-fleeces*
+
+disallow: *gender-young-*
+disallow: *gender-young/*
+
+disallow: *giftsbyoccasion-christmas-use-christmas*
+disallow: *giftsbyoccasion-christmas-*-use-christmas*
+
+disallow: /sportsclub/*
+allow: /sportsclub$
+
+disallow: *promotion-stylishgiftsforher*
+disallow: *gender-opencollar*
+disallow: /shop/gender-women-neckline
+disallow: /shop/*productaffiliation-jewellery/use-winterwalks
+disallow: /shop/*productaffiliation-jewellery/*use-winterwalks
+disallow: *designfeature*
+
+disallow: /shop/gender-men-category-poloshirts/*
+disallow: /shop/gender-men-category-jackets/*
+disallow: /shop/gender-men-category-coats/*
+disallow: /shop/gender-women-category-jackets/*
+disallow: /shop/gender-women-category-coats/*
+
+allow: /shop/promotion-stockingfillers/minprice-0-maxprice-500$
+allow: /shop/promotion-stockingfillers/minprice-0-maxprice-1000$
+
+disallow: *promotion-noveltychristmasaccessories*
+disallow: /shop/promotion-noveltychristmasaccessories-0$
+
+disallow: *gender-occasion*
+disallow: *gender-yellow*
+disallow: *gender-youngerg/*
+disallow: *gender-mountainsports*
+
+allow: /shop/gender-women-promotion-eid/category-pyjamas$
+allow: /shop/gender-olderboys-gender-youngerboys-promotion-eid/category-pyjamas$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-eid/category-pyjamas$
+allow: /shop/gender-women-promotion-eid/category-dresses$
+allow: /shop/gender-oldergirls-gender-youngergirls-promotion-eid/category-dresses$
+allow: /shop/gender-newborngirls-promotion-eid/category-dresses$
+
+disallow: /sofasale
+disallow: /sofaclearance
+disallow: *productaffiliation-knittedclothing*
+
+disallow: /shop/*/department-homeware*
+disallow: *brand-cream*
+disallow: *category-coffeetable*
+allow: /shop/category-pets/brand-joules*
+allow: /sale/search?w=*&af=gender:unisex%20gender:homeware%20sub:sofas%20gender:unisex%20cat:homeware$
+
+disallow: *type-boxesbaskets*
+disallow: *type-nestoftables*
+disallow: *type-storageboxes*
+disallow: *promotion-thenextedit* 
+disallow: */men/nextedit*
+disallow: *use-performancesportswear*
+disallow: *productaffiliation-storage/*
+disallow: *productaffiliation-storage-*
+disallow: *productaffiliation-bodycare*
+
+allow: /shop/department-homeware-productaffiliation-storage/category-jewellerystorage$
+allow: /shop/department-homeware-productaffiliation-storage/type-jewellerytree$
+
+disallow: */department-*pet*
+
+disallow: /shop/gender-newborn*-gender-older*
+disallow: /shop/gender-older*-gender-newborn*
+
+disallow: *gender-*girlss*
+
+allow: /shop/promotion-eidgifts/category-confectionery-category-foodgifts$
+
+disallow: /laura-ashley/shop/*/*0-edit*
+disallow: /laura-ashley/shop/*/*0-email*
+disallow: /laura-ashley/shop/*/*0-campaign*
+disallow: /laura-ashley/shop/*/*0-homepage*
+disallow: /laura-ashley/shop/*/*0-editpage*
+disallow: /laura-ashley/shop/*/*0-blsr*
+disallow: /laura-ashley/shop/*/*0-push*
+disallow: /laura-ashley/shop/*/*0-osalink*
+disallow: /laura-ashley/shop/*/*0-mission*
+disallow: /laura-ashley/shop/*/*0-tiktok*
+disallow: /laura-ashley/shop/*/*0-osa*
+disallow: /laura-ashley/shop/*/*0-made*
+disallow: /laura-ashley/shop/*/*0-brandpage*
+disallow: /laura-ashley/shop/*/*0-premiumbrands*
+disallow: /laura-ashley/shop/*/*0-brandsemail*
+disallow: /laura-ashley/shop/*/*0-kidslandingpage*
+
+disallow: /shop/colour-*
+
+disallow: *use-halftermfamily*
+disallow: *use-kneehigh*
+disallow: *use-hosiery*
+disallow: *use-travelaccessories*
+disallow: *use-multipacks*
+disallow: *material-workwear*
+disallow: *use-texture*
+disallow: *use-tipped*
+disallow: *gender-mens-*
+disallow: *pattern-softblooms*
+disallow: *use-wetweather*
+disallow: *material-schoolwear*
+disallow: *pattern-christmas*
+disallow: *style-giftset*
+disallow: *type-lightcologne*
+
+disallow: /shop/*department-beauty-*productaffiliation-bathbody*/*colour-
+disallow: /shop/*department-beauty-*productaffiliation-perfumeaftershave*/*colour-
+disallow: /shop/*department-beauty-*productaffiliation-beautygifting*/*colour-
+disallow: /shop/*department-beauty-*productaffiliation-skincare*/*colour-
+disallow: /shop/*department-beauty-*productaffiliation-haircare*/*colour-
+
+disallow: /shop/category-shoes*
+disallow: /shop/gender-women-category-shoes*
+disallow: /shop/gender-men-category-shoes*
+disallow: /shop/category-sandals*
+disallow: /shop/gender-women-category-sandals*
+disallow: /shop/gender-men-category-sandals*
+disallow: /shop/category-boots*
+disallow: /shop/gender-women-category-boots*
+disallow: /shop/gender-men-category-boots*
+
+disallow: /shop/productaffiliation-wedding/category-shoes*
+disallow: /shop/*productaffiliation-wedding/category-shoes*
+disallow: /shop/productaffiliation-wedding/category-sandals*
+disallow: /shop/*productaffiliation-wedding/category-sandals*
+
+disallow: *range-animal*
+disallow: *range-animals*
+
+disallow: *promotion-seasonsoccasionwear*
+disallow: *promotion-seasonssmartshop*
+
+disallow: *promotion-womensgalentines*
+
+disallow: /shop/department-homeware-category-giftexperiences*
+disallow: /shop/*/*category-giftexperiences
+disallow: /shop/*/category-giftexperiences
+allow: /shop/promotion-fatherdaygifts/category-giftexperiences$
+allow: /shop/promotion-harrypotter/category-giftexperiences$
+disallow: *promotion-allwedding*
+
+disallow: /shop/*-department-beauty
+disallow: /shop/department-beauty-gender-women/category-*
+
+disallow: *promotion-61aa90*
+disallow: *promotion-51ad36*
+disallow: *promotion-52ae14*
+disallow: *promotion-52ad93*
+disallow: *promotion-bbwbodycareapril*
+disallow: *promotion-pink-*
+disallow: *promotion-blueandbrown*
+
+disallow: *range-oceanmen*
+
+disallow: /shop/*category-bodymists*/
+disallow: /shop/*category-bronzers*/
+disallow: /shop/*category-concealers*/
+disallow: /shop/*category-conditioners*/
+disallow: /shop/*category-fragrancegiftsets*/
+disallow: /shop/*category-hairstraighteners*/
+disallow: /shop/*category-moisturisers*/
+disallow: /shop/*category-shampoos*/
+disallow: /shop/*category-soaps*/
+
+disallow: *category-tops-*
+disallow: *category-tops$
+
+Sitemap: https://www.next.co.uk/sitemap-index.xml
+
+User-Agent: Halebot
+disallow: /*

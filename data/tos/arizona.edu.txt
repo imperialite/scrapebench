@@ -1,0 +1,100 @@
+University Privacy Statement
+W&W
+Introduction
+The University of Arizona (“U of A”) provides information and services to students, employees, and the public through its information technologies to supplement services provided on campus. We are committed to protecting the personal information of our users and being transparent about the information we hold.  The U of A has developed this statement to explain how personal information is collected, handled, and used. 
+
+This University Privacy Statement provides information required by Arizona law and the University’s Electronic Privacy Policy about U of A’s online information gathering and dissemination practices. Individual pages on U of A websites may provide additional information, which may contain more specific details on how information may be collected, used, or disclosed. 
+
+In addition to the information in this Privacy Statement, U of A’s Information Technology Policies (such as the Code of Conduct, acceptable use policies, and the policies of the Information Security Program) set forth requirements that you must follow when using the U of A’s websites and information technologies. 
+
+If you are in the European Union, please also review the U of A’s Supplemental Privacy Provisions for Persons in the European Union. These EU Supplemental Privacy Provisions provide additional information regarding U of A’s processing of personal data you submit or disclose to the U of A (or to a third party that transfers it to the U of A for processing) while you are in the European Union. 
+
+If you are a resident of a jurisdiction that has enacted data privacy laws, you may have additional rights based on your state or country of residency. Not all data subject rights laws are applicable for the data collected by the U of A. If you have questions about your rights, please refer to the privacy law for your state or country of residency. 
+
+We encourage you to periodically review this Privacy Statement, as well as any information linked to this Privacy Statement, because we may update it from time to time. 
+
+This privacy statement applies to all personal information collected by or submitted to the U of A. This statement, along with any supplemental statements, notices, or policies provided by the U of A or its colleges, departments, or units, should not be construed as a contractual promise. 
+
+What Services U of A Provides Online
+The U of A’s websites provide online information and services to all users of information technologies (“Users”) consistent with the U of A’s mission, vision, and core values (our “Mission”). 
+
+In addition to information and services provided on websites, the U of A may also provide links or other connections to external services and information provided by non-U of A service providers. These non-U of A provided services may include the educational versions of D2L, Box.com, Amazon Web Services, Microsoft Azure, Microsoft Office365, and Google’s G-Suite, which includes Gmail. Non-U of A service providers have their own privacy policies that are not covered by this Privacy Statement. The U of A is not responsible for the privacy practices or policies of non-U of A service providers, and any links or connections are not intended to be an endorsement of their privacy practices or policies. We recommend you review the privacy practices and policies of all non-U of A service providers. 
+
+Information U of A Collects from Users and How We Use it
+The U of A collects information actively provided by you to the U of A (or to a third party that transfers it to the U of A for processing). We may also collect information about the computers, mobile devices, or other devices you use to access the U of A’s information technologies, such as IP address, unique device identifiers, browser types, browser languages, web pages requested, network software access, referring web pages, date, time, and duration of activity, passwords, and accounts accessed, volume of data storage and transfers, and locations of user devices when connected to the U of A’s information technologies. Logs of this information may be retained. When you enter a transaction with the U of A, participate in a U of A class or program, attend a U of A event, or otherwise engage with the U of A or our facilities, we may also collect information about that interaction, such as its content, time, and location.  We may also collect information when you interact with the U of A through its official social media outlets. We may also receive information about you from other sources and link or combine that with the information we collect about you to help understand your needs and provide you with better service. We may contract with non-U of A service providers to help us better understand Users. These non-U of A service providers are not permitted to use the personal information collected on our behalf except to help us conduct and improve our services. 
+
+The U of A uses information collected for a number of interdependent purposes in support of the U of A's Mission, including to provide services, to protect the security of the U of A’s information technologies, to support academic integrity, and to provide safety and security services to users, as well as to monitor, preserve, and enhance the use, functioning, and integrity of the U of A’s information technologies. The U of A may also use information collected from you for analysis and statistical purposes consistent with the U of A’s Mission. 
+
+Information Retention
+The U of A retains personal information only for as long as necessary to fulfill the purposes for which it was collected, comply with legal and regulatory requirements, and support the U of A’s mission. Retention periods vary based on the type of data and applicable laws, including the Family Educational Rights and Privacy Act (FERPA), the State of Arizona and University Custom Retention Schedules, and other governing regulations.
+
+Cookies
+Cookies are small files that are stored on your computing devices and used to remember information provided when a user visits a website. We use cookies to understand and save your preferences for future visits and compile aggregate data about network traffic and network interaction so that we can offer better network experiences and tools in the future. Cookies may be set by organizations other than the U of A. Because the cookie policies of these third-party service providers may change over time, you should review their policies by visiting their privacy policies directly. We also use targeting and advertising cookies, which may be set by the U of A or by third parties. Users may disable cookies through their individual browser options. However, if you do not accept cookies, you may not be able to use some portions of our websites. 
+
+The following describes some of the types of cookies the U of A uses on our websites: 
+
+Required or Strictly Necessary Cookies. These cookies are essential for our websites to operate correctly and to provide you with requested services. For example, we use cookies to authenticate you, so when you log on to the U of A websites, we know who you are. 
+
+Functionality Cookies. We use functionality cookies to enhance website features, such as videos and live chat, and for personalization, such as storing your preferences (e.g. username and language selection). Functionality cookies may be set by the U of A or by third parties whose services we have added to our websites. If you do not allow these cookies, you may not be able to use some portions of our websites, and some website functions may not work properly. 
+
+Social Media Cookies. Social media cookies may be set by third parties such as YouTube and Facebook to collect information about your social media usage. 
+
+Analytics Cookies. Analytics cookies collect information about your use of our websites and help us improve the way it works. For example, analytics cookies identify the most frequently visited pages, record any difficulties you have, and show whether our advertising is effective. This allows us to see the overall patterns of usage on the websites, rather than the usage of a single person. We use the information to analyze the websites’ traffic. 
+
+Targeting/Advertising Cookies. We use targeting/advertising cookies to create profiles and personalize content. We may use third party products, such as Google Analytics, to market the U of A’s services to you on third party websites. For example, if you visit U of A websites, you may then see advertisements for the U of A on other websites. 
+
+You can learn more about cookies and their functions generally by visiting an information website, such as allaboutcookies.org. 
+
+Do Not Track Signals. Some web browsers have a "Do Not Track" (“DNT”) feature that tells websites that users do not want to have their online activity tracked. Not all browsers offer a DNT option and DNT signals are not yet uniform. For this reason, the U of A does not currently require that websites respond to DNT signals. 
+
+
+Alternatives to Website Transactions
+If you prefer not to provide information to the U of A through our information technologies, you may contact the U of A administrative unit responsible for the service to learn about available alternative options. 
+
+Disclosure of Information
+Within the U of A, only authorized U of A-affiliated individuals have access to confidential personal information. All people with access to personal information are required to receive mandatory security and privacy training before accessing any systems. 
+
+The U of A does not disclose confidential personal information we collect through our information technologies to individuals or entities not affiliated with the U of A, except in the limited circumstances described below, or as authorized by you. The U of A may disclose your personal information to its affiliated entities and partners in support of the U of A’s Mission.  Non-confidential information may be disclosed or distributed pursuant to federal laws, state laws, including Arizona’s public records laws, and U of A and Arizona Board of Regents (“ABOR”) policies. These laws and policies explain what information may be shared or disclosed. They also explain what information is protected as confidential.  
+
+Set forth below are circumstances in which confidential information potentially may be disclosed: 
+
+Student Records. Certain records of students are protected by the federal Family Educational Rights and Privacy Act(“FERPA”), the Gramm-Leach-Bliley Act, Arizona law, and U of A policy. Information about students’ access to their education records and protection of education records is available on the U of A Registrar’s informational websites about FERPA and the Gramm-Leach-Bliley Act. This website also provides information on students’ rights to limit access to their directory information. The U of A may disclose confidential student information with the consent of the student, under subpoena or court order, or in other limited circumstances as permitted by FERPA. 
+
+Employee Records. Access to U of A personnel records is governed by Arizona Board of Regents Policy 6-912 and Arizona law. 
+
+Public Records Laws. The U of A may be required to provide access to U of A records to third parties pursuant to Arizona’s public records laws, ARS §§ 39-121 through 39-161. Where public records are requested for commercial purposes, the U of A may require payment for such records.  Additional information about Arizona’s public records laws is available at www.arizona.edu/publicrecords. 
+
+Court Order or Public Safety. The U of A may be required to disclose confidential information pursuant to a valid court order or lawfully issued and served subpoena, search warrant, or other legal order. In addition, the U of A may disclose confidential information to law enforcement if the U of A believes that disclosure is necessary to protect the U of A, to protect the health or safety of individuals, or if law enforcement believes that the U of A’s resources have been used in the commission of a crime. 
+
+Contractors. The U of A may contract with non-U of A service providers to provide services and information to the U of A or through the U of A’s information technologies. The U of A may provide information, including personal information collected on our information technologies, to non-U of A service providers to assist the U of A to deliver classes, programs, products, information, and services. The U of A also contracts with non-U of A service providers to perform analysis, research, and administrative activities for the U of A.  
+
+The U of A requires all contractors and non-U of A service providers that process personal information on their behalf to comply with applicable privacy and security standards. These requirements are enforced through contractual obligations. The U of A may conduct reviews and audits of vendors, as appropriate, to verify compliance and may require evidence of security certifications or independent assessments. Contractors and non-U of A service providers are prohibited from using or disclosing personal information for purposes other than those specified in their agreements with the U of A. 
+
+Academic Research and Related Activities.  The U of A may share personal information with research collaborators as outlined in an approved human research protocol.  If you are a participant in such a study, please contact the principal investigator or the Human Subjects Protection Program for more information on any such sharing. 
+
+Other research projects may also share data derived from your personal information, but only in a de-identified manner unless you give your consent. 
+
+Alumni and Development Services. The U of A shares personal information with our alumni engagement and development partners, including the University of Arizona Alumni Association (UAAA) and the University of Arizona Foundation (UAF). These partners may have their own privacy policies that govern any relationship you may have with them.  Please refer to their privacy policies for more information on their privacy practices, which may permit broader disclosures of information than what is described in this Statement. These alumni partners may provide your personal information for the purpose of providing you with goods and services via third-party vendors, contractors or consultants.  These third parties may compensate or share revenue with our alumni partners as part of this relationship; our alumni partners do not permit these third parties to use or re-disclose such information for unauthorized purposes or those not related to their contractual relationships. 
+
+You may access UAAA’s privacy policy at: www.arizonaalumni.com/privacy-policy. You may access UAF’s privacy policy at: https://www.uafoundation.org/NetCommunity/Privacy-Policy. 
+
+Other. In addition to the foregoing situations, other federal laws, state laws, or ABOR or U of A policies may protect your information as confidential.  In such circumstances, the University will not disclose your confidential information except as permitted in such law or policy. For a list of U of A policies, visit policy.arizona.edu. 
+
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you. 
+
+Security
+The U of A takes steps to ensure that confidential information collected through its information technologies is secure. These steps include ongoing user education; implementing identity and access management solutions; using tools to minimize the impacts of malware, phishing, and hacking attempts; and monitoring activity to identify potential system threats. The U of A routinely assesses and enhances tools and processes available to strengthen our online security. As with any online communications, security is impossible to guarantee, and users should take reasonable precautions to protect their personal information from unintended disclosure. For more information on the U of A’s information security practices, visit security.arizona.edu. 
+
+Children’s Privacy
+The U of A is committed to protecting the rights of children and specifically those privacy rights established by the U.S. Federal Trade Commission as defined in the Children’s Online Privacy Protection Act (COPPA). If you are under age 13 and wish to participate in an event conducted by or sponsored by the U of A, your parent or guardian must register you and provide their consent for your information to be collected. Please ask your parents or guardian to fill out your online registration form or any other forms requesting your information. Parents or guardians who believe their child has provided personal information to the U of A without their consent may contact us at privacy@arizona.edu to request its removal. 
+
+Data Breach Notification
+In the event of a data breach involving personal information, the U of A will promptly investigate and take steps to mitigate any potential harm. The U of A will notify affected individuals without undue delay, consistent with applicable federal and state laws, and will provide information about the nature of the breach, the data involved, and recommended actions to protect yourself. Notifications may be delivered via email, postal mail, or public posting if direct contact is not feasible. The U of A will also report breaches to regulatory authorities as required by law. 
+
+Contact Information
+If you believe the U of A has not adhered to this Privacy Statement, please contact the U of A’s privacy team at privacy@arizona.edu. The U of A will use reasonable efforts to address your concerns, although there may be circumstances where we cannot assist. 
+
+Changes
+We will review this Privacy Statement regularly and publish changes on our website.
+
+This Privacy Statement was most recently updated on October 23, 2025.

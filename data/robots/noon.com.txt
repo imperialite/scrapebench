@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /_svc/
+Disallow: /_vs/
+Allow: /
+
+User-agent: BadBot
+Disallow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://www.noon.com/sitemap-index.xml

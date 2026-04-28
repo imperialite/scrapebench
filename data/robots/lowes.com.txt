@@ -1,0 +1,247 @@
+# robots.txt for https://www.lowes.com/
+
+User-agent: *
+Disallow: /search?*
+Disallow: /*_/N-*
+Disallow: /*lowes/mobile/*
+Disallow: /*search-intg-svc/*
+Disallow: /*_pxhc*
+Disallow: /*No=*
+Disallow: /HC-*
+Disallow: /*OrderItemAdd*
+Disallow: /webapp/wcs/stores/servlet/LowesInStorePurchaseDetail*
+Disallow: /webapp/wcs/stores/servlet/OrderItemAdd*
+Disallow: /*pl__0__
+Disallow: /*FindMoreLikeThis*
+Disallow: /*lkn?action=shoppingCart*
+Disallow: /*registryDetails*
+Disallow: /*UserAccountLanding*
+Disallow: /*ProductDisplay*
+Disallow: /*FindOrders*
+Disallow: /*OrderItem*
+Disallow: /*OrderOk*
+Disallow: /*OrderStatus*
+Disallow: /*orderhistory*
+Disallow: /*orderService*
+Disallow: /*Order/dynaTrace*
+Disallow: /*OrderConf*
+Disallow: /*OrderDetail*
+Disallow: /*OrderCancellation*
+Disallow: /*OrderDisplay*
+Disallow: /*OrderOkView*
+Disallow: /*OrderProcess*
+Disallow: /*InterestItemAdd*
+Disallow: /np_*
+# customer service center coremetrics session reset page
+Disallow: /javascript/coremetrics/cmx.html
+# disallow specific mylowes links
+Disallow: /MyLowes/app/addToLibrary
+Disallow: /MyLowes/app/recentPortfolio
+Disallow: /MyLowes/app/createhomeprofile
+Disallow: /MyLowes/app/spaceslist
+Allow: /content/lowes/desktop/en_us/landing-pages.xml
+Allow: /content/lowes/en_us/npc.xml
+Disallow: /content/lowes/
+Disallow: /MyLowes/app/addToFavorites
+Disallow: /MyLowes/app/space
+Disallow: /MyLowes/app/getview
+Disallow: /MyLowes/app/saveProduct
+Disallow: /MyLowes/app/space.json
+Disallow: /MyLowes/app/createSpace
+Disallow: /MyLowes/app/spacenote.json
+Disallow: /MyLowes/app/deleteitem
+Disallow: /MyLowes/app/spaces
+Disallow: /MyLowes/app/hpProductPreview
+Disallow: /MyLowes/app/deleteHomeItem
+Disallow: /MyLowes/app/addshape.json
+Disallow: /MyLowes/app/homeprofile.json
+Disallow: /MyLowes/app/addfolder
+Disallow: /MyLowes/app/folderView
+Disallow: /MyLowes/app/homeprofileAutoCreate
+Disallow: /MyLowes/app/hpItemAssign
+Disallow: /MyLowes/app/viewAllHomeItems
+Disallow: /MyLowes/app/saveHistProduct
+Disallow: /MyLowes/app/addHistToFavorites
+Disallow: /MyLowes/app/homeItemList
+Disallow: /MyLowes/app/hpAddItem
+Disallow: /MyLowes/app/editfolder
+Disallow: /MyLowes/app/binItemView
+Disallow: /MyLowes/app/hidescreen
+Disallow: /*productId=1017445*
+Disallow: /*productId=3067517*
+Disallow: /*productId=3159561*
+Disallow: /*productId=1093819*
+Disallow: /*productId=1093619*
+Disallow: /*productId=1042161*
+Disallow: /*productId=3159555*
+Disallow: /*productId=1093775*
+Disallow: /*productId=1017431*
+Disallow: /*productId=1093651*
+Disallow: /*CategoryDisplay*
+Disallow: /MContent/Structured/MastheadArea
+Disallow: /mt/
+Disallow: /libs/granite/core/content/login.html
+Disallow: /pd/*/*/find
+Disallow: /pd/*/*/qa
+Disallow: /pd/*/*/share
+Disallow: /pd/*/*/specs
+Disallow: /pd/*/*/alsoviewed/
+Disallow: /pd/*/*/ask-a-question
+Disallow: /pd/*/*/questions
+Disallow: /pd/*/*/related
+Disallow: /pd/*/*/related/
+Disallow: /pd/*/*/zipin
+Disallow: /pd/*/*/pricing/
+Disallow: /pd/*/*/segment/
+Disallow: /pd/*/*/location/
+Disallow: /pd/*/*/displayonly/
+Disallow: /pd/*/*/write-a-review
+Disallow: /pd/*/*/write-a-review?
+Disallow: /pd/*/*/availability/*
+Disallow: /pd/*/*/pricing/zipin
+Disallow: /pd/*/*/reviews
+Disallow: /pd/*/*/pricing/*
+Disallow: /pd/*/*/alsoviewed
+Disallow: /pd/badging-check/*
+Disallow: /pd/*/false
+Disallow: /mylowes/military-validation
+Disallow: /pl/*/*/products*
+Disallow: /online-returns/*
+Disallow: /pdf/Lowes_Pro_*
+Disallow: /p13n*
+Disallow: /*undefined/Guest*
+Disallow: /pers*
+Disallow: /*compareProductIds*
+Disallow: /*seo-meta*
+Disallow: /lowes/desktop/pl/*
+Disallow: /pl/*/*/facets
+Disallow: /c/*offset=*
+Disallow: /pl/*gclid=*
+Disallow: /pl/*sortMethod=*
+#disallow kiosk concept page
+Disallow: /kiosk_bot
+Disallow: /product/converted/*/*.jpg
+
+#Allow content fragment 
+Allow: /content/lowes/en_us/contentfragment/inlinefragment/*
+Allow: /content/lowes/en_us/contentfragment/*
+Allow: /content/lowes/desktop/en_us/fragments/flyouts.json
+Allow: /content/lowes/en_us.footer.json
+Allow: /content/lowes/en_us.masthead.json
+Allow: /content/lowes/en_us/npc/*
+
+#disallow stacked page types 02232022
+Disallow: /pl/*/c/*
+Disallow: /pl/*/pl/*
+Disallow: /c/*/pl/*
+Disallow: /pl/*/*/c/*
+Disallow: /pl/*/*/pl/*
+Disallow: /c/*/*/pl/*
+Disallow: /store/services/*/*/pl/*
+Disallow: /configure/paint/*/pl/*
+
+#disallow stacked page types 03092022
+Disallow: /configure/*/pl/*
+Disallow: /configure/*/c/*
+Disallow: /store/*/pl/*
+Disallow: /store/*/c/*
+Disallow: /copy_blocks/
+Disallow: /configure/*/*/pl/*
+Disallow: /configure/*/*/c/*
+Disallow: /store/*/*/pl/*
+Disallow: /store/*/*/c/*
+Disallow: /configure/*/*/*/pl/*
+Disallow: /configure/*/*/*/c/*
+Disallow: /store/*/*/*/pl/*
+Disallow: /store/*/*/*/c/*
+
+#disallow 500 error content fragment 04222022
+Disallow: /content/lowes/en_us/npc/how-to/change-a-light-fixture
+
+
+#disallow legacy URL 04262022
+Disallow: /lowes/desktop/search* 
+
+#disallow Uppercase Search 10032022
+Disallow: /Search=*
+
+#disallow PD False INTK-22151
+Disallow: /pd/*/false*
+
+#disallow TR Facets 2012023
+Disallow: /pl/5-Top-Rated--*
+Disallow: /pl/4-Top-Rated--*
+Disallow: /pl/3-Top-Rated--*
+Disallow: /pl/2-Top-Rated--*
+Disallow: /pl/1-Top-Rated--*
+
+#disallow legacy product URL 03082023
+Disallow: /productimages/*
+
+Disallow: /pl/*refinement=*,*,*
+
+#9212023
+Disallow: /wpd/*
+Disallow: /pl/*RRMV-11*
+
+#10112023
+Disallow: /pd/*/iUL5*
+Disallow: /500
+Disallow: /404
+
+#021524
+Disallow: /pd_*
+Disallow: /*,5007197
+Disallow: /5007197,*
+Disallow: /*5005561
+Disallow: /*5005562
+Disallow: /*5005559
+Disallow: /*5005558
+
+#050124
+Disallow: /sitemap/pick-up-today-refinement*
+Disallow: /pl/Pick-Up-Today/*/*refinement*
+Disallow: /LowesSearchServices/resources/autocomplete/*
+Disallow: /rnr/r/get-by-product/*
+Disallow: /rnr/psi/*
+
+#060724
+Disallow: /404?*
+Disallow: /500?*
+
+#ChatResources
+Disallow: */ChatInviteEn*.png
+Disallow: */ChatInviteMLSp*.png
+Disallow: */MLTY_Avatar*.png
+Disallow: */DIY_Avatar*.png
+Disallow: */InstallationService*.png
+Disallow: */ChatButtonMobile*.png
+Disallow: */ChatInviteSp*.png
+Disallow: */ChatButtonSpanish*.png
+Disallow: */DefaultClose*.png
+Disallow: */ChatInviteML*.png 
+#NEXUS4252025
+Disallow:/nexus-pl/*
+
+Sitemap: https://www.lowes.com/sitemap.xml
+
+
+#   					@@                                                                              
+#                                  @@@@* .@@@@.                                 
+#                            @@@@/             .@@@@                            
+#                      @@@@#                         *@@@@                      
+#      @@@@@@@@@@@@@@%                                     /@@@@@@@@@@@@@@      
+#@@@@@@@@                                                               @@@@@@@@
+#@%                                                                           ,@
+#@%       @@@%                                             @@                 ,@
+#@%       @@@%       @@@@@@@@@@  @@@@  @@@  @@@@  @@@@@@@@@   @@@@@@@@@.      ,@
+#@%       @@@%       @@@    @@@  @@@@  @@@  @@@@  @@@@        @@@@            ,@
+#@%       @@@%       @@@    @@@  @@@@  @@@  @@@@  @@@@        @@@@            ,@
+#@%       @@@%       @@@    @@@  @@@@  @@@  @@@@  @@@@@@@@@     @@@@@@        ,@
+#@%       @@@%       @R@    @A@  @@N@  @D@  @Y@@  @@@@              @@@@      ,@
+#@%       @@@%       @@@    @@@  @@@@  @@@  @@@@  @@@@              @@@@      ,@
+#@%       @D@@@@@@@  @A@@@@@@@@  @R@@G@@@E@@@@@@  @@@@@N@@@   @@I@@@@O@       ,@
+#@%                                                                           ,@
+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#
+#Want to work with us? Check out: https://www.lowes.com/careers

@@ -1,0 +1,1359 @@
+KETENTUAN LAYANAN PENJUAL UNTUK SHOP
+KETENTUAN LAYANAN PENJUAL UNTUK SHOP
+09/02/2026
+KETENTUAN LAYANAN PENJUAL
+Terakhir diperbarui:  9 Februari 2026
+1.
+Pendahuluan
+Ketentuan Layanan ini (termasuk Lampiran, Apendiks, dan Aneks) (secara bersama-sama disebut sebagai "
+Ketentuan
+") mengatur penggunaan: (i) pasar elektronik yang tersedia melalui aplikasi “TikTok” (“
+Shop
+”) oleh penjual di Shop, dan (ii) pasar elektronik yang tersedia melalui situs web
+www.tokopedia.com
+dan aplikasi seluler “Tokopedia” (“
+Platform Tokopedia
+”) oleh penjual di Platform Tokopedia yang telah melakukan integrasi akun Platform Tokopedia mereka dengan akun Shop mereka (“
+Penjual/Anda
+”), untuk mempromosikan dan menjual ("
+Penawaran
+") barang ("
+Produk
+") kepada pengguna Shop, Platform Tokopedia, dan/atau Platform TikTok  ("
+Pembeli/Pengguna
+"),
+serta penggunaan Pasar Layanan dan langganan Layanan Mitra oleh Anda yang diberikan oleh Para Mitra
+(sebagaimana istilah-istilah tersebut didefinisikan di
+dalam Ketentuan ini
+). Shop dan Platform Tokopedia disediakan oleh {T Tokopedia (“
+Tokopedia
+” atau “
+kami
+”) dan selanjutnya secara bersama-sama disebut sebagai (“
+Platform E-Commerce
+”).
+Produk yang ditawarkan dan dijual di Platform E-Commerce dapat diiklankan, dipromosikan dan ditampilkan melalui aplikasi seluler TikTok ("
+Platform TikTok
+") yang disediakan oleh TikTok Pte. Ltd. ("
+TikTok
+"), afiliasi dari Tokopedia. Namun demikian, setiap transaksi (misalnya penempatan pesanan, penawaran, penerimaan, konfirmasi, pemrosesan pembayaran, pengiriman dan penerimaan produk, serta dukungan pelanggan) sehubungan dengan produk akan diproses dan difasilitasi melalui Platform E-Commerce.
+Apabila Ketentuan ini merujuk pada "Afiliasi Tokopedia", ini berarti setiap entitas yang secara langsung atau tidak langsung mengendalikan, dikendalikan oleh, atau berada di bawah kendali yang sama dengan Kami.
+2.
+Menerima Ketentuan ini
+Dengan mengklik "Setuju", Anda mengonfirmasi bahwa Anda dapat membuat kontrak yang mengikat dengan Tokopedia, bahwa Anda menerima Ketentuan ini dan bahwa Anda setuju untuk mematuhinya.
+Akses dan penggunaan Anda atas layanan Kami juga tunduk pada
+Ketentuan Layanan TikTok
+dan
+Kebijakan Privasi
+serta Kebijakan yang berlaku (sebagaimana diatur dalam Pasal 13,
+Aturan Penggunaan Platform E-Commerce
+), yang ketentuannya dimasukkan di dalam Ketentuan ini sebagai referensi. Apabila terdapat perbedaan antara ketentuan dalam Ketentuan ini dan Kebijakan, maka Kebijakan yang akan berlaku, kecuali apabila klausul terkait dalam Ketentuan ini secara tegas menyebutkan bahwa Ketentuan akan berlaku dan, apabila terdapat perbedaan antara
+Ketentuan Layanan TikTok
+dan Ketentuan ini, maka yang akan berlaku adalah Ketentuan
+Layanan Tik
+Tok. Penggunaan Anda atas produk dan/atau layanan TikTok, yang diakses melalui akun TikTok Untuk Bisnis, Manajer Iklan TikTok, atau Pusat Bisnis TikTok tunduk pada
+Ketentuan TikTok Untuk Bisnis
+.
+Jika Anda mengakses atau menggunakan Platform E-Commerce atas nama suatu usaha atau entitas, maka (a) “Anda” (“
+You
+”) dan “Anda” (“
+Your
+”) mencakup Anda dan usaha atau entitas tersebut, (b) Anda menyatakan, menjamin, dan berjanji bahwa Anda adalah perwakilan resmi dari usaha atau entitas tersebut yang memiliki wewenang untuk mengikatkan entitas tersebut dengan Ketentuan ini, dan bahwa Anda menyetujui Ketentuan ini atas nama entitas tersebut, dan (c) usaha atau entitas Anda bertanggung jawab secara hukum dan finansial atas akses atau penggunaan Anda terhadap Platform E-Commerce serta akses atau penggunaan akun Anda oleh orang lain yang berafiliasi dengan entitas Anda, termasuk setiap karyawan, agen, atau kontraktor.
+Apabila Anda tidak menyetujui Ketentuan ini, Anda tidak boleh mengakses atau menggunakan Platform E-Commerce.
+3.
+Perubahan terhadap Ketentuan ini
+Kami dapat mengubah Ketentuan ini dari waktu ke waktu. Kami akan menggunakan upaya yang wajar secara komersial untuk secara umum memberi tahu Anda tentang setiap perubahan material terhadap Ketentuan ini, seperti melalui pemberitahuan tertulis kepada Anda melalui Pusat Penjual. Namun, Anda bertanggung jawab penuh untuk meninjau Ketentuan ini secara berkala untuk memeriksa perubahan tersebut. Kami juga akan memperbarui tanggal "Terakhir Diperbarui" di bagian atas Ketentuan ini, yang merupakan tanggal berlaku Ketentuan tersebut.
+Perubahan apa pun tidak akan memiliki efek yang berlaku surut. Apabila Anda tidak menyetujui perubahan yang diberitahukan kepada Anda, Anda berhak untuk mengakhiri hubungan kontraktual Anda dengan Kami kapan pun, dengan tunduk pada ketentuan Pasal 24.
+Dengan terus menggunakan Platform E-Commerce setelah tanggal berlaku perubahan terhadap Ketentuan ini, Anda dianggap menyetujui perubahan tersebut.
+Apabila Anda tidak menyetujui Ketentuan yang baru, Anda harus berhenti mengakses atau menggunakan Platform E-Commerce.
+4.
+Tentang Platform E-Commerce
+Apa itu Platform E-Commerce?
+Platform E-Commerce utamanya memungkinkan Penjual menawarkan Produk kepada Pengguna. Produk juga dapat diiklankan, dipromosikan, dan ditampilkan di Platform TikTok kepada Penggunanya, tetapi setiap transaksi sehubungan dengan Produk hanya akan diproses dan difasilitasi melalui Platform E-Commerce. Pengguna yang membeli Produk dari Penjual melalui Platform E-Commerce adalah Pembeli dalam Ketentuan ini.
+Platform E-Commerce memungkinkan Penjual untuk:
+•
+mendapatkan akses ke pusat penjual ("
+Pusat Penjual
+") dan memanfaatkan layanan/fitur yang Kami tawarkan;
+•
+mengunggah dan mengelola informasi dan daftar Produk untuk ditampilkan kepada Pengguna;
+•
+menerima pesanan dan menyelesaikan penjualan dengan Pembeli;
+•
+melacak serta mengelola pesanan dan pengiriman;
+•
+memberikan layanan pelanggan kepada Pembeli;
+•
+menyusun rencana promosi, misalnya melalui fitur afiliasi; dan
+•
+menggunakan fungsi dan fitur lainnya (misalnya, Etalase) yang ditawarkan oleh Platform E-Commerce kepada Seller.
+Informasi lebih lanjut tentang fitur-fitur Platform E-Commerce dapat ditemukan di
+Shop Academy.
+PENTING
+: Kontrak penjualan Produk (“
+Penjualan
+”) hanya diadakan antara Penjual dan Pembeli. Anda bertanggung jawab untuk mematuhi semua undang-undang yang berlaku untuk Penawaran dan Penjualan di Indonesia (“
+Hukum Yang Berlaku
+”). Anda juga harus mematuhi kontrak antara Anda dan Pembeli untuk penjualan Produk ("
+Ketentuan Penjualan
+”) - lihat di
+sini
+(untuk Shop)
+dan di
+sini
+(untuk Tokopedia Platform).
+Apabila Anda tidak mematuhi Hukum yang Berlaku atau Ketentuan Layanan, hal tersebut merupakan pelanggaran yang material terhadap Ketentuan ini.
+Siapa yang Dapat Menggunakan Platform E-Commerce?
+Penjual yang disetujui sebelumnya oleh Tokopedia dapat menggunakan Platform E-Commerce. Apabila disetujui, Anda juga dapat mengizinkan pihak ketiga untuk mengelola dan untuk bekerja sama dengan Platform E-Commerce atas nama Anda.
+PENTING
+: Apabila Anda mengizinkan pihak ketiga untuk melakukan hal ini, Anda akan tetap bertanggung jawab atas semua kegiatan mereka di Platform E-Commerce.
+Di mana Anda Dapat Menggunakan Platform E-Commerce untuk Menjual Produk?
+Penjual yang Disetujui dapat menggunakan Platform E-Commerce untuk melakukan Penawaran Produk kepada Pengguna yang berada di Indonesia.
+5.
+Cara Menggunakan Platform E-Commerce
+Cara mendaftar sebagai Penjual di Platform E-Commerce
+Sebelum mendaftar sebagai Penjual di Platform E-Commerce, Anda harus memiliki akun Platform E-Commerce (“
+Akun
+”). Anda akan diminta untuk memberikan informasi tertentu (“
+Informasi Orientasi
+”) kepada Tokopedia selama proses pendaftaran. Kami akan menggunakan Informasi Orientasi Anda untuk menilai apakah Anda akan diizinkan untuk menggunakan Platform E-Commerce atau tidak. Apabila Anda diizinkan, Anda akan dapat mengakses fungsi Penjual melalui Platform E-Commerce. Instruksi untuk mendaftar sebagai Penjual dan Informasi Orientasi yang perlu Anda berikan dapat ditemukan dalam
+Pedoman Pendaftaran Penjual
+.
+Apabila Anda tidak memberikan dan senantiasa menjaga Informasi Orientasi yang lengkap dan akurat, hal tersebut merupakan pelanggaran yang material terhadap Ketentuan ini.
+Anda harus melalui proses verifikasi Kami sebelum Anda akan diizinkan untuk menjadi Penjual di Platform E-Commerce. Anda dapat merujuk ke
+Pedoman Pendaftaran Penjual
+untuk aturan yang terperinci.
+Anda senantiasa menyatakan bahwa:
+(i)
+Anda adalah, dan akan tetap menjadi, suatu usaha yang didirikan secara patut, terdaftar, tunduk secara sah dan memenuhi semua kewajibannya berdasarkan hukum Indonesia, dan Anda memiliki kuasa, kapasitas, dan kewenangan penuh untuk menandatangani dan melaksanakan kewajiban-kewajiban Anda sebagai suatu Penjual; dan
+(ii)
+Anda akan mendapatkan dan mempertahankan semua lisensi, izin, dan persetujuan yang diperlukan yang dipersyaratkan untuk memenuhi kewajiban Anda sebagai suatu Penjual.
+Apabila Anda adalah orang perseorangan, Anda harus berusia 18 tahun atau lebih dan melalui proses verifikasi Kami sebelum Anda diizinkan untuk menjadi Penjual di Platform E-Commerce.
+Apabila Anda berusia di antara 18 sampai dengan 21 tahun, belum menikah atau berada di bawah perwalian, Anda hanya dapat menjadi Penjual atas izin dari orang tua atau wali sah Anda. Lebih lanjut, dengan menyetujui Ketentuan ini, Anda menyatakan dan menjamin bahwa Anda telah mendapatkan persetujuan dari orang tua atau wali sah Anda, kecuali apabila Anda menyatakan sebaliknya. Dengan persetujuan mereka, orang tua atau wali sah Anda sepakat untuk bertanggung jawab atas:
+(i) segala tindakan Anda sehubungan dengan penggunaan fungsi Penjual oleh Anda melalui Platform E-Commerce;
+(ii) segala biaya atau pengeluaran yang terkait dengan penggunaan Akun Penjual dan fungsi Penjual oleh Anda;
+(iii) kepatuhan Anda terhadap Ketentuan ini; dan
+(iv) memastikan bahwa penggunaan Akun Penjual dan fungsi Penjual oleh Anda tidak akan, dalam hal apa pun, menyebabkan suatu pelanggaran Hukum Yang Berlaku dan peraturan yang berkenaan dengan perlindungan anak.
+Apabila Anda berusia di antara 18 sampai dengan 21 tahun dan Anda belum menikah, dan Anda tidak memiliki persetujuan dari orang tua atau wali sah dan orang tua Anda, Anda harus berhenti menjadi Penjual.
+Anda dapat mengacu ke
+Panduan Pendaftaran Penjual
+untuk aturan yang lebih rinci.
+PENTING
+: Setelah Anda diizinkan untuk menggunakan Akun Anda untuk Platform E-Commerce, Akun Anda akan secara otomatis berubah dari Akun non-bisnis ke Akun bisnis.
+Apabila terdapat ketidaksesuaian antara Ketentuan ini dan
+Ketentuan Layanan TikTok
+, Ketentuan ini akan berlaku sehubungan dengan ketidaksesuaian tersebut, sejauh perbedaan tersebut berkaitan dengan Platform E-Commerce.
+Cara Mendaftarkan Produk
+Setelah Anda berhasil terdaftar sebagai Penjual di Platform E-Commerce, Anda akan dapat mengunggah rincian Produk(-Produk) Anda dan mendaftarkannya untuk ditampilkan kepada Pengguna. Instruksi mengenai cara melakukan hal ini dan pemeriksaan yang Kami lakukan sebelum daftar ditayangkan (“
+Kriteria Kelayakan Produk
+”) dapat ditemukan di
+Shop Academy
+. Apabila Anda tidak menyediakan perincian yang lengkap dan akurat untuk Produk Anda kepada Pembeli sebelum dan sesudah Penjualan, hal tersebut merupakan pelanggaran yang material terhadap Ketentuan ini.
+Daftar Produk Anda harus menyediakan semua syarat dan ketentuan yang diwajibkan secara hukum (berdasarkan Hukum yang Berlaku) kepada Pembeli sebelum Penjualan diselesaikan. Apabila Anda tidak menyediakan syarat dan ketentuan tersebut kepada Pembeli sebelum Penjualan diselesaikan, hal tersebut merupakan pelanggaran yang material terhadap Ketentuan ini.
+Cara Menjual Produk
+Anda dapat menjual Produk Anda dengan cara yang tersedia bagi Anda (misalnya, menambahkan tautan terkait Produk ke konten yang dibagikan oleh Anda atau atas nama Anda, atau menjual Produk Anda melalui siaran langsung). Ketersediaan beberapa fungsi yang digunakan untuk menjual Produk dapat dibatasi untuk Penjual tertentu, sebagaimana ditentukan atas pertimbangan Tokopedia sendiri.
+Cara Memproses Penjualan
+Setelah Penjualan dilakukan, suatu pesanan ("
+Pesanan
+") akan dibuat dalam Akun Anda. Anda bertanggung jawab untuk mengatur pengiriman Pesanan tersebut (termasuk pengemasan Produk dan pengaturan pengambilan Produk oleh, atau untuk penyetoran Produk ke, penyedia layanan pengiriman tersebut) dengan menggunakan penyedia layanan pengiriman yang Kami tentukan sesuai dengan jenis pengiriman yang dipilih oleh Pembeli. Instruksi mengenai cara melakukan hal tersebut dapat ditemukan di
+Shop Academy
+. Apabila Anda tidak mengatur pengiriman Produk kepada Pembeli setelah Penjualan sesuai dengan Ketentuan ini atau jika Produk yang Anda kirimkan kepada Pembeli tidak sesuai sehubungan dengan semua hal yang material dengan deskripsi Produk yang diberikan kepada Pembeli sebelum Penjualan, hal tersebut merupakan pelanggaran material terhadap Ketentuan ini.
+Komunikasi dengan Pembeli
+Kami menawarkan Anda fitur untuk berkomunikasi dengan Pembeli untuk memfasilitasi pelaksanaan Pesanan tertentu dan menanggapi pertanyaan dari Pembeli. Anda juga dapat meninjau dan membalas komentar dari Pembeli terhadap Pesanan tertentu.
+Anda mengakui dan menyetujui bahwa pesan Anda harus mematuhi
+Panduan Komunitas
+.
+Pengembalian, Penggantian, dan Pembatalan
+Penjual bertanggung jawab untuk mematuhi setiap hak pengembalian dana, penggantian, atau pembatalan yang mungkin dimiliki oleh Pembeli berdasarkan Hukum yang Berlaku serta kewajiban Produk lebih lanjut yang ditetapkan dalam
+Pedoman Pembatalan, Pengembalian Barang, dan Pengembalian Dana Pesanan Pelanggan
+. Instruksi cara melakukan pengembalian dana Penjualan atau membatalkan Pesanan dapat ditemukan dalam
+Pedoman Pembatalan, Pengembalian Barang, dan Pengembalian Dana Pesanan Pelanggan
+.
+Apabila Anda tidak menyediakan pengembalian dana atau hak untuk membatalkan Penjualan atau mengganti produk kepada Pembeli apabila Pembeli memiliki hak yang sah untuk melakukannya berdasarkan Hukum Yang Berlaku, hal tersebut merupakan pelanggaran yang material terhadap Ketentuan ini
+.
+Penarikan Produk
+Anda bertanggung jawab untuk mematuhi setiap pemberitahuan penarikan atau keselamatan yang wajib diberikan sehubungan dengan Produk yang Ditawarkan oleh Anda berdasarkan Hukum Yang Berlaku. Anda setuju untuk segera menghapus Produk apa pun dari Platform E-Commerce apabila itu dikenakan pemberitahuan penarikan atau keselamatan. Apabila Anda tidak menghapus Produk tersebut, hal tersebut merupakan pelanggaran yang material terhadap Ketentuan ini.
+Peringkat Produk
+Parameter utama yang Kami gunakan saat menentukan apakah dan bagaimana Produk Anda ditawarkan kepada Pengguna adalah:
+•
+Aktivitas pengguna di Platform E-Commerce: seperti mengeklik daftar Produk atau berinteraksi dengan Konten Kreator;
+•
+Informasi pengguna: informasi yang diungkapkan Pengguna di akun mereka. Misalnya, usia, jenis kelamin, lokasi, atau minat mereka yang telah mereka ungkapkan kepada Kami melalui pengaturan Pengguna mereka;
+•
+Kualitas daftar Produk: Kami mengukur kualitas daftar Produk dengan menilai fitur-fitur yang relevan dari daftar Produk, seperti apakah gambar Produk memiliki kualitas yang rendah; dan
+•
+Kualitas Konten Kreator: Kami mengukur kualitas Konten Kreator dengan menilai fitur-fitur yang relevan dari Konten Kreator, seperti apakah video berkualitas rendah, dan keterlibatan Pengguna dengan Konten Kreator, seperti jumlah penayangan.
+Bagaimana Pembayaran Dipeoses di Platform E-Commerce?
+1.
+Proses pembayaran
+Kami melibatkan penyedia jasa pembayaran yang berizin untuk memfasilitasi dan mengamankan setiap transaksi pembayaran di Platform E-Commerce antara Anda, Pembeli dan Kreator, yang termasuk berbagai proses pembayaran yang dijelaskan di Ketentuan ini. Semua Produk yang dibeli harus dibayar menggunakan salah satu metode pembayaran yag tersedia di Platform E-Commerce dari waktu ke waktu. Semua pembayaran Produk oleh Pembeli harus dilakukan ke Kami.
+2.
+Menerima pembayaran untuk pembelian di Platform E-Commerce
+Anda mengakui dan mengizinkan Kami untuk (a) mengumpulkan pembayaran dari Pembeli atas nama Anda, (b) menyimpan dana yang Anda terima dari hasil penjualan sudatu Pesanan yang telah selesai di suatu fasilitas pengumpulan dana sementara yang dibuat di Akun Anda, dan (c) mengelola dana tersebut sesuai dengan prinsip kehati-hatian dalam pengelolaan kas, dengan mematuhi peraturan perundang-undangan yang berlaku. Anda dapat mengajukan permintaan kepada Kami untuk menarik dana dari Akun Anda ke rekening bank atau akun e-wallet yang terdaftar di Akun ("
+Permintaaan Penarikan"
+). Sebelum mengajukan Permintaan Penarikan, anda harus mengisi nomor dan detail rekening bank ataua kun e-wallet yang Anda ingin daftarkan di Akun Anda. Anda mengakui dan menyetujui bahwa Permintaan Penarikan apapun yang diajukan kepada Kami tidak dapat diubah atau di batalkan. Petunjuk Permintaan Penarikan di Platform E-Commerce, termasuk, namun tidak terbatas pada, jumlah maksimal rekening bank terdaftar, jumlah penarikan dan biaya yang berlaku (jika ada) akan diatur di sub-bagian "Penarikan" dari bagian "Keuangan: di
+Shop Academy
+.
+Jika Kami mengetahui atau secara wajar mencurigai bahwa Anda telah terlinat di kegiatan atau transaksi penipuan atau ilegal di Platform E-Commerce atau melakukan pelanggaran material atas Ketentuan ini, Anda setuju dan mengizinkan Kami untuk memverifikasi, menginvestigasi, menunda dan/atau membatalkan Perminyaan Penarikan Anda dan membekukan dana yang harus dibayarkan kepada anda.
+Anda setuju untuk melepaskan dan membebaskan Kami dari pertanggungjawaban, kerugian atau kerusakan apapun yang mungkin ditimbulkan oleh Anda sebagai akibat dari mengajukan Permintaan Penarikan, termasuk, namun tidak terbatas pada, memasukkan jumlah penarikan yang keliru dan mendaftarkan nomor rekening bank atau informasi Anda.
+3.
+Pengurangan pembayaran untuk Kreator dan Kami
+Anda mengakui bahwa Sebagian dari pembayaran dari Pembeli akan dipotong dan dibayarkan kepada (a) Kami sebagai Biaya untuk penggunaan Platform E-Commerce dan biaya lainnya yang harus dibayarkan kepada kami dan (b) Kreator, sebagai biaya yang harus dibayarkan oleh Anda kepada Kreator ("
+Komisi Kreator
+") sebagaimana disepakati oleh Anda dan Kreator yang bersangkutan.
+Anda mengakui dan sepakat bahwa sebagai penyedia Fitur Afiliasi dan Platform E-Commerce, Kami dapat memperbolehkan dan memfasilitasi proses pembayaran di Platform E-Commerce melalui penyedia jasa pembayaran yang berizin berdasarkan kesepakatan antara Anda dan Kreator atau transaksi antara Anda dan Pembeli, termasuk tetapi tidak terbatas pada:
+•
+jumlah-jumlah yang akan dipotong dari pembayaran dari Pembeli yang jatuh tempo kepada Kami atau suatu afiliasi atau pihak lainnya, termasuk setiap biaya platform yang jatuh tempo kepada Kami, dan setiap Komisi Kreator yang jatuh tempo kepada Kreator sesuai dengan kesepakatan antara Anda dan Kreator melalui Fitur Afiliasi;
+•
+apakah terdapat permintaan pengembalian dana, permintaan pengembalian barang atau sengketa yang diajukan Pembeli, diselesaikannya setiap sengketa antara Pembeli dan Anda sebagai akibat dari permintaan pengembalian dana, permintaan pengembalian barang atau sengketa yang diajukan, dan cara uang akan diproses sesuai dengan kesepakatan penyelesaian sengketa tersebut;
+•
+setiap perintah, amar putusan, putusan atau keputusan dari pengadilan, majelis arbitrase atau otoritas yang memiliki kompetensi yang memerintahkan pencairan uang;
+•
+jumlah yang akan dikurangkan dari pembayaran yang akan dilakukan kepada Anda untuk pembayaran Komisi Kreator, jika Pembeli berhasil mendapatkan pengembalian dana; dan
+•
+informasi lain apa pun sehubungan dengan transaksi antara Pembeli dan Anda, termasuk penjualan, pengembalian dana, atau pembatalan, sebagaimana ditentukan oleh Kami atau sesuai dengan ketentuan yang ditetapkan dalam Ketentuan ini, Kebijakan, atau ketentuan lain apa pun yang disepakati antara Anda dan Kami.
+Bagaimana cara kerja Logistik?
+Saat mengirim Produk ke Pembeli Anda harus mengikuti langkah-langkah di bawah ini:
+•
+Anda hanya dapat menggunakan penyedia layanan pengiriman yang Kami tentukan sesuai dengan jenis pengiriman yang dipilih oleh Pembeli. Selain dari yang secara tegas dinyatakan berdasarkan Ketentuan ini dan/atau diatur dalam Shop Academy, seluruh biaya pengiriman dan pembayaran yang harus dibayarkan kepada penyedia layanan pengiriman dibayar oleh Pembeli.
+•
+Anda harus mematuhi persyaratan yang ditetapkan dalam
+Shop Academy
+, termasuk persyaratan tentang pengemasan dan pelabelan Produk.
+•
+Ketika Anda mengirimkan Produk, Anda harus mengirimkan informasi pelacakan kepada kami melalui "Konten Pelacakan" di Pusat Penjual. Kami kemudian akan membagikan Konten Pelacakan ini dengan penyedia jasa pelacakan logistik kami ("
+Penyedia Jasa Pelacakan
+") untuk melacak Pesanan.
+•
+Anda menyatakan dan menjamin bahwa: (i) Anda adalah pemilik tunggal dan eksklusif dari Konten Pelacakan atau memiliki semua hak, lisensi, persetujuan dan pelepasan yang diperlukan untuk penggunaan Konten Pelacakan oleh Kami dan Penyedia Jasa Pelacakan Kami; dan (ii) baik Konten Pelacakan, penyediaan informasi pelacakan lainnya kepada Kami, penyerahan, pengunggahan, penerbitan atau penyediaan Konten Pelacakan oleh Kami, maupun penggunaan Konten Pelacakan oleh Penyedia Jasa Pelacakan Kami atas Konten Pelacakan tersebut tidak akan menyalahi, menyalahgunakan, atau melanggar hak kekayaan intelektual atau hak milik pihak ketiga, atau hak publisitas atau privasi, atau mengakibatkan pelanggaran terhadap Hukum Yang Berlaku atau peraturan yang berlaku.
+•
+Anda selanjutnya setuju bahwa:
+•
+Ukuran, berat dan dimensi sebenarnya dari suatu Produk yang akan dikirim sehubungan dengan Pesanan akan sesuai dengan ukuran, berat dan dimensi yang dikemukakan pada Informasi Produk yang ditampilkan pada Platform E-Commerce. Jika terdapat ketidaksesuaian, setiap biaya dan pengeluaran tambahan sehubungan dengan pengiriman Produk tersebut kepada Pembeli akan dibayarkan oleh Anda.
+•
+Jika Produk tidak dapat dikirim kepada Pembeli dan harus dikembalikan ke Anda karena kesalahan atau kelalaian Anda (misalnya, karena kesalahan alamat Pembeli yang Anda masukkan) atau jika diwajibkan oleh peraturan perundang-undangan yang berlaku, setiap biaya dan pengeluaran sehubungan dengan pengembalian pengiriman Produk tersebut akan dibayarkan oleh Anda.
+•
+Anda tidak akan menyebabkan Tokopedia mengirim atau menangani bahan, zat atau barang apa pun yang berbahaya menurut Tokopedia ("
+Produk Berbahaya
+"). Jika Produk Berbahaya tersebut berada dalam penguasaan kami (atau penguasaan penyedia layanan pengiriman yang Kami tunjuk), Tokopedia memiliki pilihan untuk mengembalikan Produk tersebut kepada Anda dengan biaya dan pengeluaran Anda, atau untuk menghancurkan, meninggalkan atau membuang Produk Berbahaya tersebut atas kebijakan Tokopedia sendiri tanpa tanggung jawab kepada Anda atau Pembeli. Anda harus memberikan Tokopedia seluruh bantuan dan informasi dan mengambil segala upaya atau tindakan yang diminta oleh Tokopedia sehubungan dengan pembuangan Produk tersebut atas biaya dan pengeluaran Anda sendiri.
+•
+Anda tidak akan membagikan atau menyebarkan materi atau konten yang (i) melanggar hukum, menyinggung, berbahaya, mengancam, kasar, melecehkan, melawan hukum, mengandung kekerasan berlebih, bersifat memfitnah, vulgar, cabul, pornografi, mencemarkan nama baik, melanggar privasi orang lain, penuh kebencian secara ras, secara etnis atau dengan cara lain tidak pantas; (ii) tidak berhak untuk Anda sebarkan berdasarkan hukum atau hubungan kontraktual atau kepercayaan (
+fiduciary
+); (iii) menimbulkan ancaman atau mengakibatkan risiko privasi atau keamanan terhadap siapa pun; (iv) melanggar hak kekayaan intelektual atau hak kepemilikan lain dari pihak mana pun; (v) merupakan iklan, materi promosi, aktivitas komersial dan/atau penjualan, yang tidak diinginkan atau tidak diizinkan, “surat sampah” (“
+junk mail
+”), “spam”, “surat berantai” (“
+chain letters
+”), “skema piramida”, “kontes”, “undian”, atau bentuk ajakan lainnya; (vi) mengandung konten jahat, virus perangkat lunak atau kode, berkas atau program komputer lainnya yang didesain untuk mengganggu, menghancurkan atau membatasi fungsionalitas perangkat lunak atau perangkat keras komputer mana pun atau perlengkapan telekomunikasi apa pun; atau (vii) melanggar hukum atau dimaksudkan untuk mendukung atau melakukan tindakan melanggar hukum jenis apa pun; atau (viii) menurut pendapat Kami atau Penyedia Jasa Pelacakan Kami, tidak dapat diterima atau dapat membatasi atau mengurangi kemampuan orang lain untuk menggunakan atau menikmati layanan Penyedia Jasa Pelacakan Kami, atau yang dapat memaparkan Kami, Penyedia Jasa Pelacakan Kami, atau pihak lainnya terhadap bahaya atau pertanggungjawaban bentuk apa pun atau merusak nama baik Kami;
+•
+Anda tidak akan meniru orang atau entitas mana pun, atau menyatakan dengan tidak benar atau dengan cara lain secara keliru menyatakan bahwa Anda berafiliasi dengan suatu pribadi atau entitas;
+•
+Kami, dan Penyedia Jasa Pelacakan Kami, tidak diwajibkan untuk menyimpan, menjaga, menerbitkan atau menyediakan Konten Pelacakan apa pun dan Anda bertanggung jawab untuk membuat cadangan untuk Konten Pelacakan tersebut apabila diperlukan; dan
+Dalam keadaan apa pun Kami, atau Penyedia Jasa Pelacakan Kami tidak akan bertanggung jawab dengan cara apa pun untuk Konten Pelacakan, termasuk, tetapi tidak terbatas pada, kesalahan atau pengabaian dalam Konten Pelacakan, atau kehilangan atau kerugian sehubungan dengan penggunaan atau pemaparan Konten Pelacakan tersebut yang disediakan melalui situs web atau platform Penyedia Jasa Pelacakan Kami.
+Data Apa yang dapat Anda Akses dan Hak Apa yang Anda Miliki untuk Menggunakannya?
+Hukum Perlindungan Data yang Berlaku
+Dalam Ketentuan ini, "Hukum Perlindungan Data yang Berlaku" berarti: (i) sejauh GDPR Kerajaan Inggris (sebagaimana didefinisikan di bawah ini) berlaku, hukum Kerajaan Inggris atau bagian dari Kerajaan Inggris yang terkait dengan perlindungan data pribadi (sebagaimana didefinisikan dalam
+Kebijakan Privasi
+); dan (ii) sejauh GDPR Uni Eropa (sebagaimana didefinisikan di bawah ini) berlaku, hukum Uni Eropa atau negara anggota Uni Eropa mana pun yang Kami tunduk, yang terkait dengan perlindungan data pribadi; dan sejauh hukum atau peraturan lain yang terkait dengan perlindungan data atau privasi data berlaku, hukum atau peraturan lain yang Kami tunduk, termasuk namun tidak terbatas pada: (i) Undang-Undang Nomor 27 Tahun 2022 tentang Perlindungan Data Pribadi, dan (ii) Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (sebagaimana diubah), dan setiap peraturan pelaksanaannya.
+Data yang Dikumpulkan Tokopedia dari Anda
+Data yang Kami kumpulkan tentang Anda dan aktivitas Anda di Platform E-Commerce dijelaskan dalam
+Kebijakan Privasi.
+Data yang Disediakan Tokopedia untuk Anda
+Data ini akan mencakup data yang termasuk dalam definisi "data pribadi" (sebagaimana didefinisikan dalam
+Kebijakan Privasi
+, dan termasuk data apa pun yang Anda terima atau tersedia untuk Anda melalui fungsi pesan Platform E-Commerce ("
+Data Platform E-Commerce
+"), seperti data yang tersedia untuk Anda saat Anda berkomunikasi langsung dengan Pengguna melalui fungsi pesan Platform E-Commerce.
+Anda hanya dapat menggunakan Data Platform E-Commerce sesuai dengan (i) Ketentuan ini dan Kebijakan; (ii) pemberitahuan privasi yang Anda berikan kepada Pembeli sebelum Penjualan diselesaikan; dan (iii) Hukum Yang Berlaku. Anda hanya dapat menggunakan Data Platform E-Commerce untuk tujuan pemrosesan dan pemenuhan Pesanan dari Pembeli dan apabila diperlukan untuk menangani pengembalian dana, pembatalan, pertanyaan, atau klaim dari Pembeli sehubungan dengan Pesanan (“
+Tujuan Yang Diizinkan
+”). Anda tidak diizinkan untuk menggunakan Data Platform E-Commerce untuk tujuan(-tujuan) lain, sebagai contoh, Anda tidak boleh: (i) menjual atau memperdagangkan Data Platform E-Commerce; (ii) menggunakan Data Platform E-Commerce selain untuk Tujuan Yang Diizinkan, kecuali apabila Pengguna telah memberikan persetujuan sebelumnya sesuai dengan persyaratan Hukum Yang Berlaku; atau (iii) menggunakan Data Platform E-Commerce untuk mengirimkan pesan pemasaran atau promosi langsung lainnya kepada Pengguna melalui surel atau metode komunikasi langsung lainnya dengan Pengguna, kecuali apabila (a) Anda telah mendapatkan persetujuan tegas dan terinformasi sebelumnya dari Pengguna sesuai dengan Hukum yang Berlaku ; atau (b) Anda menggunakan fungsi atau fitur khusus yang Kami tawarkan di Pusat Penjual. Tunduk pada Pasal 5 ini, Anda tidak boleh menggunakan fungsi pesan Platform E-Commerce untuk tujuan pemasaran atau promosi apa pun.
+Anda harus mengambil langkah-langkah keamanan yang memadai untuk memastikan keamanan Data Platform E-Commerce yang Anda miliki dan Anda harus menghapus Data Platform E-Commerce tersebut sesegera mungkin setelah menyelesaikan transaksi Anda dengan Pembeli.
+Data yang Diproses Tokopedia atas nama Anda
+Tanpa mengurangi posisi umum sehubungan dengan pemrosesan data pribadi dan posisi kami sebagai pengendali data pribadi, dalam situasi di mana kami memproses data pribadi apa pun atas nama Anda untuk memfasilitasi pemenuhan Pesanan dari Pembeli dan Layanan Mitra lainnya ("
+Data Yang Diproses
+"), kami akan:
+(i)
+memproses Data Yang Diproses hanya atas instruksi terdokumentasi dari Anda, yang akan diberikan untuk pemrosesan Data Yang Diproses untuk tujuan memfasilitasi pemenuhan Pesanan dari suatu Pembeli dan Layanan Mitra lainnya, kecuali apabila Kami diwajibkan berdasarkan Hukum Yang Berlaku untuk memproses Data Yang Diproses tersebut. Apabila Kami mengacu pada Hukum Yang Berlaku sebagai dasar untuk memproses Data Yang Diproses tersebut, Kami akan memberi tahu Anda mengenai hal tersebut sebelum melakukan pemrosesan yang diwajibkan berdasarkan Hukum Yang Berlaku kecuali apabila Hukum Yang Berlaku tersebut melarang Kami untuk memberi tahu Anda. Kami akan memberi tahu Anda apabila, menurut pendapat Kami, instruksi Anda melanggar Hukum Perlindungan Data Yang Berlaku;
+(ii)
+menerapkan upaya teknis dan organisasional yang sesuai untuk melindungi dari pemrosesan Data Yang Diproses yang tidak berwenang atau tidak sesuai hukum dan dari kehilangan atau pemusnahan yang tidak disengaja dari, atau kerusakan pada, Data Yang Diproses tersebut, dengan memperhatikan kondisi perkembangan teknologi dan biaya untuk menerapkan upaya tersebut;
+(iii)
+memastikan agar setiap personel yang Kami pekerjakan dan beri kewenangan untuk memproses Data Yang Diproses tersebut telah berkomitmen untuk menjaga kerahasiaan atau berada di bawah kewajiban berdasarkan undang-undang atau
+common law
+yang sesuai untuk menjaga kerahasiaan;
+(iv)
+membantu Anda sejauh sewajarnya diperlukan (dengan mempertimbangkan sifat pemrosesan dan informasi yang Kami miliki), dan atas biaya dan permintaan tertulis Anda, dalam menanggapi setiap permintaan dari suatu subjek data dan dalam memastikan kepatuhan Anda terhadap kewajiban Anda berdasarkan Hukum Perlindungan Data Yang Berlaku sehubungan dengan keamanan, pemberitahuan pelanggaran, penilaian dampak dan konsultasi dengan otoritas pengawas atau regulator;
+(v)
+memberi tahu Anda sesegera mungkin setelah mengetahui adanya suatu pelanggaran data pribadi yang melibatkan Data Yang Diproses tersebut ;
+(vi)
+atas arahan tertulis Anda, menghapus atau mengembalikan Data Yang Diproses tersebut dan salinannya kepada Anda pada saat berakhirnya Ketentuan ini kecuali apabila Kami diwajibkan berdasarkan Hukum Yang Berlaku untuk terus memproses Data Yang Diproses tersebut; dan
+(vii)
+membuat catatan untuk menunjukkan kepatuhan Kami terhadap ketentuan ini terkait dengan pemrosesan Data Yang Diproses atas nama Anda dan mengizinkan Anda atau auditor yang Anda tunjuk untuk melakukan audit yang wajar, hanya untuk keperluan ini, dengan pemberitahuan tertulis terlebih dahulu yang wajar.
+Anda dengan ini memberikan otorisasi umum Anda di awal kepada Kami untuk:
+(i)
+menunjuk prosesor untuk memproses Data Yang Diproses, dengan ketentuan bahwa Kami akan: (A) memastikan agar ketentuan penunjukan prosesor tersebut oleh Kami mematuhi Hukum Perlindungan Data Yang Berlaku, dan sesuai dengan kewajiban yang diberikan kepada Kami sehubungan dengan pemrosesan Data Yang Diproses atas nama Anda; dan (B) tetap bertanggung jawab atas tindakan dan pengabaian prosesor tersebut seakan-akan tindakan dan pengabaian tersebut dilakukan oleh Kami.
+(ii)
+mentransfer Data yang Diproses tersebut ke luar Kerajaan Inggris atau EEA atau yurisdiksi Anda sebagaimana diperlukan untuk memfasilitasi pemenuhan Pesanan dari Pembeli dan Layanan Mitra lainnya, dengan ketentuan bahwa Kami akan memastikan bahwa semua transfer tersebut dilakukan sesuai dengan Hukum Perlindungan Data Yang Berlaku. Untuk tujuan ini, ketentuan di bawah ini (
+Transfer Internasional Data Platform E-Commerce dan Data yang Diproses)
+akan berlaku.
+Transfer Internasional Data Platform E-Commerce dan Data yang Diproses
+Apabila terdapat Transfer eks-EEA atau Transfer eks-Kerajaan Inggris (keduanya sebagaimana didefinisikan di bawah ini), Lampiran 1 dari Ketentuan ini akan berlaku sehubungan dengan transfer tersebut.
+"
+Transfer
+eks-EEA
+" adalah aktivitas pemrosesan data di mana data pribadi yang diproses sesuai dengan EU Regulation 2016/679 ("
+GDPR
+") ditransfer dari Kami (di dalam EEA) ke Anda (atau tempat Anda) di luar EEA, dan transfer tersebut tidak diatur oleh keputusan kecukupan yang dibuat oleh European Commission sesuai dengan ketentuan yang relevan dari GDPR.
+"
+Transfer eks-Kerajaan Inggris
+" adalah aktivitas pemrosesan data di mana data pribadi yang diproses sesuai dengan GDPR Kerajaan Inggris (sebagaimana didefinisikan di bawah ini) dan Data Protection Act 2018 ditransfer dari Kami di Kerajaan Inggris ke Anda (atau tempat Anda) di luar Kerajaan Inggris, dan transfer tersebut tidak diatur oleh keputusan kecukupan yang dibuat oleh Secretary of State sesuai dengan ketentuan yang relevan dari GDPR Kerajaan Inggris.
+"
+GDPR Kerajaan Inggris
+" adalah GDPR yang merupakan bagian dari hukum Inggris dan Wales, Skotlandia, dan Irlandia Utara berdasarkan pasal 3 European Union (Withdrawal) Act 2018.
+6.
+Konten Platform E-Commerce dan Materi Penjual
+Konten Platform E-Commerce
+Antara Anda dan Tokopedia, semua konten, perangkat lunak, gambar, teks, grafik, ilustrasi, logo, paten, merek dagang, merek jasa, hak cipta, foto, audio, video, musik dan "tampilan dan nuansa" dari Platform E-Commerce, Platform E-Commerce dan semua hak kekayaan intelektual yang terkait dengan hal tersebut ("
+Konten Platform E-Commerce
+"), dimiliki atau dilisensikan oleh Tokopedia atau salah satu afiliasinya (termasuk TikTok), dengan pemahaman bahwa Anda atau pemberi lisensi Anda akan memiliki Materi Penjual (sebagaimana didefinisikan di bawah ini) yang Anda unggah atau kirimkan melalui Platform E-Commerce. Penggunaan Konten Platform E-Commerce atau materi lain yang tersedia sebagai bagian dari Platform E-Commerce oleh Anda untuk tujuan apa pun yang tidak diizinkan secara tegas oleh Ketentuan ini secara teagas dilarang. Konten dan materi tersebut tidak boleh diunduh, disalin, direproduksi, didistribusikan, ditransmisikan, disiarkan, ditampilkan, dijual, dilisensikan atau dieksploitasi untuk tujuan apa pun tanpa izin tertulis dari kami atau, jika ada, dari pemberi lisensi kami. Kami dan pemberi lisensi kami memiliki hak mutlak dan tanpa syarat atas semua hak yang timbul dari atau sehubungan dengan Platform E-Commerce dan Konten Platform E-Commerce yang tidak diberikan secara tegas dalam dan untuk konten dan materi tersebut.
+Dengan tunduk pada Ketentuan ini, Anda dengan ini diberikan lisensi non-eksklusif, terbatas, tidak dapat ditransfer, tidak dapat disublisensikan, dapat dibatalkan, dan berlaku di seluruh dunia untuk mengakses dan menggunakan Platform E-Commerce dan Konten Platform E-Commerce, termasuk untuk mengunduh platform di perangkat yang diizinkan, dan untuk mengakses Konten Platform E-Commerce semata-mata untuk penggunaan pribadi dan non-komersial (kecuali jika diizinkan secara tegas untuk sebaliknya dengan konfirmasi tertulis) dan semata-mata dengan mematuhi Ketentuan ini. Tokopedia memiliki hak mutlak dan tanpa syarat atas semua hak yang tidak secara tegas diberikan di dalam Platform E-Commerce. Anda mengakui dan menyetujui bahwa pada saat pengakhiran akun Anda atau Ketentuan ini, lisensi yang diberikan kepada Anda sehubungan dengan Platform E-Commerce dan Konten Platform E-Commerce akan berakhir secara otomatis.
+TIDAK ADA HAK YANG DILISENSIKAN SEHUBUNGAN DENGAN REKAMAN SUARA DAN KARYA MUSIK YANG TERKANDUNG DI DALAMNYA YANG TERSEDIA DARI ATAU MELALUI LAYANAN.
+Kami tidak membuat pernyataan, jaminan, atau garansi, baik tersurat maupun tersirat, bahwa konten apa pun di Platform E-Commerce (termasuk Konten Platform E-Commerce) akurat, lengkap, atau terkini. Jika Platform E-Commerce berisi tautan ke situs dan sumber lain yang disediakan oleh pihak ketiga, tautan ini disediakan hanya untuk informasi Anda. Kami tidak memiliki visibilitas atau kendali atas konten pada atau yang tersedia melalui situs atau sumber tersebut dan Anda mengakui dan menyetujui bahwa kami tidak bertanggung jawab atas konten tersebut. Tautan tersebut tidak boleh ditafsirkan sebagai persetujuan kami atas situs web yang ditautkan atau informasi yang dapat Anda peroleh dari atau melalui situs web tersebut.
+Lisensi Anda untuk Tokopedia
+Dengan menggunakan Platform E-Commerce, Anda memberikan kepada Tokopedia dan Afiliasi Tokopedia lisensi kekal yang berlaku di seluruh dunia yang tidak dapat ditarik kembali, bebas royalti, dapat dialihkan sepenuhnya, dan dapat disublisensikan untuk meng-
+hosting
+, memperbanyak, menampilkan, melakukan
+streaming
+(termasuk siaran langsung), mendistribusikan, memodifikasi, menjalankan, menyalin, mempertunjukkan secara publik, menyediakan, memublikasikan, menerjemahkan, dan membuat karya turunan apa pun dari konten (termasuk nama, logo, dan merek dagang), data dan/atau informasi yang Anda berikan kepada Kami tentang Anda dan Produk Anda (“
+Materi Penjual
+”) dan mengizinkan pengguna Platform E-Commerce dan/atau Platform TikTok lainnya atau pihak ketiga untuk melihat, mengakses, mengunduh, memperbanyak, membuat karya turunan, memublikasikan, dan/atau mengirimkan Materi Penjual, dalam bentuk dan pada platform mana pun, untuk menggunakan Materi Penjual tersebut untuk memasarkan dan mempromosikan Platform E-Commerce di dalam dan di luar Platform E-Commerce dan/atau Platform TikTok, dan untuk meningkatkan mutu Platform E-Commerce, Platform TikTok dan produk serta layanan Kami lainnya.
+Anda selanjutnya memberi kami lisensi bebas royalti untuk menggunakan nama pengguna, merek dagang, gambar, suara, dan kemiripan Anda untuk mengidentifikasi Anda sebagai sumber Materi Penjual Anda.
+Setiap kali Anda mengakses atau menggunakan fitur yang memungkinkan Anda untuk mengunggah atau mengirimkan Materi Penjual melalui Platform E-Commerce (termasuk melalui platform media sosial pihak ketiga tertentu), atau untuk melakukan kontak dengan pengguna lain dari Platform E-Commerce, Anda harus mematuhi standar yang ditetapkan dalam Ketentuan ini. Anda juga dapat memilih untuk mengunggah atau mengirimkan Materi Penjual Anda di situs atau platform yang di-
+hosting
+oleh pihak ketiga. Jika Anda memutuskan untuk melakukan hal ini, Anda harus mematuhi pedoman konten mereka serta standar yang ditetapkan dalam Ketentuan ini.
+Anda menjamin bahwa setiap kontribusi tersebut sesuai dengan standar-standar tersebut, dan Anda akan bertanggung jawab kepada kami dan mengganti kerugian kami atas setiap pelanggaran terhadap jaminan tersebut. Ini berarti Anda akan bertanggung jawab atas segala kerugian atau kerusakan yang kami derita sebagai akibat dari pelanggaran jaminan yang Anda lakukan.
+Materi Penjual apa pun akan dianggap tidak rahasia dan bukan hak milik. Anda tidak boleh mem-
+posting
+Materi Penjual apa pun pada atau melalui Platform E-Commerce atau mengirimkan kepada kami Materi Penjual apa pun yang Anda anggap sebagai rahasia atau hak milik. Ketika Anda mengirimkan Materi Penjual melalui Platform E-Commerce, Anda setuju dan menyatakan bahwa Anda memiliki Materi Penjual tersebut, atau Anda telah menerima semua izin yang diperlukan, izin dari, atau diberi wewenang oleh, pemilik dari bagian mana pun dari konten tersebut untuk mengirimkannya ke Platform E-Commerce, untuk mengirimkannya dari Platform E-Commerce ke platform pihak ketiga lainnya, dan / atau mengadopsi konten pihak ketiga mana pun.
+Jika Anda hanya memiliki hak dalam dan atas rekaman suara, tetapi tidak memiliki karya musik yang terkandung dalam rekaman suara tersebut, maka Anda tidak boleh mem-
+posting
+rekaman suara tersebut ke Platform E-Commerce kecuali jika Anda memiliki semua izin dari, atau diberi wewenang oleh, pemilik bagian mana pun dari konten tersebut untuk mengirimkannya ke Platform E-Commerce.
+Untuk menghindari keraguan, hak yang diberikan dalam paragraf sebelumnya termasuk, tetapi tidak terbatas pada, hak untuk mereproduksi rekaman suara (dan membuat reproduksi mekanis dari karya musik yang terkandung dalam rekaman suara tersebut), dan menampilkan serta mengkomunikasikan rekaman suara (dan karya musik yang terkandung di dalamnya) kepada publik, semuanya atas dasar bebas royalti. Ini berarti bahwa Anda memberi kami hak untuk menggunakan Materi Penjual Anda tanpa kewajiban membayar royalti kepada pihak ketiga mana pun, termasuk, namun tidak terbatas pada, pemilik hak cipta rekaman suara (misalnya, label rekaman), pemilik hak cipta karya musik (misalnya, penerbit musik), organisasi hak pertunjukan (misalnya, ASCAP, BMI, SESAC, dll.) (
+Performing Rights Organization
+/ "
+PRO
+"), PRO rekaman suara (misalnya, SoundExchange), serikat pekerja atau serikat, serta insinyur, produser atau peserta royalti lainnya yang terlibat dalam pembuatan Materi Penjual.
+Aturan Khusus untuk Karya Musik dan Artis Rekaman. Jika Anda adalah seorang komposer atau penulis karya musik dan berafiliasi dengan PRO, maka Anda harus memberi tahu PRO Anda tentang lisensi bebas royalti yang Anda berikan melalui Ketentuan ini dalam Materi Penjual Anda kepada kami. Anda bertanggung jawab penuh untuk memastikan kepatuhan Anda terhadap kewajiban pelaporan PRO yang relevan. Jika Anda telah mengalihkan hak-hak Anda kepada penerbit musik, maka Anda harus mendapatkan persetujuan dari penerbit musik tersebut untuk memberikan lisensi bebas royalti yang ditetapkan dalam Ketentuan ini dalam Materi Penjual Anda atau meminta penerbit musik tersebut untuk menandatangani Ketentuan ini dengan kami. Hanya karena Anda menulis karya musik (misalnya, menulis lagu) tidak berarti Anda memiliki hak untuk memberikan lisensi kepada kami dalam Ketentuan ini. Jika Anda adalah artis rekaman yang terikat kontrak dengan label rekaman, maka Anda bertanggung jawab penuh untuk memastikan bahwa penggunaan Platform E-Commerce oleh Anda sesuai dengan kewajiban kontrak yang mungkin Anda miliki dengan label rekaman Anda, termasuk jika Anda membuat rekaman baru melalui Platform E-Commerce yang mungkin diklaim oleh label Anda.
+Hak
+Through-The-Audience
+. Semua hak yang Anda berikan dalam Materi Penjual Anda dalam Ketentuan Kreator ini diberikan atas dasar
+through-to-the-audien
+ce, yang berarti pemilik atau operator layanan pihak ketiga tidak akan memiliki tanggung jawab terpisah kepada Anda atau pihak ketiga lainnya untuk Materi Penjual yang diunggah atau digunakan pada layanan pihak ketiga tersebut melalui Platform E-Commerce.
+Pengesampingan Hak atas Materi Penjual. Dengan mem-
+posting
+Materi Penjual ke atau melalui Platform E-Commerce, Anda mengesampingkan hak apa pun atas pemeriksaan atau persetujuan sebelumnya atas materi pemasaran atau promosi apa pun yang terkait dengan Materi Penjual tersebut. Anda juga mengesampingkan setiap dan semua hak privasi, publisitas, atau hak-hak lain yang sifatnya serupa sehubungan dengan Materi Penjual Anda, atau bagiannya. Sejauh hak moral apa pun tidak dapat ditransfer atau dialihkan, Anda dengan ini mengesampingkan dan setuju untuk tidak pernah menuntut setiap dan semua hak moral, atau untuk mendukung, mempertahankan, atau mengizinkan tindakan apa pun berdasarkan hak moral apa pun yang mungkin Anda miliki dalam atau sehubungan dengan Materi Penjual apa pun yang Anda Post ke atau melalui Platform E-Commerce.
+Kami juga berhak untuk mengungkapkan identitas Anda kepada pihak ketiga yang mengklaim bahwa Materi Penjual yang diposting atau diunggah oleh Anda ke Platform E-Commerce dan/atau Platform TikTok merupakan pelanggaran hak kekayaan intelektual mereka, atau hak privasi mereka.
+Kami, atau pihak ketiga yang berwenang, berhak untuk memotong, mengedit, atau menolak untuk memublikasikan Materi Penjual Anda atas pertimbangan kami atau pihak ketiga tersebut. Kami berhak menghapus, melarang, memblokir, atau menghilangkan unggahan apa pun yang Anda buat pada Platform E-Commerce dan/atau Platform TikTok kami jika, menurut kami, Materi Penjual Anda tidak mematuhi Ketentuan ini. Selain itu, kami berhak – namun tidak berkewajiban – atas pertimbangan kami sendiri untuk menghapus, melarang, memblokir, atau menghilangkan Materi Penjual apa pun (i) yang kami anggap melanggar Ketentuan ini, atau (ii) sebagai tanggapan atas keluhan dari pengguna lain atau pihak ketiga, dengan atau tanpa pemberitahuan dan tanpa kewajiban apa pun kepada Anda.
+Lisensi yang Anda berikan kepada Tokopedia ini tidak mempengaruhi hak kekayaan intelektual Anda atau hak-hak lainnya dalam dan atas Produk atau Materi Penjual Anda dengan cara apapun.
+Anda mengakui dan menyetujui bahwa Materi Penjual Anda harus mematuhi
+Pedoman Konten.
+7.
+Fitur Afiliasi
+Apa yang dimaksud dengan Fitur Afiliasi?
+Fitur Afiliasi adalah fitur Platform E-Commerce yang memungkinkan Penjual mengatur rencana promosi publik atau tertarget dan terhubung dengan kreator Tokopedia (“
+Kreator
+”) untuk promosi Produk Penjual di Platform E-Commerce dan/atau Platform TikTok (secara bersama-sama disebut “
+Layanan Kreator
+”).
+Anda memahami bahwa Fitur Afiliasi disediakan semata-mata agar Anda dapat terhubung dengan Kreator dan membuat rencana promosi publik atau tertarget untuk Produk Anda melalui fungsi yang Kami sediakan bagi Anda. Sebagai contoh, memilih Produk dan mengatur tarif komisi untuk Layanan Kreator terkait yang disediakan oleh Kreator.
+Anda dilarang menggunakan Fitur Afiliasi oleh Anda untuk tujuan lain apa pun. Apabila dilanggar, Anda dapat kehilangan akses Anda ke Fitur Afiliasi, Platform E-Commerce, dan/atau Platform TikTok.
+Pengikatan Kreator
+Anda harus memastikan bahwa semua Konten Kreator yang Anda pekerjakan: (i) ditandai sebagai iklan atau dengan pengungkapan komersial yang sesuai; (ii) menggunakan fungsi pelabelan iklan Kami yang tersedia; dan (iii) mematuhi semua Hukum Yang Berlaku, peraturan, pedoman perilaku, dan kebijakan terkait untuk pengungkapan periklanan.
+Pengikatan antara Anda dan Kreator
+Dalam setiap dan seluruh model (sebagaimana sesuai), Anda menyatakan dan menyetujui bahwa Kreator adalah kontraktor independen yang menyediakan Layanan Kreator kepada Anda sesuai dengan perjanjian antara Anda dan Kreator, tanpa melibatkan Tokopedia sebagai pihak di dalamnya.
+Pengadaan Layanan Kreator oleh Anda dari Kreator, dan penyediaan Layanan Kreator oleh Kreator kepada Anda hanya dilakukan antara Anda dan Kreator secara langsung.
+Dalam segala situasi, Tokopedia tidak akan:
+•
+menjadi pihak dalam kontrak apa pun antara Anda dan Kreator sehubungan dengan Layanan Kreator;
+•
+menentukan harga Layanan Kreator;
+•
+berinteraksi dengan, atau terlibat dalam, penyediaan Layanan Kreator;
+•
+bertanggung jawab atas pengadaan atau penyediaan Layanan Kreator antara Anda dan Kreator serta kontrak apa pun antara Anda dan Pencipta;
+•
+bertanggung jawab atas segala kewajiban atau pelaksanaan berdasarkan kontrak apa pun antara Anda dan Kreator; atau
+•
+bertanggung jawab atas segala perselisihan yang mungkin Anda alami dengan Kreator di luar berlakunya Ketentuan Kreator.
+Anda mengakui dan menyetujui bahwa:
+•
+Tokopedia tidak bertanggung jawab atas klaim apa pun sehubungan dengan kontrak apa pun antara Anda dan Kreator, termasuk, tetapi tidak terbatas pada klaim terkait Produk Anda, ajakan bertindak apa pun, dan/atau pesan, informasi, atau konten promosi lainnya yang Anda minta untuk disertakan dalam Konten Kreator oleh Kreator (sebagaimana didefinisikan di bawah), atau Layanan Kreator yang dilakukan oleh Kreator.
+Kreator menjalankan profesi atau bisnis atas nama mereka sendiri dan apabila Anda berinteraksi dengan Kreator, Anda menyatakan Anda melakukannya sebagai pelanggan atau klien dari Kreator dan bukan Tokopedia. Anda memahami bahwa Kreator bukan merupakan karyawan, pekerja, agen, atau kontraktor Tokopedia.
+Tokopedia tidak bertanggung jawab atas tindakan, kelalaian, kesalahan, pernyataan, jaminan, kelalaian, atau pelanggaran Kreator atau kerusakan properti, atau kerugian atau biaya lain yang diakibatkan olehnya dan tidak bertanggung jawab atas Layanan Kreator yang diberikan oleh Kreator secara umum atau kepada Anda secara khusus.
+Lisensi Sehubungan dengan Konten Kreator
+Untuk menggunakan Fitur Afiliasi, ketentuan-ketentuan berikut dalam sub-bagian ini (
+Lisensi Sehubungan dengan Konten Kreator
+) dianggap termasuk dalam kontrak atau perjanjian Anda dengan Kreator, di mana Tokopedia tidak menjadi pihak dan tidak bertanggung jawab, mengenai pemberian hak dalam dan atas: (a) Materi Penjual untuk Kreator dalam menyediakan Layanan Kreator kepada Anda; dan (b) Konten Kreator yang dapat Anda manfaatkan:
+•
+Lisensi Materi Penjual
+. Anda memberikan lisensi non-eksklusif yang berlaku di seluruh dunia, bebas royalti, dapat disublisensikan, dan tidak dapat ditarik kembali atas dan untuk Materi Penjual Anda kepada Kreator (i) untuk tujuan pemberian Layanan Kreator oleh Kreator kepada Anda untuk memperbanyak, menampilkan, melakukan streaming (termasuk siaran langsung), mendistribusikan, memodifikasi, menjalankan, menyalin, mempertunjukkan secara publik, menyediakan, memublikasikan, menerjemahkan, dan membuat karya turunan dalam bentuk dan media apa pun, membuat, menggunakan, mentransfer, mengimpor, dan menjalankan setiap dan seluruh hak atas dan untuk Materi Penjual Anda selama jangka waktu penyediaan Layanan Kreator oleh Kreator kepada Anda; dan (ii) setelah berakhirnya jangka waktu yang disebutkan di atas, terus mendistribusikan, memublikasikan, menyalin, memperbanyak, menampilkan secara publik, maupun menyediakan Konten Kreator yang dibuat selama jangka waktu tersebut.
+•
+Pengakuan atas Materi Penjual
+. Anda mengakui bahwa setiap Konten Kreator yang disediakan di Platform E-Commerce dan/atau Platform TikTok dapat didistribusikan ke seluruh dunia secara kekal tanpa pembayaran atau biaya yang harus dibayarkan kepada Anda selama atau setelah jangka waktu penyediaan Layanan Kreator oleh Kreator kepada Anda. Tokopedia atau setiap Afiliasi Tokopedia tidak diwajibkan untuk menghilangkan atau menghapus Konten Kreator dari Platform E-Commerce dan/atau Platform TikTok.
+•
+Lisensi Konten Kreator
+. Kreator memberikan lisensi terbatas dan non-eksklusif yang tidak dapat disublisensikan, tidak dapat dialihkan, dan bebas royalti kepada Anda semata-mata untuk mendistribusikan ataupun menyediakan Konten Kreator di Platform E-Commerce dan/atau Platform TikTok “sebagaimana adanya” tanpa hak untuk memodifikasi, mengedit, atau mengubahnya.
+•
+Pengakuan atas Konten Kreator
+. Anda mengakui bahwa, antara Anda dan Kreator, tanpa mempertimbangkan hak, kepemilikan, dan kepentingan Penjual atas dan untuk Materi Penjual serta hak, kepemilikan, dan kepentingan Tokopedia atas dan untuk Konten Platform E-Commerce, Kreator memiliki seluruh gambar, video, media, konten, atau elemen apa pun yang ada di dalamnya (“
+Konten Kreator
+”) yang dibuat oleh Kreator untuk memberikan Layanan Kreator kepada Anda.
+8.
+Pasar Layanan dan Layanan Mitra
+•
+Apa itu Pasar Layanan dan Layanan?
+•
+Pasar
+Layanan
+: berarti
+platform yang merupakan bagian dari Pusat Penjual di mana Anda dapat menelusuri Layanan Publik yang disediakan oleh Mitra.
+•
+"Mitra"
+dalam hal ini mengacu pada penyedia layanan pihak ketiga, termasuk jaringan multi-saluran, penyedia layanan independen, mitra afiliasi, atau pencari bakat yang telah terdaftar di Pusat Mitra (
+Partner Center
+/"
+PC
+")
+dan menawarkan Layanan Mitra kepada Penjual.
+•
+Layanan Publik
+:
+berarti layanan yang diberikan oleh Mitra kepada Anda di PC, yang diungkapkan di Pasar Layanan dan diotorisasi oleh Anda.
+•
+Layanan Khusus
+:
+berarti layanan yang diberikan oleh Mitra kepada Anda, yang tidak diungkapkan di Pasar Layanan, dan diotorisasi oleh Anda.
+•
+Layanan(-Layanan) Mitra
+: berarti Layanan Publik dan Layanan Khusus yang dikontrak oleh Anda secara langsung dengan Mitra yang sesuai. Untuk menghindari keraguan, Layanan Mitra bukan merupakan bagian dari penawaran Platform E-Commerce dan disediakan oleh Mitra dan dikontrak oleh Anda secara langsung dengan Mitra dan tidak melalui PC.
+Pasar Layanan sebagai Pasar Elektronik
+PENTING
+: Tokopedia sendiri tidak menjual Layanan Mitra. Tokopedia mengizinkan Para Mitra untuk mempromosikan Layanan Mitra di Pasar Layanan. Tokopedia dapat memfasilitasi promosi dan penjualan Layanan Mitra di Pasar Layanan oleh Para Mitra kepada Anda. Kontrak layanan untuk Layanan Mitra dibuat selalu antara Anda dan Para Mitra semata. Tokopedia (a) bukan merupakan pembeli atau penjual Layanan Mitra; (b) tidak bertanggung jawab atas pemenuhan kontrak layanan atau kontrak apa pun antara Anda dan Mitra; atau (c) bukan merupakan agen Anda atau Mitra sehubungan dengan pemberian atau pembelian Layanan Mitra apa pun. Mitra dari Layanan Mitra akan ditampilkan di halaman keterangan layanan (“
+Halaman Keterangan
+”) dan hak regres Anda, misalnya sehubungan dengan pengembalian dana dan pembatalan, adalah urusan antara Anda dan Mitra. Tokopedia, sebagai penyedia layanan pasar elektronik, dapat menggunakan upaya yang wajar secara komersial untuk mewajibkan Para Mitra untuk memberikan informasi yang akurat dan terbaru, tetapi Tokopedia tidak menjamin atau mendukung kualitas Layanan Mitra, informasi, atau layanan apa pun yang disediakan oleh Para Mitra.
+Bagaimana cara menggunakan Pasar Elektronik dan mengotorisasi suatu Layanan Mitra?
+Anda dapat menggunakan Akun Anda untuk mengotorisasi Layanan Mitra yang disediakan oleh suatu Mitra. Kami akan menggunakan Informasi Orientasi Anda untuk menilai apakah Anda dapat memberikan mengotorisasi dan mengontrak Layanan Mitra atau tidak. Apabila Mitra yang sesuai menyediakan Layanan Mitra kepada Anda merupakan suatu vendor perangkat lunak independen, Anda setuju untuk memastikan agar mereka menandatangani Ketentuan Layanan Pusat Mitra dengan Tokopedia.
+Otorisasi Layanan Mitra
+Ketika Anda berlangganan dengan suatu Layanan Mitra:
+•
+Jika Layanan Mitra memerlukan pembagian Data (sebagaimana didefinisikan di sini) kepada Mitra: Data yang akan dibagikan kepada Mitra untuk pelaksanaan Layanan Mitra ini oleh Mitra akan diungkapkan pada Halaman Deskripsi ("
+Data
+"). Anda dengan ini menyatakan bahwa, setelah mengklik "Berikan Otorisasi" pada Halaman Deskripsi:
+•
+Anda telah menandatangani kontrak layanan dengan Mitra untuk Layanan Mitra;
+•
+Anda mengizinkan Data Anda untuk dibagikan dengan atau disediakan kepada Mitra segera melalui koneksi API atau melalui PC hingga berakhirnya masa berlangganan Layanan Mitra tersebut atau pembatalan Layanan Mitra tersebut.
+•
+Jika Layanan Mitra tidak memerlukan pembagian Data kepada Mitra: Partner akan menghubungi Anda sehubungan dengan kinerja Layanan Partner yang berlaku.
+Anda mengakui dan menyetujui hal tersebut:
+•
+Anda harus segera membatalkan langganan Layanan Mitra di Pusat Penjual jika Anda tidak ingin Data Anda dibagikan dengan Mitra atau Layanan Mitra yang disediakan oleh Mitra atau Anda tidak lagi memiliki kontrak layanan saat ini untuk Layanan Mitra.
+•
+Perdagangan dan pembelian Layanan Mitra dilakukan antara Anda dan Mitra, dan Anda dan Mitra harus sepenuhnya mematuhi kontrak layanan atau pengaturan lain yang dibuat antara Anda dan Mitra. Tokopedia (dan/atau Afiliasi Tokopedia mana pun) tidak terlibat sebagai pihak dalam kontrak tersebut, tidak bertanggung jawab atas penyediaan Layanan Mitra apa pun kepada Anda, dan tidak bertanggung jawab atas tindakan, pengabaian, kesalahan, pernyataan, jaminan, kelalaian, atau pelanggaran oleh Anda atau oleh Mitra. Kami tidak akan bertanggung jawab atas pemberlakuan kontrak layanan apa pun antara Anda dan Mitra. Tokopedia dapat berkoordinasi dengan Anda dan Mitra untuk menyelesaikan sengketa apa pun, tetapi, dengan ketentuan bahwa Anda memahami bahwa upaya Tokopedia untuk berkoordinasi mungkin tidak membawa hasil yang praktis atau substantif, dan bahwa Anda tidak berhak untuk meminta ganti rugi atau kompensasi dari Tokopedia.
+•
+Anda harus memilih dan memutuskan Layanan Mitra dan Para Mitra yang ingin Anda gunakan jasanya dengan hati-hati dan hanya membeli dan mengotorisasi Layanan Mitra setelah Anda sepenuhnya membaca dan memahami sendiri kegunaan, konten, instruksi penggunaan, biaya, aturan pengembalian dana, masa berlangganan dan risiko Layanan Mitra.
+•
+Saat mengotorisasi pembagian Data, Anda harus memperhitungkan risiko bahwa Layanan Mitra dapat dihentikan, ditangguhkan, atau diakhiri oleh Para Mitra di masa mendatang.
+•
+Anda mengakui bahwa apabila Mitra melanggar ketentuan apapun dengan Kami, termasuk namun tidak terbatas pada
+Ketentuan Layanan TikTok
+dan ketentuan atau kebijakan lainnya, Tokopedia berhak untuk meminta Mitra untuk menghentikan penyediaan Layanan Mitra pada setiap saat dengan sesuai. Ketidakmampuan Anda untuk terus menggunakan Layanan Mitra adalah akibat dari kesalahan atau kelalaian Mitra dan Anda tidak akan memiliki hak regres kepada Kami dan tanggung jawab atau kerugian apa pun akan ditanggung sendiri oleh Mitra.
+•
+Tokopedia tidak mengendalikan Layanan Mitra atau konten yang relevan dengan Layanan Mitra yang disediakan oleh Mitra, dan tidak akan bertanggung jawab atas keamanan, keandalan, dan kegunaan Layanan Mitra atau konten tersebut, Tokopedia juga tidak akan bertanggung jawab atas penyensoran Layanan Mitra atau mendukung konten, keterangan, iklan, atau materi lain apa pun sehubungan dengan Layanan Mitra. Anda mengakui dan menyetujui lebih lanjut bahwa Tokopedia tidak bertanggung jawab atas ganti rugi langsung atau konsekuensial apa pun sebagai akibat dari penggunaan atau pengandalan oleh Anda terhadap konten, keterangan, iklan, atau materi lain yang berkaitan dengan Layanan Mitra.
+9.
+Penggunaan API Anda
+Apabila kami menyediakan API dan Data API apa pun kepada Anda (sebagaimana didefinisikan dalam Lampiran 3), ketentuan Lampiran 3 akan berlaku. Untuk menghindari keraguan, API dan Data API merupakan bagian dari Platform E-Commerce.
+10.
+Biaya
+Biaya (“Biaya”) yang dikenakan Tokopedia atas penggunaan Platform E-Commerce oleh Anda dapat dikenakan dalam bentuk persentase tertentu per Pesanan berdasarkan jumlah yang dibayarkan oleh Pembeli, jumlah tetap (
+flat-rate
+), atau kombinasi keduanya.. Biaya ini dapat mencakup, namun tidak terbatas pada, Biaya Pembayaran (atau Transaksi), Biaya Komisi, dan/atau Biaya Layanan, sebagaimana akan ditentukan lebih lanjut oleh Tokopedia dari waktu ke waktu.
+Tokopedia dapat mengubah Biaya dari waktu ke waktu atas pertimbangannya sendiri dengan memberikan pemberitahuan tertulis (termasuk melalui Pusat Penjual atau surel) kepada Penjual. Biaya yang berlaku akan ditentukan dalam Pusat Penjual dan/atau
+Shop Academy.
+Apabila Tokopedia mengurangi Biaya, pengurangan tersebut akan berakhir secara otomatis dalam jangka waktu yang ditetapkan sebagaimana dinyatakan dalam Pemberitahuan Tokopedia, atau dalam hal apa pun dalam waktu 1 tahun sejak tanggal Pemberitahuan kecuali dinyatakan lain dalam Pemberitahuan tersebut.
+Kecuali ditentukan lain dalam Ketentuan ini (termasuk Pasal 15), Biaya sudah termasuk pajak yang berlaku, termasuk namun tidak terbatas pada Pajak Pertambahan Nilai ("
+PPN
+"), atau pajak yang setara dengannya ("
+Pajak
+").
+Apabila Anda menggunakan fungsi atau fitur khusus pada Platform E-Commerce, atau berpartisipasi dalam suatu program tambahan, Anda mungkin akan dikenakan biaya tambahan .
+Apabila Anda diwajibkan untuk memotong pajak penghasilan (PPh) Pasal 23 untuk layanan yang disediakan oleh Platform E-Commerce, Anda wajib membayar jumlah penuh tanpa mengurangi PPh Pasal 23. Melalui skema penggantian biaya, Platform E-Commerce akan menggantinya setelah menerima salinan cetak sertifikat penangguhan dari Anda.
+11.
+Bagaimana Anda dapat memberi izin untuk pengguna lain mengelola Akun Anda?
+Anda dapat mengizinkan satu atau lebih pengguna Platform E-Commerce (masing-masing disebut “
+Pengguna Yang Diizinkan
+”) untuk mengelola Akun Anda untuk mengakses dan menggunakan seluruh atau sebagian Platform E-Commerce. Pengikatan Pengguna Yang Diizinkan tersebut semata-mata diadakan antara Anda dan Pengguna Yang Diizinkan Anda, di mana Kami bukanlah pihak dan tidak memiliki pertanggungjawaban
+.
+Anda harus memastikan bahwa setiap dan seluruh Pengguna Yang Diizinkan tidak di bawah umur (definisinya tunduk pada Hukum Yang Berlaku) dan memiliki kecakapan hukum untuk menandatangani suatu perjanjian yang mengikat dan bertindak atas nama Anda.
+Pengguna Yang Diizinkan Anda mengakses atau menggunakan Platform E-Commerce atas nama Anda. Tindakan atau pengabaian apa pun oleh Pengguna Yang Diizinkan Anda dalam Akun Anda akan dianggap sebagai tindakan atau pengabaian Anda, dan pelanggaran apa pun oleh Pengguna Yang Diizinkan Anda akan dianggap sebagai pelanggaran oleh Anda. Anda sepenuhnya bertanggung jawab atas akses atau penggunaan Platform E-Commerce oleh Pengguna Yang Diizinkan Anda.
+Pengguna Yang Diizinkan harus patuh pada ketentuan dalam Ketentuan ini dan Anda harus memastikan kepatuhan tersebut. Anda harus segera memberitahukan Kami apabila Anda mengetahui adanya pelanggaran atas Ketentuan ini oleh Pengguna Yang Diizinkan Anda.
+Anda dapat mengizinkan, mengubah ruang lingkup otorisasi, mengakhiri otorisasi atau dengan cara lain mengelola otorisasi yang diberikan kepada Pengguna Yang Diizinkan Anda. Kami berhak menghentikan sementara atau mengakhiri akses Pengguna Yang Diizinkan Anda ke Akun Anda dan/atau Platform E-Commerce dengan atau tanpa pemberitahuan terlebih dahulu apabila Kami mengetahui adanya pelanggaran atas Ketentuan ini atau panduan atau kebijakan yang berlaku oleh Pengguna Yang Diizinkan Anda tanpa pertanggungjawaban.
+Penghentian sementara atau pengakhiran Akun Anda akan mengakibatkan penghentian sementara atau mengakhiri akses ke Akun Anda oleh setiap dan semua Pengguna Yang Diizinkan Anda.
+12.
+Mode Delegasi
+“Mode Delegasi”
+berarti fitur yang memungkinkan Manajer Akun (AM) Anda untuk mengakses
+Seller Center
+Anda. Fitur ini memungkinkan AM untuk melihat semua halaman yang tersedia di dalam
+Seller Center
+yang terkait dengan akun Anda, namun tidak memberikan kemampuan kepada AM untuk mengambil tindakan apa pun atau membuat perubahan apa pun pada akun Anda.
+Jika Anda diberikan seorang AM, ketentuan ini akan berlaku bagi Anda sesuai dengan aturan operasional dan pemberitahuan platform yang berlaku, di mana platform memegang hak interpretasi akhir.
+Anda dengan ini memberikan otorisasi umum sebelumnya bagi AM untuk
+memiliki akses lihat ke
+akun Anda (termasuk akun utama dan sub-akun) selama mode delegasi diaktifkan, dengan ketentuan bahwa Kami mematuhi Hukum Perlindungan Data yang Berlaku. Penjual dapat membatalkan atau menarik izin Mode Delegasi kapan saja dengan mengikuti proses yang tersedia di dalam
+Seller Center
+atau dengan mengirimkan email kepada Kami di
+bantuan@shop.tokopedia.com
+.
+Tujuan dari Mode Delegasi adalah untuk memungkinkan AM memberikan dukungan operasional, bantuan akun, dan layanan pemecahan masalah yang terkait dengan
+Seller Center
+. Akses ke data pribadi berdasarkan mode ini bersifat terbatas, proporsional, dan dibatasi pada apa yang benar-benar diperlukan untuk tujuan tersebut, serta akan diproses sesuai dengan Hukum Perlindungan Data yang Berlaku.
+13.
+Aturan Penggunaan Platform E-Commerce
+Untuk menggunakan Platform E-Commerce, Anda harus setuju untuk mematuhi Ketentuan ini,
+Ketentuan Penggunaan dan Penjualan Platform E-Commerce
+, serta kebijakan atau pedoman berikut yang mengatur penggunaan Anda atas Platform E-Commerce ("
+Kebijakan
+"). Melanggar Kebijakan merupakan pelanggaran yang material terhadap Ketentuan ini.
+Kebijakan, Kelayakan Produk, serta Produk yang Dilarang dan Terbatas
+Anda harus selalu mematuhi Kebijakan dan Panduan yang ada di
+Shop Academy.
+Setiap Produk yang Anda Tawarkan di Platform E-Commerce harus sesuai dengan hukum dan aman serta memenuhi kriteria kelayakan Produk Kami, yang dapat ditemukan di
+Shop Academy.
+Anda tidak boleh melakukan Penawaran Produk apa pun apabila tercantum dalam Daftar Produk Terlarang dan Daftar yang Dibatasi Kami, yang dapat ditemukan di
+Shop Academy.
+Penggunaan yang Dapat Diterima
+Anda hanya dapat menggunakan Platform E-Commerce untuk tujuan menawarkan Produk yang berhak Anda jual kepada Pengguna, atau untuk tujuan berlangganan dengan Layanan yang disediakan oleh Para Mitra.
+Anda tidak diperkenankan menggunakan Platform E-Commerce dan/atau Platform TikTok untuk segala tujuan berikut atau melakukan segala tindakan berikut:
+Kepatuhan terhadap Hukum Yang Berlaku, hak pihak ketiga, dan pengalaman Pengguna
+•
+membeli Produk yang dijual di Platform E-Commerce untuk tujuan penjualan kembali secara komersial;
+•
+melakukan suatu tindakan atau pengabaian yang melanggar Hukum Yang Berlaku;
+•
+melakukan suatu tindakan yang melanggar hak pihak ketiga mana pun berdasarkan Hukum Yang Berlaku;
+•
+melakukan suatu tindakan yang kasar, bersifat melecehkan, mengancam, mencemarkan nama baik dan/atau mengintimidasi;
+•
+memengaruhi reputasi Penjual lain (misalnya dengan memberikan, mengatur dan/atau mendukung ulasan atau keluhan palsu);
+•
+menawarkan untuk menjual atau benar menjual kepada siapa pun yang secara hukum tidak dapat membuat kontrak yang mengikat berdasarkan Hukum Yang Berlaku;
+•
+menyembunyikan fakta bahwa Anda adalah pedagang yang bertindak untuk tujuan komersial;
+•
+menyembunyikan atau tidak memberikan identitas, lokasi, dan/atau keterangan kontak lengkap Anda pada saat diminta oleh Kami atau Pengguna;
+•
+menjelaskan Produk sebagai produk gratis atau tanpa biaya (atau serupa) apabila Pembeli harus melakukan pembayaran selain biaya pengiriman Produk kepada mereka, dan biaya tersebut harus diungkapkan sebelumnya;
+•
+mengirimkan spam atau pemasaran yang tidak diminta;
+•
+mengepos konten palsu, tidak akurat, menyesatkan, menipu, memfitnah, atau mencemarkan nama baik;
+•
+mengklaim sebagai penanda tangan pedoman perilaku atau regulasi apa pun, padahal Anda bukanlah penanda tangan hal tersebut, atau mengklaim bahwa pedoman perilaku mendapatkan dukungan dari publik atau badan lain padahal hal tersebut tidak benar;
+•
+menampilkan tanda kepercayaan, tanda kualitas, atau yang serupa tanpa mendapatkan otorisasi yang diperlukan;
+•
+menghapus atau menyamarkan merek dagang atau petunjuk asal barang;
+•
+mengklaim bahwa Anda atau Produk Anda telah mendapatkan dukungan, padahal Anda/Produk tersebut belum mendapatkannya;
+•
+menyatakan ungkapan palsu bahwa Produk hanya akan tersedia untuk waktu yang sangat terbatas, atau bahwa hanya akan tersedia dengan syarat tertentu selama waktu yang sangat terbatas, agar Pembeli segera memutuskan untuk membeli dan Pembeli tidak memiliki kesempatan atau waktu yang cukup untuk membuat keputusan yang matang;
+•
+tidak menyediakan layanan purnajual kepada Pembeli dalam bahasa yang Anda gunakan sebelum Penjualan;
+•
+menyatakan atau menimbulkan kesan bahwa Produk mematuhi Hukum Yang Berlaku, sedangkan kenyataannya tidak demikian;
+•
+menunjukkan hak hukum yang tersedia bagi Pembeli berdasarkan Hukum Yang Berlaku, seperti hak pengembalian dana, sebagai fitur khusus penawaran Anda;
+•
+menawarkan penjualan Produk apa pun sementara Anda tidak dapat memenuhi Pesanan tersebut;
+•
+dengan sengaja mengirimkan paket kosong atau tidak lengkap kepada Pembeli (penipuan pemenuhan pesanan);
+•
+mengklaim dengan keliru bahwa Produk dapat menyembuhkan penyakit, disfungsi, atau kelainan, atau membuat klaim lain yang tidak didukung oleh bukti objektif yang wajar yang Anda miliki dan kendalikan;
+•
+mengizinkan atau mendorong pihak ketiga untuk mempromosikan atau mendukung Anda atau Produk Anda tanpa mengungkapkan dengan jelas bahwa terdapat hubungan komersial atau hubungan lain antara Anda dan pihak ketiga tersebut;
+•
+melakukan transaksi di luar Platform;
+•
+membeli Produk Anda sendiri;
+•
+mengumpulkan, menggunakan dan/atau melakukan pengelabuan (
+phishing
+) dengan informasi Pengguna tanpa persetujuan matang atau dasar yang sah lainnya berdasarkan Hukum Yang Berlaku;
+•
+menetapkan harga tinggi dan tidak terjangkau dengan sengaja pada Produk;
+•
+konten atau kegiatan apa pun yang mengajak pihak lain untuk menipu Pengguna/Pembeli serta membujuk atau mengancam mereka untuk memesan, mendukung (menyukai/memberi jempol), atau berkomentar;
+•
+mengirimkan pesan yang tidak pantas kepada Pengguna/Pembeli.
+•
+membeli Produk yang dijual di Platform E-Commerce untuk keperluan penjualan kembali secara komersial;
+•
+menyalahgunakan kupon, voucer atau diskon promosi lainnya (termasuk, tetapi tidak terbatas pada, penjualan kupon, voucer tersebut atau diskon promosi lainnya kepada pihak ketiga.
+Keamanan dan integritas sistem
+•
+memperjualbelikan (atau dengan cara lain bertransaksi dengan pihak ketiga, dengan maksud untuk membatalkan penerima manfaat yang sebenarnya dari Akun Anda atau dengan cara yang tidak jujur, sehubungan dengan) Akun Anda;
+•
+menjual atau memindahtangankan (atau menawarkan untuk dijual atau memfasilitasi pemindahtanganan atas) Akun Anda kepada suatu pihak ketiga;
+•
+membuka atau menggunakan akun dalam jumlah yang tidak wajar (atau lebih dari yang diizinkan);
+•
+menyebarkan virus atau teknologi lain yang dimaksudkan atau dapat diperkirakan secara wajar akan membahayakan kepentingan Tokopedia, Afiliasi Tokopedia, atau Pengguna;
+•
+menggunakan bot, spider, scraper, alat penggali atau alat ekstraksi data, atau sarana akses otomatis lainnya ke Platform TikTok atau Platform E-Commerce, kecuali apabila Anda memiliki izin tertulis yang tegas dari Kami untuk melakukannya;
+•
+melakukan tindakan apa pun yang dimaksudkan atau diperkirakan secara wajar dapat mengganggu operasi normal Platform E-Commerce atau Platform TikTok;
+•
+mengakali perlindungan teknis atau langkah keamanan yang Kami terapkan pada Platform E-Commerce atau Platform TikTok atau sistem Kami atau Afiliasi Tokopedialainnya;
+•
+memberikan ulasan atau meminta pihak lain untuk memberikan ulasan tentang Produk pesaing apabila fungsi ulasan tersebut tersedia; atau
+•
+melakukan upaya untuk mengarahkan Pengguna/Pembeli ke laman utama tidak resmi (termasuk tanpa batasan laman utama yang tidak valid, laman utama yang meminta Pengguna/Pembeli memasukkan informasi pribadi untuk melanjutkan dan yang tidak dapat dilewati, serta laman utama yang secara otomatis mengunduh berkas ke komputer Pengguna/Pembeli).
+14.
+Produk yang Melanggar
+Tokopedia sangat menganggap serius hak kekayaan intelektual pihak lain. Anda tidak diperkenankan melakukan Penawaran Produk apa pun melalui Platform E-Commerce apabila Produk tersebut palsu atau melanggar hak pihak ketiga mana pun berdasarkan Hukum Yang Berlaku (“
+Produk Yang Melanggar
+”). Melakukan Penawaran untuk menjual Produk Yang Melanggar merupakan pelanggaran yang material terhadap Ketentuan ini
+.
+Kami memiliki proses di mana pengguna dapat melaporkan dugaan Produk Yang Melanggar. Anda dapat menemukan informasi tentang cara kerja proses pelaporan
+K
+ami dalam
+Kebijakan Kekayaan Intelektual.
+Anda juga tidak boleh menggunakan Platform E-Commerce untuk melanggar hak kekayaan intelektual Tokopedia atau Afiliasi Tokopedia
+.
+15.
+Kebijakan Bea Cukai dan Pajak
+Biaya
+Biaya yang dibebankan oleh Tokopedia kepada Anda akan mencakup semua Pajak yang berlaku, termasuk namun tidak terbatas pada PPN atau yang setara. Apabila terdapat suatu pengurangan atau pemotongan pajak yang diwajibkan berdasarkan Hukum Yang Berlaku, Anda harus memberi tahu Kami dan akan membayarkan kepada Kami setiap jumlah tambahan yang diperlukan untuk memastikan agar Kami menerima Biaya yang disepakati berdasarkan Ketentuan ini. Anda juga akan memberikan kepada Kami setiap dokumentasi (yaitu bukti pemotongan pajak) yang sewajarnya diperlukan untuk membuktikan jumlah yang dipotong tersebut dan bahwa jumlah tersebut telah dibayarkan kepada badan perpajakan yang relevan.
+Tokopedia akan menerbitkan faktur pajak yang sah setelah informasi pajak yang Anda berikan kepada Tokopedia lengkap dan akurat.
+Anda bertanggung jawab atas penerbitan faktur pajak (jika ada) kepada Pembeli atas penjualan yang Anda lakukan melalui Platform E-Commerce.
+Apabila Tokopedia diwajibkan berdasarkan hukum suatu yurisdiksi untuk melakukan pengurangan atau pemotongan pajak sehubungan dengan jumlah yang harus dibayar kepada Anda, Tokopedia akan melakukan pengurangan atau pemotongan tersebut sebagaimana diwajibkan, dan Tokopedia akan memberikan kepada Anda bukti potong atau dokumen serupa yang membuktikan bahwa pajak tersebut telah dipotong dan dibayarkan.
+Anda akan bertanggung jawab untuk menagih dan membayar setiap dan semua pajak yang dikenakan pada Penjualan Anda, termasuk PPN, bea cukai dan impor, atau pajak yang serupa.
+Anda harus menerbitkan tanda terima, nota kredit, atau faktur pajak kepada pembeli jika diminta.
+Kami tidak akan bertindak (dan Anda tidak akan menunjuk Kami) sebagai pemberi pernyataan, pengimpor atau pengekspor tercatat, atau peran serupa apa pun, sehubungan dengan Produk yang diimpor ke atau diekspor dari yurisdiksi mana pun. Tunduk pada hukum dan ketentuan yurisdiksi Pembeli dan yurisdiksi dari mana Produk dikirimkan, Anda akan (sebagaimana sesuai): (i) bertindak dalam kapasitas sebagai pengimpor dan/atau pengekspor Anda sendiri; (ii) menunjuk Pembeli untuk bertindak sebagai pengimpor Produk; atau (iii) menunjuk pihak ketiga berwenang yang bersedia dan sesuai untuk bertindak dalam kapasitas tersebut.
+Anda dan/atau Kreator, dan bukan Tokopedia, akan bertanggung jawab untuk mengumpulkan, menahan, atau melaporkan pajak apa pun yang timbul dari pembayaran dari Anda sehubungan dengan penyediaan Layanan dari Kreator.
+16.
+Pernyataan dan Jaminan
+Dengan menerima Ketentuan ini, Anda menyatakan, menjamin, dan berjanji kepada Tokopedia bahwa:
+•
+Anda akan selalu bertindak sesuai dengan Ketentuan Penjualan;
+•
+semua informasi yang Anda berikan kepada Kami akurat, lengkap, dan terkini;
+•
+Anda akan menjaga kerahasiaan keterangan akses Akun Anda dan menyatakan bahwa Anda bertanggung jawab atas akses ke Akun Anda yang Anda otorisasikan atau yang diakibatkan oleh kegagalan Anda menjaga kerahasiaan dan keamanan keterangan akses Akun Anda;
+•
+setiap Produk yang Anda lakukan Penawaran layak digunakan, sesuai dengan deskripsi yang Anda berikan kepada Pengguna, dan bebas dari cacat;
+•
+Materi Penjual yang Anda sediakan mematuhi Hukum Yang Berlaku dan pedoman yang berlaku;
+•
+Anda akan mematuhi semua Kebijakan dan semua Hukum Yang Berlaku.
+•
+Anda akan mematuhi Kode Etik Mitra Bisnis (saat ini tersedia di
+Kode Etik Mitra Bisnis Shop
+) dan setiap pembaruannya di masa mendatang, yang dapat dilakukan Tokopedia atas kebijakannya sendiri dari waktu ke waktu; dan
+•
+Dalam melaksanakan kewajiban Anda berdasarkan Ketentuan ini Anda harus mematuhi seluruh Hukum Yang Berlaku sehubungan dengan anti perbudakan dan perdagangan manusia (“
+Hukum Perbudakan Modern
+”). Anda menyatakan dan menjamin, bahwa baik Anda atau pegawai, pejabat, agen, perwakilan dan/atau penasihat profesional Anda (“Personel”) tidak pernah: (a) melakukan pelanggaran atas Hukum Perbudakan Modern; atau (b) diberitahukan bahwa pihaknya sedang dalam penyelidikan sehubungan dengan dugaan pelanggaran atau tuntutan berdasarkan Hukum Perbudakan Modern; atau (c) mengetahui adanya keadaan dalam rantai pasokan pihaknya yang dapat menimbulkan suatu penyelidikan sehubungan dengan dugaan pelanggaran atau tuntutan berdasarkan Hukum Perbudakan Modern. Anda harus segera memberitahukan Kami secara tertulis apabila Anda mengetahui atau memiliki alasan untuk beranggapan bahwa Anda atau dan/atau Personel Anda telah melanggar atau kemungkinan melanggar kewajiban Anda berdasarkan pasal ini. Pemberitahuan apa pun harus menyatakan keterangan lengkap mengenai keadaan terkait pelanggaran atau kemungkinan pelanggaran kewajiban Anda
+Tokopedia menyatakan dan menjamin kepada Anda dan Anda menyatakan kepada Tokopedia bahwa masing-masing pihak:
+•
+merupakan bisnis yang terdaftar secara sah dan memiliki reputasi yang baik berdasarkan undang-undang yurisdiksi tempat ia didirikan;
+•
+memiliki wewenang dan hak untuk menandatangani Ketentuan ini dan melaksanakan kewajibannya berdasarkan Ketentuan ini.
+Anda menyatakan dan mengakui bahwa dalam melaksanakan Ketentuan ini, Anda tidak bergantung, dan tidak bergantung pada representasi atau pernyataan yang dibuat oleh Tokopedia atau agen, perwakilan, atau pengacaranya sehubungan dengan pokok bahasan, dasar, atau dampak dari Ketentuan ini di luar representasi dan pernyataan yang secara tegas terkandung di sini.
+17.
+Apa yang Terjadi apabila Anda Melanggar Ketentuan Ini atau Kebijakan?
+Jika Kami mengetahui atau mencurigai bahwa Anda melakukan pelanggaran material terhadap Ketentuan ini atau Kebijakan, Kami dapat mengambil tindakan perbaikan, termasuk namun tidak terbatas pada:
+•
+mengirimkan pesan peringatan resmi;
+•
+menghapus pendaftaran Produk;
+•
+penangguhan hak pendaftaran Produk Anda;
+•
+penangguhan sementara atau permanen atas manfaat penjual Anda, pendaftaran Anda dalam program afiliasi, atau akses Anda ke Platform E-Commerce;
+•
+menghapus Akun Anda dan secara permanen melarang akses Anda ke Platform E-Commerce;
+•
+mengajukan gugatan hukum terhadap Anda;
+•
+melaporkan Anda kepada otoritas regulator yang relevan untuk tuntutan pidana.
+Selain hak-hak Kami yang disebutkan di atas, apabila Kami menduga bahwa Anda telah:
+•
+menyalahgunakan kupon, voucher, atau diskon promosi lainnya (termasuk, namun tidak terbatas pada, menjual kupon, voucher, atau diskon promosi lainnya kepada pihak ketiga dan/atau mendorong penggunaannya dengan cara yang tidak sesuai dengan penggunaan lazim);
+•
+dengan sengaja mengirimkan paket kosong atau tidak lengkap kepada Pembeli (penipuan pemenuhan pesanan);
+•
+melakukan transaksi di luar platform; atau
+•
+melanggar Ketentuan ini atau Kebijakan mana pun dan, sebagai akibat dari pelanggaran tersebut, Kami, Pengguna atau pihak ketiga menderita kerugian atau ganti rugi,
+maka uang yang menjadi hak Anda dapat ditahan dari Anda, dan jika Kami menentukan (bertindak secara wajar) bahwa pelanggaran Anda terhadap Ketentuan ini atau Kebijakan apa pun telah menyebabkan Kami, Pengguna, atau pihak ketiga lainnya mengalami kerugian atau kerusakan, Anda mungkin diharuskan untuk memberikan kompensasi, di luar uang yang menjadi hak Anda, Kami, dan/atau Pengguna yang terkena dampak atau pihak ketiga lainnya yang relevan.
+18.
+Kerahasiaan
+Selama Anda menggunakan Platform E-Commerce,
+Anda
+dapat menerima atau memperoleh akses ke informasi yang berkaitan dengan Tokopedia, usaha dan produknya, Platform E-Commerce, serta cara operasinya yang tidak berada dalam ranah publik (
+"
+Informasi Rahasia
+"
+)
+.
+Ketentuan ini harus diperlakukan sebagai Informasi Rahasia Kami.
+Anda setuju bahwa selama Jangka Waktu dan 2 tahun setelah Jangka Waktu Anda tidak akan menggunakan Informasi Rahasia untuk tujuan apa pun selain yang diperlukan bagi Anda untuk melakukan kewajiban Anda berdasarkan Ketentuan ini. Anda tidak akan mengungkapkan Informasi Rahasia kepada pihak ketiga mana pun selain:
+•
+kepada karyawan, subkontraktor, dan penasihat yang perlu memiliki akses ke Informasi Rahasia untuk memungkinkan Anda melaksanakan kewajiban Anda berdasarkan Ketentuan ini; atau
+•
+sebagaimana mungkin diwajibkan oleh Hukum yang Berlaku atau otoritas pemerintah atau regulator mana pun.
+Anda harus menyimpan Informasi Rahasia hanya selama diperlukan. Anda harus menghapus Informasi Rahasia pada akhir Jangka Waktu atau segera setelah tidak lagi diwajibkan untuk memenuhi kewajiban Anda berdasarkan Ketentuan ini atau Hukum Yang Berlaku.
+19.
+Pernyataan Sangkalan
+Platform E-Commerce (termasuk, untuk menghindari keraguan, API dan Data API) disediakan “sebagaimana adanya”, dan Tokopedia menyangkal setiap dan semua pernyataan, syarat, dan jaminan, baik yang dinyatakan secara tegas maupun tersirat, termasuk tetapi tidak terbatas pada, kelayakan untuk jual beli, kualitas yang memuaskan, kelayakan untuk tujuan tertentu, atau ketiadaan pelanggaran, kecuali apabila secara tegas disebutkan lain dalam Ketentuan ini.
+Tokopedia tidak menjamin bahwa Platform E-Commerce atau Platform akan selalu tersedia atau bebas dari kesalahan .
+Anda secara tegas mengakui bahwa Tokopedia tidak memiliki hubungan khusus atau kewajiban fidusia dengan Anda. Anda mengakui bahwa Tokopedia tidak membuat jaminan terkait hasil penggunaan Platform E-Commerce oleh Anda; cara Anda dapat menafsirkan atau menggunakan Platform E-Commerce; atau tindakan yang Anda ambil setelah terpapar pada Platform, Pembeli di Platform E-Commerce, atau Kreator di Fitur Afiliasi.
+Dalam hal apapun, Tokopedia atau Afiliasi Tokopedia tidak bertanggung jawab kepada Anda atas Materi Penjual dan/atau Konten Kreator yang dihapus dari Platform dan Tokopedia tidak menjamin jumlah tayangan atau keberhasilan Konten Kreator apa pun.
+Tokopedia dan Afiliasi Tokopedia tidak memiliki kewajiban apa pun untuk mendapatkan perizinan apa pun atas Konten Kreator, melabeli Konten Kreator, memastikan Konten Kreator mematuhi Hukum Yang Berlaku, atau memeriksa Konten Kreator sebelum diunggah. Harap diperhatikan bahwa Anda harus memastikan bahwa semua Konten Kreator menggunakan fungsi pelabelan iklan Kami yang tersedia. Namun, fungsi ini bukan merupakan pengganti pengungkapan periklanan yang mungkin diwajibkan berdasarkan Hukum Yang Berlaku, peraturan dan pedoman perilaku, atau kebijakan terkait.
+20.
+Pembebasan
+Anda membebaskan Tokopedia dan Afiliasi Tokopedia dari semua tanggung jawab terkait sudah berhasil atau belumnya Anda menjalin hubungan apa pun dengan Kreator dan/atau Pembeli melalui Platform E-Commerce.
+Dalam hal Anda mengalami sengketa dengan Kreator atau Pembeli atau pihak ketiga mana pun, Anda setuju untuk membebaskan Tokopedia (termasuk Afiliasi Tokopedia serta setiap pejabat, direktur, karyawan, agen, penerus, perwakilan, pemegang saham, dan pemasok Kami atau Afiliasi Tokopedia) dari klaim, tuntutan, dan kerugian dalam bentuk dan sifat apa pun, baik diketahui atau tidak diketahui, diduga atau tidak terduga, diungkapkan atau tidak diungkapkan, dapat diperkirakan atau tidak dapat diperkirakan, yang timbul dari atau dengan cara apa pun berhubungan dengan sengketa dengan Kreator, Pembeli, atau pihak ketiga mana pun.
+21.
+Pembatasan Tanggung Jawab
+Ketentuan ini tidak membatasi segala kewajiban yang tidak dapat dibatasi
+, dipersempit, atau dikecualikan secara hukum.
+Tokopedia dan Afiliasi Tokopedia tidak akan bertanggung jawab atas segala kewajiban berikut yang mungkin timbul sehubungan dengan penggunaan Platform E-Commerce (termasuk, untuk menghindari keraguan, API dan Data API) atau Platform oleh Anda, baik dalam kontrak, perbuatan melawan hukum (termasuk kelalaian), pernyataan keliru, restitusi, atau lainnya:
+•
+kehilangan keuntungan atau perkiraan keuntungan, pendapatan, peluang bisnis,
+goodwill
+, atau penghematan yang diperkirakan;
+•
+kehilangan data;
+•
+kerugian tidak langsung, insidental, khusus, konsekuensial atau hukuman; atau
+•
+segala hal yang berada di luar kendali wajar Tokopedia.
+Tokopedia dan Afiliasi Tokopedia tidak bertanggung jawab atas tindakan, kesalahan, pengabaian, pernyataan, jaminan, pelanggaran, atau kelalaian terhadap Anda, atau atas cedera pribadi, kematian, kerusakan properti, atau kerugian atau pengeluaran lain yang ditimbulkan, sejauh diizinkan berdasarkan hukum yang berlaku.
+Tokopedia dan Afiliasi Tokopedia dalam hal apa pun tidak bertanggung jawab atas pelaksanaan atau kegagalan pelaksanaan oleh Anda untuk keterlibatan Anda dengan Kreator mana pun yang Anda libatkan atau bekerja sama dengan Anda atau ingin Anda libatkan atau bekerja sama dengan Anda melalui Fitur Afiliasi.
+Tunduk pada paragraf di atas, total tanggung jawab keseluruhan maksimum Tokopedia dan Afiliasi Tokopedia berdasarkan atau sehubungan dengan Ketentuan ini tidak akan melebihi total biaya yang Anda bayarkan sehubungan dengan Pasal 10 dalam enam bulan sebelum dasar gugatan.
+22.
+Ganti rugi
+Anda setuju untuk mengganti rugi, membela, dan membebaskan Tokopedia dan Afiliasi Tokopedia serta setiap karyawan, direktur, atau agen mereka dari dan terhadap setiap tuntutan yang timbul dari atau sehubungan dengan:
+•
+Produk yang Anda Tawarkan untuk dijual di Platform E-Commerce, termasuk dalam kaitannya dengan ketentuan penjualan, hak konsumen menurut undang-undang, pertanggungjawaban produk, Produk Berbahaya atau tuntutan lain yang mungkin timbul berdasarkan Hukum Yang Berlaku;
+•
+pelanggaran aktual atau dugaan pelanggaran terhadap hak kekayaan intelektual pihak ketiga sehubungan dengan Produk yang Anda Tawarkan untuk dijual di Platform E-Commerce, Materi Penjual yang Anda Sediakan, atau penggunaan atau kegiatan Anda di Platform E-Commerce;
+•
+setiap pajak atau biaya penjualan, penggunaan, pertambahan nilai, cukai, bisnis, atau lainnya, bea, permintaan, atau setiap biaya pabean atau bea cukai yang dikenakan pada setiap Penjualan yang Anda dapatkan di Platform E-Commerce atau pengadaan Layanan Kreator oleh Anda dari Kreator;
+•
+pelanggaran Anda terhadap Ketentuan ini;
+•
+keberhasilan atau kegagalan Anda untuk menjalin hubungan dengan Kreator dan/atau Pembeli melalui Platform E-Commerce;
+•
+kegagalan Anda untuk segera membatalkan otorisasi Anda atas Layanan Mitra pada Pusat Penjual;
+•
+Pelanggaran aktual atau dugaan pelanggaran Anda terhadap ketentuan kontrak layanan apa pun yang Anda miliki dengan Mitra sehubungan dengan Layanan Mitra; dan
+•
+Kegagalan Anda untuk bertindak sesuai dengan
+Ketentuan Penggunaan dan Penjualan Platform E-Commerce
+.
+Tokopedia setuju untuk mengganti kerugian Anda dari dan terhadap setiap tuntutan bahwa penggunaan Platform E-Commerce oleh Anda sesuai dengan Ketentuan ini melanggar hak kekayaan intelektual pihak ketiga.
+Ganti rugi ini mencakup setiap kewajiban atau pengeluaran yang timbul dari tuntutan, kerugian, kerusakan, penyelesaian, penilaian, denda, biaya litigasi, dan biaya hukum.
+23.
+Jangka Waktu
+Ketentuan ini mulai berlaku pada hari Anda menerimanya. Ketentuan ini akan terus berlaku hingga diakhiri oleh Anda atau Tokopedia sesuai dengan Ketentuan ini.
+24.
+Pembatasan, Penangguhan, dan Pengakhiran
+Hak Tokopedia untuk Membatasi atau Menangguhkan Akun Anda
+Tokopedia dapat dengan segera (i) menghapus daftar Produk, (ii) menangguhkan atau membatasi akses Anda ke Akun Anda, (iii) membatalkan transaksi apa pun yang terkait dengan Akun Anda, dan/atau (iv) membatalkan atau menarik promosi dan/atau subsidi apa pun yang ditawarkan oleh Tokopedia kepada Anda, jika:
+•
+Anda melakukan pelanggaran yang material terhadap Ketentuan ini, termasuk Ketentuan Penjualan dan Kebijakan;
+•
+Kami memiliki alasan untuk meyakini bahwa Akun Anda telah digunakan untuk kegiatan penipuan atau ilegal;
+•
+Penggunaan Anda atas Platform E-Commerce atau Platform berisiko merugikan Pengguna, penjual lain atau Tokopedia dan kepentingannya yang sah; atau
+•
+Anda telah menerima keluhan Pengguna dalam jumlah yang tidak wajar.
+Penangguhan atau pembatasan apa pun akan tetap berlaku hingga Tokopedia menerima konfirmasi dari Anda bahwa Anda telah memperbaiki pelanggaran dan/atau memberikan bukti bahwa kegiatan atau bahaya yang dijelaskan tidak atau tidak lagi menjadi ancaman.
+Hak Tokopedia untuk Mengakhiri
+Pada Pemberitahuan
+Tokopedia dapat mengakhiri Akun Anda tanpa alasan dengan memberikan pemberitahuan kepada Anda selambat-lambatnya dari 30 hari sebelumnya.
+Untuk Pelanggaran Material
+Tokopedia dapat mengakhiri Akun Anda segera setelah memberikan pemberitahuan, jika Anda telah gagal untuk memperbaiki pelanggaran material terhadap Ketentuan ini dalam waktu 30 hari kecuali Tokopedia dapat menunjukkan bahwa Anda telah berulang kali melakukan pelanggaran terhadap Ketentuan ini, yang dalam hal ini pemberitahuan pengakhiran akan segera berlaku.
+Hak Anda apabila Tokopedia Membatasi, Menangguhkan, atau Mengakhiri Akun Anda
+Apabila Kami membatasi atau menangguhkan promosi atau penjualan Produk tertentu atau mengakhiri Akun Anda, Kami akan memberikan pernyataan alasan pada saat pemberitahuan diberikan. Tidak ada pernyataan alasan yang akan diberikan apabila Kami:
+•
+tunduk pada kewajiban hukum atau peraturan untuk tidak memberikan fakta atau keadaan atau referensi yang spesifik ke alasan yang berlaku
+; atau
+•
+apabila pemberitahuan pengakhiran telah diberikan dan Kami dapat membuktikan bahwa Anda telah berulang kali melanggar Ketentuan ini
+.
+Apabila Kami telah memberikan pernyataan alasan kepada Anda, Anda akan memiliki kesempatan untuk mengklarifikasi fakta dan keadaan dalam kerangka pemrosesan internal penanganan keluhan Kami yang diatur di bawah ini
+.
+Apabila Kami membatasi, menangguhkan, atau mengakhiri Akun Anda, Anda akan memiliki hak atas mekanisme penyelesaian sengketa yang tercantum dalam Pasal
+27
+(
+Penyelesaian Sengketa
+) di bawah ini
+.
+Hak Anda untuk Mengakhiri
+Anda dapat mengakhiri penggunaan Anda atas Shop dengan memberikan pemberitahuan kepada Kami di
+bantuan@shop.tokopedia.com
+(untuk Shop) atau
+care@tokopedia.com
+(untuk Platform Tokopedia).
+Anda dapat menutup Akun Anda selama ketentuan berikut terpenuhi:
+•
+Anda tidak memiliki produk yang terdaftar di Platform E-Commerce. Ini termasuk daftar produk melalui video, atau siaran langsung;
+•
+Anda tidak memiliki pesanan pelanggan yang belum diselesaikan atau tidak selesai;
+•
+Lebih dari 90 hari telah berlalu sejak pesanan terakhir Anda diselesaikan; dan
+•
+Saldo akun Platform E-Commerce Anda nol, dan tidak ada transaksi, pembayaran, atau pengembalian dana pelanggan yang belum diselesaikan.
+Apabila Anda menggunakan hak Anda untuk mengakhiri hubungan kontraktual Anda dengan Kami akibat perubahan terhadap Ketentuan ini sebagaimana dijelaskan dalam Bagian 4 (
+Perubahan terhadap Ketentuan Ini
+), dan Anda tidak memenuhi ketentuan untuk penutupan
+toko
+di atas, setelah menerima pemberitahuan dari Anda, Kami akan segera menangguhkan
+toko Anda dan menonaktifkan Produk Anda
+, akan tetapi
+toko
+Anda tidak akan ditutup hingga ketentuan di atas terpenuhi
+.
+Ketentuan Pasal 1266 KUHPerdata dengan ini dikesampingkan sejauh pengesampingan tersebut diperlukan untuk memungkinkan pengakhiran Ketentuan ini
+.
+25.
+Dampak dan Hak atas Pengakhiran
+Pada saat Akun
+Anda
+diakhiri, semua hak dan kewajiban terkait berdasarkan Ketentuan ini akan segera berakhir, dengan pengecualian bahwa Anda akan tetap bertanggung jawab untuk melaksanakan semua kewajiban Anda kepada Pembeli
+dan/atau Kreator
+sehubungan dengan transaksi yang dilakukan sebelum tanggal berlaku pengakhiran dan untuk kewajiban apa pun yang timbul sebelum atau sebagai akibat dari pengakhiran
+.
+Pasal-pasal Ketentuan berikut akan tetap berlaku setelah pengakhiran
+: 6 (
+Konten Shop dan Materi Penjual
+); subbagian
+Lisensi Sehubungan dengan Konten Konten Kreator dari Pasal
+7 (
+Fitur Afiliasi
+); 15 (
+Kebijakan Bea Cukai dan Pajak);
+18 (
+Kerahasiaan);
+21 (
+Pembatasan Tanggung Jawab)
+; 22 (
+Ganti Rugi)
+; 25 (
+Dampak dan Hak atas Pemutusan Hubungan Kerja
+); 26 (
+Ketentuan Lain-Lain)
+; 27 (
+Penyelesaian Sengketa)
+dan 28 (
+Hukum yang Mengatur dan Yurisdiksi).
+26.
+Ketentuan Lain-Lain
+Perubahan terhadap Platform E-Commerce
+Kami umumnya akan mengirimkan pemberitahuan selambat-lambatnya 15 hari sebelumnya mengenai perubahan yang material terhadap Platform E-Commerce yang secara material berdampak terhadap penggunaan Platform E-Commerce oleh Anda.
+Namun, Tokopedia secara tegas berhak untuk:
+•
+membuat perubahan pada Platform E-Commerce tanpa pemberitahuan sebelumnya kepada Anda (kecuali apabila pemberitahuan diwajibkan berdasarkan Hukum Yang Berlaku); dan
+•
+menarik Platform E-Commerce dari pasar (seluruhnya atau sebagian) tanpa pemberitahuan sebelumnya kepada Anda.
+Apabila Anda tidak menyukai perubahan yang diberitahukan kepada Anda atau perubahan lain yang dibuat, Anda berhak untuk segera mengakhiri hubungan kontraktual Anda dengan Tokopedia dengan menutup Akun Anda dan berhenti menggunakan Platform E-Commerce, sesuai dengan Pasal 24 (
+Pembatasan, Penangguhan dan Pengakhiran
+) di atas.
+Umpan balik
+Apabila Anda memberikan laporan lisan atau tertulis, atau segala materi, informasi, gagasan, analisis, konsep, dokumen, komunikasi, atau pengetahuan teknis (secara bersama-sama disebut “
+Umpan Balik
+”) kepada Tokopedia terkait Platform E-Commerce atau segala hal yang berkaitan dengan Platform E-Commerce, Umpan Balik tersebut akan menjadi hak milik mutlak Tokopedia. Anda dengan ini memberi Tokopedia semua hak, alas hak, dan kepentingan dalam dan terhadap semua Umpan Balik, atau, apabila pengalihan tersebut tidak sah, dengan ini secara tidak dapat ditarik kembali memberi Tokopedia lisensi yang berlaku di seluruh dunia, eksklusif (bahkan untuk Anda), tidak dapat ditarik kembali, sejauh diizinkan berdasarkan Hukum Yang Berlaku, bebas royalti, dan telah dibayar penuh atas Umpan Balik tersebut.
+Umpan Balik akan dianggap sebagai Informasi Rahasia Tokopedia dan Tokopedia dapat menggunakan atau memanfaatkan Umpan Balik tanpa perhitungan atau pembayaran apa pun kepada Anda atau pihak ketiga mana pun.
+Sanksi
+Anda setuju untuk mematuhi seluruh peraturan perundang-undangan perdagangan, ekonomi, dan keuangan yang berlaku (secara bersama-sama disebut “
+Sanksi
+”), dan setuju untuk tidak menyebabkan Kami melanggar Sanksi tersebut. Anda menyatakan, menjamin dan berjanji bahwa selama jangka waktu Ketentuan ini Anda tidak: (1) beroperasi, didirikan, atau merupakan warga negara atau wilayah yang menjadi target Sanksi komprehensif; (2) teridentifikasi dalam daftar terkait Sanksi mengenai pihak tertentu yang dibuat oleh Republik Rakyat Tiongkok, Amerika Serikat, Uni Eropa, Kerajaan Inggris, Perserikatan Bangsa-Bangsa, Singapura (termasuk
+Lists of Designated Individuals and Entities
+dari Otoritas Moneter Singapura) atau otoritas pemerintah lain yang berlaku, termasuk Warga Negara Yang Ditunjuk Secara Khusus dan Pribadi Yang Diblokir OFAC; (3) dimiliki atau dikendalikan oleh, atau bertindak bagi atau atas nama, salah satu pihak atau lebih yang disebutkan dalam
+butir
+(1) atau (2) di atas; atau (4) tercantum dalam
+Investor Alert List
+dari Otoritas Moneter Singapura. Anda akan memastikan bahwa anak perusahaan, direktur, pejabat, karyawan, dan afiliasi Anda mematuhi
+pasal
+ini. Apabila Kami secara wajar menentukan bahwa Anda melanggar
+pasal
+ini, atau bahwa Kami tidak dapat melaksanakan kewajiban Kami dalam Ketentuan ini karena larangan terkait Sanksi, Kami dapat segera mengakhiri Ketentuan ini
+.
+Hubungan Antara Para Pihak
+Anda secara tegas menyatakan dan menyetujui bahwa Anda, sebagai Penjual, adalah organisasi independen (sebagaimana sesuai).
+Ketentuan ini tidak menciptakan hubungan kemitraan, usaha bersama, keagenan,
+karyawan-perusahaan, pemilik waralaba-pewaralaba, subkontrak
+, atau perwakilan penjualan antara Anda dan
+Tokopedia
+atau Afiliasi
+Tokopedia.
+Anda tidak boleh menandatangani perjanjian apa pun atas nama Tokopedia.
+Tokopedia tidak membuat pernyataan atau jaminan apa pun sehubungan dengan Anda, Pembeli, Kreator, atau Ketentuan ini, dan Tokopedia tidak akan dianggap mendukung Anda, Pembeli, atau Kreator mana pun, sekalipun Tokopedia memberikan layanan kepada Anda.
+Keseluruhan Perjanjian
+Ketentuan ini beserta Kebijakan merupakan keseluruhan perjanjian antara Anda dan
+Tokopedia
+dan menggantikan semua perjanjian, janji, jaminan, pernyataan, dan kesepahaman sebelumnya antara Anda dan
+Tokopedia
+, baik secara tertulis maupun lisan, terkait dengan pokok bahasannya
+.
+Anda setuju bahwa Anda tidak mengacu dan tidak memiliki pemulihan sehubungan dengan keterangan, pernyataan atau jaminan (baik yang dibuat tanpa sengaja atau karena kelalaian) yang tidak tercantum dalam Ketentuan ini. Anda setuju bahwa Anda tidak dapat mengajukan tuntutan atas pernyataan yang tidak disengaja atau karena kelalaian berdasarkan pernyataan dalam Ketentuan ini
+.
+Tidak ada Penyampingan
+Kegagalan atau penundaan Kami dalam melaksanakan hak atau pemulihan apa pun yang disediakan berdasarkan Ketentuan ini atau berdasarkan Hukum Yang Berlaku bukan merupakan penyampingan atas hak atau pemulihan tersebut atau hak atau pemulihan lain, atau mencegah atau membatasi pelaksanaan lebih lanjut atas hak atau pemulihan tersebut atau hak atau pemulihan lainnya. Pelaksanaan satu atau sebagian hak atau pemulihan apa pun yang diberikan berdasarkan Ketentuan ini atau berdasarkan Hukum Yang Berlaku tidak akan mencegah atau membatasi pelaksanaan lebih lanjut oleh Kami atas hak atau pemulihan tersebut atau hak atau pemulihan lainnya
+.
+Keterpisahan
+Apabila suatu ketentuan dalam Ketentuan ini ditetapkan tidak sesuai dengan hukum atau tidak dapat diberlakukan, ketentuan tersebut akan dibatasi atau dihilangkan sejauh diperlukan, sehingga Ketentuan ini akan tetap berlaku dan memiliki kekuatan penuh dan dapat diberlakukan.
+Pemulihan
+Setiap pelanggaran Ketentuan ini dapat menyebabkan kerugian yang tidak dapat diperbaiki bagi Tokopedia, di mana terhadap kerugian tersebut mungkin tidak dapat diberikan pemulihan yang memadai dan, oleh karena itu, Tokopedia akan berhak mendapatkan putusan sela ganti rugi sehubungan dengan hal tersebut selain pemulihan lainnya.
+Hak Pihak Ketiga
+Kecuali apabila secara tegas dinyatakan lain, Ketentuan ini tidak menimbulkan hak apa pun kepada pihak ketiga mana pun untuk memberlakukan segala ketentuan terhadap Ketentuan ini. Hak Kami untuk membatalkan atau mengubah Ketentuan ini tidak tunduk pada persetujuan pihak ketiga lain mana pun
+.
+Pengalihan
+Tokopedia
+akan diizinkan untuk mengalihkan
+atau menetapkan
+hak dan kewajiban berdasarkan Ketentuan ini kepada anggota grup perusahaan
+Tokopedia
+dengan atau tanpa
+pemberitahuan kepada Anda
+.
+Penjual
+tidak diizinkan untuk mengalihkan atau menetapkan hak atau kewajiban atau keduanya dalam Ketentuan ini kepada pihak ketiga tanpa izin tertulis sebelumnya dari
+Tokopedia
+.
+Setiap upaya untuk melakukan hal tersebut akan dianggap batal.
+Perlindungan Data
+Kami akan menangani setiap data yang dapat mengidentifikasi individu sesuai dengan
+Kebijakan Privasi
+.
+Layanan Pihak Ketiga
+Tokopedia tidak mendukung informasi yang dimuat dalam situs web atau layanan pihak ketiga di luar Platform, atau menjamin kepatuhan mereka terhadap segala Hukum Yang Berlaku, keakuratan, keandalan, kualitas, atau kelengkapannya. Karena situs web atau layanan pihak ketiga dan konten di dalamnya berada di luar kendali Tokopedia, apabila Anda memilih untuk mengakses situs web atau layanan tersebut, Anda melakukannya sepenuhnya atas risiko Anda sendiri.
+Pemberitahuan
+Kami dapat memberikan pemberitahuan kepada Anda berdasarkan Ketentuan ini ke alamat surel yang Anda berikan dalam Akun Anda.
+Anda dapat memberikan pemberitahuan kepada Tokopedia berdasarkan Ketentuan ini dengan mengirimkan surel ke
+bantuan@shop.tokopedia.com
+(untuk Shop) atau
+care@tokopedia.com
+(untuk Platform Tokopedia).
+Force Majeure
+Tokopedia
+tidak akan bertanggung jawab atas segala penundaan atau kegagalan untuk melaksanakan kewajibannya berdasarkan Ketentuan ini karena alasan, peristiwa, atau hal lain di luar kendalinya yang wajar
+.
+Interpretasi
+Judul pasal dan paragraf
+adalah untuk kemudahan referensi semata dan
+tidak akan memengaruhi interpretasi Ketentuan ini
+.
+Pribadi mencakup perseorangan, badan korporasi, atau badan yang tidak berbadan hukum (baik sebagai pribadi hukum terpisah atau tidak)
+.
+Kecuali apabila konteksnya menyatakan lain, kata dalam bentuk tunggal akan mencakup bentuk jamak dan bentuk jamak akan mencakup bentuk tunggal
+.
+“
+Termasuk
+”
+dan istilah serupa lainnya akan diinterpretasikan seolah-olah disertai frasa
+“
+tetapi tidak terbatas pada
+”.
+Ketentuan ini akan mengikat, dan memberikan manfaat bagi, para pihak dalam Ketentuan ini dan masing-masing perwakilan pribadi, penerus, dan penerima hak yang diizinkan, dan referensi ke pihak mana pun harus mencakup penerus dan penerima hak pihak tersebut, dan dalam hal Penjual, perwakilan pribadinya.
+Referensi pada suatu undang-undang atau ketentuan undang-undang adalah referensi terhadap undang-undang atau ketentuan undang-undang tersebut, sebagaimana diubah, diperpanjang, atau diberlakukan kembali dari waktu ke waktu
+.
+27.
+Penyelesaian Sengketa
+Sengketa Antara Anda dan Pembeli
+Anda bertanggung jawab untuk segera dan secara wajar menyelesaikan segala sengketa antara Anda dan Pembeli.
+Tokopedia
+dapat memfasilitasi komunikasi antara Penjual dan Pembeli sesuai dengan kebijakan dan prosedur yang dijelaskan dalam
+Shop
+Academy,
+tetapi bukan merupakan pihak dalam sengketa tersebut dan tidak berkewajiban untuk melakukannya
+.
+Apabila Pembeli mengajukan kepada Kami suatu klaim atau sengketa antara
+Anda
+dan Pembeli
+, Kami akan meminta Anda dan Pembeli untuk memberikan dokumen dan informasi yang secara wajar diminta oleh
+Tokopedia
+untuk memungkinkannya memfasilitasi penyelesaian sengketa
+sesuai dengan
+Pedoman Penanganan Eskalasi Sengketa Pascajual
+.
+Anda berjanji berdasarkan Ketentuan ini untuk sepenuhnya mematuhi segala pembayaran atau penyelesaian yang disetujui dengan Pembeli sesuai dengan Ketentuan ini
+, termasuk segala keputusan yang dibuat sesuai dengan
+Pedoman Penanganan Eskalasi Sengketa Pascajual
+.
+Sengketa Antara Anda dan Kreator
+Anda bertanggung jawab untuk segera dan secara adil menyelesaikan segala sengketa antara Anda dan Kreator. Tokopedia dapat memfasilitasi komunikasi antara Anda dan Penjual secara kasus per kasus, tetapi bukan merupakan pihak dalam sengketa tersebut dan tidak berkewajiban untuk melakukannya.
+Sengketa Antara Anda dan Mitra
+Anda bertanggung jawab untuk menyelesaikan setiap sengketa dengan Mitra secara cepat dan adil. Tokopedia dapat memfasilitasi komunikasi antara Anda atau Mitra berdasarkan kasus per kasus tetapi tidak memiliki kewajiban untuk melakukannya. Platform E-Commerce tidak terlibat sebagai pihak dalam setiap sengketa tersebut.
+Keluhan Antara Anda dan Tokopedia
+Apabila Anda memiliki keluhan terhadap Platform E-Commerce, akses Anda ke dan untuk menggunakan Platform E-Commerce, Ketentuan ini atau dugaan tindakan Kami, Anda dapat mengajukan keluhan melalui sistem penanganan keluhan internal Kami dengan mengirimkan surel
+ke
+bantuan@shop.tokopedia.com
+(untuk Shop) atau
+care@tokopedia.com
+(untuk Platform Tokopedia,
+atau dengan mengirimkan pesan melalui alat pelayanan pelanggan dalam aplikasi Kami
+.
+Anda juga dapat meminta informasi mengenai berfungsinya dan efektivitas sistem penanganan keluhan internal Kami dengan mengirimkan surel ke
+Alamat
+email
+tersebut di atas,
+atau dengan mengirimkan pesan melalui alat pelayanan pelanggan dalam aplikasi Kami
+.
+Sengketa Antara Anda dan Tokopedia
+Dalam hal terjadi sengketa antara Anda dan Tokopedia, perselisihan akan diselesaikan sesuai dengan Pasal 28 (
+Hukum Yang
+Mengatur
+dan Yurisdiksi).
+28.
+Hukum Yang Mengatur dan Yurisdiksi
+Ketentuan ini, pokok bahasan dan pembentukannya, diatur oleh hukum Republik Indonesia. Setiap perselisihan yang timbul dari atau sehubungan dengan Ketentuan-Ketentuan ini, termasuk setiap pertanyaan mengenai keberadaan, keabsahan atau pengakhiran Ketentuan-Ketentuan ini, akan dirujuk dan diselesaikan secara final melalui arbitrase yang diselenggarakan oleh Badan Arbitrase Nasional Indonesia ("
+BANI
+") yang beralamat di Wahana Graha Lt. 1 & 2 Jl. Mampang Prapatan No. 2, Jakarta 12760, sesuai dengan Peraturan Arbitrase dan Prosedur BANI yang berlaku pada saat itu, yang peraturannya dianggap sebagai bagian yang tidak terpisahkan dari klausul ini. Tempat kedudukan arbitrase adalah di Jakarta. Majelis terdiri dari satu (1) orang arbiter. Bahasa yang digunakan dalam arbitrase adalah bahasa Indonesia.
+29.
+Kepatuhan dengan Peraturan Niaga
+Penjual menyatakan, menjamin dan berjanji bahwa pihaknya mengetahui dan akan mematuhi semua Hukum Yang Berlaku, aturan dan instruksi dari badan-badan yang berwenang terkait kepatuhan dengan peraturan niaga, termasuk hukum ekspor, kontrol ekspor, impor, bea cukai dan niaga, termasuk di tetapi tidak terbatas pada Indonesia. Setiap pelanggaran terhadap Hukum yang Berlaku adalah dilarang.
+Apabila Tokopedia diwajibkan oleh badan yang berwenang untuk melakukan pemeriksaan sehubungan dengan perihal kepatuhan dengan peraturan niaga, Penjual, atas permintaan terlebih dahulu yang sewajarnya dari badan yang berwenang dan/atau Tokopedia, harus secepatnya memberikan semua informasi dan dokumentasi yang diminta kepada badan yang berwenang dan/atau Tokopedia secara tertulis untuk tujuan memastikan kepatuhan dengan peraturan perundang-undangan tersebut.
+30.
+Bahasa
+Ketentuan ini disusun dalam bahasa Inggris dan bahasa Indonesia. Apabila terdapat ketidaksesuaian atau perbedaan penafsiran antara teks bahasa Inggris dan teks bahasa Indonesia, maka teks bahasa Indonesia akan berlaku dan teks bahasa Inggris terkait akan dianggap diubah secara otomatis untuk menyesuaikan dengan teks bahasa Indonesia terkait dan menjadikan teks bahasa Inggris terkait menjadi konsisten dengan teks bahasa Indonesia terkait. Tokopedia dan Penjual masing-masing menyatakan bahwa pihaknya telah membaca Ketentuan ini dan memahami isinya serta bahwa Ketentuan ini telah ditandatangani secara bebas dan tanpa paksaan.
+31.
+Otorisasi Penggunaan Data Komersial
+Dengan menggunakan Platform E-Commerce, Anda mengakui dan menyetujui pengumpulan, penggunaan, pemrosesan, penampilan dan pemindahan data komersial sebagaimana dideskripsikan di paragraf ini.
+Tokopedia
+dan Afiliasi
+Tokopedia
+menyimpan data komersial tertentu milik Penjual, termasuk konten toko Anda (termasuk, tetapi tidak terbatas pada, teks, foto, video, rekaman suara dan karya musik yang ada di dalamnya), data atau informasi yang bukan data pribadi, dan produk yang ditampilkan di dalamnya yang dibuat dari atau merupakan turunan dari penggunaan Penjual atas platform Platform E-Commerce (dan tidak hanya yang diberikan Penjual kepada Kami) untuk tujuan menyediakan layanan terkait Platform E-Commerce kepada Anda (“
+Data Komersial
+”). Anda mengizinkan
+Tokopedia
+dan Afiliasi
+Tokopedia
+untuk
+:
+•
+meng-
+host
+, memproduksi ulang, menampilkan, menayangkan (termasuk siaran langsung), mendistribusikan, memodifikasi, menjalankan, menyalin, secara publik menampilkan, membuat tersedia, memublikasikan, menerjemahkan dan membuat karya turunan dari Data Komersial
+; dan
+•
+menggunakan Data Komersial untuk memasarkan dan mempromosikan platform Platform E-Commerce baik di dalam maupun di luar platform dan untuk meningkatkan mutu platform Platform E-Commerce dan fitur, layanan serta platform terkait (seperti berbagai penampilan daftar peringkat di Platform E-Commerce, Pusat Penjual, platform kreator, atau PC untuk menyediakan pengalaman pengguna yang baik dan/atau untuk membantu pengguna platform untuk lebih memahami fitur platform).
+Anda lebih lanjut mengizinkan pengguna Platform atau pihak ketiga lainnya untuk melihat, mengakses, mengunduh, memproduksi ulang, membuat karya turunan dari, memublikasi dan/atau mentransmisikan Data Komersial, dalam bentuk atau media apa pun di Platform E-Commerce dan Platform TikTok dan untuk menggunakan hal tersebut untuk (a) memasarkan dan mempromosikan  Platform E-Commerce baik di dalam maupun di luar Platform; dan (b) meningkatkan mutu Platform E-Commerce, Platform TikTok dan produk serta layanan Kami lainnya, termasuk untuk mendukung peningkatan mutu pengalaman pengguna
+.
+Pemberian izin ini oleh Anda kepada Tokopedia tidak akan memengaruhi hak Anda dalam dan atas Data Komersial Anda dalam cara apa pun.
+Lampiran 2
+Transfer Data Pribadi
+1.
+Untuk tujuan Lampiran ini, "Adendum yang Disetujui" berarti adendum templat yang menggabungkan Klausul Kontrak Standar (
+The Standard Contractual Clauses
+) yang ditetapkan dalam Lampiran dari Keputusan Pelaksanaan Komisi (UE) (
+Commission Implementing Decision (EU)
+) 2021/914 tanggal 4 Juni 2021 yang dikeluarkan oleh Kantor Komisioner Informasi (
+Information Commissioner's Office
+/"
+ICO
+") dan diajukan ke Parlemen sesuai dengan Pasal 119A Undang-Undang Perlindungan Data (
+Data Protection Act
+) 2018 pada tanggal 2 Februari 2022, sebagaimana telah direvisi berdasarkan Pasal 19.
+2.
+Transfer Eks-EEA
+(Pengendali ke Pengendali)
+a.
+Apabila terdapat Transfer eks-EEA, Transfer eks-EEA tersebut akan diatur oleh klausul kontrak standar yang disetujui oleh Komisi Eropa (
+European Commission
+)
+dalam Keputusan Komisi (
+Commission Decision
+)
+2021/914 tertanggal 4 Juni 2021, untuk transfer data pribadi di negara-negara yang tidak diakui sebagai negara yang memiliki tingkat perlindungan yang memadai untuk data pribadi oleh Komisi Eropa (
+European Commission
+) (sebagaimana telah diubah dan diperbarui dari waktu ke waktu ("
+SCC
+") yang dengan ini dimasukkan ke dalam Ketentuan ini dan dilaksanakan oleh para pihak dengan perubahan berikut (dengan referensi terhadap Klausul dalam paragraf 2(a) ini merujuk pada Klausul SCC) dengan Anda sebagai 'Pengimpor Data' dan kami sebagai 'Eksportir Data'):
+i.
+semua catatan kaki dan catatan penjelasan dalam SCC dihapus;
+ii.
+karena Transfer eks-EEA adalah transfer dari pengendali ke pengendali, maka hanya ketentuan-ketentuan yang berkaitan dengan Modul 1 yang berlaku untuk Transfer eks-EEA tersebut, dan ketentuan-ketentuan yang hanya berkaitan dengan Modul 2, 3, dan 4 dihapus dan tidak akan berlaku untuk Transfer eks-EEA tersebut;
+iii.
+Klausul 7 dimasukkan dan referensi yang menyatakan bahwa klausul tersebut "opsional" dalam Klausul tersebut harus dihapus;
+iv.
+"OPSI" dalam Klausul 11(a) tidak berlaku dan kata-kata dalam tanda kurung siku pada Klausul tersebut harus dihapus;
+v.
+sehubungan dengan Klausul 13(a) (pengawasan), kata-kata berikut ini akan berlaku: "Otoritas pengawas Irlandia akan bertindak sebagai otoritas pengawas yang kompeten";
+vi.
+sehubungan dengan Klausul 17 (hukum yang mengatur), hukum Irlandia akan berlaku;
+vii.
+sehubungan dengan Klausul 18 (pilihan forum dan yurisdiksi), pengadilan yang relevan adalah pengadilan Irlandia.
+viii.
+Lampiran I SCC harus dilengkapi dengan informasi yang ditetapkan dalam Apendiks I Lampiran 2 ini.
+ix.
+Lampiran II SCC harus dilengkapi dengan informasi yang tercantum dalam Apendiks 2 Lampiran 2 ini.
+3.
+Transfer eks-Kerajaan Inggris
+Apabila terdapat Transfer eks-Kerajaan Inggris dan transfer tersebut tidak diatur oleh keputusan kecukupan yang dibuat oleh Menteri Luar Negeri (
+Secretary of State
+) sesuai dengan ketentuan yang relevan dalam GDPR Kerajaan Inggris dan DPA, maka Ketentuan ini akan menggabungkan Adendum Yang Disetujui dan ketentuan-ketentuan dalam SCC yang dilampirkan pada dan diubah oleh Adendum Yang Disetujui dengan cara yang sama seperti yang ditetapkan dalam paragraf 2(a) atau 2(b) (sebagaimana berlaku) untuk Transfer eks-EEA.
+4.
+Ketentuan lebih lanjut
+a.
+Jika kepatuhan Kami terhadap persyaratan undang-undang perlindungan data yang berkaitan dengan transfer data pribadi internasional dipengaruhi oleh keadaan di luar kendali Kami, termasuk jika SCC atau instrumen hukum lainnya untuk transfer data pribadi internasional dicabut, diubah, atau digantikan, maka Kami akan bekerja sama dengan iktikad baik untuk menyelesaikan ketidakpatuhan tersebut secara wajar.
+b.
+Tunduk pada paragraf 3.4, jika Anda mengetahui bahwa penegak hukum, peraturan, peradilan, atau otoritas pemerintah ("
+Otoritas
+") mana pun ingin mendapatkan akses ke atau salinan dari beberapa atau semua data pribadi, baik secara sukarela atau wajib, maka Anda harus: (i) segera memberi tahu Kami tentang permintaan Otoritas tersebut; (ii) jika Anda adalah Pemroses data pribadi, memberi tahu Otoritas tentang hal ini dan bahwa Kami belum mengizinkan Anda untuk mengungkapkan data pribadi tersebut kepada Otoritas; (iii) memberi tahu Otoritas bahwa permintaan tersebut harus diajukan kepada Kami (sebagai pengendali awal) secara tertulis; dan (iv) tidak memberikan Otoritas data pribadi tersebut kecuali dan hingga diizinkan oleh Kami.
+c.
+Apabila Anda dilarang secara hukum untuk mematuhi paragraf 3.2, Anda harus melakukan upaya yang wajar untuk menentang larangan tersebut.
+d.
+Jika Anda melakukan pengungkapan data pribadi kepada Otoritas (baik dengan otorisasi Kami atau karena paksaan hukum yang diwajibkan), Anda harus melakukannya hanya sejauh yang diwajibkan secara hukum.
+e.
+Paragraf 3.3 dan 3.4 tidak berlaku jika Anda memiliki keyakinan yang wajar dan beritikad baik bahwa akses mendesak diperlukan untuk mencegah risiko bahaya serius yang akan segera terjadi pada individu mana pun. Dalam hal demikian, Anda harus memberi tahu Kami sesegera mungkin setelah akses oleh Otoritas tersebut dan memberikan kepada Kami perincian lengkap mengenai hal tersebut, kecuali dan sejauh dilarang secara hukum untuk melakukannya.
+f.
+Anda tidak boleh dengan sengaja mengungkapkan data pribadi secara besar-besaran, tidak proporsional, dan tanpa pandang bulu, yang melampaui apa yang diperlukan dalam masyarakat demokratis.
+g.
+Jika terdapat pertentangan atau ketidakjelasan antara Ketentuan ini dan SCC, maka ketentuan yang tercantum dalam SCC akan diprioritaskan (namun hanya sejauh dan sehubungan dengan pengalihan, dan tidak sehubungan dengan aktivitas pemrosesan lainnya).
+Apendiks 1
+A.
+DAFTAR PIHAK
+Pengekspor data
+: TikTok Information Technologies UK Limited, yang terdaftar di Inggris dengan kantor terdaftar di Kaleidoscope, 4 Lindsey Street, London, Kerajaan Inggris, EC1A 9HP (nomor perusahaan terdaftar: 10165711)
+Pengimpor data
+: Entitas Penjual yang menandatangani Ketentuan
+B.
+DESKRIPSI TRANSFER
+Kategori subjek data yang data pribadinya ditransfer
+Pembeli dan Penjual (sebagaimana didefinisikan dalam Ketentuan)
+Kategori data pribadi yang ditransfer
+Informasi yang diperlukan untuk memungkinkan Pembeli menyelesaikan pembelian mereka dan mengatur pengiriman produk mereka (nama, surel, alamat, rincian pembayaran)
+Data sensitif yang ditransfer
+(jika ada) dan pembatasan atau perlindungan yang diterapkan yang sepenuhnya mempertimbangkan sifat data dan risiko yang terlibat, seperti misalnya pembatasan tujuan yang ketat, pembatasan akses (termasuk akses hanya untuk staf yang telah mengikuti pelatihan khusus), menyimpan catatan akses ke data, pembatasan untuk pemindahan selanjutnya, atau tindakan keamanan tambahan.
+Tidak ada
+Frekuensi transfer
+(misalnya, apakah data ditransfer sekali atau terus menerus).
+Terus menerus
+Sifat pemrosesan
+Logistik dan pembayaran
+Tujuan transfer data dan pemrosesan lebih lanjut
+Untuk memungkinkan Pembeli membeli Produk (sebagaimana diatur dalam Ketentuan) dan untuk memungkinkan Penjual menyelesaikan pembelian tersebut dan mengatur pengiriman Produk apa pun kepada Pembeli dan tujuan tambahan lainnya yang terkait dengan penjualan Produk di aplikasi atau situs web.
+Jangka waktu penyimpanan data pribadi, atau, jika tidak memungkinkan, kriteria yang digunakan untuk menentukan jangka waktu tersebut
+Selama jangka waktu Ketentuan
+Untuk transfer ke (sub) prosesor, tentukan juga subjek, sifat, dan durasi pemrosesan
+C.
+OTORITAS PENGAWAS YANG KOMPETEN (hanya berlaku untuk Transfer Eks-EEA pengendali ke pengendali)
+Mengidentifikasi otoritas pengawas yang berwenang sesuai dengan Klausul 13
+Irlandia.
+Apendiks 2
+LANGKAH-LANGKAH TEKNIS DAN ORGANISASI TERMASUK LANGKAH-LANGKAH TEKNIS DAN ORGANISASI UNTUK MEMASTIKAN KEAMANAN DATA
+Tindakan Keamanan Minimum ini dapat diubah dari waktu ke waktu oleh Kami (bertindak secara wajar) dengan memberikan penggantinya kepada Penjual. Langkah-langkah tersebut harus diterapkan oleh Penjual sehubungan dengan data pribadi apa pun yang ditransfer berdasarkan Ketentuan ini. Penjual akan mendokumentasikan, menerapkan, dan memelihara program keamanan informasi yang memenuhi standar praktik industri terbaik untuk melindungi data pribadi tersebut, yang akan mencakup:
+I.
+Kontrol Entri Sistem
+Menetapkan, memelihara, memantau, dan menggunakan perlindungan teknis, fisik, administratif, dan organisasi yang sesuai dan konsisten dengan standar industri tertinggi untuk mengamankan dari Insiden Keamanan, yang paling tidak meliputi:
+(a)
+Protokol autentikasi pengguna dan kontrol akses sistem yang aman;
+(b)
+Penggunaan keamanan fisik yang matang dan tepat,
+malware
+terkini, antivirus, dan perangkat lunak keamanan yang mencakup penyaringan surel dan deteksi
+malware
+;
+(c)
+Penggunaan langkah-langkah perlindungan jaringan yang tepat;
+(d)
+Selama waktu
+idle
+, peralatan yang diterbitkan perusahaan (misalnya, laptop yang diterbitkan perusahaan) secara otomatis terkunci;
+(e)
+Mendorong penggunaan kata sandi yang rumit;
+(f)
+Konsep hak istimewa yang paling sedikit, yang hanya mengizinkan akses yang diperlukan bagi pengguna untuk menyelesaikan fungsi pekerjaan mereka. Akses di atas memerlukan otorisasi yang sesuai;
+(g)
+Hak akses Teknologi Informasi (TI) ditinjau secara berkala oleh personel yang tepat;
+(h)
+Layanan pemantauan jaringan 24 x 7 x 365 untuk mendeteksi aktivitas yang tidak sah;
+(i)
+Pemindaian kerentanan dan remediasi sudah tersedia;
+(j)
+Pengujian penetrasi yang sesuai;
+(k)
+Protokol enkripsi diterapkan seperlunya dalam berbagai keadaan.
+II.
+Kontrol Akses Fisik
+Penjual harus mengambil, antara lain, langkah-langkah keamanan yang sesuai untuk menetapkan identitas orang yang berwenang dan mencegah akses yang tidak sah ke tempat dan fasilitas Penjual di mana data diproses.
+III.
+Kontrol Akses Data
+Penjual harus mengambil langkah-langkah teknis dan organisasi untuk mencegah kegiatan yang tidak sah dalam sistem pemrosesan data di luar cakupan otorisasi yang diberikan, yang paling tidak meliputi:
+(a)
+Akses pengguna dan administrator ke jaringan model hak akses berbasis peran. Model otorisasi memberikan hak akses ke data hanya atas dasar "perlu mengetahui" (
+need to know
+);
+(b)
+Administrasi hak pengguna melalui administrator sistem;
+(c)
+Jumlah administrator dikurangi hingga seminimal mungkin;
+(d)
+Melakukan audit internal sesuai kebutuhan untuk menilai proses, teknologi, dan orang yang berisiko tinggi;
+(e)
+Melarang setiap karyawan untuk mengungkapkan data pribadi kepada pihak ketiga yang tidak berkepentingan atau menggunakan data pribadi dengan cara yang tidak sah.
+(f)
+Ketika enkripsi data digunakan, praktik manajemen siklus hidup kunci yang tepat sudah tersedia.
+IV.
+Kontrol Transfer Data
+Penjual harus mengambil langkah-langkah teknis dan organisasi untuk memastikan bahwa data pribadi tidak dapat dibaca, disalin, diubah, atau dihapus oleh orang yang tidak berwenang dalam transmisi elektroniknya atau selama perjalanannya atau perekamannya pada
+data carrier
+dan untuk menjamin bahwa data pribadi dapat diperiksa dan ditentukan di mana data pribadi sedang atau telah dikirim oleh peralatan transmisi data, yang paling tidak meliputi:
+(a)
+Akses jarak jauh (termasuk selama pemeliharaan jarak jauh atau prosedur layanan) ke sistem TI harus melalui terowongan VPN, jika diperlukan, atau koneksi terenkripsi yang aman;
+(b)
+Protokol enkripsi diterapkan seperlunya dalam berbagai keadaan;
+(c)
+Perangkat penyimpanan data dan dokumen kertas dikunci saat tidak digunakan (misalnya, kebijakan meja bersih (
+clean desk policy
+));
+(d)
+Penghancuran dan pembuangan dokumen yang tepat;
+(e)
+Proses penghancuran fisik sesuai dengan standar industri;
+(f)
+Sesi komunikasi yang aman dibuat melalui TLS atau protokol serupa di seluruh aplikasi/layanan inti;
+(g)
+Sertifikat terenkripsi digunakan untuk autentikasi antara klien web inti dan server web inti.
+V.
+Kontrol Input
+Penjual harus mengambil langkah-langkah teknis dan organisasi yang tepat untuk memastikan bahwa selanjutnya dimungkinkan untuk memverifikasi dan menetapkan melalui
+file
+log apakah dan oleh siapa data pribadi telah dimasukkan ke dalam sistem pemrosesan data, diubah, atau dihapus.
+VI.
+Kontrol Kerangka Kerja
+Penjual harus mengambil langkah-langkah teknis dan organisasi untuk memastikan bahwa setiap data pribadi yang ditransfer berdasarkan DSA ini hanya dapat Diproses untuk tujuan yang ditentukan dalam DSA, yang paling tidak meliputi:
+(a)
+Kebijakan internal yang jelas dan mengikat berisi instruksi formal untuk prosedur pemrosesan data;
+(b)
+Perlindungan kontraktual yang diartikulasikan dengan jelas dan sesuai dalam kontrak yang mendasarinya;
+(c)
+Pelatihan staf secara berkala mengenai penggunaan sistem keamanan komputer yang tepat, prosedur pencadangan keamanan dan pemulihan bencana, dan pentingnya keamanan untuk memastikan kepatuhan terhadap pengaturan kontrak dan menjaga kesadaran mengenai persyaratan perlindungan data;
+(d)
+Proses pemusnahan yang aman sesuai dengan standar industri;
+(e)
+Tinjauan akses berkala yang memantau kontrol akses karyawan;
+(f)
+Jaringan korporat penjual dipisahkan dari jaringan layanan penggunanya dengan menggunakan perangkat pemisahan yang rumit.
+VII.
+Kontrol Ketersediaan
+Penjual harus mengambil tindakan teknis dan organisasi untuk melindungi data dari kerusakan atau kehilangan yang tidak disengaja, yang paling tidak meliputi:
+(a)
+Peralatan untuk memantau suhu dan kelembapan di pusat data;
+(b)
+Detektor api/asap dan alat pemadam kebakaran atau sistem pencegah kebakaran di pusat data;
+(c)
+Penggunaan perangkat lunak anti-virus yang matang dan tepat yang mencakup penyaringan surel dan deteksi
+malware
+;
+(d)
+Langkah-langkah pemulihan data dan rencana darurat tersedia dan diuji secara berkala;
+(e)
+Penerapan metode pencadangan yang matang dan tepat, termasuk pemisahan fisik data cadangan dan penyimpanan data yang disimpan dalam arsip yang berlebihan;
+(f)
+Menggunakan kombinasi pencadangan penuh, diferensial, dan kumulatif untuk memastikan integritas data dan pemulihan tepat waktu untuk data inti, jika diperlukan;
+(g)
+Untuk memastikan pasokan daya yang tidak terganggu ke sistem, unit catu daya redundan dibangun ke dalam sistem di mana dimungkinkan;
+(h)
+Integritas data yang tersimpan diverifikasi secara teratur menggunakan
+checksum
+;
+(i)
+Proses yang tersedia untuk memindahkan lalu lintas data dari area yang terkena dampak ke area yang tidak terganggu jika terjadi kegagalan;
+(j)
+Pemeliharaan preventif dilakukan untuk memastikan pengoperasian peralatan yang berkelanjutan.
+(k)
+Teknologi
+Denial of Service
+dan
+Distributed Denial of Service
+yang tepat untuk mempertahankan diri dari serangan kelaparan sumber daya berbasis jaringan dan sistem.
+Lampiran 3
+Penggunaan API
+1
+Definisi
+1.1
+API
+: antarmuka pemrograman aplikasi (
+application programming interfance
+), kit pengembangan perangkat lunak, spesifikasi, kode sampel, data, metadata, teknologi, perangkat lunak, dan informasi serta materi terkait lainnya serta setiap pembaruannya yang disediakan oleh Tokopedia kepada Anda.
+1.2
+Data API
+: semua data yang dipublikasikan atau disediakan melalui API.
+1.3
+API Key
+: kunci keamanan yang Tokopedia sediakan bagi Anda untuk mengakses API.
+1.4
+Aplikasi
+: setiap aplikasi yang dikembangkan oleh atau atas nama Anda.
+1.5
+Pengguna Resmi
+: setiap pengguna yang diberi wewenang oleh Tokopedia untuk mengakses API atas nama Anda.
+2
+Lisensi
+2.1       Tokopedia memberikan Anda lisensi non-eksklusif, tidak dapat dipindahtangankan, tidak dapat disublisensikan, terbatas, dan dapat dibatalkan selama jangka waktu Ketentuan ini:
+(a)   bagi Pengguna yang Berwenang untuk mengakses API semata-mata untuk tujuan pengembangan, pengujian, pemeliharaan, dan pengoperasian Aplikasi perencanaan sumber daya perusahaan untuk penggunaan internal dalam rangka mengelola aktivitas Anda sebagai penjual di Platform E-Commerce; dan
+(b)   untuk menampilkan Data API yang diterima dari API di dalam Aplikasi.
+2.2       Satu-satunya cara Anda untuk mengakses API adalah melalui API Key.
+2.3       Sehubungan dengan ruang lingkup penggunaan yang ditetapkan dalam paragraf 2.1, Anda tidak boleh:
+(a)   membuat, atau mengizinkan melalui Aplikasi, panggilan API yang melebihi batas apa pun yang dapat kami tetapkan dari waktu ke waktu;
+(b)   menghapus pemberitahuan hak milik apa pun dari API atau Data API;
+(c)   menggunakan Aplikasi, API atau Data API dengan cara apa pun atau untuk tujuan apa pun yang melanggar, menyalahgunakan, atau dengan cara lain melanggar Hak Kekayaan Intelektual atau hak lain dari siapa pun, atau yang melanggar Hukum yang Berlaku;
+(d)   merancang atau mengizinkan Aplikasi untuk menonaktifkan, mengesampingkan, atau mengganggu komunikasi yang diimplementasikan Tokopedia kepada pengguna akhir, layar persetujuan, pengaturan pengguna, peringatan, pemberitahuan, atau sejenisnya;
+(e)   berupaya menutupi atau menyembunyikan identitas Anda atau identitas Aplikasi ketika meminta otorisasi untuk menggunakan API atau membuat panggilan API;
+(f)   kecuali sejauh yang diizinkan secara tegas berdasarkan paragraf 2 ini, Anda tidak boleh (dan harus memastikan setiap Pengguna yang Berwenang tidak akan) memberikan atau mengizinkan akses ke Aplikasi, API, atau Data API kepada pihak ketiga mana pun (selain sesuai dengan Lampiran 3 ini);
+(g)   menggunakan Aplikasi, API dan/atau Data API sehubungan dengan atau untuk tujuan ilegal, tidak sah atau tidak patut, atau dengan cara apa pun yang akan melanggar hak pribadi mana pun, termasuk hak kekayaan intelektual, atau melanggar hukum atau peraturan apa pun, atau dengan cara apa pun yang menyesatkan, memfitnah, melanggar, mencemarkan nama baik, meremehkan, tidak senonoh, atau dengan cara lain tidak sesuai bagi Tokopedia;
+(h)   menggunakan atau menggabungkan Aplikasi, API dan/atau Data API dengan perangkat lunak yang ditawarkan di bawah lisensi sumber terbuka sedemikian rupa sehingga menyebabkan Tokopedia tunduk pada kewajiban apa pun di bawah lisensi sumber terbuka tersebut;
+(i)    mengumpulkan atau berupaya mengumpulkan data pribadi apa pun dari pengguna Platform E-Commerce untuk tujuan yang tidak sah atau melanggar hukum atau membuat, membantu membuat, atau melengkapi profil, basis data, atau catatan serupa apa pun atas suatu individu, perangkat, konten, atau peramban apa pun atau mengaitkan perilaku dari suatu individu, perangkat, konten, atau peramban apa pun dengan profil, basis data, atau catatan serupa apa pun;
+(j)    menggunakan Aplikasi, API dan/atau Data API untuk tujuan yang curang atau melanggar hukum atau tidak sah, termasuk namun tidak terbatas pada pengembangan atau promosi
+spyware
+,
+adware
+, atau kode atau program jahat lainnya atau untuk mencemarkan nama baik atau melecehkan seseorang;
+(k)   memasukkan virus,
+malware
+, kode berbahaya atau konten lain yang bersifat berbahaya atau merusak melalui Aplikasi atau akses atau penggunaan Anda atas Platform E-Commerce, Pusat Mitra ("PC" atau "Platform"), API dan/atau Data API, termasuk, namun tidak terbatas pada, kegagalan untuk memastikan perlindungan yang memadai dipasang pada perangkat dan server Anda sesuai dengan praktik industri;
+(l)    menggunakan robot,
+spider
+, aplikasi pencarian atau pengambilan situs, atau perangkat lain untuk mengumpulkan informasi tentang pengguna Platform E-Commerce atau PC untuk tujuan yang tidak sah;
+(m)  bertindak dengan cara apa pun yang secara wajar dapat diperkirakan akan berdampak buruk pada stabilitas server Tokopedia atau perilaku aplikasi lain yang menggunakan Platform E-Commerce atau PC;
+(n)   mengganggu atau mencoba mengganggu kelancaran Platform E-Commerce, PC atau situs web atau aplikasi kami, mengganggu situs web, aplikasi kami, atau jaringan apa pun yang terhubung dengan Platform E-Commerce, PC atau kami, atau menghindari, mengelabui, atau mencoba menghindari atau mengelabui Upaya apa pun yang mungkin kami gunakan untuk mencegah atau membatasi akses ke Platform E-Commerce, PC, atau situs web atau aplikasi kami;
+(o)   menghapus, mengaburkan, atau mengubah pemberitahuan hukum, hak cipta, merek dagang, atau pemberitahuan hak milik lainnya sehubungan dengan Platform E-Commerce, PC, API dan/atau Data API, situs web kami atau aplikasi kami, dan mematuhi persyaratan Tokopedia sehubungan dengan penggunaan materi hak milik apa pun, atau memalsukan atau menghapus atribusi pencipta, pemberitahuan hukum, atau label asal atau sumber materi lainnya;
+(p)   menggunakan Aplikasi, Platform E-Commerce, PC, API dan/atau Data API, atau mengizinkan pihak ketiga untuk menggunakan hal yang sama, untuk bersaing dengan atau meniru layanan apa pun yang disediakan oleh Tokopedia;
+(q)   menggunakan Platform E-Commerce atau PC dengan cara yang (sebagaimana ditentukan oleh Tokopedia), melebihi volume permintaan yang wajar, merupakan penggunaan yang berlebihan atau penyalahgunaan, atau gagal untuk mematuhi atau bertentangan dengan dokumentasi, kebijakan, atau Ketentuan ini; atau
+(r)   menggunakan Aplikasi, Platform E-Commerce, PC, API dan/atau Data API dengan cara apapun yang tidak secara tegas diizinkan berdasarkan Ketentuan ini, atau untuk membuat ulang fungsi inti dari, atau mengganti, fungsi apapun dari Platform E-Commerce, atau dengan cara apapun yang menyebabkan kerusakan reputasi Tokopedia.
+2.4       Kecuali sebagaimana dinyatakan secara tegas dalam paragraf 2 ini atau sebagaimana diwajibkan oleh hukum, Anda tidak berhak (dan tidak boleh mengizinkan pihak ketiga mana pun) untuk menyalin, mengadaptasi, merekayasa balik, mendekompilasi, membongkar, memodifikasi, mengadaptasi, atau melakukan koreksi kesalahan pada API, PC, atau Platform E-Commerce, baik secara keseluruhan maupun sebagian (kecuali jika hukum yang berlaku mengesampingkan ketentuan ini atau bagian mana pun dari ketentuan ini).
+2.5       Tanpa mengurangi hak-hak dan upaya hukum Anda yang lain berdasarkan Ketentuan ini, jika Anda menggunakan API atau Data API selain yang ditentukan dalam paragraf 2 ini tanpa persetujuan tertulis sebelumnya dari kami, kami dapat, atas kebijakan kami sendiri, mengakhiri Ketentuan ini, atau menangguhkan akses dan penggunaan API dan Data API Anda, dengan pemberitahuan tertulis yang berlaku seketika.
+3          Audit
+3.1       Tokopedia atau perwakilannya dapat memantau dan mengaudit penggunaan Anda atas API dan Data API secara fisik atau jarak jauh untuk memastikan bahwa Anda mematuhi Lampiran 3 ini.
+3.2       Anda harus menyimpan catatan yang lengkap dan akurat untuk menunjukkan kepatuhan Anda terhadap Lampiran 3 ini.
+4          Keamanan
+4.1       Tokopedia akan menerapkan upaya-upaya pengamanan fisik, elektronik, dan operasional yang wajar untuk Platform E-Commerce ("
+Upaya Keamanan
+").
+4.2         Anda mengakui dan menyetujui hal tersebut:
+(a)   terlepas dari Upaya Keamanan yang dilakukan oleh Tokopedia berdasarkan paragraf 5.1, jika vendor perangkat lunak independen memperoleh, menggunakan atau membocorkan data dan informasi dari Akun Anda di luar ruang lingkup kewenangan yang Anda berikan, hal tersebut dapat merusak hak-hak dan kepentingan Anda. Dalam hal demikian, Anda dapat menuntut pertanggungjawaban hukum terhadap vendor perangkat lunak independen tersebut. Anda setuju untuk melepaskan Tokopedia dan Afiliasi Tokopedia dari dan membebaskan Tokopedia dan Afiliasi Tokopedia dari segala tanggung jawab, kerugian atau ganti rugi yang mungkin ditimbulkan oleh Anda sebagai akibatnya;
+(b)  tidak ada sarana teknis yang dapat digunakan untuk sepenuhnya menghilangkan risiko keamanan. Oleh karena itu, untuk mengurangi dampak virus komputer, kode berbahaya, bug, dll., Anda bertanggung jawab penuh untuk mengambil upaya pengamanan yang memadai seperti memasang perangkat lunak antivirus yang sesuai dan terbaru pada perangkat keras Anda; dan
+(c)  Anda sepenuhnya bertanggung jawab atas semua kegiatan di Platform E-Commerce atau PC yang terjadi atas nama atau melalui penggunaan Akun Anda terlepas dari apakah aktivitas tersebut diizinkan atau dilakukan oleh (i) Anda, (ii) pengguna lain yang diberikan kewenangan oleh Anda, atau (iii) pribadi yang tidak berwenang. Anda lebih lanjut mengakui dan menyetujui bahwa kegiatan tersebut akan dianggap dilakukan oleh dan mengikat Anda.
+5            Kekayaan Intelektual
+5.1          Anda mengakui bahwa seluruh hak kekayaan intelektual di Platform E-Commerce, PC, API dan Data API adalah milik dan akan menjadi milik Tokopedia (atau para pemberi lisensinya) dan Anda tidak memiliki hak dalam atau atasnya selain hak untuk menggunakannya sesuai dengan Ketentuan ini.
+Is the content above helpful?
+Previous
+Pedoman Pendaftaran Penjual TikTok Shop by Tokopedia
+Next
+Syarat dan Ketentuan Program 100% Asli TikTok Shop by Tokopedia
+×

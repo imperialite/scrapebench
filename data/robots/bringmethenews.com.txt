@@ -1,0 +1,12 @@
+# Tempest - bringmethenews
+
+User-agent: *
+Disallow: /.preview/
+Disallow: /.context-results
+Disallow: /.applenews/
+
+
+
+Sitemap: https://bringmethenews.com/sitemaps.xml
+
+Sitemap: https://bringmethenews.com/news-sitemap.xml

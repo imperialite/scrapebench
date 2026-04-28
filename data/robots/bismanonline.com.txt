@@ -1,0 +1,13 @@
+# robots.txt for BMO Sites
+User-agent: *
+Disallow: /ajax.php
+Disallow: /api.php
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: TikTokSpider
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /

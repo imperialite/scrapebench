@@ -1,0 +1,94 @@
+User-agent: *
+
+Allow: /search.css
+Allow: /on/demandware.store/Sites-Columbia_US-Site/en_US/SizeFit-Guide?pid=1372111&isPage=true
+Allow: /About-Us_History.html
+Allow: /About-Us_Careers.html
+
+Disallow: /*About-Us*
+Disallow: /account*
+Disallow: /callcenter*
+Disallow: /cart*
+Disallow: /COBilling-ResetPaymentForms
+Disallow: /ColumbiaMontrail_FAQ.html
+Disallow: /on/demandware.store/*
+Disallow: /DiscountProgram-Employee*
+Disallow: /email-preferences*
+Disallow: /Employee*
+Disallow: /InStockNotify-Open
+Disallow: /*licensee*
+Disallow: /*Modal.html
+Disallow: /orders*
+Disallow: /password-reset
+Disallow: /ph_*
+Disallow: /Product-AllSizeSearch*
+Disallow: /Product-Detail
+Disallow: /Product-GetAvailability
+Disallow: /Product-GetSetItem
+Disallow: /Product-Productnav
+Disallow: /Product-Show
+Disallow: /Product-Variation*
+Disallow: /profile
+Disallow: /Resources-Load
+Disallow: /rewards-activity
+Disallow: /saved-payments
+Disallow: /search?cgid=*
+Disallow: *?q=
+Disallow: *__server_only
+
+User-agent: Pinterestbot
+Disallow: /*pmin
+Disallow: /*pmax
+Disallow: /*prefn1
+Disallow: /*prefn2
+Disallow: /*prefn3
+Disallow: /*prefn4
+Disallow: /*prefv1
+Disallow: /*prefv2
+Disallow: /*prefv3
+Disallow: /*prefv4
+Disallow: /*srule
+Disallow: /*About-Us*
+Disallow: /account*
+Disallow: /callcenter*
+Disallow: /cart*
+Disallow: /COBilling-ResetPaymentForms
+Disallow: /ColumbiaMontrail_FAQ.html
+Disallow: /on/demandware.store/*
+Disallow: /DiscountProgram-Employee*
+Disallow: /email-preferences*
+Disallow: /Employee*
+Disallow: /InStockNotify-Open
+Disallow: /*licensee*
+Disallow: /*Modal.html
+Disallow: /orders*
+Disallow: /password-reset
+Disallow: /ph_*
+Disallow: /Product-AllSizeSearch*
+Disallow: /Product-Detail
+Disallow: /Product-GetAvailability
+Disallow: /Product-GetSetItem
+Disallow: /Product-Productnav
+Disallow: /Product-Show
+Disallow: /Product-Variation*
+Disallow: /profile
+Disallow: /Resources-Load
+Disallow: /rewards-activity
+Disallow: /saved-payments
+Disallow: /search?cgid=*
+Disallow: *?q=
+Disallow: *__server_only
+Crawl-delay: 0.5
+
+User-agent: ClaudeBot
+Crawl-delay: 1
+
+User-agent: Halebot 
+Disallow: /
+
+User-agent: Alertsite 
+Disallow: /
+
+Sitemap: https://www.columbia.com/sitemap_index.xml
+
+# Have a nice day! :)

@@ -1,0 +1,18 @@
+# ------------------------------------------------------------------------
+# Updated Last 08/2017
+# ------------------------------------------------------------------------
+User-Agent: *
+Disallow: /admin/
+Disallow: /ammo/
+Disallow: /archive/
+Disallow: /biz/
+Disallow: /content/
+Disallow: /core/
+Disallow: /gear-locker/
+Disallow: /gunstruction/
+Disallow: /images/
+Disallow: /media/
+Disallow: /member/
+Disallow: /weaponlibrary/
+Visit-time: 0700-1200										#visit between 02:00AM and 7:00AM ET (UTC TIME)
+Sitemap: https://www.ar15.com/sitemap/sitemap.xml

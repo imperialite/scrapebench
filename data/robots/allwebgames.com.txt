@@ -1,0 +1,26 @@
+User-agent: *
+
+Disallow: /*?*reqId*
+Disallow: /*?*pageId*
+Disallow: /*app-id
+Disallow: /*game-id
+Disallow: /*div-rtx-reqid
+Disallow: /*header
+Disallow: /*from/
+Disallow: /preview/
+Disallow: /install
+Disallow: /category/applications
+Disallow: /*?*experimental=*
+Disallow: /*?*pwa=1*
+Disallow: /*?*fuseTestCreatives=*
+
+Allow: /*.css
+Allow: /*.js
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+Sitemap: https://allwebgames.com/sitemaps/sitemap.index.xml

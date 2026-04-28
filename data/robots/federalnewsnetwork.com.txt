@@ -1,0 +1,216 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /search/?
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+Sitemap: https://federalnewsnetwork.com/wfed_sitemap_index.xml
+
+# AI Data Scraping bot blocklist
+# Disallows access to popular AI scraping bots and crawlers
+# Remove comments before publishing
+# Prepared by ORDO DIGITAL
+
+### AI Bots Block List ###
+
+# Alibaba 
+# Chinese e-commerce company investing in AI
+User-agent: AlibabaBot
+Disallow: /
+
+# Amazon
+# AI search crawler that collects data for Alexa 
+# User-agent: Amazonbot
+# Disallow: /
+
+# Amazon
+# Bot with unknown purpose linked to Amazon
+User-agent: FriendlyCrawler
+Disallow: /
+
+# Anthropic
+# Claude bot used to collect training data for Anthropic LLMs
+User-agent: ClaudeBot
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+
+# Anthropic
+# Other Anthropic related bots 
+User-agent: anthropic-ai
+Disallow: /
+User-agent: AlphaCode  
+Disallow: /
+User-agent: Claude
+Disallow: /
+
+# Apple Bot
+# AI search crawler that collects website data for Apple, including Siri and Apple Intelligence services.
+# User-agent: Applebot
+# Disallow: /
+
+# Baidu
+# Chinese tech giant developing AI models like ERNIE
+User-agent: Baiduspider
+Disallow: /
+
+# Bytespider
+# AI data scraper operated by TikTok's parent company ByteDance, and developer of the ChatGPT competitor Doubao.
+User-agent: Bytespider
+Disallow: /
+
+# ChatGPT
+# See OpenAI
+
+# Claude
+# See Anthropic
+
+# Cohere AI Bot
+# AI data scraper bot for Cohere's AI chatbot
+User-agent: cohere-ai
+Disallow: /
+
+# Common Crawl
+# AI data scraper for a large public dataset used for training LLMs
+User-agent: CCBot
+Disallow: /
+
+# DeepMind
+# Models operated by AI research company DeepMind owned by Alphabet (Google)
+User-agent: DeepMindBot
+Disallow: /
+User-agent: Chinchilla
+Disallow: /
+User-agent: Flamingo
+Disallow: /
+User-agent: Gopher
+Disallow: /
+
+# Diffbot
+# AI data scraper bot used to collect and sell website data
+User-agent: Diffbot
+Disallow: /
+
+# Google 
+# Google-Extended is an AI data scraper for Gemini and Vertex AI
+# Blocking this will not impact Google Search indexing
+User-agent: Google-Extended
+Disallow: /
+
+# Google 
+# Bots for ads, media and potentially other AI projects. 
+# User-agent: Mediapartners-Google
+# Disallow: /
+# User-agent: GoogleOther
+# Disallow: /
+# User-agent: AdsBot-Google
+# Disallow: /
+# User-agent: Googlebot-Image
+# Disallow: /
+
+# Hugging Face 
+# Provider of open-source NLP models and tools
+User-agent: HuggingFaceBot
+Disallow: /
+
+# img2dataset
+# Used by SD, Midjourney, OpenAI, and others to scrape images
+User-agent: img2dataset
+Disallow: /
+
+# ImagesiftBot 
+# Reverse image search tool and AI image generator (The Hive)
+User-agent: ImageSiftBot
+Disallow: /
+
+# Meta (Facebook) 
+# FacebookBot is an AI data scraper used to collect speech recognition training data
+User-agent: FacebookBot
+Disallow: /
+
+# Meta (Facebook) 
+# Other bots
+User-agent: Facebot
+Disallow: /
+
+# Omgili (Oh My God I Love It) 
+# AI data scraper from Webz.io that collects and sells data to train AI models 
+User-agent: omgili
+Disallow: /
+User-agent: OmgiliBot
+Disallow: /
+
+# OpenAI 
+# AI assistant bot used to gather responses to user prompts
+User-agent: ChatGPT-User
+Disallow: /
+
+# OpenAI 
+# AI data scraper that collects data for OpenAI tools like ChatGPT
+User-agent: GPTBot
+Disallow: /
+
+# OpenAI
+# Other bots potentially connected to ChatGPT and OpenAI.
+User-agent: ChatGPT
+Disallow: /
+User-agent: OpenAI
+Disallow: /
+User-agent: GPT-3
+Disallow: /
+User-agent: GPT-4
+Disallow: /
+User-agent: GPT-5
+Disallow: /
+
+# Peer39
+# Programmatic ad crawler
+User-agent: peer39_crawler
+Disallow: /
+User-agent: peer39_crawler/1.0
+Disallow: /
+
+# Perplexity AI
+# AI search crawler for Perplexity search results
+User-agent: PerplexityBot
+Disallow: /
+
+# PiplBot
+# People search and information aggregation bot
+User-agent: PiplBot
+Disallow: /
+
+# Tencent 
+# Unconfirmed bots from Chinese tech conglomerate developing AI applications
+User-agent: TencentBot
+Disallow: /
+User-agent: HunyuanAide
+Disallow: /
+
+# X (Twitter)
+# Fetcher bot used to index the content of any given URL
+User-agent: Twitterbot
+Disallow: /
+
+# X
+# Unconfirmed bots connected to X
+User-agent: xAI
+Disallow: /
+User-agent: Grok
+Disallow: /
+User-agent: GrokBot
+Disallow: /
+User-agent: GrokAI
+Disallow: /
+
+#YouBot
+# AI search crawler used by You.com to index search results
+User-agent: YouBot
+Disallow: /
+
+### End AI Bots Block List ###

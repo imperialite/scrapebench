@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+Disallow: /orchestration/
+Disallow: /api/
+Disallow: /cgi-bin/
+Disallow: /blog/wp-content/
+Disallow: /homepage
+Disallow: /en-gb/homepage
+Disallow: /fr-fr/homepage
+Disallow: /de-de/homepage
+Disallow: /*search?
+Disallow: /claims
+Disallow: /order-tracking
+Disallow: /order/
+Disallow: /password/reset
+
+Crawl-delay: 10
+
+User-agent: Pinterest
+Crawl-delay: 120
+
+# Sitemap indexes
+Sitemap: https://www.anthropologie.com/sitemapindex.xml
+Sitemap: https://www.anthropologie.com/en-gb/sitemapindex.xml
+Sitemap: https://www.anthropologie.com/fr-fr/sitemapindex.xml
+Sitemap: https://www.anthropologie.com/de-de/sitemapindex.xml
+Sitemap: https://www.anthropologie.com/it-it/sitemapindex.xml
+Sitemap: https://www.anthropologie.com/es-es/sitemapindex.xml
+Sitemap: https://www.anthropologie.com/anthrohome/sitemapindex.xml
+Sitemap: https://www.anthropologie.com/en-ca/sitemapindex.xml
+Sitemap: https://www.anthropologie.com/en-ca/anthrohome/sitemapindex.xml

@@ -1,0 +1,96 @@
+Privacy Policy | CRIO
+Skip to content
+Version v2.0
+Effective Date: 14-Sep-2023
+Website Privacy Policy
+CRIO, Inc. is committed to protecting and respecting your (“Your” or “You”) privacy and personal information, meaning any information about You which is personally identifiable (“Personal Information”), that We may collect from or which You may submit to or through www.clinicalresearch.io or other CRIO websites that directly link to this privacy statement (the “Website”).
+This privacy statement (the “Privacy Statement”), together with Our Terms of Use, describes how We may use Your Personal Information and how that information may be used or disclosed by Us.
+Please read the following carefully to understand Our views and practices regarding Your Personal Information and how We will treat it.
+This Privacy Statement applies only to Personal Information collected on the Website. It does not apply to Personal Information collected on any third-party site that may link to or be accessible to the Website over which We have no influence or control. The use of other sites, or the submission of Personal Information to other third-party sites is at Your own risk and is subject to their privacy statements and policies.
+To the extent applicable, CRIO complies with the California Consumer Privacy Act. The Privacy Policy for California residents can be found in CRIO’s Security and Compliance section on its corporate website:
+https://clinicalresearch.io/about-crio/security-compliance/
+Data Privacy Framework Compliance
+CRIO complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. CRIO has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. CRIO has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit
+https://www.dataprivacyframework.gov/
+.
+Jurisdiction
+The Federal Trade Commission (FTC) has jurisdiction over CRIO’s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF). CRIO is subject to the investigatory and enforcement powers of the FTC.
+Liability in Cases of Onward Transfers
+CRIO is responsible for the processing of personal data it receives under the Data Privacy Framework and subsequently transfer to a third party agent, and may be liable for onward transfers in violation of the Data Privacy Framework Principles.
+Binding Arbitration
+By certifying against the EU-U.S. DPF, CRIO is obligated to arbitrate claims and follow terms as set forth in Annex I of the DPF principles, provided that an individual has invoked binding arbitration by delivering notice to CRIO and following the procedures and subject to conditions set forth in Annex I of Principles. For more information, visit:
+https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2
+Collecting your personal information directly from you
+Generally, You can visit the Website without revealing who You are and without disclosing any of Your Personal Information. However, there may be times when We require Personal Information about You or when You wish to disclose such Personal Information to Us. Such Personal Information is obtained when submitted by You and is subject to the provisions set out in this Privacy Statement.
+We may collect and process the following Personal Information about You:
+Information that You provide by filling in forms on the Website, such as Your personal details (e.g., Your name, date of birth, etc.) or contact details (e.g., telephone number, email address, postal address, etc.). This includes information provided at the time of registering to use the registration-only sections of the Website.
+With respect to the use of the careers section of this Website, Information You have provided as part of the job application and onboarding process (such as application materials, offer letter, etc.). Before using any of the services available on that section of the Website, You will be required to review and agree to specific terms of use.
+We may also ask You for Personal Information (such as when You report a problem with the Website).
+If You contact us, in writing, by email or other electronic means, We may keep a record of that correspondence.
+Details of Your visits to the Website and information as You navigate through the Website together with details of the resources that You access. This information includes but is not limited to: usage details, IP addresses, location data and other communication data which will be used in accordance with this Privacy Statement.
+Where required by law we may ask for Your explicit consent to collect information considered to be sensitive Personal Information (such as information about Your ethnicity or health information). You may withdraw Your consent at any time by contacting Us at the details below.
+We do not ask you to provide personal health care information to us through our general website.* We obtain personally identifying information about you only if you voluntarily choose to provide such information via correspondence with CRIO. Feedback forms used in CRIO correspondence specifically request that you not include personal information such as user names, passwords, social security numbers, and private health information. Correspondence conducted via CRIO feedback forms is stored on a third-party server and then downloaded by CRIO personnel.
+* If you are a user of the CRIO application, you may be asked to provide personal information through those applications. In addition to the general applicability of this Privacy Statement to those products, use of those applications and any information collected through there, are governed by specific end user privacy policy, which describes our use and disclosure of individually identifiable health information.
+We may be required by law to collect certain Personal information about You or as a consequence of any contractual relationship We have with You. Failure to provide this information may prevent or delay the fulfillment of these obligations.
+How we will use your personal information
+We may use Your Personal Information for the following purposes, which are in Our legitimate interests:
+We may analyze Your Personal Information to better understand Your needs and how We can improve Our websites, products and services. For instance, We may use Your information to verify that content from the Website is presented in the most effective manner for You and for Your device, or to allow You to participate in the registration-only features of the Website, when You choose to do so.
+We may use Your Personal Information to communicate to You about new services and products that may be of interest to you. When You register online for one of Our services, You may be given the option of receiving periodic informational/promotional mail or email from CRIO. You choose whether or not to receive correspondence when You provide this information or by changing Your preferences within Your registration profile or by following the instructions provided in the email at any time. CRIO may utilize email marketing software as a third-party service to manage certain email communications.
+We may use Your Personal Information to provide You with the services and products You request or to assist with Your questions about Our services.
+We may use Your Personal Information to respond to subsequent requests You may make of Us.
+We may use any of the categories of Your Personal Information to exercise Our legal rights where it is necessary to do so, for example to detect, prevent and respond to fraud claims, intellectual property infringement claims, or violations of law or the contract.
+If You do not want Us to use Your Personal Information in this way, please contact Us at the details below.
+Global Transfer of Your Personal Information
+Your Personal Information may be transferred to, stored, and processed in a country that is not regarded as ensuring an adequate level of protection for Personal Information under European Union (EU), Swiss, or United Kingdom law. We have put in place appropriate safeguards (such as contractual commitments) in accordance with applicable legal requirements so that Your Personal Information is adequately protected. For more information on the appropriate safeguards in place, please contact Us at the details below.
+Third Parties
+We may share Your Personal Information with agents, contractors or partners of CRIO in connection with services that these individuals or entities perform for, or with, CRIO. These agents, contractors or partners are restricted from using this information in any way other than to provide services for CRIO, or services for the collaboration in which they and CRIO are engaged. We will not give, sell, rent, loan or otherwise disclose any Personal Information to any third party, unless permitted or otherwise authorized to do so.
+CRIO reserves the right to share Personal Information in response to duly authorized information requests of any law enforcement agency, court, regulator, government authority, or other third party, where We believe such disclosure is necessary to comply with a legal or regulatory obligation, or otherwise to protect Our rights or the rights of any third party.
+We may also provide Personal Information to a third party in connection with the sale, assignment, or other transfer of the business of this Website to which the information relates, in which case We will require any such third party to agree to treat Personal Information in accordance with our Privacy Policy.
+We also may share aggregate, non-personal information about Website usage with unaffiliated third parties. This aggregate information does not contain any personal identifiable information about our users.
+Information Security and Storage
+We reserve the right to take appropriate legal action, including without limitation, referral to law enforcement, for any illegal or unauthorized use of this Website. We also reserve the right to take any action to prevent the unauthorized use of Our intellectual property rights.
+We may cooperate with any law enforcement authorities or court order requesting or directing Us to disclose the identity of or locate anyone for the prevention or detection of crime or the apprehension or prosecution of offenders. There may be other circumstances in which We may be required by law to disclose information about You or Your use of this Website. You waive and hold Us harmless from any claims resulting from such disclosures and from any actions taken as a consequence of investigations by either Us or law enforcement authorities.
+We may investigate any complaints or reported breaches of this Privacy Statement and take any action that We deem appropriate (which may include, without limitation, removing any of Your information, issuing warnings, suspending, restricting, or terminating Your access to this Website). We also reserve the right at Our discretion to suspend, restrict, or terminate Your access to this Website at any time without notice if We have reasonable grounds to believe that You have breached this Privacy Statement.
+User Responsibility
+Please be aware that while We take appropriate steps to safeguard the security of Your Personal Information, the transmission of information over the Internet is not completely secure and therefore You do this at Your own risk. Once We receive Your Personal Information We will implement strict security procedures with the objective of preventing unauthorized access.
+We implement technical and organizational measures to maintain a level of security appropriate to the risk to the Personal Information We process. These measures are aimed at maintaining the on-going integrity and confidentiality of Personal Information. We evaluate these measures on a regular basis.
+We will retain Your Personal Information in accordance with Our record retention policy, as updated from time to time, and as long as We have a relationship with You. To request that Your Personal Information be deleted from Our databases, please see below for more information.
+Links to Third-Party Websites
+As a convenience to our site visitors, the CRIO website may contain links to a number of sites that may provide useful information. Links contained on the CRIO website that transfer you to a non-CRIO site are not maintained by CRIO and may contain different information and/or different privacy policies from those of our Company. You may review the privacy policies of these websites and/or receive specific information regarding that site’s privacy policies and procedures after leaving the CRIO site. CRIO is not responsible for the content or privacy practices of a non-CRIO website. CRIO does not control, or have any input into, whether our business partners or internet-linked sites, use or accept cookies on their sites.
+Updates and Changes
+We may update this Privacy Statement from time to time. When We do update it, for Your convenience, We will make the updated Privacy Statement available on this page. Changes and additions to the Privacy Statement are effective from the date on which they are posted. Please review the Privacy Statement from time to time to check whether We have made any changes to the way in which We use Your Personal Information.
+Intended Audience
+You should be aware that this Site is not intended for, or designed to attract, individuals under the age of 18.
+Your Rights Over Your Personal Information
+You have certain rights regarding Your Personal Information, subject to local law. These include the following rights to:
+access Your Personal Information;
+rectify the information We hold about You;
+erase Your Personal Information;
+restrict Our use of Your Personal Information;
+object to Our use of Your Personal Information;
+receive Your Personal Information in a usable electronic format and transmit it to a third
+party (right to data portability); and
+lodge a complaint with Your local data protection authority if one exists in Your country.
+We encourage You to contact Us to update or correct Your Personal Information if it changes or if the Personal Information We hold about You is inaccurate. Please note that We will likely require additional information from You in order to honor Your requests.
+Please note that should You request that Your Personal Information be deleted, You may continue to receive materials for a short period while We are updating Our lists. Your records will then be permanently deleted from Our systems.
+How to Contact Us
+In compliance with the EU-U.S. Data Protection Framework (DPF) and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, CRIO commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU and UK and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF should first contact CRIO at:
+[email protected]
+or the mailing address below:
+CRIO, Inc
+-Data Protection Officer-
+68 Harrison Avenue #605, PMB 32876
+Boston, MA 02111
+Our EU representative is Data Protection Representative Limited (trading as ‘DPR Group’), a company registered in the Republic of Ireland with registered number 616588, whose registered address is at 1-2 Marino Mart, Fairview, Dublin 3, Ireland.
+Our representative in Switzerland is DataRep located at the following address:
+Leutschenbachstrasse 95
+Zurich, 8050, Switzerland
+Our representative in the UK is DataRep located at the following address:
+107-111 Fleet Street
+London, EC4A 2AB
+United Kingdom
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, CRIO commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States, the European Union, the United Kingdom, and Switzerland. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit
+https://www.jamsadr.com/eu-us-data-privacy-framework
+for more information or to file a complaint. The services of JAMS are provided at no cost to you.
+Give sites what they need and watch your study succeed.
+Schedule a Demo

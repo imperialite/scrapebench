@@ -1,0 +1,132 @@
+# As a condition of accessing this website, you agree to abide by the following
+# content signals:
+
+# (a)  If a Content-Signal = yes, you may collect content for the corresponding
+#      use.
+# (b)  If a Content-Signal = no, you may not collect content for the
+#      corresponding use.
+# (c)  If the website operator does not include a Content-Signal for a
+#      corresponding use, the website operator neither grants nor restricts
+#      permission via Content-Signal with respect to the corresponding use.
+
+# The content signals and their meanings are:
+
+# search:   building a search index and providing search results (e.g., returning
+#           hyperlinks and short excerpts from your website's contents). Search does not
+#           include providing AI-generated search summaries.
+# ai-input: inputting content into one or more AI models (e.g., retrieval
+#           augmented generation, grounding, or other real-time taking of content for
+#           generative AI search answers).
+# ai-train: training or fine-tuning AI models.
+
+# ANY RESTRICTIONS EXPRESSED VIA CONTENT SIGNALS ARE EXPRESS RESERVATIONS OF
+# RIGHTS UNDER ARTICLE 4 OF THE EUROPEAN UNION DIRECTIVE 2019/790 ON COPYRIGHT
+# AND RELATED RIGHTS IN THE DIGITAL SINGLE MARKET.
+
+# BEGIN Cloudflare Managed content
+
+User-agent: *
+Content-Signal: search=yes,ai-train=no
+Allow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+# END Cloudflare Managed Content
+
+User-agent: *
+Content-Signal: search=yes,ai-train=no
+Disallow: /ad/
+Disallow: /be/
+Disallow: /in/
+Disallow: /cg/
+Disallow: /account.php
+Disallow: /account_edit.php
+Disallow: /account_history.php
+Disallow: /account_history_info.php
+Disallow: /account_password.php
+Disallow: /add_checkout_success.php
+Disallow: /address_book.php
+Disallow: /address_book_process.php
+Disallow: /advanced_search.php
+Disallow: /advanced_search_result.php
+Disallow: /checkout_confirmation.php
+Disallow: /checkout_payment.php
+Disallow: /checkout_payment_address.php
+Disallow: /checkout_process.php
+Disallow: /checkout_shipping.php
+Disallow: /checkout_shipping_address.php
+Disallow: /checkout_success.php
+Disallow: /contact_bean.php
+Disallow: /cookie_usage.php
+Disallow: /create_account.php
+Disallow: /create_account_success.php
+Disallow: /login.php
+Disallow: /password_forgotten.php
+Disallow: /popup_image.php
+Disallow: /product_like.php
+Disallow: /shopping_cart.php
+Disallow: /product_reviews_write.php
+Disallow: /ec_shipping.php
+Disallow: /account/
+Disallow: /wishlist/
+Disallow: /cart/
+Disallow: /amazon/
+Disallow: /download/
+Disallow: /email/
+Disallow: /image/
+Disallow: /images2/
+Disallow: /images3/
+Disallow: /images4/
+Disallow: /img/
+Disallow: /includes/
+Disallow: /wm/
+Disallow: /s/
+Disallow: /search/
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+Sitemap: https://www.evike.com/sitemap.xml

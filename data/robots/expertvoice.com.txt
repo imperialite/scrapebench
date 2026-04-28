@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /xmlrpc.php
+Disallow: /img_square_retail_profile-2/
+Disallow: /120214_poweredbyexperticity_logo_4_2x/
+Disallow: /julianne/
+Disallow: /kathynew/
+Disallow: /product/hyperice-hypervolt-3/

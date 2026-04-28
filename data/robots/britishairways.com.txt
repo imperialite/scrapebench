@@ -1,0 +1,270 @@
+User-agent: gsa-crawler
+Allow: /*/traveltrade/
+Allow: /*/travel-partner-connect/
+
+User-agent: *GraphConnectors*
+Allow: /*/traveltrade/
+Allow: /*/travel-partner-connect/
+ 
+# -----------------------------
+# Disallow rules (general)
+# -----------------------------
+User-agent: *
+Disallow: /travel-partner-connect/
+Disallow: /travel/pkomatch/
+Disallow: /*reevoo_display
+Disallow: /*?eId=120001&wfpId=custrelreplies&case=
+Disallow: /*.page
+Disallow: /*/bamediacentre/
+Disallow: /*/assets/pdfs
+Disallow: /*/mobiledataupdate
+Disallow: /*/trade/
+Disallow: /*/traveltrade
+
+# -----------------------------
+# Disallow rules (general - added after tech audit 2025)
+# -----------------------------
+User-agent: *
+Disallow: /content/britishairways-com-content/
+Disallow: /beta/geo.jsp
+Disallow: /travel/ba_vsg18.jsp/cookies-vsg/public/
+Disallow: /travel/ba_vsg18.jsp/gg-m-cont/public/
+Disallow: /travel/ba_vsg18.jsp/prvdet-vsg/public/
+Disallow: /travel/ba_vsg18.jsp/termcn-vsg/public/
+Disallow: /travel/ba18.jsp/2025-q1-bonus-avios/public/en_ie
+Disallow: /travel/cookietoast/public/
+Disallow: /*/test1$
+Disallow: /*/test-pages/
+Disallow: /travel/recentflightsearches/
+
+# -----------------------------
+# Disallow rules (language subpaths)
+# -----------------------------
+User-agent: *
+Disallow: /*zh/
+Disallow: /*pt/
+Disallow: /*pl/
+Disallow: /*ja/
+Disallow: /*it/
+Disallow: /*fr/
+Disallow: /*es/
+Disallow: /*en/
+Disallow: /*de/
+Disallow: /*/zh-
+Disallow: /*/ru-
+Disallow: /*/pt-
+Disallow: /*/pl-
+Disallow: /*/ko-
+Disallow: /*/ja-
+Disallow: /*/it-
+Disallow: /*/fr-
+Disallow: /*/es-
+Disallow: /*/en-
+Disallow: /*/de-
+
+# -----------------------------
+# Disallow rules (travel subdirectories)
+# -----------------------------
+User-agent: *
+Disallow: /*/travel/low-price-finder/public/
+Disallow: /*/travel/home/public/en_gb/user
+Disallow: /*/travel/holiday-finder/public/
+Disallow: /*/travel/fx/
+Disallow: /travel/holiday-finder/
+Disallow: /travel/low-price-finder/
+Disallow: /travel/hoteldetailsproxy/public/
+
+# -----------------------------
+# Disallow rules (unsupported hotel-information locales)
+# -----------------------------
+User-agent: *
+Disallow: /en-kn/destinations/hotel-information/
+Disallow: /en-hr/destinations/hotel-information/
+Disallow: /en-be/destinations/hotel-information/
+Disallow: /es-mx/destinations/hotel-information/
+Disallow: /en-ie/destinations/hotel-information/
+Disallow: /en-ae/destinations/hotel-information/
+Disallow: /en-mx/destinations/hotel-information/
+Disallow: /en-ag/destinations/hotel-information/
+Disallow: /de-gb/destinations/hotel-information/
+Disallow: /en-se/destinations/hotel-information/
+Disallow: /en-il/destinations/hotel-information/
+Disallow: /en-cz/destinations/hotel-information/
+Disallow: /en-hu/destinations/hotel-information/
+Disallow: /en-fi/destinations/hotel-information/
+Disallow: /de-at/destinations/hotel-information/
+Disallow: /en-sg/destinations/hotel-information/
+Disallow: /en-cl/destinations/hotel-information/
+Disallow: /it-gb/destinations/hotel-information/
+Disallow: /zh-gb/destinations/hotel-information/
+Disallow: /fr-gb/destinations/hotel-information/
+Disallow: /en-dk/destinations/hotel-information/
+Disallow: /en-za/destinations/hotel-information/
+Disallow: /en-gr/destinations/hotel-information/
+Disallow: /en-tt/destinations/hotel-information/
+Disallow: /en-no/destinations/hotel-information/
+Disallow: /en-eg/destinations/hotel-information/
+Disallow: /en-bb/destinations/hotel-information/
+Disallow: /es-gb/destinations/hotel-information/
+Disallow: /en-cy/destinations/hotel-information/
+Disallow: /pt-gb/destinations/hotel-information/
+Disallow: /en-ro/destinations/hotel-information/
+Disallow: /it-ch/destinations/hotel-information/
+Disallow: /es-au/destinations/hotel-information/
+Disallow: /en-hk/destinations/hotel-information/
+Disallow: /en-tc/destinations/hotel-information/
+Disallow: /pt-at/destinations/hotel-information/
+Disallow: /en-bm/destinations/hotel-information/
+Disallow: /en-at/destinations/hotel-information/
+Disallow: /en-gd/destinations/hotel-information/
+Disallow: /ja-gb/destinations/hotel-information/
+Disallow: /en-au/destinations/hotel-information/
+Disallow: /en-ch/destinations/hotel-information/
+Disallow: /fr-at/destinations/hotel-information/
+Disallow: /en-tr/destinations/hotel-information/
+Disallow: /fr-ch/destinations/hotel-information/
+Disallow: /en-nl/destinations/hotel-information/
+Disallow: /en-bg/destinations/hotel-information/
+Disallow: /en-nz/destinations/hotel-information/
+Disallow: /en-jm/destinations/hotel-information/
+Disallow: /en-ky/destinations/hotel-information/
+Disallow: /en-bs/destinations/hotel-information/
+Disallow: /zh-cn/destinations/hotel-information/
+Disallow: /fr-au/destinations/hotel-information/
+Disallow: /en-ng/destinations/hotel-information/
+Disallow: /de-ch/destinations/hotel-information/
+Disallow: /es-at/destinations/hotel-information/
+Disallow: /es-cl/destinations/hotel-information/
+Disallow: /en-lc/destinations/hotel-information/
+Disallow: /en-qa/destinations/hotel-information/
+Disallow: /de-au/destinations/hotel-information/
+Disallow: /en-bh/destinations/hotel-information/
+Disallow: /en-cn/destinations/hotel-information/
+Disallow: /en-sa/destinations/hotel-information/
+Disallow: /en-jp/destinations/hotel-information/
+Disallow: /en-gh/destinations/hotel-information/
+Disallow: /en-br/destinations/hotel-information/
+Disallow: /en-kw/destinations/hotel-information/
+
+# -----------------------------
+# Allow rules (travel subdirectories)
+# -----------------------------
+User-agent: *
+Allow: /travel/holiday-finder/*/en_gb
+Allow: /travel/low-price-finder/*/en_gb
+
+# -----------------------------
+# Allow rules (specific root/folder exceptions)
+# -----------------------------
+User-agent: *
+Allow: /travel-partner-connect/$
+Allow: /*_resources-*.json
+ 
+# -----------------------------
+# Allow rules (language subpaths)
+# -----------------------------
+User-agent: *
+Allow: /*it/it/
+Allow: /*fr/fr/
+Allow: /*es/es/
+Allow: /*en/us/
+Allow: /*en/it/
+Allow: /*en/in/
+Allow: /*en/fr/
+Allow: /*en/es/
+Allow: /*en/de/
+Allow: /*en/ca/
+Allow: /*de/de/
+Allow: /*/zh_
+Allow: /*/ru_
+Allow: /*/pt_
+Allow: /*/pl_
+Allow: /*/ko_
+Allow: /*/ja_
+Allow: /*/it_
+Allow: /*/fr_
+Allow: /*/es_
+Allow: /*/en_
+Allow: /*/de_
+ 
+# -----------------------------
+# Allow rules (content sections)
+# -----------------------------
+User-agent: *
+Allow: /*/travel-guide/
+Allow: /*/travel-guide?
+Allow: /*/offers/
+Allow: /*/offers?
+Allow: /*/holidays/
+Allow: /*/holidays?
+Allow: /*/flights/
+Allow: /*/flights?
+Allow: /*/business-travel/
+Allow: /*/business-travel?
+Allow: /*/information/
+Allow: /*/information?
+Allow: /*/executive-club/
+Allow: /*/executive-club$
+Allow: /*/the-british-airways-club?
+ 
+# -----------------------------
+# Allow rules (hotel information & executive club)
+# -----------------------------
+User-agent: *
+Allow: /it-it/destinations/hotel-information/
+Allow: /*fr-fr/destinations/hotel-information/
+Allow: /*es-es/destinations/hotel-information/
+Allow: /*en-us/destinations/hotel-information/
+Allow: /*en-it/destinations/hotel-information/
+Allow: /*en-in/destinations/hotel-information/
+Allow: /*en-gb/destinations/hotel-information/
+Allow: /*en-fr/destinations/hotel-information/
+Allow: /*en-es/destinations/hotel-information/
+Allow: /*en-de/destinations/hotel-information/
+Allow: /*en-ca/destinations/hotel-information/
+Allow: /*de-de/destinations/hotel-information/
+
+# -----------------------------
+# Allow rules (applications)
+# -----------------------------
+User-agent: *
+Allow: /cms/global/ensighten/
+Allow: /etc.clientlibs/
+
+# -----------------------------
+# Allow rules (Nexus JS)
+# -----------------------------
+User-agent: *
+Allow: /nx*/_next/static/*.js
+
+# -----------------------------
+# Allow rules (Test 050126)
+# -----------------------------
+User-agent: *
+Allow: /*/destinations/new-york/holidays-in-new-york$
+Allow: /*/destinations/dubai/dubai-holidays$
+Allow: /*/destinations/maldives/holidays-in-maldives$
+Allow: /*/destinations/barbados/holidays-in-barbados$
+Allow: /*/destinations/las-vegas/holidays-in-las-vegas$
+Allow: /*/destinations/mauritius/holidays-in-mauritius$
+Allow: /*/destinations/florida/florida-holidays$
+Allow: /*/destinations/orlando/orlando-holidays$
+Allow: /*/destinations/miami/miami-holidays$
+Allow: /*/destinations/phuket/holidays-in-phuket$
+Allow: /*/destinations/cape-town/cape-town-holidays$
+Allow: /*/destinations/rome/holidays-in-rome$
+Allow: /*/destinations/barcelona/holidays-in-barcelona$
+Allow: /*/destinations/malta/malta-holidays$
+Allow: /*/destinations/tenerife/tenerife-holidays$
+Allow: /*/destinations/malaga/malaga-holidays$
+Allow: /*/destinations/holiday-types/all-inclusive-holidays$
+Allow: /*/destinations/holiday-types/city-breaks$
+Allow: /*/flights-and-holidays/holidays$
+Allow: /*/destinations/malaga/flights-to-malaga$
+Allow: /*/destinations/benidorm/benidorm-holidays$
+Allow: /*/destinations/nice/flights-to-nice$
+Allow: /*/destinations/gran-canaria/flights-to-gran-canaria$
+
+Sitemap: https://www.britishairways.com/sitemapindex.xml
+Sitemap: https://www.britishairways.com/homepage.xml
+Sitemap: https://www.britishairways.com/hotelsitemapindex.xml

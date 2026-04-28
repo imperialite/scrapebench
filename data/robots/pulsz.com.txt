@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /blog/
+Disallow: /*?
+Disallow: /my-games/
+Disallow: /fb-offer/
+Disallow: /fbml/
+Disallow: /fbca/
+Disallow: /goca/
+Disallow: /gosl/
+
+Sitemap: https://www.pulsz.com/sitemap.xml
+Sitemap: https://www.pulsz.com/blog/sitemap_index.xml

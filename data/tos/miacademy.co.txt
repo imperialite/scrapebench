@@ -1,0 +1,154 @@
+Miacademy - Terms of Service
+Terms of Service
+Miaplaza Terms of Service & User Agreement
+Effective Date: December 5, 2025
+This User Agreement (“Agreement”) is a legally binding contract between you and Miaplaza, Inc. (“Miaplaza,” “we,” “our,” or “us”). It governs all access to and use of Miaplaza’s educational platforms—including Always Icecream, Miacademy, Miacademy, and MiaPrep—and their related websites, apps, publications, and services (collectively, the “Service”).
+By using the Service, you acknowledge and agree to be bound by this Agreement. If you are a parent or legal guardian permitting a minor to use the Service, you accept this Agreement on their behalf and assume full responsibility for the minor’s compliance. If you do not agree to these terms, do not access or use the Service.
+1. Eligibility & Account Authority
+1.1 Minors
+If you are under 18 (or the age of majority in your jurisdiction), your parent or legal guardian must review and accept this Agreement before you may use the Service. By allowing a minor to access the Service, the parent or guardian agrees to be responsible for the minor’s account activity and compliance with these terms.
+1.2 Adult Access to Community Features
+On Miacademy, Always Icecream, or Miacademy the use of community and social features is restricted to minors. Only users age 20 or younger may use community and social features on MiaPrep. Parents / guardians are permitted to access community and social features for the purpose of supervising their child’s activities. Parents / guardians may also request platform access with all community functionality disabled. Miaplaza may suspend or remove any account believed to be in violation of these restrictions.
+2. Changes to This Agreement
+Miaplaza may update this Agreement at any time. Updated versions will be posted to the Service with a revised Effective Date. Continued use after changes are posted constitutes acceptance of the updated terms.
+3. Description of the Service
+Miaplaza provides online educational platforms offering curricula, learning activities, videos, games, assessments, and moderated student communities. We do not guarantee that credits earned, transcripts generated, or diplomas issued through the Service will be accepted by other educational institutions, local school districts, or state departments of education. It is the parent / guardian’s sole responsibility to ensure the curriculum meets the legal homeschooling or educational requirements of their jurisdiction.
+Miaplaza, Inc. is headquartered at:
+Miaplaza, Inc.
+1425 Stonegate Ct
+Gardnerville, NV 89410-7622
+USA
+4. Account Registration & Responsibilities
+4.1 Accurate Information
+You agree to provide and maintain accurate registration information, including a working email address, and to keep your password confidential.
+4.2 Access Credentials
+Login credentials may not be shared with anyone except a legal guardian managing a child’s account. Miaplaza is not responsible for recovering accounts linked to inaccessible or outdated email addresses.
+4.3 Parental Verification
+By creating a parent account, you confirm that you are the parent or legal guardian of the associated child, or that you have appropriate authority to act on the parent’s or legal guardian's behalf.
+5. Suspension & Termination
+Miaplaza may suspend or terminate your access to the Service at any time, with or without notice, including for violations of this Agreement, legal requests, suspected fraud, security, operational or technical issues, prolonged inactivity (including on lifetime accounts), nonpayment, or at your request. Termination may result in deletion of account data and loss of access. Miaplaza retains discretion to determine appropriate actions and is not liable for termination outcomes. Certain data may be retained as required by law or for legitimate business purposes.
+6. User Conduct
+“Content” means any information, text, images, video, audio, messages, or materials you submit or make available through the Service.
+6.1 Prohibited Content
+You may not upload, post, or share Content that:
+- includes personal contact information about yourself or others;
+- is abusive, harassing, hateful, threatening, or discriminatory;
+- attempts to proselytize or promote extremist or violent ideology;
+- promotes illegal activity or provides instructions for such activity;
+- is defamatory, obscene, sexually explicit, or otherwise inappropriate for minors;
+- exploits or endangers minors;
+- infringes intellectual property rights;
+- impersonates any person or entity;
+- contains malware, harmful code, or hidden pages;
+- requests passwords, location data, or sensitive identifying information;
+- involves unauthorized commercial activity;
+- distributes another student’s content outside the platform without express parental/guardian consent and Miaplaza approval.
+6.2 Additional Prohibited Behavior
+You may not:
+- provide false information including but not limited to your identity or age;
+- accept compensation for posted content without Miaplaza’s approval;
+- attempt data scraping, extraction, or indexing;
+- reverse engineer any part of the Service;
+- circumvent access controls
+- coordinate or engage in unlawful conduct;
+- stalk, bully, or harass users.
+7. License to User-Generated Content
+You retain ownership of your Content. By submitting Content, you grant Miaplaza a worldwide, perpetual, irrevocable, royalty-free, transferable, sublicensable, non-exclusive license to use, reproduce, modify, adapt, display, distribute, promote, and create derivative works from your Content in connection with the operation and improvement of the Service. You waive any applicable moral rights to the extent permitted by law.
+8. International Use
+You are responsible for complying with applicable local laws, including those governing online conduct, data protection, and export controls. Miaplaza makes no representation that the Service is appropriate or available outside the United States.
+9. Information Sharing & Third-Party Links
+9.1 Visibility
+Depending on parental settings, certain Content may be visible to other users. Miaplaza may reformat or translate Content for display.
+9.2 Accuracy
+Miaplaza is not responsible for verifying the accuracy or identity of users or the reliability of user-generated Content.
+9.3 External Websites
+The Service may link to third-party websites. Miaplaza does not endorse or control these sites and is not responsible for their content, terms of service, availability, privacy controls, data protection or sharing policies, or other practices.
+10. Security & Access Restrictions
+You may not:
+- crawl, scrape, or spider the Service;
+- frame, reproduce, or mirror any portion of the Service;
+- attempt unauthorized access;
+- probe or test system vulnerabilities;
+- interfere with Service functionality;
+- introduce viruses, malware, or harmful code.
+Miaplaza may take any action it deems necessary to protect system integrity, including blocking IP addresses, rate-limiting access, or reporting violations.
+11. User Communication Features
+11.1 Public or Semi-Public Areas
+Users may interact via profiles, team chats, comments, or community features.
+11.2 Friend-Restricted Features
+Certain items, such as direct messages or limited profile elements, are accessible only to approved friends.
+11.3 Parental Controls
+Parents may disable communication features at any time. Miaplaza cannot guarantee that minors will never share personal information, and parents agree to cooperate with Miaplaza in addressing such incidents.
+12. Communications From Miaplaza
+You agree to receive operational emails necessary to manage your account, policy changes, and other Service-related communications. Additional communication practices are explained in the Privacy Policy.
+13. Moderation & Safety
+Miaplaza moderates the Service to help protect children’s safety and privacy. We may review, remove, or restrict Content or accounts at our discretion. We are not obligated to investigate every report. Miaplaza complies with mandatory child abuse reporting laws.
+14. Fees, Billing & Membership Plans
+Subscription options include monthly, annual, and lifetime plans. Fees are shown at the time of purchase.
+Monthly subscriptions renew automatically unless canceled before the next billing cycle.
+Lifetime memberships apply only to the purchased platform and expire if the Service or company ceases operations.
+Lifetime memberships are non-transferable and limited to 6 years on MiaPrep and 10 years on Always Icecream, Miacademy, and Miacademy counted from the date of the first account login. Miaplaza may close accounts that are older than these limits.
+Miaplaza may change pricing or introduce new paid services. Fee changes do not affect payments already made.
+15. Refund Policy
+Refunds are granted only if all conditions are met:
+- the purchase was made within the last 30 days;
+- the remaining prepaid period does not extend beyond 30 days; and
+- payment was made directly to Miaplaza.
+Refunds are not provided for non-use, classroom licenses, installment plans, or purchases through third parties.
+16. Pause Policy (Monthly Plans Only)
+Monthly subscribers may pause their membership for 1–3 months. A paid month must occur between pauses. Children cannot access paused accounts. Ending a pause early forfeits unused paused time. Annual, lifetime, classroom, charter, and state-funded plans cannot be paused.
+17. Intellectual Property
+All Miaplaza content—including curricula, text, graphics, games, software, lesson materials, logos, designs, and other proprietary works—is owned by Miaplaza or its licensors and protected by U.S. and international laws. You may not copy, reproduce, modify, publish, distribute, or create derivative works from Miaplaza content without prior written consent.
+Furthermore, you may not use any content, data, or materials from the Service for the purpose of developing, training, or refining artificial intelligence or machine learning models (including Large Language Models) without Miaplaza’s prior express written consent.
+18. Indemnification
+You agree to indemnify, defend, and hold harmless Miaplaza and its officers, employees, agents, affiliates, and partners from any claims, damages, losses, or expenses (including reasonable attorney’s fees) arising out of your use of the Service, your violation of this Agreement, or your infringement of another’s rights. Miaplaza may disclose information when legally required.
+19. Disclaimer of Warranties
+THE SERVICE IS PROVIDED “AS IS” AND “AS AVAILABLE.”
+MIAPLAZA MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+MIAPLAZA DOES NOT WARRANT THAT THE SERVICE WILL MEET YOUR REQUIREMENTS, ACHIEVE SPECIFIC LEARNING OUTCOMES, OPERATE WITHOUT INTERRUPTION, BE ERROR-FREE, OR BE SECURE.
+20. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, MIAPLAZA IS NOT LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING LOST DATA, PROFITS, OR GOODWILL, ARISING OUT OF YOUR USE OF THE SERVICE.
+21. Governing Law & Venue
+This Agreement is governed exclusively by the laws of the State of Nevada, without regard to conflict-of-law rules. All disputes must be resolved exclusively in the state or federal courts located in the State of Nevada. You consent to personal jurisdiction and venue in those courts.
+22. Dispute Resolution; Binding Arbitration; Class Action Waiver
+PLEASE READ THIS SECTION CAREFULLY. IT AFFECTS YOUR LEGAL RIGHTS.
+22.1 Binding Arbitration
+YOU AND MIAPLAZA AGREE THAT ANY DISPUTE, CLAIM, OR CONTROVERSY ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE SERVICE SHALL BE RESOLVED BY INDIVIDUAL BINDING ARBITRATION, RATHER THAN IN COURT. You waive any right to a jury trial.
+22.2 No Class Actions
+YOU AND MIAPLAZA AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING.
+22.3 Arbitration Rules
+Arbitration shall be conducted by JAMS or the American Arbitration Association (AAA) in Douglas County, Nevada. This provision does not apply to small claims court actions or claims regarding intellectual property rights.
+23. Digital Millennium Copyright Act (DMCA) Policy
+Miaplaza respects the intellectual property rights of others and expects its users to do the same. In accordance with the Digital Millennium Copyright Act of 1998 (“DMCA”), we will respond expeditiously to claims of copyright infringement committed using the Service.
+23.1 Reporting Copyright Infringement (Takedown Notice)
+If you are a copyright owner, or authorized to act on behalf of one, and you believe that material available on the Service infringes your copyright, you may submit a written notification to our Designated Copyright Agent containing the following information:
+- Signature: A physical or electronic signature of the copyright owner or the person authorized to act on their behalf.
+- Work Identification: A description of the copyrighted work claimed to have been infringed (or, if multiple works are covered by a single notification, a representative list of such works).
+- Material Identification: A description of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, accompanied by information reasonably sufficient to permit Miaplaza to locate the material (e.g., specific URLs).
+- Contact Information: Your address, telephone number, and email address.
+- Good Faith Statement: A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+- Accuracy Statement: A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+23.2 Counter-Notification Procedures
+If you believe that material you posted was removed (or to which access was disabled) as a result of a mistake or misidentification, you may file a counter-notification with our Designated Copyright Agent. The counter-notification must be in writing and contain the following:
+- Signature: Your physical or electronic signature.
+- Identification: Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or disabled.
+- Good Faith Statement: A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled.
+- Consent to Jurisdiction: Your name, address, and telephone number, and a statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located (or, if your address is outside of the United States, for the United States District Court for the District of Nevada), and that you will accept service of process from the person who provided the original notification or an agent of such person.
+23.3 Action Upon Receipt
+Upon Receipt of Takedown Notice: Miaplaza will remove or disable access to the allegedly infringing material and takes reasonable steps to notify the user who posted it.
+Upon Receipt of Counter-Notification: If we receive a valid counter-notification, we will provide a copy to the original complaining party. Unless the copyright owner files an action seeking a court order against the content provider within ten (10) business days, the removed material may be replaced or access to it restored.
+23.4 Repeat Infringer Policy
+In accordance with the DMCA and other applicable law, Miaplaza has adopted a policy of terminating, in appropriate circumstances and at Miaplaza's sole discretion, the accounts of users who are deemed to be repeat infringers. We may also limit access to the Service or terminate the accounts of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
+23.5 Designated Copyright Agent Contact
+Please send all notifications and counter-notifications to:
+Copyright Agent
+Miaplaza, Inc. Legal Department
+1425 Stonegate Ct
+Gardnerville, NV 89410-7622
+USA
+Email: dataofficer @ mia.school
+24. General Terms
+If any provision of this Agreement is found invalid, the remainder remains in effect. Miaplaza’s failure to enforce a provision is not a waiver. You may not assign your rights without Miaplaza’s written consent. This Agreement constitutes the entire agreement between you and Miaplaza.
+25. Contact
+For questions or concerns about this Agreement, contact:
+administration @ miaplaza.com

@@ -1,0 +1,8 @@
+# robotstxt.org 
+User-agent: Twitterbot 
+Disallow: 
+User-agent: * 
+Disallow: 
+Sitemap: https://www.fubo.tv/welcome/sitemap/index.xml 
+Sitemap: https://www.fubo.tv/sitemap.xml 
+Sitemap: https://www.fubo.tv/news/sitemap_index.xml

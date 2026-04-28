@@ -1,0 +1,82 @@
+Acceptable Use | Policy | Instructure
+Skip to main content
+Acceptable Use | Policy
+Effective Date: 12 August 2025
+To see the previous version of this Acceptable Use Policy, please click
+here
+.
+Instructure, Inc.’s (and its affiliate(s), collectively “Instructure”, “we” “our” or “us”) Acceptable Use Policy covers and governs each individual end user’s (“you” or “your”) use and access to Instructure’s services and websites (the “Service”). Instructure’s
+Privacy Policy
+explains how or whether Instructure collects and uses your personally identifiable information.
+BY USING THE SERVICE, YOU ARE AGREEING TO USE THE SERVICE IN ACCORDANCE WITH THIS ACCEPTABLE USE POLICY, AND TO REVIEW INSTRUCTURE’S
+PRIVACY POLICY
+.
+YOUR CONTENT & YOUR PERMISSIONS
+When you use the Service, you provide us with things like your files, content, messages, etc. (“
+Your Content
+”). Your Content is yours. You represent that you have all necessary right, power, and authority to use the Service and share Your Content and will comply with all applicable laws when doing so. This Acceptable Use Policy does not give us any rights to Your Content except for the limited rights that enable us to offer the Service.
+SHARING YOUR CONTENT
+The Service may let you share Your Content with others, so please think carefully about what you share. By using the Service, you agree to do so responsibly and to not misuse the Service or help or encourage anyone else to do so.
+This includes, but is not limited to, not doing or trying to do any of the following in connection with the Service (or assisting, enabling, authorizing, or encouraging a third party to):
+use or access the Service in a way that is not authorized or is prohibited by the policies, rules, or procedures of the party that has provided you with access to the Service (such as your school’s  academic integrity policy or your employer’s ethics policies);
+share your API tokens, login, password, or other access credentials for the Service with any third party;
+store, transmit or create libelous, obscene, deceptive, defamatory, pornographic, racist, sexual, hateful, unlawful, tortious or otherwise objectionable content (except as necessary for legitimate instructional purposes, but in all cases in compliance with applicable laws and regulations);
+modify, translate, adapt, merge, make derivative works of, disassemble, decompile, reverse compile or reverse engineer any part of the Service except to the extent the foregoing restrictions are expressly prohibited by applicable law;
+harm, harass, threaten, or impersonate any person or violate the rights of any third party;
+probe, scan, or test the vulnerability of any system or network;
+interfere with or disrupt the integrity or performance of the Service;
+attempt to gain unauthorized access to the Service or its related systems or networks;
+introduce viruses, Trojan horses, worms, spyware, or other such malicious code into the Service;
+breach or otherwise circumvent any security or authentication measures;
+access, tamper with, or use non-public areas or parts of the Service, or shared areas of the Service you have not been invited to;
+access, search, or create accounts for the Service by any means other than our publicly supported interfaces (for example, "scraping" or creating accounts in bulk);
+send unsolicited communications, promotions or advertisements, or spam;
+send altered, deceptive or false source-identifying information, including "spoofing" or "phishing";
+promote or advertise products or services other than your own without appropriate authorization;
+sell or re-sell the Service unless specifically authorized to do so;
+copy, reproduce, distribute, republish, download, display, post or transmit in any form or by any means any part of the Service unless specifically authorized to do so;
+record and/or upload communications of any person (audio/video) without their consent where such consent is required by applicable laws;
+remove or destroy any copyright notices or other proprietary markings contained on or in the Service; or
+violate the law in any way, including by storing, publishing or sharing material that is infringing, fraudulent, defamatory, misleading, or damaging to Instructure in any way.
+YOUR RESPONSIBILITIES
+You must provide all equipment necessary to access the Service and are responsible for all costs and expenses incurred by you when accessing the Service. Additionally, you are responsible for your conduct and Your Content and your compliance with this Acceptable Use Policy.
+Content in the Service may be protected by others’ intellectual property rights. You therefore agree that you will not copy, reproduce, create derivative works of, decompile, upload, download, share, or otherwise exploit third party content unless you have the right to do so. We may review your conduct and content for compliance with this Acceptable Use Policy and remove content from the Service at any time and without notice. With that said, we have no obligation to do so. We are not responsible for the content people post and share via the Service. You agree also to safeguard your password to the Service, make sure that others do not have access to it, and to keep your account information current.
+THIRD PARTY WEBSITES
+The Service may contain links to third-party websites that are not under our control. We are not responsible for such third-party websites.
+OUR PROPERTY
+The Service is protected by copyright, trademark, and other US and foreign laws. This Acceptable Use Policy does not grant you any right, title, or interest in the Service or others’ content in the Service. We welcome feedback, but note that we may use comments or suggestions without any obligation to you.
+INFRINGEMENT
+We respect the intellectual property of others and ask that you do too. We respond to notices of alleged infringement after receipt of a proper notice that complies with the law and is received by our designated agent. We reserve the right to delete or disable content alleged to be infringing and terminate accounts of repeat infringers. If you believe that any content in the Service in anyway constitutes infringement, please provide our designated agent with the following information:
+an electronic or physical signature of the person authorized to act on behalf of the rights owner;
+a description of the content you claim is being infringed;
+a description or link to the location of the material claim is infringing;
+your physical address, telephone number and e-mail address;
+a statement that you have a good faith belief that the content is not authorized by the rights owner, its agent or the law; and
+a statement, made under penalty of perjury, that the information in your notice is accurate and that you are the owner or authorized to act on behalf of the owner.
+Contact information for Instructure’s designated agent for notice of claims of infringement is as follows:
+Instructure, Inc,. Attn: General Counsel
+6330 South 3000 East, Suite 700
+Salt Lake City, UT 84121 USA
+legal@instructure.com
+Instructure may also take any appropriate action in the event it receives a proper counter-notice under the law.
+TERMINATION & RIGHT TO SUSPEND
+You are free to stop using our Service at any time. We also reserve the right to suspend your access or end the Service at any time at our discretion and without notice. For example, we may suspend or terminate your use of the Service and remove Your Content if you are not complying with this Acceptable Use Policy, or are using the Service in a manner that may cause us legal liability, disrupt the Service, disrupt others’ use of the Service or, in our sole opinion, cause harm.
+NO WARRANTIES AND NO LIABILITY
+As between Instructure and you, we do not make any warranties (whether express or implied) about the Service. The Service is provided “as is” and any content downloaded or accessed from the Service is accessed at your own risk.
+WE DISCLAIM ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. ANY CONTENT DOWNLOADED OR ACCESSED FROM THE SERVICE IS ACCESSED AT YOUR OWN RISK.
+MODIFICATIONS
+This is the most current version of the Acceptable Use Policy, we may revise the policy from time to time.
+QUESTIONS
+For any questions relating to this Acceptable Use Policy, you may contact Instructure by sending an email to
+legal@instructure.com
+Home
+North America
+6330 S 3000 E, Suite 700
+Salt Lake City, UT 84121, USA
+Europe
+Rivington House, 82 Great Eastern Street
+London, England
+Asia Pacific
+Bridgetowne, C-5 Road
+Ugong Norte, Quezon City, Philippines
+©2026 Instructure, Inc. All rights reserved.

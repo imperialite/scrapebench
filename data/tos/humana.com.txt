@@ -1,0 +1,107 @@
+Humana:  Terms and Conditions
+Terms and Conditions
+Definitions
+Controlling Authority
+is someone who has legal authority to sign agreements 
+				for Organization and who has been identified as such in a registration process.
+Access Administrator
+is someone designated by a Controlling Authority 
+				to set up and to maintain Users and has been identified as such in a registration 
+				process.
+A
+User
+is a person who has registered to use the Site 
+				and that You have authorized to access or use the Services.
+Use
+We permit Your access to and use of the Services solely 
+				for Your internal use and benefit; any other access or use is strictly prohibited.
+User Access
+The Services will be accessible only to Users. You 
+				must register each User through the on-line registration process or other process 
+				established by Humana. In addition, each User must execute an on-line Confidentiality \
+				Agreement and an on-line Security Agreement ("User Agreements") before receiving 
+				access to the Services. You are responsible for all acts or omissions by Users, 
+				and for any liabilities, losses, damages, injunctions, suits, actions, fines, 
+				penalties, claims or demands of any kind or nature by or on behalf of any person, 
+				party or governmental authority incurred as a result thereof. An Access Administrator 
+				may disable access to the Services by a User at any time by revoking the User's 
+				access online or by an oral or written request to Us. You must disable or request 
+				that We disable access to the Services by a User when You have security concerns, 
+				including but not limited to lost or stolen User ID and Password, disclosure of 
+				confidential information, or fraudulent activity. In addition, you must immediately 
+				disable the access of any terminated employee. If We at any time discover any error 
+				or omission in the information provided to Us, We may, at Our option, terminate 
+				Organization's or any User's right to access and use the Site and the Services. 
+				Organization shall not use Humana's Site in a manner which may violate the laws and 
+				regulations of the United States or any other nation, or the laws and regulations of 
+				any state, city, province or other jurisdiction in any fashion and shall not transmit 
+				any information using the Site unless it has obtained proper consent from the 
+				subject of such information to so transfer the information. Humana may deny Your 
+				access to the Site in the event You breach this Agreement or at any time with or 
+				without cause. You are responsible for all acts or omissions by Your Users, and 
+				for any liabilities, losses, damages, injunctions, suits, actions, fines, penalties, 
+				claims or demands of any kind or nature by or on behalf of any person, party or 
+				governmental authority incurred by Us as a result of any User's use of the Site.
+Security
+We require each User to have unique information 
+				to identify himself/herself ("IDs") when accessing or using the Services. 
+				Currently this unique information is a User ID and Password and later may be a 
+				digital certificate. You are solely responsible for 
+				(1) maintaining the strict confidentiality of the IDs assigned to You and Your Users, 
+				(2) instructing Your Users to not allow another person to use their IDs to access 
+				the Site or the Services, and 
+				(3) any charges, damages, or losses that may be incurred or suffered as a 
+				result of Your or Your Users' failure to maintain the strict confidentiality of
+				 their IDs. If Organization becomes aware of or suspects fraudulent activity or 
+				 any other activity that threatens the security of the Site, Organization must 
+				 immediately report the activity to Humana.
+Intellectual Property Ownership
+You agree that We (or third parties providing contents or 
+				services for the Site) own all worldwide rights, titles and interests in and to 
+				the Site and all intellectual property rights therein. You may print a copy of 
+				the information contained on the Site for Your personal use, but You may not 
+				reproduce or distribute the text or graphics to others or substantially copy the 
+				information on Your own server, or link to the Site, without prior written 
+				permission of Humana. All rights not expressly granted in this Agreement are 
+				reserved to Us. No other rights or licenses are conveyed or intended by this 
+				Agreement.
+General Disclaimers
+THE SITE AND THE SERVICES ARE PROVIDED TO YOU 
+				ON AN "AS IS, WITH ALL FAULTS" BASIS, AND YOUR USE THEREOF IS AT YOUR OWN RISK. 
+				IN NO EVENT WILL HUMANA BE LIABLE TO YOU OR ANY OTHER PARTY FOR ANY DIRECT, 
+				INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF ANY USE OF THE SITE, 
+				OR ANY OTHER HYPER-LINKED WEB SITE. THIS INCLUDES, WITHOUT LIMITATION, ANY LOST 
+				PROFITS, BUSINESS INTERRUPTION, LOSS OF PROGRAMS OR DATA ON YOUR EQUIPMENT, OR 
+				OTHER DAMAGES OF ANY NATURE, EVEN IF HUMANA IS EXPRESSLY ADVISED OF THE POSSIBILITY 
+				OR LIKELIHOOD OF SUCH DAMAGES.
+Indemnity
+You agree to defend, indemnify and hold Us harmless 
+				against any losses, expenses, costs or damages (including Our reasonable attorneys' 
+				fees, expert fees and other reasonable costs of litigation) arising from, incurred 
+				 a result of, or in any manner related to (1) Your breach of the terms of this 
+				 Agreement, (2) Your unauthorized or unlawful use of the Site or the Services, (3) 
+				 the unauthorized or unlawful use of the Site or the Services by any other person 
+				 using Your IDs, and (4) any breach or unauthorized use of this Site or the Services 
+				 of any person or entity that You delegate functions or User access to with regard to 
+				 this Site or the Services.
+Waiver
+It is understood and agreed that no failure or delay 
+				by the other party in exercising any right, power or privilege hereunder shall 
+				operate as a waiver thereof, nor shall any single or partial exercise thereof 
+				preclude any other or further exercise thereof or the exercise of any other right, 
+				wer or privilege hereunder.
+Delegation
+It is understood and agreed that any and all persons 
+				or entities that You delegate functions or User access to this Site or the 
+				Services shall execute a separate Organization Access Agreement with Humana prior 
+				to access to the self-service Web site.
+Miscellaneous
+Humana reserves the right to access, read, copy, 
+				delete and disclose information on Humana systems and equipment. Humana reserves 
+				the right to inspect any and all files stored on Humana equipment.
+Governing Law; Venue
+This Agreement shall be governed by the laws of 
+				the Commonwealth of Kentucky, without regard to its conflicts of law provisions.
+				 Any dispute relating to this Agreement, the Site or the Services shall be brought 
+				 only in a federal or state court sitting in Jefferson County, Kentucky.
+Close

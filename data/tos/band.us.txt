@@ -1,0 +1,141 @@
+밴드 개발자 센터
+BAND Platform Terms of Service
+1. PURPOSE
+This term is made to set forth the terms and conditions and other necessary procedures when users access the website (developers.band.us, hereinafter "BAND Developers), made by Naver corporation (hereinafter "corporation"), providing additional features needed to synchronize the platform and BAND service while developing mobile applications.
+2. DEFINITION
+The definition of terms used in this agreement is as follows.
+1.
+"Service" refers to services that the "corporation" uses to issue "BAND SDK" through "BAND Developers" site and the "developer" receives an "authorization key" from "BAND Developers" site for synchronized development of "BAND SDK" in "user program", and thus body of services that help the voluntary participation of the “developer” to develop "user programs" for the production of creative services.
+2.
+A "developer" means a user with a BAND account and agreed to the terms and conditions of service with the corporation, and who develops a "user program" through the "BAND Developers" site.
+3.
+"BAND Developers" refers to the website (http://developers.band.us) that the "corporation" uses to provide services such as "BAND SDK".
+4.
+"BAND SDK" refers to the development tool for the "user program" made by the "developer" to create and synchronize to BAND, and can be downloaded from the "BAND Developers" site.
+5.
+A "user program" is an application or website by a "developer" with "BAND SDK" applied.
+6.
+An "authorization key" is a unique value that the "corporation" issues to each "user program" to distinguish a "user program" by a "developer" with "BAND SDK" authorization.
+7.
+Any terms not defined in this section follows the "BAND Developers" site, BAND terms and conditions, and related laws and regulations, and common practice.
+3. PUBLICATION OF REVISION OF TERMS AND CONDITIONS
+1.
+The "corporation" must post the contents of this terms and conditions on the initial page of "BAND Developers" site or other methods that a "developer" can find easily.
+2.
+The "corporation" can amend this terms and conditions within the range that does not violate the range defined in the "Enforcement Decree of the Regulation of Standardized Contracts Act", "Act on Promotion of Information and Communications Network Utilization and Information Protection, etc." and other related laws.
+3.
+If the "corporation" amends the terms and conditions the amendment must be notified 30 days in advance through methods defined in section 1. However, if the terms and conditions are amended unfavorably towards the "developer", in addition to the notification, the amendment must be notified clearly through an agreement window when logging into "BAND Developers" site or through other electronic means.
+4.
+If the "corporation" notifies the "developer" according to the previous section of the amended terms and conditions, or if the "developer" does not express any explicit intention of denial despite warnings that no expression of denial within 30 days is considered as intention of agreement to the amended terms and conditions, then the "developer" is considered to agree to be in agreement with the amended terms and conditions.
+5.
+If the "developer" does not agree to the amended terms and conditions, the "corporation" cannot apply the contents of the amended terms and conditions, and in this case the "developer" can terminate the use of contract. However, if there are special conditions that do not allow the application of the pervious terms and conditions, the "corporation" can terminate the use of contract.
+4. OPERATIONAL POLICIES AND ETC.
+1.
+The "corporation" can have a separate operational policy (hereinafter "operational policy") related to the provision of service.
+2.
+Any conditions not set in this terms and conditions or interpretation follows BAND terms and conditions of use, operational policies, and related laws.
+5. SERVICE MEMBER REGISTRATION AND AGREEMENT OF TERMS
+1.
+In order to become a member, a person wishing to register as a service member and agree to the terms (hereinafter "applicant") must agree to the contents of the terms and conditions and apply to become a member through procedures set by the "corporation", and the "corporation" must accepts such applications.
+2.
+The "corporation" accepts "applicants" who apply to use the service. However, if the following is true then the "corporation" can deny applications or terminate the agreement in the future.
+a.
+The "applicant" has history of losing membership due to reasons stated in this terms and conditions (However, excludes cases where the "corporation" consented to re-application for member registration)
+b.
+If stealing another person’s information
+c.
+If the application cannot be accepted due to reasons attributable to the "applicant" or violating other established policies
+3.
+If the "corporation" does not have enough service related facilities, or has technical or task related problems, the application process may be postponed.
+6. PROVISION OF "SERVICE"
+1.
+A "developer" must register through the "BAND Developers" site and receive an "authorization key" issued by the "corporation" in order to use the "service" with an "authorization key".
+2.
+To issue an "authorization key", the "developer" must fill in the required information so that the "corporation" can use that information to determine the form of "user program", and if the information is not enough to determine the form of the "user program" the "corporation" may request for additional information.
+3.
+In operating the "service", the "corporation" may separate part of certain ranges for operation or apply a time limit useable count limit that may be modified and such policy changes must be notified in advance.
+4.
+The "developer" may use the service within the allowed limit, and if exceeding such range the "developer" must go through an agreement process with the "corporation" to continue use after exceeding the allowed limited.
+5.
+The "corporation" may terminate an "authorization key" that is not used for 6 months. In this case, the "corporation" must contact the BAND account email of the "developer" who applied for the "authorization key" for continued use, and if the "developer" does not reply within 14 days after the first email was sent, the "authorization key" may be terminated.
+7. RESPONSIBILITY OF THE "DEVELOPER"
+1.
+The "developer" may only use the "service" for non-commercial purposes, and may not ask for payment or personal information of a third party during the process of using a "user program" or service the "developer" that utilizes an "authorization key".
+2.
+When exposing BAND and BAND contents through the "service", the "developer" must not include or combine with obscene, violent, hateful, antisocial, immoral, or illegal contents, and must comply with public concern.
+3.
+The "developer" must expose BAND and BAND contents that use the "service" separately without including or modifying additional contents in front, back, or in between, and must not intend for others to mistake the content and purpose of the exposed content. In addition, any contents provided through the "service" may not be modified by the "developer".
+4.
+The "developer" cannot imitate a "service" of the "corporation", or imitate or steal the brand of the "corporation".
+5.
+The "developer" must not imitate or use the trademark of the "corporation" without proper authorization unless for attribution purposes on the "service".
+6.
+If the "developer" finds any problems or errors in the "service" immediately contact the "corporation", and the "corporation" must cooperate in improvement of the "service".
+7.
+The "developer" must not use the “service” for illegal purposes such as phishing.
+8.
+The "developer" must not use the “service” to create and transmit spam/advertising information.
+9.
+The "developer" must not replicate, store (including caching), process, distribute, or provide to third parties the information acquired through the “service”.
+10.
+The "developer" must not violate applicable laws and regulations regarding the use of users' personal information, provision to third parties, processing delegation, etc., that is provided, handled through, or collected independently via the “service”.
+11.
+The "developer" must not engage in activities such as increasing the allocated API capacity, making API calls using multiple client IDs from the same applications or applications serving the same purpose, or extracting and storing data, all for the purpose of expanding the API usage or data extraction and storage.
+12.
+The "developer" must refrain from engaging in actions that create a misleading perception of the provider of the API service and affiliations. (For instance, actions that could lead to misunderstandings, such as impersonating users as employees or affiliates of the company, or portraying users as providers of the API service, as well as actions that give rise to an appearance of an affiliation between the user and the "corporation", which could be misconstrued as indicating the presence of an affiliate relationship between the user and the "corporation", are prohibited.)
+8. USING AND MANAGING THE "AUTHORIZATION KEY"
+1.
+The "developer" cannot provide, reveal, or share the issued "authorization key" to others and only the issued "developer" may use it.
+2.
+A "developer" will be issued 1 "authorization key" to use, and in any cases must not be issued 2 or more "authorization key" or attempt to be issued as such.
+3.
+The "developer" can use the issued "authorization key" in only one "user program", and if the information of the "user program" changes from the information filled during application this must be edited immediately in the management page. The "corporation" is not responsible for any disadvantages or termination of the "authorization key" that occurs from not notifying of such changes.
+4.
+The "corporation" may set expiration when issuing an "authorization key", and if changing the expiration this must be notified at least 1 month in advance.
+5.
+"If the user" violates the law, terms and conditions of the "corporation", or the use terms of the "service" while using the "service", the "corporation" may terminate the use of the "authorization key" immediately.
+9. OWNERSHIP OF INTELLECTUAL PROPERTY
+1.
+The copyright of a "user program" made by the "developer" belongs to the "developer".
+2.
+The copyright of "BAND SDK" and related programs provided by the "corporation" belong to the "corporation", and the "corporation" may change or terminate the "service" if necessary for policy or operation.
+3.
+The various rights of articles or BAND made through the use of "service" belongs to the corporation or third party, and the consent of the "corporation" to using the "service" does not lead to the "developer" acquiring any copyright or license to a certain BAND or article.
+4.
+The "user may only synchronize to the API (Application Programming Interface hereinafter "API") provided through the "BAND SDK", and may not copy, save, or send the results from synchronizing to the "API".
+5.
+The consent of the "corporation" to use the "BAND SDK" cannot be interpreted as the "corporation" granting the "developer" to use copyrighted or trademarked property of the "corporation". The "developer" may only use copyrighted or trademarked property of the "corporation" with special content from the "corporation", and even in that case must comply with terms of use of the copyrighted or trademarked property of the "corporation" and must not arbitrarily alter or damage it.
+10. LIMIT OF REPONSIBILITY OF "CORPORATION"
+1.
+The "corporation" is not responsible for any results occurring from not complying with the terms and conditions, information for each service, and other use of terms set by the "corporation".
+2.
+Depending on the use environment of the "developer" and other conditions, the "service" may not operate properly or contain errors that the "corporation" did not expect, and the "corporation" is not responsible for loss of the "developer" that occurs from the unavailability of the "service".
+3.
+The "corporation" is not responsible for the loss of the "developer" or not reaching expected revenue through using the "service".
+4.
+The "corporation" has no obligation to intervene in disputes that occur through the "service" between "users" or a "developer" and third party, and is not responsible for any damages. If the third party in dispute with the "developer" files a complaint against the "corporation", the "developer" is responsible for indemnifying the "corporation" with their own expense.
+11. PROTECTION OF PERSONAL INFORMATION
+1.
+In operating the "service", the "corporation" must store contact and personal information of the "developer" in order to send various disclaimers, survey on use conditions and more.
+2.
+The "corporation" must only store the information that the "developer" provided according to consent of provision of information, and the "corporation" must strictly manage this information according to the personal information policy (http://band.us/policy/privacy).
+3.
+If the "corporation" eventually terminates provision of the "service" or if the "developer" withdraws consent to provision of personal information, the personal information of the "developer" must be destroyed immediately.
+4.
+The "corporation" also complies with the provisions of laws and regulations related to the protection of personal information.
+TERMINATION OF CONTRACT AND COMPENSATION FOR DAMAGES
+1.
+If the "developer" does not comply with the terms and conditions, the "corporation" may terminate the use agreement of "service". In this case, the "service" use of the "developer" is also terminated.
+2.
+The "developer" may delete the script and "authorization key" at any time to terminate the use agreement.
+3.
+If any loss of the "corporation" occurs due to reasons attributable to the "developer" the "corporation" may file a claim for damages to the "developer" in addition to termination of "service".
+TERMS OUTSIDE OF THE AGREEMENT AND JURISDICTION
+1.
+Any matters not discussed in this term follow the use terms and conditions of BAND, information and use terms of each service, and common commercial practices.
+2.
+Any lawsuits that occur between the "corporation" and "developer" from the use of "service" shall be settled in court according to Civil Procedure Code.
+3.
+Lawsuits between the "corporation" and "developer" follow the laws of the Republic of Korea.
+Addendum
+This term is effective from October 4, 2023.

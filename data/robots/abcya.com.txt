@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /*.swf$
+Disallow: /login?
+Disallow: /login/?
+Disallow: /forgot/
+Disallow: /manage/
+Disallow: /verify/
+Disallow: /tools/
+Disallow: /onboarding/
+Disallow: /abcya.html/
+Disallow: /pdfProxy.html/
+Disallow: /gameproxy/
+Disallow: /search/
+Disallow: /email/preferences/
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Mediapartners-Google
+
+Sitemap: https://www.abcya.com/sitemap_index.xml

@@ -1,0 +1,18 @@
+# Marshalls Desktop robots.txt # Updated 05.11.2021 
+User-Agent: * 
+Disallow: /us/store/account/ 
+Disallow: /us/store/checkout/ 
+Disallow: /us/store/includes/ 
+Disallow: /us/store/modal/ 
+Disallow: /us/store/omniture/ 
+Disallow: /us/store/resources/ 
+Disallow: /us/store/sitewide/ 
+Disallow: /us/store/test/ 
+Disallow: /us/store/views/ 
+Disallow: /us/store/browse/ 
+Disallow: /us/store/search/ 
+Disallow: /us/store/products/ 
+Disallow: /us/store/filter/ 
+Disallow: /us/store/shop/_/N-2550178079 
+Disallow: *?*Ntt= 
+Sitemap: https://www.marshalls.com/us/store/xml/siteindex.xml

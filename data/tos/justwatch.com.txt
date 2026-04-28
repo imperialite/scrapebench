@@ -1,0 +1,214 @@
+1. Scope of Application and Use
+1.1 These Terms of Use shall apply to use of the offering on the website https://www.justwatch.com (hereinafter “Website”) and in the JustWatch apps (hereinafter "JustWatch" in both cases) of JustWatch GmbH (hereinafter "we" or "us"). 
+
+ 
+
+1.2 The use of the service on JustWatch is intended for personal and non-commercial use only and only for users of adult age. Any user who is not yet an adult must have the permission of his/her parents or legal guardian, insofar as this is legally permissible, and the parents or legal guardian must have acknowledged these Terms of Use.
+
+ 
+
+1.3 Applications for mobile devices (JustWatch apps or apps) are normally not provided by us directly, but by a third-party provider (hereinafter "App Store"). We do not warrant that JustWatch will be identical on all mobile terminal devices in terms of functionality and design. Additionally, users should view their respective App Store's terms of use.
+
+ 
+
+1.4 JustWatch shall be made available "as it is" and "as available" without any warranty whatsoever being provided explicitly or by implication. We expressly refuse to give any representations or warranties, including implied warranties of merchantability, applicability for a specific purpose, availability, safety, ownership or non-infringement of rights.
+
+ 
+
+We do not warrant that JustWatch is free of inaccuracies, faults, bugs or interruptions, or that it is reliable, faultless, complete and otherwise valid. We do not warrant that JustWatch meets the user's requirements, that it will be available without interruption, or that the results of its use will be accurate or reliable, that the quality of the products, services, information or other material received via JustWatch will meet the user's expectations, or that faults regarding JustWatch will be rectified.
+
+ 
+
+Use of JustWatch shall take place at the user's own discretion and his/her own risk. The user shall bear sole responsibility for all damage or loss incurred as a result of his/her use of JustWatch, including damage to his/her system or loss of data.
+
+ 
+
+1.5 We reserve the right to adapt and update these Terms of Use.
+
+ 
+
+2. Usage Options
+2.1 Users can use JustWatch's offerings without having to create an account. On JustWatch, users can, among other things, discover films and series and obtain information on where these can be legally streamed.
+
+ 
+
+2.2 However, users can also use JustWatch with a free account. To do so, they merely need to register using a Google or Facebook account or an email address. A free account has the advantage that users can create a personal watchlist and access it from any device by logging in. In addition, users with an account can connect to the JustWatch TV app.
+
+ 
+
+2.3 In addition to JustWatch's free core features, users can activate further features as part of a monthly fee-based subscription, called "JustWatch Pro". These include, among other things, a new filter option, the option of hiding viewed titles and "dislikes" and using JustWatch without being disturbed by advertisements. Only sponsored recommendations are still displayed within JustWatch Pro. Activation of the Pro features is optional and can only take place via the mobile JustWatch app as well as via the Website.
+
+ 
+
+3. JustWatch Pro
+3.1 JustWatch Pro can be acquired as a monthly subscription. The price for a Pro subscription is displayed within the App or on the Website and includes value-added tax, insofar as applicable.
+
+ 
+
+3.2 A JustWatch Pro subscription can be purchased via the App and on the Website.  All paid features are accessible via the mobile App and the Website, and some are also accessible via the TV app, provided the user is logged in with the same account on all devices.
+
+ 
+
+3.3 By subscribing to JustWatch Pro, the user acquires access to enhanced digital features for the duration of the contract or their availability. The user does not acquire any physical goods or any permanent rights to digital content.
+
+ 
+
+3.4 JustWatch may alter or remove digital content and/or features at any time.
+
+ 
+
+3.5 The user may terminate JustWatch Pro at any time by clicking within the mobile App or on the Website and then continue using JustWatch Pro until the end of the month. When the term of a Pro Subscription ends, the JustWatch app reverts back to the regular, free version, and users still keep their free account.
+
+ 
+
+3.6 The term of a subscription shall likewise end if a user's payment has been unsuccessful, or JustWatch decides to discontinue the Pro option with effect from the next possible date.
+
+ 
+
+4. For JustWatch Pro Users - Right to withdraw
+When using JustWatch Pro, the user has the right to withdraw from the contract within 14 days of the date of the conclusion of the contract without giving reasons.
+
+ 
+
+If the contract was created via the Apple App Store, the user must contact Apple directly via Apple's Report a Problem site in order to exercise the right to withdraw. Otherwise, the user can inform JustWatch via feedback@justwatch.com of his/her decision to withdraw from this contract, and contact JustWatch for further details. The information regarding the withdrawal must also include the log-in method used for his/her JustWatch account.
+
+ 
+
+Users can also use the attached specimen withdrawal form, but this is not mandatory.
+
+ 
+
+To adhere to the withdrawal period, the user merely needs to send a notification of the exercise of the right to withdraw before the withdrawal period expires.
+
+ 
+
+Consequences of withdrawal
+
+If users withdraw from this contract, we shall without delay, no later than within fourteen days from the day when we receive notification of the withdrawal of this contract, refund all payments that we have received from the user. Unless otherwise expressly agreed upon with the user, we shall use for this refund the same means of payment that the user used for the original transaction; in no event shall the user be charged any fees for such refund.
+
+ 
+
+__________________________________________________________________________
+
+ 
+
+Specimen withdrawal Form
+
+If you wish to withdraw from the contract, please fill in and return this form.
+
+ 
+
+To
+
+JustWatch GmbH
+
+Saarbrücker Str. 38
+
+10405 Berlin
+
+Email: feedback@justwatch.com
+
+ 
+
+I/we (*) hereby withdraw from the contract entered by me/us (*) concerning the purchase of the following goods (*)/ the provision of the following service (*)
+
+ 
+
+Ordered on (*)/received on (*)
+
+ 
+
+Name of the consumer(s)
+
+ 
+
+Address of the consumer(s)
+
+
+
+
+Signature of the consumer(s) (only if the notification is in paper form):
+
+Date
+
+ 
+
+(*) Delete where inapplicable.
+
+
+
+
+End of the withdrawal instructions
+
+__________________________________________________________________________
+
+ 
+
+5. JustWatchTV
+5.1 JustWatchTV is a feature that allows users to stream selected movies directly on the JustWatch platform for free. These movies are available based on the licensing agreements we hold in certain countries, and access is restricted accordingly.
+
+5.2 JustWatchTV is only available in countries where JustWatch has obtained the necessary streaming rights. The availability of movies may vary by region and is subject to change over time. Users who track specific titles can receive notifications of availability changes through Watchlist notifications if they have enabled this feature in their account.
+
+5.3 Users are not required to create an account to access and stream JustWatchTV content. However, by creating an account, users can receive notifications regarding content availability through Watchlist notifications and access other personalized features.
+
+5.4 Movies available on JustWatchTV cannot be downloaded or saved for offline playback. All content must be streamed online through the JustWatch platform. Users receive only a limited, temporary, and non-transferable right to stream content online, which is solely for personal and non-commercial use. The right to stream these movies is granted exclusively in regions where JustWatch holds the necessary streaming rights.
+
+5.5 All movies available on JustWatchTV are provided under licensing agreements that JustWatch has obtained from third-party providers. Users do not acquire ownership rights to movies or other content accessible via JustWatchTV. Users do not acquire any rights beyond those explicitly granted in these terms of use.
+
+5.6 JustWatch reserves the right to change, remove, or discontinue the availability of movies, content, or features related to JustWatchTV at any time without prior notice. Furthermore, JustWatch does not guarantee the availability or quality of movies or content offered through JustWatchTV. Content availability is subject to licensing agreements and may be removed, changed, or interrupted at any time. JustWatch reserves the right to modify or revoke all licenses and other rights granted in these terms of use at any time without prior notice or reason.
+
+5.7 The use of JustWatch’s offerings, including JustWatch TV, is intended for adult users only (1.2). The content available on JustWatchTV is subject to age ratings in accordance with the regulations of the relevant national authorities. JustWatch assumes no responsibility for users’ compliance with these age ratings. Responsibility for observing age restrictions on content lies solely with the user. Parents or guardians are responsible for supervising minors’ use of content according to the age ratings.
+
+ 
+
+6. Liability
+6.1 We preclude, insofar as permissible, all liability for indirect or accidental damage or loss, consequential damage or loss, lost profit, quantifiable pecuniary losses that arise from or in connection with the use of JustWatch, regardless of whether such damage or loss is due to breach of contract, breach of warranty or tort (including, but not limited to, negligence and product liability) or to any other financial loss. In this respect, it is irrelevant whether or not the possibility of such damage or loss has been pointed out to the user.
+
+ 
+
+6.2 This limitation of liability shall not apply to wrongful intent or gross negligence or to loss arising from injury to life, limb or health.
+
+ 
+
+6.3 JustWatch may contain links to third-party websites over whose content we have no influence. Therefore, we are also unable to provide any warranty for such external content. The respective provider or operator of the sites shall always be responsible for the content. The sites linked to were checked for possible breaches of the law at the time of the creation of the link, and no unlawful content was detectable.
+
+Without any specific indications of a violation of the law, however, it is unreasonable to expect continual monitoring of the content of the sites linked to. Upon becoming aware of violations of the law, we shall remove such links immediately.
+
+ 
+
+7. Service Content, Software and Copyright
+7.1 Users acknowledge and agree that JustWatch may contain information, materials, content or features, including software underlying the Website (“Service Content”) that are protected by copyright, trademark, trade secret or other proprietary rights and laws. Except as expressly authorized by JustWatch, users agree not to modify, copy, reverse engineer, reverse assemble or otherwise attempt to discover any source code in the Website, or to frame, scrape, rent, lease, loan, sell, assign, sublicense, distribute or create derivative works based on, or reproduce, display, publicly perform, or otherwise use the Service Content in any way for any public or commercial purpose or transfer any right or interest in the Website, in whole or in part.  In connection with the use of the Website users will not engage in or use any data mining, robots, scraping or similar data gathering or extraction methods. If users are blocked by JustWatch from accessing the Website (including by blocking of IP address), users agree not to implement any measures to circumvent such blocking (e.g., by masking your IP address or using a proxy IP address). Any use of the Website and Service Content other than as specifically authorized herein is strictly prohibited. The technology and software underlying the Website or distributed in connection therewith are the property of JustWatch, our affiliates and our licensors. Any rights not expressly granted herein are reserved by JustWatch. If users violate any part of this Terms of Use, the right to access and/or use the Service Content and Website shall automatically terminate and users shall immediately destroy any copies they have made of the Service Content. 
+
+ 
+
+7.2 Without prejudice to our other rights or remedies, we reserve the right to take legal proceedings against users for reimbursement of all costs or losses resulting from the breach of this section of the Terms of Use, and to disclose such information to law enforcement agencies as we reasonably believe is necessary.
+
+ 
+
+7.3 Where the content on this site has not been created by us, the copyrights of third parties shall be respected. We request that the user inform us accordingly if he/she becomes aware of any copyright infringement. Upon becoming aware of violations of the law on JustWatch, we shall remove such content immediately.
+
+ 
+
+6.4 The availability and accessibility of content on JustWatchTV depends on licensing agreements and technical conditions. We do not guarantee uninterrupted availability of specific content and reserve the right to change or discontinue the offering at any time without prior notice.
+
+ 
+
+6.5 JustWatch is not liable for damages resulting from the unavailability or removal of individual content, unless such damages are due to intentional or grossly negligent conduct.
+
+ 
+
+8. Data Privacy
+We process personal data exclusively in accordance with the provisions of the General Data Protection Regulation and the relevant data protection laws. Detailed information on the processing of users' personal data can be found in the Privacy Policy.
+
+ 
+
+9. Miscellaneous
+9.1 These Terms of Use are subject to German law.
+
+ 
+
+9.2 JustWatch does not participate in an alternative dispute settlement procedure before a consumer dispute resolution entity and is not legally obliged to do so. Users can find the link to the EU's consumer dispute resolution portal here.
+
+ 
+
+9.3 If any individual provision of the Terms of Use is or becomes ineffective or inoperable, this shall not affect the effectiveness of the remaining provisions.

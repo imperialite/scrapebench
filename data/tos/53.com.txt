@@ -1,0 +1,311 @@
+EMONEY TERMS OF USE
+EMONEY TERMS OF USE
+Last Revised 12/16/2024
+"Advisor"
+means a financial advisor, home office or financial institution, broker-dealer, registered investment advisor, third-party administrator, trust company or family office customer
+				of eMoney that is authorized to use the Service according to these Terms of Use.
+"Consumer"
+means a customer of Advisor who is authorized by written agreement with Advisor to use the Service solely for personal, family or household purposes.
+"User"
+means any individual who is authorized to use the Service according to these Terms of Use, including an individual Advisor (to the extent Advisor is a natural person),
+				employees and other personnel of an Advisor, a Consumer, an Alliance Partner (as defined below), or an authorized third-party service provider or vendor to Advisor.
+These eMoney Terms of Use (this
+"Agreement"
+or
+"Terms of Use"
+) are made by and between eMoney Advisor, LLC, a Delaware limited liability
+				company (
+"eMoney"
+), and User. This Agreement sets forth the terms and conditions of User's access to and use of eMoney's Wealth Management
+				System including eMoney’s mobile application (the
+"Service"
+).
+THIS AGREEMENT CONTAINS PROVISIONS THAT REQUIRE ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES BETWEEN USER AND eMONEY, RATHER THAN JURY TRIALS OR CLASS ACTIONS. PLEASE REVIEW THE ARBITRATION,
+				CLASS WAIVER, JURY TRIAL WAIVER, AND GOVERNING LAW SECTION FOR FURTHER INFORMATION ABOUT THESE REQUIREMENTS. PLEASE READ THIS AGREEMENT CAREFULLY TO ENSURE THAT YOU UNDERSTAND EACH PROVISION.
+By clicking "I Accept", User agrees to all of the terms and conditions of this Agreement. Where User is an employee or representative of an Advisor entity, User’s agreement shall be equally binding upon,
+				and enforceable against, User and Advisor entity.
+USER ACKNOWLEDGEMENT
+eMoney provides the Service as a service provider to Advisors. By accepting these Terms of Use and/or using the Service, Advisor acknowledges and agrees that these Terms supplement any other written 
+				agreement or terms between Advisor and eMoney, which shall control in the event of a conflict with these Terms of Use. All other types of Users acknowledge and agree that these Terms of Use represent
+				the entire agreement between the User and eMoney regarding the Service.
+eMoney has no responsibility for the financial advisory relationship between any Advisor and Consumer. At all times, the relationship between any Advisor and Consumer shall remain subject to the 
+				written terms and conditions between Advisor and Consumer pursuant to their wealth planning agreement (the
+"Advisor Agreement"
+). By accepting these Terms of Use and/or using the Service, Consumer 
+				represents and warrants to eMoney that: (A) Consumer has received and agrees with the Advisor Agreement; and (B) the Advisor Agreement is a valid binding agreement between Consumer and Advisor. 
+				eMoney shall have no liability to any User for the Service, except as expressly set forth herein. All Users acknowledge that, as the Service changes, Users may be required to agree to additional 
+				terms and conditions as a condition to continued use of the Service. User further acknowledges that eMoney may change the terms and conditions applicable to use of the Service at any time, and if 
+				required by law, eMoney will obtain User's agreement to such changed terms and conditions. The Service is at all times subject to the Terms of Use then in effect; should User refuse to accept an 
+				updated version of these Terms of Use, eMoney may terminate User's access to and use of the Service.
+User agrees that its purchases hereunder are neither contingent on the delivery of any future functionality of features nor dependent on any oral or written public or private comments made by eMoney 
+				regarding future functionality or features.
+I. The eMoney Consumer Portal
+a. During the term of and subject to the terms and conditions of this Agreement, Consumer may access and use those aspects of the Service, including eMoney’s mobile application, intended for access and use by Consumers (the
+"Portal"
+). 
+					Consumer shall not (1) access or use any aspect of the Service other than the Portal; (2) access or use the Service for any purposes
+					other than personal or household use; or (3) access or use the Service in any unlawful manner or in violation of this Agreement. Advisor acknowledges and agrees that Advisor may provide Consumer 
+					access and use of the Portal solely for personal, family or household purposes.
+b. Consumer understands, acknowledges and agrees that:
+Consumer's access to and use of the Portal is at all times subject to authorization from the Advisor and eMoney. The Advisor or eMoney may at any time, in the Advisor's or eMoney’s sole and absolute 
+				   discretion, without notice, for any reason or no reason, terminate Consumer's authorization to use the Portal, and eMoney shall comply with such direction from Advisor.
+The Portal is not a replacement for account statements provided by custodians of Consumer's financial accounts. It is important to compare the information on the Portal with the statements 
+				   Consumer receives from the custodian(s) for the Consumer's account(s).
+eMoney retains the right to establish practices and/or limits in connection with the Service, including but not limited to establishing maximum storage space allotted to Consumer's information 
+				   and files stored on eMoney's servers and the number of Portals authorized by Advisor.
+The Portal is provided solely as a convenience to Consumer.
+The Portal is provided solely for personal, family or household purposes and is not to be used for commercial financial planning.
+Neither eMoney nor the Portal provides any advice regarding insurance or securities, legal or regulatory advice, any other financial planning or other financial advice.
+As between Consumer and eMoney, Consumer is solely responsible for all financial decisions and financial planning made by Consumer, whether made in connection with use of the Service or otherwise.
+eMoney is not a broker-dealer. To the extent Advisor is a broker-dealer, Consumer access to brokerage accounts may be made available through an Advisor’s website. Any transactions Consumer initiates in 
+				   such brokerage accounts are processed through the broker-dealer where the Consumer's account is custodied, not eMoney.
+eMoney is not responsible for and shall not be held liable for any advice given or recommendations made by the Advisor with respect to any financial, insurance, planning or other matter, regardless 
+				   of whether Consumer relied on such advice or the Service.
+II. Account Aggregation
+a. The Service provides an account aggregation function (referred to as
+"Connections"
+) that allows Consumer to view, in a single location on the Portal, consolidated financial information from accounts 
+					that Consumer maintains at various financial institutions as identified by Consumer from time to time (
+"Outside Accounts"
+).
+b. To use the account aggregation function, Consumer understands and agrees that:
+Consumer is responsible for identifying the Outside Accounts that Consumer desires to aggregate and configuring the Connections accordingly.
+For each available Outside Account that Consumer desires to aggregate on the Portal, Consumer authorizes eMoney and Consumer’s Advisor to receive 
+				   Outside Account information from Consumer's financial institution. Consumer understands and acknowledges that by aggregating an Outside Account through Connections,
+				   those who otherwise have access to Consumer’s information will also be able to view the aggregated Outside Account information.
+The aggregation function is not available for all types of accounts and/or for all financial institutions. As such, eMoney's only obligation is to make available to Consumer 
+				   the ability to aggregate such types of accounts at such financial institutions as may then be available on the Service in eMoney's sole discretion and/or ability.
+As a result of changes by third-party financial institutions, an Outside Account that was previously available to view in the Service may cease to be available, temporarily or permanently. 
+				   eMoney has no control over third-party financial institutions or Consumer’s Outside Accounts, and has no obligation to restore the availability of any Outside Account.
+eMoney will access the data transmission method maintained by each third-party financial institution for each Outside Account designated for aggregation, in order to retrieve and store 
+				   the account information obtained from the Outside Account.
+By submitting information, data, passwords, usernames, PINs, other log-in information and content to eMoney through the Service, Consumer grants eMoney express authority, with respect to 
+				   each Outside Account designated for aggregation, to (1) use Consumer's login credentials for such Outside Account in order to access the account information within such Outside Account; (2) collect, 
+				   retrieve, access, use, store, convert, perform any operation on, transfer, alter, format, compile, display, delete and/or distribute (
+"Process"
+) account information within the Outside 
+				   Account; (3) provide Consumer’s login credentials and account information to eMoney’s third-party aggregation vendors in order to provide the Service; and/or (4) store the Outside Account information
+				   so retrieved and Processed in accordance with this Agreement and eMoney's Privacy Policy, display such information to Consumer and the Advisor via the Service and/or Portal and  (5) require Consumer to 
+				   re-authenticate to gain or maintain access to authorized Outside Accounts.
+By using the Service, Consumer hereby expressly consents to each financial institution holding an Outside Account, to make Consumer's data contained in the Outside Account available to eMoney for use in the Connections
+CONSUMER ACKNOWLEDGES AND AGREES THAT EMONEY IS NOT AN AGENT OF, NOR ACTING ON BEHALF OF ANY THIRD PARTY (INCLUDING THE FINANCIAL INSTITUTION ASSOCIATED WITH AN OUTSIDE ACCOUNT) MERELY BY VIRTUE OF PROVIDING THE CONNECTIONS SERVICE.
+eMoney is not responsible for any acts, errors or omissions by the financial institutions at which Consumer maintains an Outside Account, or for the accuracy of the information provided by such institutions.
+Consumer acknowledges that (1) Consumer can remove an Outside Account at any time by deleting the Outside Account through the Portal and (2) upon Consumer deleting an Outside Account, eMoney will stop aggregating Consumer Data for such Outside Account.
+Consumer acknowledges that the Advisor, with Consumer’s consent and as agreed by Advisor, may group Consumer(s) with other Consumer(s). For example, an Advisor may group multiple Consumers that reside within the same household into one group. Once Consumers are 
+				   grouped together, all Consumers in the grouping, the Advisor and any Alliance Partner as described below, may have access to view all information available to Consumer through the Service. This viewable information may include, but is not limited to Consumer's name, 
+				   address, account numbers, all accounts viewable in the Service, including account information for accounts provided by Advisor or by Consumer through the Account Aggregation Service and all files in Consumer's Vault. By using the Service, Consumer consents to such features.
+The Portal is not a replacement for account statements provided by custodians of Consumer's financial accounts. eMoney is not the custodian of record for such financial accounts. Consumer should not rely on the Service and the Portal as a replacement or substitute for such financial statements.
+eMoney, acting upon instruction from Advisor or otherwise, may terminate the Connections or Consumer's access thereto at any time without notice to Consumer.
+For each Outside Account designated for aggregation, Consumer represents and warrants to eMoney that (1) Consumer is the legal owner of, or has the legal right to access the account; (2) Consumer has the right to disclose the login credentials for such Outside Account; 
+				   and (3) Consumer has the right to grant eMoney the foregoing authorization.
+III. Third Party Data
+Certain features of the Service may make available market data relating to securities, market, reference, price, description and index/benchmark (collectively,
+"Third-Party Data"
+). Third-Party Data is more fully described below.
+Third-Party Data is provided by third-party licensor(s) of eMoney to enhance raw Consumer data. Third-Party Data shall not be distributed or redistributed in any manner by the User or the User's agents, service providers or vendors. To the extent eMoney makes
+				   available Third-Party Data to the User or the User's service providers, agents or vendors, the receipt and use of Third-Party Data by the User and the User's third-party service providers is subject to certain terms and conditions required by third-party licensors
+				   of eMoney (the
+"Third-Party Terms"
+). Third-Party Terms, include but are not limited to, prohibitions on the following: reselling of Third-Party Data, externalizing Third-Party Data outside of the Services without prior written permission, 
+				   exporting Third-Party Data across international borders, and utilizing Third-Party Data obtained from the Services in lieu of obtaining a direct license for the Third-Party Data. The User shall be liable and responsible to eMoney for any actions or omissions,
+				   including any unauthorized or inadvertent receipt, use or misuse of Third-Party Data by the User or the User's third-party service providers in violation of the Third-Party Terms, the terms herein or any other obligations that are made to eMoney by the User.
+Third-Party Data shall only be used in connection with providing services to each individual client with respect to such client's holdings. Advisor shall not use Third-Party Data associated with a Consumer to provide services to any other person or entity. 
+				   The User shall not commingle the holdings of a particular client with the holdings of another client for the purpose of circumventing the obligations as otherwise set forth in the Third-Party Terms, these Terms of Use or any other obligations that are made to eMoney by the User,
+				   and shall ensure that Advisor’s and User's service providers, agents or vendors do not commingle the Third-Party Data relating to the holdings of one customer with the holdings of another customer (except to the extent such commingling is the result of householding of various
+				   accounts or such commingling is provided in a summary or report showing the holdings of such household accounts).
+Except as expressly provided herein, Users shall not distribute, redistribute, export to, download for, provide access to or otherwise transfer Third-Party Data to any party including but not limited to third-party service providers, vendors or agents.
+Use or disclosure of any Third-Party Data in any manner inconsistent with Third-Party Terms, the terms herein or any other obligations imposed upon User by eMoney may result in immediate and irreparable harm to eMoney and/or the third-party licensors of eMoney and any remedies
+				   at law in such event may not be adequate. Accordingly, in addition to all other remedies available at law or in equity, eMoney shall have the right to seek equitable and injunctive relief, without the necessity of proving actual damages and without posting a bond, to prevent such
+				   unauthorized, negligent or inadvertent use or disclosure, and to recover the amount of all such damages (including attorneys' fees and expenses) incurred in connection with such use or disclosure. eMoney is not waiving or purporting to waive any rights that the third-party licensors
+				   of eMoney may have to pursue any and all claims against the User, the Consumer or the User's third-party service providers, agents or vendors in connection with the unauthorized use or disclosure of Third-Party Data.
+IV. The Vault
+a.	The Service currently provides a feature known as the Vault which allows a User to store and retrieve electronic files on the Portal. To add a file to the Vault, (a) Consumer may upload the file to a private Vault folder to which the Consumer may have access, (b) a User may upload
+				the files to a shared folder to which the Advisor has granted Consumer access, or (c) a User may provide a copy of the file to the Advisor if that document is to be added to a folder contained in the Vault other than the Consumer's private or shared folders to which the Consumer may have access. 
+				The Advisor is responsible for uploading the file to the Vault and organizing Consumers' files in the Vault into separate electronic "folders." User understands and agrees that Consumer will have "view only" access to materials in the Vault that the Advisor has added and that any addition, deletion, 
+				modification or organization of Consumer's such files in the Vault must be processed through the Advisor.
+b. User understands and agrees that:
+For each file stored in the Vault, User represents and warrants to eMoney that User lawfully possesses such file and has the authority to upload or have the file uploaded, stored and made retrievable to and from the Vault.
+The Vault offers privacy settings for each folder within the Vault, which are set by the Advisor. With the exception of the “My Private Documents Folder”, whose contents are not viewable by Advisor, Advisor is solely responsible for selecting the appropriate privacy setting for each file 
+				   it submits to the Vault. Consumer is responsible for reviewing the privacy settings for each folder and determining whether to upload documents to the “My Private Documents Folder” or another folder, depending on their privacy preferences for a document. 
+				   eMoney is not responsible for, and specifically disclaims any responsibility or liability for, the privacy setting of any file or folder in the Vault.
+User is solely responsible for the use and content of any file that User uploads into or accesses from the Vault, including files provided by third parties (including, without limitation, User's broker-dealer, User's broker-dealer's service providers and User’s custodian).
+				   eMoney and such third parties do not assume any liability with respect to the content of such files when viewed in the Vault or for any other content provided on this site. User agrees not to use the Vault to store any file or information that is unlawful, offensive, indecent or otherwise 
+				   actionable by any third party.
+eMoney disclaims any ownership rights to or liability for the files (or the contents thereof) uploaded to the Vault by User.
+eMoney is not responsible for any use or dissemination of Users' files by any third parties authorized to access or view such files.
+The Vault is provided to Consumer as a convenience and may be discontinued by eMoney at any time.
+User should not rely on the Vault as User's primary storage system for files; User should always retain a copy of User files outside of the Vault. User is responsible for retaining originals or copies of the files User chooses to store in the Vault as eMoney does not guarantee 
+				   the contents of the Vault will be available to the User or that the Vault will always be offered as a service.
+V. Alliance Partners
+a. In addition to the user roles of Advisor and Consumer, the Service also provides a user role that allows Consumer’s other service providers, such as Consumer's banker, accountant or attorney (known as
+"Alliance Partners"
+), to access and view information stored by the Service in relation to Consumer. For example, the Alliance Partner role allows Consumer to direct the Advisor to permit Consumer's family lawyer access to Consumer's information in the Service to assist with estate planning and other needs.
+b. Consumer understands and agrees that:
+Consumer must request access to the Service for an Alliance Partner through the Advisor. Advisor may in its sole and absolute discretion grant or deny any request of Consumer to add any Alliance Partner.
+Unless and until the Advisor revokes the access privileges of an Alliance Partner, Consumer hereby consents to eMoney allowing such Alliance Partner to access and view any and all of Consumer's information stored in the Service. Should Consumer wish to revoke the access privileges of any Alliance Partner, Consumer shall promptly notify Advisor in writing accordingly, and Advisor shall have a reasonable time, which in no event shall be less than ten (10) business days, to act thereon.
+eMoney shall not be liable for any act or omission by an Alliance Partner.
+The Alliance Partner function is provided to Consumer as a convenience and may be terminated by eMoney and/or Advisor at any time.
+VI. Dispute Resolution
+a.
+Arbitration:
+READ THIS SECTION CAREFULLY BECAUSE IT REQUIRES USER AND eMONEY TO ARBITRATE THEIR DISPUTES. Both eMoney and User agree to resolve by binding arbitration any claim, dispute or controversy (whether based in contract, tort, statute or any other legal theory) 
+				arising out of or in connection with or relating to (1) the Services, or (2) this Agreement, including without limitation, the validity, interpretation, enforcement or application of this Agreement and/or this Section (collectively,
+"Claims"
+). Both User and eMoney further 
+				agree that the arbitrator shall also have the exclusive authority to determine all threshold arbitrability issues, including without limitation issues relating to any defense to arbitration, including waiver, delay, laches, estoppel or unconscionability.
+b.	A party who intends to seek arbitration must first send a written notice of the Claim to the other party by certified mail or Federal Express, or in the event that we do not have a physical address on file for User, by electronic mail (
+"Notice"
+).  
+				eMoney and User agree to use good faith efforts to resolve the Claim, but if the parties do not resolve the Claim within 30 days of receipt of the notice, then either party may commence arbitration. eMoney’s address for notice is:
+Attn: Legal Department
+eMoney Advisor, LLC
+4 Radnor Corporate Center, Suite 220
+100 Matsonford Road
+Radnor, PA 19087
+c.
+Arbitration Procedure:
+Any arbitration between User and eMoney will be governed by the American Arbitration Association’s ("
+AAA
+") Commercial Arbitration Rules with respect to Claims between an Advisor and eMoney and the Consumer Arbitration Rules 
+				with respect to Claims between a Consumer and eMoney (collectively, "
+AAA Rules
+"), as modified by this Agreement, and will be administered by the AAA. The AAA Rules and filing forms are available online at www.adr.org, by calling the AAA at 1-800-778-7879, or by 
+				contacting eMoney via the address located in the “Notice” section above. Unless User and eMoney otherwise agree, the arbitration will be conducted in Delaware County, Pennsylvania. If User is using the Service for commercial purposes, payment of all arbitration fees will be determined 
+				in accordance with the AAA Commercial Arbitration Rules.
+d.
+Exceptions:
+Notwithstanding anything else in this Agreement to the contrary, eMoney and User both agree that nothing herein will be deemed to waive, preclude or otherwise limit any party’s right to: (i) bring an individual action in small claims court; (ii) pursue enforcement
+				actions through applicable federal, state or local agencies where such actions are available; (iii) seek injunctive relief in a court of law, provided that is the sole form of relief sought; or (iv) file suit in a court of law to address intellectual property infringement claims. User and eMoney 
+				agree that the state and federal courts with jurisdiction over Delaware County, Pennsylvania shall have exclusive jurisdiction over any claim, dispute or controversy brought pursuant to this section. Both parties irrevocably consent to the personal jurisdiction and venue of these courts.
+e.
+No Class Actions:
+USER AND eMONEY AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN AN INDIVIDUAL CAPACITY AND NOT IN ANY REPRESENTATIVE CAPACITY, INCLUDING A CLASS ACTION, COLLECTIVE ACTION, PRIVATE ATTORNEY GENERAL ACTION OR ANY OTHER REPRESENTATIVE PROCEEDING. Further,
+				unless both User and eMoney agree otherwise, the arbitrator may not consolidate more than one person's claims, and may not otherwise preside over any form of a representative or class proceeding. The AAA’s Mass Arbitration Supplementary Rules shall apply to claims between the parties that meet the 
+				thresholds for applicability of those Rules. The arbitrator may award declaratory or injunctive relief only in favor of the claimant and only to the extent necessary to provide relief warranted by the claimant's individual claim. Any determination about the validity, interpretation, enforcement and/or
+				application of this No Class Action section is delegated to the arbitrator. This provision shall not be construed as a waiver of your right to seek public injunctive relief as provided under California law to the extent such right is otherwise available to you.
+f.
+Jury Trial Waiver:
+USER AGREES THAT, BY ENTERING INTO THIS AGREEMENT, USER AND EMONEY ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY FOR ANY CLAIMS TO THE FULLEST EXTENT PERMITTED BY LAW, WHETHER CLAIMS ARE BROUGHT IN ARBITRATION OR IN COURT.
+g.
+Governing Law:
+Notwithstanding any choice of law or other provision in the Terms, the parties agree and acknowledge that this Agreement evidences a transaction involving interstate commerce and that the Federal Arbitration Act, 9 U.S.C. § 1 et seq. ("
+FAA
+"), 
+				will govern its interpretation and enforcement and proceedings pursuant thereto. If the FAA and AAA Rules are found to not apply to any issue that arises under this Agreement or the enforcement thereof, then that issue shall be resolved under the laws of the Commonwealth of Pennsylvania, 
+				without respect to its conflict of laws principles.
+h.
+Severability:
+If any clause or provision set forth in this Dispute Resolution section is determined to be illegal, invalid or unenforceable under present or future law, then the clause or provision so determined to be illegal, invalid or unenforceable shall be severable without affecting the enforceability of all remaining clauses or provisions.
+VII. General Terms and Conditions
+a.
+Limited Right to Use the Service:
+In exchange for your agreement to these Terms and payment of any applicable fees, eMoney grants you a limited, non-exclusive, personal, non-transferable, revocable right to access and use the functionality of our Service. These rights are temporarily granted to you and are not being sold to you. You have no rights in our Service other than to use the Service in accordance with these Terms and the terms of any applicable agreement executed between
+				Advisor and eMoney.
+b.
+Eligibility to Use the Service:
+By agreeing to these Terms of Use, User represents and warrants that: (1) User is not located in a country or region that is targeted for comprehensive trade sanctions by the US Government, and will not distribute, redistribute or otherwise transfer Third-Party Data to such a region; (2) User will not access or use the Service or Third-Party Data from such a country or region; (3) neither User nor any entities owned or controlled by User are designated 
+				on the US Treasury’s Specially Designated Nationals or Blocked Persons List or otherwise a person who is barred from doing business with US persons or from receiving exports of goods or services from the United States; and (4) User shall not distribute, redistribute or otherwise transfer Third-Party Data to any person or entity designated on the US Treasury’s Specially Designated Nationals or Blocked Persons List or who is barred from doing business with US persons or from receiving exports of goods or services from the United States.
+c.
+Compliance with the Law:
+User shall comply with applicable law at all times when using the Service. User represents and warrants that they have obtained all necessary authorizations and consents required by law, if any, to upload any data to the Service.
+d.
+Privacy:
+Use of the Service is subject to the terms of the eMoney Advisor, LLC privacy policy (the
+"Privacy Policy"
+) available through the Service or
+https://emoneyadvisor.com/privacy-policy
+and incorporated herein by reference.
+e.
+User Accounts:
+In order to access the Services, each User must create an account (your
+"Account"
+). Information provided through an Account must be truthful. Usernames may not be offensive, deceptive or violate any other party’s rights. 
+				User shall be solely responsible for safeguarding the login credentials for their Account.
+				User must immediately notify the Advisor and eMoney’s client support team if User’s login credentials or Account are compromised. eMoney has no liability for any loss, claim or other damages that result from a User’s login credentials.
+User is responsible for obtaining User’s own hardware, software and services (such as computers, web browsers and Internet access service) necessary to access and use the Service and for payment of all fees involved in obtaining such hardware, software and Internet service.
+f.
+Intellectual Property Ownership:
+eMoney owns or licenses all rights, title and interest in the Service, as well as all text, content, graphics, interfaces, code and materials, the look and feel, selection and arrangement, design and organization of our Service, and the compilation of the content, code, data and materials on the Service, including all intellectual property and proprietary rights. The content of our Service is protected under United States and other copyright and trademark laws and is the property of eMoney.
+				You may not modify, publish, transmit, participate in the transfer or sale, create derivative works or in any way exploit any of the content of our Service, in whole or in part. No copying, redistribution, retransmission, publication or commercial exploitation of material found on the Service is permitted without the express permission of eMoney or the copyright owner.
+All words and symbols designated by ® or ™ and used on or in connection with the contents of our Service (collectively the
+"Marks"
+) are trademarks or registered trademarks of, and are proprietary to, eMoney or other owners that have granted eMoney the right and license to use such Marks. For clarity, there may be instances where trademark symbols are omitted for creative reasons, which does not impact the validity or enforceability of these Marks. You may not display or reproduce the Marks other than with the prior written consent of eMoney, 
+				and you may not remove or otherwise modify any trademark notices from any content.
+Any copying, distributing, transmitting, posting, linking, deep linking or otherwise modifying the Service without our express written permission is prohibited. Any violation of this section may result in copyright, trademark, service mark or other intellectual property right infringement that may subject you to civil and/or criminal penalties. eMoney reserves the right to terminate your use of the Service if you infringe our or any other person’s intellectual property rights.
+g.
+Monitoring:
+Any unlawful, harassing or other inappropriate behavior may result in the suspension or termination of User's subscription at eMoney's sole discretion. User acknowledges and agrees that eMoney does not monitor or police communications or data transmitted through the Service and that eMoney shall not be responsible for the content of any such communications or transmissions.
+h.
+No Resale or Lease or Excessive Use:
+User shall not rent, lease, sell, resell, offer on a time-share or service bureau basis or otherwise provide access to the Service or to any part thereof. Advisor may only provide access to the Portal to Users who have a direct, financial-planning relationship with Advisor or Advisor’s firm.   eMoney reserves the right to restrict or limit Advisor’s access to the Services in the event that eMoney determines, in its sole discretion, that Advisor and its Users are accessing the Services from an excessive 
+				number of Portals, providing access to Portals to Users who do not have a professional relationship with Advisor, or Advisor is otherwise in violation of this Section. eMoney will take reasonable efforts to notify Advisor in advance, unless immediate access restriction is necessary to protect the integrity, security, or performance of the Services. During the period of access restriction, the Advisor shall have the opportunity to address the concerns raised by eMoney and bring its usage of the Services within acceptable parameters. Upon satisfactory resolution 
+				of the access restriction concerns, as determined by eMoney in its sole discretion, the access restrictions will be promptly removed. All fees shall remain due and payable during any period of access restriction enacted pursuant to this Section.
+i.
+Suspension or Termination of Service:
+This Agreement will continue to apply until terminated by the User, Advisor, or eMoney in accordance with this Agreement and/or the prevailing agreement in place between the Advisor and eMoney. Consumer may terminate use of the Service at any time by contacting the Advisor. Once Consumer has terminated use of the Service, Consumer will have no further access to the Service and files retained in the Vault will no longer be available. Advisor or Advisor’s personnel is responsible for honoring all Consumer requests to delete Consumer’s data in a timely manner. In addition, if for any reason, a Consumer ceases to be a client of Advisor, Advisor shall promptly remove Consumer from the Service and delete Consumer’s data.
+eMoney may modify or discontinue offering the Service, in whole or in part, at any time, with or without notice, for any reason or no reason. Without limiting the foregoing, if User is reasonably suspected to be in breach of these Terms of Use, eMoney may at any time, in its sole and absolute discretion, without notice or liability, suspend a User’s access to the Service. eMoney, in its sole discretion, reserves the right to suspend or terminate any User's access to, or right to use, the Third-Party Data.
+Upon termination or suspension of such access or use or upon the termination of the User's relationship, the User shall cease and shall cause all of User's third-party service providers, agents, Alliance Partners, and vendors to cease all use of and delete or purge any and all of the Third-Party Data. eMoney will not be liable to User for any modification or discontinuance of any third-party service provider or vendor products or services, whether as a result of eMoney's suspension or termination of the Third-Party Data, User's relationship with eMoney or for any other reason.
+j.
+Service Non-Transferrable:
+Consumer agrees that the Service is non-transferable and any rights to the Service and access to the Portal and the information or contents within the Portal, may terminate upon Consumer's death. Should Consumer’s successor in interest wish to transfer the Service and access to the Portal following Consumer’s death, such transfer of access may be made only following the prior, written approval of eMoney, which may be withheld or granted in eMoney’s sole discretion. Should an Advisor or their successor in interest wish to transfer the Service and access to the Portal, such transfer of access may be made only following prior, written approval of eMoney, which shall be decided in eMoney’s sole discretion. As to all other Users, the Service and access to the Portal is non-transferrable.
+k.
+Third-Party Content:
+The Service may provide links to websites and include embedded videos or that are not operated or hosted by eMoney, and are provided for Users' convenience. These links, features and videos may be removed at any time. User acknowledges and agrees that eMoney is not responsible or liable for any content, advertising, products or other materials on or available from third-party websites or embedded videos. User is responsible for familiarizing themself with the content of such third-party websites and/or embedded videos, including the applicable privacy policies related thereto. For more information on eMoney's privacy policies, please see the
+https://emoneyadvisor.com/privacy-policy
+.
+l.
+Disclaimer of Warranties:
+THE SERVICE IS FURNISHED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED REPRESENTATIONS OR WARRANTIES INCLUDING, WITHOUT LIMITATION, MERCHANTABILITY; FITNESS FOR A PARTICULAR PURPOSE; NON-INFRINGEMENT; AVAILABILITY OF ALL OR ANY PART OF THE SERVICE; AND FREEDOM FROM ERRORS, VIRUSES, BUGS OR OTHER HARMFUL COMPONENTS.
+				eMONEY IS NOT RESPONSIBLE FOR ANY ACT OR OMISSION OF ANY ADVISOR, USER, ALLIANCE PARTNER OR ANY OTHER THIRD PARTY.
+NONE OF eMONEY, AND ITS AFFILIATES, PARTNERS, SUPPLIERS, OFFICERS, DIRECTORS, EMPLOYEES, SUCCESSORS AND ASSIGNS, THIRD-PARTY DATA PROVIDERS, LICENSORS AND THEIR PARTNERS NOR SUPPLIERS AND THEIR RESPECTIVE AFFILIATES (COLLECTIVELY,
+"eMONEY SUPPLIERS"
+) ARE MAKING ANY REPRESENTATION OR WARRANTY, EXPRESSED OR IMPLIED, AS TO THE ACCURACY OR COMPLETENESS OF ANY THIRD-PARTY DATA OR WITH RESPECT TO THE USER OR THE USER'S THIRD-PARTY SERVICE PROVIDERS, AGENTS OR VENDORS RECEIPT OR USE OF THE THIRD-PARTY DATA. THE USER OR THE USER’S THIRD-PARTY SERVICE PROVIDERS’, AGENTS’ OR VENDORS’ USE OF THIRD-PARTY DATA IS AT THE USER'S SOLE RISK. THIRD-PARTY DATA IS PROVIDED BY eMONEY, ITS AFFILIATES AND eMONEY SUPPLIERS ON AN "AS IS" AND "AS AVAILABLE" BASIS. eMONEY, ITS AFFILIATES AND eMONEY SUPPLIERS EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, 
+				WHETHER EXPRESS OR IMPLIED, AS TO THE THIRD-PARTY DATA INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. eMONEY, ITS AFFILIATES AND eMONEY SUPPLIERS MAKE NO WARRANTY OR COMMITMENT TO THE USER THAT: (1) THE THIRD-PARTY DATA WILL MEET THE USER’S OR THE USER'S THIRD-PARTY SERVICE PROVIDERS’, AGENTS’ OR VENDORS’ REQUIREMENTS; (2) THE TRANSMISSION OR RECEIPT OF THIRD-PARTY DATA WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE; (3) THE THIRD-PARTY DATA THAT IS OBTAINED BY THE USER OR THE USER'S THIRD-PARTY SERVICE PROVIDERS, AGENTS OR VENDORS WILL BE ACCURATE, COMPLETE OR RELIABLE; OR (4) ANY ERRORS IN THE THIRD-PARTY DATA WILL BE CORRECTED. eMONEY, ITS AFFILIATES AND eMONEY SUPPLIERS SHALL NOT HAVE ANY LIABILITY (INCLUDING, LIABILITY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL,
+				INCIDENTAL, PUNITIVE, EXEMPLARY OR SPECIAL DAMAGES, LOSS RESULTING FROM BUSINESS DISRUPTION, LOST PROFITS OR TRADING ERRORS) TO THE USER OR THE USER'S THIRD-PARTY SERVICE PROVIDERS, CLIENTS, CONSUMERS, AGENTS OR VENDORS AS A RESULT OF THE USER OR THE USER'S THIRD-PARTY SERVICE PROVIDERS’, AGENTS’, CLIENTS’, CONSUMERS’ OR VENDORS’ USE, OR INABILITY TO USE, OR ANY ERRORS IN, ANY THIRD-PARTY DATA OR ANY OTHER MATTER PERTAINING HEREIN.
+m.
+Limitation of Liability:
+eMONEY SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES EVEN IF ADVISED OF THE POSSIBILITY OF THE SAME. eMONEY'S LIABILITY TO CONSUMER, WHETHER IN TORT, CONTRACT OR OTHERWISE, FOR ALL CAUSES SHALL NOT EXCEED IN THE AGGREGATE FIVE HUNDRED DOLLARS ($500).
+n.
+Indemnity:
+The User will defend, indemnify and hold harmless eMoney, and its affiliates, licensors and third-party licensors, service providers, and their partners, suppliers, officers, directors, employees and successors and assigns thereof (
+"Indemnified Parties"
+) from and against all claims, demands, proceedings, suits and actions and all liabilities, losses, expenses and costs (including any reasonable legal fees and expenses relating to eMoney's or eMoney Supplier’s defense) (
+"Damages"
+) arising from third-party claims which allege: (1) failure by the User or the User's third-party service providers, clients, agents or vendors to comply with any obligations owed by the User to eMoney under these Terms of Use; (2) unauthorized access or use of the Service, User’s username and/or password for the Service;
+				    (3) unauthorized access or use of the Third-Party Data by the User or the User's third-party service providers, clients, Consumers, agents or vendors; or (4) any negligent or willful acts, errors or omissions by the User or the User's third-party service providers, clients, agents or vendors in the performance of the User's obligations, provided, however, that the User shall not be obligated to indemnify any Indemnified Party in the event that, and solely to the extent that, the Damages result from the gross negligence or willful misconduct of eMoney. In the event eMoney requests indemnification pursuant to this Section, it shall give notice to the User promptly after the receipt of any claim that may be indemnifiable hereunder. The User shall have sole control of the defense with respect to any such claim (including settlement of such claim), 
+					except that eMoney may participate in such defense at its own expense, and that no settlement that imposes liability on or detrimentally affects the rights of eMoney or its licensors, and third-party service providers, and their partners, suppliers, officers, directors, employees and successors and assigns shall be entered into by the User without eMoney's prior written consent. If the User fails to either defend or settle any such claim, eMoney may defend the claim, and keep the User informed of the progress, or settle the claim for a commercially reasonable result.
+o.
+Severability:
+If any clause or provision set forth in this Agreement is determined to be illegal, invalid or unenforceable under present or future law, then the clause or provision so determined to be illegal, invalid or unenforceable shall be severable without affecting the enforceability of all remaining clauses or provisions.
+p.
+Headings:
+The headings used in these Terms of Use are for convenience only and such headings are not to be used in determining the meaning or interpretation of these Terms of Use.
+q.
+Modification:
+This Agreement may not be modified or amended without the prior written consent of eMoney. eMoney may modify this Agreement from time to time with or without prior notice. Any and all changes to this Agreement may be provided to Users by electronic means. In addition, the Agreement will always indicate the date it was last revised.
+© 2026 eMoney Advisor, LLC.
+|
+Software Version: 10.3.1052.12355
+Terms of Use
+·
+Security
+·
+Privacy Notice
+·
+Disclaimer
+Information housed on this site is for informational use only and is accurate only to the extent the user has added complete information regarding financial accounts and additional information.  Reports, charts and analyses generated within the Life360 tool are not intended to provide financial, legal, investment or tax advice and are subject to the disclaimer at the link above.  Prior to making any financial decision, you should assess, or seek advice from a professional regarding, whether any particular transaction is relevant or appropriate to your individual circumstances.
+The contents provided on this site are for informational purposes only.  Actual returns and principal values will vary.
+Fifth Third does not provide tax or legal advice.  Investing involves risk, including the possible loss of principal invested.  Diversification and asset allocation do not guarantee better performance and cannot eliminate the risk of investment loss.
+Fifth Third Bank and its various subsidiaries offer banking, investment and insurance products and services.  Fifth Third Securities is the trade name used by Fifth Third Securities, Inc., member of
+FINRA
+/
+SIPC
+, a wholly-owned subsidiary of Fifth Third Bank, registered broker-dealer and registered investment advisor with the U.S. Securities and Exchange Commission (
+SEC
+). The Retirement Corporation of America, Inc. is also a wholly-owned subsidiary and registered investment advisor with the U.S. Securities and Exchange Commission (
+SEC
+).   Registration does not imply a certain level of skill or training.
+Investments, investment services, and insurance:
+Are Not FDIC Insured - Offer No Bank Guarantee - May Lose Value - Are Not Insured By Any Federal Government Agency - Are Not A Deposit.
+Switch Client
+Start Presenting

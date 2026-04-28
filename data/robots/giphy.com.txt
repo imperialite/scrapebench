@@ -1,0 +1,4 @@
+User-agent: Yandex
+Disallow: /gifs
+User-agent: PetalBot
+Disallow: /

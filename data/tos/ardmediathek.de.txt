@@ -1,0 +1,61 @@
+Terms of Use
+ARD Mediathek and ARD Audiothek are joint offerings of the regional broadcasting corporations united in the ARD (operators).
+
+All content on the ARD Mediathek and ARD Audiothek is protected by copyright. The reproduction, modification, compilation, republication, distribution, or storage of information or data, in particular videos, texts, text excerpts, or images, requires the prior written consent of the producing public broadcasting corporation. The ARD Mediathek and ARD Audiothek may only be used for private, non-commercial purposes in compliance with applicable copyright law. In particular, the sale and use of audio and video for advertising purposes is prohibited.
+
+The use of the service (websites and apps) as well as the use of the player and/or other functions of ARD Mediathek and ARD Audiothek are subject to these terms of use.
+
+The General Terms of Use, in their currently valid version, apply during the period of use of the offer and/or the content and services by the users.
+
+Users will not make any changes or similar actions (e.g., adaptation, deletion, decompilation and any reverse engineering) to services, including the apps and websites provided by the operators of ARD Mediathek and ARD Audiothek, as well as the underlying systems, that impair or endanger the proper operation of ARD Mediathek and ARD Audiothek or the services and underlying systems.
+
+Registration and creation of user accounts
+Registration for ARD Mediathek and ARD Audiothek is done via your ARD account. The following terms of use apply.
+
+Use of personalized offers
+For various functions of the ARD Mediathek and ARD Audiothek (for example, watchlist, continue watching/listening, recommendations, or age verification), registration and login via an ARD account are required. Further information can be found at https://accounts.ard.de/ .
+
+Using the "Share" functions of the ARD player
+The "share" function of the ARD player allows users to share links to content from ARD Mediathek and ARD Audiothek, as well as tagesschau.de and sportschau.de, via social networks, messenger services or email.
+
+Embedding videos
+ARD Mediathek and ARD Audiothek, as well as tagesschau.de and sportschau.de, offer an embedding player for selected content. This embedding function allows the ARD player to be integrated into external websites outside of ARD, thus enabling the sharing of content from ARD Mediathek and ARD Audiothek, as well as tagesschau.de and sportschau.de, without requiring individual permission from the rights holders. The following terms of use apply to the use of this function:
+
+Users expressly acknowledge that the provided content is editorial content of ARD, provided not by the users themselves, but by the operators of ARD Mediathek and ARD Audiothek, as well as tagesschau.de and sportschau.de, and will take this into account when designing the embedding of the content in their online offerings.
+
+This means, in particular, that the use of the embedding function is limited to sharing ARD content for private and non-commercial purposes.
+
+Charging users for access to the embedded ARD player is prohibited. Any modifications to the ARD player are not permitted.
+
+Users also guarantee that the provided video or audio will be played and displayed without advertising. If users present advertising in the vicinity of the ARD Player on their own website, this advertising must be designed in such a way that no direct or indirect connection can be established between the multimedia content and the advertising messages. In particular, it is not permitted to interrupt the provided video or audio with advertising or to use other typical online advertising formats – such as pre-roll or post-roll ads, split screens, or overlays.
+
+Embedding the ARD Player in a context that violates legal regulations or accepted moral standards, particularly in a context that is defamatory, glorifies violence, is racist, libelous, pornographic or harmful to minors, is prohibited.
+
+Violations of these terms of use will result in the termination of the authorization to use the ARD Player to embed ARD content. The operators of ARD Mediathek and ARD Audiothek, as well as tagesschau.de and sportschau.de, reserve the right, particularly in the event of a violation of these terms of use, to prohibit or prevent the embedding of ARD content at their sole discretion. Regardless, embedded content can no longer be shared if it has been deleted from the online offerings of ARD Mediathek and ARD Audiothek, as well as tagesschau.de and sportschau.de, due to the expiration of its retention period according to the respective telemedia concept or for other reasons. No prior notice will be given.
+
+In rare exceptional cases where a linked or embedded post should contain impermissible content or statements, it cannot be ruled out that, under certain conditions, the users may also be liable.
+
+Please note that the use of the ARD Player's embedding function is at your own risk. Users are not entitled to any claims against the broadcasting corporations affiliated with the ARD network arising from the use of this function.
+
+Liability
+If you suspect that your login details have been stolen or your user account is being used without authorization, please inform us immediately via our contact form. You are liable for the unauthorized use of your user account by third parties until you have notified ARD Mediathek, ARD Audiothek, tagesschau.de, or sportschau.de of the unauthorized use
+
+Reporting violations of the terms of use
+To combat the distribution of illegal content and to penalize violations of the terms of use, the operators of ARD Mediathek and ARD Audiothek, as well as tagesschau.de and sportschau.de, rely on the cooperation of their users. Violations can be reported via our contact form.
+
+Malfunctions
+The operators of ARD Mediathek and ARD Audiothek, as well as tagesschau.de and sportschau.de, do not guarantee that websites, apps, and other applications, and their content, are free of irregularities, errors, or bugs, or that they will function without errors or interruptions. ARD Mediathek and ARD Audiothek, as well as tagesschau.de and sportschau.de, are free to determine, with regard to accessibility and functionality, the periods during which the websites and content will be unavailable for technical reasons, for the improvement of the services offered, or for the optimization of their use. The operators of ARD Mediathek and ARD Audiothek, as well as tagesschau.de and sportschau.de, cannot be held liable for malfunctions of the websites, the content, and the internet, or for interruptions of the service
+
+Data protection
+Data protection is of paramount importance to ARD. Therefore, we take the protection of your data very seriously. We want you to always feel secure when using our ARD Online services (ARD.de, ARD Mediathek, ARD Audiothek and ARD account (accounts.ard.de)) and to know exactly what data is stored and used. Information on the processing of personal data in ARD Mediathek and ARD Audiothek can be found at https://www.ard.de/datenschutz . Acceptance of the data protection declaration is part of the terms of use for ARD Mediathek and ARD Audiothek, as well as tagesschau.de and sportschau.de
+
+Data loss and virus infection
+The operators of ARD Mediathek and ARD Audiothek, as well as tagesschau.de and sportschau.de, cannot be held liable for damages resulting from the use of the websites, the content and the internet, such as data loss, unauthorized access to the computer system, virus infection or other unintentionally caused problems.
+
+Connection and communication costs
+The operators of ARD Mediathek and ARD Audiothek, as well as tagesschau.de and sportschau.de, do not assume the connection or communication costs incurred through accessing the websites, applications, and using their content
+
+Changes to the guidelines
+The operators of ARD Mediathek and ARD Audiothek, as well as tagesschau.de and sportschau.de, reserve the right to change the terms of use at any time
+
+June 10, 2023

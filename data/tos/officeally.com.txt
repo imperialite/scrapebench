@@ -1,0 +1,188 @@
+Service Center Data Sheet
+Solutions
+Solutions
+Solutions
+Products
+Pricing
+Resources
+About Us
+Contact
+Login
+Cloud-based software solutions for all your healthcare needs.
+Explore All Solutions
+
+Healthcare Claims & Payments
+
+All-Payer Portal
+EDI Clearinghouse Integration
+Insurance Eligibility
+Claims Management
+Payer Solutions
+
+EDI Operations
+Clean Claims
+Quality Metrics
+Provider Engagement
+Revenue Recovery
+
+Recover Revenue
+Denial Prevention
+Self-Pay Conversion
+Audit Management
+Value-Based Care
+
+Attribution Accuracy
+Quality Performance
+Care Continuity
+Data Exchange
+Practical Integration
+Practice Software
+
+Front Office Efficiency
+Scheduling and Access
+Revenue Cycle Management
+EHR and Documentation
+Service Center
+All-Payer Portal
+EDI Clearinghouse
+Enterprise Clearinghouse (API)
+Insurance Discovery
+Revenue Recovery
+Practice Mate
+Practice Software
+EHR 24/7
+Clinical Workflows
+Explore All Products
+
+Case Studies
+Support Suite
+Payer List
+Lab Interfaces
+Forms & Manuals
+Payer ERA Enrollment Instructions
+Payer Claims/Eligibility/ Claims Status Enrollment Instructions
+Remote Support
+Blog
+HIE Organizations
+Immunization Registries
+Contact Support
+Contact Sales
+Remote Support
+Service Center
+Log in
+Practice Mate
+Log in
+EHR 24/7
+Log in
+Service Center and Electronic Data Interchange Clearinghouse Data Sheet
+Revised: 01/01/2026
+This Data Sheet describes the Clearinghouse provided by Office Ally, Inc (“Office Ally”) to the user named on an Order (the “User”), including both the Service Center, a secure web portal, and Electronic Data Interchange (EDI) connections including but not limited to real-time SOAP and MIME and batch files through an SFTP connection. These services enable the transmission of both real-time and batch EDI transactions in accordance with the terms herein.
+1. DEFINITIONS
+Transactions:
+A Transaction consists of a request and the corresponding response. A “Successful Transaction” is any Transaction which is not a Failed Transaction. A “Failed Transaction” is defined as a request unanswered by the Receiver (time-out waiting for a response) or a message from the Receiver in response to the request indicating that the Receiver’s systems are down and cannot respond to the request at this time (i.e., request can be received but the mainframe needed to process the Transaction is not available).
+Eligibility & Benefits Inquiry Request:
+This Transaction allows a provider to submit an electronic request for verification of a patient's eligibility and selected benefit information (270) and receive a response (271) from the payer system verifying eligibility. This response also allows for benefit details if available.
+Claim Status Inquiry Request:
+This Transaction allows a provider to submit an electronic request for the status of a claim (276) and receive a claim status response (277).
+Claim Submission & Response:
+Claim Transactions are requests for payment, or submission of information relating to, services rendered (837P, 837I, 837D) and Claim submission response (999 and 277CA).
+Electronic Remittance Advice (ERA):
+The ERA (835) is used to indicate a payment of claims or transfer of remittance information from the payer to provider through a depository financial institution.
+Attachments:
+Print Image, or other mutually agreed upon format are supplemental documents providing additional patient medical information.
+Duplicate Transactions:
+If Submitter sends a duplicate transaction to Office Ally in a valid format, such duplicate shall be counted as a Transaction. Each billable Transaction will be billed by Office Ally, including duplicate Transactions.
+Submitter:
+Submitter means the party to the agreement that sends the Transactions to Office Ally, the Receiver.
+Receiver:
+Receiver means Office Ally who receives the Transactions from the Submitter.
+2. SERVICES
+Office Ally will exchange Transactions from Submitter and process through the payer identified by the payer ID in the Office Ally Payer List.
+3. OBLIGATIONS OF USER
+User agrees to send Transactions in a mutually agreed upon format for payers available through Office Ally’s Payer List.
+4. OBLIGATIONS OF OFFICE ALLY
+Office Ally agrees to use commercially reasonable efforts to send transactions to payers in the payers accepted format.
+5. FEES
+CLAIMS
+Claim transactions are considered to be Par or Non-Par based on the payer classification indicated in the NON-PAR column of the Office Ally Payer List. A blue check mark indicates the payer is Non-Par.
+Par Claims (Electronic):
+There is no cost for submitting Par claims.
+Non-Par Claims (Electronic):
+The Non-Par Claim processing fee is $44.95 and is calculated and charged per unique Tax ID + Rendering NPI combination if any Non-Par claims are submitted within the month.
+‍
+For Institutional claims, if no Rendering NPI is present the Attending NPI will be used instead.
+If neither a Rendering NPI nor an Attending NPI is present, the Billing NPI will be used for this calculation (applies to all claim types).
+Printed Claims:
+All claims that Office Ally can submit electronically are transmitted electronically, free of any “printing” fees.
+‍
+Any claims that Office Ally cannot send electronically can be printed and mailed automatically for a fee of $0.45 per claim.
+‍
+Claims that need to be printed and mailed to individuals (such as patients or attorneys), or to foreign countries are $0.55 per claim.
+“Paper Claim Submission” must be enabled for any claims to be printed and mailed. It is enabled by default but can be turned off when you first access your account, on the “Know our Service Center transactions” step, or you can request an update by completing the Print Option Update form available here:
+https://cms.officeally.com/formsmanuals
+ELIGIBILITY AND BENEFITS (270/271)
+Each Account will incur charges of ten dollars ($10.00) for 1-100 (one through one hundred) transactions and any additional transactions will be ($0.10) per transaction within a given month. Example if you process 101 transactions in a given month the cost will be $10.10.
+PASS THROUGH FEES
+Office Ally, as the Receiver, may pass through any third-party fees, without markup, associated with any Transactions to the Submitter. This includes UHIN Pass Through Fees.
+6. SYSTEM & SECURITY REQUIREMENTS
+Office Ally’s products and services are internet-based programs accessed through the Office Ally website. For optimal performance users should be in compliance with Office Ally's System Requirements and Recommendations available here:
+https://cms.officeally.com/formsmanuals
+These system requirements are subject to change.  User designates Office Ally to manage security controls using industry standards and HIPAA best practices to include but not limited to: unique user ids, password complexity, minimum password length, limiting password reuse, lock-out parameters, banner notification and password expiration notice.
+7. CHANGES
+Office Ally may, from time to time and in its sole discretion, make changes to this document or the terms and conditions set forth herein. When Office Ally makes material changes, prominent notice will be provided as appropriate under the circumstances, e.g., by displaying a prominent notice within the applicable Office Ally products or services and/or by sending User an email. Office Ally shall have the right to increase prices from time to time, upon notice to User not less than thirty (30) days prior to the effective date of such increase. Office Ally reserves the right, with notice, to move Companies or Accounts to Enterprise pricing due to any of the following: A change in or current scale of (i) volume of transactions submitted per month, (ii) number of Rendering NPIs submitting under a UserID, or (iii) size of monthly invoice.
+Office Ally may make changes to the Payer List at its sole discretion at any time. Office Ally will use commercially reasonable efforts to provide User with written notice of such change.
+8. TERMS AND CONDITIONS
+User’s agreement to the User Agreement for the products and services applicable to this Data Sheet signifies User’s agreement to the terms and conditions in this Data Sheet and its acknowledgment that products and services are provided under and is governed by such applicable Order and User Agreement.
+This document constitutes a Data Sheet as defined in the User Agreement. OFFICE ALLY MAKES NO WARRANTIES, EXPRESS OR IMPLIED, IN THIS DOCUMENT.
+Talk to Our Experts to Learn More
+Have questions about our products? Want a demo? Let us schedule a call to help you choose the best solution for your needs.
+Connect with Sales
+©2025 Office Ally
+®
+Privacy Policy
+|
+Terms & Notices
+Solutions
+Healthcare Claims & Payments
+Payer Solutions
+Revenue Recovery
+Value Based Care
+Practice Software
+Products
+Service Center
+Practice Mate
+EDI Clearinghouse
+Payer Gateway
+EHR 24/7
+Insurance Discovery
+Verify 360
+MUR
+MAPS
+Audit & Denial Tracker
+myesMD
+Pricing
+Resources
+Case Studies
+Payer List
+Lab Interfaces
+Forms & Manuals
+Payer ERA Enrollment Instructions
+Payer Claims/Eligibility/Claims Status Enrollment Instructions
+HIPAA
+HIE Organizations
+Immunization Registries
+Support
+Support Suite
+Contact Support
+Contact Sales
+Remote Support
+FAQs
+Company
+About Us
+Partnerships
+Careers
+Certifications
+Compliance Hotline
+Don’t Sell My Information
+Insights
+Blog

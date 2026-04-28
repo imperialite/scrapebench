@@ -1,0 +1,38 @@
+User-Agent: msnbot-rss
+Crawl-Delay: 600
+
+User-agent: *
+
+Disallow: /progress/
+Disallow: /connect/
+Disallow: /pages/
+Disallow: /summer-of-reading/
+Disallow: /mp/
+Disallow: /reading-cert/
+Disallow: /page/
+Disallow: /home-access-invite/
+Disallow: /home-access-invite
+Disallow: /getmobile
+Disallow: /4cxy4qnk
+Disallow: /options
+Disallow: /referral
+Disallow: /b8304
+Disallow: /build-info.json
+
+Allow: /referrals
+
+Sitemap: https://www.getepic.com/impaste.xml
+Sitemap: https://www.getepic.com/impaste_book_index.xml
+Sitemap: https://www.getepic.com/impaste_collection_index.xml
+Sitemap: https://www.getepic.com/impaste_video_index.xml
+Sitemap: https://www.getepic.com/impaste_audiobook_index.xml
+Sitemap: https://www.getepic.com/impaste_topic_index.xml
+Sitemap: https://www.getepic.com/impaste_misc_index.xml
+
+
+#updated 07/18/2025
+
+#Route 4cxy4qnk is a random string intended for an unsubscribe page 
+#related to the Cat Ninja updates via email. 
+#Contact Sally Espinoza or Lenny Heredia for details and concerns about this.
+#Used a random string so people can't just type /unsubscribe or /cat-ninja-unsub or something

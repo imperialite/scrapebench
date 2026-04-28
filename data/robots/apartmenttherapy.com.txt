@@ -1,0 +1,11 @@
+Sitemap: https://www.apartmenttherapy.com/sitemap.xml
+Sitemap: https://www.apartmenttherapy.com/sitemap.googlenews.xml
+Sitemap: https://www.apartmenttherapy.com/stories/sitemap.xml
+Sitemap: https://community.apartmenttherapy.com/sitemapindex.xml
+
+User-Agent: *
+
+Disallow: /search?
+
+User-agent: grapeshot
+Disallow:

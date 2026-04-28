@@ -1,0 +1,67 @@
+Reverso – Conditions of Use
+Definition of terms
+“Reverso” is a registered trademark of Reverso SAS and covers a range of translation and language products and services, available online and in the form of mobile applications. Reverso products can include interfaces, data and a set of “translation engines” or other language technologies such as voice synthesis, voice-to-text conversion, file format conversion.
+
+“Translation Engine” means a program in the form of a software or API that transforms a text written in one language into a text written in another language.
+
+"Publisher" means any legal entity holding rights to license, publish and distribute a software product.
+
+"Hosting" means a legal entity that makes specific content (text, images, sounds or videos) and/or services available to users on the Internet.
+
+"User" means any person who has access to the online service through the Internet.
+
+Article of these Conditions
+These Terms of Use define the terms and conditions of use of the online services offered by the hosting provider to users using software from the publisher.
+
+Ownership, Licensing and Use
+Reverso is the publisher, designer, author and owner of the pages, interface and functions related to Reverso software products and online services.
+
+The interface and all its components, methods and designs are the exclusive property of Reverso. Translation engines and other components are the property of Reverso and its partners. They are protected by international copyright laws, applicable in all countries that have signed international copyright agreements.
+
+The Reverso® brand belongs to Reverso SAS, 5 rue Soyer, 92200 Neuilly-sur-Seine, France, and is internationally protected.
+
+The User is authorised to use the online service only for his personal needs and not to give access or provide the service to other people. The online service is neither a transfer of ownership nor a license for software.
+
+Copyright of documents and processed texts
+Before submitting a document to the online services, the user must ensure that he is authorized to do so. He must be either the author of the document or have the written permission of the copyright owner. Neither the hosting provider nor the publisher would be responsible if this clause were not respected.
+
+The user acknowledges that the processed text belongs jointly to the author of the original document and the publisher. Therefore, the user is not allowed to publish, give access to other users or use commercially, the processed texts without a preliminary written agreement of the publisher or the hosting provider, which itself would have been granted with the same right by the publisher.
+
+In particular, the User is not allowed to publish on social networks or any other public communication channel, the result of a text processing in order to harm the image of Reverso.
+
+User commitments
+The User undertakes to use the online service in accordance with the international laws and its country in force, and according to all the clauses of these conditions.
+
+The User undertakes not to modify the interface of the service that is the property of the hosting provider, nor to integrate the service in its current version into another service, whether free or for profit.
+
+The User undertakes not to use the content of the online service without using its full user interface, to hide any logo or copyright, in order to provide the service to unauthorized users or to users who are not covered by a license.
+
+The User undertakes to ensure that the documents submitted to the service do not contain any software viruses or malware or do not exceed the size accepted by the service.
+
+The User undertakes to report any word processing that he would find erroneous or shocking via the contact form available on the Reverso website.
+
+Limited liability of the hosting provider and the publisher
+The online service is provided “as is”.
+
+The publisher and the hosting provider do not guarantee that the online service can meet the users' needs, nor that even the texts obtained by Reverso meet their requirements in terms of quality of processing, preservation of the layout, speed or other.
+
+The hosting provider’s responsibility for the accessibility of the service is limited to the interface between the Reverso software product and the user. The hosting provider shall not assume any responsibility in the event of network failure or for any other reason beyond its control. The hosting provider does not guarantee that the service is available to meet all user requests.
+
+The User is solely responsible for determining the quality, validity and legality of the texts obtained through the service, which he can use for personal purposes, and in accordance with Article 3 of this Terms. The publisher and the hosting provider cannot be held responsible for the misuse of the processed texts and their consequences, in particular, but not limited to, commercial losses, electronic losses or any other type of material or immaterial consequences.
+
+Online help, user comments and suggestions
+A short but sufficient online help regarding the features offered by the service is provided to users by the hosting provider. Neither the publisher nor the hosting provider is required to provide the user with technical support by any means (mail, email, telephone).
+
+If the hosting provider, in agreement with the publisher, allows the user to give his opinion on the service and/or the software product, the validation de facto by the user of the formula entails the transfer of his copyright on all his comments or suggestions. The User therefore waives the right to sue for commercial use of these comments/suggestions. Neither the hosting provider nor the publisher is required to take into account the comments made by the user or to respond specifically to his requests.
+
+Applicable Laws and Acceptance of these Terms
+By using the online service, the User accepts these conditions, without any restrictions.
+
+The provisions of these Terms and Conditions may be amended from time to time without notice. The hosting provider therefore invites the user to consult this page frequently.
+
+These conditions are governed by French law. In the event of a dispute concerning its interpretation and/or enforcement, only the French courts will have jurisdiction.
+
+The duration of this agreement is linked to the duration of use of the online services or their results.
+
+Privacy Policy
+The privacy policy is available on the Reverso website.

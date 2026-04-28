@@ -1,0 +1,301 @@
+Skip to content
+
+1.        ACCEPTANCE OF TERMS
+
+(a)      ExpertVoice, Inc. (“ExpertVoice”) provides access to and use of this website or online platform and related services, applications, websites, and platforms, including ExpertVoice.com, the ExpertVoice Brand Advocacy Platform, ExpertVoice’s mobile applications, and any advertisements, applications, or links that ExpertVoice makes available on third-party sites or platforms (collectively, the “Services”) subject to the terms and conditions in these Terms of Use (the “TOU”) and the ExpertVoice Privacy Policy (the “Privacy Policy”). ExpertVoice may, in its sole discretion, update the TOU and the Privacy Policy at any time. You can access and review the most-current version of the TOU at the URL for this page or by clicking on the “Terms of Use” link within the Services or as otherwise made available by ExpertVoice. You can access and review the most-current version of the Privacy Policy at //www.expertvoice.com/privacy-policy or by clicking on the “Privacy Policy” link within the Services or as otherwise made available by ExpertVoice.
+
+(b)     PLEASE REVIEW THE TOU CAREFULLY. IT IMPOSES MANDATORY INDIVIDUAL ARBITRATION AND A WAIVER OF CLASS ACTIONS AS SET FORTH IN SECTION 2 (THE “ARBITRATION AGREEMENT”), WHICH MEANS THAT, SUBJECT TO CERTAIN LIMITED EXCEPTIONS: (i) ANY CLAIM, DISPUTE OR CONTROVERSY ARISING FROM OR RELATING TO THE TOU OR YOUR ACCESS TO OR USE OF THE SERVICES, INCLUDING ANY RELATING TO THE FORMATION, BREACH, TERMINATION, ENFORCEMENT, INTERPRETATION, VALIDITY, SCOPE, OR APPLICABILITY OF THE TOU OR THE ARBITRATION AGREEMENT (EACH, A “CLAIM”) MUST BE RESOLVED THROUGH FINAL AND BINDING ARBITRATION ON AN INDIVIDUAL BASIS; AND (ii) YOU GIVE UP THE RIGHT TO TRIAL BY JURY AND PARTICIPATION AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS ACTION OR REPRESENTATIVE PROCEEDING, AND ALL OTHER TYPES OF COURT PROCEEDINGS OF ANY KIND WITH RESPECT TO ANY CLAIM. UNLESS YOU OPT OUT OF THE ARBITRATION AGREEMENT BY FOLLOWING THE OPT-OUT PROCEDURES DESCRIBED IN SECTION 2(e), YOU WILL BE BOUND BY THE ARBITRATION AGREEMENT. BY AGREEING TO THE TOU, YOU ACKNOWLEDGE THAT YOU UNDERSTAND AND EXPRESSLY AGREE TO THE ARBITRATION AGREEMENT AND HAVE TAKEN TIME TO CONSIDER THE CONSEQUENCES OF THIS IMPORTANT DECISION.
+
+(c)      BY CLICKING A BUTTON OR CHECKING A BOX MARKED “I AGREE,” “SIGN UP,” “JOIN” OR SOMETHING SIMILAR INDICATING THAT YOU AGREE TO BE BOUND BY THE TOU, REGISTERING FOR AN ACCOUNT WITHIN THE SERVICES, OR OTHERWISE ACCESSING OR USING THE SERVICES, YOU AGREE TO BE BOUND BY THE TOU, INCLUDING ANY UPDATES OR REVISIONS POSTED HERE OR OTHERWISE COMMUNICATED TO YOU. IF YOU ARE ENTERING INTO THE TOU ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT AND WARRANT THAT YOU ARE AUTHORIZED AND LAWFULLY ABLE TO BIND SUCH ENTITY TO THE TOU, IN WHICH CASE THE TERM “YOU” WILL REFER TO SUCH ENTITY. IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THE TERMS AND CONDITIONS OF THE TOU, YOU MAY NOT ACCESS OR USE THE SERVICES, AND YOU MUST UNINSTALL ANY COMPONENTS OF THE SERVICES FROM ANY DEVICE WITHIN YOUR CUSTODY OR CONTROL.
+
+(d)     You represent and warrant that you are: (i) at least 18 years of age or the age of majority in your jurisdiction, whichever is greater, and of legal age to form a binding contract; or (ii) at least 16 years of age and have obtained the consent of your parent or guardian to access and use the Services and be bound by the TOU. You further represent and warrant that you are not a person barred from accessing or using the Services under the laws of your country of residence or any other applicable jurisdiction.
+
+(e)      You acknowledge and agree that: (i) registering for an account, submitting a Product Post (defined in Section 17(a)), or otherwise accessing or using the Services does not make you an employee of ExpertVoice; and (ii) you will not be entitled to any compensation, reimbursement, or other remuneration from ExpertVoice for registering for an account, submitting a Product Post, or otherwise accessing or using the Services.
+
+2.         BINDING ARBITRATION AND WAIVER OF CLASS ACTIONS
+
+(a)      Mandatory Individual Arbitration. Any Claim, whether arising before, during, or after the time you enter into the TOU, and if not resolved through the informal dispute resolution procedure outlined below, will be exclusively resolved by individual, binding arbitration in accordance with the Arbitration Agreement. The arbitrator, and not any federal, state, or local court or agency, shall have exclusive authority to resolve any Claim, including any asserting that all or any part of the Arbitration Agreement is void or voidable. The arbitrator shall be responsible for determining all threshold arbitrability issues, including any relating to whether the TOU or Arbitration Agreement is unconscionable or illusory and any defense to arbitration, such as waiver, delay, laches, or estoppel.
+
+(b)     Class Action/Jury Waiver. You acknowledge and agree that you and ExpertVoice are each waiving the right to a trial by jury and participation as a plaintiff or class member in any purported class, collective, consolidated, or representative action or proceeding with respect to any Claim. Unless you and ExpertVoice agree otherwise in writing, any arbitration with respect to any Claim will be conducted only on an individual basis and not in a class, collective, consolidated, or representative action or proceeding. If any court or arbitrator of competent jurisdiction determines that this Class Action/Jury Waiver is void or unenforceable with respect to any Claim and the Claim proceeds as a class, collective, consolidated, or representative action or proceeding, then the entirety of the Arbitration Agreement will be deemed null and void with respect to such Claim, and you and ExpertVoice will be deemed not to have agreed to arbitrate such Claim.
+
+(c)      Rules and Procedures for Arbitration.
+
+(i)                           Initiating Claim. To initiate a Claim, a party shall send the other party written notice stating: (i) the party’s name, address, and contact information; (ii) the facts giving rise to the Claim; and (iii) the relief requested (“Claim Notice”). You shall send any Claim Notice to ExpertVoice in accordance with Section 35. ExpertVoice may send any Claim Notice to you at the mailing or email address for you set forth in your Registration Data (defined in Section 5(a)) or as otherwise provided by you to ExpertVoice.
+
+(ii)                        Informal Negotiation. As used herein, “Informal Negotiation Period” means, with respect to each Claim, the period between the date a party receives the applicable Claim Notice and 30 days after such date. You and ExpertVoice shall attempt to resolve the Claim through informal negotiation during the Informal Negotiation Period. After the conclusion of the Informal Negotiation Period and not before, you or ExpertVoice may commence an arbitration proceeding as set forth in the Arbitration Agreement.
+
+(iii)                     Arbitration Proceeding. You and ExpertVoice acknowledge and agree that any Claim that remains unresolved after the conclusion of the applicable Informal Negotiation Period will be resolved only through final and binding individual arbitration (rather than in court) conducted by the American Arbitration Association (“AAA”) under its then-applicable Commercial Arbitration Rules or, as appropriate, its Consumer Arbitration Rules and Mass Arbitration Supplementary Rules (collectively, the “AAA Rules”), except in each case to the extent modified by the Arbitration Agreement. Payment of all filing, administration, and arbitrator fees will be governed by the AAA Rules. The AAA Rules are available at https://www.adr.org/Rules. A form for initiating arbitration proceedings through AAA is available at www.adr.org. If AAA refuses to enforce the Arbitration Agreement or otherwise refuses to administer any Claim between you and ExpertVoice, you and ExpertVoice shall submit the Claim for arbitration by another nationally-recognized arbitration services provider under its then-applicable rules that are comparable to the AAA Rules. The arbitration will be conducted by a single independent and neutral arbitrator. For any hearing conducted in person as part of the arbitration, such hearing will be conducted in Salt Lake City, Utah, or, if the Consumer Arbitration Rules apply, another location as determined by the arbitrator to be reasonably convenient to both parties with due consideration of the positions of the parties; relative ability of the parties to travel; and factors such as the location of witnesses and documents, relative costs, and the location of any prior court proceedings, among other factors presented by the parties. The decision of the arbitrator on all matters relating to the Claim will be final and binding. Judgment on the arbitral award may be entered in any court of competent jurisdiction. The parties acknowledge and agree that the Arbitration Agreement evidences a transaction involving interstate commerce and that the Federal Arbitration Act, 9 U.S.C. § 1 et seq., will govern the interpretation and enforcement of the Arbitration Agreement.
+
+(iv)                     Protocol for Mass Filings. As used herein, “Mass Filing” means 25 or more similar arbitration demands presented pursuant to the Arbitration Agreement where representation of all claimants is consistent or coordinated across the cases, including by or with the assistance, coordination, or cooperation of the same law firm or group of law firms, regardless of whether such demands are filed simultaneously. For the avoidance of doubt, you and ExpertVoice acknowledge and agree that the AAA Mass Arbitration Supplementary Rules will apply to any Mass Filing, except to the extent modified by the Arbitration Agreement. AAA shall randomly select a first batch of 25 arbitration demands from the Mass Filing for arbitration (“Bellwether Arbitrations”). While the Bellwether Arbitrations are adjudicated, all other arbitration demands that are part of the Mass Filing will be held in abeyance and stayed. Upon the conclusion of all Bellwether Arbitrations, AAA shall randomly select another batch of 25 arbitration demands from the Mass Filing for arbitration. While this second batch of arbitration demands is adjudicated, all other arbitration demands that are part of the Mass Filing will be held in abeyance and stayed. Upon the conclusion of all arbitrations from the second batch, AAA shall randomly select another batch of 25 arbitration demands from the Mass Filing for arbitration and repeat the protocol set forth in this Section 2(c)(iv) until all arbitration demands from the Mass Filing have been adjudicated. Any statute of limitations applicable to any arbitration demand that is held in abeyance and stayed in accordance with this Section 2(c)(iv) will be tolled for such arbitration demand while it is so held in abeyance and stayed.
+
+(d)     Changes to Arbitration Agreement. If ExpertVoice changes the terms of the Arbitration Agreement after the date you first accepted the TOU (or accepted any subsequent update to the TOU), you may reject any such change to the terms of the Arbitration Agreement by providing ExpertVoice with written notice of rejection within 30 days after the date the changes to the Arbitration Agreement became effective (“Rejection Notice”). To be effective, the Rejection Notice must: (i) include your full name, address, and signature; (ii) clearly indicate your intent to reject changes to the Arbitration Agreement; and (iii) be sent to ExpertVoice in accordance with Section 35. If you reject changes to the Arbitration Agreement, you shall nevertheless be bound to the version of the Arbitration Agreement that was last accepted by you.
+
+(e)      Opt-out Procedure. You can choose to opt out of the Arbitration Agreement by sending ExpertVoice a written opt-out notice (“Opt-Out Notice”) within thirty 30 days following the date you first agree to the TOU. To be effective, the Opt-Out Notice must: (i) include your name, address, and signature; (ii) clearly indicate your intent to opt out of the Arbitration Agreement; and (iii) be sent to ExpertVoice in accordance with Section 35. If you opt out of the Arbitration Agreement, you shall nevertheless be bound by all other parts of the TOU. Opting out of the Arbitration Agreement has no effect on any previous, other, or future arbitration agreements that you may have with ExpertVoice.
+
+(f)        Survival of Arbitration Agreement. The Arbitration Agreement will survive the expiration or termination of this TOU and your relationship with ExpertVoice.
+
+3.         FORUM FOR DISPUTES
+
+(a)      Small Claims Court. Notwithstanding anything to the contrary, including the Arbitration Agreement, you and ExpertVoice may assert a Claim in small claims court instead of in arbitration as required by the Arbitration Agreement, but only if: (i) the Claim qualifies for adjudication by the small claims court under the rules for the court; and (ii) the Claim remains in small claims court and advances only on an individual basis and not as part of any class, collective, consolidated, or representative action or proceeding.
+
+(b)     Injunctive and Other Equitable Relief. Notwithstanding anything to the contrary, including the Arbitration Agreement, you and ExpertVoice each retains the right to seek injunctive relief and other equitable remedies from any court of competent jurisdiction to prevent the actual or threatened infringement, misappropriation, or violation of confidential information, copyrights, trademarks, trade secrets, patents, or other intellectual property rights, whether in aid of, pending, or independently of the resolution of any Claim pursuant to the Arbitration Agreement.
+
+(c)      Court Action. Subject to Sections 3(a) and 3(b), if for any reason a Claim proceeds in court rather than in arbitration pursuant to the Arbitration Agreement, you and ExpertVoice each waives any right to a jury trial and agrees that the Claim will be brought only in the United States District Court for the District of Utah (if federal jurisdiction applies) or a state court of competent jurisdiction in Salt Lake County, Utah (if federal jurisdiction does not apply). You hereby submit to the personal jurisdiction and venue of such courts and waive any objection on the grounds of venue, forum non-conveniens, or any similar grounds with respect to any such Claim.
+
+4.         OTHER AGREEMENTS AND TERMS
+
+(a)      The Privacy Policy explains how ExpertVoice collects, stores, shares, or otherwise uses any personally identifiable information you provide to ExpertVoice (“Personal Data”). ExpertVoice’s use of Personal Data will be in accordance with the Privacy Policy, and you hereby grant us the right to use your Personal Data consistent with the Privacy Policy.
+
+(b)     In addition to the TOU and the Privacy Policy, your access to and use of the Services are further subject to any usage or other policies relating to the Services posted or otherwise made available to you by ExpertVoice, including any purchase, subscription, or other similar terms posted within the Services (the Privacy Policy and any such usage or other policies, collectively, “Additional Terms”). The Additional Terms are part of the TOU and are hereby incorporated by reference, and you agree to be bound by the Additional Terms.
+
+(c)      You acknowledge and agree that technical processing and transmission of data, including Your Content (defined in Section 14(a)), associated with the Services may require transmissions over various networks and changes to conform and adapt to technical requirements of connecting networks or devices.
+
+5.         REGISTRATION AND ACCOUNT
+
+(a)      You may browse and access some parts of the Services without registering, but some features may not be accessible unless you register. In registering for the Services, you agree to: (i) provide true, accurate, current, and complete information about yourself as prompted by the Services during registration (the “Registration Data”); and (ii) maintain and promptly update the Registration Data to keep it true, accurate, current, and complete. If you provide any information that is untrue, inaccurate, not current, or incomplete, or ExpertVoice reasonably suspects that you have done so, ExpertVoice may suspend or terminate your account.
+
+(b)     You may not share your account or password with anyone. You are responsible for maintaining the confidentiality of your account and password. You are fully responsible for all activities that occur under your account, whether you authorized the particular use or not, and regardless of your knowledge of such use. You acknowledge and agree that failure to exit from your account at the end of each session may result in unauthorized use of your account for which ExpertVoice will have no liability. Upon becoming aware of any unauthorized access to or use of your account or password or any other similar breach of security, you shall promptly notify ExpertVoice.
+
+6.         TEXT MESSAGING AND OTHER CONTACT
+
+(a)      You expressly consent and agree that ExpertVoice, or a third party service provider on ExpertVoice’s behalf, can contact you using written, electronic, or verbal means, including by email, telephone (including prerecorded calls, voice messages, or by using an automatic telephone dialing system) to call or text the mobile number(s) you provided to ExpertVoice: (i) as necessary to complete transactions requested by you and as the law allows (such as order updates); (ii) to provide the Services or service your account (such as service updates and alerts); or (iii) to enforce the TOU, our policies, applicable law, or any other agreement ExpertVoice may have with you. ExpertVoice will determine your time zone based on the area code of the mobile number you provide to ExpertVoice. If your mobile number is registered on any state or federal Do Not Call list, you agree that your consent to receive text messages from ExpertVoice supersedes your prior decision to be placed on the Do Not Call list. You agree to provide ExpertVoice with a valid mobile number. If you get a new mobile number, you will need to sign up for the program with your new number.
+
+(b)     ExpertVoice also offers you the chance to enroll to receive recurring promotional text messages from ExpertVoice, which may include account-related news and alerts, tips, reminders, and marketing and promotional offers for ExpertVoice products and services and those of our brand clients or service providers. By enrolling in any ExpertVoice promotional text messaging service, you agree to receive promotional texts from ExpertVoice at the mobile number(s) you provided in the amount and frequency set forth in the confirmation text ExpertVoice sends you. You certify that the mobile number you provided is true and accurate and that you are authorized to enroll that number to receive such texts. You acknowledge and agree that ExpertVoice may send texts using an automatic telephone dialing system and that standard message and data rates may apply. Consent to receive promotional texts is not required as a condition of use of the Services. ExpertVoice is not responsible for any delays with respect to sending or receiving text messages.
+
+(c)      To unsubscribe from text messages at any time, text STOP to 801-435-2891 or reply STOP to any text message you receive from ExpertVoice. You consent that following such a request to unsubscribe, you may receive one final text message from ExpertVoice confirming your request. For help, text HELP to 801-435-2891 or contact ExpertVoice at support@expertvoice.com.
+
+(d)     ExpertVoice may change any short code or telephone number ExpertVoice uses at any time. You acknowledge that any messages, including any STOP or HELP requests, you send to a short code or telephone number ExpertVoice has changed may not be received, and ExpertVoice will not be responsible for honoring requests made in such messages.
+
+(e)      Carriers are not liable for delayed or undelivered messages. Message and data rates may apply.
+
+7.         MERCHANDISE AND PRODUCT DISCOUNTS
+
+(a)      By viewing merchandise and/or product training videos through the Services, you may be offered the opportunity to earn discounts. Discounts provided through the Services have no cash value.  Any discount provided:
+
+Is for personal use only, unless otherwise stated, and in all cases the items purchased using such discounts should be billed and shipped to you;
+May not be used to purchase merchandise for resale;
+May not be applied to a previous purchase;
+May not be used in combination with other discounts, coupons, and/or offers;
+Is subject to change (including by the manufacturer or ExpertVoice) at any time; and
+May be revocable (including by the manufacturer or ExpertVoice) at any time.
+
+(b)     Discounts are issued by merchandise and/or product manufacturers, and such manufacturers may specify an expiration date for any discount provided to you. Such discounts are void after the expiration date, and any alteration of discount coupons will also void the discount.  Price and availability of products for which discounts are offered are subject to change without notice.
+
+8.         PURCHASES
+
+(a)      Certain of ExpertVoice’s brand clients may allow you to purchase products through the Services. Product availability and pricing may change at any time, without prior notice to you. You may only purchase products through the Services in accordance with the order guidelines established by ExpertVoice and its brand clients.
+
+(b)     You agree that you will not circumvent and will not attempt to circumvent any rules or guidelines established by ExpertVoice or its brand clients with respect to the purchase of products, such as by creating multiple user profiles to avoid purchasing limits or providing false or misleading information when prompted by the Services.
+
+(c)      You are solely responsible for confirming that you meet all applicable laws and regulations for the purchase of any product and ensuring that your receipt and use of any product complies with all such laws and regulations in all material respects. Without limiting the generality of the foregoing sentence, you shall comply with all applicable export and re-export laws and regulations. You shall not encourage, assist, or authorize the transfer of any products to a prohibited country in violation of any law or regulation.
+
+(d)     ExpertVoice’s order confirmation to you does not signify ExpertVoice’s acceptance of your order, nor does it constitute confirmation of ExpertVoice’s offer to sell. At any time after receipt of an order, ExpertVoice may accept, decline, or place quantity restrictions or other limits on your order for any reason at ExpertVoice’s or its brand client’s discretion. If ExpertVoice charges you for an order that has been canceled, ExpertVoice will refund you the full amount of the canceled portion of such order.
+
+(e)      While ExpertVoice strives to make all information within the Services as accurate as possible, ExpertVoice does not warrant that product descriptions or any other information appearing within the Services is accurate, complete, or error-free.
+
+(f)        Promotions are subject to change, and ExpertVoice cannot confirm the availability or price of an item until you place your order.
+
+9.         TERMS AND CONDITIONS OF SALE
+
+(a)      If you purchase any item through the Services, additional terms and conditions may apply with respect to such purchase. The terms and conditions of sale will be posted and made accessible to you as part of the purchase process. By completing the purchase, you agree to be bound by such terms and conditions of sale.
+
+(b)     If you purchase any item through the Services from a third party, additional terms and conditions from the third party may apply with respect to such purchase. You are solely responsible for reviewing the terms and conditions of sale from such third party. By completing the purchase, you agree to be bound by the applicable terms and conditions of sale from such third party.
+
+10.   FEES AND TAXES
+
+(a)      You are solely responsible for any data, usage, and other charges assessed by mobile, cable, internet, or other communications services providers for your access to and use of the Services. Some features of the Services are free to use, but fees may apply for subscriptions, premium features, and other components. If there is a fee listed for any portion of the Services, by accessing or using that portion, you agree to pay the fee.
+
+(b)     All amounts payable hereunder by you (if any) are exclusive of any value-added, sales, use, excise, or other similar taxes (collectively, “Taxes”). You are solely responsible for paying all applicable Taxes, except for any Taxes based upon ExpertVoice’s net income. If ExpertVoice has the legal obligation to collect any Taxes, you shall reimburse ExpertVoice upon invoice by ExpertVoice. Taxes, if applicable, are calculated based on the information you provide and the applicable rate at the time of the purchase.
+
+11.   GRANT OF RIGHTS
+
+(a)      ExpertVoice grants you a limited, non-exclusive, non-transferable, non-sublicensable, revocable right to: (i) access and view pages within the Services; (ii) access and use any online software, application, and other similar component within the Services, to the extent that the Services provide you with access to or use of such component, but only in the form made accessible by ExpertVoice within the Services; and (iii) install, run, and operate mobile applications that ExpertVoice makes available for accessing or using the Services (each a, “Mobile App”) on a mobile device that you own or control, but only in executable, machine-readable, object code form.
+
+(b)     All rights granted to you under the TOU are subject to your compliance with the TOU, including all Additional Terms, in all material respects.
+
+12.   MOBILE APPS
+
+(a)      If any Mobile App is downloaded by you from the Apple Inc. (“Apple”) App Store (each, an “Apple-Based Mobile App”), the right set forth in Section 11(a)(iii) with respect to such Apple-Based Mobile App is further subject to your compliance in all material respects with the terms and conditions of the Usage Rules set forth in the Apple App Store Terms of Service.
+
+(b)     With respect to any Apple-Based Mobile App, you and ExpertVoice acknowledge and agree that the TOU is concluded between you and ExpertVoice only, and not with Apple, and Apple is not responsible for Apple-Based Mobile Apps and the contents thereof. Apple has no obligation whatsoever to furnish any maintenance and support services with respect to Apple-Based Mobile Apps. ExpertVoice, not Apple, is responsible for addressing any claims from you or any third party relating to Apple-Based Mobile Apps or your possession and/or use of Apple-Based Mobile Apps, including product liability claims, any claim that Apple-Based Mobile Apps fail to conform to any applicable legal or regulatory requirement, and claims arising under consumer protection or similar legislation. Apple and Apple’s subsidiaries are third-party beneficiaries of the TOU with respect to Apple-Based Mobile Apps, and Apple shall have the right (and will be deemed to have accepted the right) to enforce the TOU against you as a third-party beneficiary hereof with respect to Apple-Based Mobile Apps. Subject to Section 25, ExpertVoice, not Apple, shall be solely responsible for the investigation, defense, settlement, and discharge of any intellectual property infringement claim attributable to Apple-Based Mobile Apps.
+
+(c)      If any Mobile App is downloaded by you from an app store other than the Apple App Store, the right set forth in Section 11(a)(iii) with respect to such Mobile App is further subject to your compliance in all material respects with the terms and conditions instituted by the operator of such app store.
+
+13.   THIRD-PARTY COMPONENTS
+
+Some components of the Services may be provided with or incorporate third-party components licensed under open source license agreements or other third-party license terms (collectively, “Third-Party Components”). Third-Party Components are subject to separate terms and conditions set forth in the respective license agreements relating to such components. For more information about Third-Party Components, see //www.expertvoice.com/expertvoice-open-source-notice/.
+
+14.   RESPONSIBILITY FOR CONTENT
+
+(a)      All information, data, data records, databases, text, software, music, sounds, photographs, images, graphics, videos, messages, scripts, tags, and other materials accessible through the Services, whether publicly posted or privately transmitted (“Content”), are the sole responsibility of the person from whom such Content originated. This means that you, and not ExpertVoice, are entirely responsible for all Content that you upload, post, email, transmit, or otherwise make available through the Services (“Your Content”), and other users of the Services, and not ExpertVoice, are similarly responsible for all Content they upload, post, email, transmit or otherwise make available through the Services (“User Content”).
+
+(b)     ExpertVoice has no obligation to pre-screen Content, although ExpertVoice reserves the right in its sole discretion to pre-screen, refuse, or remove any Content. Without limiting the generality of the foregoing sentence, ExpertVoice shall have the right to remove any Content that violates the TOU.
+
+(c)      You represent and warrant that: (i) you have obtained all necessary rights and authority to grant the rights set forth in the TOU with respect to Your Content, including any consents and releases needed from any third parties who appear in Your Content or whose content is used in Your Content; (ii) use of Your Content as contemplated herein does not violate any applicable laws or regulations; and (iii) Your Content does not violate any duty of confidentiality owed to another party, or the copyright, trademark, right of privacy, right of publicity, or any other right of another party.
+
+15.   RIGHTS TO CONTENT
+
+(a)      ExpertVoice does not claim ownership of Your Content. However, you hereby grant ExpertVoice and its service providers an irrevocable, worldwide, royalty-free, fully paid-up, non-exclusive, sublicensable (through multiple tiers), transferable right and license to use, reproduce, modify, adapt, create derivative works from, publicly perform, publicly display, distribute, make, and have made Your Content (in any form and any medium, whether now known or later developed) in connection with providing access to and use of the Services. For the avoidance of doubt, you acknowledge and agree that ExpertVoice may use Your Content without compensation to you in connection with selling, licensing, displaying, or syndicating advertisements, including advertisements relating to products or services referenced in Your Content. To the extent any of your rights in Your Content are protected as moral rights, droit moral, or other similar rights, you hereby irrevocably and unconditionally waive all enforcement of such rights against ExpertVoice and its affiliates and each of their assigns, successors in interest, and licensees.
+
+(b)     To the extent you have made any portion of Your Content accessible to others through the Services, ExpertVoice may continue to make that portion of Your Content accessible to others through the Services even after: (i) termination pursuant to Section 28; or (ii) you have deleted your account or that portion of Your Content from your account
+
+(c)      As between ExpertVoice and you, ExpertVoice owns all rights, title, and interest (including all intellectual property rights) in the Services and all improvements, enhancements, or modifications thereto, including all Content and other materials therein (except with respect to Your Content). The Services are protected by United States and international copyright, patent, trademark, trade secret, and other intellectual property laws and treaties. ExpertVoice reserves all rights not expressly granted to you.
+
+16.    SYNDICATION AND BRAND
+
+For the avoidance of doubt, the rights you grant to ExpertVoice under Section 15 include the right for ExpertVoice to sublicense Your Content for: (a) distribution through third-party product review syndicators; or (b) use by brand clients in connection with the marketing, promotion, distribution, and sale of their products. ExpertVoice may exercise such right without compensation to you, and ExpertVoice shall be entitled to retain any and all revenue generated from the exercise of such rights. Nothing in the TOU obligates or may be deemed to obligate ExpertVoice to sell, license, or offer to sell or license any advertising, promotion, or distribution rights on your behalf.
+
+17.    REVIEWS, TESTIMONIALS, AND ENDORSEMENTS
+
+(a)      If you post any review, testimonial, or endorsement of any product or service within the Services, or if you post any review, testimonial, or endorsement anywhere about any product or service you obtain through the Services (each, a ”Product Post”), you must comply with all laws and regulations applicable to the Product Post, including: (i) the Federal Trade Commission (FTC) Guides Concerning the Use of Endorsements and Testimonials in Advertising (see, generally, http://www.ftc.gov/news-events/media-resources/truth-advertising/advertisement-endorsements); and (ii) 16 CFR Part 255: Guides Concerning the Use of Endorsements and Testimonials in Advertising. For further information, you can consult the sites linked above as well as the Disclosures 101 Social Media Influencers guide published by the FTC. You are solely responsible for reviewing, understanding, and complying with all laws and regulations, including any promulgated by the FTC, that are applicable to your Product Posts.
+
+(b)     Without limiting the generality of Section 17(a), you shall comply with the following as applicable to your Product Post:
+
+If you have any material connection with a brand referenced in your Product Post, disclose the material connection you have with the brand as part of your Product Post;
+If you received a product or service for free from the brand or you received any other thing of value from the brand in connection with the Product Post, you must disclose that fact as part of your Product Post; and
+If you are required to make a disclosure as described above, make the disclosure clear, unambiguous, and conspicuous directly within the Product Post using simple and clear language, such that the disclosure is hard to miss and easy to understand.
+
+(c)      When making any Product Post, you must give your honest opinion about the product or service at issue based upon your actual experience using the product or service and ensure that what you say in the Product Post is true, accurate, and not misleading.
+
+18.    USER CONDUCT
+
+In connection with your access to or use of the Services, you shall not (subject to the limited rights expressly granted to you in Section 11):
+
+(a)      upload, post, email, transmit, or otherwise make available any Content that: (i) is illegal, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or otherwise objectionable; (ii) any applicable law or contractual or fiduciary obligation prohibits you from making available (such as confidential or proprietary information learned as part of an employment relationship or under a non-disclosure agreement); (iii) infringes any copyright, patent, trademark, trade secret, or other proprietary right of any party; (iv) consists of unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, commercial electronic messages, or any other form of solicitation; (v) contains software viruses, malware, or any other code, files or programs designed to interrupt, destroy, limit the functionality of, make unauthorized modifications to, or perform any unauthorized actions through any software or hardware; or (vi) consists of information that you know or have reason to believe is false or inaccurate;
+
+(b)     use, reproduce, modify, adapt, create derivative works from, publicly perform, publicly display, distribute, make, have made, assign, pledge, transfer, or otherwise grant rights to the Services (except for Your Content);
+
+(c)      reverse engineer, disassemble, decompile, or translate, or otherwise attempt to derive the source code, architectural framework, or data records of any software within or associated with, the Services;
+
+(d)     remove or obscure any proprietary notice that appears within the Services;
+
+(e)      access or use the Services for the purpose of developing, marketing, selling, or distributing any product or service that competes with or includes features substantially similar to the Services or any other products or services offered by ExpertVoice;
+
+(f)        rent, lease, lend, sell, or sublicense the Services or otherwise provide access to the Services as part of a service bureau or similar fee-for-service purpose;
+
+(g)      impersonate any person or entity, including ExpertVoice personnel, or falsely state or otherwise misrepresent your affiliation with any person or entity;
+
+(h)     forge headers or otherwise manipulate identifiers to disguise the origin of any Content transmitted through the Services;
+
+(i)         act in any manner that negatively affects the ability of other users to access or use the Services;
+
+(j)         take any action that imposes an unreasonable or disproportionately heavy load on the Services or its infrastructure;
+
+(k)      interfere with or disrupt the Services or servers or networks connected to the Services, or disobey any requirements, procedures, policies, or regulations of networks connected to the Services;
+
+(l)        frame or utilize any framing technique to enclose the Services or any portion of the Services (including Content);
+
+(m)  use spiders, crawlers, robots, scrapers, automated tools, or any other similar means to access the Services, or substantially download, reproduce, or archive any portion of the Services;
+
+(n)     sell, share, transfer, trade, loan, or exploit for any commercial purpose any portion of the Services, including your user account or password;
+
+(o)     violate any applicable local, state, provincial, federal, international, or other law or regulation;
+
+(p)     bypass any security measures ExpertVoice may use to prevent or restrict access to the Services; or
+
+(q)     collect or harvest any personal information, including account names, from the Services.
+
+19.    COMMON COURTESY AND ETIQUETTE
+
+Do not post any personal or identifying information about another person, including addresses, email addresses, contact information, or phone numbers, and use care in posting your personal or identifying information.
+Maintain courtesy and follow good posting etiquette. Posting with ALL CAPS, HTML tags, or excessive typographic symbols may result in your post being removed.
+Do not engage in disruptive, antisocial, or destructive acts, including “flaming,” “flooding,” “spamming,” “griefing,” and “trolling,” as those terms are commonly understood.
+20.    PUBLIC FORUMS
+
+(a)      Any Content you post to a public forum within the Services will be made accessible to other users of the Services, and such Content may remain accessible to other users even after you terminate your account or cease accessing or using the Services. Do not post any personal or confidential information in any public forum.
+
+(b)     Public forums within the Services are not appropriate for reporting customer service issues. Any posts complaining about an individual customer service issue are subject to removal.
+
+21.   SUGGESTIONS
+
+If you elect to provide or make available to ExpertVoice any suggestions, comments, ideas, improvements, or other feedback relating to the Services (“Suggestions”), you hereby grant ExpertVoice an irrevocable, worldwide, royalty-free, fully paid-up, non-exclusive, sublicensable (through multiple tiers), transferable right and license to use, reproduce, modify, adapt, create derivative works from, publicly perform, publicly display, distribute, make, and have made Suggestions in any form and any medium (whether now known or later developed), without credit or compensation to you.
+
+22.   EXTERNAL MATERIALS AND THIRD-PARTY SERVICES
+
+The Services or users of the Services may provide links or other connections to other websites or resources. ExpertVoice does not endorse and is not responsible for any content, advertising, products, services, or other materials on or available through such sites or resources (“External Materials”). External Materials are subject to different terms of use and privacy policies. You are responsible for reviewing and complying with such terms of use and privacy policies.
+
+23.   DEALINGS WITH ADVERTISERS AND OTHER THIRD PARTIES
+
+Your dealings with advertisers and other third parties (including other users or businesses within the Services) who market, sell, buy, or offer to sell or buy any goods or services within or through the Services (collectively, “Third-Party Participants”), including payment for and delivery of such goods or services and any other terms, conditions, warranties, or representations associated with such dealings, are solely between you and the applicable Third-Party Participant.
+
+24.   MODIFICATIONS TO THE SERVICES
+
+(a) ExpertVoice reserves the right to modify, suspend, or discontinue the Services or any product or service to which it connects, with or without notice, in its sole discretion, and ExpertVoice shall not be liable to you or to any third party for any such modification, suspension, or discontinuance.
+
+(b) ExpertVoice may, in its sole discretion, from time to time develop patches, bug fixes, updates, upgrades, and other modifications to improve the performance of the Services or related products or services (collectively, “Updates”). ExpertVoice may develop Updates that require installation by you before you continue to access or use the Services. The manner in which Updates may be automatically downloaded and installed is determined by settings on your device and its operating system.
+
+(c) The Services may experience temporary interruptions due to technical difficulties, maintenance, or testing, or Updates, including those required to reflect changes in relevant laws and regulatory requirements. ExpertVoice has no obligation to provide any specific content through the Services.
+
+25.   INDEMNIFICATION
+
+You agree that ExpertVoice shall have no liability for and you shall indemnify, defend, and hold ExpertVoice and its affiliates, and each of their officers, directors, employees, agents, partners, business associates, and licensors (collectively, the “ExpertVoice Parties”) harmless from and against any claim, demand, loss, damage, cost, liability, and expense, including reasonable attorneys’ fees, arising from or relating to: (a) Your Content; (b) your violation of the TOU or the Additional Terms, any law or regulation, or any rights (including intellectual property rights) of another party; or (c) your access to or use of the Services.
+
+26.   DISCLAIMER OF WARRANTIES
+
+(a)      YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK. THE SERVICES IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITH ALL FAULTS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE EXPERTVOICE PARTIES EXPRESSLY DISCLAIM: (i) ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED OR ARISING FROM STATUTE, COURSE OF DEALING, USAGE OF TRADE, OR OTHERWISE, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, QUALITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT; AND (ii) ANY LOSS, DAMAGE OR OTHER LIABILITY ARISING FROM OR RELATING TO EXTERNAL MATERIALS, THIRD-PARTY COMPONENTS, OR THIRD-PARTY PARTICIPANTS, OR ANY OTHER PRODUCTS OR SERVICES NOT PROVIDED BY EXPERTVOICE.
+
+(b)     THE EXPERTVOICE PARTIES MAKE NO WARRANTY OR REPRESENTATION THAT: (i) THE SERVICES WILL MEET YOUR REQUIREMENTS; (ii) ACCESS TO THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE; OR (iii) THE INFORMATION AND ANY RESULTS THAT MAY BE OBTAINED FROM ACCESS TO OR USE OF THE SERVICES WILL BE ACCURATE, RELIABLE, CURRENT, OR COMPLETE.
+
+27.   LIMITATION OF LIABILITY
+
+(a)      THE EXPERTVOICE PARTIES SHALL NOT BE LIABLE FOR ANY LOST PROFITS OR COST OF COVER, OR INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES, INCLUDING DAMAGES ARISING FROM OR RELATING TO ANY TYPE OR MANNER OF COMMERCIAL, BUSINESS, OR FINANCIAL LOSS, EVEN IF THE EXPERTVOICE PARTIES HAD ACTUAL OR CONSTRUCTIVE KNOWLEDGE OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF WHETHER SUCH DAMAGES WERE FORESEEABLE. IN NO EVENT SHALL THE EXPERTVOICE PARTIES’ TOTAL LIABILITY TO YOU FOR ALL CLAIMS ARISING FROM OR RELATING TO THE TOU OR YOUR ACCESS TO OR USE OF (OR INABILITY TO ACCESS OR USE) THE SERVICES EXCEED THE GREATER OF $50 OR THE AMOUNT PAID BY YOU TO EXPERTVOICE (IF ANY) FOR ACCESS TO OR USE OF THE SERVICES DURING THE SIX MONTHS IMMEDIATELY PRECEDING THE DATE ON WHICH THE APPLICABLE CLAIM AROSE.
+
+(b)     CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS.
+
+28.   TERMINATION
+
+(a)      If you violate the TOU, all rights granted to you under the TOU terminate immediately, with or without notice to you.
+
+(b)     Upon termination of the TOU for any reason: (i) you must immediately cease accessing or using the Services; (ii) ExpertVoice may, but is not obligated to, remove and discard Your Content and delete your account; (iii) any provision that, by its terms, is intended to survive the termination of the TOU will survive such termination; and (iv) all rights granted to you under the TOU immediately terminate, but all other provisions will survive termination.
+
+29.   GOVERNING LAW
+
+The TOU will be governed by and construed and enforced in accordance with the United States Federal Arbitration Act, other applicable federal laws, and the laws of the State of Utah, without regard to conflict of laws principles. The United Nations Convention on Contracts for the International Sale of Goods is specifically excluded from application to the TOU.
+
+30.   LEGAL COMPLIANCE
+
+(a)   The Services may be subject to United States export and re-export control laws and regulations or similar laws applicable in other jurisdictions, including the Export Administration Regulations (“EAR”) maintained by the United States Department of Commerce, trade and economic sanctions maintained by the Treasury Department’s Office of Foreign Assets Control (“OFAC”), and the International Traffic in Arms Regulations (“ITAR”) maintained by the United States Department of State.
+
+(c)  You represent and warrant that you are not: (i) located in a country that is subject to a United States Government embargo or sanctions or designated by the United States Government as a “terrorist supporting” country; and (ii) listed on any United States Government list of prohibited or restricted parties, including the Specially Designated Nationals List. You further represent and warrant that you will access and use the Services in compliance with all applicable laws and regulations, including all such laws and regulations relating to EAR, OFAC and ITAR.
+
+31.   UNITED STATES GOVERNMNET ENTITIES
+
+This section applies to access to or use of the Services by a branch or agency of the United States Government. The Services includes “commercial computer software” and “commercial computer software documentation” as such terms are used in 48 C.F.R. 12.212 and qualifies as “commercial items” as defined in 48 C.F.R. 2.101. Such items are provided to the United States Government: (a) for acquisition by or on behalf of civilian agencies, consistent with the policy set forth in 48 C.F.R. 12.212; or (b) for acquisition by or on behalf of units of the Department of Defense, consistent with the policies set forth in 48 C.F.R. 227.7202-1 and 227.7202-3. The United States Government shall acquire only those rights set forth in the TOU with respect to the such items, and any access to or use of the Services by the United States Government constitutes: (i) agreement by the United States Government that such items are “commercial computer software” and “commercial computer software documentation” as defined in this section; and (ii) acceptance of the rights and obligations herein.
+
+32.   NO THIRD-PARTY BENEFICIARIES
+
+You acknowledge and agree that there are no third-party beneficiaries to the TOU, except for the ExpertVoice Parties and Apple (as set forth in Section 12).
+
+33.   PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT
+
+If you believe that your work has been made available through the Services in a way that constitutes copyright infringement, please provide ExpertVoice’s Agent for Notice of Copyright Claims the following information: (a) a physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed; (b) a description of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works are covered by a single notification, a representative list of such works; (c) a description of the material that you claim is infringing and where that material may be accessed within the Services; (d) your address, telephone number and email address; (e) a statement by you that you have a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law; and (f) a statement from you that the information in the notification is accurate and, under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. ExpertVoice’s Agent for Notice of Copyright Claims can be reached as follows:
+
+ExpertVoice, Inc.
+
+Attn: Agent for Notice of Copyright Claims
+
+9 Exchange Place, Suite 900
+
+Salt Lake City, UT 84111
+
+Phone: (866) 376-4685
+
+Email: legal@expertvoice.com
+
+34.   CALIFORNIA USERS AND RESIDENTS
+
+In accordance with California Civil Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting such unit in writing at 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834, by telephone at (800) 952-5210, or as otherwise set forth at https://www.dca.ca.gov/about_us/contactus.shtml (or a successful URL).
+
+35.   LEGAL NOTICES
+
+Except as otherwise set forth in the TOU, notices given to Assembly under the TOU must be given in writing and via email to legal@expertvoice.com.
+
+36.   GENERAL PROVISIONS
+
+The TOU (together with the Additional Terms) constitutes the entire agreement between you and ExpertVoice concerning your access to and use of the Services. It supersedes all prior and contemporaneous oral or written negotiations and agreements between you and ExpertVoice with respect to such subject matter. In the event of any conflict between or among the TOU and any Additional Terms, the TOU will take precedence and govern. The TOU may not be amended by you except in a writing executed by you and an authorized representative of ExpertVoice. For the purposes of the TOU, the words “such as,” “include,” “includes” and “including” will be deemed to be followed by the words “without limitation.” You may not assign or delegate any right or obligation under the TOU without the prior written consent of ExpertVoice. ExpertVoice may assign or delegate any of its rights or obligations under the TOU without your consent. The failure of ExpertVoice to exercise or enforce any right or provision of the TOU will not constitute a waiver of such right or provision. If any provision of the TOU is held to be invalid or unenforceable under applicable law, then such provision will be construed, limited, modified or, if necessary, severed to the extent necessary to eliminate its invalidity or unenforceability, without in any way affecting the remaining parts of the TOU. Any prevention of or delay in performance by ExpertVoice hereunder due to any act of god, fire, casualty, flood, war, strike, lock out, failure of public utilities, injunction or any act, exercise, assertion or requirement of any governmental entity, epidemic, pandemic, public health crisis, destruction of production facilities, insurrection or any other cause beyond ExpertVoice’s reasonable control will excuse the performance of its obligations for a period equal to the duration of any such prevention or delay.
+
+Updated 11-22-24
+
+We value your privacy
+We use cookies to enhance your experience on ExpertVoice, as explained here. By clicking "Accept All", you consent to the use of all cookies or click "Cookie Settings" to manage preferences.
+Accept AllCookie Settings

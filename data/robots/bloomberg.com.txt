@@ -1,0 +1,301 @@
+# Bot rules:
+# 1. A bot may not injure a human being or, through inaction, allow a human being to come to harm.
+# 2. A bot must obey orders given it by human beings except where such orders would conflict with the First Law.
+# 3. A bot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+# If you can read this then you should apply here https://www.bloomberg.com/careers/
+User-agent: *
+Disallow: /polska
+Allow: /account/newsletters
+Disallow: /account/*
+Disallow: /tosv*.html
+Disallow: /search
+Disallow: /company/search/
+Disallow: /professional/search/
+Disallow: /impact/search/
+Disallow: /ux/search/
+Disallow: /wnwi/search/
+Disallow: /gei/search/
+Disallow: /impact/search/
+Disallow: /netzeropathfinders/search/
+Disallow: /notices/search/
+Disallow: /distribution/search/
+Disallow: /ukinnovators/search/
+Disallow: /latam/search/
+Disallow: /faq/search/
+Disallow: /tc/search/
+Disallow: /subscriptions/group/manage/
+Disallow: /preview/lineup
+Disallow: /preview/articles
+Disallow: /explore/
+Disallow: /press-releases/
+Disallow: /artemis/
+Disallow: /sessions-publisher/
+
+User-agent: Google-Extended
+Disallow: /
+Allow: /professional
+Allow: /company
+Allow: /latam
+Allow: /faq
+Allow: /tc
+
+User-agent: Mediapartners-Google
+Disallow: /about/careers
+Disallow: /about/careers/
+Disallow: /offlinemessage/
+Disallow: /apps/fbk
+Disallow: /bb/newsarchive/
+Disallow: /apps/news
+
+User-agent: Spinn3r
+Disallow: /podcasts/
+Disallow: /feed/podcast/
+Disallow: /bb/avfile/
+
+User-agent: Googlebot-News
+Disallow: /sponsor/
+Disallow: /news/sponsors/*
+Disallow: /news/terminal/*
+
+User-agent: Twitterbot
+Allow: /en/news/thp
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+# Development Tools
+User-agent: Python-urllib
+Disallow: /
+User-agent: python-requests
+Disallow: /
+User-agent: Python-http-client
+Disallow: /
+
+# AI/LLM Bots
+User-agent: ChatGPT-User
+Disallow: /
+Allow: /professional
+Allow: /company
+Allow: /latam
+Allow: /faq
+Allow: /tc
+User-agent: GPTBot
+Disallow: /
+Allow: /professional
+Allow: /company
+Allow: /latam
+Allow: /faq
+Allow: /tc
+User-agent: Claude-Web
+Disallow: /
+Allow: /professional
+Allow: /company
+Allow: /latam
+Allow: /faq
+Allow: /tc
+User-agent: anthropic-ai
+Disallow: /
+Allow: /professional
+Allow: /company
+Allow: /latam
+Allow: /faq
+Allow: /tc
+User-agent: PerplexityBot
+Disallow: /
+Allow: /professional
+Allow: /company
+Allow: /latam
+Allow: /faq
+Allow: /tc
+User-agent: YouBot
+Disallow: /
+Allow: /professional
+Allow: /company
+Allow: /latam
+Allow: /faq
+Allow: /tc
+
+# Google Services
+User-agent: Google-Apps
+Disallow: /
+User-agent: Google-Apps-Script
+Disallow: /
+User-agent: AppEngine-Google
+Disallow: /
+User-agent: Google-Cloud
+Disallow: /
+User-agent: Google-CloudVertexBot
+Disallow: /
+
+# Major Company Bots
+User-agent: AmazonBot
+Disallow: /
+User-agent: AmazonAdBot
+Disallow: /
+User-agent: ByteSpider
+Disallow: /
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+# Feed & Content Aggregators
+User-agent: Feedly
+Disallow: /
+User-agent: FeedlyBot
+Disallow: /
+User-agent: FeedlyApp
+Disallow: /
+User-agent: MWFeedParser
+Disallow: /
+
+# Analytics & Marketing
+User-agent: comscore
+Disallow: /
+User-agent: Comscore
+Disallow: /
+User-agent: HubSpot
+Disallow: /
+User-agent: hubspot
+Disallow: /
+User-agent: Criteo
+Disallow: /
+User-agent: criteo-bot
+Disallow: /
+User-agent: Peer39_Crawler
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: linkdexbot
+Disallow: /
+User-agent: NTENT
+Disallow: /
+User-agent: AndersPinkBot
+Disallow: /
+User-agent: IndeedBot
+Disallow: /
+
+# Search Engine Bots
+User-agent: MJ12bot
+Disallow: /
+User-agent: PetalBot
+Disallow: /
+User-agent: YisouSpider
+Disallow: /
+User-agent: 360Spider
+Disallow: /
+User-agent: Qwantify
+Disallow: /
+User-agent: ToutiaoSpider
+Disallow: /
+
+# Monitoring & Security
+User-agent: Screaming Frog SEO Spider
+Disallow: / 
+Allow: /professional
+Allow: /company
+Allow: /latam
+User-agent: PRTG
+Disallow: /
+User-agent: FreshpingBot
+Disallow: /
+User-agent: Panopta
+Disallow: /
+User-agent: DatadogSynthetics
+Disallow: /
+User-agent: Rackspace
+Disallow: /
+User-agent: censys
+Disallow: /
+User-agent: burp
+Disallow: /
+User-agent: Burp
+Disallow: /
+User-agent: check_http
+Disallow: /
+User-agent: DotcomMonitor
+Disallow: /
+User-agent: WatchSumo
+Disallow: /
+User-agent: WormlyBot
+Disallow: /
+User-agent: CalibreBot
+Disallow: /
+User-agent: AudistoBot
+Disallow: /
+
+# Social & Content
+User-agent: Hatena
+Disallow: /
+User-agent: Hatena-Bookmark
+Disallow: /
+User-agent: EveryoneSocialBot
+Disallow: /
+User-agent: Diffbot
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: Netvibes
+Disallow: /
+User-agent: WebCEO
+Disallow: /
+User-agent: Postano
+Disallow: /
+User-agent: RebelMouse
+Disallow: /
+User-agent: Muck-Rack
+Disallow: /
+User-agent: InstapaperViewer
+Disallow: /
+User-agent: Twurly
+Disallow: /
+User-agent: LivelapBot
+Disallow: /
+User-agent: DatagnionBot
+Disallow: /
+User-agent: Linespider
+Disallow: /
+User-agent: Discourse
+Disallow: /
+
+# Potentially Malicious
+User-agent: Medusa
+Disallow: /
+User-agent: pingback
+Disallow: /
+User-agent: WordPress
+Disallow: /
+User-agent: wp_ping
+Disallow: /
+User-agent: MauiBot
+Disallow: /
+User-agent: ltx71
+Disallow: /
+User-agent: WeSEE
+Disallow: /
+User-agent: halebot
+Disallow: /
+User-agent: BrightBot
+Disallow: /
+
+# Gaming/3D
+User-agent: UnityPlayer
+Disallow: /
+
+# Sitemaps app
+Sitemap: https://www.bloomberg.com/sitemaps/news/index.xml
+Sitemap: https://www.bloomberg.com/sitemaps/news/latest.xml
+Sitemap: https://www.bloomberg.com/sitemaps/collections/index.xml
+Sitemap: https://www.bloomberg.com/sitemaps/media/video/index.xml
+Sitemap: https://www.bloomberg.com/sitemaps/media/audio/index.xml
+Sitemap: https://www.bloomberg.com/sitemaps/people/profiles/index.xml
+Sitemap: https://www.bloomberg.com/sitemaps/companies/public-company/index.xml
+Sitemap: https://www.bloomberg.com/sitemaps/companies/private-company/index.xml
+Sitemap: https://www.bloomberg.com/sitemaps/securites/index.xml
+
+# Billionaires, owned by graphics
+Sitemap: https://www.bloomberg.com/billionaires/sitemap.xml

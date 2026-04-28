@@ -1,0 +1,170 @@
+Personal Data and Information Use Policy - California DMV
+Ask DMV
+×
+General Disclaimer
+When interacting with the Department of Motor Vehicles (DMV) Virtual Assistant, please do not include any personal information.
+When your chat is over, you can save the transcript. Use caution when using a public computer or device.
+Third-Party Translation Disclaimer
+Expand Disclaimer
+Collapse Disclaimer
+Third-Party Translation Disclaimer
+The DMV chatbot and live chat services use third-party vendors to provide machine translation. Machine translation is provided for purposes of information and convenience only. The DMV is unable to guarantee the accuracy of any translation provided by the third-party vendors and is therefore not liable for any inaccurate information or changes in the formatting of the content resulting from the use of the translation service.
+The content currently in English is the official and accurate source for the program information and services DMV provides. Any discrepancies or differences created in the translation are not binding and have no legal effect for compliance or enforcement purposes. If any questions arise related to the information contained in the translated content, please refer to the English version.
+I agree
+Continue
+Skip to content
+Conditions of Use
+This conditions of use informs visitors of the collection, use, security, and access to information that may be obtained through use of the State of California’s web portal. By visiting this website, you are accepting the policies and practices described in this notice.
+Please note that our conditions of use are subject to change without notice, and that they reflect the state’s current business practices. This policy is dated July 23, 2018.
+You should also be aware of our
+privacy policy
+.
+Note
+Each department within the state may have additional privacy and use policies specific to the mission and needs of their work. Be sure to review those policies as you access additional sites within the state’s web system.
+Personal Information & Choice
+Expand Accordion Plus
+Collapse Accordion Minus
+Under the Information Practices Act, “personal information” is information that “identifies or describes an individual, including, but not limited to, their name, social security number, physical description, home address, home telephone number, education, financial matters, and medical or employment history.” Under the Driver’s Privacy Protection Act, “personal information” is information that identifies an individual, including an individual’s photograph, social security number, driver identification number, name, address (but not the five-digit zip code), telephone number, and medical or disability information. Information regarding official government actions relating to a person’s driving privilege, such as records of convictions, driving violations, accidents, driver’s status, driver license (DL) suspensions, and revocations of the driving privilege, are open to public inspection under
+California Vehicle Code
+(CVC) §1808 and are not a driver’s “personal information.” A domain name or Internet Protocol (IP) address is also not considered personal information, however, it is considered “electronically collected personal information”.
+According to
+California Government Code
+§11015.5, “Electronically collected personal information” means any information that is maintained by an agency that identifies or describes an individual user, including, but not limited to, their name, social security number, physical description, home address, home telephone number, education, financial matters, medical or employment history, password, electronic mail address, and information that reveals any network location or identity, but excludes any information manually submitted to a state agency by a user, whether electronically or in written form, and information on or relating to individuals who are users, serving in a business capacity, including, but not limited to, business owners, officers, or principals of that business. “Electronically collected personal information” does not include DMV’s receipt of the following information: conviction information received from the courts, accidents, a suspension or revocation of the driving privilege, or other official actions pertaining to the driving privilege.
+“Electronically collected personal information” is automatically collected, and includes your domain name or IP address, and statistical information about which web pages you visit. If you voluntarily participate in an activity that asks for specific information (for example, completing a request for assistance, personalizing the content of the website, sending an email or participating in a survey) more detailed data will be collected. If you choose not to participate in these activities, your choice will in no way affect your ability to use any other feature of the website.
+Information that is requested on the website or volunteered by the user may be a public record subject to public inspection and copying once you provide it, unless it is otherwise protected by federal or state law.
+Additionally, departments and agencies of the State of California are required to adhere to the
+privacy policy
+. Please see
+Department of General Services Management Memo
+00-14, effective January 1, 2001.
+A Special Note About Children
+Expand Accordion Plus
+Collapse Accordion Minus
+Children are not eligible to use services that require submission of personal information and we require that minors (under the age of 18) do not submit any personal information to us. This includes submitting personal information to the state as part of a user profile or personalization profile. If you are a minor, you can use these services only if used together with your parents or guardians. If you are a minor you should seek guidance from your parents or guardians.
+If the state decides to begin collecting personal information from children, it will notify parents that it is being requested, disclose the reasons for collecting it, and disclose our intended use for it. The state will seek parental consent before collecting any personally identifiable information. If it does collect it, parents may request information on the type of data being collected, view their child’s information and, if they choose, prohibit the state from making further use of their child’s information. The state will not provide personal information about children to third parties.
+Electronically Collected Personal Information and How It Is Used
+Expand Accordion Plus
+Collapse Accordion Minus
+We electronically collect information directly from individuals when they voluntarily use some of our DMV services on this website. Collection of this information is required to deliver the specific services, but use of these services through the DMV website is voluntary.
+If you do nothing during your visit to the website, but browse or download information, we automatically collect and store the following information about your visit:
+The IP address and domain name used but not the email address. The IP address is a numerical identifier assigned either to your Internet service provider or directly to your computer. We use the IP address to direct internet traffic to you and generate statistics used in the management of this site.
+The type of browser and operating system you used.
+The date and time you visited this site.
+The web pages or services you accessed at this site.
+The website you visited prior to coming to this website.
+The website you visit as you leave this website.
+If you downloaded a form, the form that was downloaded.
+Our website logs do not identify a visitor by personal information, and we make no attempt to link other websites with the individuals who browse the state’s website.
+However, if you access our online applications, we automatically collect and store your interaction with the application including the following:
+Information you input into form fields, including personal and confidential information.
+Links you select.
+Error messages you may receive.
+If you access our mobile applications, we automatically collect and store the following additional information about your visit:
+Global Positioning System (GPS) data used for location-based services.
+This information is used for customer service, and to provide statistical analysis for the improvement of the content and quality of our web services and applications.
+California Government Code
+§11015.5 (6) prohibits all state agencies from distributing or selling any electronically collected personal information, as defined above, about users to any third party without the permission of the user. The state does not sell any “electronically collected personal information.” Any distribution of “electronically collected personal information” will be solely for the purposes for which it was provided to us.
+The state may provide or distribute certain lists and statistical reports of regulatory information as provided by law, but no electronically collected personal information is sold or distributed and all relevant legal protections still apply to the state’s websites.
+What Happens to Information You Submit to Us?
+Expand Accordion Plus
+Collapse Accordion Minus
+If you choose to submit information to us, the information will be transmitted through secure lines to our database. Any private information will only be used for the purposes for which it was provided and will not be shared with another entity except as prescribed by law. Please see our
+privacy policy
+for additional information.
+Use of Internet Request for Assistance Form Information
+Expand Accordion Plus
+Collapse Accordion Minus
+Any information you provide to us will only be shared with entities involved in your case as necessary. Information you provide may be included with other consumers’ information to be used for statistical reporting, trending data, and/or investigative actions. For example, we may need to retain information that becomes part of an enforcement action or consumer complaint case for a period of time after the closing date of the case.
+If you provide us with information regarding an issue that does not fall within our regulatory jurisdiction, we may refer your information to the appropriate local, state, or federal agency on your behalf.
+Surveys
+Expand Accordion Plus
+Collapse Accordion Minus
+If during your visit to the state’s website you participate in a survey or send an email, the following additional information will be collected:
+The email address and contents of the email.
+Information volunteered in response to the survey.
+The information collected is not limited to text characters and may include audio, video, and graphic information formats you send us.
+The information is retained in accordance with
+California Government Code
+§11015.5.
+If You Send Us Email
+Expand Accordion Plus
+Collapse Accordion Minus
+You may choose to provide us with personal information, in an email with a comment or question. We use the information to improve our service to you or to respond to your request. Sometimes we forward your email to other state employees who may be better able to help you, and this staff may be employed by a different agency within the state. Except for authorized law enforcement investigations or as required by law, we do not share our email with any other organizations.
+We use your email to respond appropriately. This may be to respond to you, to address issues you identify, to further improve our website, or to forward the email to another agency for appropriate action.
+Order Forms
+Expand Accordion Plus
+Collapse Accordion Minus
+If you place an order with us, we request information from you on our order form. You must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your order/request. If we have trouble processing an order, this contact information is used to get in touch with you.
+Occupational License Lookup (OLL)
+Expand Accordion Plus
+Collapse Accordion Minus
+Any information found in the Occupational License Lookup (OLL) is solely for the convenience of the user. No representation or warranty is made by DMV regarding the accuracy of the information.
+Access to OLL is governed by the following disclaimers and limits, which you the “user” must acknowledge and/or agree to:
+You acknowledge that content in OLL is free, publicly available, and may be protected under United States copyright law. Material that is eligible for statutory copyright protection is protected from certain uses, which include, but are not limited to, any unauthorized reproduction, display, distribution, or preparation of a derivative work for purposes of sale.
+You agree not to use OLL for any illegal purpose or activity, and not do anything that may damage DMV’s computer hardware, software, or data files, or OLL operation in any way.
+You agree and specifically acknowledge the system operator, DMV, the State of California, their employees and agents, and their contributors to OLL are not liable for any matters relating directly or indirectly to the use of OLL and the information contained therein, or for any defamatory, offensive, misleading, or illegal conduct of other users, links, or third parties. Any risk of injury from the foregoing rest entirely with the user, and the user assumes responsibility for any files, which the user uploads and/or downloads and/or views, including data destroyed by viruses or other computer-initiated problems.
+You further explicitly acknowledge that all information obtained on OLL is provided “as is” without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose, and that the entire risk of acting on information obtained from OLL, including the entire costs of all necessary remedies, is with those who choose to act on such information and not DMV or the State of California. DMV does not warrant that the service will be uninterrupted or error free.
+You agree that a disclaimer for liability applies to all claims for damages or injury, including, but not limited to: failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, or unauthorized access to or alteration of data, whether for breach of contract, tortious conduct, negligence or under any other cause of action.
+You agree to adhere to these user policies and are requested to immediately notify the system operator at: dmvweb@dmv.ca.gov if you discover any violation(s) of these rules.
+Public Disclosure
+Expand Accordion Plus
+Collapse Accordion Minus
+In the state of California, laws exist to ensure that government is open and that the public has a right to access appropriate records and information possessed by state government. At the same time, state and federal laws provide exceptions to the public’s right to access public records depending on the information contained therein.
+Discarding Electronically Collected Personal Information
+Expand Accordion Plus
+Collapse Accordion Minus
+Under
+California Government Code
+§11015.5, the user of this website may choose to have electronically collected personal information discarded without reuse or distribution, provided the user contacts DMV in a timely fashion.
+Automatic Collection of Information (Cookies)
+Expand Accordion Plus
+Collapse Accordion Minus
+Cookies are simple text files stored on your computer by your web browser. The main state web portal does not use cookies to maintain personalization, however some applications may.
+The state makes every attempt to avoid the use of cookies. When needed to maintain the functionality of an application, unlike the common usage of cookies, the state only uses cookies during the session in which you access our interactive applications.
+Cookies created on your computer by using this website do not contain “personal information” and do not compromise your privacy or security. We use the cookie feature only to store a randomly generated identifying temporary tag on your computer, for seven days. You can refuse the cookie or delete the cookie file from your computer by using any of the widely available methods. However, if you turn your cookie option off you may not be able to access some of the features in our interactive applications.
+Security
+Expand Accordion Plus
+Collapse Accordion Minus
+The state, as developer and manager of this website, has taken several steps to safeguard the integrity of its telecommunications and computing infrastructure, including but not limited to authentication, monitoring, auditing, and encryption. Security measures have been integrated into the design, implementation and day-to-day practices of the entire state operating environment as part of its continuing commitment to risk management. This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via the state’s supported website. The technical standards governing security are enforced by the Department of Information Technology.
+Links to Other Sites
+Expand Accordion Plus
+Collapse Accordion Minus
+Our website has links to sites we feel might be useful to you and which may provide services. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
+This website and the information it contains are provided as a public service by the state of California. This system is monitored to ensure proper operation, to verify the functioning of applicable security features, and for comparable purposes. Anyone using this system expressly consents to such monitoring. Unauthorized attempts to modify any information stored on this system, to defeat or circumvent security features, or to utilize this system for other than its intended purposes are prohibited and may result in criminal prosecution.
+Limitation of Liability
+Expand Accordion Plus
+Collapse Accordion Minus
+The state attempts to maintain the highest accuracy of content on its website. Any errors or omissions should be reported for investigation.
+The state makes no claims, promises, or guarantees about the absolute accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website. No warranty of any kind, implied, expressed, or statutory, including but not limited to the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose, and freedom from computer virus, is given with respect to the contents of this website or its links to other internet resources. Reference in this website to any specific commercial products, processes, or services, or the use of any trade, firm, or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the state of California, or their employees or agents.
+This use policy is subject to change without notice.
+Ownership
+Expand Accordion Plus
+Collapse Accordion Minus
+In general, information presented on this website, unless otherwise indicated, is considered public domain. It may be distributed or copied as permitted by law. However, the state does make use of copyrighted data (for example, photographs) which may require additional permissions prior to your use. Furthermore, the unique branding of the site and various official seals and marks may not be used without permission of the state. In order to use any information on this website not owned or created by the state you must seek permission directly from the owning (or holding) sources. The state shall have the unlimited right to use for any purpose, free of any charge, all information submitted via this site except those submissions made under separate legal contract. The state shall be free to use, for any purpose, any ideas, concepts, or techniques contained in information provided through this site.
+Need something else?
+News & Media
+Stay up-to-date on everything everything happening with DMV.
+See the news
+About DMV
+Learn about DMV, explore our history, and find important statistics.
+Learn about DMV
+Privacy & Security
+Learn more about our privacy policy, which protects your privacy rights when you use this website.
+See our privacy and security policy
+Copyright © 2026 State of California
+×
+Google™ Translate Disclaimer
+The Department of Motor Vehicles (DMV) website uses Google™ Translate to provide automatic translation of its web pages. This translation application tool is provided for purposes of information and convenience only. Google™ Translate is a free third-party service, which is not controlled by the DMV. The DMV is unable to guarantee the accuracy of any translation provided by Google™ Translate and is therefore not liable for any inaccurate information or changes in the formatting of the pages resulting from the use of the translation application tool.
+The web pages currently in English on the DMV website are the official and accurate source for the program information and services the DMV provides. Any discrepancies or differences created in the translation are not binding and have no legal effect for compliance or enforcement purposes. If any questions arise related to the information contained in the translated website, please refer to the English version.
+The following pages provided on the DMV website cannot be translated using Google™ Translate:
+Forms
+Publications
+Field Office Locations
+Online Applications
+Ok
+×
+Please install the Google Toolbar
+Google Translate is not support in your browser. To translate this page, please
+install the Google Toolbar (opens in new window)
+.
+Close Form Filler

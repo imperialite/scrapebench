@@ -1,0 +1,327 @@
+User Agreement
+
+1. General provisions
+
+1.1  The online service (platform) Prom.ua (hereinafter also referred to as the "Marketplace") is a trading platform with a huge assortment from sellers from all over the country, which helps entrepreneurs sell goods and services, and buyers buy, and the Marketplace is also a communication platform for placing temporary ads from individuals.
+
+1.2   In this User Agreement, the following terms are used with the following meanings:
+
+Marketplace Administration  - Limited Liability Company "UAPROM" and/or persons duly authorized by it to manage the Marketplace and provide services to Users.
+
+Visitor  - any person who has access to the Marketplace via the Internet and uses the Marketplace.
+
+The owner of the Marketplace  - Limited Liability Company "UAPROM" (legal entity identification code 36507036), is a provider of intermediary services in the information sphere within the meaning of the Law of Ukraine "On Electronic Commerce" and is not the initiator of the transfer of information.
+
+Site Owner  - The Seller who, in accordance with the procedure established by the Service Offer Agreement or a separate agreement with the Marketplace Owner, received the Access Service and created the Site, whose registration details are specified in the Personal Account and who has the ability to use the Site and manage it during the term of the Access Service.
+
+Verification  - User verification, which is carried out by entering a special code sent by the Marketplace Administration in an SMS / Viber message to the number specified by the User when registering, placing an order, writing a review, etc. into the appropriate field on the verification page.
+
+ProSale Catalog/Catalog - an online catalog on the Marketplace, which is a tool for displaying and promoting Sellers' products on the Marketplace.  Access to the ProSale Catalog and promotion of Product Items in it is possible under two payment models: CPA or CPC. More information about the service of access to the ProSale Catalog and promotion of Product Items in it can be found at the link . 
+
+Content  - the results of intellectual activity that are protected and placed by the User on the Marketplace, including, but not limited to: the name and description of product items, photographs, product/service characteristics, advertising materials, information about the Seller or User, reviews, etc. Content is placed by Users on the Marketplace/Site in such a way that other Visitors to the Marketplace/Site can access the Content from a place and time chosen by them individually.
+
+User  - Seller, Buyer, Visitor who has agreed to the terms of this Agreement.
+Buy with Prom  is a tool that allows you to pay for orders on the Sites in accordance with the terms set out at the link .
+
+Marketplace  - a set of software and hardware, the result of computer programming in the form of an online service (platform) Prom.ua, which is located on the Internet at https://prom.ua and belongs to the Limited Liability Company "UAPROM" (identification code of the legal entity 36507036). The content of the Marketplace is protected by copyright, trademark law, as well as other rights related to intellectual property, and the law on unfair competition.
+
+Account/Personal Account  - the User's electronic account (account) in the functional system of the Marketplace, which has a unique ID, with which the User can manage his Services. The User's account is created as a result of registration using a unique (unrepeatable) phone number, or other authentication means implemented on the Marketplace.
+
+Buyer  - any capable individual or legal entity, individual entrepreneur who has accepted the terms of this Agreement and who, using the functionalities of the Marketplace and/or services in accordance with the Buyer's Guide , purchases and/or orders goods/services offered by the Sellers. The Buyer uses the functionalities of the Marketplace by automatically registering on the Marketplace with the creation of a "Buyer's Account" for him when placing the first order for goods on the Marketplace.
+
+Privacy Policy  - terms of working with confidential information on the Marketplace, which is an integral part of this Agreement and is posted at the link: https://prom.ua/ua/privacy-policy .
+
+Prom-payment  is a tool that allows for payments between the buyer and the seller on the Marketplace and/or the Site in accordance with the terms and conditions set out at the link .
+
+Rules for the Design of Goods and Services (also referred to as Rules for the Design of Product Items on the Marketplace) - requirements for the design of Content on the Marketplace and the Sites, which are an integral part of this Agreement and are posted at the link .
+
+Rules for publishing reviews  - requirements that the Buyer must adhere to when posting and publishing reviews about the activities of Sellers on the Marketplace and Sites, which are an integral part of this Agreement and are posted at the link .
+
+Rules for posting information on the Marketplace  - requirements that Sellers must comply with in order to be able to make sales and/or place Product Items on the Marketplace and/or Sites. The Rules are an integral part of the Agreement and are posted at the link .
+Seller  - a person engaged in the sale of goods and/or services, registered on the Marketplace and having access to the "Company Office" section of the Marketplace, in which he can publish information about himself (including contact information), about the offered goods and services, commercial offers and advertisements, other information in accordance with the current legislation of Ukraine. The Seller who receives the Access Service may simultaneously be the Owner of the site created for him based on the functionality of prom.ua. Sellers - individuals who are not registered as business entities, cannot use the Marketplace to carry out systematic entrepreneurial activities for the sale of goods/services for the purpose of making a profit, but they may offer for sale new and/or used goods that they do not intend to use.
+
+Placing a Product Item  is an action of the User, which is expressed in the publication or activation of one Product Item on the Marketplace, as well as changing the current Product Item, if such a change involves replacing and/or adding a product, changing the description, region, etc.
+
+Site  - the Seller's Internet site, created for him using the functionality of software products in the form of an online service of the Electronic Marketplace, located at the addresses: http://prom.ua/ and http://uaprom.net . Such a Site may have a domain name in the format subdomain.prom.ua or the Seller may register an external domain name for such a site, without involving the Marketplace Administration.
+
+Services  - services, the list and cost of which are posted on prom.ua. Services on the Marketplace are provided to Sellers on the basis of the Agreement - Offer for the Provision of Services , as amended for such Seller, this User Agreement and the Seller's Guide . Services are provided to Buyers in accordance with this User Agreement, as well as the information and rules set out in the Buyer's Guide .
+
+Goods  - a tangible and intangible object offered for sale by Users through the Marketplace (in the ProSale Catalog) and/or the Seller's Website, taking into account the rules that are an integral part of this Agreement.
+
+Product item/Product card  - the Seller's offer to sell a product/service, which is published by him on the Marketplace/Site.
+
+Agreement  - this User Agreement, which is located at: https://prom.ua/ua/terms-of-use . This Agreement applies to all currently existing (functioning) services (Services) of the Marketplace, as well as any subsequent modifications thereof and additional services (Services) that appear in the future.
+
+1.3  The moment of conclusion of this Agreement is considered the moment of any interaction of the User with the Marketplace and/or the Seller's Site. By such interaction, the Users confirm that they agree to all the terms of this User Agreement, and the Marketplace Administration grants them a personal, non-exclusive, non-alienable, limited right to enter and use the Marketplace, as well as access to the Services on the terms set forth in this Agreement.
+
+1.4  Any interaction of the User with the Marketplace (including, but not limited to, registration on the Marketplace, Verification, placement of Product Items, transfer of funds by the User to the Marketplace Owner as payment for Marketplace services and/or actual use of the Services) means the User's unconditional agreement with all clauses of this Agreement (including its annexes). Such interaction with the Marketplace is a full and unconditional acceptance of this Agreement, ignorance of which does not relieve the User from liability for failure to comply with its terms.
+
+1.5 The User Agreement may be changed by the Marketplace Administration without prior notice. The current version of the User Agreement is available on the page https://prom.ua/ua/terms-of-use . The User's continued use of the Marketplace functionalities through his/her Personal Account (any further interaction with the Marketplace) constitutes his/her consent to the changes to the Agreement.
+
+1.6  If the User does not agree with any of the terms of this Agreement and/or does not agree to comply with the terms of this Agreement (or a new version of the Agreement), he has the right not to use the features/Services of the Marketplace and is obliged to stop using the Marketplace and leave it, as well as terminate the contractual relationship with the Marketplace Administration.
+
+1.7 In addition to the text of this Agreement, the procedure for providing the Services and using the Marketplace and/or Sites is also determined by the Privacy Policy ,   the Rules for posting information on Prom.ua ,   the Rules for registering product items on the Marketplace ,   and the Rules for publishing reviews , which are an integral part of this Agreement.
+
+1.8 The Marketplace Administration has the right at any time to refuse any User registration and/or use of the Marketplace functionalities in the event of his/her violation of the terms of this Agreement.
+
+2. Description of services
+
+2.1  The Marketplace provides services that allow Users to register and create Accounts and Sites based on the functionality of software products in the form of an online service of the Electronic Marketplace, place Product Items for the purpose of offering goods and/or services for sale, view Sellers' offers and make purchases, view reviews of goods/services offered on the Marketplace/Sites, and post reviews.
+
+2.1.1.  In particular, but not exclusively, the following services are available to the Marketplace Users: providing access to software products in the form of an online service of the Electronic Marketplace Prom.ua, through which Users are registered and an Account is created, the Seller creates the Site, displays information added by the Seller on the Site, as well as registers a domain name in the format “subdomain. prom.ua ” for the Site, provides access to the Marketplace section “Company Cabinet” and/or “Buyer Cabinet”, including access to the electronic wallet - “Wallet”, uses the Marketplace to place Product items, displays the Seller’s products in the Catalog, promotes them, as well as other services related to providing Buyers and Visitors with the opportunity to choose and order Sellers’ goods/services, their communications regarding the conclusion of a distance contract for the sale and purchase of goods, payment for the Goods selected by Buyers on the Marketplace/Sellers’ Sites and tracking their delivery, posting Reviews, etc.
+
+2.1.2.  Services for Sellers are available on the Marketplace based on the following rates .
+
+2.2  After registering on the Marketplace, the Seller gains access to the Marketplace section “Seller’s Office”, which is assigned a unique ID number and in which he can publish the information he provides: contact information, information about the goods and services offered by him, other information. Also, after the Seller pays for one of the selected tariffs, he can create a Site on the prom.ua subdomain  by installing the “Company Site” application in the Prom.ua Marketplace . The Seller can also register an external domain name without involving the Marketplace Administration. If the Seller first creates a Site on the prom.ua subdomain and then registers an external domain for his Site, he must agree to the current version of the Public Agreement (Offer) for the Provision of Services , this User Agreement, as well as all documents and rules that are an integral part of this User Agreement. The domain name registered by the Seller will be used for the Site, which will function as an online store and on which the Seller will post information for the purpose of offering goods and/or services for sale.
+
+2.2.1. After registering on the Marketplace as a Seller, the User has the opportunity to use the Marketplace Services with limited functionality without additional payment during the test period - 7 calendar days, after which the User chooses one of the proposed paid service options in accordance with the terms of the Public Agreement (Offer) for the provision of services  or continues to use the Marketplace with limited functionality. More details about the functionality are available during the test period at the link .
+
+2.2.2  If the Marketplace Administration detects similarities or coincidences of information specified by Sellers in several Company Cabinets, which may indicate that the Seller is carrying out activities on the Marketplace using several Company Cabinets, the Marketplace Administration has the right, without warning, to completely restrict access to the Company Cabinet(s) at its own discretion, while leaving active: no more than one Company Cabinet according to the selected tariff or no more than one Company Cabinet used within the test period in accordance with the provisions of clause 2.2.1 of this Agreement. Seller accounts that are in limited access  for more than 6 (six) calendar months may be deleted by the Marketplace Administration without warning such Sellers about the above actions.
+
+2.2.3 Paid services are provided on the Marketplace under the terms of the Public Agreement (Offer) for the Provision of Services , as well as in accordance with the Help for the Seller and/or the Help for the Buyer .  During the first order of the Access Service, a personal Internet site may be created for the User using the hardware and technical capabilities of the online service of the Electronic Marketplace Prom.ua. The Site may be used by the Site Owner to present or sell its goods, works or services by means of an electronic transaction. The Site Owner independently fills the Site and/or the relevant sections of the "Company Office" with information, he is the initiator of the transfer of information, has the ability to change its content and choose the recipient.  
+
+2.3  Upon first payment and activation of services that include the transfer of information and User Content from the Marketplace to other resources owned by the Marketplace Owner (in particular, launching campaigns in the ProSale Catalog), the User consents to such transfer of information and Content, as well as to the use of the transferred information, Content and other data by the Marketplace Owner on other resources.
+
+2.4 In order for the products to be active in the Catalog and attract Buyers, the Seller must launch a campaign  in the ProSale Catalog section. To launch campaigns, the Seller must connect one of the standard payment methods available on the Marketplace (Prom payment, postpayment, payment on account) in his Personal Account. In the absence of such settings, launching campaigns is impossible. All active campaigns may be stopped. For more information about launching and promoting products in the Catalog, see the link: https://support.prom.ua/hc/uk/articles/360004966437 . 
+
+2.5 Any User using the Services on the Marketplace may leave reviews about other Users, while adhering to the Review Posting Rules.
+
+2.6 The Marketplace Owner is not a party to an electronic agreement between the Seller and the Buyer, the subject of which are goods, works or services offered by the Sellers on their Site/page on Prom.ua. All agreements between Sellers and Buyers are concluded by them directly. The Marketplace Owner is not a party to such agreements, but only provides a communication trading platform for placing product items. The Marketplace Owner is not responsible for the content of the information transmitted or received and for any damage caused as a result of the use by Users of the results of the Marketplace Services.
+
+2.7 Buyers have the opportunity to make payments, and Sellers receive funds for goods ordered on the Marketplace and/or Sites using the “Prom-payment” tool, which makes the purchase and sale of goods more secure: the Seller receives funds for the sold goods only after the Buyer receives the goods. By connecting the “Prom-payment” tool and/or ordering Goods with the “Prom-payment” payment method, the User agrees to the terms of use of the “Prom-payment” tool. For more information about how the Prom-payment tool works for the Seller, see the link ; for the Buyer, see the link .
+
+2.8 The possibility of payment for an order between the Buyer and the Seller when placing an order on the Seller's Websites with Prom-payment  is carried out taking into account the “Prom-service” functionality. By paying for the Goods ordered on the Seller's Website to a current account, the Buyer agrees to the Terms of Use of the “Prom-service” functionality, the details of which are set out at the link .
+
+2.9 On Sellers' Sites, Buyers have the opportunity to make purchases and pay for them using “Buy with Prom”, which is an extended version of the “Prom Payment” tool. For more information about how the “Buy with Prom” tool works, please visit the link .
+
+2.10  When ordering Goods through the Prom.ua mobile application for buyers with their delivery by Novaya Poshta, Buyers have the opportunity to track the status of the ordered goods directly in the Buyer's Account, using the “Prom-delivery” service. By ordering goods with the “Prom-delivery” service, Buyers agree to the Terms of Service “Prom-delivery” .
+
+3. Rights and obligations of the Marketplace Administration
+
+3.1 The Marketplace Administration undertakes to ensure that the User can receive the Services in the manner specified in this Agreement.
+
+3.2 The Marketplace Administration reserves the right, at its sole discretion, to delete any information published by Users on the Marketplace, to suspend, restrict or terminate the User's access to the Marketplace Services at any time and without giving any reason.
+
+3.3 The Marketplace Administration has the right to place advertising and/or other information in any section of the Marketplace without agreement with the User.
+
+3.4  In the event of a User's violation of the terms of this Agreement (together with its integral parts, including the rules contained in the Seller's Guide and/or Buyer's Guide ), the Marketplace Administration has the right to suspend, restrict or terminate such User's access (as well as all of his Accounts, Seller's/Buyer's Cabinets, which the Marketplace Administration will consider to be duplicates) to any of the Services unilaterally at any time. In this case, the Marketplace is not liable for any damages that may be caused to the User by such actions.  
+
+3.5  The Marketplace Administration has the right to send Users messages, including electronic ones, containing information about the capabilities of the Services on the Marketplace, the activities of the Marketplace Owner or its partners, organizational and technical, informational, marketing information, commercial offers, as well as information directly related to the provision of services to Users on the Marketplace (in particular, but not exclusively, notifications to sellers about receiving a new order in the Marketplace Catalog or the Seller's Website, as well as about their cancellation, etc.). The need to receive such messages, as well as their list, is established in the “Messages from Prom” reference . The messages listed in this clause of the Agreement will be sent to the contact details provided by the User in the Account (Seller's Cabinet or Buyer's Cabinet) or received from the User in another lawful manner. The User may at any time refuse to receive further messages, except for those directly related to the provision of services on the Marketplace and provided for in the “Messages from Prom” guide .
+
+3.6 The Marketplace Administration undertakes to provide the User with the opportunity to receive support service consultations if the User provides identification data. The scope of consultations is limited to specific issues related to the provision of the Services.
+
+3.7 The Marketplace Administration has the right to moderate all Content of Product Items for compliance with the requirements of this Agreement, the Rules for Posting Information on the Marketplace, the Rules for Publishing Reviews, and the current legislation of Ukraine, and in case of violations detected, at any time at its discretion, to remove such information from the Marketplace without explaining the reasons.
+
+3.8 The Marketplace Administration, taking into account the actions/inaction of the User on Prom.ua who violates the provisions of the Rules for Placing Information on the Marketplace, which are an integral part of this Agreement, has the right, at its discretion, to fully or partially restrict access to the Services provided on the Marketplace, to refuse to provide services to the User (as well as all of his Accounts, Seller/Buyer Cabinets, which the Marketplace Administration will consider to be duplicates) and to unilaterally terminate the agreement with him.
+
+3.9  If the Marketplace Administration receives information about illegal activities of Users and/or establishes facts or clarifies circumstances indicating that the activities of Users have signs of illegality, in order to ensure the safety of Users and the operation of the Marketplace, as well as to prevent and stop fraudulent actions on the Marketplace, it has the right to unilaterally suspend, restrict or stop access of such User (as well as all of his Accounts, Seller/Buyer Cabinets, which the Marketplace Administration will consider duplicates) to any of the Marketplace Services at any time and/or terminate the agreement unilaterally.
+
+3.9.1. By accepting this Agreement, Users agree that the Marketplace Administration has the right to verify orders, including information and/or documents related to orders, as well as mailings and reviews using its software, and, in the event of detecting information or establishing facts that have signs of obtaining an unlawful benefit and/or evasion of payment for services and/or unfair competition and/or fraud, has the right to limit, suspend, stop such User's access to the Electronic Marketplace and/or not to accept and/or disregard such orders and reviews. In this case, the fact of violation or detection of information is considered confirmed if the Marketplace Administration has notified the User about this and/or limited the functionality of the Electronic Marketplace for such User.  
+
+3.10  If the Marketplace Administration acts as an organizer or partner in promotions, bonus programs, special loyalty programs and/or other events that provide for the provision of incentives to Marketplace Users as participants in such events, and in the event of receiving information about illegal activities of participants in such events and/or establishing facts or circumstances indicating that the activities of participants have signs of illegality and/or violate the terms and/or rules of such events, the Marketplace Administration, in order to ensure the safety of Users and the operation of the Marketplace, as well as to prevent and stop fraudulent actions on the Marketplace, has the right to unilaterally suspend, restrict or stop access of such User (as well as all of his Accounts, Seller/Buyer Cabinets, which the Marketplace Administration will consider duplicates) to any of the Marketplace Services at any time and/or terminate the agreement in unilaterally.
+
+3.11  In order to ensure the safety of Users and the operation of the Marketplace, as well as to prevent and stop fraudulent actions on the Marketplace, the Marketplace Administration has the right to request documents identifying Users (a photo of the User in a selfie format with an open passport, scanned copies (photos) of the User's passport, an extract from the Unified State Register of Legal Entities, Individuals and Public Organizations for individuals and legal entities). Also, in order to confirm the good faith of the Seller's activities, the Marketplace Administration has the right to request documents from the Sellers confirming the shipment of goods to the Buyers. In case of refusal to provide documents, the Marketplace Administration has the right to unilaterally suspend, restrict or terminate the access of such User (as well as all his Accounts, Seller/Buyer Cabinets, which the Marketplace Administration will consider duplicates) to any of the Services at any time.
+
+3.12. In order to ensure fair competition, prevent fraud and abuse of the Marketplace functionality, as well as maintain high quality services, the Marketplace Administration reserves the right to constantly monitor and check Users for the presence of duplicate (linked) Accounts and Seller Cabinets (duplicates). A User's Account is considered a duplicate due to the coincidence of some information with other Accounts.
+
+3.13. The Marketplace Administration has the right to delete any data and information contained in the User's Account, restrict access to the Account and/or terminate such Account, provided that:
+
+3.13.1. within 2 (two) years from the moment of creation of such Account, the User has not made any payment for the Marketplace access Service;
+
+3.13.2.  the Account has not been logged in using the username and password for more than 120 (one hundred and twenty) calendar days prior to the date of data deletion.
+
+3.14. The Marketplace Administration has the right to record telephone conversations with Users (which may take place via any existing means of communication), provided that they are warned about the recording. A warning about the recording of conversations may be sent to the User in the Personal Account, and/or by e-mail, and/or in some cases a voice notification may be heard before the conversation begins. Regardless of the method of notifying the User about the possible recording of conversations, by starting a conversation with a Marketplace representative, the User consents to the recording of the conversation.
+
+3.14.1.  The Marketplace representative, during and/or after a conversation with the User, has the right to record the User's agreements/requests and take appropriate actions/apply appropriate settings on the Marketplace and/or the User's Site for/in the interests of the latter.
+
+3.15. Marketplace may use artificial intelligence (AI) technologies and machine learning algorithms as part of its Services. This includes, but is not limited to, automated means of communication (for example, chatbots for answering frequently asked questions or primary support), as well as tools for analyzing data and providing personalized recommendations on products that may be most relevant to the User. By using the Marketplace website and/or applications for the buyer (“ Prom.ua Shopping ”) and the seller Prom ( Prom.ua Seller’s Cabinet ), the User  agrees that Marketplace may use these tools to improve the experience of using the Marketplace. Any recommendations regarding products, pricing or services provided by Marketplace, in particular using AI-based tools, are purely informational. The User may follow them or not, at their own discretion. Marketplace does not guarantee their complete accuracy, timeliness or completeness.
+
+4. Rights and obligations of the User
+
+4.1  When registering and/or filling out the order form and/or placing a Product Item, the User must provide true, accurate and complete information about himself on the issues offered in the registration form and in the forms of the marketplace sections "Company Cabinet" and "Buyer Cabinet" and maintain this information in an up-to-date state, such that it corresponds to reality. The User undertakes to ensure the reliability of the information provided. The User has no right to require the Marketplace Administration to conceal any information about him.
+
+4.1.1.  By confirming the order when placing it on the Marketplace, the User agrees to the automatic creation of a Buyer's Account, to enter which either the email address or mobile phone number specified when placing the order on the Marketplace will be used. In this case, the Buyer may delete his Buyer's Account at any time, provided that he has access to it.  
+
+4.2 In case of providing inaccurate or incomplete information, the Marketplace Administration has the right to suspend or cancel the User's registration and terminate the provision of Services to him.
+
+4.3  The User undertakes to use the Marketplace/Site only for lawful purposes, to comply with the current legislation of Ukraine, as well as the rights and legitimate interests of the Marketplace Owner.
+
+4.4  The User shall not take any action that affects the normal operation of the Marketplace and constitutes its unfair use. The User undertakes not to use any devices, programs, procedures, algorithms and methods, automatic devices or equivalent manual processes to access, acquire, copy or track the content of information on the Marketplace.
+
+4.5  The User undertakes not to take any actions aimed at gaining access to someone else's personal profile/Account by selecting a login and password, hacking or other actions.
+
+4.6 The User does not have the right to transfer, assign, sell, transfer for use, etc. his login and password for access to the Marketplace and Services, as well as rights to the Site, to third parties without the consent of the Marketplace Administration. In the event of transfer of the login and password or rights to the Site to any third party, the User shall bear all responsibility for the actions of such third party thereafter.
+
+4.7  If the Site Owner wishes to transfer the rights to the Site to another person (hereinafter also referred to as the New Owner), he is obliged to send a written notification to the Marketplace Owner and other necessary documents, detailed information at the link .  In the event of a security breach or unauthorized use of the User's Account, he must immediately notify the Marketplace Administration. The Marketplace Administration is not liable for any losses caused by unauthorized use of the User's Account and/or Site. The User may not use the password and Account/Site of another User without the special permission and consent of the owner of this Account/site and/or password. The Marketplace and the Marketplace Administration are not liable for any losses or damages resulting from the User's failure to fulfill these obligations.
+
+4.7.1  The Marketplace Administration has the right to refuse the User the procedure for changing the Site Owner in cases provided for by the Rules for Changing the Site Owner .
+
+4.8 The User undertakes not to use the capabilities of the Marketplace, independently or with the involvement of third parties, for purposes that may be qualified as a violation of third party rights to intellectual property, unfair competition, or other violation of the current legislation of Ukraine. The User does not have the right to use the Site information for personal non-commercial purposes. Copying information from the Site is prohibited.
+
+4.9 The Seller undertakes not to limit the ability of Buyers to make electronic transactions on the Marketplace in the consumer goods section by disabling order acceptance in the Company's Account settings, except when the Seller is on vacation or during non-working hours specified by the Seller.
+
+4.10  Sellers guarantee that they own all rights to use the materials and Content that they place on the Marketplace in the Catalog and/or on the Sites, including intellectual property rights.
+
+4.11 The User undertakes to provide, upon request from the Marketplace Administration, additional information that is directly related to the provision of the Services.
+
+4.12 The User undertakes to comply with the property and non-property rights of authors and other right holders when using the functionality of the Marketplace.
+
+4.13 Marketplace Users undertake not to allow rude, offensive expressions and statements to be addressed to and towards other users, the Administration and representatives of the Marketplace, to show aggression and to use foul language in their statements (both oral and written). In the event of receiving a complaint or recording by the Marketplace Administration of the above actions, the Marketplace Administration has the right to issue a warning to such User and/or restrict such User's access to the Marketplace and/or refuse to provide services and terminate the agreement with the User unilaterally.
+
+4.14 ​​Users offering goods for sale on the Marketplace undertake not to duplicate information, not to fill the ProSale Catalog with identical (fully or partially) product items (including, but not exclusively, if the product items contain a partial or complete coincidence of the goods, their description, characteristics, price.  
+
+4.15. When placing an order for each individual Product Item, the User undertakes to familiarize himself with the Content placed in the Seller's Product Item. In this regard, by placing an order, the User confirms that he has familiarized himself with the information about the product/work/service specified by the Seller in the Product Item and has made his choice personally, without any coercion and fully aware of the characteristics of the object (the Seller's Product Item) for which a purchase and sale agreement is concluded between him and the Seller.
+
+5. Content Requirements. Disclaimer
+
+5.1  Publication of information on the Marketplace and on Sellers' Sites must be carried out in full compliance with the requirements of the current legislation of Ukraine, the provisions of this Agreement and the Rules for posting information on the Marketplace,   the Rules for publishing reviews , and also comply with   the Rules for registration of product items on the Marketplace .
+
+5.2 The Seller's offer for the sale of goods/services (Product Position), which is published by him on the Marketplace/Site, must contain all information for consumers provided for by the legislation of Ukraine (in particular, but not exclusively, by the Law of Ukraine "On Electronic Commerce", the Law of Ukraine "On Protection of Consumer Rights"), in particular:
+
+5.2.1 name of the Seller (contractor), its location and procedure for accepting a claim;
+
+5.2.2  main characteristics of the goods/products (name of the goods, name or reproduction of the mark for the goods and services under which they are sold, data on the main properties of the products, nominal quantity (weight, volume, etc.), etc.);
+
+5.2.3 price (tariff), including delivery charges, and payment terms;
+
+5.2.4 conditions for returning or exchanging goods, procedure for terminating the contract;
+
+5.2.5  warranty obligations and other services related to the maintenance or repair of products;
+
+5.2.6 terms and conditions of product purchase, other terms of delivery or contract performance.
+
+5.3  The Marketplace Administration does not conduct a mandatory verification of information and Content posted by Users on the Marketplace and on the Sites and is not responsible for the compliance of such information with the current legislation of Ukraine.
+
+5.4   The Marketplace Administration is not responsible for errors, inaccuracies, omissions made when registering or posting information by the User, as well as any material or immaterial damages arising in connection with this (including lost profits).
+
+5.5  The Marketplace Administration is not responsible for the use (whether lawful or unlawful) by third parties of information posted on the Marketplace and/or Seller Sites, including its reproduction and distribution, carried out both within the Marketplace and in other possible ways.
+
+5.6  The Marketplace Administration reserves the right to unilaterally delete Content posted by Users upon request from copyright holders or competent state authorities, as well as if the posted Content violates the rights (including intellectual property rights) of third parties or does not comply, in the opinion of the Marketplace Administration, with the principles of public morality.
+
+The Marketplace Administration has the right to use the content of Marketplace Users under the terms set out in the Public Agreement (Offer) for the Provision of Services .
+
+The Marketplace Administration also has the right to request from the User supporting documents for the posted Content.
+
+5.7  In the event of claims, disputes, or the application of penalties by third parties and/or regulatory authorities or by court decision in connection with the User's posting of Content and/or any information, advertising materials, and/or the content of advertising materials (compliance of the advertising content with the requirements of applicable law) and/or the quality of the advertised goods/services, such User undertakes to consider and resolve these issues independently without involving the Marketplace Administration, and also undertakes to fully compensate the Marketplace Owner for losses, expenses, including penalties, caused by his violation of the terms of this Agreement.
+
+5.8  All information posted by Users on the Marketplace/Site is considered the property of the Users who posted it, until there is reason to believe otherwise. Such Users bear full responsibility for the compliance of such information (Content) with the legislation of Ukraine. The Marketplace User is aware that any use of the User's Content on the Marketplace is a free temporary reproduction of such Content, and the actions of the Marketplace Administration regarding the reproduction of the Content are aimed solely at facilitating the transfer of Content from the User to other Marketplace Visitors.  Marketplace Users do not receive any rights to use information posted by other Users and are fully responsible to the owner of the information for its improper use.
+
+5.9. The User who has posted Content on the Marketplace agrees to the use of such Content by the Marketplace Administration, as well as to the provision by the Marketplace Administration of rights to use such Content to third parties to the extent determined by the Marketplace Administration free of charge. The Marketplace Administration is not obliged to provide Users with any reports on the use of the Content posted by the User.
+
+6. Requirements for the quality of customer service
+
+6.1  All Sellers are obliged to faithfully fulfill their obligations to Buyers, in particular, Sellers undertake to:
+
+6.1.1  process orders and requests from Buyers regarding the Seller's goods/services, information about which is posted on the Marketplace;
+
+6.1.2  to promptly inform Buyers about the absence of the ordered goods or the impossibility of their delivery within the terms agreed upon by the parties, with the obligatory indication of the reasons and clarification of the terms of fulfillment of its obligations to the Buyer;
+
+6.1.3  promptly (but not later than the deadline specified by the Marketplace Administration in the complaint notification sent to the User) consider and provide a reasoned response to complaints, claims and proposals received from Buyers related to the Seller's activities on the Marketplace. Promptly cooperate with the Marketplace Administration in such cases, promptly notify the Marketplace Administration of the results of consideration of such appeals, and follow recommendations for improving the quality of service, etc.
+
+6.1.4   comply with the requirements of the Law of Ukraine "On Protection of Consumer Rights" regarding the rights of buyers (consumers) when purchasing goods/services on the Marketplace, including those established by Articles 12, 13 of this Law.
+
+6.1.4.1  Before concluding a contract with the Buyer for the purchase and sale of goods through the Marketplace/Seller's Website, the Seller must provide the Buyer with information about:
+
+name of the seller (contractor), its location and procedure for accepting the claim;
+main product characteristics;
+price, including delivery charges, and payment terms;
+warranty obligations and other services related to product maintenance or repair;
+other conditions of delivery or performance of the contract;
+procedure for terminating the contract.
+ 
+
+6.1.4.2 Sellers are obliged, at the request of the Buyer, within 14 (fourteen) calendar days, not counting the day of purchase, to exchange a non-food product of proper quality for a similar one, if the product did not satisfy the consumer in terms of shape, dimensions, style, color, size or for other reasons cannot be used by him for its intended purpose, provided that the product was not used and its presentation, consumer properties, seals, labels, as well as the invoice document for the purchase of this product are preserved. If at the time of exchange, a similar product that would satisfy the consumer's requirements is not on sale, the consumer has the right to either purchase any other products from the available assortment with an appropriate transfer of the cost, or terminate the contract and receive back the money paid for the product, or exchange the product for a similar one at the first entry of the relevant product into sale. Goods specified in the List approved by the Resolution of the Cabinet of Ministers of Ukraine dated March 19, 1994 No. 172 On the Implementation of Certain Provisions of the Law of Ukraine "On Protection of Consumer Rights" are not subject to exchange (return) .
+
+6.1.4.3  The Buyer has the right to terminate the contract by notifying the Seller thereof within 14 (fourteen) days from the moment of confirmation of the order by the Seller or from the moment of receipt of the goods. The return of the goods takes place in accordance with Art. 13 Part 5 Art. 12 of the Law of Ukraine "On Protection of Consumer Rights". This clause does not apply to cases (including, but not exclusively) of purchase by the Buyer of goods made to order, periodicals and in the case of purchase of sealed computer equipment that was opened by the Buyer.
+
+6.1.5 comply with the requirements of the Law of Ukraine “On Ensuring the Functioning of the Ukrainian Language as the State Language” in terms of serving consumers and posting information about goods and/or services in the state language;
+
+6.1.6   provide Buyers with a document confirming the purchase of the goods/services. Such a document may be (including one provided in electronic form) a receipt, a sales receipt, a fiscal check or another document confirming the purchase in accordance with the requirements of the current legislation of Ukraine.
+
+6.1.7  post reliable and complete information about the product (including its description and photo) on the Marketplace/Site in the state language. Information about the availability of the product and the price must be up-to-date at all times. The Buyer has the right to demand, and the Seller is obliged to sell the product to him at the price indicated by the Seller on the Site/Marketplace in accordance with Articles 18, 19 of the Law of Ukraine "On Protection of Consumer Rights".
+
+6.1.8 comply with the service quality standards set out at the link: https://support.prom.ua/hc/uk/articles/5077257055645 , including taking into account in their activities the recommendations set out at the links: https://support.prom.ua/hc/uk/articles/360004991257  and https://support.prom.ua/hc/uk/articles/4405625013021 ; 
+
+6.1.9 not to restrict Buyers from choosing the payment methods for goods available on the Marketplace/Seller's Website and/or delivery methods for goods ordered on the Marketplace/Seller's Website; not to encourage/ask Buyers to change the payment and/or delivery method, cancel an order placed with Prom-payment, etc.
+
+6.2  In the event of a violation by the Seller of the requirements set out in this section of the Agreement, as well as in the event of complaints from Buyers that are not settled by the Seller, frequent cancellation of orders, refusal to sell the goods to the Buyer at the price declared on the Marketplace/Seller's Website and/or with the method of payment and/or delivery of the goods chosen by the Buyer, an increase in the number of negative reviews from Buyers and users, the Marketplace Administration reserves the right to fully or partially restrict access to information about the Seller's goods on the Marketplace, including restricting access to the ProSale Catalog and deactivating the Seller's goods until the Seller eliminates the violations, or restricting the Seller's access to the Prom-payment tool (temporarily or permanently) and the ability to accept payments with this payment method, respectively, or restricting access to the ability to accept orders with a delivery method by which the Seller refuses to deliver the goods to the Buyer, or deleting the Content posted by the Seller on the Marketplace or restricting the User's access to Seller's Account and access to the Marketplace Services and/or refuse to provide services to the Seller and terminate the agreement unilaterally. In this case, restriction of access to the Marketplace Services, including as a result of Users' violation of the provisions of this Section 6 "Requirements for the Quality of Service of Buyers", is not considered a violation by the Marketplace Administration and the fee for access to the Marketplace Services during the period of access restriction is not refunded.
+
+7. Liability. Limitation of Liability.
+
+7.1  The Marketplace Administration is not responsible for any errors, omissions, interruptions, defects and delays in data processing or transmission, failures in communication lines, destruction of any equipment, unauthorized access by third parties to the Marketplace/Site, which caused the User's access to the Services to be restricted. The Marketplace Administration is not responsible for any technical failures or other problems of any telephone networks or services, computer systems, servers or providers, computer or telephone equipment, software, failures of e-mail services or scripts for technical reasons, for the normal functioning and availability of individual segments of the Internet and networks of telecommunications operators involved in the User's access to the Services.
+
+7.2   Services on the Marketplace are provided "as is". The Marketplace Administration does not guarantee the unconditional preservation of the User's Account, the User's subdomain.prom.ua domain name and the information posted by the User on the Marketplace/Site/.  The Marketplace Administration has the right, at its sole discretion, to make changes to the Marketplace software without notifying the Users of such changes.
+
+7.3   The Marketplace Administration is not responsible for the compliance of the Service in whole or in part with the User's expectations, error-free and uninterrupted provision of the Services, termination of the User's access to the Services, as well as for the preservation of the User's login and password that provide access to the Services, for reasons related to technical failures of the Marketplace hardware or software, and does not compensate the User for any losses related to this.
+
+7.4  The Marketplace Administration is not liable to the User for restricting access to the Services, for terminating access to the Services, if these restrictions and terminations arose due to force majeure circumstances that arose after the conclusion of this Agreement and the occurrence of which the Parties could not influence, including, but not limited to, the following: war, riots, strikes, sabotage, embargo, fires, floods, natural disasters, deterioration of the radioelectronic or radiological situation, explosions, actions or inaction of the government of Ukraine or another country, acts of state bodies and/or local self-government bodies, amendments to the legislation of Ukraine, accidents on public networks, changes in the conditions of access to linear and cable means of communication, etc.
+
+7.5  The Marketplace Administration is not liable to the User or any third parties for any direct and/or indirect damages, including lost profits or lost data, damage to honor, dignity or business reputation, incurred in connection with his/her use of the Services, or the inability to use it or unauthorized access by third parties to the User's communications.
+
+7.6  The Marketplace Administration is not responsible for any damage to the User's or another person's electronic devices, any other equipment or software caused by or related to the User's use of the Services.
+
+7.7  The Marketplace Administration is not liable to Users or other third parties for:
+
+7.7.1  the content and legality, reliability and completeness of the information (Content) provided/received by the User when using the Services;
+
+7.7.2 quality of goods/services sold by Sellers on the Marketplace/Site, timely delivery;
+
+7.7.3  compliance of goods/services purchased through the Marketplace/Site with the expectations and/or requirements of the Buyer;
+
+7.7.4   fulfillment by Sellers of their obligations to deliver to Buyers goods/services purchased through the Marketplace/Site, their return or replacement, refund in the event of termination of the contract, etc.;
+
+7.7.5  fulfillment of warranty obligations by Sellers to Buyers for goods/services purchased through the Marketplace/Site;
+
+7.7.6  compliance of the activities carried out by the Seller on the sale of goods/provision of services with the requirements of the legislation of Ukraine;
+
+7.7.7  fulfillment by Buyers of their obligations to pay for goods/services ordered from Sellers.
+
+7.8  In the event that third parties, including another User, file claims against the Marketplace Owner related to the User's use of the Marketplace Services, such User undertakes to settle such claims with third parties on his own and at his own expense, protecting the Marketplace Administration from possible losses and proceedings, or to take the side of the Marketplace Administration in such proceedings, as well as to compensate the Marketplace Owner for losses (including legal costs) incurred in connection with claims and lawsuits related to the placement of materials, Product Items and/or the User's activities on the Marketplace/Site.
+
+7.9  The Marketplace Administration shall not be liable for any losses or damages that directly or indirectly arise for Buyers or Sellers as a result of Sellers’ activities on the Marketplace/Site. The Marketplace Administration shall under no circumstances be liable to Users or third parties for any indirect losses, including lost profits. The Marketplace Administration’s liability is limited to direct, documented losses that have occurred as a result of the actions or inaction of the Marketplace Administration in an amount not exceeding the cost of the services provided to an individual User.
+
+7.10  The Marketplace Administration does not control the quality and delivery terms of the Sellers of goods/services offered by them by placing relevant information on the Marketplace/Site. As a result, the User accepts the condition that all goods and services offered through the Marketplace/Site by the Sellers are provided by them under their own responsibility and the sale of such goods/services is in no way related to the activities of the Marketplace. The Buyer assumes full responsibility and risks for receiving goods and services offered by the Sellers by placing relevant information on the Marketplace/Site. The Seller assumes full responsibility and risks for payment by the Buyers for the purchased goods/services.
+
+7.10.1.  The Marketplace Administration reserves the right not to consider any appeals, not to provide any support, consultations to Users and Visitors of the Marketplace on issues related to the purchase and sale of goods outside the Marketplace (i.e. not through the Cart or chat on the Marketplace). Appeals regarding the purchase and sale of goods via chat may be considered only if a direct connection can be established between the Seller's communication with the Buyer regarding the purchase and sale of goods and the order of this product via chat on the Marketplace.
+
+7.10.2.  The Seller and the Buyer undertake to consider and resolve all disputes regarding goods ordered on the Sites between themselves. Responsibility for compliance with the requirements of the Law of Ukraine "On Protection of Consumer Rights" lies with the parties to the electronic transaction - the Seller and the Buyer.
+
+The Marketplace Administration does not act as an intermediary in the consideration of disputes/complaints between the Seller and Buyers regarding goods ordered on the Sites, except in cases where the goods ordered on the Seller's Site were paid for using Prom-payment.
+
+7.11  The Marketplace Administration reserves the right to delete or block access to information posted by the User, without notice, in the following cases:
+
+7.11.1  obtaining binding decisions of competent state bodies of Ukraine;
+
+7.11.2   demands of owners of intellectual property rights, including, but not limited to, copyright or related rights, rights to trademarks for goods and services, to inventions and utility models, to industrial designs, etc., to cease violations of their rights by the User on the Marketplace/Site;
+
+7.11.3   other violation of the rights or legitimate interests of other Marketplace Users, legal entities and individuals upon their motivated request (including in the case of violations of consumer rights);
+
+7.11.4   identifying information that is prohibited from being posted on the Site or does not meet the requirements of this Agreement (together with attachments);
+
+7.11.5  detection of information about the Seller indicating dishonest use of the Marketplace's functionality, provision of inaccurate information by the User, or performance of activities in violation of the requirements of the current legislation of Ukraine.
+
+7.12  The Marketplace Administration has the right to delete or transfer to another User a domain name in the format subdomain.prom.ua, assigned to the User on the basis of a free service package, if this name is not used by the User for 6 or more calendar months in a row (no visits, no logins to the "Personal Account").
+
+7.13  The Marketplace administration is not responsible for the actions of transfer systems, payment systems and for delays associated with their operation.
+
+7.14 In case of failure by the Seller to comply with clause 4.9 of the User Agreement, the Marketplace Administration has the right to exclude the Seller's goods from the  ProSale catalog  . Exclusion from the catalog means hiding all goods/services and any other information pages posted by the Seller on the Marketplace. The Seller's website remains accessible via a direct link to it.
+
+7.15 If the Marketplace detects product items belonging to the same User (Seller) and in which information about the products is duplicated (in whole or in part), the Marketplace Administration has the right to exclude all products of such Seller from the ProSale Catalog (i.e., to restrict access to such product items) and/or to restrict the User's access to the Personal Account if the violations are not eliminated within the time limits set by the Marketplace Administration. 
+
+7.16  The Marketplace Administration has the right to completely restrict access to the User's accounts (delete them), including accounts associated with the User, if the User has debts to the Marketplace Administration for payment of paid services on the Marketplace.
+
+8. Intellectual property
+
+8.1  The set of programs, data, trademarks, copyright objects, and other objects used on the Marketplace when providing the Services is the intellectual property of its legal rights holders and is protected by the intellectual property legislation of Ukraine, as well as relevant international legal treaties and conventions.
+
+Any use of elements, symbols, texts, graphic images, programs and other objects that are part of the Marketplace and belong to the Marketplace Administration, other than as permitted in this Agreement, without the permission of the Marketplace Administration or other legal right holder is illegal and may result in legal proceedings and the violators being held liable for civil, administrative and criminal liability in accordance with the legislation of Ukraine.
+
+9. Annexes to the Agreement
+
+9.1 Privacy Policy - located at the link .
+
+9.2 Rules for posting information on the Marketplace are available at the link .
+
+9.3 Rules for the registration of goods and services - can be found at the link .
+
+9.4  Rules for publishing reviews - can be found at the link .

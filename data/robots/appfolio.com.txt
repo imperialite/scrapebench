@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /lp/
+Disallow: /public/events/
+Disallow: /public/sales/
+Disallow: /payment/subscription
+Disallow: /app/views/benefits/prices
+Disallow: /free-trial
+Disallow: /homev2
+Sitemap: https://www.appfolio.com/sitemap.xml
+Sitemap: https://www.appfolio.com/video-sitemap.xml
+Sitemap: https://www.appfolio.com/blog/sitemap_index.xml

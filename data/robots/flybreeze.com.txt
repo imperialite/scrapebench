@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /travelpro
+Sitemap: https://www.flybreeze.com/sitemap.xml
+Sitemap: https://www.flybreeze.com/shopping/sitemap_index.xml
+Sitemap: https://www.flybreeze.com/sitemap_dynamic_pages.xml

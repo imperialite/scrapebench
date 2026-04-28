@@ -1,0 +1,8 @@
+Sitemap: https://www.elnuevodia.com/arc/outboundfeeds/sitemap-index?outputType=xml
+Sitemap: https://www.elnuevodia.com/arc/outboundfeeds/news-sitemap-index?outputType=xml
+Sitemap: https://www.elnuevodia.com/sitemaps/sitemap-video-index.xml
+
+User-agent: *
+Disallow: /buscador/
+Disallow: /pf/
+Disallow: /suscripciones/oferta_universitarios/

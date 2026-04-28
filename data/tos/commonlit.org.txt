@@ -1,0 +1,740 @@
+CommonLit | Terms of Use
+Create a free account
+I am an educator
+I am a student
+Do you already have an account?
+Log In
+Solutions
+Impact
+Pricing
+Contact sales
+Log in
+Sign up
+Contact Sales
+Log In
+Sign Up
+Impact
+Pricing
+CommonLit 360
+Professional Development
+Benchmark Assessments
+Curriculum Pilots
+Rostering & LMS Integrations
+Terms of Service
+Last Revised on: May 30, 2025
+‍
+Welcome to CommonLit!  Before using our website (
+www.commonlit.org
+) (the “
+Site
+”), software, products, mobile application(s), and services (together, the “
+Services
+”, “
+our Services
+”, or “
+CommonLit Services
+”), it is important that you carefully read the following agreement.  The Services are copyrighted works belonging to CommonLit, Inc. (“
+CommonLit
+”, “
+us
+”, “
+our
+”, and “
+we
+”).  Certain features of the Services may be subject to additional guidelines, terms, or rules, which will be posted as appropriate in connection with such features.  All such additional terms, guidelines, and rules are incorporated by reference into these Terms of Service.
+‍
+THESE TERMS OF SERVICE (THE “
+TERMS
+”), INCLUDING, TO THE EXTENT IT APPLIES, COMMONLIT’S DATA PROCESSING ADDENDUM (THE “
+DPA
+”), SET FORTH THE LEGALLY BINDING TERMS AND CONDITIONS THAT GOVERN YOUR USE OF OUR SERVICES. BY CHECKING THE APPLICABLE BOX, COMPLETING THE ACCOUNT REGISTRATION PROCESS, OR ACCESSING OR USING THE SERVICES, YOU REPRESENT THAT: (I) YOU HAVE READ, UNDERSTAND, ACCEPT AND AGREE TO BE BOUND BY THESE TERMS, (II) YOU HAVE THE RIGHT, AUTHORITY, AND CAPACITY TO ENTER INTO THESE TERMS (ON BEHALF OF YOURSELF OR THE ENTITY THAT YOU REPRESENT) AND (III) YOU ARE NOT BARRED FROM USING THE SERVICES UNDER THE LAWS OF THE UNITED STATES, YOUR PLACE OF RESIDENCE, OR ANY OTHER APPLICABLE JURISDICTION. IF THE INDIVIDUAL ENTERING INTO THIS AGREEMENT IS DOING SO ON BEHALF OF AN ENTITY, ALL REFERENCES TO “
+YOU
+” OR “
+YOUR
+” IN THESE TERMS WILL ALSO BE DEEMED TO REFER TO SUCH ENTITY. YOU MAY NOT USE THE SERVICES OR ACCEPT THE TERMS IF YOU ARE NOT AT LEAST 13 YEARS OLD.
+IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, YOU MAY NOT USE OR ACCESS THE SERVICES.
+‍
+SECTION 11 (ARBITRATION AGREEMENT) CONTAINS PROVISIONS THAT GOVERN HOW TO RESOLVE DISPUTES BETWEEN YOU AND COMMONLIT.  AMONG OTHER THINGS, SECTION 11 INCLUDES AN AGREEMENT TO ARBITRATE WHICH REQUIRES, WITH LIMITED EXCEPTIONS, THAT ALL DISPUTES BETWEEN YOU AND US SHALL BE RESOLVED BY BINDING AND FINAL ARBITRATION.  SECTION 11 ALSO CONTAINS A CLASS ACTION AND JURY TRIAL WAIVER.  PLEASE READ SECTION 11 (ARBITRATION AGREEMENT) CAREFULLY.
+‍
+UNLESS YOU OPT OUT OF THE ARBITRATION AGREEMENT (AS DEFINED IN SECTION 11) WITHIN THIRTY (30) DAYS IN ACCORDANCE WITH SECTION 11.10 (30-DAY RIGHT TO OPT OUT): (1) YOU WILL ONLY BE PERMITTED TO PURSUE DISPUTES OR CLAIMS AND SEEK RELIEF AGAINST US ON AN INDIVIDUAL BASIS, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING, AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION; AND (2) YOU ARE WAIVING YOUR RIGHT TO PURSUE DISPUTES OR CLAIMS AND SEEK RELIEF IN A COURT OF LAW AND TO HAVE A JURY TRIAL.
+‍
+ANY DISPUTE, CLAIM OR REQUEST FOR RELIEF RELATING IN ANY WAY TO YOUR USE OF THE SERVICES WILL BE GOVERNED AND INTERPRETED BY AND UNDER THE LAWS OF WASHINGTON, D.C., CONSISTENT WITH THE FEDERAL ARBITRATION ACT, WITHOUT GIVING EFFECT TO ANY PRINCIPLES THAT PROVIDE FOR THE APPLICATION OF THE LAW OF ANY OTHER JURISDICTION.  THE UNITED NATIONS CONVENTION ON CONTRACTS FOR THE INTERNATIONAL SALE OF GOODS IS EXPRESSLY EXCLUDED FROM THESE TERMS.
+‍
+ACCOUNTS
+Account Creation.
+In order to use certain features of the Services, you must register for an account and provide certain information about yourself as prompted by the account registration form or be granted access to an account set up by your school (each an “
+Account
+”).  You represent and warrant that: (a) all registration information you submit is truthful, current, complete, and accurate; and (b) you will maintain the accuracy and completeness of all Account information. You or your school, as applicable, may delete your Account at any time, for any reason, by following the instructions on the Site.  You acknowledge and agree that you have no ownership or other property interest in your Account, and you further acknowledge and agree that all rights in and to your Account are and will forever be owned by and inure to the benefit of CommonLit. You agree not to create an Account using a false identity or information, or on behalf of someone other than yourself.  You shall not register for more than one Account at any given time.  CommonLit reserves the right to remove or reclaim any usernames at any time and for any reason, including but not limited to, claims by a third party that a username violates the third party’s rights.  You agree not to create an Account or use the Services if you have been previously removed by CommonLit, or if you have been previously banned from any of the Services. CommonLit may suspend or terminate your Account in accordance with Section 8.
+Account Responsibilities.
+You may not share your Account login information and are responsible for maintaining the confidentiality of your Account login information.  You are fully responsible for all activities that occur under your Account including any activities conducted by minors.  You agree to immediately notify CommonLit of any unauthorized use, or suspected unauthorized use of your Account or any other breach of security.  CommonLit cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements.
+ACCESS TO SERVICES
+License.
+Subject to these Terms, CommonLit grants you a non-transferable, non-sublicensable, non-exclusive, revocable, limited license to use and access the Services solely for your own personal, noncommercial use and to download certain content made available for downloading by CommonLit to you through the Services (the “
+Downloadable Content
+”) and use such Downloadable Content.
+Certain Restrictions.
+The rights granted to you in these Terms are subject to the following restrictions: (a) you shall not license, sell, rent, lease, transfer, assign, distribute, host, or otherwise commercially exploit the Services, whether in whole or in part, or any content displayed on the Services; (b) except for content marked with a Creative Commons license, you shall not modify, make derivative works of, disassemble, reverse compile or reverse engineer any part of the Site or Services; (c) you shall not access the Services in order to build a similar or competitive website, product, or service; (d) except as expressly permitted, no part of the Services may be copied, reproduced, distributed, republished, downloaded, displayed, posted or transmitted in any form or by any means; (e)  you shall not frame or utilize framing techniques to enclose any trademark or logo located on the Services or any portion of the Services (including images, text, page layout or form); (f) you shall not use any metatags or other “hidden text” using CommonLit’s name or trademarks; (g) you shall not use any manual or automated software, devices or other processes (including but not limited to spiders, robots, scrapers, crawlers, avatars, data mining tools, or the like) to “scrape” or download data from any web pages contained in the Services (except that we grant the operators of public search engines revocable permission to use spiders to copy materials from the Site for the sole purpose of and solely to the extent necessary for creating publicly available searchable indices of the materials, but not caches or archives of such materials); (h) you shall not impersonate any person or entity, including any employee or representative of CommonLit; (i) you shall not interfere with or attempt to interfere with the proper functioning of the Services or use the Services in any way not expressly permitted by these Term, including but not limited to violating or attempting to violate any security features of the Services, introducing viruses, worms, or similar harmful code into the Services, or interfering or attempting to interfere with use of the Services by any other user, host, or network, including by means of overloading, “flooding,” “spamming,” “mail bombing,” or “crashing” the Services; and (j) you will not use the Services for any purpose that is prohibited by applicable law.  Unless otherwise indicated, any future release, update, or other addition to functionality of the Services shall be subject to these Terms.  All copyright, trademark, service mark, and other proprietary notices on the Services (or on any content displayed on any Service) must be retained on all copies thereof. Some CommonLit content may be offered under open source licenses, including the Creative Commons Attribution/Non-Commercial/Share Alike 4.0 International license (CC BY-NC-SA4.0), that we will make available to you upon your request. For general information on CC BY-NC-SA 4.0 license, please visit
+https://creativecommons.org/licenses/by-nc-sa/4.0
+.  There may be provisions in the open source licenses that expressly override some of these Terms.
+Generative Artificial Intelligence
+.  You may not permit or enable any generative artificial intelligence tools, platforms, models or any other instances of artificial intelligence, to scrape, train on, and/or use any content from the Services including but not limited to the CommonLit database, Site, or electronic resources, unless you have obtained CommonLit’s express prior written consent.
+Modification.
+We reserve the right, at any time, to update, modify, suspend, or discontinue the Services (in whole or in part) in our sole discretion, with or without notice to you.  If CommonLit removes or discontinues a material feature or function of the Services, we will use commercially reasonable efforts to provide notice. CommonLit may require you to install updates to the software, applications, or devices through which you access or use the Services.  You agree that CommonLit will not be liable to you or to any third party for any update to, modification of, suspension of, or discontinuation of the Services or any part thereof.
+No Support or Maintenance.
+You acknowledge and agree that CommonLit will have no obligation to provide you with any support or maintenance in connection with the Services.
+Ownership.
+Services.
+Excluding any User Content (defined in Section 3.1), you acknowledge that all the intellectual property rights, including copyrights, patents, trademarks, and trade secrets, in the Services and their content (including all computer code, themes objects, characters, character names, stories, dialogue, concepts, artwork, animations, sounds, musical compositions, audiovisual effects, moral rights, documentation, and software) are owned by CommonLit or our suppliers.  Neither these Terms (nor your use of the Services) transfers to you or any third party any rights, title or interest in or to such intellectual property rights, except for the limited access rights expressly set forth in Section 2.1 . CommonLit and its suppliers reserve all rights not expressly granted in these Terms.  There are no implied licenses granted under these Terms.
+Copyright/Trademarks.
+Copyright © 2025 CommonLit, Inc. All rights reserved.  All trademarks, logos and service marks used on or with the Services (“
+Marks
+”), including “CommonLit” and all related stylizations, graphics and logos, are our property or the property of other third parties. You are not permitted to use these Marks without our prior written consent or the consent of such third party which may own the Marks. You agree not to use any name or emblem of CommonLit in any advertising or promotional materials, or to falsely suggest any relationship between you and us, or in any manner that would infringe or violate any of our rights.
+Compliance with Law.
+You are responsible for using the Services in compliance with all applicable U.S. federal and state laws and regulations, the laws of the jurisdiction in which you access or use the Service, and any other applicable laws.  You shall not use the Services in violation of any applicable law.
+Use by Children Under 13.
+The Children’s Online Privacy Protection Act (“
+COPPA
+”) requires that all online service providers, including CommonLit, obtain the consent of a parent or legal guardian (“
+Parent
+”) before knowingly collecting personally identifiable information from children under the age of 13 (“
+Child Users
+”).  CommonLit does not knowingly permit Child Users to use the Services without prior, express consent from a Parent unless (and where permitted by law) a school, district, or other institutional customer (a “
+School Subscriber
+”) consents on behalf of the Parent in connection with the use of the Services for educational purposes or as otherwise permitted under COPPA.  If we learn that personal information of a Child User has been collected on our Services without the necessary consent, then we will comply with applicable legal requirements to delete the information.  If you believe that a child under the age of 13 (or a higher age if required by applicable law) has provided personally identifiable information to us without the necessary consent, please contact us at
+security@commonlit.org
+, and, if the Child User is accessing the Services through a School Subscriber, please also contact the School Subscriber to request deletion of the Child User’s personal information.
+Accessibility
+.  CommonLit is committed to ensuring that the Services remain accessible to all individuals, regardless of disability.  CommonLit will take reasonable steps to ensure that the Services meet common industry standards for accessibility and materially comply with the requirements of the Americans with Disabilities Act (“
+ADA
+”), as applicable.  If you have any suggestions about improvements CommonLit can make to enhance the accessibility of the Services, you may submit such Feedback at
+help@commonlit.org
+.
+USER CONTENT
+User Content.
+“
+User Content
+” means any and all information, data, text, materials and other content (“
+Content
+”) that a user submits to, or uses with, or otherwise makes available to or through the Services.  You acknowledge that all User Content is the sole responsibility of the party from whom such User Content originated. This means that you, and not CommonLit, are solely responsible for User Content that you, or any individual (e.g., a student or school official) to whom you make the Services available, upload, post, e-mail, transmit or otherwise make available through the Services (“
+Your Content
+”).  Because we do not control User Content, you acknowledge and agree that we are not responsible for any User Content, whether provided by you or by others.  We make no guarantees regarding the accuracy, currency, suitability, or quality of any User Content.  You assume all risks associated with use of Your Content, including any reliance on its accuracy, completeness or usefulness by others, or any disclosure of Your Content that personally identifies you or any third party.  You hereby represent and warrant that (i) Your Content does not violate our Acceptable Use Policy (defined in Section 3.3), and (ii) you have all necessary rights, licenses and permissions with respect to Your Content, including that you have provided all required notices and obtained all consents necessary to provide or make available Your Content to CommonLit and to enable CommonLit’s processing of such Your Content as contemplated herein.  You may not represent or imply to others that Your Content is in any way provided, sponsored or endorsed by CommonLit.  Because you are responsible for Your Content, you may expose yourself to liability if, for example, Your Content violates the Acceptable Use Policy or applicable law.  We are not obligated to backup any User Content, and User Content may be deleted at any time without prior notice.  You are solely responsible for creating and maintaining your own backup copies of Your Content if you desire. To the extent that you or the individuals that you grant access to submit Your Content containing Personal Data (as defined in the DPA), you agree that such Personal Data will be governed by the terms of the DPA appended hereto as Exhibit A, which shall be deemed incorporated within and part of this Agreement. References herein to the Agreement include the DPA. In the event of any conflict between these Terms and the terms of the DPA with respect to the treatment of Personal Data, the terms of the DPA shall prevail.
+License.
+You hereby grant (and you represent and warrant that you have the right to grant) to CommonLit an irrevocable, non-exclusive, royalty-free and fully paid, worldwide license to reproduce, distribute, publicly display and perform, prepare derivative works of, incorporate into other works, and otherwise use and exploit Your Content, and to grant sublicenses of the foregoing rights, solely for the purposes of including Your Content in the Services and otherwise providing the Services.  You further grant CommonLit the right to collect, compile, create and/or derive from Your Content and/or information related to your use or use by any individual to whom you make the Services available information or statistics that are deidentified, anonymized and/or aggregated (“
+Anonymized Data
+”), provided such Anonymized Data does not identify you or any individual person, and, both during and after the Term, to use, publicize, share with third parties or otherwise process such Anonymized Data to improve CommonLit’s products and services and for its other legitimate business purposes. As between CommonLit and you, all right, title and interest in Anonymized Data belong to and are retained solely by CommonLit. You hereby irrevocably waive (and agree to cause to be waived) any claims and assertions of moral rights or attribution with respect to Your Content. CommonLit agrees not to sell Your Content, use Your Content to generate targeted advertising, or otherwise use Your Content for commercial profiling purposes.
+Acceptable Use Policy.
+The following terms constitute our “
+Acceptable Use Policy
+”:
+You agree not to use the Services to collect, upload, transmit, display, or distribute any User Content (i) that violates any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right; (ii) that is unlawful, harassing, abusive, tortious, violent, threatening, harmful, invasive of another’s privacy, vulgar, defamatory, libelous, false, intentionally misleading, trade libelous, pornographic, obscene, patently offensive, promotes racism, bigotry, hatred, or physical harm of any kind against any group or individual or is otherwise objectionable; (iii) that is harmful to minors in any way; or (iv) that is in violation of any law, regulation, or obligations or restrictions imposed by any third party.
+You agree not to: (i) upload, transmit, or distribute to or through the Services any computer viruses, worms, or any software intended to damage or alter a computer system or data; (ii) send through the Services unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, or any other form of duplicative or unsolicited messages, whether commercial or otherwise; (iii)  use the Services to harvest, collect, gather or assemble information or data regarding other users, including e-mail addresses, without their consent; (iv) interfere with, disrupt, or create an undue burden on servers or networks connected to the Services, or violate the regulations, policies or procedures of such networks; (v) attempt to gain unauthorized access to our Services (or to other computer systems or networks connected to or used together with the Services), whether through password mining or any other means; (vi) harass or interfere with any other user’s use and enjoyment of the Services; (vii) use software or automated agents or scripts to produce multiple accounts on the Services, or to generate automated searches, requests, or queries to (or to strip, scrape, or mine data from) our Services (provided, however, that we conditionally grant to the operators of public search engines revocable permission to use spiders to copy materials from the Services for the sole purpose of and solely to the extent necessary for creating publicly available searchable indices of the materials, but not caches or archives of such materials, subject to the parameters set forth in our robots.txt file); (viii) attempt to probe, scan, or test the vulnerability of any CommonLit system or network, or breach any security or authentication measures; and (ix) include any of the protected Content in a database, website or electronic resource, and from making any other use of the protected Content that is not expressly permitted.
+Enforcement.
+We reserve the right (but have no obligation) to review, monitor, pre-screen, and/or refuse any User Content, and to investigate and/or take action against you in our sole discretion if you violate the Acceptable Use Policy or any other provision of these Terms or otherwise create liability for us or any other person. Such action may include removing or modifying User Content, suspending or terminating your Account and access to the Services in accordance with Section 8, and/or reporting you to law enforcement authorities. You hereby provide your irrevocable consent to our monitoring of Your Content and acknowledge and agree that you have no expectation of privacy concerning the transmission of Your Content, including without limitation chat, text, or voice communications. You accept and agree that we may disclose your identity or other information about you to any third party who claims that material posted by you violates their rights, including their intellectual property rights or their right to privacy. If CommonLit believes that criminal activity has occurred, we reserve the right to, except to the extent prohibited by applicable law, disclose any information or materials on or in the Service, including Your Content, in our possession in connection with your use of the Service, to (i) comply with applicable laws, legal process or governmental request, (ii) enforce these Terms, (iii) respond to any claims that Your Content violates the rights of third parties, (iv) respond to your requests for customer service, or (v) protect the rights, property, or personal safety of CommonLit, its users or the public, and all enforcement or other government officials, as we in our sole discretion believe to be necessary or appropriate.
+Username
+.  Notwithstanding anything contained herein to the contrary, by submitting Your Content to any forums, comments, or any other area on the Service, you hereby expressly permit CommonLit to identify you by your username (which may be a pseudonym) as the contributor of Your Content in any publication in any form, media or technology now known or later developed in connection with such Your Content.
+Feedback.
+If you provide us with any feedback, ideas, documents, proposals, and/or suggestions regarding the Services (“
+Feedback
+”), you agree that you do so at your own risk and that we have no obligations with respect to the Feedback.  You hereby assign to CommonLit all rights in such Feedback and agree that we shall have the right to use and fully exploit such Feedback in our sole discretion.  CommonLit will treat any Feedback you provide to us as non-confidential and non-proprietary.  You agree that you will not submit to CommonLit any information or ideas that you consider to be confidential or proprietary.  You represent and warrant that you have all rights necessary to submit all Feedback.
+Privacy Policy and Student Personal Information.
+We take student privacy seriously and are committed to complying with all laws and regulations relevant to the collection and use of personal information.  CommonLit agrees not to allow third parties to track your use of the Services for their own purposes and will not track your activity across any third-party application.   Our practices regarding Personal Data are described in detail in our Privacy Policy, which can be found at
+www.commonlit.org/en/privacy
+. Our Privacy Policy may change from time to time.  We will provide notice of material changes as set forth in that Privacy Policy. You are responsible for reading our Privacy Policy. In the event of any conflict or inconsistency between the Privacy Policy and any terms in the DPA, the terms in the DPA will prevail and supersede.
+Consent to Contact by CommonLit
+.  Through your use of the Services, we may contact you (through email or push notifications).  Such contacts are intended, among other things, to enhance your experience using the Services and to offer you the opportunity to try other CommonLit Services. BY REGISTERING FOR, ACCESSING, OR OTHERWISE USING THE SERVICES, YOU AGREE TO SUCH CONTACTS BY COMMONLIT.  CommonLit agrees not to send you marketing messages from third parties or to provide your contact information to third parties for marketing purposes.
+To permanently stop receiving emails from CommonLit, click the “Unsubscribe” link at the bottom of an email sent by CommonLit and follow the applicable instructions.
+To shut off push notifications from the CommonLit mobile application, please follow the instructions from your mobile phone manufacturer.
+INDEMNIFICATION.
+You agree to indemnify and hold CommonLit (and its officers, employees, and agents) harmless, including costs and attorneys’ fees, from any losses, costs, liabilities and expenses arising from a claim or demand made by any third party due to or arising out of (a) your use of or inability to use the Services, (b) your violation of these Terms, (c) your violation of applicable laws or regulations or the rights of any third-party; or (d) Your Content.  CommonLit reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims.  You agree not to settle any matter without the prior written consent of CommonLit.  This provision does not require you to indemnify CommonLit for any unconscionable commercial practice or for our fraud, deception, false promise, misrepresentation or concealment, or suppression or omission of any material fact in connection with the Services.  You agree that the provisions in this Section 4 will survive any termination of your Account, these Terms and/or your access to the Services.
+THIRD-PARTY LINKS; OTHER USERS
+Third-Party Links.
+The Services may contain links to third-party websites, applications, and services, (collectively, “
+Third-Party Links
+”).  Such Third-Party Links are not under the control of CommonLit, and we are not responsible for any Third-Party Links.  CommonLit provides access to these Third-Party Links only as a convenience to you, and does not review, approve, monitor, endorse, warrant, or make any representations with respect to Third-Party Links.  You use all Third-Party Links at your own risk, and should apply a suitable level of caution and discretion in doing so. When you click on any of the Third-Party Links, the applicable third-party’s terms and policies apply, including the third-party’s privacy and data gathering practices.  You should make whatever investigation you feel necessary or appropriate before proceeding with any transaction in connection with such Third-Party Links. We will not warn you when you have left the Services and are subject to such third-party terms and policies and you interact with third-party links at your own risk.
+Other Users.
+Your interactions with other users of the Services are solely between you and such users.  You agree that CommonLit is not responsible for any loss or damage incurred as the result of any such interactions.  If there is a dispute between you and any user of the Services, we are under no obligation to become involved.
+App Stores.
+You acknowledge and agree that the availability of any application which hosts the Services, whether provided by CommonLit or a third-party host, (the “
+Application
+”) is dependent on the third-party app store from whom you received the Application license, e.g., Google Play or Apple App Store (each an “
+App Store
+”).  You acknowledge that these Terms are between you and CommonLit and not with the App Store.  CommonLit and its providers, not the App Store, are solely responsible for the Services, including the Application, the content thereof, maintenance, support services, and any warranty therefor, and addressing any claims relating thereto (e.g., product liability, legal compliance or intellectual property infringement).  You also agree to pay all fees (if any) charged by the App Store in connection with the Services, including the Application.  You agree to comply with, and your license to use the Application is conditioned upon your compliance with, all applicable third-party terms of agreement (e.g., the App Store’s terms and policies) when using the Services, including the Application. You acknowledge that the App Store (and its subsidiaries) are third-party beneficiaries of these Terms and will have the right to enforce the terms of these Terms with respect to the relevant Application.
+Third-Party Application Access.
+With respect to any Application accessed through or downloaded from the Apple App Store (an
+“Apple App Store Sourced Application”
+), you shall only use the Apple App Store Sourced Application (i) on an Apple-branded product that runs the iOS (Apple’s proprietary operating system) and (ii) as permitted by the “Usage Rules” set forth in the Apple Media Terms of Service, except that such Apple App Store Sourced Application may be accessed, acquired, and used by other accounts associated with the purchaser via Apple’s Family Sharing function, volume purchasing, or Legacy Contacts function.  Notwithstanding the first sentence in this Section 5.3a, with respect to any Application accessed through or downloaded from the Google Play store (a
+“Google Play Sourced Application”
+), you may have additional license rights with respect to use of the Application on a shared basis within your designated family group.
+Accessing and Downloading the Application from the Apple App Store.
+The following applies to any Apple App Store Sourced Application accessed through or downloaded from the Apple App Store:
+You acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the App Store Sourced Application.
+In the event of any failure of the Apple App Store Sourced Application to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the App Store Sourced Application to you and to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the App Store Sourced Application.  As between CommonLit and Apple, any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be the sole responsibility of CommonLit.
+You and CommonLit acknowledge that, as between CommonLit and Apple, Apple is not responsible for addressing any claims you have or of any third party relating to the Apple App Store Sourced Application or your possession and use of the Apple App Store Sourced Application, including, but not limited to: (i) product liability claims; (ii) any claim that the Apple App Store Sourced Application fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation.
+You and CommonLit acknowledge that, in the event of any third-party claim that the App Store Sourced Application or your possession and use of that Apple App Store Sourced Application infringes that third party’s intellectual property rights, as between CommonLit and Apple, CommonLit, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim to the extent required by these Terms.
+Without limiting these Terms, you must comply with all applicable third-party terms of agreement when using the Apple App Store Sourced Application.
+DISCLAIMERS
+‍
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE SERVICES ARE PROVIDED ON AN “AS-IS” AND “AS AVAILABLE” BASIS WITH ALL FAULTS, AND COMMONLIT (AND OUR SUPPLIERS) EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES, REPRESENTATIONS, AND CONDITIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING ALL WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, ACCURACY, OR NON-INFRINGEMENT.  WE (AND OUR SUPPLIERS) MAKE NO WARRANTY THAT THE SERVICES WILL MEET YOUR REQUIREMENTS, WILL BE AVAILABLE ON AN UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE BASIS, OR WILL BE ACCURATE, RELIABLE, FREE OF VIRUSES OR OTHER HARMFUL CODE, COMPLETE, LEGAL, OR SAFE.  IF APPLICABLE LAW REQUIRES ANY WARRANTIES WITH RESPECT TO THE SERVICES, ALL SUCH WARRANTIES ARE LIMITED IN DURATION TO NINETY (90) DAYS FROM THE DATE OF FIRST USE.
+YOU ARE SOLELY RESPONSIBLE FOR ALL OF YOUR COMMUNICATIONS AND INTERACTIONS WITH THIRD PARTIES ON THE SERVICES.  YOU ACKNOWLEDGE AND AGREE THAT COMMONLIT IS NOT LIABLE, AND YOU AGREE NOT TO SEEK TO HOLD COMMONLIT LIABLE, FOR THE CONDUCT OF THIRD PARTIES, INCLUDING OPERATORS OF THIRD-PARTY LINKS, AND THAT THE RISK OF INJURY FROM SUCH THIRD PARTIES RESTS ENTIRELY WITH YOU.  YOU UNDERSTAND THAT COMMONLIT DOES NOT MAKE ANY ATTEMPT TO VERIFY THE STATEMENTS OF USERS. COMMONLIT MAKES NO WARRANTY THAT THE GOODS OR SERVICE PROVIDED BY THIRD PARTIES WILL MEET YOUR REQUIREMENTS OR BE AVAILABLE ON AN UNINTERRUPTED, SECURE, OR ERROR-FREE BASIS.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU.  SOME JURISDICTIONS DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+‍
+LIMITATION ON LIABILITY
+‍
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL COMMONLIT (OR OUR SUPPLIERS) BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY LOST PROFITS, LOST DATA, COSTS OF PROCUREMENT OF SUBSTITUTE PRODUCTS, OR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES ARISING FROM OR RELATING TO THESE TERMS OR YOUR USE OF, OR INABILITY TO USE, THE SERVICES, EVEN IF COMMONLIT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  ACCESS TO, AND USE OF, THE SERVICES IS AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR DEVICE OR COMPUTER SYSTEM, OR LOSS OF DATA RESULTING THEREFROM.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, OUR LIABILITY TO YOU FOR ANY DAMAGES ARISING FROM OR RELATED TO THESE TERMS (FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION), WILL AT ALL TIMES BE LIMITED TO A MAXIMUM OF FIFTY US DOLLARS (U.S. $50) OR, IF APPLICABLE, THE MINIMUM STATUTORY REMEDY OR PENALTY IMPOSED BY THE STATUTE UNDER WHICH SUCH CLAIM ARISES. THE EXISTENCE OF MORE THAN ONE CLAIM WILL NOT ENLARGE THIS LIMIT.  YOU AGREE THAT OUR SUPPLIERS WILL HAVE NO LIABILITY OF ANY KIND ARISING FROM OR RELATING TO THESE TERMS. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
+‍
+TERMS AND TERMINATION
+Termination; Effect of Termination.
+Subject to this Section 8.1, these Terms will remain in full force and effect while you use the Services.  We may suspend or terminate your rights to use the Services (including your Account) at any time for any reason at our sole discretion, including for any use of the Services in violation of these Terms.  If you want to terminate these Terms, you may do so by (i) notifying CommonLit at any time and (ii) closing your Account for the Services.  Your notice should be sent, in writing, to our address set forth in Section 12.9 below or by contacting help@commonlit.org. Upon termination of your rights under these Terms, your Account and license to access and use the Services will terminate immediately.  You understand that any termination of your Account may involve deletion of Your Content associated with your Account from our live databases.  CommonLit will not have any liability whatsoever to you for any termination of your rights under these Terms, including for termination of your Account or deletion of Your Content.  Even after your rights under these Terms are terminated, all provisions of these Terms which by their nature should survive, will survive, including without limitation: Sections 2.2 through 2.6, and Sections 3 through 12.
+‍
+COPYRIGHT POLICY
+‍
+CommonLit respects the intellectual property of others and asks that users of our Services do the same.  In connection with our Services, we have adopted and implemented a policy respecting copyright law that provides for the removal of any infringing materials and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers of intellectual property rights, including copyrights.  If you believe that any Content on the Services is unlawfully infringing the copyright(s) in a work, and wish to have the allegedly infringing material removed, the following information in the form of a written notification (pursuant to 17 U.S.C. § 512(c)) must be provided to our designated Copyright Agent.
+your physical or electronic signature;
+identification of the copyrighted work(s) or intellectual property right that you claim to have been infringed;
+identification of the material on our Services that you claim is infringing and that you request us to remove;
+sufficient information to permit us to locate such material;
+your address, telephone number, and e-mail address;
+a written statement that you have a good faith belief that use of the objectionable material is not authorized by the copyright owner, its agent, or under the law; and
+a statement that the information in the notification is accurate, and under penalty of perjury, that you are either the owner of the copyright that has allegedly been infringed or that you are authorized to act on behalf of the copyright owner.
+Please note that, pursuant to 17 U.S.C. § 512(f), any misrepresentation of material fact (falsities) in a written notification automatically subjects the complaining party to liability for any damages, costs and attorney’s fees incurred by us in connection with the written notification and allegation of copyright infringement. The designated Copyright Agent for CommonLit is:
+CommonLit, Inc.
+PO Box 15189
+Washington, D.C. 20003
+By email:
+permissions@commonlit.org
+FEES AND PAYMENT
+‍
+Fees.
+Certain CommonLit Services are available for free to individual end users (“
+Free Services
+”).  Other CommonLit services are only available in exchange for your payment of fees (“
+Fees
+”) and the execution of a separate agreement between you and CommonLit (a “
+Sales Contract
+”).  We reserve the right to introduce Fees for any Free Service upon thirty (30) days’ notice to existing users and, following such notice period, your continued use of such Service would be contingent on entering a Sales Contract and paying the applicable Fee.  CommonLit may allow a user a free trial period or otherwise begin use of these Services prior to receipt of payment.  However, such trial or free use does not establish the Services as a Free Service.  CommonLit reserves the right to suspend or terminate access to all Services to any user if any Fee is not paid in full and on-time.  CommonLit reserves all rights to seek payment for any amounts due in addition to such rights to terminate or suspend access.  If applicable, you shall immediately notify CommonLit of any change in your payment information to maintain its completeness and accuracy.  CommonLit reserves the right at any time to change its prices and billing methods in its sole discretion.  Except as set forth in these Terms, all Fees for the Services are non-refundable.
+‍
+Taxes.
+The Fees do not include any Sales Tax (defined below) that may be due in connection with the Services provided under these Terms.  If CommonLit determines it has a legal obligation to collect Sales Tax from you in connection with these Terms, you shall provide to CommonLit such Sales Tax, in addition to the Fees, or a valid certificate of exemption from such Sales Tax.  If any services, or payments for any services, under these Terms are subject to any Sales Tax in any jurisdiction and you have not remitted the applicable Sales Tax to CommonLit, you shall be responsible for the payment of such Sales Tax and any related penalties or interest to the relevant tax authority, and you shall indemnify CommonLit for any liability or expense CommonLit may incur in connection with such Sales Taxes.  Upon CommonLit’s request, you will provide it with official receipts issued by the appropriate taxing authority, or other such evidence that you have paid all applicable taxes or are exempt from such taxes.  For purposes of this section,
+“Sales Tax”
+means any sales or use tax and any other tax measured by sales proceeds that is the functional equivalent of a sales tax where the applicable taxing jurisdiction does not otherwise impose a sales or use tax.
+‍
+Third-Party Service Provider.
+CommonLit uses Stripe, Inc. and its affiliates as its third-party service provider for payment services (e.g., card acceptance, merchant settlement, and related services) (
+“Third-Party Service Provider”
+).  If you enter into a Sales Contract or otherwise make a purchase connected to the Service, you will be required to provide your payment details and any additional information required to complete your order directly to our Third-Party Service Provider.  By providing CommonLit and/or our Third-Party Service Provider with your payment information, you agree that CommonLit and/or our Third-Party Service Provider are authorized to immediately invoice your Account for all Fees due and payable to CommonLit hereunder and that no additional notice or consent is required. You agree to be bound by Stripe, Inc.’s Privacy Policy (currently accessible at
+https://stripe.com/us/privacy
+) and its Terms of Service (currently accessible at
+https://stripe.com/ssa
+) and hereby consent and authorize CommonLit and Stripe, Inc. to share any information and payment instructions you provide with one or more Third-Party Service Provider(s) to the minimum extent required to complete your transactions.  Please note that online payment transactions may be subject to validation checks by our Third-Party Service Provider and your card issuer, and we are not responsible if your card issuer declines to authorize payment for any reason.  For your protection, our Third-Party Service Provider uses various fraud prevention protocols and industry standard verification systems to reduce fraud and you authorize it to verify and authenticate your payment information.  Your card issuer may charge you an online handling fee or processing fee.  We are not responsible for this.  In some jurisdictions, our Third-Party Service Provider may use third parties under strict confidentiality and data protection requirements for the purposes of payment processing services. Your failure to provide accurate payment information to CommonLit and/or our Third-Party Service Provider when required or our inability to collect payment constitutes your material breach of these Terms.
+‍
+ARBITRATION AGREEMENT.  Please read this section (the “Arbitration Agreement”) carefully.  It is part of your contract with CommonLit and affects your rights.  It contains procedures for MANDATORY BINDING ARBITRATION AND A CLASS ACTION WAIVER.
+Applicability of Arbitration Agreement.
+Subject to the terms of this Arbitration Agreement, you and CommonLit agree that any dispute, claim, disagreements arising out of or relating in any way to your access to or use of the Services, any communications you receive, any products sold or distributed through the Services or these Terms and prior versions of these Terms, including claims and disputes that arose between you and us before the effective date of these Terms (each, a
+“Dispute”
+) will be resolved by binding arbitration, rather than in court, except that: (i) you and CommonLit may assert claims or seek relief in small claims court if such claims qualify and remain in small claims court; and (ii) you or CommonLit may seek equitable relief in court for infringement or other misuse of intellectual property rights (such as trademarks, trade dress, domain names, trade secrets, copyrights, and patents).  For purposes of this Arbitration Agreement, “Dispute” will also include disputes that arose or involve facts occurring before the existence of this or any prior versions of these Terms as well as claims that may arise after the termination of these Terms.
+‍
+Informal Dispute Resolution.
+There might be instances when a Dispute arises between you and CommonLit.  If that occurs, CommonLit is committed to working with you to reach a reasonable resolution.  You and CommonLit agree that good faith informal efforts to resolve Disputes can result in a prompt, low‐cost and mutually beneficial outcome (
+“Informal Dispute Resolution”
+).  You and CommonLit therefore agree that before either party commences arbitration against the other (or initiates an action in small claims court if a party so elects), we will personally meet and confer telephonically or via videoconference, in a good faith effort to resolve informally any Dispute covered by this Arbitration Agreement (
+“Informal Dispute Resolution Conference”
+).  If you are represented by counsel, your counsel may participate in the conference, but you will also participate in the conference.
+The party initiating a Dispute must give notice to the other party in writing of its intent to initiate an Informal Dispute Resolution Conference (
+“Notice”
+), which shall occur within forty-five (45) days after the other party receives such Notice, unless an extension is mutually agreed upon by the parties.  Notice to CommonLit that you intend to initiate an Informal Dispute Resolution Conference should be sent by email to security@commonlit.org or regular mail to our offices located at [PO Box 15189, Washington, DC, 20003].  The Notice must include: (1) your name, telephone number, mailing address, e‐mail address associated with your Account (if you have one); (2) the name, telephone number, mailing address and e‐mail address of your counsel, if any; and (3) a description of your Dispute.
+The Informal Dispute Resolution Conference shall be individualized such that a separate conference must be held each time either party initiates a Dispute, even if the same law firm or group of law firms represents multiple users in similar cases, unless all parties agree; multiple individuals initiating a Dispute cannot participate in the same Informal Dispute Resolution Conference unless all parties agree.  In the time between a party receiving the Notice and the Informal Dispute Resolution Conference, nothing in this Arbitration Agreement shall prohibit the parties from engaging in informal communications to resolve the initiating party’s Dispute.  Engaging in the Informal Dispute Resolution Conference is a condition precedent and requirement that must be fulfilled before commencing arbitration.  The statute of limitations and any filing fee deadlines shall be tolled while the parties engage in the Informal Dispute Resolution Conference process required by this section.
+‍
+Waiver of Jury Trial.
+YOU AND COMMONLIT HEREBY WAIVE ANY CONSTITUTIONAL AND STATUTORY RIGHTS TO SUE IN COURT AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY.  You and CommonLit are instead electing that all Disputes shall be resolved by arbitration under this Arbitration Agreement, except as specified in Section 11.1 (Applicability of Arbitration Agreement).  There is no judge or jury in arbitration, and court review of an arbitration award is subject to very limited review.
+‍
+Waiver of Class and Other Non-Individualized Relief.
+YOU AND COMMONLIT AGREE THAT, EXCEPT AS SPECIFIED IN SECTION 11.9 (BATCH ARBITRATION), EACH OF US MAY BRING CLAIMS AGAINST THE OTHER ONLY ON AN INDIVIDUAL BASIS AND NOT ON A CLASS, REPRESENTATIVE, OR COLLECTIVE BASIS, AND THE PARTIES HEREBY WAIVE ALL RIGHTS TO HAVE ANY DISPUTE BE BROUGHT, HEARD, ADMINISTERED, RESOLVED, OR ARBITRATED ON A CLASS, COLLECTIVE, REPRESENTATIVE, OR MASS ACTION BASIS.  ONLY INDIVIDUAL RELIEF IS AVAILABLE, AND DISPUTES OF MORE THAN ONE CUSTOMER OR USER CANNOT BE ARBITRATED OR CONSOLIDATED WITH THOSE OF ANY OTHER CUSTOMER OR USER.  Subject to this Arbitration Agreement, the arbitrator may award declaratory or injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by the party’s individual claim.  Nothing in this paragraph is intended to, nor shall it, affect the terms and conditions under Section 11.9 (Batch Arbitration).  Notwithstanding anything to the contrary in this Arbitration Agreement, if a court decides by means of a final decision, not subject to any further appeal or recourse, that the limitations of this section are invalid or unenforceable as to a particular claim or request for relief (such as a request for public injunctive relief), you and CommonLit agree that that particular claim or request for relief (and only that particular claim or request for relief) shall be severed from the arbitration and may be litigated in the courts located in Washington D.C.  All other Disputes shall be arbitrated or litigated in small claims court.  This section does not prevent you or CommonLit from participating in a class-wide settlement of claims.
+‍
+Rules and Forum.
+These Terms evidence a transaction involving interstate commerce; and notwithstanding any other provision herein with respect to the applicable substantive law, the Federal Arbitration Act, 9 U.S.C. § 1
+et seq.
+, will govern the interpretation and enforcement of this Arbitration Agreement and any arbitration proceedings.  If the Informal Dispute Resolution process described above does not resolve satisfactorily within sixty (60) days after receipt of your Notice, you and CommonLit agree that either party shall have the right to finally resolve the Dispute through binding arbitration.  The arbitration will be administered by the American Arbitration Association (
+“AAA”
+), in accordance with the Consumer Arbitration Rules (the
+“AAA Rules”
+) then in effect, except as modified by this section of this Arbitration Agreement.  The AAA Rules are currently available at https://www.adr.org/sites/default/files/Consumer%20Rules.pdf.
+A party who wishes to initiate arbitration must provide the other party with a request for arbitration (the
+“Request”
+).  The Request must include: (1) the name, telephone number, mailing address, e‐mail address of the party seeking arbitration and the account username (if applicable) as well as the email address associated with any applicable Account; (2) a statement of the legal claims being asserted and the factual bases of those claims; (3) a description of the remedy sought and an accurate, good‐faith calculation of the amount in controversy in United States dollars; (4) a statement certifying completion of the Informal Dispute Resolution process as described above; and (5) evidence that the requesting party has paid any necessary filing fees in connection with such arbitration.
+If the party requesting arbitration is represented by counsel, the Request shall also include counsel’s name, telephone number, mailing address, and email address.  Such counsel must also sign the Request.  By signing the Request, counsel certifies to the best of counsel’s knowledge, information, and belief, formed after an inquiry reasonable under the circumstances, that: (1) the Request is not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of dispute resolution; (2) the claims, defenses and other legal contentions are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law; and (3) the factual and damages contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after a reasonable opportunity for further investigation or discovery.
+Unless you and CommonLit otherwise agree, or the Batch Arbitration process discussed in Section 11.9 (Batch Arbitration) is triggered, the arbitration will be conducted in the county where you reside.  Subject to the AAA Rules, the arbitrator may direct a limited and reasonable exchange of information between the parties, consistent with the expedited nature of the arbitration.  If the AAA is not available to arbitrate, the parties will select an alternative arbitral forum.  Your responsibility to pay any AAA fees and costs will be solely set forth in the applicable AAA Rules.
+You and CommonLit agree that all materials and documents exchanged during the arbitration proceedings shall be kept confidential and shall not be shared with anyone except the parties’ attorneys, accountants, or business advisors, and shall be subject to the condition that they agree to keep all materials and documents exchanged during the arbitration proceedings confidential.
+‍
+Arbitrator.
+The arbitrator will be either a retired judge or an attorney licensed to practice law in Washington D.C. and will be selected by the parties from the AAA’s roster of consumer dispute arbitrators.  If the parties are unable to agree upon an arbitrator within thirty-five (35) days of delivery of the Request, then the AAA will appoint the arbitrator in accordance with the AAA Rules, provided that if the Batch Arbitration process under Section 11.9 (Batch Arbitration) is triggered, the AAA will appoint the arbitrator for each batch.
+‍
+Authority of Arbitrator.
+The arbitrator shall have exclusive authority to resolve any Dispute, including, without limitation, disputes arising out of or related to the interpretation or application of the Arbitration Agreement, including the enforceability, revocability, scope, or validity of the Arbitration Agreement or any portion of the Arbitration Agreement, except for the following: (1) all Disputes arising out of or relating to Section 11.4 (Waiver of Class and Other Non-Individualized Relief), including any claim that all or part of Section 11.4 (Waiver of Class and Other Non-Individualized Relief) is unenforceable, illegal, void or voidable, or that such Section 11.4 (Waiver of Class and Other Non-Individualized Relief) has been breached, shall be decided by a court of competent jurisdiction and not by an arbitrator; (2) except as expressly contemplated in Section 11.9 (Batch Arbitration), all Disputes about the payment of arbitration fees shall be decided only by a court of competent jurisdiction and not by an arbitrator; (3) all Disputes about whether either party has satisfied any condition precedent to arbitration shall be decided only by a court of competent jurisdiction and not by an arbitrator; and (4) all Disputes about which version of the Arbitration Agreement applies shall be decided only by a court of competent jurisdiction and not by an arbitrator.  The arbitration proceeding will not be consolidated with any other matters or joined with any other cases or parties, except as expressly provided in Section 11.9 (Batch Arbitration).  The arbitrator shall have the authority to grant motions dispositive of all or part of any Dispute.  The arbitrator shall issue a written award and statement of decision describing the essential findings and conclusions on which the award is based, including the calculation of any damages awarded.  The award of the arbitrator is final and binding upon you and us.  Judgment on the arbitration award may be entered in any court having jurisdiction.
+‍
+Attorneys’ Fees and Costs.
+The parties shall bear their own attorneys’ fees and costs in arbitration unless the arbitrator finds that either the substance of the Dispute or the relief sought in the Request was frivolous or was brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)).  If you or CommonLit need to invoke the authority of a court of competent jurisdiction to compel arbitration, then the party that obtains an order compelling arbitration in such action shall have the right to collect from the other party its reasonable costs, necessary disbursements, and reasonable attorneys’ fees incurred in securing an order compelling arbitration.  The prevailing party in any court action relating to whether either party has satisfied any condition precedent to arbitration, including the Informal Dispute Resolution process, is entitled to recover their reasonable costs, necessary disbursements, and reasonable attorneys’ fees and costs.
+‍
+Batch Arbitration.
+To increase the efficiency of administration and resolution of arbitrations, you and CommonLit agree that in the event that there are one-hundred (100) or more individual Requests of a substantially similar nature filed against CommonLit by or with the assistance of the same law firm, group of law firms, or organizations, within a thirty (30) day period (or as soon as possible thereafter), the AAA shall (1) administer the arbitration demands in batches of 100 Requests per batch (plus, to the extent there are less than 100 Requests left over after the batching described above, a final batch consisting of the remaining Requests); (2) appoint one arbitrator for each batch; and (3) provide for the resolution of each batch as a single consolidated arbitration with one set of filing and administrative fees due per side per batch, one procedural calendar, one hearing (if any) in a place to be determined by the arbitrator, and one final award (
+“Batch Arbitration”
+).
+All parties agree that Requests are of a “substantially similar nature” if they arise out of or relate to the same event or factual scenario and raise the same or similar legal issues and seek the same or similar relief.  To the extent the parties disagree on the application of the Batch Arbitration process, the disagreeing party shall advise the AAA, and the AAA shall appoint a sole standing arbitrator to determine the applicability of the Batch Arbitration process (
+“Administrative Arbitrator”
+).  In an effort to expedite resolution of any such dispute by the Administrative Arbitrator, the parties agree the Administrative Arbitrator may set forth such procedures as are necessary to resolve any disputes promptly.  The Administrative Arbitrator’s fees shall be paid by CommonLit.
+You and CommonLit agree to cooperate in good faith with the AAA to implement the Batch Arbitration process including the payment of single filing and administrative fees for batches of Requests, as well as any steps to minimize the time and costs of arbitration, which may include: (1) the appointment of a discovery special master to assist the arbitrator in the resolution of discovery disputes; and (2) the adoption of an expedited calendar of the arbitration proceedings.
+This Batch Arbitration provision shall in no way be interpreted as authorizing a class, collective and/or mass arbitration or action of any kind, or arbitration involving joint or consolidated claims under any circumstances, except as expressly set forth in this provision.
+‍
+30-Day Right to Opt Out.
+You have the right to opt out of the provisions of this Arbitration Agreement by sending written notice of your decision to opt out to: CommonLit, Inc., PO Box 15189, Washington, DC, 20003, within thirty (30) days after first becoming subject to this Arbitration Agreement.  Your notice must include your name and address, the email address associated with your Account (if you have one), and an unequivocal statement that you want to opt out of this Arbitration Agreement.  If you opt out of this Arbitration Agreement, all other parts of these Terms will continue to apply to you.  Opting out of this Arbitration Agreement has no effect on any other arbitration agreements that you may currently have, or may enter in the future, with us.
+‍
+Invalidity, Expiration.
+Except as provided in Section 11.4 (Waiver of Class and Other Non-Individualized Relief), if any part or parts of this Arbitration Agreement are found under the law to be invalid or unenforceable, then such specific part or parts shall be of no force and effect and shall be severed and the remainder of the Arbitration Agreement shall continue in full force and effect.  You further agree that any Dispute that you have with CommonLit as detailed in this Arbitration Agreement must be initiated via arbitration within the applicable statute of limitation for that claim or controversy, or it will be forever time barred.  Likewise, you agree that all applicable statutes of limitation will apply to such arbitration in the same manner as those statutes of limitation would apply in the applicable court of competent jurisdiction.
+‍
+Modification.
+Notwithstanding any provision in these Terms to the contrary, we agree that if CommonLit makes any future material change to this Arbitration Agreement, we will notify you.  Unless you reject the change within thirty (30) days of such change become effective by writing to CommonLit at CommonLit, Inc., PO Box 15189, Washington, DC, 20003, your continued use of the Services, including the acceptance of products and services offered on the Services following the posting of changes to this Arbitration Agreement constitutes your acceptance of any such changes.  Changes to this Arbitration Agreement do not provide you with a new opportunity to opt out of the Arbitration Agreement if you have previously agreed to a version of these Terms and did not validly opt out of arbitration.  If you reject any change or update to this Arbitration Agreement, and you were bound by an existing agreement to arbitrate Disputes arising out of or relating in any way to your access to or use of the Services, any communications you receive, any products sold or distributed through the Services or these Terms, the provisions of this Arbitration Agreement as of the date you first accepted these Terms (or accepted any subsequent changes to these Terms) remain in full force and effect.  CommonLit will continue to honor any valid opt outs of the Arbitration Agreement that you made to a prior version of these Terms.
+‍
+GENERAL
+Changes.
+These Terms are subject to occasional revision by CommonLit at our sole discretion. When changes are made, CommonLit will make a new copy of these Terms available on the Services and will update the “Last Updated” date above. If we make any substantial changes, we may notify you by sending you an e-mail to the last e-mail address you provided to us (if any), and/or by posting notice of the changes on our Site.  Any changes to these Terms will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you (if applicable) or thirty (30) calendar days following our posting of notice of the changes on our Site.  These changes will be effective immediately for new users of our Services.  Continued use of our Services following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+‍
+Export and International Users.
+Export.
+The Services may be subject to U.S. export control laws and may be subject to export or import regulations in other countries. You agree not to use, export, reexport, or transfer, directly or indirectly, any U.S. technical data acquired from CommonLit, or any products utilizing such data, in violation of the United States export laws or regulations. In particular, but without limitation, the Services may not be exported or re-exported (i) into any United States embargoed countries, or (ii) to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce’s Denied Person’s List or Entity List. By using the Services, you represent and warrant that (A) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country and (B) you are not listed on any U.S. Government list of prohibited or restricted parties.  You also will not use the Services for any purpose prohibited by U.S. law, including the development, design, manufacture or production of missiles, nuclear, chemical or biological weapons.  You shall comply with these laws and regulations and shall not, without prior U.S. government authorization, export, re-export, or transfer CommonLit products, services or technology, either directly or indirectly, to any country in violation of such laws and regulations.
+‍
+International Users.
+The Services may be accessed from countries around the world and may contain references to services and Content that are not available in your country.  These references do not imply that CommonLit intends to announce such service or Content in your country.  The Services are controlled and offered by CommonLit from its facilities in the United States of America.  CommonLit makes no representations that the Services are appropriate or available for use in other locations.  Those who access or use the Services from other countries do so at their own volition and are responsible for compliance with local law.
+‍
+Questions and Complaints.
+If you have any questions, complaints or claims with respect to the Service, please contact us at: [help@commonlit.org/info@commonlit.org].  If you are a California resident, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Product of the California Department of Consumer Affairs by contacting them in writing at 400 R Street, Sacramento, CA 95814, or by telephone at (800) 952-5210.
+‍
+Electronic Communications.
+The communications between you and CommonLit use electronic means, whether you use the Services or send us emails, or whether CommonLit posts notices on the Services or communicates with you via email. For contractual purposes, you (a) consent to receive communications from us in an electronic form; and (b) agree that all terms and conditions, agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications would satisfy if it were in a hardcopy writing. The foregoing does not affect your statutory rights, including but not limited to the Electronic Signatures in Global and National Commerce Act at 15 U.S.C. §7001 et seq. (“E-Sign”).
+‍
+Miscellaneous
+These Terms and CommonLit’s Privacy Policy and, where applicable, the DPA, constitute the entire agreement between you and us regarding the use of the Services and supersedes and merges all prior discussions between the parties with respect to such subject matter. Our failure to exercise or enforce any right or provision of these Terms shall not operate as a waiver of such right or provision. The section titles in these Terms are for convenience only and have no legal or contractual effect. The word “including” means “including without limitation.”  Your relationship to CommonLit is that of an independent contractor, and neither party is an agent or partner of the other.
+‍
+Severability.
+If any provision of these Terms is, for any reason, held to be invalid or unenforceable, the other provisions of these Terms will be unimpaired and the invalid or unenforceable provision will be deemed modified so that it is valid and enforceable to the maximum extent permitted by law while reflecting, as nearly as possible, the original intention of the parties.
+‍
+Assignment.
+These Terms, and your rights and obligations herein, may not be assigned, subcontracted, delegated, or otherwise transferred by you without CommonLit’s prior written consent, and any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be null and void.  CommonLit may freely assign these Terms.  The terms and conditions set forth in these Terms shall be binding upon assignees.
+‍
+Governing Law.
+These Terms and any action related thereto will be governed and interpreted by and under the laws of WASHINGTON D.C., consistent with the Federal Arbitration Act, without giving effect to any principles that provide for the application of the law of another jurisdiction.
+‍
+Notice.
+Where CommonLit requires that you provide an email address, you are responsible for providing CommonLit with a valid and current email address.  In the event that the email address you provide to CommonLit is not valid, or for any reason is not capable of delivering to you any notices required by these Terms, CommonLit’s dispatch of the email containing such notice will nonetheless constitute effective notice.  You may give notice to CommonLit at the address below.  Such notice shall be deemed given when received by us by letter delivered by nationally recognized overnight delivery service or first-class postage prepaid mail at the below address.
+CommonLit, Inc.
+PO Box 15189
+Washington, DC 20003
+‍
+Exhibit A (DPA)
+DATA PROCESSING ADDENDUM
+‍
+This Data Processing Addendum (“
+DPA
+”) is incorporated into and forms a part of the Terms of Use and any other agreement (collectively, “
+Agreement
+”) entered between CommonLit, Inc. (“
+CommonLit
+”) and the party signing or otherwise entering the Agreement, on behalf of itself and any party it represents (collectively, “
+Customer
+”) in connection with the use of any services provided under the Agreement (the “
+Service
+”). Except as modified below, the Agreement’s terms shall remain in full force and effect. This DPA is incorporated into and forms a binding and effective part of that Agreement on and from the Addendum Effective Date.
+‍
+DEFINITIONS
+In this DPA (including the explanatory notes above) the following terms shall have the meanings set out in this Section 1, unless expressly stated otherwise:
+“
+Addendum Effective Date
+” means the effective date of the Agreement.
+“Applicable Data Protection Laws”
+means the privacy, data protection and data security laws and regulations of any jurisdiction directly applicable to CommonLit’s Processing of Customer Personal Data under the Agreement (including, as and where applicable, GDPR, the Family Educational Rights and Privacy Act, 20 U.S.C. § 1232g and its implementing regulations, 34 C.F.R. Part 99 (together, “FERPA”), and the Children’s Online Privacy Protection Act (“COPPA”)).
+“
+CommonLit Personal Data
+” means any Personal Data that CommonLit Processes for its own business/customer relationship administration purposes, its own marketing or service research or analytics (e.g., involving data collected by CommonLit relating to Customer’s users’ use of the Service), its own information and systems security purposes supporting the operation of the Service, and its own legal, regulatory or compliance purposes.
+“
+Controller
+” means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the Processing of Personal Data, including, as applicable, any “business” as that term is defined by Applicable Data Protection Laws.
+"
+Customer Personal Data
+” means Personal Data contained within YourContent that is Processed by CommonLit on behalf of Customer in its performance of the Service under the Agreement, which (for the avoidance of doubt) does not include CommonLit Personal Data.
+“
+Data Subject
+” means the identified or identifiable natural person to whom Customer Personal Data relates.
+“
+Data Subject Request
+” means the exercise by a Data Subject of its rights in accordance with Applicable Data Protection Laws in respect of Customer Personal Data and the Processing thereof.
+“GDPR”
+means, as and where applicable to Processing concerned: (i) the General Data Protection Regulation (Regulation (EU) 2016/679) (“
+EU GDPR
+”); and/or (ii) the EU GDPR as it forms part of UK law (as amended from time to time) (“
+UK GDPR
+”).
+“Personal Data”
+means “personal data,” “personal information,” “personally identifiable information” or similar term defined in Applicable Data Protection Laws.
+“
+Personal Data Breach
+” means a breach of CommonLit’s security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Customer Personal Data in CommonLit’s possession, custody or control. For clarity, Personal Data Breach does not include unsuccessful attempts or activities that do not compromise the security of Customer Personal Data (such as unsuccessful log-in attempts, pings, port scans, denial of service attacks, or other network attacks on firewalls or networked systems).
+“
+Personnel
+” means a person’s employees, agents, consultants, contractors or other staff.
+“
+Process
+” and inflections thereof means any operation or set of operations which is performed on Personal Data or on sets of Personal Data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+“
+Processor
+” means a natural or legal person, public authority, agency or other body which Processes Personal Data on behalf of the Controller, including, as applicable, any “service provider” as that term is defined by Applicable Data Protection Laws.
+“
+Restricted Transfer
+” means the disclosure, grant of access or other transfer of Customer Personal Data to any person located in: (i) in the context of the EU GDPR, any country or territory outside the European Economic Area (the “
+EEA
+”), which does not benefit from an adequacy decision from the European Commission (an “
+EEA Restricted Transfer
+”); and (ii) in the context of the UK GDPR, any country or territory outside the UK, which does not benefit from an adequacy decision from the UK Government (a “
+UK Restricted Transfer
+”), which would be prohibited without a legal basis under Chapter V of the GDPR.
+“
+SCCs
+” means the standard contractual clauses approved by the European Commission pursuant to implementing Decision (EU) 2021/914.
+“
+Sub-Processor
+” means any third party appointed by or on behalf of CommonLit to Process Customer Personal Data.
+“
+Supervisory Authority
+”: means any entity with the authority to enforce Applicable Data Protection Laws.
+“
+UK Transfer Addendum
+” means the template Addendum B.1.0 issued by the ICO and laid before Parliament in accordance with section 119A of the Data Protection Act 2018 on 2 February 2022, as it is revised under Section ‎‎18 of the UK Mandatory Clauses included in Part 2 thereof (the “
+UK Mandatory Clauses
+”).
+Unless otherwise defined in this DPA, all capitalized terms in this DPA shall have the meaning given to them in the Agreement.
+APPLICATION OF THIS DATA PROCESSING ADDENDUM
+The front-end of this DPA applies generally to CommonLit’s Processing of Customer Personal Data under the Agreement.
+Annex 2 (European Annex) applies only if and to the extent CommonLit’s Processing of Customer Personal Data under the Agreement is subject to the GDPR.
+Annex 3 (State Specific School Data Privacy) applies only if and to the extent CommonLit’s Processing of Customer Data is subject to the applicable state student data privacy laws.
+Section 9 (Compliance Review) of this DPA applies to CommonLit’s Processing of Customer Personal Data to the extent required under Applicable Data Protection Laws for contracts with Processors, and in such cases, only in respect of Processing of Customer Personal Data subject to such laws.
+PROCESSING OF CUSTOMER PERSONAL DATA
+The Parties acknowledge and agree that the details of CommonLit’s Processing of Customer Personal Data (including the respective roles of the Parties relating to such Processing) are as described in Annex 1 (Data Processing Details) to the DPA.
+CommonLit shall not Process Customer Personal Data other than: (a) on Customer’s instructions; or (b) as required by applicable laws provided that, in such circumstances, CommonLit shall inform Customer in advance of the relevant legal requirement requiring such Processing if and to the extent CommonLit is: (i) required to do so by Applicable Data Protection Laws; and (ii) permitted to do so in the circumstances. Customer instructs CommonLit to Process Customer Personal Data to (a) provide the Service to Customer and in accordance with the Agreement; (b) perform its obligations under the Agreement; and (c) exercise its rights under the Agreement.  The Agreement is a complete expression of such instructions, and Customer’s additional instructions will be binding on CommonLit only pursuant to any written amendment to this DPA signed by both Parties. Where required by Applicable Data Protection Laws, if CommonLit receives an instruction from Customer that, in its reasonable opinion, infringes Applicable Data Protection Laws, CommonLit shall notify Customer.
+The Parties acknowledge that CommonLit’s Processing of Customer Personal Data authorized by Customer’s instructions stated in this DPA is integral to the Service and the business relationship between the Parties. Access to Personal Data does not form part of the consideration exchanged between the Parties in respect of the Agreement or any other business dealing.
+As applicable, to the extent CommonLit has access to “Education Records” and “Personally Identifiable Information” (as those terms are defined in FERPA) in connection with its Processing of Customer Personal Data: (a) Customer agrees that CommonLit has met the criteria for being a “School Official” with “Legitimate Educational Interests” (as those terms are used in FERPA) in such Education Records and Personally Identifiable Information, and/or the disclosure of such Education Records and Personally Identifiable Information to CommonLit meets one or more of the other conditions specified in 34 C.F.R. § 99.31; and (b) CommonLit agrees that such Education Records and Personally Identifiable Information will be used only for authorized purposes under the Agreement, and it will not redisclose such Education Records or Personally Identifiable Information except with authorization from Customer and where such redisclosure is otherwise permitted.
+COMMONLIT PERSONNEL
+CommonLit shall take commercially reasonable steps designed to ascertain the reliability of any CommonLit Personnel who Process Customer Personal Data. CommonLit shall ensure its Personnel who are authorized to Process Customer Personal Data are subject to appropriate contractual confidentiality obligations in the event that they are not otherwise subject to professional or statutory obligations of confidentiality.
+SECURITY
+CommonLit shall implement and maintain technical and organizational measures in relation to Customer Personal Data designed to protect Customer Personal Data against Personal Data Breaches as described in Annex 3 (Security Measures) (the “
+Security Measures
+”).
+CommonLit may update the Security Measures from time to time, provided the updated measures do not materially decrease the overall protection of Customer Personal Data.
+DATA SUBJECT REQUESTS
+CommonLit, taking into account the nature of the Processing of Customer Personal Data, shall provide Customer with such assistance as may be reasonably necessary and technically feasible to assist Customer in fulfilling its obligations to respond to Data Subject Requests. If CommonLit receives a Data Subject Request, Customer will be responsible for responding to any such request.
+CommonLit shall: (a) promptly notify Customer if it receives a Data Subject Request; and (b) not respond to any Data Subject Request, other than to advise the Data Subject to submit the request to Customer, except as required by Applicable Data Protection Laws.
+PERSONAL DATA BREACH
+CommonLit shall notify Customer without undue delay upon CommonLit’s confirmation of a Personal Data Breach affecting Customer Personal Data. CommonLit shall provide Customer with information (insofar as such information is within CommonLit’s possession and knowledge and does not otherwise compromise the security of any Personal Data Processed by CommonLit) designed to allow Customer to meet its obligations under the Applicable Data Protection Laws to report the Personal Data Breach. CommonLit’s notification of or response to a Personal Data Breach shall not be construed as CommonLit’s acknowledgement of any fault or liability with respect to the Personal Data Breach.
+Customer is solely responsible for complying with applicable laws (including notification laws) and fulfilling any third-party notification obligations related to any Personal Data Breaches.
+If Customer determines that a Personal Data Breach must be notified to any Supervisory Authority, any other governmental authority, any Data Subject(s), the public or others under Applicable Data Protection Laws or otherwise, to the extent such notice directly or indirectly refers to or identifies CommonLit, where permitted by applicable laws, Customer agrees to: (a) notify CommonLit in advance; and (b) in good faith, consult with CommonLit and consider any clarifications or corrections CommonLit may reasonably recommend or request to any such notification, which: (i) relate to CommonLit’s involvement in or relevance to such Personal Data Breach; and (ii) are consistent with applicable laws.
+SUB-PROCESSING
+Customer generally authorizes CommonLit to appoint Sub-Processors in accordance with this Section 8. Information about CommonLit’s Sub-Processors, as shown in the Sub-Processor list shown at
+trust.commonlit.org
+, as may be updated from time to time, or any successor page (the “
+Sub-Processor Site
+”). Without limitation, Customer authorizes the engagement of the Sub-Processors listed on the Sub-Processor Site, as may be updated from time to time.
+Where required by Applicable Data Protection Laws:
+In the event CommonLit proposes any new or additional Sub-Processor after the Addendum Effective Date, CommonLit shall give Customer prior written notice of such appointment, including reasonable details of the Processing to be undertaken by the Sub-Processor, by updating the Sub-Processor Site and providing a means by which Customers may subscribe to receive notice of such updates or otherwise providing written notice. Customer agrees that Customer is solely responsible for ensuring that it subscribes to receive notice of any such updates to the Sub-Processor Site.
+If, within fourteen (14) days of receipt of a notice from CommonLit under Section 8.2(a), Customer notifies CommonLit in writing of any objections (on reasonable grounds related to protection of Customer Personal Data) to the proposed appointment, CommonLit shall use reasonable efforts to make available a commercially reasonable change in the provision of the Service, which avoids the use of that proposed Sub-Processor. Where: (i) such a change cannot be made within fourteen (14) days from CommonLit’s receipt of Customer’s notice; (ii) no commercially reasonable change is available; and/or (iii) Customer declines to bear the cost of the proposed change, then Customer may terminate that portion of the Agreement that would require use of the proposed Sub-Processor by written notice to CommonLit as its sole and exclusive remedy, provided that all fees due to CommonLit up to the point of such termination shall still be owed by Customer to CommonLit. If Customer does not object to CommonLit’s appointment of a Sub-Processor during the objection period referred to in this Section 8.2, Customer shall be deemed to have approved the engagement and ongoing use of that Sub-Processor. With respect to each Sub-Processor, CommonLit shall maintain a written contract between CommonLit and the Sub-Processor that includes terms which offer at least an equivalent level of protection for Customer Personal Data as those set out in this DPA. CommonLit shall remain liable for any breach of this DPA caused by a Sub-Processor.
+COMPLIANCE REVIEW
+CommonLit shall make available to Customer on request, such information as CommonLit (acting reasonably) considers appropriate in the circumstances to demonstrate its compliance with this DPA and its performance of its obligations under this DPA is consistent with CommonLit’s obligations under Applicable Data Protection Laws.
+Subject to Sections 9.3 to 9.6, in the event that Customer (acting reasonably) is able to provide documentary evidence that the information made available by CommonLit pursuant to Section 9.1 is not sufficient in the circumstances to demonstrate CommonLit’s compliance with this DPA, CommonLit shall allow for and contribute to audits, including onpremise inspections of CommonLit’s facilities, by Customer or an auditor mandated by Customer in relation to the Processing of Customer Personal Data by CommonLit.
+Customer shall give CommonLit reasonable notice of any audit or inspection to be conducted under Section 9.2 (which shall in no event be less than fourteen (14) days’ notice) and shall use its best efforts and ensure that each of its mandated auditors uses its best efforts to avoid causing any destruction, damage, injury or disruption to CommonLit’s premises, equipment, Personnel, data, and business (including any interference with the confidentiality or security of the data of CommonLit’s other customers or the availability of CommonLit’s services to such other customers).
+Prior to conducting any audit, Customer must submit a detailed proposed audit plan providing for the confidential treatment of all information exchanged in connection with the audit and any reports regarding the results or findings thereof. The proposed audit plan must describe the proposed scope, duration, and start date of the audit. CommonLit will review the proposed audit plan and provide Customer with any feedback, concerns or questions (for example, any request for information that could compromise CommonLit security, privacy, employment or other relevant policies). CommonLit will work cooperatively with Customer to agree on a final audit plan.
+If the controls or measures to be assessed in the requested audit are assessed in a SOC 2 Type 2, ISO, NIST or similar audit report performed by a qualified third-party auditor within twelve (12) months of Customer’s audit request (“
+Audit Report
+”) and CommonLit has confirmed in writing that there have been no known material changes in the controls audited and covered by such Audit Report(s), Customer agrees to accept provision of such Audit Report(s) in lieu of requesting an audit of such controls or measures. CommonLit shall provide copies of any such Audit Reports to Customer upon request; provided that they shall constitute the confidential information of CommonLit, which Customer shall use only for the purposes of confirming compliance with the requirements of this DPA or meeting Customer’s obligations under Applicable Data Protection Laws.
+CommonLit need not give access to its premises for the purposes of such an audit or inspection: (a) where an Audit Report is accepted in lieu of such controls or measures in accordance with Section 9.5; (b) to any individual unless they produce reasonable evidence of their identity; (c) to any auditor whom CommonLit has not approved in advance (acting reasonably); (d) to any individual who has not entered into a non-disclosure agreement with CommonLit on terms acceptable to CommonLit; (e) outside normal business hours at those premises; or (f) on more than one occasion in any calendar year during the term of the Agreement, except for any audits or inspections which Customer is required to carry out by a Supervisory Authority. Nothing in this DPA shall require CommonLit to furnish more information about its Sub-Processors in connection with such audits than such Sub-Processors make generally available to their customers. Nothing in this Section 9 shall be construed to obligate CommonLit to breach any duty of confidentiality.
+RETURN AND DELETION
+Upon expiration or earlier termination of the Agreement, CommonLit shall return and/or delete all Customer Personal Data in CommonLit’s care, custody or control in accordance Customer’s instructions as to the post-termination return and deletion of Customer Personal Data expressed in the Agreement.  To the extent that deletion of any Customer Personal Data contained in any back-ups maintained by or on behalf of CommonLit is not technically feasible within the timeframe set out in Customer’s instructions, CommonLit shall (a) securely delete such Customer Personal Data in accordance with any relevant scheduled back-up deletion routines (e.g., those contained within CommonLit’s relevant business continuity and disaster recovery procedures); and (b) pending such deletion, put such Customer Personal Data beyond use.
+Notwithstanding the foregoing, CommonLit may retain Customer Personal Data where required by applicable laws, provided that CommonLit shall Process the Customer Personal Data only as necessary for the purpose(s) and duration specified in the applicable law requiring such retention.
+CUSTOMER RESPONSIBILITIES
+Customer agrees that, without limiting CommonLit’s obligations under Section 5 (Security), Customer is solely responsible for its use of the Service, including making appropriate use of the Service to maintain a level of security appropriate to the risk in respect of the Customer Personal Data.
+Customer shall present all Data Subjects with all required notices and statements and obtain all required consents, in each case (i) and (ii), relating to the provision of Customer Personal Data to CommonLit and the Processing by CommonLit of Customer Personal Data as contemplated under the Agreement and this DPA. Customer represents and warrants that (x) it has obtained, and will maintain, all valid consents required by Applicable Data Protection Laws for all Data Subjects through the entire term of the Agreement; and (y) it has provided all Data Subjects with relevant notices where required by Applicable Data Protection Laws that meet the transparency requirements of such Applicable Data Protection Laws.
+Customer agrees that the Service, the Security Measures, and CommonLit’s commitments under this DPA are adequate to meet Customer’s needs, including with respect to any security obligations of Customer under Applicable Data Protection Laws, and provide a level of security appropriate to the risk in respect of the Customer Personal Data.
+Customer shall not provide or otherwise make available to CommonLit any Customer Personal Data that contains any (a) Social Security numbers or other government-issued identification numbers; (b) protected health information subject to the Health Insurance Portability and Accountability Act (HIPAA) or other information regarding an individual’s medical history, mental or physical condition, or medical treatment or diagnosis by a health care professional; (c) health insurance information; (d) biometric information; (e) passwords to any online accounts not relevant for use of the Service; (f) credentials to any financial accounts; or (i) data relating to criminal convictions and offenses (together, “
+Restricted Data
+”).
+Except to the extent prohibited by Applicable Data Protection Laws, Customer shall compensate CommonLit at CommonLit’s then-current professional services rates for, and reimburse any costs reasonably incurred by CommonLit in the course of providing, cooperation, information, or assistance requested by Customer in respect of this DPA (including pursuant to Sections 6, 7 and  9 of this DPA and Paragraph 1 of Annex 2 (European Annex), beyond providing self-service features included as part of the Service.
+LIABILITY
+Notwithstanding anything to the contrary in the Agreement, CommonLit’s total aggregate liability towards Customer, howsoever arising, under or in connection with this DPA and/or related to any actual or alleged breach by CommonLit of Applicable Data Protection Laws will under no circumstances exceed twelve (12) months of fees; provided that, nothing in this Section 12 will affect any person’s liability to Data Subjects under relevant third-party beneficiary provisions of Applicable Data Protection Laws (if and as they apply).
+VARIATION
+CommonLit may on notice vary this DPA to the extent that (acting reasonably) it considers necessary to address the requirements of Applicable Data Protection Laws from time to time (including by varying or replacing the SCCs in the manner described in Paragraph 2.5 of Annex 2 (European Annex)) and/or to reflect any relevant changes in the Service and its Processing of Personal Data as part thereof.
+PRECEDENCE
+In the event of any conflict or inconsistency between: (a) this DPA and the Agreement, this DPA shall prevail (unless otherwise specified herein); or (b) any SCCs entered into pursuant to Paragraph 2 of Annex 2 (European Annex) and this DPA and/or the Agreement, the SCCs shall prevail in respect of the Restricted Transfer to which they apply.
+‍
+Annex 1
+Data Processing Details
+‍
+Note:
+this Annex 1 (Data Processing Details) to the DPA includes certain details of the Processing of Customer Personal Data, including as required: (a) by Article 28(3) GDPR; and (b) to populate the Appendix to the SCCs in the manner described in Paragraph 2.2(d) of Annex 2 (European Annex).
+‍
+COMMONLIT DETAILS
+‍
+Name:
+CommonLit, Inc.
+‍
+Address:
+PO Box 15189 Washington, DC 20003
+‍
+Contact Details for Data Protection:
+‍
+Role: Director of Legal and Compliance
+Email: security@commonlit.org
+‍
+CommonLit Activities:
+CommonLit is an online platform that provides educational resources and tools.
+‍
+Role:
+Processor
+‍
+CUSTOMER DETAILS
+‍
+Name:
+The entity or other person who is a counterparty to the Agreement.
+‍
+Address:
+Customer’s address is the address shown in or determined by the Agreement; or if no such address is contained within the Agreement, Customer’s principal business trading address – unless otherwise notified to CommonLit’s contact point noted above.
+‍
+Contact Details for Data Protection:
+CommonLit’s primary point of contact with Customer; or any other email notified by Customer for the purpose of providing it with Data Protection related communications or alerts. (Customer agrees that it is solely responsible for ensuring that such contact details are valid and up-to-date, and will direct relevant communications to the appropriate individual within its organization.)
+‍
+Customer Activities:
+Customer’s activities relevant to this DPA are the use and receipt of the Service as part of its ongoing business operations under and in accordance with the Agreement.
+‍
+Role:
+Controller – in respect of any Processing of Customer Personal Data in respect of which Customer is a Controller in its own right; and/or
+Processor – in respect of any Processing of Customer Personal Data in respect of which Customer is itself acting as a Processor on behalf of any other person (including its affiliates, if and where applicable).
+‍
+DETAILS OF PROCESSING
+‍
+Categories of Data Subjects:
+Any individuals whose Personal Data is comprised within data submitted to the Service by or on behalf of Customer under the Agreement, which will be as determined by Customer in its sole discretion (subject to the terms of the Agreement and this DPA) through its use of the Service – but may include Customer’s:
+employees and non-employee workers;
+students, interns, apprentices and volunteers;
+directors and officers;
+advisers, consultants, independent contractors, agents and autonomous, temporary or casual workers.
+‍
+Categories of Personal Data:
+Any Personal Data comprised within data submitted to the Service by or on behalf of Customer under the Agreement, which will be as determined by Customer in its sole discretion through its use of the Service – but may include:
+first name;
+last name;
+email address; and
+assessment data and other data related to a student’s performance and progress.
+‍
+Sensitive Categories of Data, and associated additional restrictions/safeguards:
+n/a
+‍
+Frequency of transfer:
+Ongoing – as initiated by Customer in and through its use, or use on its behalf, of the Service.
+‍
+Nature of the Processing:
+Processing operations required in order to provide the Service in accordance with the Agreement and as permitted under Section 3.2 of this DPA.
+‍
+Purpose of the Processing:
+Customer Personal Data will be processed as permitted under Section 3.2 of this DPA.
+‍
+Duration of Processing / Retention Period:
+For the period determined in accordance with the Agreement and DPA, including Section 10 of the DPA.
+‍
+Transfers to (sub) processors:
+Transfers to Sub-Processors are as, and for the purposes, described from time to time in the Sub-Processor Site (as may be updated from time to time in accordance with Section 8 of the DPA).
+‍
+Annex 2: European Annex
+‍
+DATA PROTECTION IMPACT ASSESSMENT AND PRIOR CONSULTATION
+‍
+CommonLit, taking into account the nature of the Processing and the information available to CommonLit, shall provide reasonable assistance to Customer, at Customer’s cost, with any data protection impact assessments and prior consultations with Supervisory Authorities which Customer reasonably considers to be required of it by Article 35 or Article 36 of the GDPR, in each case solely in relation to Processing of Customer Personal Data by CommonLit.
+RESTRICTED TRANSFERS
+Entry into Transfer Mechanisms
+EEA Restricted Transfers.
+To the extent that any Processing of Customer Personal Data under this DPA involves an EEA Restricted Transfer from Customer to CommonLit, the Parties shall comply with their respective obligations set out in the SCCs, which are hereby deemed to be (i) populated in accordance with Section 2.2 of this 2 (European Annex); and (ii) entered into by the Parties and incorporated by reference into this DPA.
+UK Restricted Transfers.
+To the extent that any Processing of Customer Personal Data under this DPA involves a UK Restricted Transfer from Customer to CommonLit, the Parties shall comply with their respective obligations set out in the SCCs, which are hereby deemed to be: (i) varied to address the requirements of the UK GDPR in accordance with the UK Transfer Addendum and populated in accordance with Sections 2.2 and 2.3 of this 2 (European Annex); and (ii) entered into by the Parties and incorporated by reference into this DPA.
+Population of SCCs
+Signature of SCCs
+. Where the SCCs apply in accordance with Paragraph 2.1(a) and/or Paragraph 2.1(b) of this Annex 2 (European Annex), each of the Parties is hereby deemed to have signed the SCCs at the relevant signature block in Annex I to the Appendix to the SCCs.
+Modules of SCCs
+. As and where relevant: Module Two of the SCCs applies to any EEA Restricted Transfer involving Processing of Personal Data in respect of which Customer is a Controller in its own right; and/or Module Three of the SCCs applies to any EEA Restricted Transfer involving Processing of Personal Data in respect of which Customer is a Processor.
+Population of body of SCCs
+. As and where applicable to the relevant Module and the Clauses thereof: (i) in Clause 7: the ‘Docking Clause’ is not used; (ii) in Clause 9: ‘Option 2: General Written Authorisation’ applies, and the minimum time period for advance notice of the addition or replacement of Sub-Processors shall be the advance notice period set out in Section 8.2 of the DPA;  (iii) in Clause 11: the optional language is not used; (iv) in Clause 13: all square brackets are removed and all text therein is retained; (v) in Clause 17: ‘OPTION 1’ applies, and the Parties agree that the SCCs shall be governed by the law of Ireland in relation to any EEA Restricted Transfer; and (vi) in Clause 18(b): the Parties agree that any dispute arising from the SCCs in relation to any EEA Restricted Transfer shall be resolved by the courts of Ireland.
+Population of Appendix to SCCs
+.  Annex I to the Appendix to the SCCs is populated with the corresponding information detailed in Annex 1 (Data Processing Details) to the DPA, with: Customer being ‘data exporter’ and CommonLit being ‘data importer’; and Part C to that Annex 1 is populated with: the competent Supervisory Authority shall be determined as follows: (i) where Customer is established in an EU Member State: the competent Supervisory Authority shall be the Supervisory Authority of that EU Member State in which Customer is established; and (ii) where Customer is not
+established in an EU Member State, Article 3(2) of the GDPR applies and Customer has appointed an EEA Representative under Article 27 of the GDPR: the competent Supervisory Authority shall be the Supervisory Authority of the EU Member State in which Customer’s EEA Representative relevant to the Processing hereunder is based (from time-to-time), which Customer shall notify to CommonLit in writing – Customer agrees that it is solely responsible for making such notification and its accuracy. Annex II shall be populated with reference to the information contained in or determined by Section 2.3 of the DPA (including the Security Measures).
+UK Restricted Transfers
+UK Transfer Addendum
+.  Where relevant in accordance with Section 2.1(b) of this Annex 2 (European Annex), the SCCs apply to any UK Restricted Transfers as varied by the UK Transfer Addendum in the following manner: (i) ’Part 1 to the UK Transfer Addendum’: (A) the Parties agree: Tables 1, 2 and 3 to the UK Transfer Addendum are deemed populated with the corresponding details set out in Annex 1 (Data Processing Details) to the DPA and Section 2.2 of this Annex 2 (European Annex); and (B) Table 4 to the UK Transfer Addendum is completed with ‘Data Importer’ only; and (ii) ‘Part 2 to the UK Transfer Addendum’: the Parties agree to be bound by the UK Mandatory Clauses of the UK Transfer Addendum and that the SCCs shall apply to any UK Restricted Transfers as varied in accordance with those Mandatory Clauses.
+Interpretation
+. As permitted by section 17 of the UK Mandatory Clauses, the Parties agree to the presentation of the information required by ‘Part 1: Tables’ of the UK Transfer Addendum in the manner determined by 2.3(a) of this Annex 2 (European Annex);
+provided that
+the Parties further agree that nothing in the manner of that presentation shall operate or be construed so as to reduce the Appropriate Safeguards (as defined in section 3 of the UK Mandatory Clauses). In relation to any UK Restricted Transfer to which they apply, where the context permits and requires, any reference in the DPA to the SCCs, shall be read as a reference to those SCCs as varied in the manner set out in this Section 2.3 of this Annex 2 (European Annex).
+Operational Clarifications
+When complying with its transparency obligations under Clause 8.3 of the SCCs, Customer agrees that it shall not provide or otherwise make available, and shall take all appropriate steps to protect CommonLit’s and its licensors’ trade secrets, business secrets, confidential information and/or other commercially sensitive information.
+Where applicable, for the purposes of Clause 10(a) of Module Three of the SCCs, Customer acknowledges and agrees that there are no circumstances in which it would be appropriate for CommonLit to notify any third-party Controller of any Data Subject Request and that any such notification shall be the sole responsibility of Customer.
+For the purposes of Clause 15.1(a) of the SCCs, except to the extent prohibited by applicable law and/or the relevant public authority, as between the Parties, Customer agrees that it shall be solely responsible for making any notifications to relevant Data Subject(s) if and as required.
+The terms and conditions of Section 8 of the DPA apply in relation to CommonLit’s appointment and use of Sub-Processors under the SCCs. Any approval by Customer of CommonLit’s appointment of a Sub-Processor that is given expressly or deemed given pursuant to that Section 8 constitutes Customer’s documented instructions to effect disclosures and onward transfers to any relevant Sub-Processors if and as required under Clause 8.8 of the SCCs.
+The audits described in Clauses 8.9(c) and 8.9(d) of the SCCs shall be subject to any relevant terms and conditions detailed in Section 9 of the DPA.
+Certification of deletion of Personal Data as described in Clauses 8.5 and 16(d) of the SCCs shall be provided only upon Customer’s written request.
+In respect of any given Restricted Transfer, if requested of Customer by a Supervisory Authority, Data Subject or further Controller (where applicable) – on specific written request; accompanied by suitable supporting evidence of the relevant request), CommonLit shall provide Customer with an executed version of the relevant set(s) of SCCs responsive to the request made of Customer (amended and populated in accordance with relevant provisions of this DPA in respect of the relevant Restricted Transfer) for countersignature by Customer, onward provision to the relevant requestor and/or storage to evidence Customer’s compliance with Applicable Data Protection Laws.
+Adoption of new transfer mechanisms
+‍
+CommonLit may on notice vary this DPA and replace the relevant SCCs with: (a) any new form of the relevant SCCs or any replacement therefor prepared and populated accordingly (e.g., standard data protection clauses adopted by the European Commission for use specifically in respect of transfers to data importers subject to Article 3(2) of the EU GDPR (if/where applicable)); or (b) another transfer mechanism other than the SCCs, which enables the lawful transfer of Customer Personal Data by Customer to CommonLit under this DPA in compliance with Chapter V of the GDPR.
+‍
+Annex 3
+Security Measures
+‍
+As from the Addendum Effective Date, CommonLit will implement and maintain the Security Measures as set out in this Annex 3.
+Organizational management and dedicated staff responsible for the development, implementation and maintenance of CommonLit’s information security program.
+Audit and risk assessment procedures for the purposes of periodic review and assessment of risks to CommonLit’s organization, monitoring and maintaining compliance with CommonLit’s policies and procedures, and reporting the condition of its information security and compliance to internal senior management.
+Data security controls which include at a minimum logical segregation of data, restricted (e.g. role-based) access and monitoring, and utilization of commercially available and industry standard encryption technologies for Customer Personal Data.
+Logical access controls designed to manage electronic access to data and system functionality based on authority levels and job functions.
+Password controls designed to manage and control password strength, expiration and usage.
+System audit or event logging and related monitoring procedures to proactively record user access and system activity.
+Physical and environmental security of production resources relevant to the Service is maintained by the relevant Sub-Processor(s) (and their vendors) engaged from time-to-time by CommonLit to host those resources. CommonLit takes steps to ensure that such SubProcessors provide appropriate assurances and certifications that evidence such physical and environmental security – including security of data centre, server room facilities and other areas containing Customer Personal Data designed to: (a) protect information assets from unauthorized physical access; (b) manage, monitor and log movement into and out of Sub-Processor facilities; and (c) guard against environmental hazards such as heat, fire and water damage.
+Operational procedures and controls to provide for configuration, monitoring and maintenance of technology and information systems, including secure disposal of systems and media to render all information or data contained therein as undecipherable or unrecoverable prior to final disposal or release from CommonLit’s possession.
+Change management procedures and tracking mechanisms designed to test, approve and monitor all material changes to CommonLit’s technology and information assets.
+Incident management procedures designed to allow CommonLit to investigate, respond to, mitigate and notify of events related to CommonLit’s technology and information assets.
+Network security controls that provide for the use of enterprise firewalls and intrusion detection systems designed to protect systems from intrusion and limit the scope of any successful attack.
+Vulnerability assessment and threat protection technologies and scheduled monitoring procedures designed to identify, assess, mitigate and protect against identified security threats, viruses and other malicious code.
+Business resiliency/continuity and disaster recovery procedures designed to maintain service and/or recovery from foreseeable emergency situations or disasters.
+CommonLit may freely update or modify these Security Measures from time to time
+provided that
+such updates and modifications do not materially decrease the overall security of Service and/or relevant Customer Personal Data.
+‍
+Annex 4: State Specific School Data Privacy
+‍
+Capitalized words used in this Annex but not defined herein have the meanings given to them in the DPA or in the Agreement.
+‍
+California
+With respect to Pupil Records (as defined in Cal. Educ. Code § 49073.1) that CommonLit processes on behalf of a Customer in California, the following provisions shall apply to the extent required by applicable law (for the avoidance of doubt Pupil Records are a subset of Personal Data as it is defined in the Agreement):
+Pupil Records that CommonLit processes on behalf of Customer are the property of and under the control of Customer, except a user may retain possession and control of content generated by the user where the user opens a personal account.
+CommonLit shall limit its use of Pupil Records to those purposes specified in the Agreement and the DPA.
+Procedures for the review and correction of Pupil Records shall be in accordance with the DPA.
+CommonLit shall implement, maintain, and use reasonable measures to ensure the security and confidentiality of Pupil Records as specified in the DPA.
+Procedures for notification in the event of unauthorized disclosure of Pupil Records shall be in accordance with the terms of the DPA.
+CommonLit certifies that retention of Pupil Records shall be limited in accordance with the terms of the DPA.
+CommonLit’s and Customer’s access to and use of Education Records and Personally Identifiable Information (as defined in FERPA) shall be subject to the terms of the DPA.
+CommonLit shall not use Personal Data in Pupil Records to engage in targeted advertising.
+‍
+Colorado
+With respect to Student Personally Identifiable Information (as defined in Colo. Rev. Stat. Ann. § 22-16-103) that CommonLit processes on behalf of a Customer in Colorado, the following provisions shall apply to the extent required by applicable law:
+CommonLit shall comply in all material respects with the requirements of Colo. Rev. Stat. § 22-16-108 with regard to the provision of clear information regarding collection, use, and disclosure of Student Personally Identifiable Information, as specified in the DPA.
+CommonLit shall comply in all material respects with Colo. Rev. Stat. § 22-16-109 with regard to the collection, use, and disclosure of Student Personally Identifiable Information, as specified in the DPA.
+CommonLit shall comply in all material respects with the requirements of Colo. Rev. Stat. § 22-16-110 with regard to data security and retention of Student Personally identifiable information, as specified in the DPA.
+‍
+Connecticut
+With respect to Student Information, Student Records, and Student-generated Content (as those terms are defined in Conn. Gen. Stat. § 10-234aa) (collectively, “
+CT Student Data
+”) that CommonLit processes on behalf of a Customer in Connecticut, the following provisions shall apply to the extent required by applicable law:
+CT Student Data that CommonLit processes on behalf of Customer are Customer Data and under the control of Customer.
+CommonLit retention of CT Student Data shall be in accordance with the DPA.
+CommonLit shall limit its use of CT Student Data to those purposes specified in the Agreement and DPA.
+Procedures for the review and correction of CT Student Data shall be in accordance with the DPA.
+CommonLit shall implement, maintain, and use reasonable measures to ensure the security and confidentiality of CT Student Data as specified in the DPA.
+Procedures for notification in the event of unauthorized disclosure of CT Student Data shall be in accordance with the terms of the DPA.
+CommonLit and Customer access to and use of Education Records and Personally Identifiable Information (as defined in FERPA) shall be subject to the terms of the DPA.
+Laws of the state of Connecticut shall govern rights and duties with regard to CT Student Data.
+In the event that any provision or the application of the Agreement or DPA is held invalid by a court of competent jurisdiction, severability of terms shall be in accordance with the Agreement.
+‍
+District of Columbia
+With respect to Personally Identifiable Student Information (as defined in D.C. Code § 38-831.01(14)) that CommonLit processes on behalf of a Customer in the District of Columbia, the following provisions shall apply to the extent required by applicable law:
+Procedures for notification in the event of unauthorized disclosure of Personally Identifiable Student Information shall be in accordance with the terms of the DPA.
+Personally Identifiable Student Information that CommonLit processes on behalf of Customer are Customer Data and under the control of Customer.
+Retention of Personally Identifiable Student Information shall be limited in accordance with the terms of the DPA.
+‍
+Idaho
+With respect to Student Data (as defined in Idaho Code Ann. § 33-133) that CommonLit processes on behalf of a Customer in Idaho, the following provisions shall apply to the extent required by applicable law (for the avoidance of doubt Student Data are a subset of Personal Data as it is defined in the Agreement):
+CommonLit is permitted to use De-Identified Data, which may include Aggregated Data, as disclosed in the DPA, as applicable.
+CommonLit is permitted to use Student Data for secondary uses with consent of a student’s parent or guardian and as disclosed in accordance with the DPA, as applicable.
+CommonLit shall not use (including for marketing or advertising purposes) or sell Student Data except as specified in the DPA or with express prior parental consent.
+‍
+Illinois
+With respect to Covered Information (as defined in 105 Ill. Comp. Stat. Ann § 85/5) that CommonLit processes on behalf of a Customer in Illinois, the following provisions shall apply to the extent required by applicable law (for the avoidance of doubt Covered Information is a subset of Personal Data as it is defined in the Agreement):
+The types of Covered Information for which CommonLit may act as a processor on behalf of Customer under the Agreement are specified in the DPA.
+The Services provided to Customer by CommonLit are specified in the Agreement.
+CommonLit and Customer’s access to and use and disclosure of Education Records and Personally Identifiable Information (as defined in FERPA) shall be subject to FERPA, in accordance with the terms of the DPA.
+Procedures in the event of a security breach shall be in accordance with the terms of the DPA; provided that, if the security breach is attributed to CommonLit, any costs and expenses incurred by the Customer in investigating and remediating the breach will be allocated between CommonLit and the Customer.
+CommonLit’s retention of Covered Information shall be in accordance with the DPA.
+CommonLit agrees that Customer may publish a redacted copy of the Agreement and DPA on its website and/or make the documents available for inspection by the general public at its administrative office, as applicable.
+‍
+New York
+With respect to personally identifiable information (as defined in N.Y. Comp. Codes R. & Regs. tit. 8, § 121.1(m)) (“
+NY PII
+”) that CommonLit processes on behalf of a Customer in New York, the following provisions shall apply to the extent required by applicable law (for the avoidance of doubt, NY PII is a subset of Personal Data as defined in the Agreement):
+CommonLit certifies that its technologies, safeguards and practices align with the NIST Cybersecurity Framework.
+CommonLit shall comply in all material respects with Customer’s data security and privacy policy and applicable state and federal laws.
+CommonLit shall limit access to NY PII it processes on behalf of Customer in accordance with the DPA.
+CommonLit shall limit its use of NY PII to those purposes specified in the Terms of Service, Agreement, and DPA, as applicable.
+CommonLit shall not disclose NY PII except in accordance with the DPA.
+CommonLit shall implement, maintain, and use reasonable measures that are designed to ensure the security and confidentiality of NY PII as specified in the DPA.
+CommonLit shall use encryption to protect electronic NY PII in transit or in storage.
+CommonLit shall not sell NY PII and shall limit its use and disclosure of NY PII in accordance with the DPA.
+Data Security and Privacy Plan
+CommonLit will implement applicable data security and privacy requirements as specified in the DPA.
+CommonLit shall implement, maintain, and use reasonable measures that are designed to ensure the security and confidentiality of NY PII as specified in the DPA.
+CommonLit shall comply in all material respects with the terms of the Customer’s New York Parents’ Bill of Rights.
+CommonLit shall train its officers and employees on applicable laws prior to granting access to Customer Data as specified in the DPA.
+CommonLit shall require that Sub-processors protect NY PII and manage breaches and unauthorized disclosure as specified in the DPA.
+CommonLit shall manage data security and privacy incidents as specified in the DPA. Procedures for notification in the event of breaches and unauthorized disclosures shall be in accordance with the terms of the DPA.
+CommonLit’s retention of NY PII shall be limited in accordance with the DPA.
+Utah
+With respect to Student Data (as defined in Utah Code Ann. § 53E-9-301(17)) that CommonLit processes on behalf of a Customer in Utah, the following provisions shall apply to the extent required by applicable law:
+CommonLit shall limit its collection, use, storage, and sharing of Student Data to those purposes specified in the Agreement and DPA, as applicable.
+Processing of Student Data by Sub-Processors shall be in accordance with the DPA.
+CommonLit’s retention of Student Data shall be limited in accordance with the terms of the Agreement and DPA.
+CommonLit shall not use Student Data for purposes other than those specified in the Agreement and DPA and except as permitted by Utah Code Ann. § 53E-9-309(4) or as requested by the Customer.
+CommonLit agrees that, at Customer’s request, Customer or Customer’s designee may conduct an audit of CommonLit, in accordance with reasonable and mutually agreed-upon procedures, to verify compliance with the Agreement and Data Processing Agreement to the extent required by Utah Code Ann. § 53E-9-309.
+‍
+Virginia
+With respect to Student Personal Information (as defined in Va. Code Ann. § 22.1-289.01) that CommonLit processes on behalf of a Customer in Virginia, the following provisions shall apply to the extent required by applicable law:
+The types of Student Personal Information for which CommonLit may act as a processor on behalf of Customer shall be specified in the DPA.
+Privacy of Student Personal Information processed by CommonLit on behalf of Customer shall be subject to the DPA, and notification of material changes shall be in accordance with the DPA.
+CommonLit shall maintain reasonable measures to ensure the security, privacy, confidentiality, and integrity of Student Personal Information as specified in the DPA.
+Procedures for access to and the review and correction of Student Personal Information shall be in accordance with the DPA.
+CommonLit shall not collect, maintain, use, or share Student Personal Information except for purposes specified in the Agreement and DPA, except with consent of the Customer or student’s parent or legal guardian, as applicable.
+CommonLit shall require that its Sub-processors of Student Personal Information on behalf of Customer comply with CommonLit’s policies and security measures in accordance with the DPA.
+CommonLit’s retention of Student Personal Information shall be limited in accordance with the terms of the DPA.
+CommonLit shall not use Student Personal Information to engage in targeted advertising to students.
+CommonLit shall not use Student Personal Information to create a personal profile of a student, except for the purposes specified in the Agreement and DPA.
+CommonLit shall not knowingly sell Student Personal Information except the extent that CommonLit is sold to or acquired by a successor entity that purchases, merges with, or otherwise acquires CommonLit.
+‍
+‍
+About
+Impact
+Pricing
+CommonLit 360
+CommonLit is a 501(c)(3) non-profit organization
+Who we are
+About
+Impact
+Partners
+Careers
+Press
+Donate
+Solutions
+Pricing
+CommonLit 360
+Curriculum Pilots
+Professional Development
+Rostering & Integrations
+Benchmark Assessments
+Resources
+Blog
+Webinars
+Support Center
+Contact Us
+Site Status
+© 2025 CommonLit. All rights reserved.
+Accessibility
+Privacy Policy
+Terms of Use
+State Disclosures
+Security
+Manage Cookies

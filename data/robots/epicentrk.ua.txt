@@ -1,0 +1,95 @@
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Linguee Bot
+Disallow: /
+
+User-agent: *
+Disallow: */sellers/
+Disallow: /*collections/
+Disallow: /*?sort=*
+Disallow: /*?view=
+Disallow: /*&view=
+Disallow: /search/*
+Disallow: /*/order/*
+Disallow: /*/make/*
+Disallow: /*/cart/*
+Disallow: /*/wishlist/*
+Disallow: /*/checkout/*
+Disallow: /*/order/make/?ORDER_ID=*
+Disallow: */filter/*
+Disallow: /*/aktcii/*
+Disallow: /*.php
+Disallow: /*?section
+Disallow: /*&sort=
+Disallow: /*?sphrase_id=
+Disallow: */articles/*/
+Disallow: */markets/*
+Disallow: */portal/*
+Disallow: *.pdf
+Disallow: *?CODE=
+Disallow: */auto-parts/
+Disallow: */oecat/
+Disallow: */shop/*/gaming/
+Disallow: *html;
+Disallow: */kiev/*
+Disallow: */ajax/softcube_ajax.php*
+Disallow: */sort/*
+Disallow: /500.html
+Disallow: /404.html
+Disallow: /ajax/credit.php
+Disallow: */local/templates/shop27-ua-foundation/assets/images/*
+Disallow: */?pickup=*
+Disallow: */?*cf*chl*managed*tk=*
+Disallow: /*search2/*
+Disallow: */index.php*
+Disallow: */cdn-cgi/rum*
+Disallow: *language=*
+Disallow: *shop_id=*
+Disallow: *region_id=*
+Disallow: *?mrkt=*
+Disallow: /*?PRODUCT=*
+Disallow: /*?utm_source=*
+Disallow: /*?archive=*
+Disallow: /*?etm_term=*
+Disallow: /*?gclid=*
+Disallow: /*?yclid=*
+Disallow: /*?fbclid=*
+Disallow: */bot/*
+Disallow: */?*
+Disallow: *pagen_*
+Disallow: */api/*
+Disallow: */server/page/*
+Disallow: /*/catalog/*
+Disallow: /b2b/*
+Allow: */upload/sitemap/new/catalog/catalog*
+Allow: */drug-*
+Allow: */utsenka-*
+Allow: */utsinka-*
+Allow: */local/templates/shop27-ua-foundation/assets/images/sprite-chart.svg
+Allow: */auto-parts/part-*
+Allow: */bitrix/*.js
+Allow: */bitrix/*.css
+Allow: /*.js
+Allow: /*.css
+Allow: /*.jpg
+Allow: /*.png
+Allow: /*.svg
+Allow: /*.gif
+Allow: /*.jpeg
+Allow: /*.png
+Allow: /*.bmp
+Allow: /*.tif
+Allow: /*.tiff
+Allow: /ajax/get_locations.php
+Allow: /404.php
+Host: https://epicentrk.ua

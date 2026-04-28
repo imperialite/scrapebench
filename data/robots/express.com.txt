@@ -1,0 +1,30 @@
+User-agent: *
+Disallow: /blog/wp-admin/
+Disallow: /static/
+Disallow: /checkout/
+Disallow: /check-out/
+Disallow: /user/
+Disallow: /account/
+Disallow: /catalog/gadgets/
+Disallow: /browse/gadgets/
+Disallow: /coupons/
+Disallow: /mobile/
+Disallow: /clothing/*Dump*
+Disallow: /clothing/*dump*
+Disallow: /clothing/*Root*
+Disallow: /clothing/*root*
+Disallow: /content/express/
+Disallow: /login?*
+
+Crawl-delay: 2
+Sitemap: https://www.express.com/siteindex.xml
+
+Disallow: /browse/page.jsp?page=/browse/gadgets/gift-card-balance.jsp
+Disallow: /browse/actions/twitter-share-submit.jsp
+#Disallow: /twitter-share-submit.jsp
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-image
+Disallow:

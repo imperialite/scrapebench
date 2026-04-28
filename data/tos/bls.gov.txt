@@ -1,0 +1,56 @@
+BLS Terms of Use Statement :  U.S. Bureau of Labor Statistics
+BLS Terms of Use Statement
+Security
+The BLS website is part of a federal computer system and is monitored to ensure it remains available to all users and to protect the integrity of the information contained in the system. By accessing this website, you consent to these monitoring activities.
+Unauthorized attempts to defeat or circumvent security features, to use the system for purposes other than those for which it was intended, to deny service, to alter, damage, or destroy information, or otherwise to interfere with the system or its operation is prohibited. Evidence of such acts may be disclosed to law enforcement authorities and result in criminal prosecution under the Computer Fraud and Abuse Act of 1986, the National Information Infrastructure Protection Act of 1996, and other applicable criminal laws.
+BLS is committed to ensuring the security of the American public by protecting its information from unauthorized disclosure. Our
+Vulnerability Disclosure Policy
+provides guidelines on how security researchers should conduct vulnerability discoveries and how they should submit discovered vulnerabilities to BLS.
+Automated retrieval program (robot) activity
+The BLS is committed to providing data promptly and according to established schedules.  Automated retrieval programs (commonly called "robots" or "bots") can cause delays and interfere with other customers' timely access to information. Therefore, excessive robot activity on BLS websites is prohibited.
+BLS will block robots that access the website in any way that BLS considers excessive or malicious, including robots that attempt to access or download survey information multiple times per second with resulting degradation of service to others. BLS also reserves the right to block robots that do not contain information that can be used to contact the owner. Blocking may occur in real time.
+NOTE:
+Robots using a specific IP address (for example, 146.142.xx.xx) instead of an official BLS URL (such as www.bls.gov or data.bls.gov) are at risk of not receiving data promptly at prescribed times.
+Last Modified Date:
+April 28, 2021
+Home
+Subjects
+Data Tools
+Publications
+Economic Releases
+Classroom
+Beta
+U.S. Bureau of Labor Statistics
+Office of Publications and Special Studies
+Suitland Federal Center
+Floor 7
+4600 Silver Hill Road
+Washington, DC 20212-0002
+Telephone:
+202-691-5200
+Telecommunications Relay Service:
+7-1-1
+www.bls.gov
+Contact Us
+resources
+Inspector General (OIG)
+Budget and Performance
+Department of Labor Grants
+No Fear Act
+USA.gov
+about the site
+Sitemap
+Freedom of Information Act
+Privacy and Security Statement
+Disclaimers
+Linking and Copyright Info
+Important Website Notices
+Help and Tutorials
+Accessibility Statement
+Connect With BLS
+Instagram
+Twitter
+Threads
+Twitter
+Youtube
+Email

@@ -1,0 +1,34 @@
+# START nuxt-robots (indexable)
+User-agent: *
+Allow: /
+Disallow: /cdn-cgi/
+Disallow: /core/
+Disallow: /profiles/
+Disallow: /README.txt
+Disallow: /web.config
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register
+Disallow: /user/password
+Disallow: /user/login
+Disallow: /user/logout
+Disallow: /media/oembed
+Disallow: /*/media/oembed
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password
+Disallow: /index.php/user/register
+Disallow: /index.php/user/login
+Disallow: /index.php/user/logout
+Disallow: /index.php/media/oembed
+Disallow: /index.php/*/media/oembed
+
+Sitemap: https://www.dutchbros.com/sitemap.xml
+Sitemap: https://www.dutchbros.com/locations/sitemap.xml
+# END nuxt-robots

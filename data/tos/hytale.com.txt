@@ -1,0 +1,407 @@
+Terms of Service – Hytale
+Login
+Register
+Blog
+Media
+The Game
+Community
+Download
+Purchase
+Hytale Terms of Service
+Version: 2.2
+Effective Date: January 13, 2026
+Contact:
+support.hytale.com
+Opt-out of arbitration:
+[email protected]
+Note: This summary and the key points that follow in these Terms are provided for convenience. The legally binding terms appear below and will take precedence over this summary and the key points if there is any inconsistency or conflict.
+Plain English Summary — What You're Agreeing To
+You need an Account (with email verification) to use the Game. If you are a Minor, your parent or guardian must provide verifiable consent for you to accept these terms and use the Service. You must comply with applicable law.
+We grant you a limited license to use the Game. You may not cheat, reverse engineer, or use the Service for unlawful or commercial purposes without permission.
+We offer both virtual currency and virtual items. These have no cash value, are non-transferable, and are non-refundable except where expressly required by law.
+You keep ownership of what you create, but you give us permission to host, use, and showcase it in connection with the Game. We can remove content that breaks the rules.
+We actively moderate for safety and integrity. Violations can result in warnings, suspensions, or bans, and forfeiture of virtual currency and virtual items where allowed by law.
+By agreeing to these Terms, you limit your rights and remedies and the amount of damages you can claim may be limited.
+If we have a legal dispute, we will resolve it through binding arbitration instead of court, and you waive class actions. You can opt out within thirty (30) days of accepting these Terms.
+We may change the Service and these Terms. We will notify you of material changes; continued use means you agree. If you disagree, you should stop using the Service.
+If your Account is terminated, your license ends. We retain your data for ninety (90) days for limited purposes (e.g., legal/fraud), then delete or anonymize it as required.
+Legally Binding Terms
+1. Introduction & Acceptance
+Key Points:
+You accept these Terms by creating an Account or using the Game. If you are a Minor, a parent/guardian must agree and supervise your acceptance of these Terms. If you do not agree, do not use the Service.
+1.1 These Hytale Terms of Service ("Terms") are a legal agreement between Hypixel Studios Canada Inc. ("Hypixel Studios Canada", "we", "us", or "our") and you ("you" or "user") governing your access to and use of (a) the Game, and (b) online services, websites, and other features related to the Game (collectively, the "Service").
+1.2 By accessing or using the Service, you agree to be bound by these Terms. If you do not agree, do not use the Service. If you are a Minor (as defined in Section 2.7) in your place of residence, your parent or legal guardian must review and accept these Terms on your behalf.
+1.3 These Terms, together with the EULA and the Policies, constitute the entire agreement between you and us regarding the Service. In the event of any inconsistency or conflict between these Terms and the EULA pertaining to the use of the Game, the EULA shall prevail over any such inconsistency or conflict and govern your use of the Game. In the event of a conflict between these Terms and the EULA pertaining to any other aspect of the Service, these Terms shall prevail over any such inconsistency or conflict and govern your access and use of the Service.
+2. Definitions
+Key Points:
+For the purposes of these Terms, we provide the following definitions to ensure that you have a clear and consistent understanding of the key terms used throughout these Terms.
+2.1 "Account" means a registered user profile enabling access to the Service.
+2.2 "Age of Consent" refers to the age at which a Minor can lawfully consent to the processing of their personal information without parental authorization and is interpreted in accordance with applicable local law from where the user accesses or uses the Service (e.g., 13 in the U.S. (COPPA), between 13 and 14 in Canada (depending on the province you reside in), 13 in the UK, and between 13–16 in EU Member States (depending on the State you reside in)).
+2.3 "Dispute" means any dispute, disagreement, controversy, claim, counterclaim or similar matter arising out of or otherwise relating to these Terms or Service, including the legality, validity, binding effect, enforceability, existence, interpretation, performance or effect of these Terms or Service, as well as the rights or obligations of the parties hereunder.
+2.4 "EULA" means the End-User License Agreement available at
+https://hytale.com/eula
+.
+2.5 "Game" means: (a) the Hytale video game software; (b) the Hytale Launcher; and (c) all related content, documentation, downloadable content, in‑game content updates, patches, and other updates provided with or for any of the foregoing. Items (a) and (b) are provided in executable form only. "Game" includes any modifications or enhancements to the foregoing that Hypixel Studios Canada makes available from time to time.
+2.6 "Hytale Launcher" means the Hytale video game launcher software.
+2.7 "Minor" means a user who is below the minimum legal age of adulthood or majority in that user's jurisdiction of residence.
+2.8 "Mods" means modifications, plugins, scripts, maps, skins, models, and similar content users may create for the Game, which comprise users' original creative work, subject to the terms and conditions in the EULA.
+2.9 "Policies" means, collectively, the following: (a) "Community Guidelines"; (b) "Cookie Policy"; (c) "Privacy Policy"; and (d) "Server Operator Policies". The current versions of the Policies are accessible at the URLs listed in the Policy URLs section at the end of these Terms, which may be supplemented (including by the adoption of new policies), updated or replaced from time to time. The Policies are incorporated into these Terms by reference.
+2.10 "User-Generated Content" or "UGC" means content created, uploaded, or otherwise provided by users using the Service, excluding Mods.
+2.11 "Virtual Currency" means fictional virtual currency that may be used to obtain Virtual Items.
+2.12 "Virtual Items" means virtual digital items, features, enhancements, cosmetics, or access rights available within the Service.
+2.13 "Virtual Content" means Virtual Currency and Virtual Items.
+3. Account Registration & Security
+Key Points:
+You must provide accurate information and verify your email. Keep your login safe. Parents must manage Minors' Accounts and consent to use.
+3.1
+Minors.
+You must have the capacity to contract in your jurisdiction and must not misrepresent your age. Where permitted, Minors, as the term is interpreted in accordance with applicable local law from the place the user accesses or uses the Service, may access and use the Service only if a parent or legal guardian has reviewed and accepted these Terms, provided any required verifiable consent, and supervises the Minor's use. Where a parent or legal guardian accepts these Terms on behalf of a Minor, that parent or legal guardian enters into these Terms and is responsible for the Minor's compliance with these Terms. We may implement age‑gating measures and require parent/guardian verification, in line with applicable law. If you are habitually resident in the United Kingdom or any territory in the European Economic Area, additional rules apply: (a) we use proportionate, privacy‑preserving age‑assurance measures to apply appropriate settings, and Accounts for Minors are set by default to high privacy (for example, limited profile visibility, restricted contact from unknown users, and limited data sharing), and parents/guardians can view and change these settings in line with available controls; (b) certain features may be limited or off by default for Accounts for Minors; and (c) we may request you (or your parent/guardian) to confirm age to keep settings appropriate. These requirements do not affect your statutory rights.
+3.2
+Compliance with Laws and Sanctions.
+When using the Services, you agree to comply with all applicable laws. You will not directly or indirectly export, re-export, or transfer the Services to prohibited countries or individuals (or allow either to use the Services). You represent and warrant that you are not: (a) designated on the United States Office of Foreign Assets Control's List of Specially Designated Nationals and Blocked Persons; (b) otherwise subject to a blocking order by the United States Government; (c) located, ordinarily resident, or organized in a jurisdiction that is subject to comprehensive economic sanctions imposed by the United States (such as those that may be applicable to Russia, Cuba, Iran, or North Korea); or (d) if a legal entity, owned or controlled, directly or indirectly, individually or in aggregate, by any individual, entity, organization, or government described in the foregoing.
+3.3
+Registration.
+To access certain features, you must create an Account and complete email verification. You agree to provide accurate information and keep it updated.
+3.4
+Security.
+You are responsible for maintaining the confidentiality of your credentials and for activities under your Account. You may not share your Account credentials or allow any other person to access or use your Account. Notify us immediately of any unauthorized use or security incident at
+support.hytale.com
+.
+4. License to Use the Service
+Key Points:
+We grant a limited, revocable license to use the Service. Don't cheat, reverse engineer, or misuse it.
+4.1
+License Grant.
+Subject to these Terms and the EULA for the Game, we grant you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to access and use the Service for personal, non-commercial purposes.
+4.2
+Restrictions.
+You may not: (a) reverse engineer, decompile, or attempt to extract source code except as permitted by law; (b) use cheats, bots, hacks, exploits, or unauthorized third-party tools; (c) circumvent technical protections; (d) resell, rent, lease, or commercially exploit the Service without our permission; or (e) engage in any unlawful activity using the Service, or otherwise misuse the Service or the Game.
+4.3
+Platforms.
+As of the Effective Date, the Service is only available on personal computer platforms. Support for additional platforms (e.g., consoles) for the Service may be introduced later and may have platform-specific terms.
+5. Virtual Currency & Virtual Items
+Key Points:
+Virtual Currency and Virtual Items are used through a license, have no cash value, and except as required by law, are non-refundable. Legal carve-outs may apply in some regions.
+5.1
+Nature of Virtual Content.
+Virtual Content has no real‑world monetary value and does not constitute property of any type. When you acquire or purchase any Virtual Content from us, you receive only a limited, non‑transferable, non‑sublicensable, revocable license to use the Virtual Content for your personal, non‑commercial access to and use of the Service. We may, in our sole discretion and to the maximum extent permitted by law, limit, manage, control, and modify any Virtual Content at any time. Any suspension, limitation, or revocation of any Virtual Content will be exercised in a proportionate manner and in accordance with Section 8 (Moderation & Enforcement) and applicable law.
+5.2
+Acquisition & Use.
+You may acquire Virtual Content only via: (a) direct purchase from us; (b) through gameplay of the Game; or (c) promotions we may offer as part of the Service. We may change prices and availability of Virtual Content at any time in our sole and entire discretion and without notice. We may also, in our sole and entire discretion and without notice, set and update limits on the amount of Virtual Currency you may purchase or hold in your Account from time to time. Virtual Content may only be used within the Service and for authorized purposes.
+5.3
+Payments.
+All purchases are processed by third-party payment providers. You authorize charges and agree to pay all fees, taxes, and any applicable exchange rate costs. Strong Customer Authentication ("SCA") may be required under applicable payments rules in the United Kingdom and the European Economic Area. This means your bank or payment provider may ask you to complete additional verification (for example, a code sent to your device or biometric approval). If you do not complete SCA when prompted, your transaction may be declined. In some cases, exemptions may apply, and you may not be asked to complete SCA.
+5.4
+Minors and Authorized Payments.
+Where a Minor uses the Service, purchases must be authorized by the parent or guardian associated with the Account or payment method. We provide controls to manage or restrict in‑Service spending for Accounts for Minors. We may cancel or reverse unauthorized purchases made by a Minor using a parent or guardian payment method.
+5.5
+Refunds & Withdrawal Rights.
+Except where required by law, all purchases of Virtual Content are final and non-refundable. Where consumer law mandates, you may have withdrawal rights. If you are habitually resident in the United Kingdom or any territory in the European Economic Area, you have a 14‑day right to withdraw from purchases of Virtual Content made at a distance unless you have already started to download or use them. Please note that once you download Virtual Content from us, your right of withdrawal ends. We may provide waivers or confirmations consistent with law at checkout.
+5.6
+Enforcement‑related measures.
+Where we determine you have committed a breach of these Terms (for example, cheating, fraud, chargeback abuse, or significant safety violations), we may, to the extent permitted by applicable law, limit, suspend, or forfeit Virtual Content associated with that breach to the extent necessary and proportionate to the violation and its impact.
+5.7
+No Real-Money Trading.
+Any trading, selling, transferring, or exchanging of Virtual Content to anyone outside the Service, including for real-world currency, is strictly prohibited. Any attempt to do so constitutes a violation of these Terms, and Hypixel Studios Canada reserves the right, in its sole and entire discretion, to terminate or suspend your Account and your license to use Virtual Content.
+5.8
+Expiration and Feature Retirement.
+The following terms apply to users who are habitually resident in the United Kingdom or any territory in the European Economic Area:
+(a)
+Inactivity expiry.
+Virtual Content may expire if your Account is inactive for an extended period. We will give you advance notice (for example, at least thirty (30) days) before any inactivity‑based expiry takes effect and provide a simple way to reactivate your Account to prevent expiry.
+(b)
+Feature retirement and service changes.
+If we remove or materially change a Virtual Item or feature not due to your breach, we will provide an appropriate remedy, which may include a functionally equivalent item, a credit of Virtual Currency of equivalent in‑Service value, or (where applicable) a refund of unspent paid Virtual Currency linked to the removed feature, in each case proportionate to the impact.
+6. User-Generated Content (UGC)
+Key Points:
+You own your creations. You grant us a broad license to host, use, and showcase them. Don't upload infringing or harmful content. We can moderate and remove.
+6.1
+Ownership.
+As between you and Hypixel Studios Canada, you retain ownership of your UGC. You grant Hypixel Studios Canada a non-exclusive, worldwide, fully paid-up, royalty-free, transferable, sublicensable, perpetual, irrevocable license to host, store, reproduce, adapt, modify, create derivative works, publish, publicly display, publicly perform, distribute, and otherwise use your UGC as we may determine is necessary or useful to operate, improve, and promote the Service, including for moderation and safety.
+6.2
+Representations.
+You represent and warrant that: (a) you have all rights to grant the above license; (b) your UGC does not infringe, violate, or misappropriate any other person's intellectual property, privacy, or publicity rights; (c) your UGC does not violate applicable laws; and (d) you will comply with Community Guidelines.
+6.3
+Moderation.
+We may review, refuse, remove, limit distribution of, or disable access to UGC at our sole and entire discretion, consistent with law and our Policies. We may preserve and share UGC with authorities where required by law or needed to protect safety and integrity.
+6.4
+Copyright and Takedowns.
+We will comply with applicable notice-and-takedown or notice-and-notice regimes regarding your UGC (e.g., under the Digital Millennium Copyright Act in the United States or under the Canadian
+Copyright Act
+in Canada, as applicable). Notifications of claimed copyright infringement must be reported to us by sending an email to
+[email protected]
+and must include all information as required by applicable law.
+7. Code of Conduct & Prohibited Activities
+Key Points:
+Keep the community safe. No harassment, hate, doxxing, sexual content involving Minors, illegal activity, malware, or cheating.
+7.1
+Prohibited Content.
+You may not post or share UGC that: (a) is unlawful, harmful, false or misleading, defamatory, exploitative, harassing, hateful, discriminatory, terroristic, or sexually explicit (whether or not involving Minors); (b) promotes self-harm, violence, or real-world harm; or (c) violates the privacy or publicity rights of any other person. To the maximum extent permitted by applicable law, Hypixel Studios Canada does not assume any responsibility or liability for UGC and reserves the right, in its sole discretion, to remove any UGC which violates any of the foregoing or the Community Guidelines.
+7.2
+Prohibited Conduct.
+You may use the Service only for lawful purposes. You may not access or use the Service to: (a) bully, harass, stalk, or dox others; (b) use cheats, hacks, or exploits, or otherwise misuse the Service or the Game; (c) distribute malware or attempt to gain unauthorized access to the Service; (d) infringe or misappropriate any other person's intellectual property rights; (e) engage in gambling; (f) engage in any fraud, scams, misleading, or other illegal activity; (g) conduct commercial activities not expressly authorized by us; (h) create a user name for your Account that is inappropriate, including, for example, user names with profanity, sexual references, hate speech, language supporting or encouraging self-harm, violence, or real-world harm, or user names that impersonate any individual or organization; (i) engage in the systematic retrieval of data or other content from the Service to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us; (j) interfere with, disrupt, or create an undue burden on the Service; or (k) engage in any activity that risks user safety or platform integrity, or that could reasonably be expected to harm, diminish, or tarnish the reputation, goodwill, or image of Hypixel Studios Canada.
+7.3
+Modding.
+We permit the creation and use of Mods. The terms and conditions pertaining to creation and use of Mods are governed by the EULA and applicable Policies.
+8. Moderation & Enforcement
+Key Points:
+We investigate reports and may act, including warnings, suspensions, bans, content removal, and forfeiture of Virtual Items where allowed by law.
+8.1
+Tools & Process.
+The Service includes tools for reporting violations of these Terms. We triage, investigate, and take actions proportionate to the nature and seriousness of any violation. For severe or repeated violations, we reserve the right to implement device- or IP-level restrictions, where permitted by law.
+8.2
+Transparency & Notice.
+Where lawful and practical, we will notify you of any enforcement actions taken against your Account and provide a channel to appeal. For users who are habitually resident in the United Kingdom or any territory in the European Economic Area, we will provide a statement of reasons and access to an internal complaint‑handling system consistent with applicable platform rules.
+8.3
+Forfeiture.
+Access to Virtual Content may be suspended or revoked in connection with violations, in accordance with applicable law and our Policies. For users who are habitually resident in the United Kingdom or any territory in the European Economic Area, Virtual Content may be limited, suspended, or forfeited only in accordance with Section 5.6 (Enforcement‑related measures).
+9. Safety & Reporting
+Key Points:
+Report harmful behavior using in-Service tools. We may escalate to authorities when required by law or for imminent harm.
+9.1
+Safety.
+We implement measures to promote safety and integrity, including anti-cheat systems and content moderation.
+9.2
+Reporting.
+Use in-Service reporting tools or contact us at
+support.hytale.com
+to report violations, safety risks, or suspected illegal content. For imminent harm, contact local authorities.
+9.3
+Disclosures.
+We may disclose information to competent authorities where required by law or necessary to protect users or the Service.
+10. Privacy & Data
+Key Points:
+Our Privacy Policy explains what we collect and why. For users below the Age of Consent, we require parental consent where required by applicable law.
+10.1
+Privacy Policy.
+Our Privacy Policy explains how we collect, use, share, and store your personal information, including cross-border transfers, data rights, and choices. This includes any time we process your personal information in the Game, on the Service, or when you otherwise interact with us.
+10.2
+Minors.
+For users who are below the Age of Consent, we require verifiable parental consent where required by law (e.g., COPPA in the U.S.). For users who are Minors and habitually resident in the United Kingdom or any territory in the European Economic Area, we apply age‑appropriate data protection. We minimize data collection, set high‑privacy defaults, avoid profiling or personalization that presents a high risk to users below the Age of Consent, and do not show advertising based on profiling to children. You may use our parental controls to manage safety, communication, and spending settings for Accounts for Minors. These controls are applied in an age appropriate way and may vary by age band, with more restrictive defaults for younger children. Where parental monitoring features are enabled, we will tell the Minor which controls are active. Further details are in our Privacy Policy.
+10.3
+Anti-Cheat & Security.
+We may collect telemetry and device signals to prevent cheating and abuse as described in the Privacy Policy. We do not deploy kernel-level anti-cheat.
+10.4
+Consent to Online Communications.
+You agree that any notices, agreements, disclosures, or other messages that we send you by electronic means shall satisfy any legal requirements that such communications be in writing. To the extent permitted by applicable law, you agree that any time you electronically transact, agree, or consent via the Service, it is intended to be an electronic signature which binds you as if you had signed on paper.
+11. Updates & Service Changes
+Key Points:
+We may update the Service and the Policies. We will provide notice of material changes.
+11.1
+Changes to the Service.
+We may modify, suspend, or discontinue the Service or features at any time, with reasonable notice where feasible and permissible under law, including under the law of the jurisdiction where you are habitually resident.
+11.2
+Changes to Terms and Policies.
+We may update these Terms, including any of the Policies from time to time at our sole and entire discretion, and may adopt additional Policies. To the extent and in the manner required by applicable law, we will provide reasonable notice of such updates. Where applicable law requires prior notice within a specified period for material changes, we will provide such prior notice (for example, by email, via the Hytale Launcher, by in‑Service notice, or by posting on our website) and specify the effective date. To the extent permitted by applicable law, continued use after the effective date of the updated Terms constitutes acceptance. If you disagree with any of the updates to these Terms, you may terminate these Terms as set out in the termination provisions of these Terms.
+11.3
+Notice to Certain Users.
+For users who are habitually resident in the United Kingdom or any territory in the European Economic Area, we will only make changes to these Terms for valid reasons, including to reflect changes in law or regulatory requirements, to maintain security or safety, to address technical or performance issues, to prevent abuse, or to introduce, improve, or remove features.
+12. Term and Termination
+Key Points:
+You may stop using the Service at any time. We may terminate for violations or where the Service is discontinued. We retain data for ninety (90) days, then delete or anonymize as required.
+12.1
+Effectiveness.
+These Terms are effective until your Account is terminated by either you or Hypixel Studios Canada.
+12.2
+Termination by You.
+You may terminate your Account at any time through your Account settings or by contacting us.
+12.3
+Termination by Us.
+Subject to applicable law, we may terminate your Account at any time in our sole and entire discretion. We may also suspend or immediately terminate your Account if: (a) you fail to comply with these Terms, the terms and conditions of the EULA, or any of the Policies; (b) we believe that you are using your Account to engage in any activity that risks user safety or platform integrity; or (c) we stop offering the Service. To the extent required by applicable law, we will provide any legally mandated advance notice; otherwise, we may suspend or terminate without prior notice.
+12.4
+Effects.
+Upon termination of your Account for any reason, your license to use the Service under these Terms and your right to use the Game under the EULA automatically terminate. Access to Virtual Currency and Virtual Items and UGC features may cease and be forfeited in accordance with Section 5.6. Sections intended to survive the termination of your Account (e.g., intellectual property licenses to content already used, disclaimers, limits of liability, indemnity, and dispute resolution) will survive. You acknowledge and agree that, except as required by applicable law, you are not entitled to any refund for any amounts that were paid to Hypixel Studios Canada prior to any termination. Where termination is not due to your breach (for example, if we discontinue the Service), we will provide an appropriate remedy in accordance with applicable law, which may include a pro‑rata refund for any pre‑paid, undelivered period and any unspent paid Virtual Currency that can no longer be used. This does not affect your statutory rights.
+12.5
+Data Retention.
+We retain personal data for ninety (90) days post-termination for limited purposes as required or permitted by applicable law (e.g., fraud prevention, legal obligations), then delete or anonymize it except where further retention is required by law.
+13. Disclaimers & Warranties
+Key Points:
+The Service is provided "as is" with legal consumer protections preserved.
+13.1
+DISCLAIMER.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SERVICE IS PROVIDED TO YOU ON AN "AS IS" AND ON AN "AS AVAILABLE" BASIS. EXCEPT AS REQUIRED BY APPLICABLE CONSUMER PROTECTION LAWS, WE DISCLAIM ALL WARRANTIES OR CONDITIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, ERROR‑FREE, ACCURATE, COMPLETE, RELIABLE, OR FREE OF HARMFUL CODE, OR THAT DEFECTS WILL BE CORRECTED. NO ORAL OR WRITTEN INFORMATION, GUIDANCE, OR ADVICE PROVIDED BY US OR THROUGH THE SERVICE CREATES ANY REPRESENTATION OR WARRANTY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES; TO THE EXTENT SUCH LAWS APPLY, THE FOREGOING EXCLUSIONS SHALL APPLY ONLY TO THE MAXIMUM EXTENT PERMITTED BY LAW AND SHALL NOT LIMIT ANY NON‑WAIVABLE STATUTORY RIGHTS.
+13.2
+Limited Exception.
+Nothing in these Terms affects rights you cannot waive under applicable consumer protection laws. For users who are habitually resident in the United Kingdom or any territory in the European Economic Area, the digital content and services we supply must be as described, fit for purpose and of satisfactory quality. We will provide necessary security and functionality updates for a reasonable period and inform you when updates are available. You must install updates we supply to maintain conformity. This does not prevent us from improving or changing the Game or Service in line with Section 11.1. If the digital content or Service are non‑conforming, you are entitled to a remedy. We may repair or replace the content within a reasonable time and without significant inconvenience to you. If repair or replacement is impossible or disproportionate, you may request a price reduction or terminate the affected contract and receive a refund for the relevant purchase. Refunds will be made using your original payment method within fourteen (14) days of our confirmation. If defective digital content we supplied damages your device or other digital content and we failed to use reasonable care and skill, you may be entitled to a repair or compensation. These remedies are in addition to any withdrawal rights and do not affect any other statutory rights you have.
+13.3
+Health & Interactions.
+Use may involve online interactions with others and may cause photosensitivity, motion discomfort or repetitive strain. Take breaks and consult a physician if needed.
+13.4
+Third Parties.
+We are not responsible for third-party content or services linked from the Service.
+14. Limitation of Liability and Indemnity
+Key Points:
+We limit our liability to the extent allowed by law. Some jurisdictions impose mandatory protections.
+14.1
+Limitations.
+To the maximum extent permitted by law, in no event shall Hypixel Studios Canada, its affiliates, and each of their respective parents, direct and indirect equity holders, predecessors, successors, and assigns, together with all of their respective directors, officers, employees, agents, advisors, consultants, financing sources, insurers, independent contractors, subcontractors, licensors, or other representatives acting for or on their behalf, in any capacity (collectively, the "Hypixel Studios Canada Parties") be liable for any indirect, incidental, consequential, special, exemplary, or punitive damages (including any cost, expense, tax, or attorneys' fees), or for any loss or damage to your device, software, or data, or for any loss of profits, revenues, goodwill, reputation, or other intangible losses, arising out of, relating to, or in connection with these Terms or your access to, use of, or inability to use the Service, even if Hypixel Studios Canada or any other Hypixel Studios Canada Parties have been advised of the possibility of such damages and losses, and you hereby waive and release each of the Hypixel Studios Canada Parties from any and all such damages and losses.
+14.2
+Cap.
+In no event shall the total aggregate liability (such amount, being defined as the "Cap") of the Hypixel Studios Canada Parties for all damages and losses arising out of, relating to, or in connection with (a) these Terms, or (b) your access to, use of, or inability to use the Service, exceed the greater of: (i) the amount, if any, paid by you (exclusive of any applicable tax) to Hypixel Studios Canada in the twelve (12) months preceding the event giving rise to the claim and (ii) one thousand (1,000) Canadian dollars. You agree that, subject only to Section 14.4, a monetary amount not exceeding the Cap is your sole and exclusive remedy against the Hypixel Studios Canada Parties for any and all damages and losses arising out of, relating to, or in connection with these Terms or your access to, use of, or inability to use the Service.
+14.3
+Waiver and Assumption of Risk.
+By accessing or using the Service, you acknowledge and agree that you do so at your own risk.
+14.4
+Exclusions.
+Nothing in these Terms limits or excludes our liability for death or personal injury caused by negligence. Some jurisdictions do not allow the exclusion or limitation of certain warranties, losses or liabilities. Accordingly, some of the above exclusions and limitations may not apply to you. In such cases, each of the Hypixel Studios Canada Parties' liability shall be limited to the maximum extent permitted by applicable law.
+14.5
+Indemnity.
+You agree to indemnify and hold each of the Hypixel Studios Canada Parties harmless from and against any third-party investigations, claims, liabilities, lawsuits, damages and losses, costs and expenses (including reasonable attorneys' fees and costs) arising out of or related to: (a) your breach of these Terms; or (b) any content you submit through the Service (including your UGC) that infringes, misappropriates, or otherwise violates any other person's intellectual property, privacy, or publicity rights when used by us in accordance with these Terms.
+15. Dispute Resolution & Arbitration
+Key Points:
+Mediation before any further action is mandatory. Except where not permitted by applicable law, Disputes are resolved by binding arbitration on an individual basis. You can opt out within thirty (30) days. Small claims court is allowed. You waive the right for a trial by a jury.
+15.1
+Scope; Carve‑outs.
+To the extent permitted by applicable laws of the jurisdiction where you are habitually resident, all Disputes arising out of or relating to these Terms, the Service, or the Game shall be determined exclusively by binding arbitration. The terms of this Section will also apply to any claims asserted by you against any present or future parent or affiliated entity of Hypixel Studios Canada to the extent that any such claims fall within the definition of Dispute. The only Disputes not covered by this Section 15 are: (a) claims regarding the infringement, protection or validity of your, Hypixel Studios Canada's or Hypixel Studios Canada's licensors' trade secrets, copyright, trademark or patent rights; (b) individual claims filed in small claims court within its jurisdictional limits; (c) claims for public injunctive relief where applicable law requires court adjudication; and (d) any and all Disputes arising out of or relating to the class action waiver, including, but not limited to, any claim that all or part of the class action waiver is unenforceable, unconscionable, illegal, void, or voidable. To the extent the parties have related arbitrable and non-arbitrable disputes, the arbitrable disputes shall proceed first in arbitration and the non-arbitrable disputes shall be stayed, and any applicable statutes of limitations tolled, pending completion of the arbitration.
+15.2
+Notice of Dispute.
+Before initiating any arbitration, small‑claims action, or court proceeding, a party must send a written, individualized notice of Dispute ("Notice of Dispute") to
+[email protected]
+, using the subject line "Notice of Dispute". The Notice of Dispute must include: (a) the name, mailing address, and phone number of the issuing party; (b) your Account username and the e-mail address associated with your Account; (c) a reasonably detailed description of the Dispute and the requested resolution; and (d) your personal signature. If we have a Dispute with you, we will send a Notice of Dispute with the same information to the email address associated with your Account. Notices of Dispute must be submitted on an individual basis.
+15.3
+Mandatory Mediation.
+You and Hypixel Studios Canada agree to first attempt to resolve the Dispute in good‑faith through mediation. Unless the parties agree otherwise, mediation will be conducted remotely with a neutral mediator agreed by the parties. The mediation must commence within sixty (60) days of the Notice of Dispute and may be extended by mutual agreement. Statutes of limitation are tolled during the notice and mediation period. Each side will share mediator fees equally unless applicable consumer rules or mandatory law provide otherwise. Communications made for mediation are confidential and inadmissible for any purpose in any subsequent proceedings to the maximum extent permitted by law. You and Hypixel Studios Canada agree that the arbitrator shall dismiss any arbitration filed without fully and completely complying with the Notice of Dispute and first attempting to resolve the Dispute in good faith through mediation in accordance with this Section 15.3.
+15.4
+Binding Arbitration.
+If the Dispute is not resolved by mediation within ninety (90) days of the Notice of Dispute, either party may elect to have the Dispute finally and exclusively resolved by binding arbitration. Any election to arbitrate by one party shall be final and binding on the other. A party initiating an arbitration shall provide with its arbitration demand all of the information required in the Notice of Dispute. The arbitration shall be administered by the American Arbitration Association under its Consumer Arbitration Rules ("AAA Consumer Rules") and, if applicable, its Mass Arbitration Supplementary Rules ("AAA Mass Arbitration Rules"), which are available at www.adr.org or by calling 1-800-778-7879, or as otherwise as modified in these Terms.
+15.5
+Certification.
+By submitting a demand for arbitration, a party (and their counsel, if represented) certifies that they have complied with all of the requirements of Federal Rule of Civil Procedure 11(b), including that the claims and relief sought are neither frivolous nor brought for an improper purpose. The arbitrator is authorized to award any relief or impose any sanctions available under Federal Rule of Civil Procedure 11 or applicable federal or state law against all appropriate persons (including counsel) as a court would.
+15.6
+Arbitration fees and costs.
+Arbitration fees and costs shall be governed by the AAA Consumer Rules or AAA Mass Arbitration Rules (if applicable).
+15.7
+Arbitration Decision.
+The arbitrator shall make a decision in writing, but need not provide a statement of reasons unless requested by you or Hypixel Studios Canada. The arbitrator has the authority to issue any relief allowed by applicable law, but the arbitrator shall have no authority to issue any relief on any basis other than an individual basis. The arbitrator may award declaratory or injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party's individual claim. If a court determines that a claim or request for public injunctive relief may not be waived and all appeals from that determination have been exhausted (or it is otherwise final), you and Hypixel Studios Canada agree that any claim or request for public injunctive relief shall be stayed and resolved by the court pending arbitration of the remaining claims and requests for relief.
+15.8
+Confidentiality.
+The arbitrator is permitted, upon a showing of good cause, to issue an order requiring that confidential information of either party disclosed during the arbitration (whether in documents or orally) may not be used or disclosed, except in connection with the arbitration or a proceeding to confirm or vacate the arbitration award, and may order that any permitted court filing of confidential information must be made under seal.
+15.9
+Class Action Waiver and Jury Trial Waiver.
+You and Hypixel Studios Canada each:
+(a) expressly waive the right to a trial by jury in any action or proceeding involving any Disputes in any forum;
+(b) agree that any and all Disputes between the parties shall be resolved only in individual arbitration;
+(c) expressly waive the right to have any Dispute brought, heard, administered, resolved, or arbitrated as a class, collective, coordinated, consolidated, or representative action, and neither an arbitrator nor an arbitration provider shall have any authority to hear, arbitrate, or administer any class, collective, coordinated, consolidated, or representative action, or to award relief to anyone but the individual in arbitration; and
+(d) expressly waive the right to seek, recover, or obtain any non-individual relief.
+Nothing in this Section prevents you or us from participating in a class-wide, collective, or representative settlement.
+15.10
+Mass Arbitration.
+If your Notice of Dispute involves claims similar to those of at least twenty-four (24) other users, and if you and those other users are represented by the same legal counsel, or by legal counsel who are coordinating with each other, you and we agree that these claims will be "Related Cases" to increase efficiency of resolution. To the extent permitted by applicable law and notwithstanding any other provision of these Terms, you and Hypixel Studios Canada agree that the AAA's Mass Arbitration Supplementary Rules in effect when the demand for Arbitration is filed, as modified by this Section 15.10, will apply to Related Cases. Related Cases may only be filed in batches of up to 50 individual arbitrations at a time, and those individual arbitrations will be resolved in the following manner: (a) for the first batch, each side may select up to twenty-five (25) of these Related Cases to be filed and resolved in individual arbitrations under this Section 15; (b) none of the other Related Cases may be filed or prosecuted in arbitration until the first batch of up to fifty (50) individual arbitrations is resolved; and (c) if, after that first batch, the parties are unable to resolve the remaining Related Cases, a second batch of Related Cases may be filed, where each side may select up to twenty-five (25) of the Related Cases to be resolved in individual arbitrations under this Section 15. This process of batched individual arbitrations will continue until the parties resolve all Related Cases informally or through individual arbitrations. A court has exclusive authority to enforce this Section 15.10, including whether it applies to a given set of claims, and to enjoin the filing or prosecution of arbitrations that do not comply with this 15.10.
+15.11
+Severability.
+If any provision of Section 15 is found invalid, unenforceable, or illegal, then you and Hypixel Studios Canada agree that the provision will be severed, and the rest of Section 15 shall remain in effect (including class action waiver and jury trial waiver, unless such sections are found invalid, unenforceable, or illegal) and be construed as if any severed provision had not been included. If the class action waiver is found to be invalid, unenforceable, or illegal, the entire Section 15 of this Agreement (but only Section 15) shall be null and void.
+15.12
+Location.
+If the Dispute does not exceed $25,000, the arbitration hearing will be telephonic or by videoconference, unless the arbitrator determines that a hearing is necessary for any reason, including but not limited to because a hearing is necessary to afford a party a full and fair opportunity to present its claims or defenses. Any in-person hearing will take place in New York City, New York.
+15.13
+Opt-Out.
+You may opt out of arbitration by sending written notice to
+[email protected]
+within thirty (30) days of first accepting these Terms. Your written notification must include your (a) full legal name, mailing address, and phone number; (b) Account username and the e-mail address associated with your Account; and (c) a clear statement that you do not wish to resolve disputes through arbitration. Any opt-out notification received after the deadline described in this Section 15.13 will be invalid. If you opt out, Disputes will be resolved in the courts specified in Section 16.
+15.14
+Small Claims.
+Subject to completion of Section 15.3 (Mandatory Mediation), unless prohibited by that court's procedures or applicable law, either party may bring an individual claim in small claims court that satisfies that court's jurisdictional requirements and seeks individualized relief only.
+15.15
+Timing for Raising Disputes.
+Subject to any non-waivable rights under applicable law, any Dispute arising out of or relating to the Service or these Terms must be commenced within twelve (12) months after the date on which the cause of action for the Dispute first arose; otherwise, it is permanently barred.
+15.16
+Changes to Dispute Resolution.
+In addition to, and without limiting, Hypixel Studios Canada's right to change the Terms pursuant to Section 11, Hypixel Studios Canada reserves the right to change any clause in this Section 15 and shall provide you with notice of any change in a form chosen at Hypixel Studios Canada's discretion. If Hypixel Studios Canada makes a change (other than to the notice address), you may reject any such change by sending Hypixel Studios Canada a personally signed, written notice of your decision to opt out of those changes via email to
+[email protected]
+, with the subject line: "Dispute Resolution Change Rejection" ("Rejection Notice"). The Rejection Notice must include: (a) your full name; (b) your mailing address; (c) your phone number; (d) your Hypixel Studios Canada account information (if applicable); (e) identification of the change that you reject, and (f) a clear statement that you do not accept the change. Your Rejection Notice must be sent within thirty (30) days of Hypixel Studios Canada sending notice of a change and must be sent by you personally, and not by your agent, attorney, or anyone else acting or purporting to on your behalf. This is not an opportunity to opt out of the dispute resolution process or arbitration altogether. If you do not timely reject a change, or you either affirmatively assent to the change or use the Service after notice of the change, that conduct will be interpreted and considered as you manifesting acceptance of the change.
+16. Governing Law & Venue
+16.1
+Governing Law & Venue.
+These Terms shall be governed by and construed in accordance with the laws of the State of New York, without reference to any choice or conflict of laws principles. Unless subject to arbitration under Section 15, the state courts of the State of New York located in New York County shall have exclusive jurisdiction over any suit, action, or proceeding arising out of or relating to these Terms, including any Disputes. Accordingly, the parties' consent to the personal jurisdiction of the courts in the State of New York and hereby waive any and all jurisdictional or venue defenses otherwise available to them. This Section will be interpreted as broadly as applicable law permits.
+16.2
+Mandatory Provisions.
+You may also benefit from any mandatory provisions of the law of the country in which you are habitually resident, and nothing in these Terms affects those rights.
+16.3
+CISG.
+For the avoidance of doubt, the United Nations Convention on Contracts for the International Sale of Goods (Vienna, 1980) (CISG) shall not apply to these Terms or to any Dispute.
+17. General Provisions
+Key Points:
+Standard legal terms about how this agreement works.
+17.1
+Severability.
+If any provision is found unenforceable, the remaining provisions will remain in full force and effect.
+17.2
+Interpretation.
+The Key Points and section headers in these Terms are for convenience and will not impact the interpretation of these Terms. In all cases where we are allowed to make a decision under these Terms, that decision is completely up to us, in our sole discretion. Even when not specified elsewhere in these Terms, the Terms are subject to applicable law, meaning that they apply except to the extent otherwise prohibited or required by applicable law. Unless the context dictates otherwise, whenever the word "including" or similar is found in the Terms, it means "including, without limitation" and whenever the word "or" is found in the Terms, it means "and/or."
+17.3
+No Waiver.
+A failure to enforce a provision is not a waiver of future enforcement.
+17.4
+Assignment.
+You may not assign your Account, the Service or these Terms without our prior written consent. We may assign your Account, the Service or these Terms, including in connection with a merger, amalgamation, or sale of assets.
+17.5
+Force Majeure.
+We are not responsible for delays or failures caused by events beyond our reasonable control.
+17.6
+Investigations; Cooperation with Law Enforcement.
+We reserve the right to investigate and prosecute any suspected or actual violations of these Terms. We may disclose any information as necessary or appropriate to satisfy any law, regulation, legal process, or government request.
+17.7
+Prevailing Language.
+To the extent any of the Terms are made available in multiple languages, in case of any discrepancies or conflicts between the English version of the Terms and any other language version, the English version will govern and prevail. The foregoing does not apply to you if you are habitually resident in the Province of Quebec, Canada, in which case the French version of the Terms will govern and prevail.
+17.8
+Notices & Contact.
+We may provide notices via the Service, email, or other reasonable means. Contact us at
+support.hytale.com
+.
+18. EU Users – Digital Services Act (DSA) Information
+18.1
+EU contact point.
+If you are habitually resident in any territory in the European Union, you can contact us at
+[email protected]
+for matters covered by the Digital Services Act (including notices about illegal content). We will also accept communications from European Union authorities at this address.
+18.2
+EU legal representative.
+Our designated European Union legal representative is:
+Privacy Rep Office Limited
+Attn: Hypixel Studios Canada Inc.
+2nd Floor, 1-2 Victoria Buildings, Haddington Road
+Dublin 4, Dublin, Ireland, D04 XN32
+[email protected]
+Telephone number: 0035-31-6994225
+18.3
+How we moderate content.
+Our Community Guidelines explain what is not allowed (for example, illegal content, hate speech, harassment, cheating tools, or dangerous content). We use a mix of automated tools and human review to detect, label, demote, remove content, or restrict accounts. Automated tools may flag content for human review; people make final decisions where needed. Possible actions include removal of content, restrictions on features, temporary suspensions, and account bans.
+18.4
+Notice and action (illegal content).
+If you believe content is illegal in your European Union Member State, use our in-Service reporting tools or contact us at
+[email protected]
+. Your notice should include: (a) a clear explanation of why the content is illegal, (b) the exact URL(s) or in‑Service location, (c) your name and email, and (d) a good‑faith statement that the information is accurate.
+Policies URLs
+Community Guidelines:
+https://hytale.com/community-guidelines
+Cookie Policy:
+https://hytale.com/cookie-policy
+Privacy Policy:
+https://hytale.com/privacy
+Server Operator Policies:
+https://hytale.com/server-policies
+Follow us
+About & Contact
+Terms of Service
+EULA
+Cookie policy
+Privacy
+Security
+Support
+©2026 HYPIXEL STUDIOS CANADA INC. ALL RIGHTS RESERVED.
+All trademarks referenced herein are the properties of their respective owners.
+Home
+Blog
+Media
+The Game
+Community
+Download
+Login
+Register
+Purchase
+We use cookies to provide and improve services on this site.
+Learn more
+Cookie policy
+Manage settings
+Reject all
+Accept all

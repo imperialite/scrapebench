@@ -1,0 +1,66 @@
+User-agent: *
+Allow: /api/utilities/v1/imageproxy
+Disallow: /maestro/api/
+Disallow: /api/
+Disallow: /maestro/
+Disallow: /ui/
+Disallow: /signature/voucher/
+Disallow: /account/
+Disallow: /acclaimbadge/
+Disallow: /voucher/
+Disallow: /search
+Disallow: /ent-website/
+Disallow: /learn-perf/
+Disallow: /specializations-perf/
+Disallow: /professional-certificates-perf/
+Disallow: /learn-noperf/
+Disallow: /specializations-noperf/
+Disallow: /professional-certificates-noperf/
+Disallow: /business/xmlrpc.php
+Disallow: /business/wp-content/uploads/ 
+Disallow: /business/search
+Disallow: /business/teams/search
+Sitemap: https://www.coursera.org/sitemap.xml
+
+
+
+User-agent: CCBot
+Disallow: /lecture/
+
+User-agent: GPTBot
+Disallow: /lecture/
+
+User-agent: ClaudeBot
+Disallow: /lecture/
+
+User-agent: MistralAI-User
+Disallow: /lecture/
+
+User-agent: Google-Extended
+Disallow: /lecture/
+
+User-agent: PerplexityBot
+Disallow: /lecture/
+
+User-agent: LinkedInBot
+Allow: /account/accomplishments/
+
+User-agent: Twitterbot
+Allow: /account/accomplishments/
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /programs/
+Disallow: /account/
+Disallow: /api/
+Disallow: /search
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /programs/
+Disallow: /account/
+Disallow: /api/
+Disallow: /search

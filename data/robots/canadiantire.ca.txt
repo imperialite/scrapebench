@@ -1,0 +1,14 @@
+# robots.txt for ODP_CT
+User-agent: *
+Crawl-delay: 10
+Disallow: /en/robots
+
+# Sitemap files
+Sitemap:https://www.canadiantire.ca/sitemap.xml
+LLM-Content : https://www.canadiantire.ca/llms.txt
+
+#Deep links
+Allow: /.well-known/apple-app-site-association
+Allow: /.well-known/assetlinks.json
+Allow: /content/canadiantire/apple-app-site-association.json
+Allow: /content/canadiantire/assetlinks.json

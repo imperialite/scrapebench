@@ -1,0 +1,18 @@
+User-agent: *
+
+Disallow: /apps/home-disclosures/*
+Disallow: /foreclosures/*
+Disallow: /bank-owned/*
+Disallow: /lp/wp-admin/*
+Disallow: /lp/wp-login.php
+Allow: /lp/wp-admin/admin-ajax.php
+Disallow: /lp/wp-content/themes/ADC_theme/includes/assets/ten-year/images/
+Disallow: /lp/wp-content/themes/ADC_theme/includes/assets/ten-year/images/timeline-b/
+Disallow: /event/auction_details_online.php
+Disallow: /bidders-registration-form.php
+Disallow: /Calendar.php/All-auctions.html
+Disallow: /property-print
+Disallow: /lp/foreclosure/AL
+Disallow: /preference-center/*
+
+Sitemap: https://www.auction.com/sitemaps/sitemapindex.xml

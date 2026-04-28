@@ -1,0 +1,44 @@
+Privacy Policy
+What we collect
+Account data: email, username, password hash.
+Profile (optional): name, languages, interests. These fields are optional and may be shown publicly on your profile.
+User‑generated content (UGC): lyrics translations, submissions, comments, forum posts, messages to moderators; your contributions are public by default.
+Technical data: IP address, device/browser info, referral and usage data (server logs).
+Cookies & similar tech: for sign‑in, preferences, analytics, and advertising (see “Cookies” below).
+Communications: messages you send us (support, abuse reports).
+
+Cookies
+
+We use cookies and similar technologies to keep you signed in, remember preferences, analyze usage, and support advertising. read more
+
+Retention
+
+We keep account data while your account is active. Server logs are typically retained up to 12 months. Support/abuse correspondence — up to 24 months. We may keep limited records needed to comply with law or defend our legal rights.
+
+Children’s privacy & eligibility
+
+Our service is not for children under 13 and we do not knowingly collect personal data from them. You must be at least 13 to register. If you are in the EEA/UK, you must be at least the age of digital consent in your country (13–16), or have verifiable parental consent. If you believe a child has provided personal data, contact us and we will delete it.
+
+Account & data deletion
+
+You can delete your account at Profile → Edit → Cancel account (irreversible).
+
+To request deletion of other personal data or to ask questions, use Contact us form.
+
+User‑generated content
+
+Your translations and other public contributions may remain visible after account deletion where allowed by law and our rules, but we will detach them from your profile or pseudonymize the author field where feasible.
+
+Security
+
+We use reasonable technical and organizational measures to protect your data. No online service can be 100% secure.
+
+Ads
+
+Advertising on this Website is managed by third-party advertising partners. They may collect and use certain aggregated and anonymized data for advertising purposes. To learn more about the types of data collected, how data is used and your choices as a user, please visit their privacy policies:
+Playwire LLC
+Snigel
+Tonefuse
+Google AdSense
+
+Thanks for using LyricsTranslate.com! Your feedback is welcome.

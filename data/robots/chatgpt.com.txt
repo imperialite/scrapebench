@@ -1,0 +1,181 @@
+# https://www.robotstxt.org/robotstxt.html
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: img2dataset
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: Omgili
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Perplexity‑User
+Disallow: /
+
+# General rules for all other bots
+User-agent: *
+
+# Place allows first to avoid bots skipping after Disallow: /
+# Allow exactly the homepage
+Allow: /$
+# Allow the homepage with any query parameters
+Allow: /?*
+Allow: /api/share/og/*
+Allow: /g/*
+Allow: /s/*
+Allow: /gg/v/*
+Allow: /share/*
+Allow: /canvas/shared/*
+Allow: /*/images
+Allow: /images
+Allow: /favicon.ico
+Allow: /assets/favicon*
+Allow: /cdn/assets/favicon*
+Allow: /auth/*
+Allow: /gpts$
+Allow: /codex$
+Allow: /search$
+Allow: /backend-anon/*
+Allow: /public-api/*
+Allow: /sitemap.xml
+Allow: /marketing-sitemap.xml
+Allow: /100chats
+Allow: /api/public_content/*
+Allow: /backend-api/public_content/*
+Allow: /?ref=dotcom
+# Static Landing Pages
+Allow: /overview
+Allow: /*/overview
+Allow: /features*
+Allow: /*/features*
+Allow: /apps*
+Allow: /*/apps*
+Allow: /use-cases*
+Allow: /*/use-cases*
+Allow: /learn*
+Allow: /*/learn*
+Allow: /business*
+Allow: /*/business*
+Allow: /pricing
+Allow: /*/pricing
+Allow: /download
+Allow: /*/download
+Allow: /students
+Allow: /college-students
+Allow: /contact-sales
+Allow: /*/contact-sales
+Allow: /100chats-project
+Allow: /*/100chats-project
+Allow: /merchants
+Allow: /*/merchants
+Allow: /parent-resources
+Allow: /parent-resources/*
+Allow: /*/parent-resources
+Allow: /*/parent-resources/*
+Allow: /atlas
+Allow: /*/atlas
+Allow: /plans
+Allow: /*/plans
+Allow: /translate
+Allow: /*/translate
+# Exact locale specific homepages
+Allow: /am/$
+Allow: /ar/$
+Allow: /bg-BG/$
+Allow: /bn-BD/$
+Allow: /bs-BA/$
+Allow: /ca-ES/$
+Allow: /cs-CZ/$
+Allow: /da-DK/$
+Allow: /de-DE/$
+Allow: /el-GR/$
+Allow: /es-ES/$
+Allow: /es-419/$
+Allow: /et-EE/$
+Allow: /fi-FI/$
+Allow: /fr-FR/$
+Allow: /fr-CA/$
+Allow: /gu-IN/$
+Allow: /hi-IN/$
+Allow: /hr-HR/$
+Allow: /hu-HU/$
+Allow: /hy-AM/$
+Allow: /id-ID/$
+Allow: /is-IS/$
+Allow: /it-IT/$
+Allow: /ja-JP/$
+Allow: /ka-GE/$
+Allow: /kk/$
+Allow: /kn-IN/$
+Allow: /ko-KR/$
+Allow: /lt/$
+Allow: /lv-LV/$
+Allow: /mk-MK/$
+Allow: /ml/$
+Allow: /mn/$
+Allow: /mr-IN/$
+Allow: /ms-MY/$
+Allow: /my-MM/$
+Allow: /nb-NO/$
+Allow: /nl-NL/$
+Allow: /pa/$
+Allow: /pl-PL/$
+Allow: /pt-BR/$
+Allow: /pt-PT/$
+Allow: /ro-RO/$
+Allow: /ru-RU/$
+Allow: /sk-SK/$
+Allow: /sl-SI/$
+Allow: /so-SO/$
+Allow: /sq-AL/$
+Allow: /sr-RS/$
+Allow: /sv-SE/$
+Allow: /sw-TZ/$
+Allow: /ta-IN/$
+Allow: /te-IN/$
+Allow: /th-TH/$
+Allow: /tl/$
+Allow: /tr-TR/$
+Allow: /uk-UA/$
+Allow: /ur/$
+Allow: /vi-VN/$
+Allow: /zh-CN/$
+Allow: /zh-TW/$
+Allow: /zh-HK/$
+
+# Now block everything else
+Disallow: /
+
+# Specific disallows (redundant for some bots, but still useful for those that respect precedence)
+Disallow: /auth/logout
+Disallow: /auth/login?*
+Disallow: /backend-anon/sentinel/*
+Disallow: /backend-anon/conversation$
+Disallow: /account-link/*
+
+Sitemap: https://chatgpt.com/sitemap.xml
+Sitemap: https://chatgpt.com/marketing-sitemap.xml

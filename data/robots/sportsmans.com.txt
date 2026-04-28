@@ -1,0 +1,13 @@
+User-agent: * 
+Allow: /search/?text=* 
+Allow: /search*relevance&page*pageSize=20 
+Disallow: /cart 
+Disallow: /my-account 
+Disallow: /checkout 
+Disallow: /reviews/reviewSubmission 
+Disallow: /maxmind/setMaxmindStoreAsSavedLocation 
+Disallow: /store-locator/findStores 
+Disallow: /store-pickup/facet-stores 
+Disallow: /store-pickup/*/ffl 
+Disallow: /store-pickup/*/pointOfServices 
+Sitemap: https://www.sportsmans.com/sitemap.xml

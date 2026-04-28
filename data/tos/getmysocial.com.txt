@@ -1,0 +1,171 @@
+GetMySocial - Terms and Conditions
+Terms and Conditions
+Last Modified: December 22, 2025
+1. Acceptance of the Terms
+Welcome to GetMySocial's Platform! These terms and conditions are entered into by and between you and E.R Marketing SRL ("Company," "we," or "us"). The following terms and conditions, together with any documents they expressly incorporate by reference (collectively, "Terms"), govern your access to and use of our website and services, including any content, functionality, and services offered on or through our platform (collectively, the "Platform").
+Please read these Terms carefully before using the Platform. By accessing or using the Platform, you accept and agree to be bound by these Terms. If you do not agree to these Terms, you must not access or use the Platform.
+2. Changes to the Terms
+We may revise and update these Terms at our discretion. All changes are effective immediately upon posting. Your continued use of the Platform following the posting of revised Terms means that you accept and agree to the changes. Please check this page regularly for updates.
+3. Changes to the Platform
+We reserve the right to modify or discontinue the Platform, or any part of it, without notice. We are not liable if any part of the Platform becomes unavailable at any time.
+4. Accessing the Platform and Account Security
+To access certain features of the Platform, you may need to create an account. By creating an account, you confirm that you are over 18 and legally capable of entering into these Terms. If you represent a business, you affirm that you have the authority to bind the business to these Terms.
+You must maintain the confidentiality of your account details and notify us immediately of unauthorized use. Multiple accounts per user are prohibited and may result in suspension or termination of access.
+5. User Content
+By submitting content to the Platform ("User Content"), you grant us an irrevocable, perpetual, royalty-free, worldwide license to use, display, distribute, modify, and create derivative works from your User Content. You warrant that you own or control all rights to the User Content and that it complies with these Terms.
+We are not liable for User Content posted by you or other users. We reserve the right to remove content that violates these Terms.
+5.1 Marketing Use of User Content
+By uploading media (including but not limited to profile pictures, images, logos, and other visual content) to your landing page or profile on the Platform, you grant us the right to use such content for marketing and promotional purposes. This includes, but is not limited to:
+Displaying your profile content in customer testimonials, showcases, or "trusted by" sections on our website and marketing materials.
+Using your content in advertisements, social media posts, presentations, and promotional campaigns.
+Featuring your landing page as an example or case study of our Platform's capabilities.
+Opt-Out Right:
+If you do not wish for your uploaded content to be used for marketing purposes, you may request its removal from our marketing materials at any time by contacting us at
+[email protected]
+. We will process your request and remove the content from future marketing materials within 14 business days. Please note that content already distributed in printed materials or third-party platforms may not be immediately removable.
+Your agreement to this marketing use does not affect your other rights under these Terms, and you retain ownership of your original content subject to the licenses granted herein.
+6. Content Standards
+User Content must comply with applicable laws and regulations and must not:
+Be defamatory, obscene, or offensive.
+Promote discrimination, violence, or illegal activities.
+Infringe intellectual property rights.
+Impersonate others or misrepresent your identity.
+7. Intellectual Property
+The Platform and its contents are owned by E.R Marketing SRL or its licensors and are protected by copyright, trademark, and other laws. You are granted a limited, non-exclusive license to use the Platform for personal or business purposes in compliance with these Terms.
+8. Prohibited Uses
+You may use the Platform only for lawful purposes. Prohibited uses include but are not limited to:
+Violating laws or regulations.
+Exploiting minors or soliciting personal information from them.
+Transmitting spam or malicious software.
+Interfering with the proper functioning of the Platform.
+9. Privacy Policy
+Your use of the Platform is subject to our Privacy Policy, which outlines how we collect, use, and protect your personal information.
+10. Monitoring and Enforcement
+We reserve the right to:
+Remove User Content that violates these Terms.
+Suspend or terminate accounts for non-compliance.
+Cooperate with law enforcement as required by law.
+11. Fees and Payment
+Certain services on the Platform may require payment. Subscription fees are billed in advance and are non-refundable except as required by law. We may adjust fees with prior notice. For billing issues, contact us at our provided support channels.
+12. Domain Registration and Management Services
+GetMySocial offers domain registration and management services to eligible users as part of certain subscription plans. By purchasing a domain through our Platform, you acknowledge and agree to the following terms:
+12.1 Domain Ownership and Registration
+All domains purchased through the GetMySocial Platform are registered under the legal ownership of E.R Marketing SRL ("the Company"). While you have the exclusive right to use and manage the domain for your links and content during your active subscription, the Company retains legal ownership of the domain name registration.
+Domains are registered to E.R Marketing SRL as the registrant of record with our domain registrar partner.
+You are granted a license to use the domain exclusively for your GetMySocial links and services during your active subscription.
+The domain remains associated with your account as long as your subscription is active and in good standing.
+12.2 Domain Pricing and Fees
+Domain pricing displayed on the Platform includes all applicable fees. Our pricing structure is as follows:
+Base domain cost: The registration fee charged by our domain registrar (varies by extension).
+Processing fee: A dynamic fee calculated as the greater of $14.99 USD or 10% of the base domain cost.
+All pricing displayed is all-inclusive and covers the full 1-year registration period.
+Premium domains (high-value or specialty domain names) may have significantly higher base costs as determined by the domain registrar.
+12.3 Domain Renewal
+Domains purchased through our Platform are registered for a 1-year period. Renewal terms:
+Auto-renewal is not enabled by default. You are responsible for manually renewing your domain before expiration.
+Renewal pricing is subject to change based on current registrar rates and our processing fee structure.
+We will provide notifications before domain expiration, but ultimate responsibility for renewal rests with you.
+Failure to renew a domain before expiration may result in loss of the domain name.
+12.4 Domain Transfer Policy
+If you wish to transfer a domain registered through GetMySocial to another registrar or to your personal ownership, the following terms apply:
+Domain transfers are subject to a non-refundable processing fee of $80.00 USD per domain.
+Transfer requests must be submitted in writing to our support team at
+[email protected]
+.
+The domain must be active (not expired) and in good standing at the time of transfer request.
+All outstanding fees and charges must be paid in full before any transfer can be initiated.
+Transfer processing typically takes 5-7 business days after payment of the transfer fee.
+Once transferred, you assume full responsibility for domain management, renewal, and any associated costs.
+The Company reserves the right to deny transfer requests that violate these Terms or applicable laws.
+12.5 DNS and Technical Configuration
+Domains purchased through our Platform are automatically configured with DNS settings optimized for GetMySocial services:
+DNS records are managed by the Company to ensure optimal performance and security.
+SSL certificates are automatically provisioned and renewed at no additional cost.
+You may not modify DNS settings or nameservers while the domain is used with our Platform.
+Custom DNS configurations may be available upon request for Enterprise plans.
+12.6 Domain Service Limitations
+Domain registration services are subject to the following limitations:
+Domain availability is subject to change and is not guaranteed until payment is confirmed.
+We are not responsible for delays or failures in domain registration caused by our domain registrar or third-party services.
+Premium domain pricing is set by the domain registrar and may change without notice.
+The Company reserves the right to refuse domain registration requests that violate our policies or applicable laws.
+Domain services are only available to users on eligible subscription plans (as specified in your account settings).
+12.7 Domain Refund Policy
+Due to the nature of domain registrations:
+Domain purchases are generally non-refundable once the registration is completed with our domain registrar.
+Refunds may be considered if the domain registration fails due to technical errors on our part.
+If a refund is issued, the domain will be released and may become available to other parties.
+Processing fees are non-refundable in all circumstances.
+12.8 Account Termination and Domains
+If your GetMySocial account is terminated or cancelled:
+Paid domains will continue to function until their expiration date.
+You will be responsible for renewing domains before expiration if you wish to maintain them.
+If you wish to transfer domains away from our Platform, the standard $80.00 transfer fee applies.
+Domains that are not renewed or transferred will expire and become available to the general public.
+The Company is not responsible for domains lost due to non-renewal or failure to transfer before expiration.
+13. Refund Policy
+We strive to provide high-quality services and ensure your satisfaction. Our refund policy is designed to be fair and transparent.
+13.1 Subscription Services
+For subscription-based services, you may cancel your subscription at any time. However, we do not provide refunds for partial subscription periods. When you cancel:
+Your subscription will remain active until the end of your current billing cycle.
+You will not be charged for subsequent billing cycles.
+No partial refunds are issued for unused portions of the current billing period.
+13.2 Eligibility for Refunds
+You may be eligible for a refund in the following circumstances:
+Technical issues: If you experience significant technical issues that prevent you from accessing or using our services, and our support team is unable to resolve these issues within 14 days.
+Duplicate charges: If you were charged multiple times for the same subscription or service.
+Unauthorized charges: If you discover charges that you did not authorize.
+Service unavailability: If our service is unavailable for more than 24 consecutive hours.
+13.3 Refund Request Process
+To request a refund:
+Contact our support team at
+[email protected]
+within 14 days of the purchase date.
+Include your account information, the date of purchase, and the reason for your refund request.
+Our team will review your request and respond within 5 business days.
+13.4 Refund Processing
+If your refund request is approved:
+Refunds will be processed using the same payment method used for the original purchase.
+Processing time typically takes 5-10 business days, depending on your payment provider.
+For credit card payments, refunds may appear as pending on your account before being finalized by your bank or card issuer.
+13.5 Non-Refundable Items
+The following are generally not eligible for refunds:
+Services that have been fully delivered or consumed.
+Purchases made more than 14 days prior to the refund request.
+Accounts that have violated our Terms of Service.
+Special promotional offers or discounted services marked as non-refundable at the time of purchase.
+Domain registration purchases (refer to Section 12.7 for domain-specific refund policies).
+13.6 Statutory Rights
+This refund policy does not affect your statutory rights. If you are a consumer in the European Union or other regions with applicable consumer protection laws, you may have additional rights that cannot be waived through this policy.
+14. Reliance on Information Posted
+The Platform's content is provided for general information purposes only. We do not guarantee its accuracy, and reliance on it is at your own risk.
+15. Links to Third-Party Sites
+The Platform may include links to external websites. We are not responsible for their content or any damages resulting from your use of them.
+16. Confidentiality
+Any confidential information shared with you, such as beta features, must be kept secure and not disclosed without our consent.
+17. Social Media Features
+You may link to the Platform provided you do so in a way that does not damage our reputation or imply endorsement. Unauthorized framing or linking may result in removal requests.
+18. Feedback
+Any feedback you provide regarding our Platform may be used by us without compensation or acknowledgment.
+19. Disclaimer of Warranties
+The Platform is provided "as is" without warranties of any kind. We disclaim all implied warranties to the extent permitted by law.
+20. Limitation on Liability
+Our liability is limited to the maximum extent permitted by law. We are not responsible for indirect, incidental, or consequential damages arising from your use of the Platform.
+21. Indemnification
+You agree to indemnify and hold harmless E.R Marketing SRL and its affiliates from any claims or liabilities arising from your violation of these Terms.
+22. Governing Law
+These Terms are governed by the laws of Romania. Any disputes shall be resolved exclusively in the courts of Oradea, Romania.
+23. Limitation on Time to File Claims
+Claims arising from these Terms must be filed within one year of the event giving rise to the claim.
+24. Waiver and Severability
+Failure to enforce any provision of these Terms does not constitute a waiver. If any provision is found unenforceable, the remaining provisions remain in effect.
+25. Entire Agreement
+These Terms, along with our Privacy Policy, constitute the entire agreement between you and E.R Marketing SRL regarding the Platform.
+Contact Us
+For questions or concerns, please contact us at:
+[email protected]
++1 305-540-0971
+Terms of Service
+·
+Privacy Policy
+© 2025 GetMySocial. All rights reserved.

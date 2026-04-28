@@ -1,0 +1,88 @@
+User-agent: PetalBot
+Disallow: /
+
+User-agent: FriendlyCrawler
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: Qwantify
+Disallow: /
+
+User-agent: SenutoBot
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: AwarioRssBot
+Disallow: /
+
+User-agent: AwarioSmartBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: SeekportBot
+Disallow: /
+
+User-Agent: *
+Crawl-delay: 5
+Disallow: /account/login/
+Disallow: /asia_travel/search/
+Disallow: /businessfinder/uk/
+Disallow: /businessfinder/usa/
+Disallow: /businessfinder/australia/
+Disallow: /businessfinder/philippines/
+Disallow: /businessfinder/canada/
+Disallow: /businessfinder/hongkong/
+
+Disallow: /tutors/singapore/tutor_details/
+Disallow: /u/in/
+Disallow: /u/hk/
+Disallow: /u/ca/
+Disallow: /u/us/
+Disallow: /u/au/
+Disallow: /u/my/
+Disallow: /u/uk/
+Disallow: /australia/
+Disallow: /api/merge_layer.php
+Disallow: /asia_travel/search/searchredirect.php
+Disallow: /asia_travel/travel_sites/whats_nearby/
+Disallow: /asia_travel/travel/resize_images.php
+Disallow: /routing/
+Disallow: /api/map/world.cgi
+
+Disallow: /sd_mobile/direction/
+Disallow: /lyricadvisor/nice_song.php
+
+Disallow: /etoday/send_article.php
+Disallow: /food_editorials/topics/
+Disallow: /travel_guide/editorials/other/
+Disallow: /resize_images.php
+Disallow: /feedback.php
+Disallow: /indonesia/jakarta/explain_property_error.php
+Disallow: /malaysia/kl/explain_property_error.php
+Disallow: /stock_images/travel/show_resize_image.php
+Disallow: /indonesia/jakarta/nearby_enlarge.php
+Disallow: /indonesia/jakarta/nearby_list.php
+Disallow: /malaysia/kl/nearby_list.php
+Disallow: /asiarooms/kl/travel.php
+Disallow: /web/
+Disallow: /api/map/world.cgi
+Disallow: /world.cgi
+Disallow: /jabodetabek.cgi
+Disallow: /hotels
+Disallow: /hotel_reservations
+Disallow: /email.php

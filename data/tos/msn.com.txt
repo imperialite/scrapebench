@@ -1,0 +1,52 @@
+Terms Of Use
+This site uses cookies for analytics, personalized content and ads. By continuing to browse this site, you agree to this use.
+Learn more
+MSN Solution Center - Terms of Use
+August 2010
+Acceptance of Terms.
+The services that MSN Online Solution Center provides to you are subject to the following Terms of Use ("TOU").  Microsoft Corporation reserves the right to update the TOU if: (i) necessary due to applicable law, including but not limited to a change of such law; (ii) necessary due to an advice and/or order based on applicable law; (iii) the equivalence ratio between service and consideration is disordered; or (iv) the terms will be changed to the advantage of the user.  We will inform you of the change before the change takes effect and will provide you the opportunity to cancel the service at least 30 days before the change takes effect. We will further inform you that the change will become valid if you do not cancel the Service.  The most current version of the TOU can be reviewed by clicking on the "Terms of Use" link located at the bottom of the MSN Online Solution Center web pages.  You agree to periodically open and review the indicated link to stay acquainted with the updates of the TOU. Your continued use of the Service constitutes your consent and agreement to the TOU and any updates.
+Expectations of Service.
+Microsoft's Role:
+Microsoft provides you with access to a variety of resources on this website, including documentation, product information, communication forums, and other services ("Services").  Microsoft does not offer formal support for the communities you will find here.  Instead, our role is to provide a platform for people who want to take advantage of the global community of Microsoft customers and product experts.  Microsoft has the right but not the obligation to monitor and edit or remove any activity or content.  Microsoft may cancel or suspend your access to the Services  if you are in breach of an obligation under these TOU and continue to breach such obligation after receipt of a notice to stop the breach within an appropriate timeframe.  To the maximum extent permitted by law, any information provided by Microsoft and/or third parties, either visitors or others, is offered "AS IS" and "AS AVAILABLE" with no additional contractual warranties of any kind.  Warranties foreseen by law shall remain unaffected.
+Visitor's Role:
+You acknowledge that you are a volunteer participant in the Services offered to you and that you may discontinue your participation at any time.  Nothing related to your participation will be construed as creating an employer-employee relationship, a partnership, joint venture, association, or agency relationship, or as a limitation upon Microsoft's right to terminate your access as foreseen above, or upon Microsoft's discretion, to terminate your access as provided herein.  You assume all risk for your use.  You understand that posting content or submitting material is voluntary, and you are under no obligation whatsoever to provide any submissions or contributions.  You are solely responsible for your dealings with any third party that relates to your use of the Services or any information or materials you obtain from a third party.
+No Compensation.
+Microsoft shall not be obligated to provide, and you have no expectation of receiving, any compensation in any form for your voluntary participation in the Services or for your submissions or contributions.
+Use of the Services
+You agree to use the Services to review and/or submit suggestions, comments, questions, feedback and to communicate with others in accordance with the following:
+You must follow the Code of Conduct available at
+https://help.live.com/help.aspx?project=tou&querytype=keyword&query=coc
+.
+Your use of the Services is governed by the Microsoft Services Agreement (
+https://support.microsoft.com/default.aspx/gp/csa
+) and this Terms of Use.
+See the Privacy Statement disclosures that relate to the collection and use of your information at the Microsoft Web site (
+https://privacy.microsoft.com/
+).
+Trademark information is available at
+https://go.microsoft.com/?linkid=4412893
+.  Any rights not expressly granted are reserved.
+You must be at least 18 years old, and at least 19 if in Canada, to register for Services.
+Informational note:  You may reduce the chances of receiving spam if you use a secondary e-mail account:  Set up or use an e-mail account that is separate from your primary account for posting to discussion groups. When you post a question or reply to a discussion group, use your secondary account as your e-mail address.
+Account, Password, and Security.
+Please keep in mind that the Online Solutions Center is public, so do not post online any personal information (such as name, address, phone number, social security number, credit card number, driver's license number, account, password, etc.)  or any other information that you do not want others to see.
+You are entirely responsible for maintaining the confidentiality of your password and account.  Furthermore, you are entirely responsible for any and all activities that occur under your account that is caused by your negligent behavior and/or omission.  You will notify Microsoft immediately of any unauthorized use of your account or any other breach of security.  Microsoft will not be liable for any loss that you may incur as a result of someone else using your password or account, unless Microsoft acted culpably.  You may be held liable for losses incurred by Microsoft or another party due to someone else using your account or password.  You may not use anyone else's account at any time, without the permission of the account holder.
+Advertising/Solicitation.
+The Services include forums for providing peer-to-peer assistance related to using Microsoft products and services. We ask that you refrain from posting unsolicited advertisements that do not pertain directly to the intended use and purpose of the Services.  The Services may NOT be used: (1) to create, check, confirm, update or amend your own or someone else's databases, records, directories, customer lists, mailing or prospecting lists. (2) to provide any kind of commercial information service; (3) as a source of material or contact data for any kind of marketing activity.
+Linking.
+You may not use the Services for the purpose of linking to external sites that violate this Terms of Use, the Code of Conduct or the Microsoft Services Agreement. The inclusion of any link does not imply endorsement by Microsoft of the linked site.
+Terms Of Use
+Code Of Conduct
+Privacy Statement
+Trademarks
+Legal
+Acknowledgements
+© 2026 Microsoft
+{1}
+##LOC[OK]##
+{1}
+##LOC[OK]##
+##LOC[Cancel]##
+{1}
+##LOC[OK]##
+##LOC[Cancel]##

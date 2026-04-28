@@ -1,0 +1,197 @@
+Glosbe Online Dictionary and Mobile App T&Cs
+
+1. T&Cs
+
+1.1. These Terms and Conditions ("T&Cs") govern the use of the Glosbe multilingual online dictionary (the "Dictionary") provided by Glosbe Parfieniuk i Stawiński sp. j., with its registered office in Warsaw, at ul. Erazma Ciołka 12/428, 01-402 Warsaw ("Glosbe").
+
+1.2. These T&Cs are available in Polish and English language versions.
+
+2. Services
+
+2.1. Glosbe provides the following services specified hereinbelow (the "Services"):
+
+2.1.1. browsing entries, images (graphics), and recordings ("Content") available through the Dictionary, allowing for translation (including machine translation) of single words and longer fragments into one of the languages served;
+
+2.1.2. adding Content to the Dictionary and editing existing entries;
+
+2.1.3. creating and using the User (as defined below) account (the "Account");
+
+2.1.4. using the Application Programming Interface (API) communicating external services, not provided by Glosbe, with the Dictionary database ("API"), subject to Clause below.
+
+2.2. The use of the Services commences upon starting to use online services available at https://glosbe.com or upon installing a native Glosbe mobile application ("Mobile App").
+
+2.3. All persons using the Services ("User(s)") should acquaint themselves with the T&Cs when starting to use the Services, and should abide by their provisions.
+
+2.4. The agreement between the User and Glosbe is deemed concluded upon starting to use the Services.
+
+2.5. The agreement is deemed terminated upon:
+
+2.5.1. exiting the online Dictionary – with respect to Users who have neither a registered Account nor a Mobile App; or
+
+2.5.2. deleting the Account or uninstalling the Mobile App – with respect to other Users.
+
+2.6. The Services are available free of charge, subject to Clause below.
+
+2.7. Certain Services, in particular the Dictionary, may also be accessed via the Mobile App. The scope of the Services available via the Mobile App may be subject to changes from time to time.
+
+2.8. Using the Dictionary requires a computer or a mobile device with access to the Internet, and the current version of a commonly used Internet browser. Using the Mobile App additionally requires a mobile device with the current version of Android or iOS operating system.
+
+2.9. The Dictionary (both in the form of a website and the Mobile App) is available in many language versions.
+
+2.10. The Dictionary is based on the Content uploaded by the Users, aggregated automatically from amongst materials available on the Internet under free licences, as well as results of computational linguistics algorithms applied in an automated manner to the resources contained in the translation memory and the Dictionary database. The Content uploaded by the Users or aggregated automatically is not verified by translators or native speakers of the relevant language prior to publishing. Glosbe stores the Content added by the Users, and shall not be held liable for the correctness of the Content displayed in the Dictionary.
+
+2.11. Glosbe stipulates that the API is a test Service designated for developers and external service providers, and may, from time to time, be subject to changes. Glosbe reserves the right to disable or limit API availability at any time.
+
+2.12. It is forbidden to:
+
+2.12.1. block, take evasive actions, and interrupt the Services or elements securing operation of the Services;
+
+2.12.2. take actions aiming to infringe information systems' security or the continuity of the Services, in particular by way of:
+
+(a) using the Services through the means and technologies designated for copying the entire or a material part of the Dictionary database, in particular automates, bots, and similar means;
+
+(b) using the Services for the purpose of collecting Users' personal data.
+
+2.12.3. publish unlawful Content, in particular insulting, defamatory, crude, or Content infringing third party intellectual property rights;
+
+2.12.4. intentionally upload to the Dictionary incorrect translations and delete correct translations (or other Content).
+
+3. Registration
+
+3.1. Using certain Services requires creating an Account. The Account may be created by choosing available options, including through registration in the web service or the Mobile App, or by using a simple registration and logging mechanism via external services, e.g. Facebook (single sign-on mechanism).
+
+3.2. The User is obliged to provide actual data in the registration process.
+
+3.3. By creating the Account, the User will be allowed to:
+
+3.3.1. add and edit Content;
+
+3.3.2. log in and use selected services, other than the Services, provided by Glosbe (single sign-on mechanism), e.g. other online portals.
+
+3.4. The User shall keep the login and password to the Account secure, and shall not disclose them to any third party. The User shall notify Glosbe of any suspected data takeover or other unauthorised access, via e-mail sent to the address cloud.inside@gmail.com .
+
+3.5. In case of a justified suspicion that the Account has been taken over by an unauthorised person, Glosbe reserves the right to disable the Account for the time required to clarify the situation, however no longer than 30 days. Glosbe shall promptly notify the User of disabling the Account.
+
+3.6. Users are authorised at any time to edit their data or delete the Account by choosing options available after logging in.
+
+3.7. Glosbe reserves the right to deny access to the User Account, including to delete the Account, if the User:
+
+3.7.1. violates the bans specified in Clause above;
+
+3.7.2. uses the Dictionary with the aim to copy a significant part thereof, in particular by using search engine programs (bots) designed for that purpose;
+
+3.7.3. grossly and persistently infringes the provisions of the T&Cs.
+
+3.8. In case Glosbe intends to delete the Account pursuant to Clause above, Glosbe shall notify the User thereof, enabling the User to present his / her standpoint and granting a cure period, not shorter than seven days. Upon ineffective lapse of the cure period for discontinuing infringing the T&Cs, Glosbe is authorised to delete the User Account.
+
+4. Intellectual Property Rights and Unlawful Content
+
+4.1. Glosbe is the creator of the Dictionary database pursuant to motive (41) of the Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases and Article 2 (1)(4) of the Polish Act on the Protection of Databases of 27 July 2001 (Journal of Laws of 2001, No. 128, item 1402, as amended).
+
+4.2. By adding Content, the User:
+
+4.2.1. represents that it holds title to the Content, referred to in the T&Cs (holds author's copyrights to the Content or a licence, and required consents and permits issued by authorised persons), in the scope necessary to grant licences, referred to in the T&Cs. The User represents in particular that the Content (including artistic performances thereof) and use thereof does not infringe any third party rights, in particular intellectual property rights;
+
+4.2.2. undertakes that in case a third party raises claims towards Glosbe concerning the Content (or artistic performances thereof) uploaded by the User, the User shall provide Glosbe with the required assistance, in particular in case of claims raised or court proceedings initiated, the User shall promptly provide Glosbe with all information necessary for the purpose of pursuing defence, enter the proceedings on the part of Glosbe, and refund to Glosbe all justified costs, including the costs of any and all damages, costs of legal proceedings (including legal assistance), as well as other costs of legal advisory and compensation concerning the claims of third parties whose rights have been infringed due to the fault of the User;
+
+4.2.3. grants to Glosbe, for an indefinite period and to the largest permitted extent, a global, non-terminable, transferrable, unexclusive licence for the Content and artistic performances of the Content uploaded by the User, with a right to grant sub-licences. The licence includes the right to use and modify the Content and artistic performances thereof, in whole or in part, by way of:
+
+– fixing and reproducing with the use of any technology;
+
+– introduction to trade, lending for use or rental;
+
+– dissemination in a manner such as public performance, exhibition, screening, presentation and broadcasting, as well as retransmission, and making the Content publicly available in such a manner that anyone could access it at a place and time selected thereby (in particularly in the Internet);
+
+4.2.4. in case the provision excluding termination of the licence set forth in the preceding Clause proves ineffective or invalid, the User shall be authorised to terminate the licence observing a five-year notice period, effective as of the end of the calendar year. The User undertakes not to exercise the abovementioned right, unless Glosbe infringes author's copyrights or related rights of the User, and fails to discontinue the infringement despite the lapse of a 30-day cure period granted in a written notice sent by the User;
+
+4.2.5. undertakes not to exercise towards Glosbe author's economic rights to the Content created by the User (and artistic performances thereof), and authorises Glosbe to exercise such rights on behalf of the User, in particular not to mark the Content (and artistic performances thereof) with the name and surname of the User;
+
+4.2.6. represents that the authors of the Content, other than the User, have undertaken not to exercise towards Glosbe author's economic rights to such Content created by the User (and artistic performances thereof), and authorised Glosbe to exercise such rights on their behalf, in particular not to mark the Content (and artistic performances thereof) with the name and surname of the author;
+
+4.2.7. allows the Company to use and utilise derivative rights to Content on all fields of exploitation specified in Clause 4.2.3, in particular including the use and utilisation of their translation and adaptation (thus, the User agrees that Glosbe is authorised to modify the Content uploaded by the User).
+
+4.3. The licence and permits, referred to in Clause 4.2 hereinabove, within the scope therein specified, are granted in exchange for the possibility to use the Services, i.e. without the right to claim additional remuneration for granting the licence, consents, and permits.
+
+4.4. The User, by uploading the Content, permits other Users of the Services to use the Content and artistic performances thereof, uploaded by such User, in accordance with the terms of the licence Creative Commons Attribution – Non-Commercial – ShareAlike 4.0 International Public Licence (CC BY NC SA). The terms of the licence are specified in detail at the address: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode . Thus, the User consents for the Users to gratuitously use the Content for non-commercial purposes, including creating, utilising, and using derivative Content (e.g. translations and adaptations).
+
+4.5. Glosbe grants to the User a free of charge, unexclusive, global, non-transferrable licence to the Mobile App. The licence is granted for an indefinite period. The User has the right to install and reproduce the Mobile App on mobile devices for the internal needs of the User, in the scope required for using the Dictionary. The User does not have the right to reproduce the Mobile App in any other manner or to translate, adjust, change settings, decompile or introduce any other amendments to the Mobile App.
+
+4.6. In case Glosbe learns (in particular by receiving an official notification or reliable evidence) that the Content infringes third party rights, in particular intellectual property rights, Glosbe shall promptly hide, delete or otherwise render such Content inaccessible until the situation is clarified. Glosbe notifies the User of disabling access to or deleting the Content from the Dictionary by way of displaying such information visible after logging into the Account.
+
+4.7. The Content infringing third party rights, in particular intellectual property rights, shall be reported via electronic mail (e-mail) to the address cloud.inside@gmail.com .
+
+5. Personal Data and Privacy
+
+5.1. Information on Glosbe processing personal data is provided in the privacy policy available at the address: https://glosbe.com/privacy-policy_en.pdf .
+
+6. Complaints
+
+6.1. The User has the right to lodge complaints related to the use of the Services.
+
+6.2. Complaints shall be sent via e-mail to the address cloud.inside@gmail.com . A complaint shall, as a minimum, include:
+
+6.2.1. User contact details (at least the e-mail address and login to the Account);
+
+6.2.2. subject matter of the complaint;
+
+6.2.3. the User's demands.
+
+6.3. A complaint shall be considered within 30 days of lodging thereof, at the latest.
+
+7. Liability
+
+7.1. The User acknowledges that the Dictionary is a gratuitous service substantially designated for individual Users who do not intend to use the Dictionary for commercial or business purposes.
+
+7.2. Glosbe provides the Services, including the Content, without granting any guarantees ("as is"), and does not verify the correctness of the Content, including the Content aggregated automatically or uploaded by the Users. Due to the mechanism underlying the functioning of the Dictionary, Glosbe does not guarantee the accuracy, correctness or fitness of any Content displayed in the Dictionary for any purpose intended by the User.
+
+7.3. Glosbe does not make or grant with respect to the Services, including the Content, any representations, warranties or guarantees (including the statutory warranty), whether express or implied. No Content available in the Dictionary shall be considered by the User professional and individual advice. Depending on the purpose for which the User intends to use the Content, the User shall additionally verify the correctness of each generated translation.
+
+7.4. THEREFORE, TO THE LARGEST EXTENT PERMITTED BY THE APPLICABLE LAW, THE LIABILITY OF GLOSBE, ITS SUBSIDIARIES AND AFFILIATED COMPANIES, MEMBERS OF THE GOVERNING BODIES, PARTNERS, AGENTS AND LICENSORS, FOR:
+
+7.4.1. LOSS OF DATA;
+
+7.4.2. UNINTERRUPTED FUNCTIONING OF THE SERVICES;
+
+7.4.3. QUALITY, CORRECTNESS, AND ACCURACY OF THE CONTENT, IN PARTICULAR TRANSLATIONS;
+
+7.4.4. LOSS OF PROFIT (LUCRUM CESSANS), IN PARTICULAR LOST PROFIT, TURNOVER, EXPECTED SAVINGS IN RELATION TO THE USE OF THE SERVICES OR INTERRUPTION IN THE FUNCTIONING OF THE SERVICES;
+
+IS HEREBY EXPRESSLY EXCLUDED.
+
+7.5. The above provisions do not exclude or limit the liability of Glosbe in case such liability may not be lawfully excluded or limited, in particular:
+
+7.5.1. towards a consumer residing in the European Union;
+
+7.5.2. for intentional damage.
+
+8. Amendment of the T&Cs
+
+8.1. Glosbe reserves the right to amend the T&Cs from time to time due to substantial reasons. Substantial reasons include:
+
+8.1.1. the necessity to make adjustments to the T&Cs to the effect it complies with the provisions of law directly affecting the T&Cs, and triggering the necessity to modify the T&Cs so that it complies with the law;
+
+8.1.2. the necessity to adjust the T&Cs to the recommendations, orders, judgements, resolutions, interpretations, guidelines or decisions issued by the relevant state authorities directly affecting the T&Cs;
+
+8.1.3. extension, limitation or change of the Services, including implementing new services provided by means of electronic communication;
+
+8.1.4. amending the technical terms of rendering services by means of electronic communication;
+
+8.1.5. the necessity to clarify ambiguities, remove errors and typos in the T&Cs, if any;
+
+8.1.6. change of contact details, names, identification numbers, electronic addresses or links in the T&Cs;
+
+8.1.7. counteracting infringements of the T&Cs or malpractices.
+
+8.2. Glosbe shall notify the Users of amending the T&Cs, at least fourteen (14) days in advance. Information on amending the T&Cs shall be made available online and through the Mobile App. Registered Users shall additionally receive a notification of amendments to the T&Cs sent to the e-mail address provided for registration purposes.
+
+8.3. A User objecting to the amendments of the T&Cs shall delete the Account by the date specified as the effective date of the amended T&Cs. A failure to delete the Account within the time limit specified above is considered acceptance of the amended T&Cs.
+
+9. Final Provisions
+
+9.1. The T&Cs are available in Polish and English language versions via the web service Glosbe.com and the Mobile App.
+
+9.2. The T&Cs shall be governed and construed according to Polish law.
+
+9.3. In case the User is a consumer residing in the European Union, the choice of Polish law does not deprive the User(s) of availing themselves of legal protection granted on the basis of absolutely binding provisions of law applicable in the place of their residence.
+
+9.4. Disputes arising between the User and Glosbe shall be resolved by the court of jurisdiction appropriate for Glosbe's registered office, unless the above contradicts the mandatory provisions of applicable law. In particular, the User being a consumer residing in the European Union has the right to file a lawsuit with the court of jurisdiction appropriate for the User's place of residence, or the court of jurisdiction appropriate for Glosbe's registered office, and Glosbe has the right to file a lawsuit against the User being a consumer residing in the European Union with the court of jurisdiction appropriate for the User's place of residence.

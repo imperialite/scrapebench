@@ -1,0 +1,467 @@
+Terms of Use
+Terms of Use
+BY CLICKING OR TAPPING ON I AGREE BELOW AND/OR BY ACCESSING OR USING THE
+        SITE (AS DEFINED BELOW) IN ANY MANNER,
+YOU ACKNOWLEDGE THAT YOU HAVE
+        READ AND AGREE TO BE BOUND BY THESE TERMS OF USE ("
+TERMS
+"). WITH RESPECT
+        TO CERTAIN SERVICES, YOU MAY HAVE TO AGREE TO ADDITIONAL TERMS AND CONDITIONS THAT
+        APPLY TO SUCH SERVICES (SUCH ADDITIONAL TERMS ARE REFERRED TO HEREIN AS THE
+        "SPECIFIC TERMS"). In the event of any conflict or inconsistency between these
+        Terms and the Specific Terms, the Specific Terms shall prevail and control. These
+        Terms constitute a legally binding agreement between you ("
+you
+", or "
+your
+")
+        and ADP, Inc. or its affiliate that makes available the services or products you
+        use or will use ("
+Services
+") to you or your employer, as applicable ("
+ADP
+";
+        "
+we
+", "
+us
+" and "
+our
+"). As used herein, the term "
+Site
+"
+        shall refer to the application, website or web portal that includes software proprietary
+        of ADP (the "
+Software
+") used to make available the Services. If you do
+        not agree to all of the Terms, you are not authorized to access or otherwise
+        use the Site.
+1. SITE OVERVIEW
+A. AUTHORIZED AND UNAUTHORIZED USERS
+The Site is available only to users who are (a) current
+        or former employees, independent contractor-recipients of wage payments, or
+        plan participants ("
+Employer Authorized Users
+") of the employer
+        indicated on the Site (the "
+Employer
+") permitted by the
+        Employer to use the Site, or (b) individuals or businesses (e.g., job
+        applicants, accounting firms, and partner firms) authorized by ADP to access and
+        use the Site in connection with certain Services offered to such users independent
+        of an ADP client's relationship with its Employer Authorized Users (the
+        Employer Authorized Users described in clause (a) and the users described in
+        clause (b) of this section are collectively referred to as "
+Users
+" and
+        each, a "
+User
+").
+Access to and use of the secure areas of the Site is restricted to a User
+        only for personal use or for official business purposes on behalf of your
+        Employer and such use or access is prohibited to Unauthorized Third Parties. An
+        "Unauthorized Third Party" refers to (a) any third party or business
+        that seeks to access or accesses the Site regardless of the User's purported
+        consent, in order to access, copy or obtain information within the Site,
+        whether by an automated data gathering program or by other means, including
+        data scrapers, data aggregators and (b) any third parties seeking to monetize
+        data obtained from ADP without ADP's express consent. Unauthorized access,
+        including any access by Unauthorized Third Parties, is prohibited and may lead
+        to criminal prosecution.
+B. EMPLOYEE/PLAN PARTICIPANT USERS
+The Employer, through its service agreement(s) with ADP is
+        providing you with access to information and Services on the Site under these
+        Terms. Please note that not all Terms may be applicable to you. Only the Terms
+        applicable to the products and services purchased by your Employer under its
+        service agreement(s) with ADP apply.
+On the Site, you will be able to access certain
+        employment-related or plan-related information and documents made available by
+        your Employer and to participate in the Services. As an employee or plan
+        participant, your use is limited to your own individual use. You acknowledge
+        and agree that it is your responsibility to submit information relating to the
+        Services and to verify the accuracy and completeness of all such information.
+        ADP does not review the accuracy or completeness of the information you submit.
+Calculations, estimates or modeling of events or circumstances, including
+        projected or expected annual expenses, provided on the Site are estimates only
+        and are being provided by ADP for informational purposes only. Your actual
+        costs and expenses may vary.
+You acknowledge and understand that ADP is merely making the Site available on
+        behalf of the Employer and is not acting as an investment advisor,
+        broker-dealer, insurance agent or intermediary or a financial or benefit
+        planner or tax advisor. ADP is not providing any benefits or any information
+        related thereto. The Employer is responsible for making available all benefits
+        and information related thereto referenced or included on the Site. The prior
+        two sentences do not apply to employees of companies who have entered service
+        agreements with ADP TotalSource, Inc.
+A summary of the benefits provided under a workplace plan is usually contained
+        in the plan's "summary plan description," or "SPD." Full
+        details are provided in the actual governing plan documents, which govern the
+        operation of the plan. If the content of the Site is inconsistent with an SPD,
+        the terms of the SPD will control (and if the terms of the SPD are inconsistent
+        with the governing plan documents, the governing plan documents will control).
+        The information presented on the Site is not intended to create, nor is it to
+        be construed to create a contract between (1) the Employer or ADP, or their
+        respective affiliates and (2) any one of the Employer's employees or other plan
+        participants.
+C. ADMINISTRATOR USERS
+As an authorized administrator for the Employer,
+        your acceptance of these Terms will serve to bind BOTH you and the Employer and
+        in accepting such terms, you represent that you are authorized to so bind the
+        Employer. The portion of the Terms specifically applicable to
+        "Administrator Users" will be binding upon you in your capacity as an
+        authorized administrator and on the Employer, and the terms specifically
+        applicable to "Employee/Plan Participant Users" or
+        "Employees" or "Participants" will be binding upon you as
+        an employee or a plan participant, and not upon your Employer. All other terms
+        will be binding upon both you and the Employer.
+As an authorized administrator for the Employer, you acknowledge and
+        understand, on behalf of the Employer, that ADP is merely making the Site
+        available and is not acting as an investment advisor, broker-dealer, insurance
+        agent or intermediary or a financial or benefit planner. ADP is not providing
+        any benefits, or any information related thereto. As an authorized
+        administrator for the Employer, you acknowledge, on behalf of the Employer,
+        that the Employer is responsible for making available all benefits and
+        information related thereto referenced or included on the Site. The prior two
+        sentences do not apply to employees of companies who have entered service
+        agreements with ADP TotalSource, Inc.
+2. AUTHORIZED ACCESS
+The Site is available only to authorized
+        Users who provide (i) a valid, registered user ID and (ii) password, passkey (e.g., Touch ID, Face ID, PIN) or other
+        authentication method (e.g., social media login, one-time passcode to email or
+        phone, third-party authenticator application) (clauses (i) and (ii)
+        collectively referred to as, "
+Credentials
+") whether issued by ADP or by
+        your Employer to enable federated single sign-on ("
+SSO
+").
+        The Credentials available for your use depend on your device (e.g., computer or
+        mobile device, collectively, "
+Device
+") and its operating system, the ADP
+        Service(s) you use, and, if applicable, the preferences of your employer or the
+        ADP client.
+If you sign in to the Site using a passkey, either biometric
+        (Touch ID, Face ID) or PIN, such Credentials are encrypted and stored in your
+        Device only; they are not shared with ADP. For more information about how the
+        manufacturer of the operating system of your Device ("
+OS Manufacturer
+")
+        protects your Credentials, please refer to the OS Manufacturer's privacy policy
+        and security guides. If you use federated SSO or social media login, such Credentials
+        remain with your Employer or social media provider, respectively.
+You agree to take all actions necessary to maintain the
+        privacy, confidentiality and security of your Credentials and Devices. These
+        actions include, without limitation, not disclosing your Credentials to any
+        person, safeguarding your Credentials in a private and secure place, securing
+        your Devices when not in use, adopting special precautions when accessing the
+        Site from a Device that can be used by other people (e.g., a publicly-shared
+        device), and logging out of the Site at the end of each session.
+If you believe that an Unauthorized Third Party has access
+        to your account, you should change your Credentials immediately and notify your
+        security administrator and/or your HR Department, and/or any other party
+        specified in the Specific Terms for the applicable Services.
+3. LAWS AND REGULATIONS
+Access to and use of the Site is subject
+        to all applicable international, federal, state, provincial, and local laws and
+        regulations, including export and import laws and regulations. You agree to
+        abide by these laws and regulations, including those that apply to the Site and
+        those that restrict or prohibit export for certain end-uses or to certain
+        end-users, and not use the Site in any way that violates such laws or
+        regulations.
+4. PRIVACY
+Any personal information provided to ADP through
+        the Site is subject to the ADP privacy statement applicable to the Services being
+        provided to you or your employer, as applicable.
+5. SECURITY
+Data transmitted to and from the Site is
+        encrypted for your protection; however, the security of information transmitted
+        through the internet can never be guaranteed. ADP is not responsible for any
+        interception or interruption of any communications through the internet or for
+        changes to or losses of data. To protect you and your data, ADP may reset your Credentials
+        or suspend your use of the Site, without notice, pending an investigation, if
+        any such unauthorized disclosure or breach of security is suspected.
+6. COPYRIGHTS AND TRADEMARKS
+The Software, information and
+        brands available on or through the Site are the sole and exclusive property of
+        ADP or its licensors (except for that information that is the sole and
+        exclusive property of your Employer or yourself), and is protected by
+        copyright, trademark, and other intellectual property laws. You may not use the
+        trademarks, logos and service marks ("
+Marks
+") found on the
+        Site for any purpose, including, but not limited to, use as "hot
+        links" or meta tags in other pages or sites on the World Wide Web, without
+        the written permission of ADP or such third party that may own the Mark.
+7. RIGHTS TO USE SOFTWARE; NO TAMPERING
+You are not
+        purchasing title to the Software or copies thereof. ADP reserves all rights not
+        expressly granted to you. You may not modify, copy, distribute, transmit,
+        display, publish, sell, rent, license, create derivative works or otherwise use
+        any contents, information or Software available on or through the Site for
+        commercial or public purposes (except for that information that is the sole
+        exclusive property of your Employer or yourself). You are granted access to use
+        the Software on a limited, revocable, non-exclusive, and non-transferable
+        basis, subject to these Terms. You may not decompile, reverse engineer,
+        disassemble, attempt to derive the source code of, modify, or create derivative
+        works of the Software, any updates, or any part thereof (except as and only to
+        the extent any foregoing restriction is prohibited by applicable law or to the
+        extent as may be permitted by the licensing terms governing use of any
+        open-source components included with the Software). You agree not to modify,
+        move, add to, delete, tamper with, manipulate or otherwise disrupt the Site,
+        the Software contained in the Site, or the information contained in the Site,
+        and further agree not to circumvent any ADP technical controls and security
+        measures. Any attempt to do so is a violation of the rights of ADP and its
+        licensors.
+8. USE OF SITE NOT TRANSFERABLE/ASSIGNABLE
+The right to use
+        the Site is personal to each User that is authorized to use the Site and is not
+        transferable by such User by assignment, sublicense, or any other method to any
+        other person or entity. Any attempt by a User to transfer such User's rights
+        shall be void and shall constitute a breach of these Terms.
+9. OFFENSIVE, DESTRUCTIVE OR INAPPROPRIATE USE
+You shall not
+        exploit the Site in any unauthorized way whatsoever, including but not limited
+        to, by trespass or burdening network capacity. You acknowledge and agree you
+        are not permitted to use any personally identifiable information of another person
+        for personal use and you agree not to copy, reproduce, transfer or distribute
+        any personally identifiable or confidential information other than in
+        compliance with all laws and as permitted in connection with the Services. You
+        further agree not to use the Services in any manner to harass, abuse, stalk,
+        threaten, defame or otherwise infringe or violate the rights of any other
+        party, and that ADP is not in any way responsible for any such use by you, nor
+        for any harassing, threatening, defamatory, offensive or illegal messages or
+        transmissions that you may receive as a result of using any of the Services.
+        ADP may remove from the Site any content that it deems offensive in its reasonable
+        discretion. You also agree not to adopt any obscene, vulgar or profane
+        Credentials.
+10. YOUR REPRESENTATIONS
+You represent, warrant and covenant
+        that: (a) you are authorized to access and use the Site; (b) all instructions
+        and information you enter into the Site will be accurate and complete; (c) you
+        will verify and remain solely responsible for all instructions and information
+        entered into the Site; (d) you will not knowingly upload, transmit, distribute
+        or otherwise publish through the Site any materials that contain a virus, worm
+        or other harmful component or that would cause the Site to malfunction; (e) you
+        will not decompile, reverse engineer, disassemble or unlawfully use, copy or
+        reproduce any of the Software or other copyrighted or trademarked material,
+        trade secrets or other proprietary or confidential information contained in the
+        Site; and (f) if you are accessing ADP's background screening services, you
+        shall not attempt to obtain any background report on yourself or any other
+        person, except in the exercise of your official duties.
+11. LINKS FROM THIRD-PARTY SITES
+ADP prohibits unauthorized
+        links to the Site and the framing of any information contained on the Site or
+        any portion of the Site. ADP reserves the right to disable any unauthorized
+        links or frames. ADP has no responsibility or liability for any material on
+        other web sites that may contain links to the Site.
+12. LINKS TO THIRD-PARTY SITES; OTHER CONTENT; THIRD-PARTY SERVICES
+The
+        Site may display, include or make available content, data, information,
+        applications or materials from third parties or provide links to certain
+        third-party web sites. Third-party materials and links to other web sites are
+        provided solely as a convenience to you. You acknowledge and agree that ADP is
+        not responsible for examining or evaluating the content, accuracy,
+        completeness, timeliness, validity, copyright compliance, legality, decency,
+        quality or any other aspect of such third-party materials or web sites. ADP
+        does not warrant or endorse and does not assume and will not have any liability
+        or responsibility to you or any other person for any third-party services,
+        third-party materials or web sites, or for any other materials, products, or
+        services of third parties. You also agree that any third-party charges that are
+        necessary to use the Site, such as internet charges and service provider
+        charges, are your responsibility and not that of ADP. You understand that by
+        using any of the third-party services, you may encounter content that may be
+        deemed offensive, indecent, or objectionable, which content may or may not be
+        identified as having explicit language, and that the results of any search or
+        entering of a particular URL may automatically and unintentionally generate
+        links or references to objectionable material. You agree to use such services
+        at your sole risk and ADP shall not have any liability to you for content that
+        may be found to be offensive, indecent, or objectionable. ADP DOES NOT ENDORSE,
+        WARRANT, OR GUARANTEE ANY PRODUCT, INFORMATION OR SERVICE OFFERED BY A THIRD
+        PARTY THROUGH THE SITE, AND WILL NOT BE A PARTY TO OR IN ANY WAY MONITOR ANY
+        TRANSACTION BETWEEN ANY USER OF THE SITE AND ANY SUCH THIRD-PARTY PROVIDER.
+13. NO WARRANTIES
+ADP, ITS LICENSORS AND VENDORS MAKE NO WARRANTIES
+        WHATSOEVER WITH RESPECT TO THE SITE. YOU ACKNOWLEDGE THAT YOUR USE OF THE SITE
+        IS AT YOUR OWN RISK. THE SITE IS PROVIDED SOLELY ON AN "AS-IS" AND
+        "AS-AVAILABLE" BASIS. ADP, ITS LICENSORS AND VENDORS MAKE, AND YOU
+        RECEIVE, NO WARRANTIES, EXPRESS OR IMPLIED, IN FACT OR OTHERWISE. ADP, ITS
+        LICENSORS AND VENDORS EXPRESSLY DISCLAIM ANY IMPLIED WARRANTIES OF
+        MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, AND/OR
+        NONINFRINGEMENT. NEITHER ADP NOR ITS LICENSORS NOR VENDORS WARRANTS THAT THE
+        OPERATION OF THE SITE SHALL BE UNINTERRUPTED, FREE OF VIRUSES, WORMS, TROJAN
+        HORSES OR ANY OTHER MALICIOUS CODE, ERROR FREE OR THAT IT WILL FUNCTION OR
+        OPERATE IN CONJUNCTION WITH ANY OTHER PRODUCT. ADP, ITS LICENSORS AND VENDORS FURTHER
+        DISCLAIM ANY WARRANTY THAT THE RESULTS OBTAINED THROUGH THE USE OF THE SITE
+        WILL MEET YOUR NEEDS. NOTHING IN THIS AGREEMENT IS INTENDED TO EXCLUDE,
+        RESTRICT OR MODIFY YOUR NON-EXCLUDABLE RIGHTS. THE WARRANTIES, LIMITATIONS AND
+        EXCLUSIONS OF LIABILITY OF ADP CONTAINED IN THIS AGREEMENT APPLY ONLY TO THE
+        FULL EXTENT PERMITTED BY LAW.
+14. LIMITATION OF LIABILITY
+TO THE EXTENT PERMITTED BY LAW (AND UNLESS
+        OTHERWISE SPECIFICALLY SET FORTH IN THE SPECIFIC TERMS), UNDER NO CIRCUMSTANCES
+        SHALL ADP, ITS LICENSORS OR VENDORS BE LIABLE FOR ANY DAMAGES SUFFERED BY YOU,
+        INCLUDING, WITHOUT LIMITATION, ANY DIRECT, INCIDENTAL, INDIRECT, SPECIAL,
+        EXEMPLERY OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, (I) LOSSES
+        ARISING FROM THE FAILURE TO RECEIVE ANY BENEFITS, (II) ANY TRADING LOSSES,
+        (III) LOSSES ARISING FROM THE USE OR THE INABILITY TO USE THE SITE, (IV) LOSSES
+        ARISING FROM UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR
+        DATA, (V) DAMAGES OR LOSSES RESULTING FROM YOU SHARING OR ALLOWING ACCESS TO
+        YOUR CREDENTIALS, OR (VI) LOSS OF INFORMATION, PROGRAMS OR OTHER DATA THAT
+        RESULT FROM ACCESS TO, USE OF, OR INABILITY TO USE THE SITE OR DUE TO ANY
+        BREACH OF SECURITY ASSOCIATED WITH THE TRANSMISSION OF INFORMATION THROUGH THE
+        INTERNET. THIS LIMITATION OF LIABILITY SHALL BE IN FULL FORCE REGARDLESS OF
+        WHETHER SUCH LIABILITY IS BASED ON BREACH OF CONTRACT, TORT, STRICT LIABILITY
+        OR OTHERWISE, AND EVEN IF ADP, ITS LICENSORS AND VENDORS HAD PREVIOUSLY BEEN
+        ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+15. TERMINATION
+The Site may be discontinued, temporarily or
+        permanently, by ADP at any time without notice to Users. ADP shall not be
+        liable to any User or to any third party for any suspension or discontinuance
+        of the Site. In addition, a User's rights to access the Site shall terminate
+        (a) with respect to an Employer Authorized User, upon the Employer's withdrawal
+        of such Employer Authorized User's permission to access the Site, and (b) with
+        respect to any other User, as specified in the Specific Terms for the applicable
+        Services.
+16. CHANGES TO SERVICE AND TERMS
+ADP is not responsible for
+        any technical inaccuracies or typographical errors that may be contained in
+        these Terms. ADP reserves the right to change these Terms in its sole
+        discretion at any time. Any such changes to the Terms will become effective
+        immediately upon being posted on the Site. The Site may be modified,
+        temporarily or permanently, by ADP at any time without notice to you. You agree
+        that ADP shall not be liable to you or to any third party for any suspension,
+        discontinuance or modification of the Site.
+17. NO LEGAL OR PROFESSIONAL ADVICE
+You acknowledge
+        that ADP is not rendering legal advice or other professional services. While
+        every effort is made to provide current information, the law changes regularly
+        and laws may vary depending upon the country, state, province or municipality.
+        The materials in the Site are made available for informational purposes only
+        and are not a substitute for legal advice or your professional judgment. You
+        should review applicable law in your jurisdiction and consult counsel for legal
+        advice. You assume all
+        responsibility for and risk arising from your use of and reliance upon the
+        contents of the Site.
+18. CONSENT TO USE OF DATA; TECHNICAL COOKIES
+You agree
+        that ADP may collect and use technical data and related information, including
+        but not limited to technical information about your Device, system and
+        application software, and peripherals, that is gathered periodically to
+        facilitate the provision of software updates, product support and other
+        services to you (if any) related to the Software. ADP may use this information,
+        as long as it is in a form that does not personally identify you, to improve
+        its products or to provide services or technologies to you or the Employer. ADP
+        will install memory-based cookies to support user authentication and
+        identification while using the Site, and to support technical monitoring of the
+        Site. You have the ability to modify your browser to accept cookies or not,
+        but if you reject cookies, you may not be able to utilize the portions of the
+        Site that require registration.
+19. PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT
+Pursuant
+        to the Digital Millennium Copyright Act, ADP has registered an agent with the
+        U.S. Copyright Office. Notices of claimed copyright infringement on the Site
+        should be directed to: Automatic Data Processing, Inc., 1 ADP Boulevard,
+        Roseland, NJ 07068, Attn: Legal Department, Intellectual Property Counsel.
+        NOTE: THIS ADDRESS IS FOR COPYRIGHT INFRINGEMENT ISSUES ONLY.
+20. GOVERNING LAW
+EXCEPT AS SET FORTH IN THE SPECIFIC TERMS, THESE
+        TERMS SHALL BE GOVERNED BY AND CONSTRUED ACCORDING TO THE LAWS OF THE STATE OF
+        NEW JERSEY, EXCLUDING ITS CONFLICTS OF LAWS RULES, REGARDLESS OF WHERE ANY
+        ACTION MAY BE BROUGHT. YOU AGREE TO SUBMIT TO THE EXCLUSIVE JURISDICTION OF THE
+        STATE AND FEDERAL COURTS OF THE STATE OF NEW JERSEY. NOTWITHSTANDING ANYTHING
+        TO THE CONTRARY ABOVE, IF YOU AND YOUR EMPLOYER ARE LOCATED IN CANADA, THESE
+        TERMS SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE
+        PROVINCE OF ONTARIO, AND THE FEDERAL LAWS OF CANADA, APPLICABLE THEREIN,
+        EXCLUDING ANY CONFLICTS OF LAWS RULES, REGARDLESS OF WHERE ANY ACTION MAY BE
+        BROUGHT. YOU AGREE TO SUBMIT TO THE EXCLUSIVE JURISDICTION OF THE COURTS OF THE
+        PROVINCE OF ONTARIO. NOTWITHSTANDING ANYTHING TO THE CONTRARY
+        ABOVE, IF YOU ARE RECEIVING THE SERVICES IN A COUNTRY OUTSIDE OF THE UNITED
+        STATES OR CANADA, OR IF YOUR EMPLOYER IS LOCATED IN A COUNTRY OUTSIDE THE
+        UNITED STATES OR CANADA, THESE TERMS SHALL BE GOVERNED BY AND CONSTRUED IN
+        ACCORDANCE WITH THE APPLICABLE LAWS OF THE COUNTRY WHERE YOU ARE RECEIVING SUCH
+        SERVICES, OR COUNTRY OF YOUR EMPLOYER, AS APPLICABLE, IN EACH CASE, EXCLUDING
+        ANY CONFLICTS OF LAWS RULES AND REGARDLESS OF WHERE ANY ACTION MAY BE BROUGHT,
+        YOU AGREE TO SUBMIT TO THE EXCLUSIVE JURISDICTION OF THE COURTS WHERE YOU ARE
+        RECEIVING THE SERVICES OR OF THE COUNTRY OF YOUR EMPLOYER, AS APPLICABLE.
+        NOTWITHSTANDING ANYTHING TO THE CONTRARY ABOVE, IF YOU ARE RECEIVING THE
+        SERVICES IN AUSTRALIA, OR IF YOUR EMPLOYER IS LOCATED IN AUSTRALIA, THESE TERMS
+        SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE APPLICABLE LAWS OF
+        THE STATE OF VICTORIA, EXCLUDING ANY CONFLICTS OF LAWS RULES AND REGARDLESS OF
+        WHERE ANY ACTION MAY BE BROUGHT, YOU AGREE TO SUBMIT TO THE EXCLUSIVE
+        JURISDICTION OF THE COURTS OF THE STATE OF VICTORIA.
+21. THIRD-PARTY BENEFICIARIES
+ADP's licensors
+        and vendors shall be considered third-party beneficiaries of these Terms for
+        purposes of Sections 13 and 14.
+22. FEEDBACK
+You may from time to time provide
+        suggestions, comments or other feedback ("
+Feedback
+") to ADP
+        with respect to the Site. All Feedback shall be provided voluntarily and shall
+        not, absent a separate written agreement, create any confidentiality or other
+        obligation for ADP. ADP may (without any payment or other obligation to you) use,
+        disclose, reproduce, license or otherwise distribute any Feedback it receives
+        at its discretion.
+23. ADDITIONAL TERMS APPLICABLE TO USERS OF ADP MOBILE APPLICATION
+A. GEO-LOCATION FUNCTIONALITY
+ADP offers a GPS/geo-location feature which may be enabled or disabled by your
+        Employer. If the feature is enabled, it determines if you are at a location
+        approved by your Employer and are therefore able to enter a time entry action.
+        In this case, the clock feature of the Software requires the use of your
+        Device's GPS/geo-location services. If your Employer has enabled the
+        GPS/geo-location feature, this feature will remain inoperative until you see
+        the prompt screen 'ADP Mobile Would Like to Use Your current location. At that
+        point you may either allow or not allow ADP to access your location. If you
+        choose to allow it, the ADP GPS/geo-location feature collects your longitude
+        and latitude by determining your location provided by a GPS device built into
+        your Device and geo-location services provided by the Device operating system.
+        Such data is subsequently sent back to the time and attendance solution
+        purchased by your Employer and then used for the purposes made known to you by
+        your Employer. The remaining provisions explain how allowing 'ADP Mobile to
+        Use Your current location' will affect you depending on the type of Device you
+        are using: (a) Native applications: If your Device has a native application ("
+app
+")
+        which, along with the Device operating system provides geo-location services,
+        you will not be enabling geo-location information on your Device to be
+        collected by other apps (unrelated to ADP) that are also installed on your
+        Device, (b) Web browser: If your Device functionality requires that you access
+        the Software through your Device web browser, you may access the Software via
+        your Device web browser in the same manner that you would access the Software
+        from a desktop computer. However, if you choose to allow your web browser to
+        access the GPS/geo-location feature on your Device, then you may be enabling
+        geo-location information on your Device to be collected by other websites
+        (unrelated to ADP) that you also visit on your Device. In either case, if you
+        choose not to allow the geo-location functionality on your Device, then you
+        will not be able to use your mobile Device to enter your time and attendance
+        data.
+B. UPDATES
+By downloading the Software on your Device, you expressly consent to future
+        automatic installations of Software updates and upgrades that replace, modify
+        and/or supplement the Software. The purpose of any such future updates and
+        upgrades may include: to improve the Software, bring it up to date or otherwise
+        enhance its features.
+C. COMMERCIAL ITEMS
+ADP's mobile application and related documentation are 'Commercial Items', as
+        that term is defined at 48 C.F.R. Section 2.101, consisting of 'Commercial
+        Computer Software' and 'Commercial Computer Software Documentation', as such
+        terms are used in 48 C.F.R. Section 12.212 or 48 C.F.R. Section 227.7202, as
+        applicable. Consistent with 48 C.F.R. Section 12.212 or 48 C.F.R. Section
+        227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software
+        and Commercial Computer Software Documentation are being licensed to US
+        Government end users (a) only as Commercial Items and (b) with only those
+        rights as are granted to all other end users pursuant to these Terms.
+        Unpublished rights reserved under the copyright laws of the United States.
+D. ACKNOWLEDGMENT
+You acknowledge that these Terms are entered into with ADP only, and not with the
+        OS Manufacturer. To the extent set forth herein, ADP, and not the OS
+        Manufacturer, is responsible for the application and the content thereof. You
+        acknowledge that the OS Manufacturer has no obligation whatsoever to furnish
+        any maintenance or support with respect to the application.
+E. CONTACT INFORMATION
+Any questions, complaints or claims with respect to the additional terms set forth
+        in this Section 23 should be directed to: (i) Adp.ios.feedback@adp.com (for
+        Apple); or (ii) ADPmobile_feedback@ADP.com (for Android).
+Revised June 5, 2025

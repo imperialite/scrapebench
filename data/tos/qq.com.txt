@@ -1,0 +1,686 @@
+TERMS OF SERVICE
+Last Updated February 15, 2019
+Content
+1. Your Relationship With Us
+2. Accepting the Terms
+3. Changes to the Terms
+4. Your Account with Us
+5. Your Access to and Use of Our Services
+6. Subscription
+7. Intellectual Property Rights
+8. Content
+9. Indemnity
+10. EXCLUSION OF WARRANTIES
+11. LIMITATION OF LIABILITY
+12. Other Terms
+Supplemental Terms â Jurisdiction-Specific
+General Terms
+1.Your Relationship With Us
+Welcome to WeTV (the âPlatformâ), provided by Image Future Investment (HK) Limited
+            (âTencentâ, âweâ or âusâ). We are registered in Hong Kong and our registered office is at Level 29, Three
+            Pacific Place, 1 Queenâs Road East, Wanchai, Hong Kong.
+This document (the âTermsâ) forms an agreement between you and us and sets forth the terms
+            and conditions by which you may access and use our applications and content (including but not limited to
+            the Platform) (collectively, the âServicesâ). Our Services are provided for private, non-commercial use.
+            For purposes of these Terms, âyouâ and âyourâ means you as the user of the Services.
+The Terms form a legally binding agreement between you and us. Please read them carefully.
+2.Accepting the Terms
+By accessing or using our Services, you confirm that you can form a binding contract with
+            Tencent, that you accept these Terms and that you agree to comply with them. Your access to and use of our
+            Services is also subject to our Privacy Policy, the terms of which can be found directly on the Platform or
+            on your mobile deviceâs applicable app store, and is incorporated herein by reference.
+If you access or use the Services from within a jurisdiction for which there are separate
+            supplemental terms, you also hereby agree to the supplemental terms applicable to users in each
+            jurisdiction as outlined below, and in the event of a conflict between the provisions of the Supplemental
+            Terms â Jurisdiction-Specific that are relevant to your jurisdiction from which you access or use the
+            Services, and the rest of these Terms, the relevant jurisdictionsâ Supplemental Terms â
+            Jurisdiction-Specific will supersede and control. If you do not agree to these Terms, you must not access
+            or use our Services.
+If you are accessing or using the Services on behalf of a business or entity, then (a)
+            âyouâ and âyourâ includes you and that business or entity, (b) you represent and warrant that you are an
+            authorized representative of the business or entity with the authority to bind the entity to these Terms,
+            and that you agree to these Terms on the entityâs behalf, and (c) your business or entity is legally and
+            financially responsible for your access or use of the Services as well as for the access or use of your
+            account by others affiliated with your entity, including any employees, agents or contractors.
+You can accept the Terms by accessing or using our Services. You understand and agree that
+            we will treat your access or use of the Services as acceptance of the Terms from that point onwards.
+You should print off or save a local copy of the Terms for your records.
+3.Changes to the Terms
+We amend these Terms from time to time, for instance when we update the functionality of
+            our Services or when there are regulatory changes. We may use commercially reasonable efforts to generally
+            notify all users of any material changes to these Terms, such as through a notice on our Platform, however,
+            you should look at the Terms regularly to review the most up-to-date version and to check for such changes.
+            We will also update the âLast Updatedâ date at the top of these Terms, which reflect the effective date of
+            such Terms. Your continued access or use of the Services after the date of the new Terms constitutes your
+            acceptance of the new Terms. If you do not agree to the new Terms, you must stop accessing or using the
+            Services.
+4.Your Account with Us
+You may elect to create an account with us. When you create this account, you must provide
+            accurate and up-to-date information. It is important that you maintain and promptly update your details and
+            any other information you provide to us, to keep such information current and complete.
+It is important that you keep your account password confidential and that you do not
+            disclose it to any third party. If you know or suspect that any third party knows your password or has
+            accessed your account, you must promptly notify us at [
+Â·
+].
+You agree that you are solely responsible (to us and to others) for the activity that
+            occurs under your account.
+We reserve the right to disable your access to the Services, including your user account
+            (if you have created one) at any time if in our reasonable opinion you have failed to comply with any of
+            the provisions of these Terms. We also reserve the right to artificially manipulate a userâs visibility,
+            status or rank on the Services. You may delete your account at any time.
+5.Your Access to and Use of Our Services
+Your access to and use of the Services is subject to these Terms and all applicable laws
+            and regulations. You may not:
+Â·
+access or use the Services if you are not fully able and legally
+            competent to agree to
+            these Terms;
+Â·
+modify, adapt, translate, reverse engineer, disassemble, decompile or
+            create any
+            derivative works based on the Services, including any files, tables or documentation (or any portion
+            thereof) or determine or attempt to determine any source code, algorithms, methods or techniques embodied
+            the Platform or any derivative works thereof;
+Â·
+distribute, license, transfer, or sell, in whole or in part, any of the
+            Services or any
+            derivative works thereof;
+Â·
+market, rent or lease the Services for a fee or charge, or use the
+            Platform to advertise
+            or perform any commercial solicitation;
+Â·
+interfere with or attempt to interfere with the proper working of the
+            Services, disrupt
+            our website or any networks connected to the Services, or bypass any measures we may use to prevent or
+            restrict access to the Services;
+Â·
+incorporate the Platform or any portion thereof into any other program
+            or product. In
+            such case, we reserve the right to refuse service, terminate accounts or limit access to the Services in
+            our sole discretion;
+Â·
+use automated scripts to collect information from or otherwise interact
+            with the
+            Services;
+Â·
+impersonate any person or entity, or falsely state or otherwise
+            misrepresent you or your
+            affiliation with any person or entity, including giving the impression that any content you upload, post,
+            transmit, distribute or otherwise make available emanates from the Services;
+Â·
+intimidate or harass another, or promote sexually explicit material,
+            violence or
+            discrimination based on race, sex, religion, nationality, disability, sexual orientation or age;
+Â·
+use or attempt to use anotherâs account, service or system without
+            authorisation from us,
+            or create a false identity on the Services;
+Â·
+use the Services in a manner that may create a conflict of interest or
+            undermine the
+            purposes of the Services, such as trading reviews with other users or writing or soliciting shill reviews;
+We reserve the right, at any time and without prior notice, to remove or disable access to
+            content at our discretion for any reason or no reason.
+6.Subscription
+Free Tier
+The Services may be provided free-of-charge (i.e., without requiring a paid subscription).
+            In such circumstance, you agree to us providing advertising and other information to you. We reserve the
+            right to suspend, modify and terminate any Services provided free-of-charge at any time at our sole and
+            absolute discretion.
+Paid Subscription
+Your membership is for a pre-determined duration as agreed when you subscribe. Depending on
+            your selection, it may thereafter automatically renew on a month-to-month basis until terminated. You must
+            have a device that supports the Platform and internet access in order to view the Service Content (as
+            defined below). You will also need to provide a current, valid, accepted method of payment (which may be
+            updated from time to time). If you select the automatic renewal option, in order to avoid further billing of
+            charges for the Services, you must cancel your membership at least 24 hours prior to the commencement of the
+            relevant renewal period.
+Subscription plans may be offered by us directly or in partnership with select third
+            parties. We are not responsible for any products or services provided by such third parties. Please be aware
+            that different subscription plans may have additional terms, such as special offers, and these are disclosed
+            to you upon sign-up or through other communications.
+Billing
+The subscription fee for the Service and any other charges incurred (such as taxes and
+            transaction fees) will be charged on a one-time basis, or on a monthly basis (if you select the automatic
+            renewal option) to your selected payment method on the calendar day that corresponds to the date you
+            commenced paying for the Service (or such other date, if that date has changed due to declined method of
+            payment or other reason). We will authorise your payment method in anticipation of future subscription
+            charges once you have subscribed. Your balance or credit limit will be adjusted accordingly to reflect the
+            authorised amount.
+Payment
+The valid, permitted payment methods are in your Account Page. You may update your payment
+            method from time to time. You authorise us to continue charging the selected payment method. If your primary
+            payment method is declined you authorise us to charge any amounts owed to any other methods of payment you
+            have connected to your account. You remain responsible for any uncollected charges. We may suspend your
+            account if your method of payment is declined and will reactivate such service once you have settled the
+            outstanding amount. Please note that certain payment methods may attract additional charges (such as
+            exchange fees or processing fees). You are solely responsible for payment of such charges.
+Cancellation
+You can cancel your subscription to the Services at any time. You will have access to the
+            Services until the date your paid-up subscription ceases. We do not issue partial refunds or credits for
+            termination of Services mid-billing cycle. If you have signed up for the Services via a third party, you may
+            need to terminate through that third party (for example, if you have subscribed through an in-app store
+            payment method). The method of terminating your service varies by provider, such as switching off
+            âauto-renewâ in your third party account settings.
+Charges
+We may change the plans we offer for subscribing to the Services, or adjust the pricing of
+            the same, at any time and in any manner we determine. Any changes to charges or your subscription, including
+            notifications of the same, will take effect in accordance with these Terms.
+Refunds
+Except as specifically provided for in these Terms, payments are non-refundable. However, if
+            you unsubscribe from the Services, you will have access to the Services until the end of your billing cycle.
+            We may from time to time, at our sole and absolute discretion, elect to offer you or any other subscriber a
+            refund, discount or other credit in relation to the Services.
+7.Intellectual Property Rights
+We respect intellectual property rights and ask you to do the same. As a condition of your
+            access to and use of the Services, you agree not to use the Services to infringe on any intellectual
+            property rights. We reserve the right, with or without notice, at any time and in our sole discretion to
+            block access to and/or terminate the accounts of any user who infringes or is alleged to infringe any
+            copyrights or other intellectual property rights.
+8.Content
+Service Content
+As between you and Tencent, all content, software, images, text, graphics, illustrations,
+            logos, patents, trademarks, service marks, copyrights, photographs, audio, videos, music on and âlook and
+            feelâ of the Services, and all intellectual property rights related thereto (the âService Contentâ), are
+            either owned or licensed by Tencent. Use of the Service Content or materials on the Services for any
+            purpose not expressly permitted by these Terms is strictly prohibited. Such content may not be downloaded,
+            copied, reproduced, distributed, transmitted, broadcast, displayed, sold, licensed or otherwise exploited
+            for any purpose whatsoever without our or, where applicable, our licensorsâ prior written consent. We and
+            our licensors reserve all rights not expressly granted in and to their content.
+Licence
+Subject to the terms and conditions of the Terms, you are hereby granted a non-exclusive,
+            limited, non-transferable, non-sublicensable, revocable license to access and use the Services, including
+            to download the Platform on a permitted device, and to access the Service Content through your use of the
+            Services. Tencent reserves all rights not expressly granted herein in the Services and the Service Content.
+            You acknowledge and agree that we may terminate this license at any time with or without cause.
+The content on our Services is provided for general information only. It is not intended
+            to amount to advice on which you should rely. You must obtain professional or specialist advice before
+            taking, or refraining from, any action on the basis of the content on our Services.
+Location
+You may view the Service Content within the country in which you have set up an account.
+            You may also be able to view certain Service Content in other geographic locations where we offer the
+            Platform. The Service Content may vary from location to location. The Service Content will also change from
+            time to time. You may view Service Content on the volume of devices specified in your Account settings.
+Technical Specifications & Requirements
+The technical aspects of the Service Content varies between devices and is impacted by
+            multiple factors, including your available bandwidth and device capabilities. Not all Service Content is
+            available in all formats.
+Excluded Warranties
+We make no representations, warranties or guarantees, whether express or implied, that any
+            Service Content is accurate, complete or up to date. Where our Services contain links to other sites and
+            resources provided by third parties, these links are provided for your information only. We have no control
+            over the contents of those sites or resources. Such links should not be interpreted as approval by us of
+            those linked websites or information you may obtain from them. You acknowledge that we have no obligation
+            to pre-screen, monitor, review, or edit any content posted by you and other users on the Platform, such as
+            reviews or comments relating to Service Content.
+9.Indemnity
+You agree to defend, indemnify, and hold harmless Tencent, its parents, subsidiaries, and
+            affiliates, and each of their respective officers, directors, employees, agents and advisors from any and
+            all claims, liabilities, costs, and expenses, including, but not limited to, attorneysâ fees and expenses,
+            arising out of a breach by you or any user of your account of these Terms or arising out of a breach of
+            your obligations, representation and warranties under these Terms.
+10.EXCLUSION OF WARRANTIES
+NOTHING IN THESE TERMS SHALL AFFECT ANY STATUTORY RIGHTS THAT YOU CANNOT CONTRACTUALLY
+            AGREE TO ALTER OR WAIVE AND ARE LEGALLY ALWAYS ENTITLED TO AS A CONSUMER.
+THE SERVICES ARE PROVIDED âAS ISâ AND WE MAKE NO WARRANTY OR REPRESENTATION TO YOU WITH
+            RESPECT TO THEM. IN PARTICULAR WE DO NOT REPRESENT OR WARRANT TO YOU THAT:
+Â·
+YOUR USE OF THE SERVICES WILL MEET YOUR REQUIREMENTS;
+Â·
+YOUR USE OF THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE OR FREE
+            FROM ERROR;
+Â·
+ANY INFORMATION OBTAINED BY YOU AS A RESULT OF YOUR USE OF THE SERVICES
+            WILL BE ACCURATE
+            OR RELIABLE; AND
+Â·
+DEFECTS IN THE OPERATION OR FUNCTIONALITY OF ANY SOFTWARE PROVIDED TO
+            YOU AS PART OF THE
+            SERVICES WILL BE CORRECTED.
+NO CONDITIONS, WARRANTIES OR OTHER TERMS (INCLUDING ANY IMPLIED TERMS AS TO SATISFACTORY
+            QUALITY, FITNESS FOR PURPOSE OR CONFORMANCE WITH DESCRIPTION) APPLY TO THE SERVICES EXCEPT TO THE EXTENT
+            THAT THEY ARE EXPRESSLY SET OUT IN THE TERMS. WE MAY CHANGE, SUSPEND, WITHDRAW OR RESTRICT THE AVAILABILITY
+            OF ALL OR ANY PART OF OUR PLATFORM FOR BUSINESS AND OPERATIONAL REASONS AT ANY TIME WITHOUT NOTICE.
+11.LIMITATION OF LIABILITY
+NOTHING IN THESE TERMS SHALL EXCLUDE OR LIMIT OUR LIABILITY FOR LOSSES WHICH MAY NOT BE
+            LAWFULLY EXCLUDED OR LIMITED BY APPLICABLE LAW. THIS INCLUDES LIABILITY FOR DEATH OR PERSONAL INJURY CAUSED
+            BY OUR NEGLIGENCE OR THE NEGLIGENCE OF OUR EMPLOYEES, AGENTS OR SUBCONTRACTORS AND FOR FRAUD OR FRAUDULENT
+            MISREPRESENTATION.
+SUBJECT TO THE PARAGRAPH ABOVE, WE SHALL NOT BE LIABLE TO YOU FOR:
+(I) ANY LOSS OF PROFIT (WHETHER INCURRED DIRECTLY OR INDIRECTLY);
+(II) ANY LOSS OF GOODWILL;
+(III) ANY LOSS OF OPPORTUNITY;
+(IV) ANY LOSS OF DATA SUFFERED BY YOU;
+(V) ANY INDIRECT OR CONSEQUENTIAL LOSSES WHICH MAY BE INCURRED BY YOU; OR
+(VI) ANY LOSS OR DAMAGE WHICH MAY BE INCURRED BY YOU AS A RESULT OF:
+Â·
+ANY RELIANCE PLACED BY YOU ON THE COMPLETENESS, ACCURACY OR EXISTENCE
+            OF ANY ADVERTISING;
+Â·
+ANY CHANGES WHICH WE MAY MAKE TO THE SERVICES, OR FOR ANY PERMANENT OR
+            TEMPORARY
+            CESSATION IN THE PROVISION OF THE SERVICES (OR ANY FEATURES WITHIN THE SERVICES);
+Â·
+THE DELETION OF, CORRUPTION OF, OR FAILURE TO STORE, ANY CONTENT AND
+            OTHER COMMUNICATIONS
+            DATA MAINTAINED OR TRANSMITTED BY OR THROUGH YOUR USE OF THE SERVICES;
+Â·
+YOUR FAILURE TO PROVIDE US WITH ACCURATE ACCOUNT INFORMATION; OR
+Â·
+YOUR FAILURE TO KEEP YOUR PASSWORD OR ACCOUNT DETAILS SECURE AND
+            CONFIDENTIAL.
+OUR TOTAL AGGREGATE LIABILITY TO YOU, WHETHER BASED ON AN ACTION OR CLAIM IN CONTRACT,
+            TORT (INCLUDING NEGLIGENCE), BREACH OF STATUTORY DUTY OR OTHERWISE ARISING OUT OF, OR IN RELATION TO, THESE
+            TERMS, THE PLATFORM OR SERVICE, WILL BE LIMITED TO THE AMOUNT PAID BY YOU TO US (IF ANY) DURING THE 12
+            MONTH PERIOD PRECEDING THE DATE OF THE FIRST CLAIM MADE BY YOU UNDER THIS AGREEMENT.
+PLEASE NOTE THAT WE ONLY PROVIDE OUR PLATFORM FOR DOMESTIC AND PRIVATE USE. UNLESS YOU
+            HAVE OUR EXPRESS WRITTEN CONSENT, YOU AGREE NOT TO USE OUR PLATFORM FOR ANY COMMERCIAL OR BUSINESS
+            PURPOSES, AND WE HAVE NO LIABILITY TO YOU FOR ANY LOSS OF PROFIT, LOSS OF BUSINESS, LOSS OF GOODWILL OR
+            BUSINESS REPUTATION, BUSINESS INTERRUPTION, OR LOSS OF BUSINESS OPPORTUNITY.
+IF DEFECTIVE DIGITAL CONTENT THAT WE HAVE SUPPLIED DAMAGES A DEVICE OR DIGITAL CONTENT
+            BELONGING TO YOU AND THIS IS CAUSED BY OUR FAILURE TO USE REASONABLE CARE AND SKILL, WE WILL EITHER REPAIR
+            THE DAMAGE OR PAY YOU COMPENSATION IN ACCORDANCE WITH THESE TERMS. HOWEVER, WE WILL NOT BE LIABLE FOR
+            DAMAGE THAT YOU COULD HAVE AVOIDED BY FOLLOWING OUR ADVICE TO APPLY AN UPDATE OFFERED TO YOU FREE OF CHARGE
+            OR FOR DAMAGE THAT WAS CAUSED BY YOU FAILING TO CORRECTLY FOLLOW INSTALLATION INSTRUCTIONS OR TO HAVE IN
+            PLACE THE MINIMUM SYSTEM REQUIREMENTS ADVISED BY US.
+THESE LIMITATIONS ON OUR LIABILITY TO YOU SHALL APPLY WHETHER OR NOT WE HAVE BEEN ADVISED
+            OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING.
+YOU ARE RESPONSIBLE FOR ANY MOBILE CHARGES THAT MAY APPLY TO YOUR USE OF OUR SERVICE,
+            INCLUDING TEXT-MESSAGING AND DATA CHARGES. IF YOUâRE UNSURE WHAT THOSE CHARGES MAY BE, YOU SHOULD ASK YOUR
+            SERVICE PROVIDER BEFORE USING THE SERVICE.
+12.Other Terms
+a.Applicable Law and Jurisdiction. These Terms, their subject matter and their formation,
+            are governed by the laws of Hong Kong. Any dispute, controversy, difference or claim arising out of or
+            relating to this Agreement, including the existence, validity, interpretation, performance, breach or
+            termination thereof or any dispute regarding non-contractual obligations arising out of or relating to it
+            shall first be subject to good faith discussion between the parties. In the event the parties are unable to
+            resolve such issue, either party may refer the dispute to and such dispute shall be finally resolved by
+            arbitration administered by the Hong Kong International Arbitration Centre (âHKIACâ) under the HKIAC
+            Administered Arbitration Rules in force when the Notice of Arbitration is submitted. The seat of
+            arbitration shall be Hong Kong. The number of arbitrators shall be three. The arbitration proceedings shall
+            be conducted in English. The language of the arbitration shall be English.
+b.Entire Agreement. These Terms constitute the whole legal agreement between you and
+            Tencent and govern your use of the Services and completely replace any prior agreements between you and
+            Tencent in relation to the Services.
+c.Links. You must not establish a link to our Platform in any website that is not owned by
+            you. The website in which you are linking must comply in all respects with the content standards set out at
+            âYour Access to and Use of Our Servicesâ above. We reserve the right to withdraw linking permission without
+            notice.
+d.No Children. The Platform is only for people 18 years old and over (except that with
+            respect to people in Thailand, the Platform is only for people 20 years old and over), unless they have the
+            consent of a parent or legal guardian. By using the Platform, you confirm that you are over the relevant
+            age specified above. If we learn that someone under the relevant age specified above is using the Platform,
+            we will terminate that userâs account. In addition, if you are under the relevant age specified above, you
+            confirm that you possess legal parental or guardian consent for accessing or using the Platform, and are
+            fully able and competent to enter into, abide by, and comply with the Terms.
+e.No Waiver. Our failure to insist upon or enforce any provision of these Terms shall not
+            be construed as a waiver of any provision or right.
+f.Security. We do not guarantee that our Platform will be secure or free from bugs or
+            viruses. You are responsible for configuring your information technology, computer programmes and platform
+            to access our Platform. You should use your own virus protection software.
+g.Social network credentials. We will not store credentials or tokens to social networks
+            of the device and will only use such credentials or tokens to directly connect to the social network from
+            the app itself while the app is in use.
+h.Severability. If any court of law, having jurisdiction to decide on this matter, rules
+            that any provision of these Terms is invalid, then that provision will be removed from the Terms without
+            affecting the rest of the Terms, and the remaining provisions of the Terms will continue to be valid and
+            enforceable.
+i.Any Questions? Please contact us at wetv@tencent.com.
+Supplemental Terms â Jurisdiction-Specific
+Thailand.
+If you are using our Services in Thailand, the following additional terms apply. In the
+            event of any conflict between the following additional terms and the provisions of the main body of these
+            Terms, the following terms shall prevail.
+In addition to terms and conditions in the paragraph of âYour Access to and Use of Our
+            Servicesâ above, a user of the Services may not import, disseminate or forward the following computer data
+            in or from a computer system into the Platform:
+(i)forged or deceptive data that may cause damage to the public, and is not a defamation
+            offense under the Thai Criminal Code;
+(ii)false data that may cause damage to the public (e.g., public security, national
+            economic, public infrastructure);
+(iii)data related to an offence concerning the Thailandâs security or terrorism under the
+            Thai Criminal Code, including but not limited to lÃ¨se-majestÃ© offence; and
+(iv)making obscene data available to the public.
+Last Updated February 15, 2019
+Content
+1. Your Relationship With Us
+2. Accepting the Terms
+3. Changes to the Terms
+4. Your Account with Us
+5. Your Access to and Use of Our Services
+6. Subscription
+7. Intellectual Property Rights
+8. Content
+9. Indemnity
+10. EXCLUSION OF WARRANTIES
+11. LIMITATION OF LIABILITY
+12. Other Terms
+Supplemental Terms â Jurisdiction-Specific
+General Terms
+1.Your Relationship With Us
+Welcome to WeTV (the âPlatformâ), provided by Ren Feng Media Tech Inc. (âRenfengâ, âweâ or
+            âusâ). We are registered in Taiwan and our registered office is at B1, No. 92, Sec. 2, Anhe Rd., Daâan Dist.
+This document (the âTermsâ) forms an agreement between you and us and sets forth the terms
+            and conditions by which you may access and use our applications and content (including but not limited to
+            the Platform) (collectively, the âServicesâ). Our Services are provided for private, non-commercial use.
+            For purposes of these Terms, âyouâ and âyourâ means you as the user of the Services.
+The Terms form a legally binding agreement between you and us. Please read them carefully.
+2.Accepting the Terms
+By accessing or using our Services, you confirm that you can form a binding contract with
+            Renfeng, that you accept these Terms and that you agree to comply with them. Your access to and use of our
+            Services is also subject to our Privacy Policy, the terms of which can be found directly on the Platform or
+            on your mobile deviceâs applicable app store, and is incorporated herein by reference.
+If you access or use the Services from within a jurisdiction for which there are separate
+            supplemental terms, you also hereby agree to the supplemental terms applicable to users in each
+            jurisdiction as outlined below, and in the event of a conflict between the provisions of the Supplemental
+            Terms â Jurisdiction-Specific that are relevant to your jurisdiction from which you access or use the
+            Services, and the rest of these Terms, the relevant jurisdictionsâ Supplemental Terms â
+            Jurisdiction-Specific will supersede and control. If you do not agree to these Terms, you must not access
+            or use our Services.
+If you are accessing or using the Services on behalf of a business or entity, then (a)
+            âyouâ and âyourâ includes you and that business or entity, (b) you represent and warrant that you are an
+            authorized representative of the business or entity with the authority to bind the entity to these Terms,
+            and that you agree to these Terms on the entityâs behalf, and (c) your business or entity is legally and
+            financially responsible for your access or use of the Services as well as for the access or use of your
+            account by others affiliated with your entity, including any employees, agents or contractors.
+You can accept the Terms by accessing or using our Services. You understand and agree that
+            we will treat your access or use of the Services as acceptance of the Terms from that point onwards.
+You should print off or save a local copy of the Terms for your records.
+3.Changes to the Terms
+We amend these Terms from time to time, for instance when we update the functionality of
+            our Services or when there are regulatory changes. We may use commercially reasonable efforts to generally
+            notify all users of any material changes to these Terms, such as through a notice on our Platform, however,
+            you should look at the Terms regularly to review the most up-to-date version and to check for such changes.
+            We will also update the âLast Updatedâ date at the top of these Terms, which reflect the effective date of
+            such Terms. Your continued access or use of the Services after the date of the new Terms constitutes your
+            acceptance of the new Terms. If you do not agree to the new Terms, you must stop accessing or using the
+            Services.
+4.Your Account with Us
+You may elect to create an account with us. When you create this account, you must provide
+            accurate and up-to-date information. It is important that you maintain and promptly update your details and
+            any other information you provide to us, to keep such information current and complete.
+It is important that you keep your account password confidential and that you do not
+            disclose it to any third party. If you know or suspect that any third party knows your password or has
+            accessed your account, you must promptly notify us at [
+Â·
+].
+You agree that you are solely responsible (to us and to others) for the activity that
+            occurs under your account.
+We reserve the right to disable your access to the Services, including your user account
+            (if you have created one) at any time if in our reasonable opinion you have failed to comply with any of
+            the provisions of these Terms. We also reserve the right to artificially manipulate a userâs visibility,
+            status or rank on the Services. You may delete your account at any time.
+5.Your Access to and Use of Our Services
+Your access to and use of the Services is subject to these Terms and all applicable laws
+            and regulations. You may not:
+Â·
+access or use the Services if you are not fully able and legally
+            competent to agree to
+            these Terms;
+Â·
+modify, adapt, translate, reverse engineer, disassemble, decompile or
+            create any
+            derivative works based on the Services, including any files, tables or documentation (or any portion
+            thereof) or determine or attempt to determine any source code, algorithms, methods or techniques embodied
+            the Platform or any derivative works thereof;
+Â·
+distribute, license, transfer, or sell, in whole or in part, any of the
+            Services or any
+            derivative works thereof;
+Â·
+market, rent or lease the Services for a fee or charge, or use the
+            Platform to advertise
+            or perform any commercial solicitation;
+Â·
+interfere with or attempt to interfere with the proper working of the
+            Services, disrupt
+            our website or any networks connected to the Services, or bypass any measures we may use to prevent or
+            restrict access to the Services;
+Â·
+incorporate the Platform or any portion thereof into any other program
+            or product. In
+            such case, we reserve the right to refuse service, terminate accounts or limit access to the Services in
+            our sole discretion;
+Â·
+use automated scripts to collect information from or otherwise interact
+            with the
+            Services;
+Â·
+impersonate any person or entity, or falsely state or otherwise
+            misrepresent you or your
+            affiliation with any person or entity, including giving the impression that any content you upload, post,
+            transmit, distribute or otherwise make available emanates from the Services;
+Â·
+intimidate or harass another, or promote sexually explicit material,
+            violence or
+            discrimination based on race, sex, religion, nationality, disability, sexual orientation or age;
+Â·
+use or attempt to use anotherâs account, service or system without
+            authorisation from us,
+            or create a false identity on the Services;
+Â·
+use the Services in a manner that may create a conflict of interest or
+            undermine the
+            purposes of the Services, such as trading reviews with other users or writing or soliciting shill reviews;
+We reserve the right, at any time and without prior notice, to remove or disable access to
+            content at our discretion for any reason or no reason.
+6.Subscription
+Free Tier
+The Services may be provided free-of-charge (i.e., without requiring a paid subscription).
+            In such circumstance, you agree to us providing advertising and other information to you. We reserve the
+            right to suspend, modify and terminate any Services provided free-of-charge at any time at our sole and
+            absolute discretion.
+Paid Subscription
+Your membership is for a pre-determined duration as agreed when you subscribe. Depending on
+            your selection, it may thereafter automatically renew on a month-to-month basis until terminated. You must
+            have a device that supports the Platform and internet access in order to view the Service Content (as
+            defined below). You will also need to provide a current, valid, accepted method of payment (which may be
+            updated from time to time). If you select the automatic renewal option, in order to avoid further billing of
+            charges for the Services, you must cancel your membership at least 24 hours prior to the commencement of the
+            relevant renewal period.
+Subscription plans may be offered by us directly or in partnership with select third
+            parties. We are not responsible for any products or services provided by such third parties. Please be aware
+            that different subscription plans may have additional terms, such as special offers, and these are disclosed
+            to you upon sign-up or through other communications.
+Billing
+The subscription fee for the Service and any other charges incurred (such as taxes and
+            transaction fees) will be charged on a one-time basis, or on a monthly basis (if you select the automatic
+            renewal option) to your selected payment method on the calendar day that corresponds to the date you
+            commenced paying for the Service (or such other date, if that date has changed due to declined method of
+            payment or other reason). We will authorise your payment method in anticipation of future subscription
+            charges once you have subscribed. Your balance or credit limit will be adjusted accordingly to reflect the
+            authorised amount.
+Payment
+The valid, permitted payment methods are in your Account Page. You may update your payment
+            method from time to time. You authorise us to continue charging the selected payment method. If your primary
+            payment method is declined you authorise us to charge any amounts owed to any other methods of payment you
+            have connected to your account. You remain responsible for any uncollected charges. We may suspend your
+            account if your method of payment is declined and will reactivate such service once you have settled the
+            outstanding amount. Please note that certain payment methods may attract additional charges (such as
+            exchange fees or processing fees). You are solely responsible for payment of such charges.
+Cancellation
+You can cancel your subscription to the Services at any time. You will have access to the
+            Services until the date your paid-up subscription ceases. We do not issue partial refunds or credits for
+            termination of Services mid-billing cycle. If you have signed up for the Services via a third party, you may
+            need to terminate through that third party (for example, if you have subscribed through an in-app store
+            payment method). The method of terminating your service varies by provider, such as switching off
+            âauto-renewâ in your third party account settings.
+Charges
+We may change the plans we offer for subscribing to the Services, or adjust the pricing of
+            the same, at any time and in any manner we determine. Any changes to charges or your subscription, including
+            notifications of the same, will take effect in accordance with these Terms.
+Refunds
+Except as specifically provided for in these Terms, payments are non-refundable. However, if
+            you unsubscribe from the Services, you will have access to the Services until the end of your billing cycle.
+            We may from time to time, at our sole and absolute discretion, elect to offer you or any other subscriber a
+            refund, discount or other credit in relation to the Services.
+7.Intellectual Property Rights
+We respect intellectual property rights and ask you to do the same. As a condition of your
+            access to and use of the Services, you agree not to use the Services to infringe on any intellectual
+            property rights. We reserve the right, with or without notice, at any time and in our sole discretion to
+            block access to and/or terminate the accounts of any user who infringes or is alleged to infringe any
+            copyrights or other intellectual property rights.
+8.Content
+Service Content
+As between you and Renfeng, all content, software, images, text, graphics, illustrations,
+            logos, patents, trademarks, service marks, copyrights, photographs, audio, videos, music on and âlook and
+            feelâ of the Services, and all intellectual property rights related thereto (the âService Contentâ), are
+            either owned or licensed by Renfeng. Use of the Service Content or materials on the Services for any
+            purpose not expressly permitted by these Terms is strictly prohibited. Such content may not be downloaded,
+            copied, reproduced, distributed, transmitted, broadcast, displayed, sold, licensed or otherwise exploited
+            for any purpose whatsoever without our or, where applicable, our licensorsâ prior written consent. We and
+            our licensors reserve all rights not expressly granted in and to their content.
+Licence
+Subject to the terms and conditions of the Terms, you are hereby granted a non-exclusive,
+            limited, non-transferable, non-sublicensable, revocable license to access and use the Services, including
+            to download the Platform on a permitted device, and to access the Service Content through your use of the
+            Services. Renfeng reserves all rights not expressly granted herein in the Services and the Service Content.
+            You acknowledge and agree that we may terminate this license at any time with or without cause.
+The content on our Services is provided for general information only. It is not intended
+            to amount to advice on which you should rely. You must obtain professional or specialist advice before
+            taking, or refraining from, any action on the basis of the content on our Services.
+Location
+You may view the Service Content within the country in which you have set up an account.
+            You may also be able to view certain Service Content in other geographic locations where we offer the
+            Platform. The Service Content may vary from location to location. The Service Content will also change from
+            time to time. You may view Service Content on the volume of devices specified in your Account settings.
+Technical Specifications & Requirements
+The technical aspects of the Service Content varies between devices and is impacted by
+            multiple factors, including your available bandwidth and device capabilities. Not all Service Content is
+            available in all formats.
+Excluded Warranties
+We make no representations, warranties or guarantees, whether express or implied, that any
+            Service Content is accurate, complete or up to date. Where our Services contain links to other sites and
+            resources provided by third parties, these links are provided for your information only. We have no control
+            over the contents of those sites or resources. Such links should not be interpreted as approval by us of
+            those linked websites or information you may obtain from them. You acknowledge that we have no obligation
+            to pre-screen, monitor, review, or edit any content posted by you and other users on the Platform, such as
+            reviews or comments relating to Service Content.
+9.Indemnity
+You agree to defend, indemnify, and hold harmless Renfeng, its parents, subsidiaries, and
+            affiliates, and each of their respective officers, directors, employees, agents and advisors from any and
+            all claims, liabilities, costs, and expenses, including, but not limited to, attorneysâ fees and expenses,
+            arising out of a breach by you or any user of your account of these Terms or arising out of a breach of
+            your obligations, representation and warranties under these Terms.
+10.EXCLUSION OF WARRANTIES
+NOTHING IN THESE TERMS SHALL AFFECT ANY STATUTORY RIGHTS THAT YOU CANNOT CONTRACTUALLY
+            AGREE TO ALTER OR WAIVE AND ARE LEGALLY ALWAYS ENTITLED TO AS A CONSUMER.
+THE SERVICES ARE PROVIDED âAS ISâ AND WE MAKE NO WARRANTY OR REPRESENTATION TO YOU WITH
+            RESPECT TO THEM. IN PARTICULAR WE DO NOT REPRESENT OR WARRANT TO YOU THAT:
+Â·
+YOUR USE OF THE SERVICES WILL MEET YOUR REQUIREMENTS;
+Â·
+YOUR USE OF THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE OR FREE
+            FROM ERROR;
+Â·
+ANY INFORMATION OBTAINED BY YOU AS A RESULT OF YOUR USE OF THE SERVICES
+            WILL BE ACCURATE
+            OR RELIABLE; AND
+Â·
+DEFECTS IN THE OPERATION OR FUNCTIONALITY OF ANY SOFTWARE PROVIDED TO
+            YOU AS PART OF THE
+            SERVICES WILL BE CORRECTED.
+NO CONDITIONS, WARRANTIES OR OTHER TERMS (INCLUDING ANY IMPLIED TERMS AS TO SATISFACTORY
+            QUALITY, FITNESS FOR PURPOSE OR CONFORMANCE WITH DESCRIPTION) APPLY TO THE SERVICES EXCEPT TO THE EXTENT
+            THAT THEY ARE EXPRESSLY SET OUT IN THE TERMS. WE MAY CHANGE, SUSPEND, WITHDRAW OR RESTRICT THE AVAILABILITY
+            OF ALL OR ANY PART OF OUR PLATFORM FOR BUSINESS AND OPERATIONAL REASONS AT ANY TIME WITHOUT NOTICE.
+11.LIMITATION OF LIABILITY
+NOTHING IN THESE TERMS SHALL EXCLUDE OR LIMIT OUR LIABILITY FOR LOSSES WHICH MAY NOT BE
+            LAWFULLY EXCLUDED OR LIMITED BY APPLICABLE LAW. THIS INCLUDES LIABILITY FOR DEATH OR PERSONAL INJURY CAUSED
+            BY OUR NEGLIGENCE OR THE NEGLIGENCE OF OUR EMPLOYEES, AGENTS OR SUBCONTRACTORS AND FOR FRAUD OR FRAUDULENT
+            MISREPRESENTATION.
+SUBJECT TO THE PARAGRAPH ABOVE, WE SHALL NOT BE LIABLE TO YOU FOR:
+(I) ANY LOSS OF PROFIT (WHETHER INCURRED DIRECTLY OR INDIRECTLY);
+(II) ANY LOSS OF GOODWILL;
+(III) ANY LOSS OF OPPORTUNITY;
+(IV) ANY LOSS OF DATA SUFFERED BY YOU;
+(V) ANY INDIRECT OR CONSEQUENTIAL LOSSES WHICH MAY BE INCURRED BY YOU; OR
+(VI) ANY LOSS OR DAMAGE WHICH MAY BE INCURRED BY YOU AS A RESULT OF:
+Â·
+ANY RELIANCE PLACED BY YOU ON THE COMPLETENESS, ACCURACY OR EXISTENCE
+            OF ANY ADVERTISING;
+Â·
+ANY CHANGES WHICH WE MAY MAKE TO THE SERVICES, OR FOR ANY PERMANENT OR
+            TEMPORARY
+            CESSATION IN THE PROVISION OF THE SERVICES (OR ANY FEATURES WITHIN THE SERVICES);
+Â·
+THE DELETION OF, CORRUPTION OF, OR FAILURE TO STORE, ANY CONTENT AND
+            OTHER COMMUNICATIONS
+            DATA MAINTAINED OR TRANSMITTED BY OR THROUGH YOUR USE OF THE SERVICES;
+Â·
+YOUR FAILURE TO PROVIDE US WITH ACCURATE ACCOUNT INFORMATION; OR
+Â·
+YOUR FAILURE TO KEEP YOUR PASSWORD OR ACCOUNT DETAILS SECURE AND
+            CONFIDENTIAL.
+OUR TOTAL AGGREGATE LIABILITY TO YOU, WHETHER BASED ON AN ACTION OR CLAIM IN CONTRACT,
+            TORT (INCLUDING NEGLIGENCE), BREACH OF STATUTORY DUTY OR OTHERWISE ARISING OUT OF, OR IN RELATION TO, THESE
+            TERMS, THE PLATFORM OR SERVICE, WILL BE LIMITED TO THE AMOUNT PAID BY YOU TO US (IF ANY) DURING THE 12
+            MONTH PERIOD PRECEDING THE DATE OF THE FIRST CLAIM MADE BY YOU UNDER THIS AGREEMENT.
+PLEASE NOTE THAT WE ONLY PROVIDE OUR PLATFORM FOR DOMESTIC AND PRIVATE USE. UNLESS YOU
+            HAVE OUR EXPRESS WRITTEN CONSENT, YOU AGREE NOT TO USE OUR PLATFORM FOR ANY COMMERCIAL OR BUSINESS
+            PURPOSES, AND WE HAVE NO LIABILITY TO YOU FOR ANY LOSS OF PROFIT, LOSS OF BUSINESS, LOSS OF GOODWILL OR
+            BUSINESS REPUTATION, BUSINESS INTERRUPTION, OR LOSS OF BUSINESS OPPORTUNITY.
+IF DEFECTIVE DIGITAL CONTENT THAT WE HAVE SUPPLIED DAMAGES A DEVICE OR DIGITAL CONTENT
+            BELONGING TO YOU AND THIS IS CAUSED BY OUR FAILURE TO USE REASONABLE CARE AND SKILL, WE WILL EITHER REPAIR
+            THE DAMAGE OR PAY YOU COMPENSATION IN ACCORDANCE WITH THESE TERMS. HOWEVER, WE WILL NOT BE LIABLE FOR
+            DAMAGE THAT YOU COULD HAVE AVOIDED BY FOLLOWING OUR ADVICE TO APPLY AN UPDATE OFFERED TO YOU FREE OF CHARGE
+            OR FOR DAMAGE THAT WAS CAUSED BY YOU FAILING TO CORRECTLY FOLLOW INSTALLATION INSTRUCTIONS OR TO HAVE IN
+            PLACE THE MINIMUM SYSTEM REQUIREMENTS ADVISED BY US.
+THESE LIMITATIONS ON OUR LIABILITY TO YOU SHALL APPLY WHETHER OR NOT WE HAVE BEEN ADVISED
+            OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING.
+YOU ARE RESPONSIBLE FOR ANY MOBILE CHARGES THAT MAY APPLY TO YOUR USE OF OUR SERVICE,
+            INCLUDING TEXT-MESSAGING AND DATA CHARGES. IF YOUâRE UNSURE WHAT THOSE CHARGES MAY BE, YOU SHOULD ASK YOUR
+            SERVICE PROVIDER BEFORE USING THE SERVICE.
+12.Other Terms
+a.Applicable Law and Jurisdiction. These Terms, their subject matter and their formation,
+            are governed by the laws of Taiwan. Any dispute, controversy, difference or claim arising out of or
+            relating to this Agreement, including the existence, validity, interpretation, performance, breach or
+            termination thereof or any dispute regarding non-contractual obligations arising out of or relating to it
+            shall first be subject to good faith discussion between the parties. In the event the parties are unable to
+            resolve such issue, either party may refer the dispute to and such dispute shall be finally resolved by
+            arbitration administered by Taiwan in force when the Notice of Arbitration is submitted. The seat of
+            arbitration shall be Taiwan. The number of arbitrators shall be three.
+b.Entire Agreement. These Terms constitute the whole legal agreement between you and
+            Renfeng and govern your use of the Services and completely replace any prior agreements between you and
+            Renfeng in relation to the Services.
+c.Links. You must not establish a link to our Platform in any website that is not owned by
+            you. The website in which you are linking must comply in all respects with the content standards set out at
+            âYour Access to and Use of Our Servicesâ above. We reserve the right to withdraw linking permission without
+            notice.
+d.No Children. The Platform is only for people 18 years old and over (except that with
+            respect to people in Thailand, the Platform is only for people 20 years old and over), unless they have the
+            consent of a parent or legal guardian. By using the Platform, you confirm that you are over the relevant
+            age specified above. If we learn that someone under the relevant age specified above is using the Platform,
+            we will terminate that userâs account. In addition, if you are under the relevant age specified above, you
+            confirm that you possess legal parental or guardian consent for accessing or using the Platform, and are
+            fully able and competent to enter into, abide by, and comply with the Terms.
+e.No Waiver. Our failure to insist upon or enforce any provision of these Terms shall not
+            be construed as a waiver of any provision or right.
+f.Security. We do not guarantee that our Platform will be secure or free from bugs or
+            viruses. You are responsible for configuring your information technology, computer programmes and platform
+            to access our Platform. You should use your own virus protection software.
+g.Social network credentials. We will not store credentials or tokens to social networks
+            of the device and will only use such credentials or tokens to directly connect to the social network from
+            the app itself while the app is in use.
+h.Severability. If any court of law, having jurisdiction to decide on this matter, rules
+            that any provision of these Terms is invalid, then that provision will be removed from the Terms without
+            affecting the rest of the Terms, and the remaining provisions of the Terms will continue to be valid and
+            enforceable.
+i.Any Questions? Please contact us at WeTVService@gmail.com
+Supplemental Terms â Jurisdiction-Specific
+Thailand.
+If you are using our Services in Thailand, the following additional terms apply. In the
+            event of any conflict between the following additional terms and the provisions of the main body of these
+            Terms, the following terms shall prevail.
+In addition to terms and conditions in the paragraph of âYour Access to and Use of Our
+            Servicesâ above, a user of the Services may not import, disseminate or forward the following computer data
+            in or from a computer system into the Platform:
+(i)forged or deceptive data that may cause damage to the public, and is not a defamation
+            offense under the Thai Criminal Code;
+(ii)false data that may cause damage to the public (e.g., public security, national
+            economic, public infrastructure);
+(iii)data related to an offence concerning the Thailandâs security or terrorism under the
+            Thai Criminal Code, including but not limited to lÃ¨se-majestÃ© offence; and
+(iv)making obscene data available to the public.

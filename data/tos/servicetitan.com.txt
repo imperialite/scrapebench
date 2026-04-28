@@ -1,0 +1,509 @@
+ServiceTitan | Terms of Use
+Customer Resource Hub
+Sign In
+Logo
+Back
+(855) 899-0970
+Get Demo
+Logo
+Commercial
+Solutions
+Commercial
+Service & Replacement
+Construction
+Enterprise
+Private Equity
+Sales Prospecting
+Upgrade to Pro Products
+Key Features
+View All
+Atlas
+CRM
+Project Management
+Service Agreements
+Customer Portal
+Field Application
+Dispatch
+Purchasing & Inventory
+Accounting
+Reporting
+Trades
+View All
+Mechanical
+Refrigeration
+Plumbing
+Electrical
+Landscaping
+Roofing
+Kitchen Equipment
+Water Treatment
+Fire & Life Safety
+Dock and Door
+Resources
+View All
+Content Hub
+Industry Report
+Commercial Playbook
+Prospecting Unlocked
+Interactive Demo
+Residential
+Solutions
+Residential
+Service & Replacement
+Construction
+Enterprise
+Private Equity
+Franchise
+Upgrade to Pro Products
+Key Features
+View All
+Atlas
+Marketing
+Call Booking
+Dispatch
+Field Mobile App
+Payments
+Customer Experience
+Field Reporting
+Accounting
+Inventory
+Trades
+View All
+HVAC
+Plumbing
+Electrical
+Chimney
+Roofing
+Garage Door
+Septic
+Pest Control
+Irrigation
+Painting
+Resources
+View All
+Content Hub
+Residential Service Report
+Exteriors Report
+Contractor Playbook
+Interactive Demo
+Products
+Explore our products
+ServiceTitan
+FieldRoutes
+Aspire
+Convex
+Conduit
+Get more with
+Pro
+Marketing Pro
+Contact Center Pro
+Pricebook Pro
+Fleet Pro
+Scheduling Pro
+Dispatch Pro
+Field Pro
+formerly Sales Pro
+Pay and Get Paid
+Payments
+Integrated Financing
+Accounts Payable
+Resources
+The Toolbox
+View Toolbox
+A place for contractors to access the best content — articles, webinars, podcasts, industry-leading voices and expert advice, all in one place!
+Thanks! Tell us a little
+more about yourself
+Enter email address
+Hp123
+Subscribe
+Topic
+Type
+Commercial
+Residential
+Business Tips
+Tech Tips
+News
+Marketing
+Operations
+Management
+Blog
+Webinars
+Podcasts
+Templates
+Tools
+Guides
+Playbook
+Licensing
+Magazine
+Case Studies
+Contact Sales
+Get Demo
+Home
+Legal
+Terms Of Use
+Home
+Legal
+Terms Of Use
+SERVICETITAN
+TERMS OF USE
+Prior Versions:
+October 1, 2024
+/
+April 1, 2024
+/
+August 8, 2023
+Last Updated: January 13, 2025
+Welcome to ServiceTitan.com. These Terms of Use (“
+Terms of Use
+”) together with any agreement or order form (“
+Order Form
+”) that incorporates these Terms of Use, and any and all attachments thereto, including those incorporated by reference therein (collectively, the “
+Agreement
+”) are a binding legal agreement between you and ServiceTitan, Inc., or, if you have a separate written agreement which incorporates these Terms of Use by reference, the ServiceTitan entity set forth therein (“
+ServiceTitan
+”), regarding your use of the ServiceTitan proprietary online platform for field service business management, additional services related thereto, and/or certain standalone software or service offerings, and related content made available to you through our website(s) located at ServiceTitan.com, http://atlas.convexlabs.io, and/or ScheduleEngine.com, as applicable, and through our mobile applications and related technologies (“
+Mobile Apps
+”, and collectively, including any updated or new features, functionality, and technology, the “
+Service
+”) as well as any products or services, including professional services, provided to you by ServiceTitan. Complete product and support descriptions are available online and are true and accurate at the date of their publication and as updated from time to time. The Service operates substantially as described in the documentation published online within the ServiceTitan Knowledge Base. Please read these Terms of Use carefully. By accessing or using the Service, you accept these Terms of Use and agree to use the Service in compliance with these Terms of Use. If you are registering for an account or using the Service on behalf of an entity, organization, or company (“
+Corporate Entity
+”), you agree to the Agreement on behalf of that Corporate Entity and you represent and warrant to ServiceTitan that you have the authority to bind that Corporate Entity to the Agreement (and, in which case, the terms “Customer”, “you” and “your” will refer to that Corporate Entity).  If you are not registering for an account or using the Service on behalf of a Corporate Entity or if you are registered for an account or using the Service as an Authorized User of a Corporate Entity, then the terms “Customer”, “you” and “your” will refer to you in your individual capacity. The terms “ServiceTitan,” “we,” “us,” and “our” refer to ServiceTitan and our Affiliates, as applicable. ServiceTitan’s direct competitors (or third-party agents acting on behalf of such direct competitors) are prohibited from accessing the Service.
+We may periodically make changes to these Terms of Use, and if we do we will post the changes on this page and will indicate at the top of this page the date these Terms of Use were last updated. You may view the most current version at
+https://www.servicetitan.com/legal/terms-of-use
+. We will also give you not less than thirty (30) days advance notice of any material changes, unless such material changes result from changes in laws, regulations, or requirements from telecommunications or other providers. Following such notice, your continued use of the Service on or after the date the updated version of these Terms of Use is  effective and binding constitutes your acceptance of the updated version of these Terms of Use. The updated version of these Terms of Use supersedes all prior versions.  If you do not agree to the updated version of these Terms of Use, you must stop using the Service immediately.  You should periodically visit this page to review the current version of these Terms of Use so you are aware of any revisions. If you do not agree to abide by this Agreement, you will not access, browse, or use the Service.
+THESE TERMS OF USE CONTAINS AN ARBITRATION AGREEMENT, WHICH WILL, WITH LIMITED EXCEPTION, REQUIRE CUSTOMER TO SUBMIT CLAIMS CUSTOMER HAS AGAINST SERVICETITAN TO BINDING AND FINAL ARBITRATION, AND WAIVES EACH PARTY’S RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN ANY CLASS ACTION OR REPRESENTATIVE PROCEEDING. UNDER THE ARBITRATION AGREEMENT, (1) CUSTOMER WILL ONLY BE PERMITTED TO PURSUE CLAIMS AGAINST SERVICETITAN ON AN INDIVIDUAL BASIS, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING, AND (2) CUSTOMER WILL ONLY BE PERMITTED TO SEEK RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ON AN INDIVIDUAL BASIS.
+Additional Terms:
+When using certain features or functionality of the Service, you will be subject to any additional terms applicable to such features that may be appended to the Agreement or posted on or within the Service from time to time, including without limitation our Privacy Policy (as described in Section 24 below) and any user specifications regarding Authorized Users referenced herein from time to time (the “
+User Specifications
+”). All such terms are hereby incorporated by reference into the Agreement. We may amend the User Specifications from time to time without amendment of the Agreement generally for the addition of new user types or changes to the features, functionality and roles applicable to individual user types.
+1.
+Account Registration
+(a) Accounts; Authorized Users
+. You must register for and maintain an account with us to use the Service. When registering, you must provide accurate and complete information and promptly update this information. If you provide any information that is inaccurate or incomplete, or we have reason to believe that the information is inaccurate or incomplete, we may suspend or terminate your account and your use of the Service. Only your employees or contractors who are authorized to access the Service using a user identifier and password provided to you by us or set up by you (“
+Authorized Users
+”) may use your account to access and use the Service and conduct other activities with us. You are responsible for all activities that occur through your account. To protect your account from unauthorized use, you must keep your user identification and password and those of your Authorized Users secure. You must notify us immediately of any unauthorized use of your account or any other breach of security. If there is unauthorized use by anyone who obtained access to the Service directly or indirectly through you, you will take all steps reasonably necessary to terminate the unauthorized use. You will cooperate and assist with any actions taken by ServiceTitan to prevent or terminate unauthorized use of the Service. Certain features or functionality of the Service may only be accessed or used by a certain type of Authorized User and access to such features and functionality may be subject to specific Authorized User limits set forth in the agreement, order form or other document executed by you and us into which the Agreement is incorporated. See the User Specifications for more information. We reserve the right to prevent or limit usage of the Service in excess of such limits.
+(b) Eligibility
+. You must be at least the age of majority in the jurisdiction in which you live (which in most jurisdictions is either 18 or 19 years of age) to use the Service. By entering into the Agreement, you represent and warrant to us that: (i) you are at least the age of majority in the jurisdiction in which you live; (ii) you have not previously been suspended or removed from the Service; and (iii) your registration and your use of the Service is in compliance with any and all applicable laws and regulations.
+(c) Corporate Entities
+. If you are a Corporate Entity, you may allow Authorized Users working for your Affiliates to use the Service under your subscription to the Service, as long as the aggregate number of each type of Authorized User does not exceed those specified with respect to your subscription and as long as used in the operation of a single business. You agree that: (i) you will at all times be liable and responsible for all acts and omissions of your Authorized Users that use the Service (including any Authorized Users using the Service on behalf of your Affiliate) as though those acts and omissions were committed by you; and (ii) you agree (and you agree on behalf of your Affiliates) that your Affiliates and their Authorized Users may have access to the data and information accessible by their respective user types and ServiceTitan is not responsible for enforcing any data access restrictions between you and your Affiliates. “
+Affiliate
+” means any entity that, directly or indirectly, through one or more intermediaries, ServiceTitan or Customer (as applicable) controls, by way of majority voting stock ownership or the ability to otherwise direct or cause the direction of the management and policies. If you registered for the Service under a name other than the legal name of a business, we may from time to time require you to verify that all licenses purchased by you are used only by you and your Affiliates and in the operation of a single business. If an Authorized User is using the Service in connection with the operation of more than one business, you must disclose this fact to us at the time of registration and renewal for the Service, as separate businesses require separate agreements with us. Failure to do so will constitute a breach of your obligations hereunder.
+(d) User Specifications
+. As used in the Agreement:
+a "
+Field User
+" means a natural person affiliated or associated with your business or under the direction of your business who: (i) is assigned sole or primary responsibility for performing a customer job by themselves, (ii) who functions in a leadership role for an install crew, and/or (iii) to whom or to whose activities revenue can otherwise be attributed.  Any individual that is assigned to a Field User subscription cannot be unassigned: (x) before the end of the subscription period in which they were so assigned and (y) without the written approval of ServiceTitan. You may not, and you must ensure that your Field Users do not, share accounts with each other or any other individuals. You are responsible for ensuring that your Field Users (and anyone else using your accounts or the accounts of your Field Users) comply with the terms of the Agreement. Deactivation of an individual assigned to Field User subscription will result in such individual being unassigned from all jobs and removed from reporting functionality. Field User subscription types include, without limitation, Managed Technicians and Managed Installers.
+“
+Administrative User
+” means a natural person affiliated or associated with your business or under the direction of your business who provides administrative or office support for a Field User and (i) who is not assigned sole or primary responsibility for performing a customer job by themselves, (ii) who does not function in a leadership role for an install crew or (iii) whose activities are not primarily responsible for generating revenue. Common examples of Administrative Users include Office Users, dispatchers, schedulers, call center users, business managers, account managers, sales representatives, customer support users and fleet operations personnel.
+“
+Office User
+” means an Administrative User who is primarily responsible for the assistance of Field Users with correspondence, record keeping, making of appointments, and other similar administrative tasks.
+Administrative User types may be included in subscription packages in specified quantities at no additional charge.
+2.
+Services
+(a) Services
+. Subject to your complete and ongoing compliance with the terms and conditions of the Agreement and the terms of your subscription for the Service, ServiceTitan hereby grants to you a limited, worldwide, non-exclusive, non-transferable, non-sublicensable right during the term of the Agreement to: (i) access and use the Service solely in connection with the internal business operations of a single business, and (ii) solely to facilitate the provision of the Service to you, download, install and use object code copies of any Mobile App(s) associated with the Service obtained from a legitimate marketplace (whether installed by you or pre-installed on your mobile device by the device manufacturer) on mobile devices that you own or control, in each case solely for use by a number of Authorized Users that does not exceed the number of paid subscriptions in your account, with no substitution of such users except as expressly permitted herein and approved by ServiceTitan in writing. Each instance of the Agreement that you agree to in connection with downloading a Mobile App grants you the aforementioned rights in connection with the installation and use of the Mobile App on one device. By way of example only, if you have 10 employees in your company, and if you have only paid for 3 Field Users (a type of Authorized User) subscriptions and you have only paid for 5 Administrative Users (another type of Authorized User), you are limited under this section for 3 individuals to access the Service as Field users, and for 5 individuals to access the Services as Administrative Users, without substitution. Certain features and functionality of the Service may be limited by number of transactions instead of number of Authorized Users, and you acknowledge and agree that after completing the number of transactions for which you have paid, such features and functionality may not be available to you unless and until you pay for additional transactions to be completed thereunder. Use of the Service by any number of individuals above the numbers provided by your subscription is a violation of the Agreement. Any number of individuals using the Service in excess of the number specified in your subscription will be subject to immediate additional subscription purchases to the payment method on file, prorated for any partial period. Further, if ServiceTitan provides you with any application programming interface (“
+API
+”) or software outside the Service (“
+Ancillary Software
+”, and together with the Service (including any Early Access Service), our website(s), and Mobile Apps, “
+ServiceTitan Technology
+”), ServiceTitan hereby grants you a limited, non-exclusive, non-transferable, non-sublicensable right to use that Ancillary Software solely in connection with your use of the Service. Your use of Ancillary Software may be subject to additional terms and conditions.
+(b) Early Access
+. If you obtain a subscription to a new feature or add-on to the Service designated by us as “Preview,” “Alpha,” “Beta,” “Early Access” or “Evaluation Services” (each, an “
+Early Access Service
+”), notwithstanding any other terms to the contrary, you may use such Early Access Service only for your internal demonstration, test, or evaluation purposes. Early Access Services and all documentation and information provided by ServiceTitan in connection therewith constitute ServiceTitan Confidential Information. You agree to provide feedback with respect to any Early Access Service that we make available to you, and the intellectual property rights in or related to such feedback are as set out in Section 9. NOTWITHSTANDING ANY TERMS TO THE CONTRARY IN THE AGREEMENT AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE DISCLAIM ALL REPRESENTATIONS, WARRANTIES, CONDITIONS, GUARANTEES AND OTHER KINDS OF PROMISES, EXPRESS, IMPLIED, OR STATUTORY FOR EARLY ACCESS SERVICES AND THEY ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. EARLY ACCESS SERVICES HAVE A NON-PERPETUAL, TIME-LIMITED SUBSCRIPTION TERM AND WE MAY “TIME-OUT” AND DISABLE THE EARLY ACCESS SERVICES OR OTHERWISE DISCONTINUE YOUR ACCESS AND USE OF THE EARLY ACCESS SERVICES AT ANY TIME AND FOR ANY REASON WITHOUT PRIOR NOTICE. You will not attempt to defeat or circumvent any duration mechanism for the Early Access Service and will not use any Early Access Service beyond the prescribed term of early access. Your use of an Early Access Service may be subject to additional terms and conditions that you must agree to when accessing the Early Access Service.
+(c) Open-Source Software
+. ServiceTitan Technology may contain or be provided together with open-source software. Each item of open-source software is subject to its own license terms. Copyrights to the open-source software are held by the respective copyright holders indicated therein.
+(d) Artificial Intelligence
+. From time to time, we may introduce features and capabilities as part of the Service that utilize artificial intelligence, machine learning, or similar technologies (the “
+AI Tools
+”). While ServiceTitan uses commercially reasonable efforts to reduce errors and omissions arising from use of AI Tools, ServiceTitan makes no warranties, express or implied, regarding the accuracy, reliability or non-infringement of the AI Tools (including without limitation any and all outputs therefrom) and disclaims any liability for errors, actions or omissions  based on the AI Tools or your use thereof.  Any content generated by AI Tools is not reviewed by ServiceTitan and you are solely responsible for reviewing such content for purposes of accuracy before publishing or utilizing such content. In addition, in certain jurisdictions, notice and/or consent may be required from the downstream individual in the event AI Tools are used in connection with the processing of “personal information”, “personal data” or otherwise. In the event that any consents or notices are required, you agree and acknowledge that you are solely responsible for providing all required consents or notices with respect to the Service (including use of AI Tools).
+3.
+Support
+If you are current with payment of Service fees, and subject to any other agreement you may have for support for the Service, ServiceTitan will provide you with its standard technical support services relating to the Service, subject to ServiceTitan’s published support policies.
+4.  Fees and Payment
+(a) General Payment Terms
+. Certain features of the Service may require you to pay fees, including all applicable taxes. Such fees may differ based on the specific features and functionality of the Service you subscribe to and the number of Authorized Users or transactions for which you purchase subscriptions with respect to such features and functionality. In addition, some Service features and functionality may require us to engage third-party service providers (e.g., telecom providers) and you agree that any charges imposed on us by such third parties with respect to your usage or the provision of the Service to you (e.g., per-message/SMS fees, regulatory fees or access charges) may be passed through to you. You will have an opportunity to review the fees that you are charged. Unless otherwise agreed in writing, all fees are in U.S. Dollars and are non-refundable.   Payments made by credit card, where permitted by ServiceTitan, may be subject to transaction, surcharge, and other processing fees and such fees are subject to change from time to time.  ServiceTitan reserves the right to change the required method of payment at any time, upon notice to you (including in any invoice). You are responsible for updating your account information pursuant to written instructions provided by ServiceTitan should the required payment method change, and you agree to execute, within 10 business days of our request, any additional authorizations reasonably required in order to effect such change. If you agreed to purchase a minimum number of Authorized User subscriptions as part of registering for certain features and functionality of the Services (the “
+Minimum Subscription Level
+”), you must pay for at least that number of subscriptions during the applicable subscription term with respect to such features and functionality. Additional subscriptions may be purchased at the same pricing during the subscription term, with fees prorated for partial months, and you may make adjustments in the actual number of subscriptions from time to time, provided that you must always purchase a number of subscriptions equal to or greater than the Minimum Subscription Level. Monthly billing will be based upon the number of subscriptions at the beginning of the period, plus prorated billing for any added subscriptions and without reduction for subscriptions removed during the period. ServiceTitan reserves the right to shift the dates of your billing periods from time to time. If you are not subject to a Minimum Subscription Level, you must at all times maintain at least one (1) active Field User subscription. All fees paid hereunder are non-refundable and non-recoupable. You agree that your purchases under the Agreement are neither contingent on the delivery of any future functionality or features of the Service nor dependent on any oral or written public comments made by us regarding future functionality or features.
+(b) Price
+. ServiceTitan reserves the right to determine pricing for the Service. Except as otherwise specified in a written agreement or order form between you and ServiceTitan that incorporates these Terms of Use by reference, ServiceTitan may change the fees for any feature of the Service, including additional fees or charges, if ServiceTitan gives you not less than thirty (30) days’ advance notice of such changes via email or electronic notification within the Service before they apply. Without limiting the generality of the foregoing, if you are not subject to a Minimum Subscription Level, ServiceTitan may elect to increase your pricing if your Field User subscription count decreases over time. ServiceTitan, in its sole discretion, may make promotional offers with different features and different pricing to any of ServiceTitan’s customers. These promotional offers, unless made to you, will not apply to your offer or the Agreement.
+(c) Additional Amounts Payable
+. We may process automatically recurring payments for periodic charges on additional services and individual charges as incurred or batch them from time to time. If you activate an additional service (e.g., a ServiceTitan Pro Product or Add-On subscription) or incur usage fees (e.g., direct mail fees per piece), you hereby authorize ServiceTitan to periodically charge such fees, including on a going-forward basis and until cancellation of either the recurring payments or your account, and all other accrued sums on or before the payment due date for the accrued sums. All fees and taxes applicable to each such additional subscription will be charged automatically to your account for each subscription billing period. The subscription will continue unless and until you cancel the additional subscription or we terminate it. You must cancel a subscription before it renews in order to avoid being charged the next periodic subscription fee to your account. You may request cancellation of a subscription service by contacting us at:
+billing@servicetitan.com
+. ServiceTitan may make available for activation by you and your Authorized Users within ServiceTitan Technology certain subscription services that would be new to your account (as well as the capability to purchase certain hardware) and you represent, warrant, covenant, and agree that the individual designated by ServiceTitan as the primary contact for your account, as well as any and all individuals with the “General Manager” or “Business Owner” designation under your account within ServiceTitan Technology are authorized to bind you to the applicable terms and conditions for such additional subscription services and purchases, and you hereby agree to pay all applicable fees and charges with respect thereto.
+(d) Taxes and Charges.
+i. ServiceTitan may be required to charge sales or other tax on products and services pursuant to certain foreign, federal, state, provincial and local laws, and may pass through regulatory, access, or usage fees or charges.  Estimated or final taxes along with applicable fees and charges are not included in the Service fees charged under the Agreement and shall be borne by Customer. Your invoice will reflect the final taxes, fees, and charges in effect at the time of invoicing based on the address for the business(es). Customer must claim any exemption for all applicable taxes, fees, or charges at the time of purchase and provide any/all exemption certifications and email documentation to
+taxinquiry@servicetitan.com
+. ServiceTitan reserves the right to determine the applicability of any claimed exemptions, and any disputes over exemptions shall be subject to the dispute resolution provisions of these Terms of Use.
+ii. Customer is solely responsible for determining, collecting, withholding, reporting, and remitting applicable taxes, duties, fees, surcharges and additional charges that arise from any sale of Customer’s products or services to Customer’s clients (“
+End Clients
+") and any other business transactions between Customer and End Clients using the Service. Any contract of sale made through the Service is directly between Customer and the End Client.
+(e) Delinquent Accounts
+. ServiceTitan may, without notice, suspend or terminate access to the Service, including fee-based portions of the Service, for any account for which any amount is due but unpaid. In addition to the amount due for the Service, a delinquent account will be charged with fees, charges or expenses (including attorneys’ fees) that are incidental to any chargeback or collection of any unpaid amount, including collection fees. Further, amounts invoiced by ServiceTitan but not paid by the applicable due date may incur interest at the rate which is the lesser of (i) 1.5% per month, calculated daily, and compounded monthly, and (ii) the highest rate permitted under applicable law.
+(f) Other Agreements with ServiceTitan
+. To the extent that you or your Affiliates have other agreements in place with ServiceTitan or its Affiliates, you acknowledge and agree that, notwithstanding the terms of such other agreements, or the original authorization(s) provided to ServiceTitan to process payment thereunder via ACH, credit card, or otherwise, you, on behalf of yourself and your Affiliates, hereby authorize ServiceTitan to any time upon prior notice to you (email acceptable) migrate payment of any or all amounts due and payable to ServiceTitan or its Affiliates under any or all of those other agreements to the payment method in place under the Agreement or any other agreement you have in place with ServiceTitan or its Affiliates.
+5.
+Term and Termination
+(a) Term
+. The term of the Agreement commences upon your registration for a Service subscription (whether via entering into an Order Form or other written agreement that incorporates these Terms of Use, or otherwise) and remains in effect for the term of your subscription. If you have entered into an order form or other written agreement that incorporates these Terms of Use, the term is specified therein; if these Terms of Use are the only agreement between you and ServiceTitan with respect to your Service subscriptions, such subscriptions are month-to-month and will automatically renew for additional successive monthly terms unless either party provides not less than thirty (30) days written notice of nonrenewal to the other party prior to the renewal date. Notice via email to ServiceTitan at
+billing@servicetitan.com
+will be deemed sufficient. Upon termination, your access to the Service and any information stored by the Service will also terminate.
+(b) Suspension
+. You agree to refrain from the following actions (which each constitute a material breach of the Agreement) and we may immediately, without notice, suspend your access to the Service if: (i) you breach any provision of the Agreement; (ii) you seek to hack the security mechanisms of the Service or we otherwise determine that your use of the Service poses a security risk to us or to another user of the Service; (iii) you introduce a malicious program into the network or a virtual machine instance; (iv) you cause network interference that affects Service performance for other customers; (v) you use the Service in a way that we determine, in our sole discretion, is abusive or disrupts or threatens the performance or availability of the Service; or (vi) we receive notice or we otherwise determine, in our sole discretion, that you may be using the Service for an illegal purpose or in a way that violates the law or violates, infringes, or misappropriates the rights of any third party. Your access will be restored only if and when the reason for the suspension is resolved.
+(c) Early Termination
+:
+If you want to terminate the Agreement before the term of the Agreement is over, you will owe a termination fee equal to all the remaining payments and you and we agree that the termination fee is based on an agreed minimum usage commitment by you and is not a penalty.
+The only exception is that you may terminate with thirty (30) days' written notice if ServiceTitan materially breaches the Agreement and does not cure the breach within thirty (30) days' of receiving your written notice. Further, a party may terminate the Agreement upon written notice if the other party ceases to do business, becomes insolvent, goes or is put into receivership or liquidation, passes a resolution for its winding up or for any of the foregoing, makes an arrangement for the benefit of its creditors, enters into bankruptcy, moratorium, or any other proceeding that relates to insolvency or protection of creditors’ rights.
+(d) Effect of Termination
+. If the Agreement is terminated for any reason: (i) you will pay to ServiceTitan any fees or other amounts that have accrued prior to the effective date of the termination; (ii) any and all liabilities accrued prior to the effective date of the termination will survive; and (iii) the following sections  of these Terms of Use will survive: Sections 5, 7, 8, 9 and 11 through 32 and Attachment 1 hereto.
+(e) Customer Data and Export Period
+.  For the purposes of the Agreement “
+Customer Data
+” means electronic data or information or business data submitted to the Service by Customer or any Authorized User or directly created by any such person for Customer’s use in connection with the use of the Service, including without limitation User Data (as defined below). Notwithstanding the foregoing, Customer Data does not include non-identifiable aggregated data compiled by ServiceTitan in connection with Customer’s (including its Authorized Users’) use of the Service. Following termination and upon Customer’s request and subject to any specific restrictions applicable to Customer or Customer’s data, ServiceTitan will make commercially reasonable efforts to export and provide to Customer in electronic format the Customer Data in Customer’s account (service fees may apply). ServiceTitan makes no representation as to the integrity, completeness or timeliness of any data so exported, and ServiceTitan is not obligated to retain that information for greater than 60 days after any termination (“Export Period”). After such Export Period and subject to ServiceTitan’s legal obligations with respect to access and rectification of personal information, ServiceTitan has no obligation to maintain or provide any Customer Data and shall be entitled to, except to the extent legally prohibited, delete Customer Data by deleting Customer’s account; provided, however, that ServiceTitan will not be required to remove copies of the Customer Data from its backup media and servers until such time as the backup copies are scheduled to be deleted, provided further that in all cases ServiceTitan will continue to protect the Customer Data in accordance with the Agreement. Customer Data will be made available to authorized points of contact in a Microsoft SQL server backup format (.BAK), standard Microsoft Tape Format (.MTF), or such other format as determined by ServiceTitan. For clarity, during the term of the Agreement, Customer may extract Customer Data using ServiceTitan’s standard web services.
+6.
+Access to the Service; Modifications to the Service
+We do not provide you with the equipment to access the Service. You are responsible for all fees charged by third parties to access the Service (e.g., Internet and/or mobile access charges). You agree and acknowledge that ServiceTitan may update and otherwise change the Service from time to time in its sole discretion at any time, provided that such modifications do not materially degrade any of the functionality or features of the Service to which you have subscribed. Notwithstanding the foregoing, we reserve the right to modify or discontinue, temporarily or permanently, all or a part of the Service without notice and we will not be liable to you or to any third party for any modification, suspension, or discontinuance of the Service, except that if we permanently discontinue the Service we will provide you, as your sole and exclusive remedy, and our sole and exclusive liability, a pro-rated refund representing the unused (as of the date of termination) portion of any subscription fees that you have paid in advance.
+7. Compliance with Laws; Restrictions
+You represent and warrant (i) that you will at all times comply with all applicable foreign, federal, state, provincial, and local laws, rules, and regulations, including without limitation those relating to privacy, data protection and access to information, when using ServiceTitan Technology (including any ServiceTitan Technology that you place on any website), and (ii) that you will have sole responsibility at all times for making all disclosures (including without limitation any required within your privacy policy) and obtaining all consents as required thereby. For example, you are responsible for complying with all telephone recording and wiretapping laws and requirements, including notifying parties that telephone calls are being recorded when required and/or satisfying any notification and consent requirements imposed under applicable wiretapping laws. You are also responsible for complying with all applicable laws, rules, and regulations regarding the placement of telephone calls and the sending of text messages, including without limitation the Telephone Consumer Protection Act (TCPA), and the telemarketing provisions of the Canadian Competition Act and Canada’s Anti-Spam Legislation (CASL). You agree to ensure that all voice calls, text messages and any other commercial electronic messages you send or permit to be sent using any ServiceTitan service or platform are sent with the recipients’ valid consent and include prescribed information and an effective unsubscribe mechanism, to the extent required. Except as may be expressly permitted by applicable law or authorized by us in writing, you will not, and will not permit anyone else to:
+a.     	use ServiceTitan Technology in violation of the Agreement, for any illegal purpose or in violation of any local, state, provincial, national, or international law;
+b.     	harass, threaten, demean, embarrass, or otherwise harm any other user of the Service;
+c.      	violate, or encourage others to violate, any right of a third party, including without limitation by infringing or misappropriating any third party intellectual property right;
+d.     	use ServiceTitan Technology in violation of any applicable advertising and marketing laws such as CAN-SPAM, the TCPA, the FTC’s Telemarketing Sales Rule, Canada’s Anti-Spam Legislation (CASL), the telemarketing provisions of the Canadian Competition Act, the CRTC Unsolicited Telecommunications Rules, California Invasion of Privacy Act and other applicable state and federal wiretapping laws, and all other applicable laws, rules, and regulations, including those relating to the collection of debts from consumers. You acknowledge that you are familiar with, and agree to comply with, restrictions that may apply to (without limitation) (i) permitted contact times; (ii) customers’ consent to be contacted by telephone, email and/or text messages (including opt in/opt out consent where applicable and maintenance and use of do not call lists); (iii) the required content of emails and text messages and requirements for enabling and promptly implementing unsubscribe requests; (iv) any registration requirements relating to do not call lists; (v) any notices that need to be given to potential customers during telephone calls; and (vi) CTIA’s Messaging Principles and Best Practices;
+e.     	import or transfer to ServiceTitan or the ServiceTitan Technology any data that is sensitive financial information (including credit card numbers), health information, medical information, pharmaceutical information, any personal information whatsoever about or regarding children under 18 years of age, or other sensitive or regulated information (for example, Social Security Numbers or Social Insurance Numbers);
+f.      	interfere with security-related features of ServiceTitan Technology, including by: (i) disabling or circumventing features that prevent or limit use or copying of any content; or (ii) reverse engineering, disassembling, decompiling, or otherwise attempting to discover the source code of any portion of the ServiceTitan Technology except to the extent that the activity is expressly permitted by applicable law, and in such an instance you agree to provide us with prior written notice;
+g.     	interfere with the operation of ServiceTitan Technology or any user’s enjoyment of ServiceTitan Technology, including by: (i) uploading or otherwise disseminating any virus, adware, spyware, worm, or other malicious code; (ii) making any unsolicited offer or advertisement to another user of ServiceTitan Technology; (iii) collecting personal information about another user or third party without consent; or (iv) interfering with or disrupting any network, equipment, or server connected to or used to provide ServiceTitan Technology;
+h.     	perform any fraudulent activity including impersonating any person or entity, claiming a false affiliation, accessing any other Service account without permission, or falsifying your age or date of birth;
+i.       	license, sublicense, sell, resell, rent, lease, assign, distribute, time share, use the ServiceTitan Technology to operate a service bureau, otherwise transfer or make available to any third party the access granted under the Agreement or any right or ability to view, access, or use ServiceTitan Technology, or otherwise commercially exploit the ServiceTitan Technology in violation of the Agreement;
+j.       	modify, copy, reproduce, distribute, perform, display or create derivative works based on the ServiceTitan Technology;
+k.	alter or remove ServiceTitan’s or its Affiliates’ or their respective licensors’ names, trademarks, copyright notices, disclaimers or other restrictive legends on the ServiceTitan Technology;
+l.	access the ServiceTitan Technology in order to (1) build a competitive product or service, (2) build a product or service using similar ideas, features, functions or graphics of the ServiceTitan Technology, or  (3) copy any ideas, features, functions or graphics of the ServiceTitan Technology;
+m.	send or store infringing, obscene, threatening, libelous, or otherwise unlawful or tortious material, including material harmful to children or violative of third party privacy rights; or
+n.	attempt to do any of the acts described in this Section 7 or assist or permit any person in engaging in any of the acts described in this Section 7.
+8.
+Ownership
+(a) Ownership
+. Except for the rights to access ServiceTitan Technology expressly granted to you in the Agreement, we retain all right, title, and interest in and to ServiceTitan Technology, including all related intellectual property rights. ServiceTitan Technology is protected by applicable intellectual property laws, including United States and Canadian copyright law and international treaties. As between the parties, Customer shall own all Customer Data.
+(b) Trademarks
+. The ServiceTitan name and logos, the names and logos of ServiceTitan’s Affiliates, the domain names of ServiceTitan and its Affiliates, the product and service names associated with the Service and any other Service related trademarks and/or service marks are trademarks and service marks of ServiceTitan and its Affiliates (collectively the “
+ServiceTitan Trademarks
+”). Other company, product, and service names and logos used and displayed via the Service may be trademarks or service marks of their respective owners who may or may not endorse or be affiliated with or connected to ServiceTitan. Nothing in the Agreement or the Service should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any of ServiceTitan Trademarks displayed on the Service, without our prior written permission in each instance. All goodwill generated from the use of ServiceTitan Trademarks will inure to our exclusive benefit.
+9.
+Feedback
+If you provide feedback, comments, suggestions, or recommendations to us regarding the ServiceTitan Technology or ServiceTitan’s website (“
+Feedback
+”), you authorize us to use that Feedback without restriction and without payment to you. Accordingly, you hereby grant to us a non-exclusive, fully-paid, royalty-free, perpetual and irrevocable license to exploit the Feedback in any manner and for any purpose.
+10.
+Information
+Subject to your compliance with the Agreement, you may upload Customer Data to the Service and link other services to the Service to integrate your Customer Data from those other services. In addition, we may collect registration and statistical and usage data about your use of the Service, and may use such data for any purpose in accordance with applicable law and our Privacy Policy. You hereby grant us a non-exclusive, non-sublicensable (except to service providers and subcontractors providing services to ServiceTitan), transferable, worldwide, royalty-free, perpetual, irrevocable license to use, reproduce, modify, transmit, distribute and otherwise exploit all such information: (a) internally in any way subject to ServiceTitan’s obligation of non-disclosure in Section 11 and compliance with applicable laws such as privacy laws; and (b) internally or externally in any way provided that such information is de-identified when stored and aggregated prior to use. You may only upload text, photographs, videos, or other audiovisual or informational content (collectively, “
+Content
+”) to the Service if you own the rights to that Content, or if another rights holder has given you permission. You agree that ServiceTitan may use your name, logo and marks to identify you as a ServiceTitan customer on ServiceTitan’s website and in marketing materials.
+Notwithstanding anything to the contrary set forth herein, to the extent that any of your instances within ServiceTitan Technology, or the business information held within any such instance, are part of a franchise, and you operate such business as a franchisee: Except as otherwise provided in your agreement(s) with the applicable franchisor, your franchisor, and not you, owns all Customer Data. Further, you irrevocably agree that ServiceTitan may: disclose and grant franchisor access to all such Customer Data; grant franchisor administrative access to your accounts within ServiceTitan Technology; permit franchisor to export, transfer, or otherwise access with administrative permissions your account within ServiceTitan Technology and the Customer Data therein without further notice to you; and/or suspend your access to your account or cease the provision of any franchisor-related pricing to you (irrespective of whether such pricing is committed in an executed agreement or order form). You agree not to seek any mass export of Customer Data related to your franchise business(es) without the prior consent of the applicable franchisor.
+11. Confidentiality
+(a)   Definition of Confidential Information.
+“
+Confidential Information
+” means all information disclosed by a party (“
+Disclosing Party
+”) to the other party (“
+Receiving Party
+”), whether orally or in writing, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure. Your Confidential Information includes non-public information or material you upload to the Service (including Customer Data). The Confidential Information of ServiceTitan includes ServiceTitan Technology and the terms and conditions of all customer success agreements, service orders, order forms, purchase orders and other ordering documentation (including pricing) and the proprietary materials provided to Customer in the course of Customer's implementation, including, but not limited to, guides, product descriptions and configuration tools (the "
+Materials
+").  The Materials are confidential and proprietary to ServiceTitan and Customer may only use them solely for the purpose of transitioning to and implementing the Service.  Confidential Information of each party includes business and marketing plans, technology and technical information, product plans and designs, and business processes disclosed by such party. However, Confidential Information does not include any information that (i) is or becomes generally known to the public without breach of any obligation owed to the Disclosing Party, (ii) was known to the Receiving Party prior to its disclosure by the Disclosing Party without breach of any obligation owed to the Disclosing Party, (iii) is received from a third party without breach of any obligation owed to the Disclosing Party, or (iv) was independently developed by the Receiving Party without use of or reference to the Disclosing Party’s Confidential Information.
+(b)   Non-Use and Non-Disclosure of Confidential Information.
+Except as set forth in the Agreement, or with respect to ServiceTitan, the Privacy Policy, Receiving Party will not use any Confidential Information for any purpose except to perform its obligations or exercise its rights under the Agreement. Subject to ServiceTitan’s rights under Sections 10, 17, and 18, ServiceTitan will not disclose your Confidential Information to any third party without your consent. This includes information about the pricing of the products and services that you might sell and promote through the Service. ServiceTitan may, however, disclose your Confidential Information if required by law or if ServiceTitan reasonably determines that disclosure is necessary to prevent harm to ServiceTitan or any third party. Your consent to disclosure shall be deemed given in the event that you access ServiceTitan or your ServiceTitan data through a third party application, solely with respect to disclosure in connection with your use of such third party application. If ServiceTitan is required by law to disclose any of that information or material, ServiceTitan will, to the extent permitted by law, court order, or applicable legal process, make reasonable efforts to provide you prompt written notice of that requirement prior to disclosure. Further, if you register for the Service through a referral or other promotional partner or through an industry or trade group with whom we have a commercial relationship, we may disclose information about your account to that referral partner or industry group in connection with that commercial relationship. For the avoidance of doubt, except to the extent required for compliance with applicable law, ServiceTitan will not directly contact your customers (other than in the ordinary course of business not related to the Agreement) or make personally identifying or contact data regarding your customers available to any third party without your consent. Such consent will be deemed given, however, in the event that you access the Service or your ServiceTitan data through a third party application, solely with respect to disclosure in connection with your use of such third party application.
+(c)    Protection of Confidential Information
+. Receiving Party shall take reasonable measures to protect the secrecy of and avoid unauthorized disclosure and use of the Confidential Information of Disclosing Party. Without limiting the foregoing, Receiving Party shall take at least those measures that it employs to protect its own Confidential Information of a similar nature (but in no event less than a commercially reasonable standard of care) and shall ensure that its representatives (“Representatives”) who have access to Confidential Information of Disclosing Party have signed a nonuse and nondisclosure agreement in content at least as protective of Disclosing Party’s Confidential Information as the provisions of the Agreement, prior to any disclosure of Confidential Information to such Representatives. The Receiving Party shall reproduce Disclosing Party’s proprietary rights notices on any copies made by the Receiving Party in the same manner in which such notices were set forth in or on the original Confidential Information.
+12. Processing of Personal Information
+Collection, use, disclosure, storing and processing of personal data or personal information by ServiceTitan hereunder is governed by the ServiceTitan Data Protection Addendum (“DPA”) located here
+https://www.servicetitan.com/legal/data-protection-addendum
+, and our Privacy Policy, and you consent to us doing so.
+13.
+Warranties; Disclaimer
+ServiceTitan warrants that the Service will, during the term of your subscription, materially conform to any description of the Service published by ServiceTitan. As ServiceTitan’s sole and exclusive liability for breach of this limited warranty, and your sole and exclusive remedy, ServiceTitan will make reasonable efforts to correct the material non-conformity after ServiceTitan’s receipt of written notice thereof from you.
+You represent and warrant that: (a) you will not upload or request that ServiceTitan import any information (including personal information) to the Service unless you have all consents, permissions and licenses necessary to do so and to authorize ServiceTitan’s collection, use, disclosure and retention of that information in accordance with the Agreement; and (b) your use of the Service will not subject ServiceTitan to any liability or cause ServiceTitan to violate any law, rule, or regulation or guideline.
+EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION 13: (I) THE SERVICE, ANY PROFESSIONAL SERVICES, AND ALL MATERIALS AND CONTENT AVAILABLE THROUGH THE SERVICE ARE PROVIDED “AS IS” AND ON AN “AS AVAILABLE” BASIS; AND (II) SERVICETITAN DISCLAIMS ALL REPRESENTATIONS, WARRANTIES, CONDITIONS, GUARANTEES AND PROMISES OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, RELATING TO THE SERVICE AND ALL MATERIALS AND CONTENT AVAILABLE THROUGH THE SERVICE, INCLUDING: (A) ANY IMPLIED REPRESENTATION, WARRANTY, CONDITION, GUARANTEE OR PROMISE OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, OR NON-INFRINGEMENT; AND (B) ANY REPRESENTATION, WARRANTY, CONDITION, GUARANTEE OR PROMISE ARISING OUT OF COURSE OF DEALING, USAGE, OR TRADE. SERVICETITAN DOES NOT WARRANT THAT THE SERVICE OR ANY PORTION OF THE SERVICE, OR ANY MATERIALS OR CONTENT OFFERED THROUGH THE SERVICE, WILL BE UNINTERRUPTED, SECURE, OR FREE OF ERRORS, VIRUSES, OR OTHER HARMFUL COMPONENTS, AND SERVICETITAN DOES NOT WARRANT THAT ANY OF THOSE ISSUES WILL BE CORRECTED.
+NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM THE SERVICE OR SERVICETITAN ENTITIES (AS DEFINED BELOW) OR ANY MATERIALS OR CONTENT AVAILABLE THROUGH THE SERVICE WILL CREATE ANY REPRESENTATION, WARRANTY, CONDITION, GUARANTEE OR PROMISE REGARDING ANY OF THE SERVICETITAN ENTITIES, PROFESSIONAL SERVICES, THE SERVICE, OR OTHERWISE, THAT IS NOT EXPRESSLY STATED IN THE AGREEMENT. WE ARE NOT RESPONSIBLE FOR ANY DAMAGE THAT MAY RESULT FROM THE SERVICE AND YOUR DEALING WITH ANY OTHER SERVICE USER. YOU UNDERSTAND AND AGREE THAT YOU USE ANY PORTION OF THE SERVICE AT YOUR OWN DISCRETION AND RISK, AND THAT WE ARE NOT RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY (INCLUDING YOUR COMPUTER SYSTEM OR MOBILE DEVICE USED IN CONNECTION WITH THE SERVICE) OR ANY LOSS OF DATA (INCLUDING BACKUPS), INCLUDING CUSTOMER DATA AND USER CONTENT. YOU ACKNOWLEDGE THAT THE INTERNET AND TELECOMMUNICATIONS PROVIDERS’ NETWORKS ARE INHERENTLY INSECURE AND THAT WE WILL HAVE NO LIABILITY FOR ANY CHANGES TO, INTERCEPTION OF, OR LOSS OF CUSTOMER DATA WHILE IN TRANSIT VIA THE INTERNET OR A TELECOMMUNICATIONS PROVIDER’S NETWORK. PROMOTIONAL GOODS (IF ANY) ARE PROVIDED “AS IS” AND WITHOUT WARRANTY OF ANY KIND.
+SERVICETITAN TECHNOLOGY IS PROVIDED AS A PLATFORM FOR CONFIGURATION AND USE BY CUSTOMER, AND CUSTOMER IS SOLELY RESPONSIBLE FOR ENSURING CUSTOMER’S USE OF THE SERVICETITAN TECHNOLOGY COMPLIES WITH ALL APPLICABLE LAWS, RULES AND REGULATIONS. CUSTOMER IS SOLELY RESPONSIBLE FOR CONFIGURING ITS INSTANCE OF THE SERVICE IN A WAY THAT ENABLES CUSTOMER TO COMPLY WITH ALL APPLICABLE LAWS, RULES AND REGULATIONS. SERVICETITAN MAY, FOR INFORMATIONAL PURPOSES ONLY, MAKE SUGGESTIONS TO CUSTOMER WITH RESPECT TO THE CONFIGURATION OF CUSTOMER’S INSTANCE OF THE SERVICE, BASED ON BEST PRACTICES OR OTHERWISE, BUT CUSTOMER REMAINS SOLELY RESPONSIBLE FOR ENSURING THAT SUCH CONFIGURATION MEETS ALL BUSINESS AND LEGAL REQUIREMENTS APPLICABLE TO CUSTOMER, INCLUDING THAT CUSTOMER’S USE OF SERVICETITAN TECHNOLOGY COMPLIES WITH ALL APPLICABLE LAWS, RULES AND REGULATIONS.
+THE LIMITATIONS, EXCLUSIONS AND DISCLAIMERS IN THIS SECTION APPLY TO THE FULLEST EXTENT PERMITTED BY LAW. ServiceTitan does not disclaim any warranty or other right that ServiceTitan is prohibited from disclaiming under applicable law.
+14.
+Limitation of Liability
+TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT WILL THE SERVICETITAN ENTITIES BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION ANY DAMAGES FOR LOSS OF PROFITS, GOODWILL, BUSINESS INTERRUPTION, OR ANY OTHER INTANGIBLE LOSS, ARISING OUT OF OR RELATING TO YOUR ACCESS TO OR USE OF, OR YOUR INABILITY TO ACCESS OR USE, THE SERVICE OR ANY MATERIALS OR CONTENT ON THE SERVICE OR ARISING OUT OF OR WITH RESPECT TO ANY PRODUCTS OR SERVICES, INCLUDING PROFESSIONAL SERVICES, PROVIDED BY SERVICETITAN, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE, GROSS NEGLIGENCE OR WILLFUL MISCONDUCT), STATUTE, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT ANY SERVICETITAN ENTITY HAS BEEN INFORMED OF THE POSSIBILITY OF DAMAGE.
+TO THE FULLEST EXTENT PERMITTED BY LAW, THE MAXIMUM AGGREGATE LIABILITY OF THE SERVICETITAN ENTITIES TO YOU FOR ANY CLAIM OR CLAIMS ARISING OUT OF OR RELATING TO THE AGREEMENT AND/OR THE USE OF OR ANY INABILITY TO USE ANY PORTION OF THE SERVICE OR OTHERWISE UNDER THE AGREEMENT, INCLUDING WITHOUT LIMITATION ANY PROFESSIONAL SERVICES, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE, GROSS NEGLIGENCE OR WILLFUL MISCONDUCT), STATUTE, OR ANY OTHER LEGAL THEORY, IS LIMITED TO THE GREATER OF: (A) THE AMOUNT YOU HAVE PAID TO SERVICETITAN FOR ACCESS TO AND USE OF THE SERVICE IN THE 12 MONTHS PRIOR TO THE EVENT OR CIRCUMSTANCE GIVING RISE TO CLAIM; AND (B) $100.
+EACH PROVISION OF THE AGREEMENT THAT PROVIDES FOR A LIMITATION OF LIABILITY, DISCLAIMER, OR EXCLUSION OF DAMAGES IS INTENDED TO AND DOES ALLOCATE THE RISKS BETWEEN THE PARTIES UNDER THE AGREEMENT. THIS ALLOCATION IS AN ESSENTIAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN THE PARTIES. EACH OF THESE PROVISIONS IS SEVERABLE AND INDEPENDENT OF ALL OTHER PROVISIONS OF THE AGREEMENT. THE LIMITATIONS IN THIS SECTION 14 WILL APPLY EVEN IF ANY LIMITED REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+SOME JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OR EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS SET FORTH ABOVE MAY NOT APPLY TO YOU OR BE ENFORCEABLE WITH RESPECT TO YOU. IF YOU ARE DISSATISFIED WITH ANY PORTION OF THE SERVICE OR WITH THESE TERMS OF SERVICE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USE OF THE SERVICE.
+IF YOU ARE AN INDIVIDUAL USER FROM NEW JERSEY, THE FOREGOING SECTIONS TITLED “WARRANTIES; DISCLAIMER” AND “LIMITATION OF LIABILITY” ARE INTENDED TO BE ONLY AS BROAD AS IS PERMITTED UNDER THE LAWS OF THE STATE OF NEW JERSEY. IF ANY PORTION OF THESE SECTIONS IS HELD TO BE INVALID UNDER THE LAWS OF THE STATE OF NEW JERSEY, THE INVALIDITY OF SUCH PORTION WILL NOT AFFECT THE VALIDITY OF THE REMAINING PORTIONS OF THE APPLICABLE SECTIONS.
+15.
+Indemnity
+To the fullest extent permitted by law, you are responsible for your use of the ServiceTitan Technology, and you will defend, indemnify and hold harmless ServiceTitan and its officers, directors, employees, consultants, Affiliates, subsidiaries and agents (together, the “
+ServiceTitan Entities
+”) from and against every claim brought by a third party, and any related liability, damage, loss, and expense, including reasonable attorneys’ fees and costs, arising out of or connected with: (a) your unauthorized use of, or misuse of, the ServiceTitan Technology; (b) your violation of any portion of the Agreement, any representation, warranty, or agreement referenced in the Agreement, or any applicable law or regulation; (c) your violation of any third party right, including any intellectual property right or publicity, confidentiality, other property, or privacy right, in connection with your use of the ServiceTitan Technology or any data (including without limitation the Customer Data), materials or information you provide to the Service; or (d) any dispute or issue between you and any third party, including but not limited to any expenses for chargebacks, fines or fees for which ServiceTitan becomes liable for as a result of your usage of ServiceTitan Payments™, except to the extent directly caused by any gross negligence or willful misconduct on the part of ServiceTitan or material defect with ServiceTitan Payments. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you (without limiting your indemnification obligations with respect to that matter), and in that case, you agree to cooperate with our defense of those claims. You will not settle or compromise any such claim without our prior written consent.
+16.
+Force Majeure
+A party shall neither be held liable or responsible to the other party, nor be deemed to have defaulted under or breached the Agreement, for failure or delay in fulfilling or performing any obligation hereunder (other than an obligation for the payment of money) to the extent, and for so long as, such failure or delay is caused by or results from causes beyond the reasonable control of such party including, but not limited to, fire, floods, embargoes, pandemics or epidemics, war, acts of war, riots, strikes, acts of God, or omissions or delays in acting by any governmental authority.
+17.
+Assignability
+You may not assign the Agreement or any right, duty, or obligation under the Agreement, without ServiceTitan’s prior written consent, including, for the avoidance of doubt, to any acquirer of your business. If consent is given, the Agreement will bind your successors and assigns. Any attempt by you to transfer any right, duty, or obligation under the Agreement except as expressly provided in the Agreement is void. ServiceTitan may assign the Agreement or any right, duty, or obligation under the Agreement at any time without your consent.
+In the event that Customer acquires other businesses or entities after the date of the Agreement, the employees and contractors of such businesses or entities may constitute Authorized Users under this Agreement only if such businesses are not ServiceTitan customers at the time of acquisition ("
+Non-ServiceTitan Acquisitions
+"). In the event that Customer acquires other businesses or entities after the date of this Agreement that at the time of acquisition are ServiceTitan Customers (“
+ServiceTitan Acquisitions
+”), all agreements between ServiceTitan and the ServiceTitan Acquisitions (including, but not limited to, agreements for core Managed Technician Licenses, Pricebook Pro, Marketing Pro, Phones Pro, professional services and/or other products or services) (“
+Acquired Entity Agreements
+”) shall continue in full force and effect in accordance with their terms. Nothing in this Section 17 shall be construed to allow the terms of any Acquired Entity Agreement to be assigned to or applicable to Customer, its Affiliates or any other business or entity. Customer will provide prompt written notice to ServiceTitan in the event of any Non-ServiceTitan Acquisition or ServiceTitan Acquisition.
+18.
+Subcontractors
+ServiceTitan may utilize one or more subcontractors or other third parties to perform its duties under the Agreement so long as ServiceTitan remains responsible for all of its obligations under the Agreement.
+19.
+Notices
+Except as otherwise expressly set forth in the Agreement, any notice required or permitted to be given in accordance with the Agreement will be effective if it is in writing and sent by postal mail or insured courier (in each case with delivery confirmation), to the appropriate party at the address set forth below for ServiceTitan, and at the address set forth in your account for you, and with the appropriate postage affixed. Alternatively, ServiceTitan may transmit notices to you via email to the email address specified in your account. Either party may change its address for receipt of notice by notice to the other party in accordance with this Section. Notices are deemed given upon delivery to the designated address.
+ServiceTitan, Inc.
+Attn: Legal
+800 N. Brand Blvd., Suite 100
+Glendale, CA 91203
+20A.Dispute Resolution
+IF YOU ENTERED INTO THE AGREEMENT PRIOR TO DECEMBER 7, 2022, OR YOUR ORDER FORM OR OTHER WRITTEN AGREEMENT WITH SERVICETITAN THAT INCORPORATES THESE TERMS OF USE HAS AN EFFECTIVE DATE PRIOR TO DECEMBER 7, 2022, THEN THIS SECTION 20A APPLIES. IF YOU ENTERED INTO THE AGREEMENT ON OR AFTER DECEMBER 7, 2022, OR YOUR ORDER FORM OR OTHER WRITTEN AGREEMENT WITH SERVICETITAN THAT INCORPORATES THESE TERMS OF USE HAS AN EFFECTIVE DATE ON OR AFTER DECEMBER 7, 2022, THEN SECTION 20B BELOW APPLIES IN LIEU OF THIS SECTION 20A.
+PLEASE READ THIS SECTION CAREFULLY AS IT AFFECTS YOUR RIGHTS.
+(a) Generally
+. In the interest of resolving disputes between you and ServiceTitan in the most expedient and cost effective manner, and except as described in Sections 20A(b), (c) and (g), you and ServiceTitan agree that every dispute arising in connection with the Agreement will be resolved by binding arbitration. Arbitration is less formal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, may allow for more limited discovery than in court, and can be subject to very limited review by courts. Arbitrators can award the same damages and relief that a court can award. This agreement to arbitrate disputes includes all claims arising out of or relating to any aspect of the Agreement, whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, and regardless of whether a claim arises during or after the termination of the Agreement. YOU UNDERSTAND AND AGREE THAT, BY ENTERING INTO THE AGREEMENT, YOU AND SERVICETITAN ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.
+(b) Exceptions
+. Despite the provisions of Section 20A(a), nothing in this Agreement will be deemed to waive, preclude, or otherwise limit the right of either party to: (i) bring an individual action in small claims court; (ii) pursue an enforcement action through the applicable federal, state, or local agency if that action is available; (iii) seek injunctive relief in a court of law in aid of arbitration; or (iv) to file suit in a court of law to address an intellectual property infringement claim.
+(c) Opt-Out
+. If you do not wish to resolve disputes by binding arbitration, you may opt out of the provisions of this Section 20A within 30 days after the date that you agree to the Agreement by sending a letter to ServiceTitan, Inc., 800 N. Brand Blvd., Suite 100, Glendale, CA 91203 that specifies: your full legal name, the email address associated with your account on the Service, and a statement that you wish to opt out of arbitration (“
+Opt-Out Notice
+”). Once ServiceTitan receives your Opt-Out Notice, this Section 20A will be void and any action arising out of the Agreement will be resolved as set forth in Section 21. The remaining provisions of the Agreement will not be affected by your Opt-Out Notice.
+(d) Arbitrator
+. Any arbitration between you and ServiceTitan will be settled under the Federal Arbitration Act and administered by the American Arbitration Association (“
+AAA
+”) under its Consumer Arbitration Rules (collectively, “
+AAA Rules
+”) as modified by these Terms of Use. The AAA Rules and filing forms are available online at www.adr.org, by calling the AAA at 1-800-778-7879, or by contacting ServiceTitan. The arbitrator has exclusive authority to resolve any dispute relating to the interpretation, applicability, or enforceability of this binding arbitration agreement.
+(e) Notice of Arbitration; Process
+. A party who intends to seek arbitration must first send a written notice of the dispute to the other party by certified mail or by Federal Express (signature required) or, only if that other party has not provided a current physical address, then by electronic mail (“
+Notice of Arbitration
+”). ServiceTitan’s address for Notice is: ServiceTitan, Inc., 800 N. Brand Blvd., Suite 100, Glendale, CA 91203. The Notice of Arbitration must: (i) describe the nature and basis of the claim or dispute; and (ii) set forth the specific relief sought (“
+Demand
+”). The parties will make good faith efforts to resolve the claim directly, but if the parties do not reach an agreement to do so within 30 days after the Notice of Arbitration is received, you or ServiceTitan may commence an arbitration proceeding. All arbitration proceedings between the parties will be confidential unless otherwise agreed by the parties in writing. During the arbitration, the amount of any settlement offer made by you or ServiceTitan must not be disclosed to the arbitrator until after the arbitrator makes a final decision and award, if any. If the arbitrator awards you an amount higher than the last written settlement amount offered by ServiceTitan in settlement of the dispute prior to the award, ServiceTitan will pay to you the higher of: (A) the amount awarded by the arbitrator; or (B) $10,000.
+(f) Fees
+. If you commence arbitration in accordance with the Agreement, ServiceTitan will reimburse you for your payment of the filing fee, unless your claim is for more than $10,000, in which case the payment of any fees will be decided by the AAA Rules. Any arbitration hearing will take place at a location to be agreed upon in Los Angeles County, California, but if the claim is for $10,000 or less, you may choose whether the arbitration will be conducted: (i) solely on the basis of documents submitted to the arbitrator; (ii) through a non-appearance based telephone hearing; or (iii) by an in-person hearing as established by the AAA Rules in the county (or parish) of your billing address. If the arbitrator finds that either the substance of your claim or the relief sought in the Demand is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all fees will be governed by the AAA Rules. In that case, you agree to reimburse ServiceTitan for all monies previously disbursed by it that are otherwise your obligation to pay under the AAA Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator must issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based. The arbitrator may make rulings and resolve disputes as to the payment and reimbursement of fees or expenses at any time during the proceeding and upon request from either party made within 14 days of the arbitrator’s ruling on the merits.
+(g) No Class Actions
+.
+YOU AND SERVICETITAN AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. FURTHER, UNLESS BOTH YOU AND SERVICETITAN AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON OR ENTITY’S CLAIMS, AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A REPRESENTATIVE OR CLASS PROCEEDING. ALSO, THE ARBITRATOR MAY AWARD RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE RELIEF NECESSITATED BY THAT PARTY’S INDIVIDUAL CLAIM(S), EXCEPT THAT YOU MAY PURSUE A CLAIM FOR AND THE ARBITRATOR MAY AWARD PUBLIC INJUNCTIVE RELIEF UNDER APPLICABLE LAW TO THE EXTENT REQUIRED FOR THE ENFORCEABILITY OF THIS PROVISION.
+(h) Modifications to this Arbitration Provision
+. If ServiceTitan makes any future change to this arbitration provision, other than a change to ServiceTitan’s address for Notice of Arbitration, you may reject the change by sending us written notice within 30 days of the change to ServiceTitan’s address for Notice of Arbitration, in which case your account with ServiceTitan will be immediately terminated and this arbitration provision, as in effect immediately prior to the changes you rejected will survive.
+(i) Enforceability
+. If Section 20A(g) or the entirety of this Section 20A is prohibited by applicable law or found by a court of competent jurisdiction to be unenforceable, or if ServiceTitan receives an Opt-Out Notice from you, then the entirety of this Section 20A will be null and void and, in that case, the exclusive jurisdiction and venue described in Section 21 will govern any action arising out of or related to the Agreement.
+20B. Arbitration Agreement
+IF YOU ENTERED INTO THE AGREEMENT ON OR AFTER DECEMBER 7, 2022, OR YOUR ORDER FORM OR OTHER WRITTEN AGREEMENT WITH SERVICETITAN THAT INCORPORATES THESE TERMS OF USE HAS AN EFFECTIVE DATE ON OR AFTER DECEMBER 7, 2022, THEN THIS SECTION 20B BELOW APPLIES IN LIEU OF SECTION 20A.
+(a)
+Agreement to Arbitrate
+. This Section 20B is referred to as the “Arbitration Agreement.”  Customer agrees that any and all disputes or claims that have arisen or may arise between Customer and ServiceTitan, whether arising out of or relating to the Agreement, shall be resolved exclusively through final and binding arbitration, rather than a court, in accordance with the terms of this Arbitration Agreement, except that Customer may assert individual claims in small claims court, if Customer’s claims qualify. Customer agrees that, by agreeing to this Arbitration Agreement, Customer and ServiceTitan are each waiving the right to a trial by jury or to participate in a class action. This Arbitration Agreement includes all claims arising out of or relating to any aspect of the Agreement, whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, and regardless of whether a claim arises during or after the termination of the Agreement.  Each party’s rights will be determined by a neutral arbitrator, not a judge or jury.  The Federal Arbitration Act governs the interpretation and enforcement of this Arbitration Agreement.  Notwithstanding the foregoing, this Arbitration Agreement shall not preclude either party from pursuing a court action for the sole purpose of obtaining a temporary restraining order or preliminary injunction in circumstances in which such relief is appropriate; provided that any other relief shall be pursued through an arbitration proceeding pursuant to this Arbitration Agreement.
+(b)
+Prohibition of Class and Representative Actions and Non-Individualized Relief
+. Customer and ServiceTitan agree that each may bring claims against the other only on an individual basis and not as plaintiff or class member in any purported class or representative action or proceeding. Unless both Customer and ServiceTitan agree otherwise, the arbitrator may not consolidate or join more than one person’s or party’s claims and may not otherwise preside over any form of a consolidated, representative, or class proceeding.  Also, the arbitrator may award relief (including monetary, injunctive, and declaratory relief) only in favor of the individual party seeking relief and only to the extent necessary to provide relief necessitated by that party’s individual claim(s).
+(c)
+Pre-Arbitration Dispute Resolution
+. ServiceTitan is always interested in resolving disputes amicably and efficiently, and most participant concerns can be resolved quickly and to the participant’s satisfaction by emailing your designated ServiceTitan customer support team.  If such efforts prove unsuccessful, a party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute (“Notice”).  The Notice to ServiceTitan should be sent to ServiceTitan, Inc., 800 N. Brand Blvd., Suite 100, Glendale, CA 91203, ATTN: Legal.  The Notice must (i) describe the nature and basis of the claim or dispute and (ii) set forth the specific relief sought.  If ServiceTitan and Customer do not resolve the claim within sixty (60) calendar days after the Notice is received, ServiceTitan or Customer may commence an arbitration proceeding.  During the arbitration, the amount of any settlement offer made by ServiceTitan or Customer shall not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which Customer or ServiceTitan is entitled.
+(d)
+Arbitration Procedures
+. Arbitration will be conducted by a neutral arbitrator in accordance with the American Arbitration Association’s (“AAA”) rules and procedures, including the AAA’s Commercial Arbitration Rules (collectively, the “AAA Rules”), as modified by this Arbitration Agreement. Any arbitration hearing will take place at a location to be agreed upon in Los Angeles County, CA; if the parties are unable to agree on a location within Los Angeles County, CA, the determination shall be made by AAA. If there is any inconsistency between any term of the AAA Rules and any term of this Arbitration Agreement, the applicable terms of this Arbitration Agreement will control unless the arbitrator determines that the application of the inconsistent Arbitration Agreement terms would not result in a fundamentally fair arbitration.  All issues are for the arbitrator to decide, including, but not limited to, issues relating to the scope, enforceability, and arbitrability of this Arbitration Agreement.  The arbitrator can award the same damages and relief on an individual basis that a court can award to an individual under this Agreement and applicable law.  Decisions by the arbitrator are enforceable in court and may be overturned by a court only for very limited reasons.  If Customer’s claim is for $10,000 or less, ServiceTitan agrees that Customer may choose whether the arbitration will be conducted solely on the basis of documents submitted to the arbitrator, through a telephonic hearing or by an in-person hearing as established by the AAA Rules.  If Customer’s claim exceeds $10,000, the right to a hearing will be determined by the AAA Rules.  Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the award is based.
+(e)
+Costs of Arbitration
+. Payment of all filing, administration, and arbitrator fees (collectively, the “Arbitration Fees”) will be governed by the AAA Rules, unless otherwise provided in this Arbitration Agreement.  Any payment of attorneys’ fees will be governed by the AAA Rules.
+(f)
+Confidentiality
+. All aspects of the arbitration proceeding, and any ruling, decision, or award by the arbitrator, will be strictly confidential for the benefit of all parties.
+(g)
+Severability
+. If a court or the arbitrator decides that any term or provision of this Arbitration Agreement other than clause (b) above is invalid or unenforceable, the parties agree to replace such term or provision with a term or provision that is valid and enforceable and that comes closest to expressing the intention of the invalid or unenforceable term or provision, and this Arbitration Agreement shall be enforceable as so modified.  If a court or the arbitrator decides that any of the provisions of clause (b) above are invalid or unenforceable, then the entirety of this Arbitration Agreement shall be null and void.  The remainder of the Agreement will continue to apply.
+21.
+Governing Law
+The Agreement is governed by the laws of the State of California without regard to conflict of law principles. Subject to Section 20A or 20B, as applicable, you and ServiceTitan hereby irrevocably and unconditionally submit and attorn to the personal and exclusive jurisdiction of the state courts and federal courts located within Los Angeles County, California for resolution of any lawsuit or court proceeding permitted under the Agreement. We operate the Service from our offices in California and offer the Service in the United States and Canada. We make no representation that the Service is appropriate or available for use in other locations. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded.
+22.
+Waiver
+No waiver by any party of any of the provisions of the Agreement will be effective unless explicitly set forth in writing and signed by the party so waiving. Except as otherwise set forth in the Agreement, (i) no failure to exercise, or delay in exercising, any rights, remedy, power, or privilege arising from the Agreement will operate or be construed as a waiver thereof, and (ii) no single or partial exercise of any right, remedy, power, or privilege hereunder will preclude any other or further exercise thereof or the exercise of any other right, remedy, power, or privilege.
+23.
+Severability
+If any part of the Agreement is found by a court of competent jurisdiction to be illegal, unenforceable, or invalid, the remaining portions of the Agreement will remain in full force and effect.
+24.
+Privacy Policy
+The Service collects information that you specifically and knowingly provide, and uses technological measures to collect information about you and your use of the Service. We may additionally collect information about you from third-party sources in connection with your use of the Service. By using the Service, you consent to the collection, use, disclosure and retention of your personal information by or on behalf of ServiceTitan as explained in the ServiceTitan Privacy Policy (
+https://www.servicetitan.com/legal/privacy-policy
+) (the “
+Privacy Policy
+”), as revised from time to time, and as otherwise permitted by applicable law.  Subject to the foregoing, to the extent we process your data or your customers’ data on your behalf in our capacity as a service provider, the terms of the DPA will apply to such processing activities.
+25. Additional Terms
+Your use of the Service is subject to all additional terms, policies, rules, product documentation, published materials or guidelines applicable to the Service or certain features of the Service that we may post on or link to from the Service (the “
+Additional Terms
+”). All Additional Terms are incorporated by this reference into, and made a part of, the Agreement. Without limiting the foregoing, your use of certain ServiceTitan products shall be subject to the product-specific terms and conditions set forth on Attachment 1 hereto, which are incorporated by reference into the Agreement.
+26.
+Consent to Electronic Communications
+(a)  By using the Service, you consent to receiving certain electronic communications from us as further described in our Privacy Policy and this Section 26. Please read our Privacy Policy to learn more about our electronic communications practices. You agree that any notices, agreements, disclosures, or other communications that we send to you electronically will satisfy any legal communication requirements, including that those communications be in writing.
+(b)  By entering into the Agreement, you agree on behalf of yourself and any of your employees and contractors to receive calls and text messages from ServiceTitan and persons acting on our behalf at the telephone numbers you or they provided to us. You understand and agree that these calls and text messages may be made using an autodialer, artificial or prerecorded voice, or other automated technology. These communications may include operational communications concerning your account, communications regarding the Service and marketing communications. Standard text messaging rates will apply. This agreement to receive promotional calls and texts is not a condition of any purchase or of use of the Service.
+(c)  We and our Affiliates and third party service providers may also communicate with you by email and push notifications in our Mobile Apps.
+(d)  IF YOU WISH TO OPT OUT OF COMMERCIAL EMAILS FROM SERVICETITAN, YOU CAN UNSUBSCRIBE BY FOLLOWING THE UNSUBSCRIBE OPTIONS IN THE EMAIL ITSELF. IF YOU WISH TO OPT OUT OF PROMOTIONAL TEXTS, REPLY “STOP” TO A PROMOTIONAL TEXT OR  SEND AN EMAIL TO
+OPTOUT@SERVICETITAN.COM
+WITH THE PHONE NUMBER AND YOUR REQUEST. TO OPT OUT OF PROMOTIONAL CALLS, PLEASE MAKE A DO NOT CALL REQUEST DURING ANY CALL YOU RECEIVE, OR CALL US AT (866) 622-0680.
+27.
+Notice to California Residents
+If you are a California resident, under California Civil Code Section 1789.3, you may contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 N. Market Blvd., Suite S-202, Sacramento, California 95834, or by telephone at (800) 952-5210 in order to resolve a complaint regarding the Service or to receive further information regarding use of the Service.
+28.
+International Use; Export Control; Anti-Corruption
+The Service is intended for use within the United States and Canada. We make no representation or warranty that the Service is appropriate or available for use or will function outside of the United States and Canada. Access to the Service from countries or territories or by individuals where such access is illegal is prohibited. Software available in connection with the Service and the transmission of applicable data, if any, is subject to United States export controls. No software (including the Mobile Apps) may be downloaded from the Service or otherwise exported or re-exported in violation of U.S. export laws. Downloading or using any software (including the Mobile Apps) is at your sole risk. You certify that you are not on any of the relevant U.S. or Canadian government lists of prohibited persons, including the Treasury Department’s List of Specially Designated Nationals and the Commerce Department’s List of Denied Persons or Entity List. You further certify that you will not export, re-export, ship, transfer or otherwise use the ServiceTitan Technology in any country subject to an embargo or other sanction by the United States, including Iran, Syria, Cuba, Sudan, Russia, the Crimea region of Ukraine, and North Korea and that you will not use the ServiceTitan Technology for any purpose prohibited by applicable export laws, including, but not limited to, nuclear, chemical, missile or biological weapons related end uses. You have not received or been offered any illegal or improper bribe, kickback, payment, gift, or thing of value from any of our employees or agents in connection with the Agreement. Reasonable gifts and entertainment provided in the ordinary course of business do not violate the above restriction. If you learn of any violation of the above restriction, you will use reasonable efforts to promptly notify us at
+legalinquiry@servicetitan.com
+.
+29. Third-Party Services and Websites
+(a) Third-Party Services
+. The Service may provide links or other access to services, sites, technology, and resources that are provided or otherwise made available by third parties (each a “
+Third-Party Service
+”). Your access and use of Third-Party Services may be subject to additional terms and conditions, privacy policies, or other agreements with such third party, and you may be required to authenticate to or create separate accounts to use Third-Party Services on the websites or via the technology platforms of their respective providers. Certain Third-Party Services will provide us with access to certain information that you have provided to third parties, including through such Third-Party Services, and we will use, store and disclose such information in accordance with our Privacy Policy and/or the DPA, as applicable. In addition, certain Third-Party Services may operate in conjunction with the Service, such as by exchanging data with the Service. For more information about the implications of activating Third-Party Services and our use, storage and disclosure of information related to you and your use of such Third-Party Services within the Service, please see our Privacy Policy. We have no control over and are not responsible for such Third-Party Services, including with respect to the accuracy, availability, reliability, or completeness of information or content generated or shared by, or made available through, such Third-Party Services, or on the privacy practices of Third-Party Services.  We encourage you to review the privacy policies of the third parties providing Third-Party Services prior to using such services. You, and not ServiceTitan, will be responsible for any and all costs and charges associated with your use of any Third-Party Services. We enable these Third-Party Services merely as a convenience and the integration or inclusion of such Third-Party Services does not imply an endorsement or recommendation - we do not make any representations or warranties regarding any such Third-Party Services, whether or not such products or services are designated by us as “certified,” “validated,” “supported” or otherwise. Any dealings you have with third parties while using the Service are between you and the third party. We will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any Third-Party Services. We may terminate the interconnectivity between any Third-Party Service and the Service at any time for any reason, including changes in interoperability requirements, policies or fees charged by such Third-Party Services to ServiceTitan or our customers.
+(b) Google Maps
+. Google Maps presented to you through the Service are powered by Google. Your use of Google Maps is subject to the Google Maps Terms of Service, available online at
+https://www.google.com/intl/en-US_US/help/terms_maps.html
+, and
+https://www.google.com/intl/ALL/policies/privacy/index.html
+, and by using the Service, you are agreeing to be bound by such terms.
+(c) Additional Third-Party Services
+. Certain additional terms that apply to your use of Third-Party Services within certain features or functionality of the Service are attached to the Agreement. If you access or use those features or functionality, you hereby agree to those additional terms.
+30.
+Third-Party Distribution Channels
+(a) Distribution Channels
+. This Section 30 only applies to the extent you are using our Mobile App on a mobile device. ServiceTitan makes available our Mobile App through the Apple App Store, the Google Play Store, or other distribution channels (“
+Distribution Channels
+”). If you obtain our Mobile App through a Distribution Channel, you may be subject to additional terms of the Distribution Channel. The Agreement is between you and us only, and not with the Distribution Channel. To the extent that you utilize any other third-party products and services in connection with your use of the Service, you agree to comply with all applicable terms of any agreement for such third-party products and services.
+(b) Apple-Enabled Software
+. With respect to Mobile Apps that are made available for your use in connection with an Apple-branded product, in addition to the other terms and conditions set forth in the Agreement, the following terms and conditions apply. You acknowledge that the Agreement is between you and ServiceTitan only, not with Apple Inc. (“
+Apple
+”), and Apple is not responsible for the Mobile App or the content thereof. You may not use the Mobile App in any manner that is in violation of or inconsistent with the “Usage Rules” set forth for the Mobile App in, or otherwise be in conflict with, the Apple Media Services Terms and Conditions. Your license to use the Mobile App is limited to a non-transferable license to use the Mobile App on an iOS product that you own or control, as permitted by the “Usage Rules” set forth in the Apple Media Services Terms and Conditions, except that such Apple-Enabled Software may be accessed and used by other accounts associated with the purchaser via Apple’s Family Sharing or volume purchasing programs. Apple has no obligation to furnish any maintenance and support services with respect to the Mobile App. Apple is not responsible for any product warranties, whether express or implied by law. If the Mobile App fails to conform to any applicable warranty, you may notify Apple and Apple will refund any applicable purchase price for the Mobile App, if any, to you; and, to the maximum extent permitted by applicable law, Apple has no other warranty obligation with respect to the Mobile App, or any other claims, losses, liabilities, damages, costs, or expenses attributable to any failure to conform to any warranty, which will be ServiceTitan’s sole responsibility, to the extent it cannot be disclaimed under applicable law. Apple is not responsible for addressing any claims by you or any third party relating to the Mobile App or your possession and/or use of the Mobile App, including: (a) product liability claims; (b) any claim that the Mobile App fails to conform to any applicable legal or regulatory requirement; or (c) claims arising under consumer protection or similar legislation. Apple is not responsible for the investigation, defense, settlement and discharge of any third party claim that the Mobile App and/or your possession and use of the Mobile App infringe a third party’s intellectual property rights. You agree to comply with any applicable third party terms when using the Mobile App. Apple and Apple’s subsidiaries are third party beneficiaries of the Agreement, and upon your acceptance of the Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third party beneficiary of the Agreement. You hereby represent and warrant that: (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties. You must comply with applicable third-party terms of agreement when using the Mobile App, e.g., your wireless data service agreement. If you have any questions, complaints, or claims with respect to the Mobile App, they should be directed to us as follows:
+legalinquiry@servicetitan.com
+, 855-899-0970, 800 N. Brand Blvd., Ste. 100, Glendale, CA 91203.
+(c) Google-Sourced Software
+.  The following applies to any Mobile App you download from the Google Play Store (“
+Google-Sourced Software
+”): (i) you acknowledge that the Agreement is between you and ServiceTitan only, and not with Google, Inc. (“
+Google
+”); (ii) your use of Google-Sourced Software must comply with Google’s then-current Google Play Terms of Service; (iii) Google is only a provider of Google Play where you obtained ServiceTitan’s Google-Sourced Software; (iv) ServiceTitan, and not Google, is solely responsible for the Google-Sourced Software; (v) Google has no obligation or liability to you with respect to Google-Sourced Software or the Agreement; and (vi) you acknowledge and agree that Google is a third-party beneficiary to the Agreement as it relates to ServiceTitan’s Google-Sourced Software.
+31.
+Entire Agreement
+The Agreement, along with any Additional Terms, and any agreements or order forms that reference the Agreement, are the final and complete expression of the agreement between these parties regarding your use of the Service. The Agreement supersedes, and the terms of the Agreement govern, all previous oral and written communications regarding these matters, all of which are merged into the Agreement. No employee, agent, or other representative of ServiceTitan has any authority to bind ServiceTitan with respect to any statement, representation, warranty, or other expression unless the same is specifically set forth in the Agreement. No usage of trade or other regular practice or method of dealing between the parties will be used to modify, interpret, supplement, or alter the terms of the Agreement. ServiceTitan will not be bound by, and specifically objects to, any term, condition, or other provision that is different from or in addition to the Agreement (whether or not it would materially alter the Agreement) that is proffered by Customer in any receipt, acceptance, purchase order, confirmation, correspondence, Customer procurement portal or similar location, or otherwise, and all such terms or conditions are hereby rejected and shall be null and void, regardless of whether such purchase order, procurement or order documentation or other documentation is executed by the parties.
+32.
+U.S. Government Restricted Rights
+The Service is made available to the U.S. government with “RESTRICTED RIGHTS.” Use, duplication, or disclosure by the U.S. government is subject to the restrictions contained in 48 CFR 52.227-19 and 48 CFR 252.227-7013 et seq. or its successor. Access or use of the Service (including any Mobile App or Ancillary Software) by the U.S. government constitutes acknowledgement of our proprietary rights in the Service (including the Mobile Apps and Ancillary Software).
+Attachment 1
+ADDITIONAL TERMS FOR SERVICETITAN TELEPHONY SERVICES
+(a)
+If you register to use ServiceTitan’s Phones Pro™ or Contact Center Pro™ services or use other telephony services or functionality within the Service (individually and collectively, the “ServiceTitan Telephony Services”), your use of such services and functionality is subject to these additional terms and conditions.
+(b) Upgrades and Downgrades
+.
+You may upgrade to ServiceTitan Phones Pro or Contact Center Pro at any time during the month. For subscription upgrades to ServiceTitan Phones Pro or Contact Center Pro, you will be charged the prorated difference between the Standard and Advanced license fees for the remainder of the active billing cycle.  Additional licenses for these services may be purchased at the same pricing during the term, with fees prorated for partial months, and you may make adjustments in the actual number of licenses from time to time, provided that you must always purchase a number of licenses equal to or greater than the Minimum Subscription Level as defined in your customer success agreement (or other written agreement with us, as applicable).
+(c) Partnerships
+.
+ServiceTitan Telephony Services require the ongoing disclosure and transmittal of your business and personal information (including Customer Data) to third party subprocessors in order to provide and support such ServiceTitan Telephony Services and you agree to such disclosure and transmittal.
+(d) Charges
+.
+Our charges for ServiceTitan Telephony Services may also include Federal Universal Service, Regulatory and Administrative Charges, and we may also include other charges related to our government costs. Some of these charges are required by law, and others are pass-through charges assessed by ServiceTitan. To the extent permissible by law, ServiceTitan may retain such sums in whole or in part, and may change the amounts assessed and the fees or costs that they cover. An explanation of these charges is available on ServiceTitan’s website and/or Customer’s invoice.
+(e) Transcripts
+. Customer acknowledges that summaries and transcripts generated in connection with Customer’s use of ServiceTitan Telephony Services hereunder shall not be available for download, export or similar data tasks and as a result are not available outside of ServiceTitan Technology.
+(f) With respect to ServiceTitan Telephony Services, North American phone numbers you port into the Service are handled in accordance with either the Federal Communications Commission (FCC) or Canadian Radio-television and Telecommunications Commission (CRTC) “local number portability” (LNP) rules. ServiceTitan ports local and toll-free numbers for Customers to use for call tracking and recording purposes in the Service.  Customer will remain the customer of record for any number that the Customer ports to the Service or obtains through the Service and such numbers are eligible to be ported out at any time. ServiceTitan will not attempt to hold or restrict the transfer of any such number or prevent an authorized port. ServiceTitan does not impose any port in or port out fees. You must establish an account with an alternate telephony provider and port your numbers from the Service to your account with such alt

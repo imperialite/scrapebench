@@ -1,0 +1,5 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /partialCompare
+Disallow: /playtester-v2/
+Disallow: /sandbox?

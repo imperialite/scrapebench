@@ -1,0 +1,108 @@
+EDGE Pipeline
+Responsive Mobile Menu Nli
+Dashboard
+Research
+Post-Sale
+Market Report Tool
+Post Sale Results
+No Sale Lists
+No Sale Search
+Browse
+Pre-Sale Lists
+Consignors
+Auction Directory
+My Purchases
+See All Purchases
+Montway Transportation Services
+My Watch List
+Account
+Sign In
+Sign Up Now!
+Forgot Password?
+What's New!
+Sign In
+My Account Nli Menu
+My Account
+Sign In
+Sign Up Now!
+Forgot Password?
+EDGE Pipeline
+Getting there has never been easier.
+Main Menu
+Research
+Post-Sale
+Market Report Tool
+Post Sale Results
+No Sale Lists
+No Sale Search
+Browse
+Pre-Sale Lists
+Consignors
+Auction Directory
+My Purchases
+See All Purchases
+Montway Transportation Services
+My Watch List
+My Account Nli Menu
+My Account
+Sign In
+Sign Up Now!
+Forgot Password?
+AUCTION EDGE END USER LICENSE AGREEMENT V1.0.3
+IMPORTANT - PLEASE READ CAREFULLY
+This End User License Agreement, as amended and updated from time to time, is between You and Us and governs the terms and conditions applicable to Your access to and use of Our Website and Protected Systems (the "Terms"). You accept the Terms of this End User License Agreement by clicking to "accept and agree" where indicated or by simply using Our Website or other Protected Systems. If you do not agree with the Terms, do not use Our Website or other Protected Systems. The Terms include the following:
+1. Expectation
+1.1 Exclusive Ownership and No License to Use:
+As between You and Us, any and all rights to and in any materials, photos, data, information, text and relationship among the same, meta data and other content (the "Content") on the Auction Edge Website, EDGE Pipeline, EDGE Lookout websites, EDGE CR Simplified, EDGE mobile applications, EDGE Spark, EDGE ASI, EDGE AOS, related EDGE properties and services, as may be offered from time to time or which can reasonably be considered a Protected Computer, as well as syndication of such Content to authorized providers and their related properties (the "Protected Systems")  are and shall remain the sole and exclusive property of Auction Edge. You may view the Content. However, You have
+no license to use
+the Content in any other way, unless explicitly permitted by another agreement. Some examples of prohibited uses include, but are not limited to scraping images, scraping data or scraping any other information or Content. Browser plugins which leverage data or Content are explicitly prohibited. Reselling or reusing the Content is explicitly prohibited. Using the Content for machine learning of any kind, such as training an algorithm or bot, is explicitly prohibited. If you have a question on whether a particular use is permitted, contact
+support@auctionedge.com
+. EDGE Pipeline and all Protected Systems shall each and all be considered a Protected Computer according to U.S. Code, Title 18, Part 1, Chapter 47, section 1030.
+BE ADVISED
+that data scraping is a form of trespass that is actionable;  data scraping violates the federal Computer Fraud and Abuse Act ("CFAA") as a form of hacking; and data scraping is a form of copyright infringement that is actionable.
+1.2 Privacy:
+If you are a business or other entity, such a corporation, limited liability company, partnership or trust, You represent and warrant to Us that You have taken all steps and measures required by all applicable law to protect the personal information or data of any natural person.If you are a natural person, it is Your responsibility to review our Privacy Policy and decide whether to use our sites and services or not.  As used herein, "personal information", "personal data", and "personally identifiable information" means information that identifies, relates to, describes, is reasonably capable of being associated with, or could be reasonably linked, directly or indirectly, with a particular consumer or household. Our collection, use and disclosure of personally identifying information is described in the Auction Edge (AE) Privacy Policy and can be found on Our Website or below, and is fully incorporated into this Agreement by reference. By accessing the Auction Edge Websites or any other Auction Edge system, You agree to the AE Privacy Policy. If you violate the AE Privacy Policy, you will be fully and solely responsible for the consequences of that violation, including any damage to Us or any other person. If you have questions about the AE Privacy Policy, You may review it in its entirety by visiting https://www.auctionedge.com/privacy-policy.
+1.3 Keeping Personally Identifiable Information Private:
+You will be solely responsible for the safekeeping and security of any data and other Content you access through the Auction Edge Website. You agree that you will only access the Auction Edge Website from a non-public and secure password protected internet browser and provider. Except as expressly permitted in the Auction Edge Privacy Policy, you will not store, transmit, copy or otherwise disclose or allow access to any Content that may contain personally identifiable information included therein.
+1.4 Addition to or Removal of Content:
+We reserve the right at any time to change the Content located on Our Website or any Protected System, either by adding new Content or changing or removing existing Content. You agree that such changes may be made regardless of their impact or potential impact on You and your use of the site. You have no right to alter, remove or add Content to the Auction Edge Website, related properties and services.
+1.5 Indemnification:
+YOU AGREE TO INDEMNIFY, DEFEND (through counsel acceptable to Auction Edge and at Your sole cost and expense) AND HOLD AUCTION EDGE AND ITS AFFILIATES HARMLESS FROM AND AGAINST ANY AND ALL CLAIMS, LIABILITY, DAMAGES, AND/OR COSTS OF ANY KIND OR NATURE WHATSOEVER, INCLUDING BUT NOT LIMITED TO REASONABLE ATTORNEYS' FEES, INCURRED IN CONNECTION WITH OR ARISING OUT OF: (A) ANY BREACH OF YOUR OBLIGATION TO PROTECT THE SECURITY AND PREVENT THE DISCLOSURE OF CONTENT THAT MAY CONTAIN IDENTIFIABLE PERSONAL PRIVATE INFORMATION, OR (B) YOUR FAILURE TO STRICTLY COMPLY WITH AE PRIVACY POLICY; OR (C) YOUR VIOLATION OR BREACH OF THE TERMS OF THIS AGREEMENT OR ANY APPLICABLE LAW OR REGULATION, WHETHER OR NOT REFERENCED HEREIN.
+1.6 Your Liability:
+Violations of this End User License Agreement may result in removal of Your access to the Protected Systems indefinitely as well as Our pursuit of legal recourse against You and related parties, including pursuing damages which may be calculated at Our sole discretion. Such discretion is explicitly acknowledged by your use of the Protected Systems, regardless of where You or related parties are domiciled.
+BE ADVISED
+that data scraping is a form of trespass that is actionable;  data scraping violates the federal Computer Fraud and Abuse Act ("CFAA") as a form of hacking; and data scraping is a form of copyright infringement that is actionable.
+2. Disclaimer of Warranties and Limitation of Liability
+2.1 No Warranties:
+YOUR USE OF OUR WEBSITE AND PROTECTED SYSTEMS IS PROVIDED AS A COURTESY ONLY WITH NO REPRESENTATIONS OR WARRANTIES FROM US OF ANY KIND OR NATURE WHATSOEVER INCLUDING BUT NOT LIMITED TO THE ABSENCE OF ANY EXPRESS WARRANTY, IMPLIED WARRANTY AND IMPLIED WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE. YOU EXPRESSLY AGREE AND UNDERSTAND THAT YOUR ACCESS TO OUR WEBSITE  AND PROTECTED SYSTEMS AND THE CONTENT POSTED THEREON IS PROVIDED ON AN "AS IS" BASIS WITH NO WARRANTIES WHATSOEVER.
+2.2 No Liability:
+ACCORDINGLY, YOU ACKNOWLEDGE AND AGREE THAT AUCTION EDGE, ITS AFFILIATES, AND ITS VENDORS AND THIRD PARTY LICENSORS WILL HAVE NO LIABILITY IN CONNECTION WITH OR ARISING FROM YOUR USE OF THE AUCTION EDGE WEBSITE AND ANY CONTENT LOCATED THEREON.
+3. MISCELLANEOUS
+3.1 Changes to these Terms:
+We may make changes to these Terms, from time to time. At our sole discretion, we will notify You of such changes either via email to the address we have on file or via an announcement on the relevant Protected System or via an update to this Agreement as posted on EDGE Pipeline. We advise You to check the Agreement for updates from time to time and You acknowledge that it is Your responsibility to do so. You agree that Your continued use of a Protected System constitutes Your agreement with the Terms and continued agreement to comply with the Terms.
+AUCTION EDGE PRIVACY POLICY V2.1.0
+IMPORTANT - PLEASE READ CAREFULLY
+This policy is meant to help you understand, in general, the data we collect, why we collect it and some of the ways in which it may be used. It also explains how you can manage or have the information deleted. We may modify or amend this policy at any time and for any reason.
+Please check back with this policy from time to time to remain current or if you have privacy concerns.
+We build and service a range of websites and products. This policy pertains to all sites, products or services provided by Auction Edge, such as EDGE Pipeline, AuctionEdge.com, EDGE ASI, EDGE AOS, EDGE DATA, EDGE CR Simplified, EDGE Spark, EDGE Lookout sites and others. Our sites, products or services may, from time to time, include links or offerings from third parties. Any third parties will likely provide their own independent privacy policies. We are neither responsible nor liable for the privacy policies of third parties. Please note that our sites, products and services are designed for enterprise customers, and the information we collect is typically collected in a commercial context. As a result, many U.S. state privacy laws do not apply to personal information we process under this policy.
+By using, visiting or browsing the sites, products or services, you acknowledge that you have read, understood, and agreed to this Policy and any modifications that may be made to it from time to time. By providing information to us, in any way, you agree and acknowledge that we are collecting this information and may use it in various ways. Please be advised that we do not knowingly comply with any EU-U.S. Data Privacy Framework, the UK-U.S. Data Privacy Framework, the Swiss-U.S. Data Privacy Framework or other Data Privacy Frameworks which may be in existence outside of the United States or between the United States and other countries or non-US Authorities, such as the European Union.
+If you are an EU citizen, someone to whom GDPR may apply, the citizen of another country or non-US authority with its own Data Privacy standards, or someone to whom a non-US data privacy policy may apply, do not use this site or our services.
+We do not make any representation that we are compliant with those policies. If you are a natural person in the State of California, please review the section in this policy labeled Consumer Privacy Provisions.
+If you are under the age of 16 do not use our sites, products or services.
+In general, we collect information to help improve our services and the products or services which we offer to you and our customers. The information may be licensed or shared with third parties. The information may be used by our customers and third parties for purposes of their businesses. The information may also be used to respond to reasonable inquiries from regulatory and/or investigative authorities.
+Generally, we collect information that you provide to us and information that is generated by your use of our websites and products. As examples, information you provide may include your name, email address, mobile number, other phone numbers, information around your dealership and companies you do business with or for. This information may be required as part of registering with our sites, using our sites or being able to do business with any of our customers or partners. Information that is generated by your use of our websites and products may include, as examples, the devices you use, location information, the vehicles you look at, the vehicles you bid on, the vehicles you purchase, how you pay for vehicles, the services you order around those vehicles or around the way you do business with the companies you do business with and, how you do business.
+We may ask you to provide your mobile number to receive and potentially reply to text based notifications (standard carrier text and data rates may apply). This will strictly be on an opt-in basis. You will have the ability to opt-out of receiving these notifications.
+We use various technologies, methods and approaches to generate and collect data. For example, this includes things like cookies, tracking pixels, site analysis tools like Google Analytics and others, surveys and more. We also analyze data provided by you in various ways to generate further data about you. We also correlate data about you with other information to generate further data about you.
+If you have any questions about your data and how its being used, if you would like to manage your data, or if you’d like data to be deleted, please contact us at by calling us at 206-858-4826, emailing us at
+privacy@auctionedge.com
+or sending mail to Auction Edge, Inc., Attn: Privacy Policy, 1000 Corporate Centre Drive, Franklin, TN 37067, USA
+California Consumer Privacy Provisions.
+If you are a natural person residing in the State of California, the California Consumer Privacy Act gives you the following rights: (a) the right to know which personal information is being collected; (b) the right to know if personal data is being sold or shared, and to whom; (c) the right to object to the sale of your personal data; and (d) the right to access your personal information; and (f) the right to equal service and price, even if you exercise your privacy rights. In addition, you have the right to require that we disclose to you certain information about our collection and use of your personal information over the past 12 months. Once we receive and confirm your verifiable consumer request, we will disclose to you the following: (i) the categories of personal information we collected about you; (ii) the categories of sources for the personal information we collected about you; (iii) the specific pieces of personal information we have collected about you (a "data portability request"); (iv) our business or commercial purpose in collecting this information; (iv) the categories of parties with whom we have shared that personal information; and (v) if we share or disclose your personal information for a business or commercial purpose, we will disclose to you the category of personal information that each category of recipient obtained.
+To access data portability and deletion rights, as described above, or if you have any questions or concerns, submit a verifiable consumer request to us by either calling us at 206-858-4826 or emailing us at privacy@auctionedge.com.
+Only you, or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a verified consumer request related to your personal information. You may only make a verifiable consumer request for access or data portability twice within a 12-month period. The verifiable consumer request must provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative and describe your request with sufficient detail that allows us to properly understand, evaluate and respond to it.
+Copyright © Auction Edge. All rights reserved.
+All trademarks property of their owners.
+|
+Terms of Use
+|
+Help

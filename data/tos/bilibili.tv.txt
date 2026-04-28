@@ -1,0 +1,273 @@
+Currently updated on: 2022.06.08
+
+These Terms of Services together with its amendments and other supplementary agreements that we may provide from time to time (the “Terms”) constitute the agreement between the user (“User” or “you”) and Balaboom Pte. Ltd. (“BiliBili”, “we” or “us”). BiliBili will provide you with services that are available on our websites, mobile applications, and other associated platforms (“Services”) in accordance with these Terms.
+
+Please read through all of the Terms carefully before you use any of the Services, especially the sections in bold. If you do not agree to any of the Terms, please do not use our Services. If you continue to use any of the Services, you will be regarded as confirming that you can form a binding contract with BiliBili and you have understood and accepted the Terms entirely.
+
+Children under the age of 13 are not allowed to register and create their own accounts for the Services. If you are 13 above but are considered a minor in your country (e.g. under 18 years old in some jurisdictions), you must have your parent or legal guardian read through these Terms with you and you represent that you have obtained the permission of your parent or guardian to create your BiliBili account.
+
+Children of all ages may use the Services if such use is allowed by their parent or legal guardian. If you are a parent or legal guardian of a minor in your country, please make sure that you have read these Terms before allowing your child to create his/her own account or use the Services. You agree that you will be subject to the Terms and responsible for your child’s activities while using the Services. You agree to supervise your child’s use of the Services and make sure that your child only views the contents that are age appropriate to your children.
+
+ 
+
+1. Scope of Services
+
+1.1 Our Services shall be used only through the methods officially provided by BiliBili and only within the BiliBili platform in accordance with the Terms. If you register, log in, download or use any of the Services via any other means, channels, or methods or otherwise in violation of the Terms (“Unauthorized Use”), BiliBili will not recognize such Unauthorized Use. Once discovered, BiliBili has the right to terminate and delete the relevant account and content immediately, temporarily or permanently cease to provide you with part or all of our Services, or take other necessary measures. All the adverse consequences resulted from such Unauthorized Use shall be borne by you.
+
+1.2 BiliBili grants you only a non-transferable, non-exclusive, personal, limited, non-sublicensable license to use the Services (including the BiliBili account, marks, gifts and other similar products legally obtained in accordance with BiliBili’s relevant rules) in accordance with the Terms. In no event shall the aforesaid license granted be deemed to be a transfer of part or all of BiliBili’s Intellectual Property Rights to you. The ownership and intellectual property rights of the Services, and its derivatives, excluding the ownership of any physical products which are purchased or otherwise obtained by you in a legal manner, shall belong to BiliBili or its licensors where applicable. All other rights not expressly granted in the Terms shall be reserved by BiliBili and/or its licensors and your exercise of these rights shall be subject to the prior written consent from BiliBili.
+
+1.3 Under the Terms, “User” includes registered User and non-registered User. Users who have not registered and created account on BiliBili but use any of our Services will automatically become BiliBili’s “non-registered Users” when they download, install or use the Services.
+
+1.4 Our Services include providing you with various functions such as viewing video sharing, bullet chatting,etc.BiliBili has the right, at any time and from time to time, to change, upgrade, modify, terminate, withdraw or transfer the Services in whole or in part, or any functions and applications at any time at its sole and absolute discretion. You agree that BiliBili is not required to notify you of, and will not be liable to you for, such change, upgrade, modification termination, withdrawal or transfer. BiliBili may in its sole and absolute discretion to notify you by pop-up announcements, website announcements, in-app notification, etc.
+
+1.5 The Terms apply to you when you use any of the Services, unless there are separate terms of services that are applicable to a specific service on our Platform.
+
+1.6 For the avoidance of doubt, BiliBili shall not at any time be obliged to provide any adaptations, enhancements and/or modifications to the Services, including without limitation any updates, patches, bug-fixes and/or upgrades to the Services, or any new versions and/or releases of the Services which incorporate new features or functions.
+
+ 
+
+2. Registration and Account Management
+
+2.1 You may use some of the Services without registering an account. However, to use the complete set of functions of the Services (especially functions like video sharing and bullet chatting,), you need to create an account on BiliBili. You may create your account either with your phone number, your email address or third party accounts (e.g. Google, Facebook, Apple). You shall ensure that you provide authentic, correct, and complete information. You agree that if any of the registration information changes or is inaccurate, you will update it or notify BiliBili promptly.
+
+2.2 If you register an account or use the Services on behalf of a corporate entity, you hereby represent and warrant that you have been duly authorized and have the right to represent and bind such corporate entity to the terms of the Terms.
+
+2.3 You understand and agree that to the fullest extent by applicable laws, the ownership of the account shall belong to BiliBili and you only have the right to use such account subject to the Terms. The right to use an account shall only be vested in the original applicant for registration and shall not be transferred or provided to others in any manner.
+
+2.4 Any act committed under your BiliBili account in the Services will be deemed as being done by you or authorized by you, and you shall, therefore, bear the corresponding legal liabilities. You shall keep your account and password secure and confidential, not let others use the Services via your account or disclose your account and/or password to others, strengthen the security of the password, and prevent your account from divulgence or theft. To the maximum extent permitted under applicable law, you understand and agree that BiliBili shall not be liable to compensate any losses caused by the divulgence or theft of your BiliBili account that is not attributable to BiliBili. If you find or suspect that your account and/or password is used without authorization or incurs any other security issue, you shall notify us by the ways provided in Article 14 Contact Information immediately and effectively.
+
+2.5 You understand and agree that all the content of your use of the Services, including acceptance of the Terms and creation of a user account, will be represented by electronic files and all notifications from BiliBili to you will be made by email, message or other electronic means. You hereby agree that BiliBili may send you notifications and other relevant messages via email, application, web page or other legitimate means.
+
+2.6 You promise not to create or use BiliBili account or set your icon, user profile and other information engaging in any of the following acts:
+
+2.6.1 Deliberately and fraudulently using other’s information to create a BiliBili account for yourself;
+
+2.6.2 Creating a BiliBili account in the name of others without the legal authorization of others;
+
+2.6.3 Impersonating, stealing or embezzling other’s BiliBili account number, etc.;
+
+2.6.4 Using words, pictures, icons, etc. that may infringe upon the rights or interests of others (including but not limited to infringement of a third party’s trademark or other similar rights);
+
+2.6.5 Using offensive, abusive, defamatory, vulgar, political and other words, pictures, icons, etc. that violate laws, ethics and public order and good customs;
+
+2.6.6 Illegally occupying BiliBili’s related service resources, maliciously exploit website vulnerabilities through proper or improper means;
+
+2.6.7 Other actions that infringe on the legal rights of others or violate applicable laws.
+
+2.7 You agree that without prejudice to any other rights or remedies of BiliBili, BiliBili has the right to prohibit your registration of an account, delete your account, and/or suspend or terminate providing some or all of the Services to you if you violate the above provisions, with any losses incurred therefrom solely borne by you.
+
+ 
+
+3. User-Generated Content
+
+3.1 The User-Generated Content on BiliBili refers to any messages, articles, text, software, images, links, video, audio, music, photos, graphics, comments or any other form of content that is posted, uploaded, disseminated or otherwise transmitted by users to or via the Services (the “User-Generated Content”).
+
+3.2 For any of your User-Generated Content, you represent and warrant that you have fully complied with the BiliBili Community Guidelines and especially that you are the rightful owner or licensee of such content, and have the necessary rights or licenses to grant BiliBili the license to copy, modify, display, distribute, transmit and promote or otherwise use such User-Generated Content as set out in Article 3.3 below.
+
+3.3 Authorization of User-Generated Content
+
+Unless otherwise specifically agreed between you (or your licensee where applicable) and BiliBili, the intellectual property rights of any User-Generated Content posted, uploaded or otherwise transmitted by you to the BiliBili platform are owned by you (or your licensors where applicable). By posting, uploading or otherwise transmitting any User-Generated Content to the BiliBili platforms, you hereby agree to the followings:
+
+3.3.1 You grant BiliBili a permanent, irrevocable, non-exclusive, transferable, sub-licensable and royalty-free license all over the world to reproduce, modify, distribute, transmit, promote or otherwise use part or all of the User-Generated Content for (i) providing or maintaining the Services; (ii) to prevent or address service, support or technical issues; (iii) as required by law or as permitted by the Terms or our privacy policies; and (d) otherwise as expressly permitted by You.
+
+3.3.2 BiliBili reserves the right to refuse to accept, post, display, or transmit any User-Generated Content, and has the right to delete any User-Generated Content uploaded by you that are deemed to have violated the BiliBili Users’ Code of Conduct or any applicable laws.
+
+3.3.3 You can voluntarily delete your User-Generated Content in whole or in part, except for the User-Generated Content that has been reposted or otherwise reproduced and distributed by other users.
+
+3.3.4 BiliBili has the right to keep a backup of the aforementioned deleted User-Generated Content and may have kept a backup, but BiliBili has no obligation to keep a backup. For all risks or losses arising from your failure to store or back up such deleted User-Generated Content, you should take protective measures on your own. BiliBili is not responsible for providing and is not obliged to provide you with backups or files (if any) kept inside BiliBili.
+
+3.4 To improve the exposure of your User-Generated Content and to facilitate you in posting, uploading, or otherwise transmitting your User-Generated Content, you agree to authorize BiliBili, to the fullest extent allowed by law, to synchronize the User-Generated Content uploaded by you to all other Services operated by BiliBili under your BiliBili account. Any upload, modification, sharing, posting, deletion or other operations you made to your User-Generated Content will all be synchronized across the Services provided by BiliBili.
+
+3.5 You shall be solely responsible for any User-Generated Content posted, uploaded, sharing or otherwise transmitted by you to or via the Services, including but not limited to the form, content and lawfulness thereof. In particular, you shall make sure that any of your User-Generated Content shall be fully in compliance with Section 4 (Rules of Use) of the Terms and the BiliBili Users’ Code of Conduct as well as applicable laws.
+
+3.6 BiliBili cannot foresee or control the User-Generated Content uploaded via the Services. You understand and agree that BiliBili is an open community platform. Except for certain pages that have limits on viewing age or you have limited the scope of viewers, all Users can freely browse all public pages in BiliBili. Therefore, when you post or upload any User-Generated content or chat with other users, you shall be cautious that the information that you disclose may enable strangers or your relatives or friends to identify your identity in real life and may have certain impacts on your real life.
+
+3.7 You shall be solely responsible for the lawful use of any and all User-Generated Content you access via the Services, and shall be responsible for all risks arising out of using the User-Generated Content, including risks arising from reliance on the accuracy, completeness or practicability of the content. BiliBili cannot and will not assume any liability for any losses incurred by you due to the aforesaid risks. If you find any User-Generated Content that may have infringed your lawful rights and interests or is otherwise against the BiliBili Users’ Code of Conduct or applicable laws, you may report to BiliBili immediately. BiliBili has the right to stop the transmission of any content not compliant with the Terms and take corresponding actions in accordance with the law, including but not limited to deleting or restricting the accessibility of certain content, keeping relevant records and reporting to relevant authorities.
+
+ 
+
+4. Rules of Use
+
+4.1 When using the Services, you shall comply with the Terms, other notices, guidelines and operating rules and policies pertaining to the use of the Service which BiliBili issues from time to time, in particular the BiliBili Community Guidelines. These notices, guidelines and operating rules and policies will generally be issued to you via email and/or publication on BiliBili’s websites or such other method of notification as may be designated by BiliBili, which you acknowledge shall be sufficient notice for the purpose of this clause.
+
+4.2 You represent and warrant that you shall be acting in full compliance with the applicable laws and regulations in the country or region where you locate. You warrant and represent that BiliBili will not be in violation of any relevant laws as a result of your use of the Services and/or any other actions directly or indirectly through your use of the Services.
+
+4.3 Unless otherwise specified, the Services hereunder shall be used for non-commercial purposes only. You undertake not to duplicate, copy, sell, resell or use any part of the Services or the use or acquisition thereof for any commercial purposes including but not limited to advertising.
+
+4.4 You shall not publish any content including the name, brand name, logo or sign of “balaboom”, “BiliBili” or affiliates of BiliBili such as “cooperated with BiliBili/balaboom” and “produced by BiliBili/balaboom” or otherwise that may show or indicate any cooperative relationship between you with BiliBili or affiliates of BiliBili, to or via the Services without the prior written authorization of BiliBili. BiliBili has the right to block or delete any such content as it may see fit.
+
+4.5 You understand and agree that once BiliBili reasonably believes that the your use of the Services may violate the relevant laws, the Terms or the BiliBili Users’ Code of Conduct, BiliBili can, in its sole and absolute discretion delete and/or block any content you have made available on your account at any time without any notice, and take any further measures as it may see fit, including without limitation to its rights and remedies at law, suspending, terminating or repossessing your account, restricting, suspending or terminating your use of all or part of the Services.
+
+ 
+
+5. Third-party Services
+
+The Services may allow you to access and/or use third party applications and functions (collectively the “Third Party Services”). These include third party functions embedded in the Services such as payment functions. Such Third Party Services may be subject to additional terms and privacy policies as may be prescribed by the relevant third parties, which you should read, understand and accept before using the Third Party Service. You understand and agree that the Third Party Services are provided by the relevant third parties and not BiliBili. Unless otherwise provided, BiliBili shall assume no liability for your use of such Third Party Services, nor privacy practices or policies of any such Third Party Services.
+
+ 
+
+6. Intellectual Property Rights
+
+6.1 You understand and agree that unless otherwise specifically stated by BiliBili, all the intellectual property rights of the Services, including also the software, technologies, trademarks, materials, etc., used in the Services shall be owned and enjoyed by BiliBili or licensed to BiliBili as the case may be. Under the Terms, “Intellectual property rights” include any and all rights, and any and all other proprietary rights as specified in the patent law, copyright law, trademark law, fair trade law, trade secret law and other related laws and regulations, and any and all applications, updates, extension and restoration.
+
+6.2 Unless otherwise authorized by BiliBili in writing, you shall not (and shall not allow, encourage or facilitate any third party to) modify, copy, adapt, maliciously spread, lease, lend, sell or translate the Services or any part thereof, or create derivative works related to them, and shall not obtain their source code through reverse engineering, de-compilation, disassembly or other similar acts.
+
+6.3 Users shall not delete, cover up or change BiliBili’s copyright statement, trademark statement or statement of other rights without authorization. All design drawings and other drawings, product and service names of BiliBili are trademarks and marks owned by BiliBili and/or its affiliates or other rights holders, and you shall not use, copy or use them for other purposes without BiliBili’s prior written authorization.
+
+ 
+
+7. Disclaimer, Exclusion of Liability, Indemnity
+
+7.1 Unless otherwise expressly provided in writing, all Services provided by BiliBili to you are provided on an “as is” and “as is available” basis. No warranty of any kind, implied, express or statutory, including but not limited to any warranties of title, non-infringement of third party rights, merchantability, satisfactory quality, fitness for a particular purpose and freedom from computer virus or other malicious, destructive or corrupting code, agent, program or macros, is given in conjunction with the Services or any information, products and materials provided through the Services.
+
+7.2 Without prejudice to the generality of the foregoing, BiliBili does not warrant:(i) the accuracy, safety, timeliness, reliability, adequacy or completeness of the Services (ii) that your use of and/or access to the Services, or the operation of the Services, will be uninterrupted, secure or free from errors or omissions or that any identified defect will be corrected; (iii) that the Services will meet your requirements or is free from any virus or other malicious, destructive or corrupting code, agent, program or macros; (iv) that use of the Services by you will not infringe rights of third parties; (v) the accuracy, completeness, correctness or reliability of any content, information or advertisement containing, obtained via or connected to the Services in any way; or (vi) that the products, services, materials and information provided through the Services are appropriate or available for use in your jurisdiction. In the event that the laws of the jurisdiction you are in do not permit or impose restrictions on the access to any content on the Services, you shall forthwith discontinue access to such content or comply with such restrictions (as the case may be).
+
+7.3 You understand and agree that BiliBili is unable to guarantee that third parties will not intercept data transmitted over the Internet. As a result, BiliBili does not warrant the security of any information transmitted by or to you using the Services. Your use of any content or data downloaded or obtained through the Services shall be at your own risk, and you are fully liable for any damages to your computer systems or loss of data due to such use.
+
+7.4 Under no circumstance shall BiliBili be liable for any failure of or delay in providing the Services owing to internet connection failure, breakdown of computers, communication or other systems, power failure, strike, labor dispute, rebellion, insurrection, riot, lack of productivity or production materials, fire, flood, storm, explosion, force majeure, war, government act, order from an international or domestic court, or omission of a third party.
+
+7.5 BiliBili shall in no event be liable for any direct, indirect, incidental, derivative or punitive damages, economic loss, business reputation or data, or other tangible or intangible losses, arising from or in connection with:
+
+Ÿ the Services are totally or partially unavailable;
+
+Ÿ any products, materials or services purchased or obtained through the Services;
+
+Ÿ unauthorized use or modification of user information;
+
+Ÿ any other matters related to the Services.
+
+7.6 You understand and agree that you download and use the Services free of charge, at your own discretion and at your own risk, and you are solely liable for all consequences arising from your downloading and use of the Services, such as the damages to your computer system or loss of data.
+
+7.7 You understand and agree that BiliBili will not assume any legal liability for unrecoverable loss or reduction of your account or property in your account due to untrue authentication information.
+
+7.8 The exclusions in this Article 7and the other provisions of the Terms shall take effect to the fullest extent permitted by law. If for any reason BiliBili’s liability may not be so excluded, to the maximum extent permitted under law, the maximum aggregate liability of BiliBili in connection with your use or inability to use the Services and/or otherwise in connection with the Terms or any breach thereof shall not exceed USD100.
+
+ 
+
+8. Liability for Breach and Compensation
+
+8.1 If BiliBili discovers or receives reports from others that you have breached the Terms, BiliBili shall, without prejudice to its rights and remedies at law, have the right to delete and/or block your User-Generated Content at any time without any notice, and take such further measures as BiliBili deems appropriate in its sole and absolute discretion including without limitation restricting, suspending or terminating your use of all or part of the Services, and holding you legally liable.
+
+8.2 You agree that if any claim or demand is made by any third party against BiliBili, or any loss is incurred by BiliBili, due to or resulting from the information uploaded or disseminated by you through the Services, your use of other functions of the Services, your breach of the Terms or your infringement of any rights or interests of others, you shall make full compensation (including without limitation reasonable attorney’s fees).
+
+ 
+
+9. Changes, Suspension or Termination of the Services
+
+9.1 You understand and agree that, BiliBili may at any time and from time to time, change, upgrade, modify, terminate, withdraw or transfer the Services or any part thereof and/or any functions and applications at any time at its sole and absolute discretion. You agree that BiliBili does not need to notify you of, obtain your consent or will be liable to you for such change, upgrade, modification termination, withdrawal or transfer per se. You further understand and agree that such change, upgrade, modification termination, withdrawal or transfer does not constitute BiliBili’s breach of the Terms. If you do not agree to or do not accept such modification, update, replacement or upgrade, please stop using the Services promptly. If you continue to use the Services, it will be deemed that you have agreed to and accepted the modification, update, replacement, or upgrade of the Services, or any part thereof.
+
+9.2 You understand and agree that BiliBili may, from time to time, carry out maintenance or servicing of devices, facilities, software and hardware with which the Services are provided, and that BiliBili shall assume no liability if the Services are therefore suspended for a reasonable period. BiliBili may make an announcement on the websites or applications in advance where reasonable to do so.
+
+9.3 You understand and agree that if BiliBili undergoes a merger, division, acquisition, or asset transfer, BiliBili may transfer the relevant assets under these Terms to a third party, and BiliBili may also, upon unilateral notice to you, transfer some or all of the Services and the corresponding rights and obligations under the Terms to a third party for operation or performance.
+
+9.4 You understand and agree that if you violate relevant laws and regulations, breach the Terms and other policies of BiliBili, BiliBili has the right to unilaterally suspend or terminate the provision of some or all of the Services to you without notice and to request you to make compensation for any losses to the extent permitted by law.
+
+9.5 After BiliBili terminates the provision of Services to you, we have the right to delete or anonymize your personal data in accordance with the requirements of applicable laws, and we also have the right to continue to save other content and information of yours on our platform in accordance with the time limit and method provided by the law.
+
+ 
+
+10. De-registration of Account
+
+10.1 You have the right to de-register your account by contacting BiliBili’s customer service staff or using the de-registration channel offered by our app (except as otherwise provided by relevant laws and regulations or the Terms).
+
+10.2 Special tips: After you de-register your BiliBili account, you will no longer be able to log in to and use any of the Services, including those provided in cooperation with third parties, as well as any unconsumed rights or interests (whether already generated or expected in future) under your account, and BiliBili will also cease to provide you with any Services under this account at the same time. Once your BiliBili account is cancelled, it cannot be restored. Please consider carefully before closing.
+
+10.3 If you decide to de-register your BiliBili account, you make sure you have fully understood and confirmed that after the account is de-registered, you will no longer have account-related rights and interests, including but not limited to: (i) to the extent permitted by applicable law, all content, information, data, and records of all Services of BiliBili that you have logged in to and used with the account will be deleted or anonymized, and you will no longer be able to search, access, obtain, use or retrieve them, including but not limited to any account information (avatar, nickname, signature, etc.) and any unused user privileges; (ii) The transaction records of the account will be deleted; and (iii) any rights and interests that have been generated but not consumed during the use of the Services as well as the expected rights and interests in the future under the account will no longer be valid and refundable. BiliBili will cancel all the rights and interests under the account, including but not limited to your unexpired Premium rights and interests, unused coupons, your identity rights and interests in all Services of BiliBili, unexpired online service content that you have purchased in the Services, and other rights and interests that have been generated but not fully consumed or those expected in the future.
+
+10.4 Before you contact us to de-register your BiliBili account, in order to protect the security of your account and your property, you shall first check and ensure that the account you are de-registering meets the following conditions, including but not limited to:
+
+10.4.1 The account is registered via an official channel and complies with the Terms and related laws and regulations, and the account number is yours;
+
+10.4.2 The de-registration operation is conducted in accordance with the de-registration process required by the customer service staff;
+
+10.4.3 The account is in a safe status, including: not in the status of applying to retrieve a password or modify a mobile phone number, with no pending complaint or whistle-blowing and no other unsafe/abnormal status;
+
+10.4.4 There is no pending transaction in the account;
+
+10.4.5 There is no lucky draw initiated by you but not completed in the account;
+
+10.4.6 If the account has activated the “automatically renewed monthly/quarterly/annual package” service, you should have cancelled the service by yourself;
+
+10.4.7 Other conditions that should be met.
+
+10.5 If you have fully read and understood Articles 10.2 and 10.3, and confirmed that you have met all the conditions under Article 10.4, you can contact the customer service staff to de-register your account. The customer service staff will review the security status of your account and your usage of relevant products and services, and comprehensively determine whether your account meets the conditions.
+
+10.6 Once your BiliBili account is de-registered, the Terms and other relevant agreements that you have entered into with us will be terminated accordingly (except for those that shall continue to be effective as agreed by us or according to their nature or otherwise provided by law). In addition, you understand and agree that even if your account has been de-registered, it will not mitigate or exempt you from the possible liabilities that occur before the de-registration of your account or you shall bear according to relevant laws and regulations, relevant agreements, and rules.
+
+ 
+
+11. Privacy Policy
+
+11.1 BiliBili attaches great importance to protecting Users’ personal data and personal privacy. When you download, install, launch, browse, register, log in to, or use the Services, you acknowledge and agree that BiliBili will collect, use, process, disclose and protect your personal data in accordance with the “BiliBili Privacy Policy” published on the digital platform of the Services (e.g. website, apps), and hence you should carefully read and fully understand the full text of the “BiliBili Privacy Policy”, and when necessary, follow the guidance of the “BiliBili Privacy Policy” to make the choices you deem appropriate.
+
+11.2 You should use the Services after carefully reading and fully understanding the “Privacy Policy”. Your use or continued use of the Services provided by BiliBili means that you fully understand and agree to all the content of the “BiliBili Privacy Policy” (including any updates or amendments to such Privacy Policy from time to time).
+
+11.3 If you have any questions or complaints about the “BiliBili Privacy Policy” or your personal data processed by BiliBili, you can contact us through the contact information provided in the BiliBili Privacy Policy.
+
+ 
+
+12. US Trade Compliance
+
+12.1  Collection of individual's information for sanction compliance purpose.
+
+You understand and agree that (i) for trade compliance purpose, BiliBili is obligated to gather information on individuals using BiliBili’s services; (ii) BiliBili fulfils these obligations by requiring individuals using BiliBili’s services to provide the information including name, nationality, birthdate, identify number, IP address, location, and other necessary information; (iii) you agree to provide such information mentioned in item (ii) so that BiliBili can confirm the submitter’s identity, and verify that the submitter is not subject to sanctions or other legal restrictions.
+
+ Prohibited use
+
+You promise not to sign up for or use BiliBili account to engage in the following acts:
+
+For the purpose of conducting any action which violates, or would assist in violation of, applicable laws, regulations and rules, including restrictions under the U.S. sanctions and export control laws and regulations, or which would involve proceeds of any unlawful activity; any activity which would publish, distribute or disseminate any unlawful material or information.
+
+12.2  Ensuring compliance with applicable sanction laws
+
+You ensure that your use of BiliBili's services does and at all times will comply with all applicable laws and regulations, including, without limitation, all OFAC-administered sanctions programs and any other sanctions programs.
+
+12.3 Requirements before closing a BiliBili account
+
+Before you apply to us for closing your BiliBili account, in order to protect your account security and property rights and interests, you must first check and ensure that the account you are applying for closing meets the following conditions, including but not limited to: there is no violation of any applicable laws and regulations, including, without limitation, all OFAC-administered sanctions programs and any other sanctions programs.
+
+12.4 Our right to decline, suspend, or close your account
+
+We reserve the right to decline to provide our services to you or immediately suspend or close your account, without notice, if we learn or reasonably suspect, in our sole discretion, that you will use or have used your account to engage in unlawful or improper activity in violation of applicable laws or regulations, and/or our other applicable terms of use, including but not limited to a violation of [Section 12.2 prohibited use]. We reserve the right at all times to monitor, review, retain and/or disclose any information as necessary to satisfy any applicable law, regulation, sanctions programs, legal process or governmental request.
+
+ 
+
+13. Application of Law and Jurisdiction
+
+13.1 The Terms and use of the Services shall be governed by and construed in accordance with Singapore law. Any dispute arising out of or in connection with the Terms, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by arbitration administered by the Singapore International Arbitration Centre (“SIAC”) in accordance with the Arbitration Rules of the Singapore International Arbitration Centre (“SIAC Rules”) for the time being in force, which rules are deemed to be incorporated by reference in this Article. The seat of the arbitration shall be Singapore. The Tribunal shall consist of one arbitrator. The language of the arbitration shall be English.
+
+13.2 If any provision hereof is deemed invalid or unenforceable, such provision may be severed and the remaining provisions shall remain legally effective.
+
+ 
+
+14. Modification and Notification of the Terms
+
+14.1 BiliBili has the right to modify the Terms and publish the modified version in accordance with changes in national policies, technical conditions, and product functions, etc.
+
+14.2 Once the foregoing content is officially published, BiliBili will remind you of the updated content in an appropriate way (including but not limited to pop-up announcements, emails, message, in-app notification, and website announcements, etc.), so that you can keep abreast of the latest version of the Terms.
+
+14.3 You acknowledge that the name of the Terms and the heading of each section are only for the convenience of reading, and because the Terms are displayed on our platform in many places, we may take a period of time to rename all versions. During this period, the simultaneous existence of two names does not affect the meaning or interpretation of any articles in the text.
+
+14.4 The revised content will form an integral part of the Terms, and you and BiliBili should also comply with it. If you have any objection to the revised Terms, please stop using the Services immediately. If you continue to use the Services, you will be deemed to have fully read, understood and accepted the revised Terms and are willing to be bound by the revised Terms.
+
+Any person who is not a party to the Terms (whether or not such person shall be named, referred to, or otherwise identified, or shall form part of a class of persons so named, referred to, or identified, in this Agreement) shall have no right whatsoever to enforce the Terms or any of its terms.
+
+ 
+
+15 Miscellaneous
+
+15.1 You may not assign your rights under the Terms without BiliBili’s prior written consent. You understand and agree that BiliBili may in its sole and absolute discretion transfer all or part of its rights and obligations herein to any third party.
+
+15.2 The Terms bind you, BiliBili and BiliBili’s respective successors in title and assigns. The Terms will continue to bind you notwithstanding any change in BiliBili’s name or constitution or BiliBili’s merger, consolidation or amalgamation with or into any other entity (in which case the Terms will bind you to BiliBili’s successor entity).
+
+15.3 No failure or delay to exercise BiliBili’s rights under the Terms shall operate as a waiver thereof nor shall such failure or delay affect BiliBili’s right to enforce its rights under the Terms.
+
+15.4 BiliBili’s waiver of its rights hereunder in case of any negligence or breach hereof by the User shall not be construed as its waiver of any other or subsequent similar breach by the User.
+
+15.5 The Terms shall supersede all prior oral and written agreements, arrangements, undertakings and communications reached by the parties in relation to any matters hereof.
+
+ 
+
+16. Contact Information
+
+You may contact us via the online customer service available for each Service or through email: contact@bilibili.tv.

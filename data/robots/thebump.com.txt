@@ -1,0 +1,20 @@
+# Updated on 05/26/22
+
+User-agent: *
+Disallow: /login
+Disallow: /search
+Disallow: /calendar/
+Disallow: /more
+Disallow: /header_and_footer/
+Disallow: /b/most-popular-baby-names-2020
+
+#Baby Names
+Disallow: /b/search
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: grapeshot
+Disallow: /
+
+Sitemap: https://www.thebump.com/sitemap_index.xml

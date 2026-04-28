@@ -1,0 +1,15 @@
+User-agent: Googlebot
+Disallow: /home/file
+Disallow: /home/ucenter
+Disallow: /doc/
+Disallow: /editor/
+Disallow: /payres/
+Disallow: /promotion/
+
+User-agent: *
+Disallow: /home/file
+Disallow: /home/ucenter
+Disallow: /doc/
+Disallow: /editor/
+Disallow: /payres/
+Disallow: /promotion/

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /nav/
+Disallow: /footer/
+Disallow: /metadata/
+Disallow: /fragments/
+Disallow: /style-guide/
+Disallow: /data/
+Disallow: /forms/
+Disallow: /careers/fragments/
+Disallow: /tools/
+
+Sitemap: https://7brew.com/sitemap.xml

@@ -1,0 +1,26 @@
+Sitemap: https://conjuguemos.com/full-sitemap.xml
+
+User-agent: *
+Allow: /student/
+Allow: /live
+Allow: /activities/
+Allow: /tube/
+Allow: /support/
+Allow: /tutorials/
+Allow: /auth/
+Allow: /faq/
+Allow: /privacy/
+Allow: /terms/
+Allow: /about-us/
+
+
+Disallow: /student/account_info/
+Disallow: /images/
+Disallow: /lib/
+Disallow: /deprecated/
+Disallow: /audio/
+Disallow: /css/
+Disallow: /js/
+Disallow: /images-r/
+Disallow: /php-copies/
+Disallow: /sql/

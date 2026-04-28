@@ -1,0 +1,36 @@
+# www.ssa.gov robots.txt
+# 08/07/18
+# 08/06/19 added second sitemap
+# 09/25/20 added 2019 contingency plan PDF + html
+# Wayne Whitten
+# 11/08/22 added search-gov, and /menu/ for Beta launch
+# 5/5/23 added 2023-psrw-letter.pdf per Jira ticket
+# EMB
+# 8/4/25 added coss-letter-to-senator-warren.pdf per JIRA OWDS-26542
+# 8/14/25 added COSS-Open-Letter-90th-Anniversary.pdf per JIRA OWDS-26639
+
+User-Agent: *
+
+Disallow: /admin/
+# Disallow: /agency/shutdown/
+Disallow: /agency/commissioner/assets/materials/coss-letter-to-senator-warren.pdf
+Disallow: /agency/commissioner/assets/materials/COSS-Open-Letter-90th-Anniversary.pdf
+Disallow: /cgi-bin/
+Disallow: /dev/
+Disallow: /hlp/
+Disallow: /info/
+Disallow: /javascript/
+Disallow: /myaccount/help/
+Disallow: /myaccount/materials/pdfs/SSA-7004.pdf
+Disallow: /onlineservices/eservices/
+Disallow: /ssaexpress/
+Disallow: /w3c/
+Disallow: /agency/shutdown/materials/contingency-plan-08-05-19.pdf
+Disallow: /agency/shutdown/materials/contingency-plan-08-05-19.html
+Disallow: /news/mip/
+Disallow: /menu/
+Disallow: /news/materials/pdfs/2023-psrw-letter.pdf
+
+Sitemap: https://www.ssa.gov/sitemap.xml
+Sitemap: https://www.ssa.gov/sitemap1.xml
+Sitemap: https://www.ssa.gov/search-gov/sitemap.xml

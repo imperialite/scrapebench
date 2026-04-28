@@ -1,0 +1,41 @@
+User-agent: *
+
+Disallow: /default.aspx/kb/
+Disallow: /default.aspx/ph/
+Disallow: /mats/?diagid=100001&eulaaccept=yes*
+Disallow: /mats/default.aspx?diagid=100001&eulaaccept=yes*
+Disallow: /search/default.aspx?*
+
+Disallow: /api/
+Disallow: /app/
+Disallow: /authoring/
+Disallow: /common/
+Disallow: /common/survey.aspx*
+Disallow: /directory/
+Disallow: /errors/
+Disallow: /gethelp/
+Disallow: /gp/gsshomepage/
+Disallow: /gp/international_new/
+Disallow: /hotfix/
+Disallow: /oas/
+Disallow: /search/
+Disallow: /Search/
+Disallow: /*/search/
+Disallow: /*/Search/
+Disallow: /ServiceDesks/
+Disallow: /support/
+
+Disallow: /contact/menu*
+Disallow: /contact/partner*
+Disallow: /contactus/mwaas*
+Disallow: /*/contact/menu*
+Disallow: /*/contact/partner*
+Disallow: /*/contactus/mwaas*
+Disallow: /*/home/contact*
+
+Disallow: /authentication/signin
+Disallow: /*/authentication/signin
+Disallow: /signin-oidc
+Disallow: /*/signin-oidc
+
+Sitemap: https://support.microsoft.com/sitemap/collection.xml

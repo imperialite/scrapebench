@@ -1,0 +1,6 @@
+User-agent: *
+
+Sitemap: https://unionrayo.com/sitemap_index.xml
+Sitemap: https://unionrayo.com/news-sitemap.xml
+Sitemap: https://unionrayo.com/en/sitemap_index.xml
+Sitemap: https://unionrayo.com/en/news-sitemap.xml

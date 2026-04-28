@@ -1,0 +1,14 @@
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: Twitterbot
+Allow: /
+User-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+Disallow: /
+Disallow:
+User-agent: pa11y
+Disallow: /
+User-agent: *
+Disallow: /
+Sitemap: https://gofan.co/sitemap-index.xml

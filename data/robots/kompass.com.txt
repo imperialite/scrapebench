@@ -1,0 +1,70 @@
+
+User-agent: *
+Disallow: /searchCompanies
+Disallow: /logCompanyView
+Disallow: /logAdvertisements
+Disallow: /getAdvertisements
+Disallow: /getTop3CompanyDataList
+Disallow: /getTop3CompanyData
+Disallow: /buy-company-list/activityCode/*
+Disallow: /buy-company-list/localizationCode/*
+Disallow: /login
+Disallow: /cart
+Disallow: /checkout
+Disallow: /selectcountry
+Disallow: /sendReferrer
+Disallow: /ebol*
+Disallow: /ip
+Disallow: /referrer
+Disallow: /transfer*
+Disallow: /search*
+Disallow: /getRegions*
+Disallow: /*?_nfbsp*
+Disallow: /*?_redirectState*
+Disallow: /*?_id_souchaine*
+Disallow: /ar/
+Disallow: /cs/
+Disallow: /da/
+Disallow: /de/
+Disallow: /es/
+Disallow: /fi/
+Disallow: /fr/
+Disallow: /hr/
+Disallow: /hu/
+Disallow: /it/
+Disallow: /ja/
+Disallow: /lv/
+Disallow: /nl/
+Disallow: /no/
+Disallow: /pl/
+Disallow: /pt/
+Disallow: /ro/
+Disallow: /ru/
+Disallow: /sk/
+Disallow: /sl/
+Disallow: /sr/
+Disallow: /sv/
+Disallow: /tr/
+Disallow: /zh/
+Disallow: /v/
+Disallow: */v/
+Disallow: /*?
+
+user-agent: AhrefsBot
+disallow: /
+
+# https://megaindex.com/crawler
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: megaindex.com
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: dotbot
+Disallow: /

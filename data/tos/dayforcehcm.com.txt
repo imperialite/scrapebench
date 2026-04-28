@@ -1,0 +1,96 @@
+Privacy Policy | Dayforce Jobs
+Privacy Statement
+Dayforce's Job Applicant Privacy Statement
+This Privacy Statement was updated on August 29, 2025.
+Scope
+Dayforce, Inc. and its affiliates and subsidiaries (herein “Dayforce”) are committed to protecting your Personal Information and processing it responsibly. This Privacy Statement (“Statement”) describes our general practices relating to the collection, use and disclosure of data relating to Dayforce’s job applicants (“Personal Information”).
+Table of Contents
+The Personal Information Dayforce Collects
+How Personal Information is Used
+How Personal Information is Disclosed
+Cross Border Transfers
+Sale / Share of Personal Information
+How Personal Information is Protected
+Retention of Personal Information
+Do Not Track Disclosure
+How to Exercise Your Rights
+How to Contact Dayforce and Dispute Resolution Mechanism
+Changes to this Privacy Statement
+The Personal Information Dayforce Collects
+Directly from You
+Dayforce collects Personal Information directly from you when you interact with us online, through our mobile app or through other communication channels such as telephone, email or in person. For example:
+When you apply for a role, we collect your contact information, details of your current and past employment, education and training, citizenship information, and the contact information of your personal references;
+We may collect or infer additional demographic information about you, though such data will be used solely for purposes of supporting our efforts to detect and prevent bias;
+When you create an account on the Dayforce platform or through the Dayforce mobile app, we collect authentication credentials such as username and password;
+When you access our website, we automatically collect information about your device including your browsing history, IP address, and other system settings, and use of the website through cookies and similar technologies;
+If you interact with our chatbot as part of the application process or otherwise interview with us, we also record answers you provide to questions we may ask or any other content you volunteer.
+From Other Sources
+Dayforce obtains Personal Information from third parties. For example:
+During the recruitment process:
+We may work with service providers to collect information for background checks;
+We collect information about your past employment experience from previous employers and/or personal references provided by you;
+When Dayforce is proactively recruiting for a role, we may collect contact information of eligible candidates and details of their current and past employment, education and training from third party recruiting services or from publicly available sources, as permitted or required by applicable law.
+How Personal Information is Used
+Dayforce uses Personal Information for Dayforce’s legitimate business purposes which include, among others, to:
+Manage all parts of the applicant administration process, such as  screening  applications and resumes, including with the help of technological solutions that incorporate AI (and training the AI technology), interviewing, selecting and hiring staff and conducting background check investigations;
+Dayforce does not make decisions based solely on automated processing;
+You may opt out of the use of your Personal Information in technological solution used to evaluate resumes by following the steps outlined in the ‘How to Exercise Your Rights’ section below;
+For more information about our machine-learning technology used to assist in evaluating resumes, please see our statement on the Use of AI In the Recruitment Process At Dayforce <insert link>
+Support efforts to ensure our application and recruitment processes are fair and free from inappropriate biases;
+Communicate with job applicants or with potential candidates;
+Provide you access to the Dayforce application;
+Develop and improve our Dayforce recruitment module through research, development, analytics and business intelligence;
+Manage network security, which includes disaster recovery and business continuity;
+Prevent fraud;
+Comply with data protection legislation, information security requirements and other legal requirements.
+Depending on the circumstances and applicable law, Dayforce processes Personal Information on a number of lawful bases, including obtaining your consent, performance of a contract, compliance with a legal obligation or for other legitimate interests. In Europe and other jurisdictions where this is permitted, we rely on “legitimate interest” for example, for fraud prevention, network security, and evaluating resumes.
+In the event that Dayforce de-identifies Personal Information in support of legitimate business purposes, we will not attempt to re-identify the data.
+How Personal Information is Disclosed
+Within Dayforce
+Dayforce allows access to applicant Personal Information to people within the Dayforce family of companies who have a “need to know” that information in relation to the recruitment process and other legitimate business purposes. For example, your recruiter will disclose your resume information to Dayforce employees who will be interviewing you for an open position.
+Service Providers
+We disclose Personal Information to companies or individuals that provide us with services. These services include pre-employment screening and office security. Service providers can only process Personal Information as instructed by Dayforce.
+Business Transaction
+In the event that Dayforce sells or divests assets or any portion thereof, Dayforce may disclose Personal Information to the company involved in the business transaction in support of the sale or divestiture, and where applicable, in support of integration activities. It is Dayforce’s practice to require appropriate protection for Personal Information in these types of transactions.
+Applications and Tools
+We offer tools, widgets and applications on our website, such as search engine functionalities, that are powered by third parties. If you use those applications or tools, any Personal Information that you provide will be disclosed to the third party that provides that functionality. The third party’s use of that Personal Information is subject to their Privacy Statement.
+Law Enforcement
+We may report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we reasonably believe will aid a law enforcement investigation into unlawful activity. In addition, we reserve the right to release your Personal Information to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of your Personal Information will protect the rights, property, or safety of Dayforce, or another person.
+Legal Process
+We may disclose your Personal Information with others as required by, or permitted by, law. This includes disclosing your Personal Information to governmental entities, or third parties in response to subpoenas, court orders, other legal process, or as we believe is necessary to exercise our legal rights, to defend against legal claims that have been brought against us, or to defend against possible legal claims that we determine in our sole discretion might be brought against us.
+Cross Border Transfers
+To run our business, we may store and process your Personal Information in any country where Dayforce and authorized third parties operate. When we transfer your Personal Information in this manner across country borders, we implement adequate measures for its protection and for compliance with applicable laws.
+Dayforce utilizes the adequacy determinations made by the European Commission to transfer Personal Information to countries with data protection that is adequate to the EU. Dayforce also utilizes Standard Contractual Clauses (SCCs) for the transfer of Personal Information from the EU, UK and Switzerland to other countries.
+EU-US and Swiss
+Dayforce US, Inc. and all its U.S. affiliates and subsidiaries using the Dayforce brand name, utilizes SCCs and the UK Addendum to the SCCs for the transfer of Personal Information from the EU, Switzerland and UK to other countries.
+Sale / Share of Personal Information
+Dayforce does not sell your Personal Information, that is provide it to third parties for monetary or other valuable consideration. Disclosure of device information and internet activity to third parties through cookies and other trackers may be considered “sharing” under some US state laws. Dayforce obtains opt-in consent before dropping non-strictly necessary cookies. You may opt-out by visiting our Cookie Preference Center.
+How Personal Information is Protected
+Dayforce has implemented policies and procedures to protect Personal Information. Dayforce uses recognized industry standard security safeguards appropriate to the sensitivity of the Personal Information. Dayforce reviews its security policies and procedures on a regular basis and updates them as needed to maintain their relevance. Dayforce makes reasonable security arrangements to protect Personal Information from and against risks, such as loss or theft, as well as unauthorized access, collection, use, disclosure, copying, modification, disposal and destruction. The methods of protection include physical, organizational and technological measures. Dayforce requires all third parties to whom it transfers Personal Information to maintain adequate safeguards in compliance with applicable laws and standards to protect Personal Information. In the event that Dayforce is required by law to inform you of a breach of your Personal Information, we will notify you electronically, in writing or by telephone, if permitted by law.
+Retention of Personal Information
+Dayforce will retain your Personal Information for as long as necessary to fulfill the purpose for which it was collected or as required to comply with legal obligations, and, thereafter, Dayforce will securely delete the Personal Information. Dayforce will retain Personal Information of applicants that are not hired for no more than two years, unless a longer or shorter period is required by applicable law, in which case we will only store it as long as legally required. If there is any data that we are unable, for technical reasons, to delete entirely from our systems, we will put in place appropriate measures to prevent any further use of such data.
+Do Not Track Disclosure
+Do Not Track (DNT) is a preference that users can set for their browsers to opt out of the online tracking activities by some websites. Dayforce responds to DNT and GPC signals where required to do so by applicable law.
+How to Exercise Your Rights
+Dayforce makes reasonable efforts to keep Personal Information as accurate, complete and up-to-date as is necessary to fulfill the purposes for which the information is to be used. Unless Dayforce is permitted or required by law to prohibit access, you can view and if necessary, update and correct your Personal Information. Depending on the jurisdiction in which you are, you may have additional rights such as the right to request deletion of your Personal Information, the right to restrict or object to processing your Personal Information by Dayforce or the right to transfer your Personal Information to another organization. Individuals can
+submit requests for any of these rights
+or by using the toll-free number (1-888-975-7674).
+Note that, as required by law, we will require you to prove your identity. We may verify your identity by phone call or email. Depending on your request, we will ask for information such as your name and contact information. We may also ask you to provide a signed declaration confirming your identity. In some circumstances, you may designate an authorized agent to
+submit requests on your behalf
+. We will require verification that you provided the authorized agent permission to make a request on your behalf. If you choose to exercise any of these rights, we will not discriminate against you.
+Individuals can raise concerns or
+file complaints
+. Dayforce will investigate all complaints and take appropriate action to remedy any issues.
+How to Contact Dayforce and Dispute Resolution Mechanism
+If you have any inquiries or complaints about our handling of your Personal Information, please
+contact Dayforce at:
+Chief Privacy Officer
+Dayforce US, Inc.
+3311 E. Old Shakopee Road
+Minneapolis, MN 55425
+Telephone: 1-888-975-7674
+e-mail:
+[email protected]
+If you have unresolved issues, you may contact your local privacy regulator.
+Changes to this Privacy Statement
+Dayforce may update this Statement periodically to reflect changes to our privacy practices. We will provide notice online when we make any material changes to this Statement.

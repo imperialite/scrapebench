@@ -1,0 +1,19 @@
+User-agent: * 
+Disallow: /uf/ 
+Allow: /uf/_next/ 
+Disallow: /msapi/ 
+Allow: /msapi/ixp-allocation-manager-service/ 
+Disallow: /content/dam/gtm/ 
+Disallow: /dtvassets/gtm/ 
+Disallow: /dtvccpa/ 
+Disallow: /guide/*index=* 
+Disallow: /msapi/channelslookup/ 
+Disallow: /searchapi/ 
+Disallow: /shop/api/ 
+Disallow: /tag_path/ 
+Disallow: /vpmapi/ 
+Disallow: /xapi/beamlocalchannellookupms/ 
+Disallow: /sports-info/embed/api/ 
+Disallow: /sports-info/season?league_text_id=* 
+Disallow: /sports-info/*utm_* 
+Sitemap: https://www.directv.com/sitemap.xml # Updated on 1/8/2026

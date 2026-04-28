@@ -1,0 +1,203 @@
+User-Agent: *
+Disallow: /ad/*
+Disallow: /discussions/*sort=*
+Disallow: /discussions/*view=*
+Disallow: /proMatch/*
+Disallow: /writeReview/cmd=*
+Disallow: /writeReview2/cmd=*
+Disallow: /writeReview2/ew
+Disallow: /sketches/
+Disallow: */badges/*
+Disallow: /imageClipperUpload*
+Disallow: /edit/*
+Disallow: /*/tag=*
+Disallow: /pro2/*
+Disallow: /*spf=*
+Disallow: /trk/*
+Disallow: /hsc/*
+Disallow: *jsGalleryWidget
+Disallow: *reviewWidget
+Disallow: /feed/
+Disallow: /activities/
+Disallow: /proMatch/
+Disallow: */user/
+Disallow: /pro-site/
+Disallow: /serviceQuestionnaireAjax
+Disallow: /siteSwitch
+Disallow: /projects/
+Disallow: /proProjects/
+Disallow: /browseReviews
+Disallow: /error/
+Disallow: /reviewSeller
+Disallow: /houzz-historyzz
+Disallow: /j/pro-site
+Disallow: /http
+Disallow: /thumbs/
+
+#marketing
+Disallow: /builders/
+Disallow: /designers/
+Disallow: /pro-meeting/
+Disallow: /estimates/*/client
+Disallow: /manage/leads/
+
+#internal
+Disallow: /grow/
+Disallow: /settings/
+Disallow: /manage/
+Disallow: /pro-meeting/
+Disallow: /lead-form/
+Disallow: /editProfile/
+Disallow: /estimates/
+Disallow: /visual-tools/
+Disallow: /builders/
+Disallow: /designers/
+
+# CMS search pages
+Disallow: /pro-learn/s/
+Disallow: /pro-help/q/
+
+# Scholarship Pages
+Disallow: /scholarships
+Disallow: *scholarship
+
+#block buttonWidget and imageClipperUpload
+Disallow: *buttonWidget
+Disallow: *imageClipperUpload
+Disallow: *proVideoWidget
+
+#facets
+Disallow: /photos/*a_86-
+Disallow: *phbr*_template_
+Allow: *phbr0
+Allow: *phbr1-
+Disallow: *phbr
+Allow: *prbr0
+Allow: *prbr1
+Disallow: *prbr
+Disallow: *phbr~r_
+Disallow: *probr*_template_
+Allow: */probr-1~/project-type--*/$
+Disallow: */professionals/*/*project-type-*-probr1-*_template_
+Allow: */professionals/*/*project-type-*-probr1-*
+Allow: *probr0*
+Disallow: *probr*
+
+#query/search pages
+Disallow: */query/*
+Disallow: /professionals/*/s/
+Disallow: /professionals/s/
+Disallow: /s/*
+Disallow: */searchDirectory
+Disallow: /professionals/query*
+Disallow: *query=
+Disallow: *nqrwns
+Allow: /products/query/
+Allow: /photos/query/
+Disallow: /products/query/*nqrwns
+Disallow: *?oq=
+
+#email
+Disallow: *OptOutEmail*
+Disallow: *optInEmail*
+
+#old pages
+Disallow: /js/widget.js*
+Disallow: /js/ajaxconn*
+Disallow: *jsErrAjax
+Disallow: *uiLoggerAjax
+
+#sort filters
+Disallow: /*/live-stream/
+Disallow: /*/popular-today/
+Disallow: /*/popular/
+Disallow: /*/avg-review/
+Disallow: /professionals/*/sortReviews
+
+#view filters
+Disallow: */ls=
+
+#pros
+Disallow: /organizationMembers/
+
+#Reviews
+Disallow: /viewReview/
+
+#bots
+Disallow: *hznb*
+Disallow: /getMoreSimilarGalleriesAjax
+
+#legacy
+Disallow: /sw$
+Disallow: /uk$
+Disallow: /au$
+Disallow: /de$
+Disallow: /fr$
+Disallow: /ru$
+Disallow: /gws$
+Disallow: /ie$
+Disallow: /nz$
+Disallow: /sg$
+Disallow: /in$
+Disallow: /se$
+Disallow: /jp$
+Disallow: /es$
+Disallow: /it$
+Disallow: /dk$
+Disallow: /sw/
+Disallow: /uk/
+Disallow: /au/
+Disallow: /de/
+Disallow: /fr/
+Disallow: /ru/
+Disallow: /ie/
+Disallow: /nz/
+Disallow: /sg/
+Disallow: /in/
+Disallow: /se/
+Disallow: /jp/
+Disallow: /es/
+Disallow: /it/
+Disallow: /dk/
+Disallow: /*/s/*
+Disallow: /*/vendorActivityManager/*
+
+#cobrands
+Disallow: *?cbp
+
+#ideabooks
+Disallow: */list/*
+Disallow: */plans/*
+Allow: /products/holiday-sales-*sgbr-sg*
+Disallow: *sgbr-sg
+
+#old pages
+Allow: /pro-learn/blog/*error*
+Disallow: /get-hired/
+Disallow: /fbhome
+Disallow: *error*
+
+#twitter
+User-Agent: Twitterbot
+Allow: *sgbr-sg
+Allow: *phvw-vp
+Allow: /magazine/
+Allow: /ideabooks/
+Allow: /pro-learn/
+Disallow: /discussions/*/p/_template_
+Allow: /discussions/
+Disallow: /
+
+#other
+Disallow: *_template
+Disallow: *?null
+
+Allow: /
+
+#adsbot
+User-agent: AdsBot-Google
+User-agent: AdsBot-Google-Mobile
+Disallow: /js/widget.js*
+Disallow: /js/ajaxconn*
+Disallow: *jsErrAjax
+Disallow: *uiLoggerAjax

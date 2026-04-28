@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /cart.htm
+Sitemap: https://www.fromyouflowers.com/sitemap.xml
+
+User-agent: Googlebot
+Disallow:
+User-agent: Googlebot-image
+Disallow:

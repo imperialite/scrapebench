@@ -1,0 +1,58 @@
+User-agent: *
+Disallow: /Grandparents/Vote/
+Disallow: /grandparents/vote/
+Disallow: /Grandparents/
+Disallow: /grandparents/
+Disallow: /videos.comsumercellular.com/
+Disallow: /PhotoContest/
+Disallow: /photocontest/
+Disallow: /Partial/
+Disallow: /partial/
+Disallow: /EasyPayDetails
+Disallow: /easypaydetails
+Disallow: /PhotoContest*
+Disallow: /photocontest*
+Disallow: /Search/
+Disallow: /search/
+Disallow: /Search?q=*
+Disallow: /search?q=*
+Disallow: /Search*
+Disallow: /search*
+Disallow: /Shopping$
+Disallow: /shopping$
+Disallow: /joincc
+Disallow: /Contact/Thanks
+Disallow: /Register/EnterTemporaryPassword
+Disallow: /CCPopular
+Disallow: /Birmingham
+Disallow: /Pittsburgh
+Disallow: /Indianapolis
+Disallow: /Jacksonville25
+Disallow: /Charlotte25
+Disallow: /Milwaukee25
+Disallow: /Nashville100
+Disallow: /KansasCity100
+Disallow: /Portland100
+Disallow: /Contact/Error
+Disallow: /search?q=
+Disallow: /Survey/NotFound
+
+sitemap: https://www.consumercellular.com/sitemap.xml
+sitemap: https://www.consumercellular.com/shoppingsitemap.xml
+sitemap: https://www.consumercellular.com/newslettersitemap.xml
+sitemap: https://www.consumercellular.com/blog/post-sitemap.xml
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-image
+Disallow:
+
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: AdsBot-Google-Mobile
+Disallow:
+
+User-agent: Bingbot
+Disallow:

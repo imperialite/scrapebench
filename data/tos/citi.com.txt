@@ -1,0 +1,149 @@
+**If you are a payment initiation service provider or an account information service provider (as defined in the Second Payment Services Directive (Directive (EU) 2015/2366)) authorized by, or registered with, a competent EEA authority to provide these services, these terms and conditions do not apply to you in connection with these services. You are not accepting these terms and conditions or entering into an agreement with us.
+
+If you are not a payment initiation service provider or an account information service provider (as defined in the Second Payment Services Directive (Directive (EU) 2015/2366)) authorized by, or registered with, a competent EEA authority to provide these services, you must read the following terms and conditions and will be bound by them.**
+
+Partner Portal Terms and Conditions
+Thank you for your interest in the Citibank web services program and welcome to the Citibank Partner Portal (“Partner Portal”). Please read these terms of use (“Agreement”) carefully, as they are a legal agreement between you (“you”) and Citibank, N.A. (“Citibank,” “we,” or “us”). By checking the box indicating your acceptance, you agree to be bound by this Agreement. If you are accepting on behalf of a legal entity, then you represent that you have the authority to legally bind such entity to this Agreement.
+
+If you do not accept this Agreement, you may not use or access the Partner Portal. Please consult the definitions section at the end of this Agreement for any capitalized terms not otherwise defined.
+
+HOW THIS WORKS
+You may appreciate that we operate in a closely regulated industry, requiring some extra care when building and maintaining Apps that may one day allow access to customer information or move funds. To ease this burden, we want to be as clear and transparent as possible in this Agreement. This section therefore outlines our app development process.
+
+So, here’s how this works. If we decide to grant you access, our Partner Portal will provide you with certain Partner and Developer Program Tools for use in our Sandbox. “Sandbox” means our test environment, which contains dummy data and functionality for you to create and test apps (including your Apps) that may eventually allow our customers to do interesting things with their Citibank accounts or other Citibank products and services.
+
+To gain access to the Partner Portal, after you have provided us with certain information, we may elect to send you an invitation email from Apidevsupport@citi.com. The invitation will allow you to create an online Master Partner/Developer Account, including Login Credentials.
+
+Once you have created a Master Partner/Developer Account, the registered Partner/developer for that account may add Authorized Partner/Developer Accounts. In our sole discretion, we will also approve and send invitation emails to these Authorized Partner/Developer Accounts via Apidevsupport@citi.com. The Master Partner/Developer Account’s registered partner/developer is liable for all activity on the Partner Portal associated with such Master Partner/Developer Account, as well as any associated Authorized Partner/Developer Accounts and your Apps’ users.
+
+Through these accounts, you will be able to register your Apps with us. On a case-by-case basis, we may grant you access to certain application programming interfaces and related software (“APIs”) that we make available through the Partner Portal, as well as relevant documentation. You will receive unique Credentials for identifying each of your Apps, and you will need these Credentials for all calls your Apps make to an API. You may allow other members of your legal entity to test your Apps within the Sandbox. Please note, however, that you, your developers, and your users may only upload dummy data to the Sandbox.
+
+For clarity, this Agreement only covers your initial development of Apps in the Sandbox. We will only grant you access to our live production environment if your Apps meet certain standards and are certified. We also require a production agreement with you (which we may elect not to do). Please see the following section for further, high-level discussion of this point.
+
+POTENTIAL STEPS AFTER SANDBOX TESTING
+We may select certain Apps to move past Sandbox testing. As discussed above, to so progress, your Apps will need to be certified. To certify your Apps, our team will need to be satisfied that the Apps meet certain standards, specifications, and policies, some of which our regulators expect. Because technology and the regulation of financial services continually evolve, we need the ability to evolve our certification requirements as well. We also must reserve the right to withdraw our decision to certify, if we consider it appropriate.
+
+To help you avoid wasting time though, please take into account the following current expectations for all Apps, which should:
+
+*Incorporate enrollment and authentication technologies, processes and procedures appropriate to mitigate the risk of unauthorized enrollment or access to sensitive customer information or funds transfer functionality; *Validate device characteristics (e.g., level of security controls, operating system type, operating system version, whether the mobile device is rooted or jailbroken, and patch status); *Contain a process to deactivate older versions that no longer meet minimum security requirements or prompt the end user to upgrade to an acceptable version; *Ensure that critical information (e.g., passwords and account or card numbers) does not reside directly on a device, unless essential to the Apps’ functionality. If critical information does reside on the device, the Apps should encrypt and securely store such information (e.g., within an encrypted data section or within encrypted storage in the file system); *Employ secure development and distribution techniques for Apps; *Collect any end user information only as necessary, and appropriately secure such information and any derived analytics reporting available within or external to the Apps; *Mitigate the risk of unpatched devices or those that are no longer supported by the manufacturer; *Securely wipe any sensitive end user information upon exiting the Apps; and *Secure back-end servers containing the App and customer data.
+
+We may also require that your Apps comply with certain privacy policies, end user obligations, and procedures that we stipulate. Please note that your Apps development processes may be subject to audit and must employ secure techniques and rigorous testing. Please also account for these realities with any use of open source software.
+
+LICENSE GRANT TO YOU
+We grant you a limited, nonexclusive, as-is, revocable, nontransferable, non-sub licensable license to access and use the Partner Portal and Developer Program Tools solely for purposes of developing, testing, and using Apps in the Sandbox. This license and your use of the Developer Program Tools are also subject to all instructions and documentation we may make available in connection with the Partner Portal. This Agreement relates solely to developing, testing, and using Apps in the Sandbox and does not grant you any right or license to conduct or process transactions using our services or systems, or authorize individuals outside your legal entity to access or use the Partner Portal or Sandbox. If you violate this Agreement, this license will automatically terminate.
+
+RESPECTIVE PRIVACY OBLIGATIONS
+At all times, your Apps and your use of the Developer Program Tools will comply with all Applicable Law, regulations and best practices concerning privacy, data protection and on demand or downloadable software.
+
+For our part, we will treat all information and data you and your developers submit to us through use of the Partner Portal in accordance with our Privacy Policy.
+
+OUR APP DEVELOPMENT RIGHTS
+You acknowledge and agree that we may independently create apps, content, and other products or services that may be similar to or competitive with your Apps and their content. Nothing in this Agreement will restrict or prevent us from creating and fully exploiting such apps, content, and other items, without any obligation to you.
+
+PROMOTION OF YOUR APPS
+You may promote your Apps, including advertising in traditional and online media and communicating with your end users about your Apps in accordance with Applicable Law, this Agreement, and your privacy policy and other end user agreements. You may not use any of the Citibank brands (including, indicia, trademarks, service marks, trade names, logos, symbols or brand names) or otherwise refer to the Partner Portal. You also may not claim or in any way imply in any advertising that your Apps are created, certified, sponsored, or endorsed in any manner by Citibank. To clarify, this means that you cannot refer to Citibank or the Partner Portal in advertising, publicity releases, or promotional or marketing publications or correspondence to third parties without, in each case, securing our prior written consent.
+
+YOUR USE OF THE APIs
+We will try to ensure that future versions of our APIs are backwards compatible to at least the previous version to the extent reasonably possible. We may modify or update our APIs from time to time.
+
+We may, in our sole discretion, charge you for API calls that exceed the call limits or terminate your access to the API. We may limit the number of API calls we permit you to make during any given period. Our call limits will be based on various factors, including the ways your Apps may be used or the anticipated volume of use associated with your Apps. If we believe that you have attempted to exceed or circumvent these limitations, we may temporarily or permanently block your ability to use APIs or the Partner Portal.
+
+You agree that we may collect certain usage data and information related to your use of our APIs and the Partner Portal, and that we may use such usage data for any business purpose, internal or external, including providing enhancements to the Partner Portal, Developer Program Tools, or Citibank services, providing support, or otherwise.
+
+OUR PROPRIETARY RIGHTS
+We retain all right, title, and interest, including, all intellectual property rights, not otherwise expressly granted herein, including to the Partner Portal, the Developer Program Tools, our systems, services, and branding, as well as any derivative works and compilations based on the foregoing.
+
+YOUR REPRESENTATIONS AND WARRANTIES
+The Partner Portal, Developer Program Tools and other content provided through this Agreement are provided “as is,” “as available,” and with all faults. We do not represent or warrant that the foregoing will be error free, uninterrupted, free from spyware, malware, adware, viruses, worms, or other malicious code, or will function to meet your requirements.
+
+You represent and warrant to us that
+
+*The information you and your developers provide us in connection with your registration and use of the Partner Portal and Apps is true and correct; *You own or have properly licensed all rights necessary to develop, distribute, and use your App; *Your Apps will not infringe the intellectual property rights of any third party; and *Your use of the Partner Portal and Sandbox will comply with all Applicable Law.
+
+LIMITATION OF LIABILITY
+Citibank and its business partners, employees, representatives, and Affiliates are not and shall not be liable to you or any third party for any direct, indirect, special, punitive, exemplary, consequential, or any other damages whatsoever. You waive any and all claims, now known or later discovered, that you or any third party may have against us or our business partners, employees, representatives, or Affiliates arising out of the Partner Portal or any content or information provided to you under this Agreement. Notwithstanding the foregoing, our total liability to you or any third party for all damages, losses, and causes of action, whether in contract, tort (including, but not limited to, negligence), or otherwise under this Agreement shall not, under any circumstances, exceed one hundred U.S. dollars ($100). The foregoing limitations and exclusions apply except to the extent expressly precluded by Applicable Law.
+
+INDEMNIFICATION
+You will indemnify, defend, and hold harmless Citibank, its subsidiaries, Affiliates, directors, officers, agents, employees, advertisers, vendors, suppliers, licensors, and partners from and against any and all claims, liabilities, damages (actual and consequential), losses, fines, and expenses arising from or in any way related to:
+
+*Your participation in the Partner Portal; *Your Apps; *Your breach of this Agreement; *Use of your Apps; or *Trademarks, service marks, names, logos, avatars and similar identifiers, and all other intellectual property you provide in connection with the Partner Portal.
+
+You may not enter into any stipulated judgment or settlement that purports to bind us without our prior express written authorization, which will not be unreasonably withheld or delayed.
+
+CONFIDENTIAL INFORMATION
+Our communications to you and the Partner Portal may contain Citibank Confidential Information. You will treat all Citibank Confidential Information as strictly confidential and use the same degree of care to prevent disclosure of Citibank’s Confidential Information as you would use with respect to your own most confidential and proprietary information.
+
+All Citibank Confidential Information is and remains our property, and, except as expressly provided in this Agreement: (i) no license or other right in any Citibank Confidential Information is granted to you, and (ii) you may not use or disclose any Citibank Confidential Information without our prior written consent. On termination of this Agreement or on our written request at any time, you will destroy or return to us all Citibank Confidential Information in your custody or control. This provision will survive any termination of this Agreement for so long as you have in your possession any Citibank Confidential Information.
+
+CREDENTIALS
+You and your authorized developers and users will not share your Login Credentials and Credentials and will reasonably and appropriately restrict access to your partner/developer accounts. You are responsible for maintaining the confidentiality and security of your Credentials and Login Credentials and will immediately notify us of any related breach or disclosure. You may not sell, transfer, sublicense, or otherwise disclose your Credentials or Login Credentials or use Credentials or Login Credentials for any other purpose than as authorized under this Agreement. You are responsible for maintaining up-to-date and accurate information (including a current e-mail address and other required contact information) for your accounts. As a condition to register and receive Credentials and Login Credentials, we may require you to submit certain information to authenticate your identity. From time-to-time, we may require you to renew your registration for the Partner Portal or the Credentials.
+
+RESTRICTED ACTIVITIES
+In connection with your participation in the Partner Portal, you will not (and will not allow anyone else to) do any of the following:
+
+*Gain unauthorized access or use to, or otherwise damage, impede, or disrupt our services or systems, including through fraudulent or disruptive means; *Engage in fraudulent or illegal conduct of any kind; *Access or use the Partner Portal for the benefit of our competitors, or to compete with us; *Transmit any viruses, worms, defects, Trojan horses, or any programming of a destructive nature;] *Store or archive the Developer Program Tools to your own or a third party’s computer systems or storage devices; *Access or use the Partner Portal to create Apps that offer or promote services that may be damaging to, disparaging of, or otherwise detrimental to us or our licensors, licensees, Affiliates, or partners; *Assign or transfer your rights or obligations under this Agreement; *Distribute, publish, or allow access or linking to the API or Citibank Content from any location or source other than your Apps; *Use the Citibank Content to establish Citibank user identities or user profiles; *Collect personal information of any Citibank user; *Modify, decompile, reverse engineer or otherwise alter the Developer Program Tools, API or Citibank Content; *Use robots, spiders, crawlers, scraping or other similar technology to access or use Citibank Content or any Citibank sites or services to obtain any information beyond what Citibank provides to you under this Agreement; *Use the Partner Portal or APIs in a manner that exceeds reasonable request volume, constitutes excessive or abusive usage or otherwise fails to comply or is inconsistent with any part of the Citibank developer documentation; *Use any information we provide to dispute or contest the validity of Citibank’s intellectual property rights; *Use the names, trade names, trademarks, service marks, slogans, logos, domain names, or other indicia of Citibank including any use that in any way would:
+
+*Imply a relationship or affiliation with Citibank; *Imply that Citibank sponsors or endorses you or your Apps; *Be reasonably interpreted to suggest your Apps have been authored certified, or in any way approved by Citibank; *Disparage Citibank, its products or services; or *Tarnish, dilute, or otherwise impair Citibank or any of the Citibank brands;
+
+*Attempt to register any trademarks or service marks or other brand identifiers (including, trademarks and domain names) that are confusingly similar in any way (e.g., in sound, in appearance, in spelling) to any of the Citibank brands; *Create a unitary composite mark involving the Citibank brands; or *Remove any copyright notice or other Citibank source identifier contained in the APIs.
+
+MODIFICATIONS
+We may add or change features, and functionality to the Partner Portal at any time. We may discontinue, modify, or change the Partner Portal, Developer Program Tools (including the APIs) and our related systems and services at any time and may not tell you in advance. We may require you to obtain and use the most recent version of the Partner Portal in order to retain functionality of your Apps. Modifications and changes to the Partner Portal, Developer Program Tools, and Citibank’s services and systems may affect your Apps, requiring you to change your Apps at your own cost. We will have no liability or obligation to you for any modifications or changes we make to the Partner Portal or our services or systems. While we currently make the Partner Portal available without charge to developers, we may in the future charge for access to or use of the Partner Portal or Developer Program Tools at any time, and on a case by case basis.
+
+TERMINATION
+We may, in our sole discretion, refuse to issue Credentials, revoke your Credentials or access to the APIs, suspend Apps, discontinue your participation in the Partner Portal, decline or withdraw certification, or terminate this Agreement at any time. We will attempt to provide notice where possible of any such action, but reserve the right to do so without prior notice.
+
+On termination of this Agreement for any reason, the rights and licenses granted to you will immediately terminate. You will, however, remain responsible for providing support to your Apps’ users and notifying them of the termination. We may provide a termination notice period to you for certain Apps as may be required by Applicable Law.
+
+Your breach of this Agreement relating to the licenses we grant to you and your use of the Citibank Content may result in irreparable harm and permanent injury to us for which monetary damages would be an inadequate remedy. In such circumstances, we will be entitled to seek and obtain, without the posting of a bond, in addition to all other remedies available to us, at law or in equity, immediate injunctive relief to prevent or stop any breach of those provisions.
+
+WAIVER
+Our failure or delay to exercise or enforce any right or provision of this Agreement or our rights under Applicable Law does not mean we waive any of those provisions or rights. If any provision of this Agreement is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court will give effect to the parties’ intentions as reflected in the provision, and the other provisions of the Agreement remain in full force and effect.
+
+ELECTRONIC SIGNATURES—BINDING
+This Agreement and any related documents may be accepted in electronic form (e.g., by an electronic or other means of demonstrating assent) and your acceptance is binding between you and us. Neither you nor Citibank will contest the validity or enforceability of this Agreement and any related documents because they were accepted or signed in electronic form. Electronically maintained records produced in hard copy form constitute business records and have the same validity as any other generally recognized business records.
+
+GOVERNING LAW
+This Agreement will be construed, interpreted, and performed exclusively according to the laws of the State of New York, United States of America, without giving effect to any principles of conflicts of law. Any action at law or in equity arising out of or directly or indirectly relating to this Agreement may be instituted only in the federal or state courts located in New York. You and Citibank consent and submit to the personal jurisdiction of those courts for the purposes of any action related to this Agreement, and to extra-territorial service of process. You agree that regardless of any statute or law to the contrary, any claim or cause of action that you may have arising out of or related to this Agreement must be filed within one (1) year after the claim or cause of action arose.
+
+THIRD PARTY BENEFICIARIES
+Each Affiliate of ours is a third party beneficiary to this Agreement and such Affiliates are entitled to directly enforce, and rely upon, any provision of this Agreement which confers a benefit on (or provides rights in favor of) them. No other person or company is a third party beneficiary to this Agreement.
+
+RELATIONSHIP OF THE PARTIES
+This Agreement does not create a joint venture, co-ownership, partnership, or agency relationship between you and us. Neither you nor Citibank will have the authority to incur, assume, or create, orally or in writing, any liability, obligation, or undertaking of any kind in the name of, or on behalf of, or in any way binding upon, the other.
+
+AUDIT AND ACCESS
+Transparency is important to us, but there may be times when we will need to monitor and or audit your compliance with this Agreement. You agree that we may monitor and audit your Apps or activities relating to your use of the Partner Portal or Developer Program Tools. You will promptly provide us with access, free of charge, to your Apps and any other information that we may request from you from time-to-time regarding use and operation of the Partner Portal or your Apps to verify your compliance with this Agreement. If you fail to provide this access, we may terminate this Agreement or your use of any and all Credentials immediately. Your failure to reasonably comply with our efforts to audit your compliance with this Agreement is a material breach of this Agreement.
+
+AVATARS AND SIMILAR IDENTIFIERS
+In connection with your participation in the Partner Portal, you may be permitted to use avatars and other similar identifiers to represent yourself and your Apps. We will specify the format and other parameters for the representations. Your representation may not be unlawful, harmful, threatening, intimidating, abusive, harassing, tortuous, defamatory, derogatory, vulgar, obscene, libelous, invasive of another's privacy or publicity rights, disrespectful, hateful, or racially, ethnically or otherwise objectionable. We may reject or remove any avatars and similar identifiers at any time without telling you. You are solely responsible for obtaining all rights necessary to furnish your avatar and similar identifiers to us for use in connection with the Partner Portal.
+
+FEEDBACK
+You may provide feedback, suggestions, comments, improvements, ideas, etc. to us (collectively “Feedback”), regarding the Partner Portal. Feedback is voluntary and we are not required to hold it in confidence. We may use Feedback for any purpose without obligation of any kind. You forever waive and agree never to assert against us or our business partners, employees, representatives, Affiliates, successors and licensees any and all moral rights that you may have in the Feedback even after expiration or termination of this Agreement, to the extent permitted by Applicable Law.
+
+EXPORT RESTRICTIONS
+In connection with your use of the Citibank Content, you are solely responsible for complying with all applicable export, re-export, and import control laws and regulations of all applicable jurisdictions, including, but not limited to, those of the U.S. Department of Commerce, Export Administration Regulations, 15 CFR Parts 730-774, the International Traffic in Arms Regulations, country-specific economic sanctions programs implemented by the Office of Foreign Assets Control, and export and import control laws and regulations of any other countries.
+
+LEGAL PROCESS AND REGULATORS
+We may, without telling you, furnish any regulator or other governmental authority, both foreign and domestic, with information about your Apps and your use of the Partner Portal.
+
+DEFINITIONS
+“Affiliate” means any entity that controls, is controlled by, or is under common control with, in each case either directly or indirectly, either Citibank or you, respectively.
+
+“Applicable Law” means, for all countries, all national, federal, state, provincial and local: (a) laws (including common law), ordinances, regulations, and codes; and (b) orders, requirements, directives, decrees, decisions, judgments, interpretive letters, guidance (oral or written) and other official releases of any regulator that are applicable to us, our Affiliates or you and your Affiliates, your Apps, or any other matters relating to the subject matter of this Agreement.
+
+“App” means the software application, website or other interface that you develop, own or operate that interacts with the APIs.
+
+“Authorized Developer Account” means the additional accounts created by the Master Developer Account for developers associated with the same legal entity.
+
+“Citibank Content” means all of the information we provide to you for your use in connection with this Agreement, including documentation and information stored in and retrieved from the Partner Portal and Sandbox. For the avoidance of doubt, Citibank Content does not include information that you obtain independent of us and the APIs.
+
+“Confidential Information” includes the Developer Program Tools, Citibank Content, processes, programs, testing procedures, software design and architecture, computer code, internal documentation, design and function specifications, product requirements, problem reports, analysis and performance information, and any other information which gives us the opportunity to obtain some competitive business advantage, or the disclosure of which could be detrimental to our interests, or which is: (i) marked “confidential,” “restricted,” “proprietary information,” or other similar marking; (ii) known to be considered confidential and proprietary; (iii) received under circumstances reasonably interpreted as imposing an obligation of confidentiality; or (iv) any confidential transaction data.
+
+“Credentials” mean the confidential security keys we provide to you for your use of the API, including the client id, certificate id, and app id.
+
+“Developer Program Tools” mean the APIs and all other tools and information that we make available to you on the Partner Portal including materials, Citibank Content, blogs, discussion areas, forums, programming, and software development kits (“SDKs”) provided by us or on our behalf.
+
+“Login Credentials” mean the usernames and passwords you or your authorized developers create to access the Partner Portal.
+
+“Master Developer Account” means the developer account on our Partner Portal that allows a developer to create additional Authorized Developer Accounts for other developers associated with the same legal entity as the developer.

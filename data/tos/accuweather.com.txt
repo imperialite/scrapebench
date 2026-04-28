@@ -1,0 +1,783 @@
+
+ACCUWEATHER TERMS OF USE
+THESE TERMS OF USE ARE DESIGNED TO PROTECT THE INTEGRITY AND VALUES OF ACCUWEATHER® AND ITS WEATHER INFORMATION
+			THAT IS PROPRIETARY, FORMULATED, AND COMMUNICATED USING UNIQUE PHRASING.
+PLEASE READ THESE TERMS OF USE CAREFULLY AND COMPLETELY BEFORE USING THE ACCUWEATHER.COM WEBSITE, ACCUWEATHER
+			APPLICATION, OR ANY OTHER WEBSITE, APPLICATION, PRODUCT, OR SERVICE LINKING TO THESE TERMS OF USE (EACH, A "SITE"
+			AND COLLECTIVELY, THE “SITES”) AND BEFORE REGISTERING FOR SUBSCRIPTIONS OR SUBMITING USER CONTENT.  THE TERMS
+			OF USE ARE BETWEEN ACCUWEATHER, INC. AND ITS AFFILIATES OR SUBSIDIARIES ("ACCUWEATHER", “WE”, “US”, “OUR”) AND
+			YOU. YOUR ACCEPTANCE OF AND AGREEMENT TO ABIDE BY ALL OF THE TERMS AND CONDITIONS SET FORTH HEREIN GOVERNING YOUR
+			USE OF THE SITES AND ANY MATERIALS CONTAINED THEREIN ARE CONDITION OF YOUR RIGHTS TO FURTHER ACCESS THE SITES AND
+			ANY AND ALL MATERIALS CONTAINED ON OR ACCESSED THROUGH THE SITES.
+IF YOU DO NOT AGREE WITH THE TERMS OF USE, PLEASE DO NOT USE OR ACCESS THE SITES, REGISTER FOR SUBSCRIPTIONS,
+			OR SUBMIT USER CONTENT. PLEASE NOTE THAT THE TERMS AND CONDITIONS SET FORTH HEREIN SHALL APPLY TO YOU WHETHER
+			YOU ACCESS A SITE DIRECTLY, WHETHER A SITE IS MADE AVAILABLE TO YOU BY A THIRD PARTY, OR WHETHER YOU ACCESS A
+			SITE BY ANY OTHER MEANS. SUCH TERMS AND CONDITIONS SHALL TAKE PRECEDENCE OVER ANY CONFLICTING TERMS PUBLISHED
+			BY A THIRD PARTY THAT YOU MAY HAVE ACCEPTED (OR IN THE FUTURE BE REQUIRED TO ACCEPT) IN CONNECTION WITH YOUR
+			ACCESS OR USE OF THE SITE OR ANY CONTENT OR MATERIAL CONTAINED ON THE SITE.
+The terms and conditions herein may change from time to time as added functions and services are incorporated
+			into the Sites. It is recommended that You continue to review the Terms of Use and any notifications of an update.
+			The terms and conditions will apply if you continue to use or access the Sites after an update to the Terms of Use.
+COPYRIGHT
+AI
+SUBSCRIPTIONS
+USER CONTENT
+ACCOUNT AND LOGIN INFORMATION
+PROVIDER TERMS
+1. General.
+The Sites are owned and operated by or on behalf of AccuWeather, Inc. and/or its
+					affiliates or subsidiaries. By (i) accessing or using the Sites, any software, applications, toolbars,
+					widgets, user interfaces, applications ("Software"), printed, online or electronic materials
+					associated therewith, and other text documentation ("Documentation") and/or any data, digital
+					content, or other data materials ("Data") (collectively, Software, and Documentation to be known
+					as “Products” herein, which are proprietary and exclusive to AccuWeather), for Your use with
+					Your mobiles, laptops, computers, applications, widgets, smart devices and products, interactive
+					screens, infotainment systems, virtual and voice assistants, and other electronic devices and
+					hardware , (ii) submitting a registration form for subscription, or (iii) clicking the "I Agree" or
+					"Continue" buttons (or a similar button) when prompted, You are agreeing to the terms and
+					conditions and entering into an agreement with AccuWeather, and You hereby acknowledge and
+					agree on behalf of Yourself (if accepting these terms as an individual) and/or on behalf of the
+					business or other entity You represent (if You are accepting these terms on behalf of a business
+					or other entity) to the validity and applicability of the terms and conditions in this Terms of Use,
+					AccuWeather's Privacy Statement, (which can be found at
+https://www.accuweather.com/en/privacy
+),
+					and any applicable Subscription Terms and
+					Provider Terms, and You agree to be bound thereby. If You are using a Site or any Products on
+					behalf of a business or other entity, You represent that You are fully authorized to enter into an
+					Agreement on behalf of such business or other entity, and references herein to "Licensee", "You"
+					or "Your" shall be construed to mean and refer to You and such business or other entity on
+					whose behalf You have accepted the Terms of Use . The Sites and Products are available only to
+					individuals age 18 and older. You represent that You are at least 14 years of age and have the
+					capacity to use of the Product and Sites.
+2. Use of Service.
+You agree that the Sites and their services are furnished and shall be used
+					solely for Your use, and are subject to AccuWeather's Acceptable Use Policy set forth in Section
+					8 below. The permitted uses do not include the right to, directly or indirectly, do the following:(i)
+					electronic publishing, database transmissions, side band transmissions, cable castings, nationally
+					originated television, satellite television, internet protocol television, or other types of
+					broadcasts, such as radio broadcast, satellite or other broadcast technology (“Network Use”); (ii)
+					sell, resell, distribute, redistribute, forward, or deliver the Products or Services or any part of the
+					data, information, images, or other products and services which constitute the Site, Products,
+					and/or Services to any other user, consumer, person, or entity, in any format (including, but not
+					limited to framing, deep linking or embedding), or by any means for commercial purposes
+					("Commercial Use"); and (iii) use of AI and other similar software to scrape the Sites (“Scraping
+					Use”), unless You have a separate agreement in writing with AccuWeather. The Sites and their
+					services may be used for lawful purposes only, and may not be used in a manner which violates
+					or infringes the rights of AccuWeather, its Providers, or any third party, which includes but is not
+					limited to copyright and trademark infringement through Scraping Use. The term "Provider", as
+					used herein, refers to any third parties that either contribute to the creation or operation of the
+					Software , Data, or Documentation, or enable access or use of same by You, including by way of
+					example but without limitation software and/or technology developers, internet storefronts,
+					Internet Service Providers, third party service providers and vendors, contractors and/or clients
+					or customers of AccuWeather, and communications providers/carriers. You agree to use the Sites
+					consistent with these Terms and Conditions and shall not disclose Your password to any
+					unauthorized person. You shall be fully responsible for maintaining confidentiality of account
+					access information and for all charges made to Your account.
+3. Access.
+Access to the Sites is contingent upon You providing all equipment necessary to
+					access the internet, Products and/or Services offered by AccuWeather. AccuWeather.com and
+					use of the AccuWeather Products and services through the Sites are usually available 24 hours a
+					day, 7 days a week, however, AccuWeather reserves the right to make a Site unavailable from
+					time to time for any reason and at any time without prior notice. You agree that AccuWeather
+					shall not be liable for any damages arising from any interruption, suspension, or termination of a
+					Site. The Products supplied by AccuWeather are made available at locations in State College,
+					Pennsylvania, Wichita, Kansas, or other locations that AccuWeather shall designate
+					("Designated Location"). Your options as to which Products are available, and how to move
+					Products from the Designated Location to Your location or Your hardware, and/or to issue
+					appropriate electronic commands to accept the Products at the Designated Location and move
+					such items to an authorized location or to pass on authorized users to the Designated Location
+					are limited by the type or format of the Products and/or services selected by You and Your
+					hardware then in use. AccuWeather makes no guarantees that the Products and/or Services
+					selected by You will be operational with Your hardware.
+4. Permitted Uses.
+You may download, view, copy, and print Products incorporated in or
+					accessed through a Site subject to the following: (1) the Products may be used solely for
+					informational, personal, or internal purposes and may not be re-distributed without the express
+					written permission of AccuWeather; (2) the Products, including without limitation the content
+					and any advertising displayed on pages of a Site, may not be modified, obscured, tampered with,
+					commingled, or altered in any way; and (3) any copyright, trademark symbols, or other
+					proprietary notices and attribution to AccuWeather must appear on all Products. Products on the
+					Sites may be subject to further restriction for use, modification, copying, and/or dissemination.
+					Except as expressly provided herein, You may not scrape, download, copy, print, display,
+					perform, reproduce, publish, license, post, transmit, distribute, or redistribute any information or
+					Products from the Sites in whole or in part without the prior written permission of AccuWeather.
+					For AccuWeather Products, reprint, and/or re-distribution, You should submit requests to
+support@accuweather.com
+.
+5. Intellectual Property.
+Information furnished by AccuWeather to You is intended for Your
+					sole and exclusive use and shall be considered proprietary information, ownership of which shall
+					remain with AccuWeather or its Providers. All Products, information, data, images, and other
+					things comprising Our service are to be considered copyrighted by AccuWeather, its Providers,
+					or the content originator, as the case may be, and they remain the sole and exclusive property of
+					such persons. You agree not to copy materials on the Sites, not to reverse engineer, or break into
+					the Sites, and not to use the materials, Products or Services to violate the law, AccuWeather's
+					Privacy Statement, or the Acceptable Use Policy. REGARDLESS OF ANY OTHER
+					PROVISION HEREIN, THE TRADEMARKS AND COPYRIGHT CONTENT OF
+					ACCUWEATHER AND THE ACCUWEATHER NAME AND BRANDING SHALL NOT BE
+					USED BY YOU IN ANY WAY WITHOUT A SPECIFIC LICENSE TO DO SO FROM
+					ACCUWEATHER, TO IDENTIFY THE SOURCE OF THE SERVICE TO PUBLIC
+					AUDIENCES OR CLIENTELE OR CLAIM OR IMPLY ENDORSEMENT, ASSOCIATION,
+					OR PARTNERSHIP.
+6. Trademark Information.
+AccuWeather®, Superior Accuracy™,
+					The Sun Logo, MinuteCast®;, RealFeel®, AccuWeather NOW®, RealVue®, WinterCast®,
+					Eye Path®, and other AccuWeather product names, service names, slogans or logos referenced in the Sites are
+					trademarks or registered trademarks of AccuWeather, Inc. All other company, product or service
+					names referenced in the Sites are used for identification purposes only and may be trademarks of
+					their respective owners. AccuWeather displays the trademarks and logos owned by NWS/NOAA
+					with certain severe weather alerts and notifications supplied by the NWS/NOAA. The display of
+					these trademarks or logos is not intended to imply any endorsement by NWS or NOAA of
+					AccuWeather, or its products or services.
+7. Patent.
+Central to Our innovation is our impressive global portfolio of Patents and pending
+					Patent Applications, which stands as a testament to Our originality and ingenuity. These assets,
+					which number in the hundreds, are not just intellectual achievements—they represent the
+					foundation of Our groundbreaking solutions that lead markets and shape the future. By
+					safeguarding Our proprietary technologies, We ensure that Our clients and partners benefit from
+					products and services that are one of a kind. AccuWeather's weather information uses proprietary
+					technologies, patented innovations, copyright content, trade secrets, and other intellectual
+					property.
+8. Acceptable Use Policy.
+You agree not to use the AccuWeather Sites, Products, or Services to:
+upload, post, or otherwise transmit any data or content that is unlawful, harmful,
+						threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive
+						of another's privacy or without another's permission, hateful, or racially, ethnically or
+						otherwise objectionable to any person for any reason, natural or corporate;
+harm minors in any way;
+impersonate any person or entity, including, but not limited to, an AccuWeather official,
+						forum leader, guide or host, or falsely state or otherwise misrepresent Your affiliation
+						with a person or entity;
+upload, post, or otherwise transmit any falsified, composite, or otherwise non-authentic
+						depictions of events, locations, landmarks, entities or persons (spoofs);
+upload, post, or otherwise transmit any content that You do not have a right to transmit under any
+						law or under contractual or fiduciary relationships (such as inside information, proprietary and
+						confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements);
+upload, post, or otherwise transmit any content that infringes any patent, trademark, trade secret,
+						copyright, or other proprietary or intellectual property rights of any party;
+upload, post, or otherwise transmit any content that promotes discrimination based on race, sex,
+						religion, nationality, disability, sexual orientation or age;
+upload, post, or otherwise transmit any unsolicited or unauthorized advertising,
+						promotional materials, "junk mail," "spam," "chain letters," "pyramid schemes,"
+						"phishing" or any other form of solicitation, including, without limitation, the solicitation
+						of users to become subscribers of other on-line information services competitive with
+						AccuWeather;
+upload, post, or otherwise transmit any material that contains software viruses or any
+						other computer code, files, or programs designed to interrupt, destroy, or limit the
+						functionality of any computer software or hardware, or telecommunications equipment;
+interfere with or disrupt AccuWeather or servers or networks connected to AccuWeather,
+						or disobey any requirements, procedures, policies or regulations of networks connected to
+						AccuWeather;
+"stalk" or otherwise harass another; collect or store Personally Identifiable Information
+						about other users;
+promote or provide instructional information about illegal activities, promote physical
+						harm or injury against any group or individual, or promote any act of cruelty to animals,
+						including, but not limited to, providing instructions on how to assemble bombs, grenades
+						and other weapons, and creating "Crush" sites;
+use Your access or AccuWeather-hosted Sites (or directory) as storage for remote loading
+						or as a door or signpost to another home page, whether inside or beyond the
+						AccuWeather Sites, without express written permission from AccuWeather;
+use the Sites to engage in commercial activities without enrolling in AccuWeather-approved
+						programs, including but not limited to offering for sale any products or
+						services, soliciting for advertisers or sponsors, conducting raffles or contests that require
+						any type of entry fee, displaying a sponsorship banner of any kind, displaying banners for
+						services that provide cash or cash-equivalent prizes to users in exchange for hyperlinks to
+						their Websites, use the Sites to provide access to the Sites for other persons through use
+						of Your User Name and Password;
+tamper in any way with the Products or functionality of the Sites, such as placing on the
+						Sites material which contains any viruses, time bombs, trojan horses, worms, cancelbots
+						or other computer programming routines that may damage, interfere with, intercept or
+						expropriate any system, data or information; or
+utilize AI, bots, agents, crawlers and other computer-based crawling and scraping
+						programs on the Sites.
+ACCUWEATHER EXPRESSLY DISCLAIMS ANY AND ALL LIABILITY FOR ANY
+					MATERIALS UPLOADED OR PLACED ON THE SITES BY SUBSCRIBERS OR OTHER
+					USERS OF THE SITES.
+9. Notice Specific to Products Available On This Website.
+Permission to use Products from
+					AccuWeather’s Website is granted, provided that (1) any resident copyright notices remain and
+					are not removed , (2) use of Products from this Site is for Your use only and will not be copied or
+					posted on any network computer or broadcast in any media absent an express written agreement
+					with AccuWeather, (3) the Products shall not be used on data outside of the Sites absent an
+					express written agreement with AccuWeather and shall be in compliance with the End User
+					License Agreement; (4) no unauthorized modifications of any Products are made; (5) any use of
+					Provider Products is consistent with any applicable Provider Terms. Use for any other purpose is
+					expressly prohibited by law and may result in civil and criminal penalties. Subject to
+					AccuWeather's Privacy Statement, or where expressly provided otherwise by AccuWeather, all
+					comments, feedback, information or materials submitted to AccuWeather through or in
+					association with this Website shall be considered non-confidential and Property of AccuWeather.
+					By submitting such comments, feedback, information or materials to AccuWeather, You agree to
+					a fee-free assignment to AccuWeather of all worldwide rights, title and interest in copyrights and
+					other intellectual property rights to the comments, feedback, information or materials.
+					AccuWeather shall be free to use such comments, feedback, information or materials on an
+					unrestricted basis. FOR YOUR CONVENIENCE, ACCUWEATHER MAY MAKE
+					AVAILABLE ON THE SITES OR IN ITS PRODUCTS, TOOLS AND UTILITIES FOR USE
+					AND/OR DOWNLOAD. ACCUWEATHER DOES NOT MAKE ANY ASSURANCES WITH
+					REGARD TO THE ACCURACY OF THE RESULTS OR OUTPUT THAT DERIVES FROM
+					SUCH USE OF ANY SUCH TOOLS AND UTILITIES. PLEASE RESPECT THE
+					INTELLECTUAL PROPERTY RIGHTS OF OTHERS WHEN USING THE TOOLS AND
+					UTILITIES MADE AVAILABLE ON THE SITES OR IN ACCUWEATHER PRODUCTS.
+					Products, as specified above, do not include original User Content hosted on the Sites, the design
+					or layout of the Sites or any other AccuWeather owned, operated, licensed or controlled Site.
+					Elements of the Sites are protected by copyright, patent, trade dress, trademark, unfair
+					competition, and other laws and may not be copied or imitated in whole or in part. No logo,
+					graphic, sound, or image from any Site may be copied or retransmitted unless expressly
+					permitted by AccuWeather.
+10. Additional and Subscription Products and Services.
+Products and Services offered by
+					AccuWeather through product licenses and/or service agreements, including, but not limited to,
+					subscriptions on the AccuWeather App and Website and products and services offered through
+					AccuWeather For Business, and others may be subject to terms in this Agreement, which terms
+					and conditions are available upon registering for or subscribing to the products and/or service(s).
+					Provider’s products or services may be made available through the Sites via hyperlinks and are
+					applicable should You choose to use their products or services. Any terms and conditions from
+					Providers that are in addition to these Terms and Conditions will apply only to that Provider's
+					service or content unless explicitly stated otherwise.
+11. The AccuWeather Website Does Not Provide Medical Advice.
+The contents of the Sites
+					such as text, graphics, images, indexes, information obtained from AccuWeather licensors, and
+					all other material contained on the Sites, including but not limited to, the Flu Index are non-
+					medical opinion and for illustrative, discussion, and entertainment purposes only. You should not
+					use the content for preventing, diagnosing, or treating a medical or health condition. While there
+					may be information on the Sites related to or associated with certain medical conditions, their
+					recognition, prevention, and treatment; should a desire for medical information, a medical
+					question, concern or condition exist, promptly see a physician or health care provider. The
+					content is not intended to be a substitute for professional medical information, advice, diagnosis,
+					or treatment. You agree that You will not under any circumstances disregard any professional
+					medical advice or delay in seeking such advice in reliance on the content provided on or through
+					the Sites. RELIANCE ON SUCH CONTENT IS SOLELY AT YOUR OWN RISK.
+					AccuWeather does not recommend or endorse any specific indexes, data, preventative measures,
+					medications, tests, physicians, products, procedures, opinions, or other information that may be
+					mentioned, found or referenced on the Sites. Reliance on any information provided by
+					AccuWeather, AccuWeather employees, advertisers, others appearing on the Sites at the
+					invitation of AccuWeather, or other visitors to the Sites is solely at Your own risk. PLEASE
+					CONSULT WITH YOUR DOCTOR OR OTHER QUALIFIED HEALTH CARE
+					PROFESSIONAL BEFORE USING ANY PRODUCT DISCUSSED WITHIN THIS, OR ANY
+					OTHER, WEBSITE.
+12. Disclaimer.
+ACCUWEATHER MAKES NO EXPRESS OR IMPLIED WARRANTIES,
+					GUARANTEES, OR AFFIRMATIONS THAT WEATHER INFORMATION WILL OCCUR
+					OR HAS OCCURRED AS THE REPORTS, FORECASTS, GRAPHICS, DATA, BRIEFINGS
+					OR INFORMATION COMPRISING THE SITES, PRODUCTS, OR SERVICES STATE,
+					REPRESENT OR DEPICT AND ACCUWEATHER SHALL HAVE NO RESPONSIBILITY
+					OR LIABILITY WHATSOEVER TO YOU OR ANY OTHER PERSON OR ENTITY,
+					PARTIES, AND NON-PARTIES ALIKE, FOR ANY INCONSISTENCY, INACCURACY, OR
+					OMISSION FOR WEATHER OR EVENTS PREDICTED OR DEPICTED, REPORTED,
+					OCCURRING OR OCCURRED. THERE MAY BE TIMES WHEN DATA OR SERVICES
+					FROM THIRD PARTIES THAT ACCUWEATHER NORMALLY USES AS ALL OR A
+					PART OF THE BASIS OF ITS FORECASTS, GRAPHIC, OR OTHER PRODUCTS,
+					INFORMATION, AND SERVICES IS UNAVAILABLE OR DISREGARDED AND
+					ACCUWEATHER SHALL HAVE THE RIGHT TO CONTINUE TO ISSUE SUCH
+					PRODUCTS, INFORMATION, AND SERVICES WITHOUT INFORMING THE END USER
+					OF THE CHANGED BASIS OR SOURCE OF SUCH PRODUCTS, INFORMATION, OR
+					SERVICES AND TO CHANGE SOURCES FROM TIME TO TIME. WEB-BASED AND
+					MOBILE/WIRELESS SERVICES ARE DEPENDENT UPON OPEN COMMUNICATIONS
+					NETWORKS PROVIDED BY THIRD PARTIES, AND ACCUWEATHER IS NOT
+					RESPONSIBLE FOR LACK OF SERVICES DUE TO COMMUNICATIONS NETWORK
+					OUTAGES. YOU ARE ADVISED AND INFORMED THAT THE GOVERNMENT ISSUES
+					OFFICIAL WATCHES, WARNINGS, AND ADVISORIES, BULLETINS AND OTHER
+					COMMUNICATIONS. YOU SHOULD KEEP ADVISED OF SAME. YOU AND THIRD
+					PARTIES ARE SOLELY RESPONSIBLE FOR ACTION OR LACK OF ACTION TAKEN TO
+					PRESERVE LIFE OR PROPERTY. ACCUWEATHER MAKES NO WARRANTY OR
+					REPRESENTATION WITH RESPECT TO ANY PROVIDER PRODUCTS OR MATERIALS.
+					YOU ARE ADVISED AND INFORMED THAT CONTENT PROVIDED OR ACCESSED
+					THROUGH THE SITES IN ASSOCIATION WITH WIRELESS WEATHER INFORMATION
+					SERVICES IS NOT PROVIDED BY, THE RESPONSIBILITY OF, NOR WITHIN THE
+					CONTROL OF, ANY MOBILE/WIRELESS COMMUNICATIONS CARRIERS, INTERNET
+					SERVICE PROVIDERS, OR INTERNET STOREFRONTS. THIS SITE AND ITS CONTENT
+					IS NOT REVIEWED, SPONSORED OR OTHERWISE ENDORSED BY THE
+					PENNSYLVANIA STATE UNIVERSITY. ANY CONTENT SUBMITTED BY THE
+					PENNSYLVANIA STATE UNIVERSITY, ITS AGENTS, EMPLOYEES, OR
+					CONTRACTORS APPEARING ON THIS SITE IS PROVIDED "AS IS", WITHOUT ANY
+					REPRESENTATIONS OR WARRANTIES. THE PENNSYLVANIA STATE UNIVERSITY,
+					ITS AGENTS, EMPLOYEES OR CONTRACTORS RESERVE ALL RIGHTS, TITLE AND
+					INTERESTS, INCLUDING COPYRIGHTS, TO ANY SUBMISSIONS OR CONTENT
+					PROVIDED BY THEM, INCLUDING ANY SUCH INFORMATION OR MATERIALS
+					WHICH ARE PUBLISHED ON THIS SITE. THE USE OF ANY AND ALL TRADEMARKS,
+					TRADE NAMES OR DESIGNATIONS OF THE PENNSYLVANIA STATE UNIVERSITY
+					ON THIS SITE IS DONE WITH PERMISSION, ALL RIGHTS RESERVED.
+13. No Warranties/Limit of Liability.
+YOU ASSUME ALL RESPONSIBILITY AND RISK
+					FOR THE USE OF THE SITES, ERRORS ON THE SITES, AND THE INTERNET
+					GENERALLY. THE SITES AND THE PRODUCTS ARE PROVIDED BY ACCUWEATHER
+					ON AN "AS IS" BASIS. ACCUWEATHER AND ITS PROVIDERS MAKE NO
+					REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO
+					THE OPERATION OF THE SITES OR THE INFORMATION, CONTENT, MATERIALS, OR
+					PRODUCTS INCLUDED ON THE SITES. TO THE FULL EXTENT PERMISSIBLE BY
+					APPLICABLE LAW, ACCUWEATHER AND ITS PROVIDERS DISCLAIM ALL
+					WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+					IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE AND FITNESS FOR A
+					PARTICULAR PURPOSE, NONINFRINGEMENT OF INTELLECTUAL PROPERTY
+					RIGHTS OR OTHER PROPRIETARY RIGHTS, AND FREEDOM FROM ERRORS,
+					VIRUSES, BUGS, OR OTHER HARMFUL COMPONENTS. YOU UNDERSTAND AND
+					AGREE THAT YOU DOWNLOAD, INSTALL, AND/OR USE THE TOOLBAR(S) AND
+					OTHER PRODUCTS MADE AVAILABLE ON THE SITES AT YOUR OWN DISCRETION
+					AND RISK AND THAT WE WILL HAVE NO LIABILITY TO YOU OR ANY OTHER
+					PERSON FOR ANY DAMAGES OR DISRUPTION TO YOUR COMPUTER OR SYSTEM
+					OR LOSS OF DATA THAT RESULTS FROM SUCH DOWNLOADS. ACCU WEATHER
+					AND ITS PROVIDERS WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND
+					ARISING FROM THE USE OF THE SITES, INCLUDING, BUT NOT LIMITED TO
+					DIRECT, INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, CONSEQUENTIAL
+					DAMAGES OR DAMAGES RESULTING FROM THE LOSS OF USE, DATA, OR PROFITS,
+					OR BUSINESS INTERRUPTION ARISING OUT OF OR IN ANY WAY CONNECTED
+					WITH THE USE OF THE SITES, ANY DELAYS ON THE SITES, ANY PURCHASE,
+					LICENSE OR SERVICE RELATED TO THE SITE, OR THE INABILITY TO USE THE
+					SITES, ANY PORTION THEREOF, OR ANY HYPERLINKED OR EMBEDDED SITE,
+					WHETHER BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR
+					OTHERWISE, EVEN IF ACCU WEATHER OR ANY OF ITS PROVIDERS HAVE BEEN
+					ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE TOTAL LIABILITY OF
+					ACCUWEATHER AND ITS PROVIDERS ARISING OUT OF OR IN ANY WAY RELATED
+					TO USE OF ANY OF THE PRODUCTS OR THE SITES OR ITS IMPLEMENTATION
+					SHALL NOT EXCEED THE GREATER OF $1.00 OR 50% OF THE FEES PAID BY YOU
+					TO ACCUWEATHER UNDER THESE TERMS AND CONDITIONS AND ANY
+					APPLICABLE SUBSCRIPTION TERMS OR PROVIDER TERMS. BECAUSE SOME
+					STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF
+					LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE
+					LIMITATION MAY NOT APPLY TO YOU. THIS SHALL BE THE EXCLUSIVE REMEDY
+					HEREUNDER.
+14. Indemnification.
+You hereby agree that You will well and truly indemnify and save
+					harmless AccuWeather and its affiliates and Providers from all manners of suit, actions,
+					damages, charges, and expenses, including attorney and counsel fees, which AccuWeather, its
+					affiliates, or its Providers may sustain by reason of Your use of the Sites, Your breach of any of
+					the terms, covenants or conditions of these Terms and Conditions, or other claims against
+					AccuWeather arising from these Terms and Conditions.
+15. Export Controls.
+The Sites and the Products may only be used in compliance with
+					applicable statutes or regulations relating to the export control laws and regulations of the
+					U.S.A., and any amendment thereof. You acknowledge that no Products or other underlying
+					information or technology accessed hereunder may be accessed, downloaded, used, possessed, or
+					otherwise exported or re-exported to (or to a national or resident of) any country outside of the
+					United States (including further export if You took delivery of the Software, Data or
+					Documentation inside the United States) without first complying strictly and fully with all export
+					controls that may be imposed by the United States Government or any country or organization of
+					nations within whose jurisdiction You use the Software, Data, Documentation or other
+					underlying information or technology.
+16.  Third Party Sites, Providers, Content, and Distribution.
+The Sites may link, redirect, connect,
+					"frame", utilize plug-ins, integrate applications recognized
+					automatically by the browser and otherwise direct You to without limitation, other sites, servers,
+					third party internet data, software or service providers, software developers, internet storefronts,
+					Internet Service Providers and mobile/wireless communications carriers, among others
+					(collectively, "Providers"). To the extent applicable, this Terms of Use shall apply. In order to
+					utilize some of the AccuWeather Products and services You may have to use, accept, install, and
+					review information, data, executables, programs, software, and other items from Providers that
+					are not under the control of AccuWeather. This may occur with or without Your knowledge and
+					although the visual representation on Your screen may appear to be an AccuWeather website, the
+					information, data, executables, programs, software, and other items may come from Providers
+					and may not be under the control of AccuWeather. You acknowledge that AccuWeather is not
+					responsible for the accuracy, copyright, and other intellectual property compliance, legality,
+					decency, or any other aspect of the content of such Providers. Your use of the Sites and the
+					products and services through these Providers is at Your own risk. AccuWeather is not
+					responsible for any other form of transmission received from any linked site, nor the failure of
+					any services provided through mobile/wireless carriers, internet storefronts, or other Providers.
+					AccuWeather is providing these links to You only as a convenience, and the inclusion of any
+					link does not imply endorsement by AccuWeather, nor has AccuWeather independently
+					authenticated products or materials provided by Providers.
+17. Advertisements.
+The Sites contain information of high economic value and is provided to
+					You free of charge because it is supported by advertisers and therefore may include advertising
+					for products and services offered by the Provider or third parties. This advertising support is
+					significant and allows Us to provide the Sites as a public service to people who can, and those
+					who cannot, afford to pay the high cost of operating the Sites. The advertising may be targeted to
+					information related to the type of weather information You access, Your search requests, or other
+					information consistent with our Privacy Statement (
+https://www.accuweather.com/en/privacy
+).
+					AccuWeather would incur substantial unreimbursed costs in connection with the Sites without
+					the ability to display advertising. Accordingly, We ask for Your help in exchange for our free
+					license to You to access the Sites and its content. You agree that advertising is, and will continue
+					to be, a part of the Sites content provided to You and You agree not to block the advertising on
+					the Sites, whether through the use of technology or other means. Doing so is a material breach of
+					these Terms and Conditions for which AccuWeather reserves the right to charge You fees for the
+					use of the Sites or to seek other legal damages. AccuWeather may utilize technology or other
+					measures to bypass attempts to block advertising and You agree to cooperate with AccuWeather
+					in doing so. AccuWeather makes no representations or warranties with respect to the quality,
+					appropriateness, accuracy, truthfulness, reliability, business ethics, or other aspects of any such
+					advertisements and/or the organizations placing the advertisements and shall have no
+					responsibility or liability for any claims arising out of or related to any such advertisements, the
+					contents thereof, the products or services promoted therein, or the fulfillment thereof. It is a
+					user’s sole responsibility to satisfy himself or herself as to the desirability of dealing with any
+					given advertiser and to understand the relationship is between the user and the advertiser and not
+					with AccuWeather. AccuWeather may display political advertising as a business transaction,
+					from advocacy groups and candidates for office. AccuWeather does not endorse candidates for
+					political office or endorse any political statements, positions or issues.
+18. Communications Decency Act.
+Pursuant to Section 230 of the Communications Decency
+					Act, We are passing along this notice to advise You that parental control protections (such as
+					computer hardware, software, or filtering services) are commercially available that may assist
+					You in limiting access to material that is harmful to minors.
+19. Privacy.
+AccuWeather is committed to safeguarding Your privacy online and has established
+					a Privacy Policy to explain to users how their information is collected and used. This Privacy
+					Policy is located at the following web address:
+https://www.accuweather.com/en/privacy
+. Your
+					use of the Sites, Accuweather.com website, AccuWeather Application, or any other Website,
+					Application, Product, Service, or any other products, services, data, materials or content linking
+					to these Terms of Use or the Privacy Policy, and Your provision of Your login information (e.g.,
+					username and emails), signifies Your acknowledgment of, and agreement to, our Privacy Policy.
+					Note that as AccuWeather expands its offerings, We may update our Privacy Policy from time to
+					time. Please check our Privacy Policy for updates on a regular basis.
+20. Children.
+The Products are not directed to children under the age of 18. Please do not allow
+					children under the age of 18to provide any personally identifiable information or participate in
+					social media related to our Products. If We are notified that a child under 18 has provided
+					personal information, We will delete that information as soon as reasonably possible. If You
+					become aware that a child under 18 has provided such information, please send Us a detailed
+					email at
+support@accuweather.com
+so We can delete
+					this information.
+21. Copyright.
+A. Copyright Ownership of the Sites and Products.
+AccuWeather, Inc., with its headquarters
+				located at 385 Science Park Road, State College, Pennsylvania 16803, except where otherwise
+				indicated. All rights reserved.
+B. Notification of Copyright Infringement.
+AccuWeather will, in appropriate circumstances,
+				terminate the accounts of users involved in disputes regarding intellectual property rights and
+				remove or disable access to related content. If You believe that the Sites contain infringing or
+				disputed intellectual property, or that work has been used or copied in a way that constitutes
+				copyright infringement and such infringement is occurring on the Sites or on websites linked to
+				the Sites, please provide AccuWeather a Notice of Infringing Material(s) ("Notice") containing
+				the following elements:
+A physical or electronic signature of the owner (or an authorized agent) of the copyright
+					material(s) alleged to have been infringed.
+A description of the copyrighted work or works that the copyright owner or agent claims
+					have been infringed and a reasonable identification of the material(s) the copyright owner
+					claims is infringing the copyrighted work(s) and is requesting to be removed or access be
+					disabled.
+A description of where the alleged infringing material(s) is located on the AccuWeather
+					Sites (include a URL if possible).
+Sufficient contact information regarding the copyright owner or agent, such as Your
+					physical address, e-mail address, website, telephone number, and fax number.
+A statement by the copyright owner or agent that he/she has a good faith belief that the
+					use of the material(s) identified in the Notice is not authorized by the copyright owner, its
+					agent, or the law.
+A statement by the copyright owner or agent that the information in the Notice is accurate
+					and, under penalty of perjury, that the complainant is the copyright owner or an
+					authorized agent to act on behalf of the copyright owner.
+Notices of Infringing Materials should be sent to AccuWeather as follows:
+By Mail:
+AccuWeather, Inc.
+385 Science Park Road
+State College, PA 16803 USA
+Attn: Legal Department, Copyright
+By email:
+copyright@accuweather.com
+By phone:
+(814) 235-8565
+By fax:
+(814) 235-8569
+22. Artificial Intelligence (AI).
+A. Scraping, Machine Learning, and Use of AI.
+AccuWeather’s Website and App contains information, data, and content that are the exclusive
+					property of AccuWeather and its intellectual property, and obtaining it by using Artificial
+					Intelligence (AI) without authorization is in violation of current laws and regulations. You shall
+					abide by AccuWeather's Intellectual Property terms and restrictions. Any use of an algorithm,
+					generative AI tool, model, or other software development for the purpose of scraping, machine
+					learning, training, fine tuning, or other software development, in any form, for any purpose,
+					without AccuWeather’s prior written consent, is expressly prohibited. It is prohibited to
+					circumvent, disable, or otherwise interfere with any security features or authentication processes
+					that prevent or restrict access to scraping or copying without permission. In the occurrence of the
+					above, without limiting any of AccuWeather’s other rights, AccuWeather may (i) charge a
+					licensee fee and/or (ii) suspend or terminate Your access to the Services or delete Your account.
+B. Request to Use.
+AccuWeather values the importance of innovation and understands the
+					benefits of AI. You may contact
+support@accuweather.com
+for authorized permission
+					or access without infringement, violation, or breach.
+23. Subscriptions.
+A. Fees.
+Please be advised that some, but not all, areas of the Sites may contain fee-based
+			services, and are subject to additional Subscription Terms You agree to pay to AccuWeather the
+			fees stated or as specified from time to time for various fee-based Products and Services
+			available by or through AccuWeather, and You are responsible for promptly paying for
+			AccuWeather Products and Services. Failure to pay these fees in a timely manner will result in
+			an interruption of fee-based Products and Services and the functional inability to access the fee-based
+			sections of the Sites. Charges will be calculated based upon the subscription package
+			selected, and are applicable to the current version of the package selected. Upgrades related to
+			hardware changes or new releases may be subject to additional charges. Failure of payment shall
+			render due and payable all sums plus a late payment charge of one and one half percent per
+			month. Fees may be prorated for portions of months. Use of the service beyond the free time or
+			without proper authorization will result in charges to billing or credit card accounts. Fees and
+			payment terms therefore are subject to change upon Notice by AccuWeather to You. Packages,
+			once purchased, are nonrefundable, regardless of use or lack of use by You. Absolutely no
+			credits or refunds are available. Once a charge has been processed to Your credit card or wireless
+			account, You shall not request that Your credit card or mobile carrier company reverse the
+			charge or charge it back to AccuWeather. If You have a legitimate basis to request a credit for a
+			charge previously processed against his or her credit card account, he or she shall request a credit
+			from AccuWeather by written notice and resolve the issue directly with AccuWeather. Any
+			reversed charges which cause the credit card company to impose a charge back, refund, or credit
+			cost against AccuWeather shall be reimposed by AccuWeather upon You. Such costs may
+			exceed the cost of the reversed item or charge back by many times. "Lifetime" subscription
+			packages relate only to the Products initially downloaded or accessed by You, and do not extend
+			to upgrades to the Products or different hardware. AccuWeather reserves the right to discontinue
+			and/or cancel Lifetime Subscriptions for wireless Products, so long as AccuWeather provides
+			You a free upgrade to a different Product for Your wireless device.
+B. Renewal Terms.
+Subscription packages shall continue to renew until proper termination
+			notification is received from You according to the terms of Your subscription. Upon expiration
+			of the subscription period for any free trial or demo, You will be renewed on subscription terms
+			unless proper termination notification is received from You prior to the end of the trial or demo
+			period.
+24. User Content
+We may feature the content of our users ("User Content") on our various Sites, social media
+			channels, digital products, media platforms, networks, or any of our other properties (“Our
+			Properties”). When You respond to a request and give Us permission to use Your User Content,
+			or when You post, upload, or submit any User Content on Our Properties, You agree to the terms
+			and conditions in these Terms of Use.
+A. Submissions to AccuWeather.
+Subject to the Terms and Conditions set forth in this
+			agreement, You may submit User Content that includes photos, pictures, images, sound, or
+			videos, or other information to AccuWeather through the AccuWeather website or a third party
+			website, feature or service that is accessible through the AccuWeather website but hosted by a
+			Provider, so long as the Submission is not illegal, obscene, threatening, defamatory, invasive of
+			privacy, infringing of intellectual property rights, or otherwise injurious to third parties, or
+			objectionable, and does not consist of or contain software viruses, political campaigning,
+			commercial solicitation, chain letters, mass mailings, or any form of spam or otherwise violate
+			the Acceptable Use Policy set forth in Section 7 in any way. You may be required to register,
+			and/or to provide information about Yourself to AccuWeather or a Provider in order to provide a
+			Submission. Use of any information you provide will be in accordance with AccuWeather’s
+			Privacy Statement. You must ensure that the information You provide as part of the registration
+			or uploading process is complete and accurate at all times. You may not use a false email
+			address, impersonate any other individual or entity, or otherwise mislead Us as to the origin of a
+			Submission. In the event that You need to make any updates or changes to the information You
+			provide when You register or upload a Submission, please contact Us
+			at
+support@accuweather.com
+.The website page(s) that You interact with when You make Your
+			Submission to AccuWeather may be hosted by a third party Provider who specializes in
+			providing such functionality, even though such page(s) may appear to be part of an AccuWeather
+			website. AccuWeather may use such third party Provider's platform to host and manage Your
+			Submission(s). If You do make a Submission, and unless We indicate otherwise, You grant
+			AccuWeather and its affiliates a non-exclusive, royalty-free, perpetual, irrevocable, transferrable
+			and fully sub-licensable right to use, reproduce, host, cache, store, modify, edit, adapt, publish,
+			translate, create derivative works from, distribute, and publicly display the Submission
+			throughout the world in any media (e.g., websites, applications, television, etc.) for any purpose.
+B. Grant of License:
+If You post, upload, or otherwise transmit User Content to Our Properties,
+			or If You reply granting Us permission to use Your User Content, You hereby acknowledge and
+			agree that You are granting AccuWeather, its subsidiaries, affiliates, successors, assigns,
+			contractors, and licensees, a worldwide, royalty-free, perpetual, irrevocable, sub-licensable, non-exclusive
+			right and license to use, reproduce, syndicate, print, publicly display, publicly perform,
+			exhibit, distribute, redistribute, copy, index, comment on, modify, transform, adapt, translate,
+			create derivative works based upon, sublicense, and distribute such User Content, and
+			incorporate it in other works, in whole or in part, in any manner and any media now known or
+			hereafter developed, in any number of copies and without limit as to time, manner, and
+			frequency of use, without further notice to You, without the requirement of attribution, and
+			without payment to You. You grant permission for AccuWeather to use Your User Content to
+			develop artificial intelligence models and algorithms and to train machine learning tools, whether
+			generative or another type. AccuWeather reserves the right to delete, remove, or take down Your
+			User Content at any time for any reason without notice to You. You also grant Us the right to use
+			the identification under which You posted the Submission. You agree to confirm the above
+			licenses in writing upon Our request.
+C. Ownership of User Content:
+You represent and warrant that You own or otherwise control
+			all of the rights to the User Content that You post; that You have all necessary rights, licenses
+			and authority to submit Your User Content and to grant AccuWeather and its affiliates the rights
+			and license specified herein; that such User Content does not infringe, misappropriate or violate
+			the rights of any third party including, but not limited to, copyright, trademark, or other
+			intellectual property rights, rights of publicity or privacy or defamation, moral rights, or portrayal
+			in a false light; that the User Content are not the subject of any threatened or pending litigation,
+			claim or dispute; that the User Content are complete and accurate; that the use of the User
+			Content You supply by AccuWeather and its affiliates and sub-licensees does not violate these
+			Terms and Conditions and will not cause injury to any individual or entity; that You have the
+			written consent, release and/or permission of each and every identifiable individual person in
+			Your Submission to use such person’s name or likeness and to grant AccuWeather and its
+			affiliates the rights stated herein; that You have obtained signed location agreements when
+			photographing or filming on private property not owned or controlled by You; and that You will
+			defend, indemnify and hold AccuWeather and its affiliates harmless from all claims, demands,
+			actions, and any liabilities, damages or expenses resulting therefrom, arising out of or relating to
+			any breach of any of the foregoing representations or warranties or otherwise resulting from User
+			Content You supply. AccuWeather takes no responsibility and assumes no liability for any
+			Submission. Without limiting the generality of the foregoing sentence, You agree that
+			AccuWeather shall not be responsible or liable for any injuries or damages You may sustain in
+			connection with the creation or production of Your Submission(s) (for instance, if You suffer
+			injuries while filming a video for submission to AccuWeather). Please make sure to take all
+			necessary precautions. All User Content must be Your sole, original work. No copyrighted
+			music, trademarks, brands, or other intellectual property not owned by You may be used in Your
+			Submission. We will, in appropriate circumstances, terminate Your account, and remove or
+			disable Your User Content in the event of a dispute regarding intellectual property rights.
+			AccuWeather also reserves the right to reject or remove any Submission, in its sole discretion,
+			for any reason.
+D. No Payment.
+You acknowledge and agree that AccuWeather will not pay You for any User
+			Content or Submission. You understand that changes to industry custom or practice will not
+			impact or modify Your agreement that You will not be paid or compensated for any User
+			Content.
+E. Credit for User Content.
+AccuWeather will credit You as the author or owner for Your User
+			Content whenever feasible. Notwithstanding the foregoing, You agree that AccuWeather and its
+			subsidiaries, affiliates, successors, assigns, contractors, and licensees, shall have no obligation to
+			give You authorship or ownership credit for Your User Content. You waive Your rights to
+			attribution, integrity, or any other moral right in the User Content in connection with its use by
+			AccuWeather.
+F. Content Syndication.
+You grant AccuWeather the license to use Your User Content in any
+			syndicated news coverage in any manner and any media now known or hereafter developed.
+			AccuWeather will credit You as the author or owner for Your User Content whenever feasible,
+			but there is no requirement of attribution to You. You acknowledge and agree that AccuWeather
+			will not pay You for use of Your User Content in any syndicated news coverage.
+G. Use of Name and Likeness.
+You grant AccuWeather and its subsidiaries, affiliates,
+			successors, assigns, contractors, and licensees, without additional compensation or attribution to
+			You, the right to record, use, and reuse Your voice, actions, likeness, name, appearance, image,
+			location, profile photograph, performance, biographical material, and any other identifying
+			information, including, without limitation, any information contained in Your User Content, in
+			connection with any use of Your User Content.
+H. Liability for User Content.
+User Content does not reflect the views of AccuWeather.
+			AccuWeather should not be seen as endorsing any User Content in any way. You are entirely
+			responsible and liable for any claims, loss, or damages relating to Your User Content.
+			AccuWeather is not responsible for, and does not endorse or guarantee, the opinions, views,
+			advice or recommendations contained in any User Content. You agree to indemnify and hold Us
+			harmless from any demands, loss, liability, claims, or expenses (including attorneys’ fees), made
+			against Us by any third party arising out of or in connection with Our use of Your User Content.
+			You acknowledge and agree that no confidential relationship is intended or created between
+			AccuWeather, on the one hand, and You, on the other hand, by Your submission of the User
+			Content.
+25. Account and Login Information.
+A. Account
+You may create an account with AccuWeather on Our Sites to access Your
+			products and services. If You forget Your password, We will provide a reset link to Your
+			verified email address. We do not disclose or transmit Your existing password. If You suspect
+			unauthorized access, please reset Your password immediately and contact AccuWeather Support
+			at
+support@accuweather.com
+.
+B. Login Information.
+Your account profile will include Your credentials, name, username,
+			password, and email address
+(“Login Information”).
+We use Your Login Information to create
+			and administer Your account and to provide and personalize account-based features You select
+			(for example, saved locations and preferences).
+C. Marketing and Promotion.
+If You provide an email address when creating an account, We
+			may (where permitted by law) use that email to send You emails about AccuWeather’s products,
+			services, and information. We may send You AccuWeather email marketing campaigns,
+			AccuWeather email promotional advertisements, surveys, newsletters, and any other marketing
+			notifications. To unsubscribe from an AccuWeather marketing email, scroll to the bottom or
+			footer of the email and find the text labeled “unsubscribe”, click the link, and then follow the
+			on-screen instructions. Unsubscribing from marketing emails does not affect service or transactional
+			emails (e.g., account, security, subscription, payment, or legal notices), which are necessary to
+			provide the services you request. Unsubscribing from marketing emails does not delete Your
+			personal information retained in Your account; it stops You from receiving emails. If You
+			would like to simultaneously unsubscribe and delete Your information, email Your request to
+support@accuweather.com
+.
+D. Billing and Payment.
+We use a Provider platform to process Your payments. We do not
+			collect Your financial information for payment. We disclose the required account credentials to
+			Our Provider to bill You and for You to make a payment. The Provider is under contract that
+			restricts their use only for billing and payment.
+E. Safeguard and Protection.
+AccuWeather is committed to safeguarding Your account and
+			Login Information. We store authentication data using industry standards and restrict access to
+			authorized personnel. You may find more information on our Privacy Policy website:
+https://www.accuweather.com/en/privacy
+.
+26. Provider Terms.
+Materials provided to AccuWeather for inclusion on any website hosted or
+			managed by AccuWeather may not and shall not violate any of the General Terms and
+			Conditions of the agreement(s) with AccuWeather or any terms in any supplemental written
+			terms and conditions, as well as any applicable website Terms and Conditions and Privacy
+			Policy. AccuWeather’s standards for its Providers are designed to optimally ensure that the
+			AccuWeather Website, App, products and services do not (i) incorporate images or content that
+			is in any way unlawful, harmful, threatening, defamatory, libelous, obscene, or harassing; (ii)
+			promote discrimination based on race, sex, religion, nationality, disability, sexual orientation, or
+			age; (iii) promote illegal activity or incorporate any materials which infringe or assist others to
+			infringe any copyright, trademark, patent, or other legal rights; (iv) present materials unsuitable
+			for viewing by children under the age of 18; or (v) display content featuring competitors of
+			AccuWeather. Guidelines have been constructed to ensure that the above objectives are met.
+			AccuWeather relies upon its business partners to act in accordance with applicable laws, rules,
+			and regulations, including intellectual property and privacy. Do not imply affiliation, association,
+			or endorsement by, or favored status with AccuWeather, unless authorized.
+The following is considered inappropriate content and shall not be used, published, or
+			broadcasted on AccuWeather’s Website, App, and other properties:
+Alcoholic beverages (beer, wine, liquor, etc.).
+Tobacco (cigarettes, cigars, pipes, chewing tobacco, etc.).
+Guns/weapons (firearms, bullets, etc.).
+Illegal drugs (marijuana, cocaine, etc.).
+Sexual (adult themes, sexual activities, pornography, etc.).
+Crime and criminal conduct in general (organized crime, notorious characters, etc.).
+Violence/Mayhem (physical harm or pain, torture, riots, etc.).
+Dehumanizing (degrading, abuse, humiliating, etc.).
+Death (funeral homes, mortuaries, etc.).
+Hate (racial, religious, ethnic, etc.).
+Gambling (casinos, lotteries, etc.).
+Politics (lobbyists, political campaigns, etc.).
+Illegal acts (violates, or promotes the violation of, any criminal law, etc.).
+27. Customer Service & Technical Support.
+Issues relating to technical or operational support or issues relating
+		to AccuWeather’s products or services, please contact AccuWeather’s Customer Service at the following email:
+support@accuweather.com
+.
+28. Modifications.
+AccuWeather may modify this Terms of Use at any time, and the new terms and
+		conditions will become effective by posting the new terms and conditions in the same location as the previous terms
+		and conditions were posted. AccuWeather has the right at any time to modify or cancel any feature or functionality of
+		the Sites, including hours of availability, content, applications, and equipment requirements for use with the
+		Products and/or services, and AccuWeather reserves the right to suspend or terminate access to the Sites and/or the
+		Products and/or services provided without prior notice in the event You are in violation of these terms of use, or for
+		scheduled or unscheduled support and maintenance on the Sites.
+29. Term.
+The Terms of Use are effective upon acceptance and shall remain and continue until terminated.
+		Neither this Agreement nor any rights or obligation hereunder may be assigned by You without the express written permission
+		of AccuWeather, and any purported transfer of rights shall oblige the transferee to these Terms and Conditions, and Your rights
+		will be terminated. AccuWeather may terminate Your right to use the Sites and its Products and services upon the breach by You
+		of any provision contained in these Terms and Conditions, any applicable Provider Terms, Subscription Terms, the End User
+		License Agreement, or the Privacy Statement governing the Sites and downloaded Products. Upon such termination by AccuWeather,
+		you agree to certify the destruction, removal or obliteration of the Products and all copies thereof to AccuWeather.
+30. Choice of Laws / Jurisdiction.
+This Agreement is governed by the laws of the Commonwealth of Pennsylvania,
+		with the exception of export control, infra, which is governed by U.S. Federal law. Any dispute arising out of this Agreement or
+		related thereto shall be subject to the jurisdiction of said Courts located within Pennsylvania, and it is further agreed that any
+		and all matters of dispute shall be adjudicated, governed and controlled under and by Pennsylvania law.
+31. LANGUAGE.
+TO THE EXTENT THIS AGREEMENT MAY BE TRANSLATED INTO A LANGUAGE OTHER THAN ENGLISH AND THERE IS A
+		CONFLICT OF TERMS BETWEEN THE ENGLISH AND THE OTHER LANGUAGE, THE ENGLISH VERSION SHALL CONTROL. THESE TERMS AND CONDITIONS MAY
+		CHANGE PERIODICALLY, SO PLEASE CHECK BACK OFTEN.
+32. ENTIRE AGREEMENT.
+THESE TERMS OF USAGE, TOGETHER WITH ACCUWEATHER'S PRIVACY STATEMENT AND ANY END USER
+		LICENSE AGREEMENT, SUBSCRIPTION TERMS, PROVIDER TERMS AND/OR ANY OTHER AGREEMENTS OR TERMS APPEARING OR REFERENCED ON THE SITES
+		AND/OR ENTERED INTO BETWEEN THE PARTIES IN WRITING REPRESENT THE ENTIRE SET OF TERMS AND CONDITIONS GOVERNING YOUR USE OF THE
+		SITES AND ANY PRODUCTS (WHERE APPLICABLE) ACCESSED THROUGH THE SITES, AND IT SUPERSEDES ANY PRIOR PROPOSAL, REPRESENTATION, OR
+		UNDERSTANDING BETWEEN THE PARTIES. IF YOU ARE AN EMPLOYEE OF AN ORGANIZATION THAT HAS A SEPARATE WRITTEN AGREEMENT IN PLACE WITH
+		ACCUWEATHER AND YOU ARE BEING PRESENTED WITH THESE TERMS OF USAGE IN CONNECTION WITH YOUR USE (ON BEHALF OF YOUR EMPLOYER) OF
+		PRODUCTS THAT ARE LICENSED TO YOUR EMPLOYER UNDER SUCH WRITTEN AGREEMENT, THEN THE TERMS AND CONDITIONS GOVERNING YOUR USE OF SUCH
+		PRODUCTS SHALL BE AS SPECIFIED IN THE WRITTEN AGREEMENT BETWEEN YOUR EMPLOYER AND ACCUWEATHER AND NOTHING HEREIN SHALL BE
+		CONSTRUED TO MODIFY OR SUPERSEDE THE TERMS AND CONDITIONS SET FORTH IN SUCH WRITTEN AGREEMENT OR GRANT ANY RIGHTS OR LICENSES
+		THAT ARE BROADER THAN THOSE SET FORTH IN YOUR EMPLOYER'S WRITTEN AGREEMENT WITH ACCUWEATHER. IN THE EVENT OF ANY CONFLICT BETWEEN
+		THE TERMS AND CONDITIONS SET FORTH HEREIN AND THE TERMS AND CONDITIONS SET FORTH IN THE WRITTEN AGREEMENT BETWEEN YOUR EMPLOYER
+		AND ACCUWEATHER, THE TERMS AND CONDITIONS SET FORTH IN THE WRITTEN AGREEMENT BETWEEN YOUR EMPLOYER AND ACCUWEATHER WILL TAKE
+		PRECEDENCE AND PREVAIL. THESE TERMS AND CONDITIONS MAY ONLY BE MODIFIED IN WRITING BY ACCUWEATHER.
+AccuWeather® develops weather information that is expertly articulated and
+		communicated to save lives. AccuWeather's approach is founded on a commitment
+		to innovation, creativity, and valuable communication; ensuring that We
+		communicate weather information using well developed and distinctive language or
+		phraseology to meet Your requests. When communicating with You, AccuWeather
+		understands consumer preferences, has an awareness of societal and global issues,
+		watches market trends, and uses sociological and philosophical understandings.
+		AccuWeather is unmatched in crafting valuable and comprehensible
+		language/phraseology and adapting to the evolving use of technology when presenting
+		weather information to You.
+© 2025 AccuWeather, Inc. All rights reserved.
+Version October 31, 2025
+© 2026 AccuWeather, Inc. "AccuWeather" and sun design are registered trademarks of AccuWeather, Inc. All Rights Reserved.
+Terms of Use
+|
+Privacy Policy
+|
+Cookie Policy
+|
+Data Sources
+...
+...
+...
+...
+...

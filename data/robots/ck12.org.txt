@@ -1,0 +1,125 @@
+User-agent: *
+Sitemap: https://www.ck12.org/sitemapindex.xml
+Sitemap: https://www.ck12.org/sitemap_subjects_index.xml
+Sitemap: https://www.ck12.org/sitemap_fsp_index.xml
+Sitemap: https://www.ck12.org/sitemap_adaptive_practice_index.xml
+
+## Allow UGC 1.x FlexBooks
+Allow: */user:*/book/
+
+## Disallow following patterns
+Disallow: /api/
+Disallow: /ads/
+Disallow: /flx/show/web/
+Disallow: /flx/show/pdf/
+Disallow: /my/
+Disallow: /editor/
+Disallow: *.../$
+Disallow: */user:*/
+Disallow: /user-generated-content/
+Disallow: /dexter/record/event
+
+# disallow really old image urls that no longer used
+Disallow: /ck12/images
+Disallow: /external
+
+# without trailing slash variations
+Disallow: */inftrees$
+Disallow: */inffast$
+Disallow: */common$
+Disallow: */crc32$
+Disallow: */adler32$
+Disallow: */lib/deflate$
+Disallow: */lib/inflate$
+Disallow: */lib/utils/common$
+Disallow: */messages$
+Disallow: */messages/utils/common$
+Disallow: */messages/utils/strings$
+Disallow: */messages/zlib/inflate$
+Disallow: */utils/common$
+Disallow: */utils/strings$
+Disallow: */zlib/deflate$
+Disallow: */zlib/inflate$
+Disallow: */zlib/gzheader$
+Disallow: */zlib/constants$
+Disallow: */zlib/messages$
+Disallow: */zlib/zstream$
+Disallow: */trees$
+
+# trailing slash variation 
+Disallow: */inftrees/$
+Disallow: */inffast/$
+Disallow: */common/$
+Disallow: */crc32/$
+Disallow: */adler32/$
+Disallow: */lib/deflate/$
+Disallow: */lib/inflate/$
+Disallow: */lib/utils/common/$
+Disallow: */messages/$
+Disallow: */messages/utils/common/$
+Disallow: */messages/utils/strings/$
+Disallow: */messages/zlib/inflate/$
+Disallow: */utils/common/$
+Disallow: */utils/strings/$
+Disallow: */zlib/deflate/$
+Disallow: */zlib/inflate/$
+Disallow: */zlib/gzheader/$
+Disallow: */zlib/constants/$
+Disallow: */zlib/messages/$
+Disallow: */zlib/zstream/$
+Disallow: */trees/$
+
+# ugc variations with trailing slash
+Disallow: */user*/inftrees/$
+Disallow: */user*/inffast/$
+Disallow: */user*/common/$
+Disallow: */user*/crc32/$
+Disallow: */user*/adler32/$
+Disallow: */user*/lib/deflate/$
+Disallow: */user*/lib/inflate/$
+Disallow: */user*/lib/utils/common/$
+Disallow: */user*/messages/$
+Disallow: */user*/messages/utils/common/$
+Disallow: */user*/messages/utils/strings/$
+Disallow: */user*/messages/zlib/inflate/$
+Disallow: */user*/utils/common/$
+Disallow: */user*/utils/strings/$
+Disallow: */user*/zlib/deflate/$
+Disallow: */user*/zlib/inflate/$
+Disallow: */user*/zlib/gzheader/$
+Disallow: */user*/zlib/constants/$
+Disallow: */user*/zlib/messages/$
+Disallow: */user*/zlib/zstream/$
+Disallow: */user*/trees/$
+
+# ugc variations without trailing slash
+Disallow: */user*/inftrees$
+Disallow: */user*/inffast$
+Disallow: */user*/common$
+Disallow: */user*/crc32$
+Disallow: */user*/adler32$
+Disallow: */user*/lib/deflate$
+Disallow: */user*/lib/inflate$
+Disallow: */user*/lib/utils/common$
+Disallow: */user*/messages$
+Disallow: */user*/messages/utils/common$
+Disallow: */user*/messages/utils/strings$
+Disallow: */user*/messages/zlib/inflate$
+Disallow: */user*/utils/common$
+Disallow: */user*/utils/strings$
+Disallow: */user*/zlib/deflate$
+Disallow: */user*/zlib/inflate$
+Disallow: */user*/zlib/gzheader$
+Disallow: */user*/zlib/constants$
+Disallow: */user*/zlib/messages$
+Disallow: */user*/zlib/zstream$
+Disallow: */user*/trees$
+
+#
+Disallow: */auth/verify/member/*
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Applebot
+Disallow: /

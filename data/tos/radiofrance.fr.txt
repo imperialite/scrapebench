@@ -1,0 +1,305 @@
+Radio France , a national broadcasting company with a capital of 114,870,093 euros and registered with the Paris Trade and Companies Register under number 326 094 471, whose headquarters are located at 116, avenue du Président Kennedy 75220 Paris Cedex 16, operates several fixed websites and their mobile versions, as well as applications for smartphones and tablets.
+
+Users are asked to carefully read the General Terms and Conditions of Use of the Sites, the page relating to data protection-privacy policy and the information page on cookies before consulting the Sites.
+
+These General Terms of Use are intended to define the terms of access to and use of the Sites, on any Equipment.
+
+Access to the Sites is subject to full acceptance of these Terms of Use. Radio France reserves the right to modify and/or update these Terms of Use at any time. The applicable version of the Terms of Use is the one online at the time the User accesses the Sites.
+
+Users of the Sites agree to comply with these General Terms of Use. Failure to comply will result in Radio France taking any action necessary to protect its interests, including legal action against the User.
+
+When the User is a minor, they declare that they have obtained prior authorization from their parents or legal guardians, who guarantee their compliance with these Terms of Use. The use and viewing of Site Content by the minor User is carried out under the supervision of their parents or legal guardians.
+
+Article 1: Definitions
+For the purposes of these General Terms of Use, each of the terms defined below shall be understood according to its definition:
+
+“Access to the Sites” means any consultation, navigation, on the Sites by Users.
+“User Account”: refers to the account of each User who has previously registered, allowing them, in particular, to access personalized Content. The User Account is created by the User after they enter personal information that allows them to be identified and their choices to be remembered. Each User Account is secured by a username and password.
+“Ticketing Account”: refers to the account created by the User on the Sitemaisondelaradioetdelamusique.frThe Radio France online ticketing service is accessible through this platform, allowing users to finalize ticket purchases or reservations for free events. Access to the Ticketing Account is via a username and password kept by the user.
+“General Terms and Conditions of Use” or “GTC”: refers to the set of terms and conditions, accepted by the Users, governing Access to and use of the Sites.
+“Content(s)” means any element constituting the Sites or published on them, of any kind, such as in particular texts, sounds, music, photographs, images, logos, graphic elements and interfaces, videos, software, databases, etc.
+“Equipment(s)”: refers to all types of terminals on which the Sites are published, including computers, tablets and smartphones.
+• “Mediator Message(s)”: refers to messages that Users can send to the Radio France Mediator via a dedicated form available on the Website accessible at the addressmediateur.radiofrance.com, under the conditions defined in Article 8 herein.
+“Voice message(s)” means contributions or questions that Users can submit via a dedicated form available on the pages of the France Inter and France Bleu websites and which can be broadcast in voice format on air under the conditions defined in Article 8 herein.
+“Player” means the application that allows users to watch and/or listen to video and audio files on the Sites, as well as to broadcast and share them outside the Sites under the conditions set out in Article 7 herein.
+“Site(s)” means the websites published by Radio France including the websites radiofrance.fr, maisondelaradio.fr, mediateur.radiofrance.com, as well as the websites of the channels France Inter, France Culture, France Musique, France Bleu, Mouv', FIP and their mobile versions available on the Equipment, including, where applicable, mobile applications.
+“User(s)”: refers to any person consulting the Sites and/or contributing to the sharing spaces of the Sites, whether or not identified by a User Account.
+Article 2: Purpose
+The purpose of these General Terms of Use is to define and establish the terms under which Radio France makes the Sites available to Users.
+
+They also set out the conditions under which the User accesses and views the Sites.
+
+These General Terms of Use may be supplemented by specific terms and conditions relating to the services contained in the Sites, such as game rules or general terms and conditions of online ticket sales, for example.
+
+Article 3: Access to the Sites
+Access to the Sites implies, on the part of Users, full and complete knowledge and acceptance of these General Terms of Use in their entirety.
+
+Access to the Sites is free for the User and the Sites are accessible 24 hours a day, 7 days a week.
+
+However, it should be noted that Radio France cannot be held liable for any technical inability to connect, including malfunctions of the Sites or unavailability of Content, whether due to force majeure, maintenance, editorial updates, internal or external strikes, network failures or power outages, incorrect configuration or use of the computer by the User, or any other cause, whether or not it is within their control.
+
+Similarly, the rate and time of data transfer from the Radio France server to the Internet network are not guaranteed by Radio France.
+
+Radio France cannot be held liable in the event of contamination by a virus, or any other computer infection, of the User's Equipment. It is the User's responsibility to take all appropriate measures to protect their personal data, software, and Equipment from any source of contamination.
+
+Access to the Sites does not require prior registration. However, creating a User Account is required to access personalized content.
+A Ticketing Account must be created to reserve seats for events organized by Radio France or to pay for tickets online, where applicable, via the website.www.maisondelaradioetdelamusique.fr.
+
+Article 4. Use of Content
+Content (including archived or cached content) may not be used outside the provisions of these General Terms of Use, in particular for commercial purposes, for training or development of any software or machine learning or artificial intelligence system whatsoever, without the prior written authorization of Radio France, including when the purpose pursued is non-commercial.
+
+Unless prior written authorization is obtained from Radio France, the Content may not be used by software and/or artificial intelligence systems to generate content in response to requests made by their users.
+
+Any natural or legal person who fails to comply with these prohibitions may be held liable as a result.
+
+Radio France may use any technical means to restrict access to the Content of its Sites by robots and/or any other technology reproducing and/or using its Content, in particular for the purposes of training or developing machine learning or artificial intelligence systems.
+
+Article 5. User Account
+Any user over the age of 15 is entitled to create their own user account. If Radio France discovers that a user under the age of 15 has created a user account, Radio France reserves the right to delete said account.
+
+The User Account will be created simultaneously on all Radio France Sites.
+
+Creating a User Account allows any User to create a personal profile, the main function of which is to be offered personalized Content based on their habits, but also: ;
+
+Add shows or content to your favorites;
+Save Content to read later (the "Read later" feature);
+Create playlists of music tracks and export them to third-party platforms such as Spotify, Deezer or Apple Music;
+Manage your newsletter subscriptions;
+Modify User Account settings and preferences.
+To obtain a User Account, and also to log in to it, the User must click on the "Log in" link on the Sites or "My account" in the Radio France application settings, depending on the pages visited by the User, and then follow the instructions provided. They will then need to enter the following mandatory information:
+
+Email address (which will be used in particular as a login to access the Platform)
+Password.
+The User agrees to provide accurate data. Each User must maintain the confidentiality of their authentication credentials. Therefore, they are prohibited from disclosing this information to others.
+
+In order to create his User Account, the User must tick the box signifying his express and personal acceptance, without restriction or reservation, of all of these Terms and Conditions, attesting that he has read them.
+
+The creation of the User Account will only be effective when the User has ticked the aforementioned box and received from Radio France a personalized email confirming the activation of the User Account sent by Radio France to their attention.
+
+It is specified that the User may at any time request the closure of their User Account and the deletion of their User Account data directly within the settings of the latter.
+
+The User is informed that when he has connected to the Sites via his User Account, he will be automatically connected during his next visits, unless he takes the step of disconnecting at any time.
+
+The User is informed that he/she may receive emails concerning the activity and operation of his/her User Account.
+
+Article 6: Intellectual Property
+Respect for rights : All Content on the Sites is protected by French and international laws on intellectual property and/or press law, as well as personality rights (right to one's image). Therefore, the User of the Sites agrees that none of this Content will be reproduced, modified, redistributed, translated, exploited, or reused for promotional or commercial purposes in any way whatsoever without the prior written consent of Radio France and/or the relevant rights holders, including for the purposes of training and/or developing any software and/or machine learning or artificial intelligence system, as well as for any use by these systems to generate Content in accordance with requests made by their users.
+
+6.1 Ownership of rights
+All Content is protected by French and international legislation on intellectual property rights (in particular Article L.122-4 of the Intellectual Property Code), press law and personality rights (right to image).
+
+Under these rules, any reproduction (including by downloading, printing etc.), representation, adaptation, translation, transformation and/or transfer to a third-party website of all or part of the aforementioned Content is prohibited without the prior written authorization of Radio France and/or the rights holder.
+
+Similarly, any reproduction, representation, modification, use, exploitation and/or transfer of all or part of the Content, in particular for the purposes of training and/or developing any software and/or machine learning or artificial intelligence system, as well as for any use by these systems to generate Content in response to requests made by their users, is prohibited without the prior written authorization of Radio France.
+
+Radio France grants, for its own purposes and subject to the rights of third parties, the User a free, non-exclusive right of access to all Sites for individual consultation or strictly within their family circle. This right of access allows the User to consult the Sites, use their Content, and contribute to the Interactive Areas in full compliance with these General Terms of Use.
+
+It is specified that the General Terms of Use do not entail the transfer of any rights, including intellectual property rights, to the User.
+
+Unauthorized use of the Content may give rise to civil and/or criminal legal proceedings (in particular for the offense of counterfeiting) and, where applicable, the payment of fines and/or damages.
+
+6.2 Trademarks and logos
+The trademarks of Radio France and its partners, including the corresponding logos appearing on the Sites, are registered trademarks, protected as such by French and international intellectual property laws (in particular Article L.713-2 of the French Intellectual Property Code and following). Any use of these trademarks or logos is prohibited without the prior written authorization of their owners.
+
+Unauthorized use of a protected trademark or logo may give rise to civil and/or criminal legal proceedings (in particular for the offense of counterfeiting) and, where applicable, the payment of fines and/or damages.
+
+6.3 Hyperlinks pointing to the Sites
+By creating one or more hyperlinks pointing to the Sites, the User agrees not to make any modifications to the Content (e.g. additions, cuts, edits, substitutions, extractions, advertisements, etc.), including in the event of exporting the Player.
+
+The publication of hyperlinks to the Sites on third-party websites is prohibited when said third-party websites disseminate illegal information and/or content (such as the glorification of crimes against humanity, child pornography, incitement to racial hatred, etc.) or are likely to damage the image and reputation of Radio France, its channels, and its employees. The same applies to any hyperlink reproduced on websites containing elements likely to incite hatred or violence or to infringe upon the dignity of a person or group of persons on the grounds of their sex, sexual orientation, or disability.
+
+In any event, it is the User's responsibility to obtain from the rights holders (e.g., collective management societies for copyright and related rights) any necessary authorizations for the communication of the Content to the public and, where applicable, to pay the related fees.
+
+Regardless of the type of hyperlink pointing to the Sites, the User is not authorized to implement a systematic referencing mechanism for all or part of the Content (radio broadcasts, videos, etc.) allowing the referencing of said Content to the public on a service, application or website other than those of Radio France, for commercial purposes in particular, without the prior written authorization of Radio France.
+
+Finally, the hyperlink must not, in any way, allow the implementation of a system facilitating the mass sending of messages, such as a pre-written message addressed to an email address linked to the Sites.
+
+6.4 Hyperlinks reproduced on the Sites
+The Sites may contain hyperlinks to third-party websites or services. Radio France makes every effort to provide Users with links to third-party websites or services that are free from errors, but cannot guarantee their quality or reliability.
+
+Accessing these third-party websites or services is done at the User's sole risk. Therefore, Radio France cannot be held liable for any direct or indirect damages incurred as a result of accessing a third-party website or service linked from a page on one of the Sites.
+
+Article 7: Using the Player
+The Player, as provided by Radio France, allows for the viewing, listening, and streaming of video and audio files. Under no circumstances does Radio France authorize the downloading and saving of these files unless expressly authorized in writing.
+
+The Player on the Sites is the exclusive property of Radio France. The User therefore agrees to use the Player only for strictly personal and private purposes.
+
+The Player is protected by copyright and, as such, must only be used as provided by Radio France.
+
+Radio France prohibits any use by the User of the Player that would be contrary to these General Terms of Use and more generally to applicable laws and regulations, and in particular:
+
+Any commercial use made of all or part of any element of the Player;
+Any modification, copying, adaptation, representation, reproduction, alteration, deletion, decompilation, transfer of any of the Player's components, functionalities or presentation;
+Any modification, adaptation and/or alteration of all or part of any of the Player's Content;
+Any blocking, masking and/or removal of all or part of the Player's functionalities;
+Any reproduction, representation or copy of all or part of the Player Contents;
+Any representation, distribution, reproduction, making available to the public of all or part of any element of the Player allowing to circumvent the normal use of the Player;
+Any distribution of the Content broadcast on the Video and Audio File Player outside of Radio France Sites.
+Article 8: Participatory spaces
+Radio France allows Users to contact the Ombudsman for Radio France stations via its website, available at the following address:https://mediateur.radiofrance.comby completing a dedicated form.
+
+In this context, the User agrees to provide correct contact details revealing a true identity, allowing third-party services to contact him/her, if necessary.
+
+The User is expressly informed that the Mediator Messages that he publishes on the Site may be made visible and are therefore accessible to all Users.
+
+The France Bleu and France Inter websites offer users the opportunity to participate in interactive programs by submitting voice messages, text messages, videos, or photos via the Messenger and WhatsApp applications, both owned by the Meta group. To do so, the user completes a dedicated form and accepts the attached legal notices. The user acknowledges being expressly informed that their voice messages, text messages, photos, or videos may be broadcast as is, or used or summarized by the presenter on air.
+
+The User is informed that the use of these messaging platforms is subject to the General Terms and Conditions of Use of the company Meta (Facebook Messenger, WhatsApp).
+
+The User acknowledges that they are solely responsible for the Mediator Messages and the voice, written, photo, and video messages they submit. As such, Radio France cannot be held liable for any claim or legal action that may be brought against it based on a Mediator Message published on the Site or a voice, written, photo, or video message broadcast on air.
+
+The User warrants to Radio France that he has the necessary rights for the publication of his Mediator Messages and for the possible dissemination of his voice, written, photo or video Messages, including copyright, related rights, trademark rights as well as personality rights (right to image) that may apply, and that these Mediator Messages and voice, written, photo or video Messages are not unlawful under applicable laws and regulations, and in particular press law and public decency.
+
+Subject to the rights of third parties, the User grants Radio France, free of charge and on a non-exclusive basis, the right to use (including the rights to reproduce, represent, modify, distribute, adapt, etc.) and/or broadcast, in particular on Radio France's stations, all or part of the Mediator Messages and/or the voice or written Messages, photos or videos for the entire duration of the intellectual property and for the whole world.
+
+The User agrees to send only Mediator Messages and/or voice, written, photo, or video messages that comply with French law and regulations. As such, freedom of expression must not infringe upon respect for others, human dignity, public order, or morality. Therefore, the User is specifically prohibited from...
+
+Sending Mediator Messages and/or voice, written, photo or video messages of an advertising or promotional nature to the Sites;
+Sending to the Sites Mediator Messages and/or voice, written, photo or video messages from trade union or political organizations;
+Sending to the Sites Mediator Messages and/or voice, written, photo or video messages that are contrary to public order and/or morality, discriminatory, violent, racist, sexist, anti-Semitic, xenophobic, revisionist, glorifying war crimes, offensive or vulgar, hateful, obscene, pornographic, pedophilic in nature, likely to infringe upon human dignity, etc.;
+Sending Mediator Messages and/or voice, written, photo or video messages on the Sites containing false information, confidential information, information unrelated to the topic, messages constituting denigration and/or messages characterizing harassment, defamation, insults, speculation;
+Sending on the Sites Mediator Messages and/or voice, written, photo or video messages inviting the commission of illegal or dangerous acts (crimes, offenses, consumption of prohibited substances, etc.) and those inciting computer hacking;
+Sending to the Sites Mediator Messages and/or voice, written, photo or video messages that violate copyright or related rights, the law applicable to databases, trademark law, image rights, the right to privacy or that would infringe any other applicable legislative or regulatory provision;
+Generating server overload, particularly by using the Sites to send unsolicited advertising;
+Using any hardware or software that could alter, hinder or disrupt the operation of Radio France's services and Sites, or introducing any data into a Radio France automated data processing system that could alter, hinder or disrupt the normal operation of Radio France's services and Sites, and in particular circumventing the usage restrictions defined by these General Terms of Use;
+Sending to the Sites Mediator Messages and/or Voice, written, photo or video messages that damage the image and/or trademarks of Radio France.
+In the event of non-compliance with this article, Radio France reserves the right, without prior notice to the User, to delete their User Account if they have one.
+
+Furthermore, under current French legislation and related case law, Radio France reserves the right to implement, at its discretion, moderation processes and/or measures on the Sites.
+
+Article 9: Personal Data
+9.1 Data collected
+Personal data is information that allows the User to be identified directly or indirectly and, potentially, linked to the data processed. Data is collected either directly when the User freely provides it, or indirectly when the data is collected automatically, for example, using computer means.
+
+► When data is collected directly from the User : this refers to the data that the User enters directly on the Sites according to the nature of the service requested:
+
+- Newsletter subscriptions;
+- User account creation and access to personalized content;
+- Online ticketing;
+- Participation or interaction form for a broadcast;
+- Competitions, etc.
+
+For participation in competitions and subscription to newsletters from Radio France, its channels or its partners, the personal data collected on the Sites concerns the identity of the person (surname, first name, postal address, email address, date of birth, …)
+When creating a Ticketing Account, the following personal data is collected:
+- Civil status, identity (surname, first name, postal address, email address, telephone number, etc.);
+- Data relating to means of payment: credit card number, bank card expiry date, check number, etc.).
+Upon creating his Ticketing Account on the websitewww.maisondelaradioetdelamusique.frThe User agrees to only provide accurate and up-to-date information, revealing a true identity that could not infringe on the rights of third parties (such as trademark or intellectual property rights).
+
+When creating and managing their account, Users can also choose to subscribe to newsletters from the Sites and their services from the list of options provided. They can also unsubscribe at any time via a link included in all emails sent as part of the newsletter and/or from their User account settings.
+
+In the case of a User Account, only the email address (which will be used as the login to access the Platform) must be collected. Additional data may be requested .
+In the case of participation or interaction with a program, the User may send – via Messenger and WhatsApp – voice, written, photo or video messages which may, at the channel's discretion, be broadcast on Radio France's channels.
+Users are informed of the mandatory or optional nature of the answers they are asked to provide, as well as other mandatory legal information (identity of the data controller, recipient(s) of the data, rights they hold, etc.).
+
+► When data is collected indirectly: this refers to data collected automatically using computer systems, allowing the User to be identified indirectly. This data relates to the User's use of the Sites. It may include, in particular:
+
+Connection data (IP address, logs, ...);
+Data relating to Equipment (type of Equipment, operating system, …).
+This data may be used, within the limits of applicable law, for the purposes indicated in Article 9.3 herein.
+
+9.2 Cookies and other trackers
+Cookies also allow the collection of personal data.
+
+The term "Cookies" refers to all tracking technologies (pixel tags, web beacons, web storage, etc.) placed and/or read when browsing websites, for example. This information is stored in the persistent memory (e.g., on the hard drive) of the user's device by the browser at the request of the website or a third-party script present on the visited website. Only the server that requested the cookie will be able to access this stored information subsequently, and always via the browser.
+
+In the specific case of mobile applications, the application itself directly controls cookies and can store and read information related to ongoing browsing in persistent memory. Under no circumstances can any other application on the user's device access the stored information.
+
+The cookie contains several pieces of data:
+
+the name of the server that uploaded it;
+a name/value pair which may or may not contain personal data (examples: "language" = "French" or "unique ID" = "123654");
+possibly, a Cookie expiry date.
+This information is sometimes stored on the Equipment in a simple text file which a server accesses to read, transmit information to the server of the page being viewed and record information.
+
+Under no circumstances can a Cookie be spyware or a virus, damage the User's system, destroy files, or alter programs.
+
+These cookies may be cookies from Radio France, or cookies from third-party companies whose code snippets (script or development kit) Radio France integrates into its pages or applications.
+
+Radio France uses cookies to offer services and content, including advertising, tailored to users' interests. They also allow us to compile visitor statistics, record data provided, share content from the Sites via social media platforms, and improve the user's browsing experience.
+
+Please note that some cookies are necessary for browsing the Sites and for their proper functioning. They allow the User to access the main features of the Sites.
+
+It is specified that Radio France does not control the use of Cookies placed by third parties, for example by advertisers, or those resulting from the use of parts of the Sites hosted by a third party.
+
+Users can manage the use of Cookies at any time using the functions of their browser software.
+
+For more information, the User can refer to theCookie Policy.
+
+9.3 The purposes of the processing
+The personal data communicated by the User on the Sites is subject to Law No. 78-17 relating to information technology, files and freedoms of 6 January 1978 as amended, as well as to European Regulation 2016/679/EU on the protection of personal data of 27 April 2016.
+
+Personal data may be used for the following purposes:
+
+Create and manage User Accounts;
+Perform operations related to customer management: facilitate ticket booking on the Sites, inform of postponements or cancellations of events, communicate news and information from Radio France and its channels, propose events adapted to the User's needs, …;
+Sending emails (newsletters, information or alerts) for information and marketing purposes regarding the activities and events of Radio France and its channels, and possibly its partners, if the User has so wished;
+The development of statistics on the traffic to the various Contents of the Sites;
+The improvement and, where appropriate, the personalization of the Sites, including in particular the provision of services and content adapted to the Users of the Sites;
+Storage in a database for internal management purposes;
+The organization of competitions;
+Sharing User reactions on social networks to which they are connected or sharing Site Content;
+Displaying personalized advertising.
+Radio France reserves the right to undertake anonymous statistical studies and analyses on the use and typology of Users of the Sites based on personal data concerning them, on the number of pages to which Users have been exposed and clicks on the various links offered including those triggering the playback of audio or video media.
+
+9.4 Recipients of the personal data collected
+The personal data collected is intended for Radio France and in particular for the following departments:
+
+The relationship marketing department;
+The digital department;
+The music and cultural creation department.
+The personal data collected by Radio France for the purposes described in Article 9.3 is neither sold nor exchanged. It is not transferred to third parties, except in the context of prize draws. In this case, Radio France may, subject to the User's consent, share the email address(es) of the winner(s) with the draw's partner(s) for the purpose of awarding the prize(s). Users are explicitly informed of this and their prior consent is required.
+
+For services offered by a third party (e.g., social networks) via a link available on the Sites, that third party is solely responsible for managing and collecting the personal data that the User provides. Radio France does not collect or store the data provided in this way. The User acknowledges that these third-party services interacting with the Sites are entirely independent of Radio France. Therefore, access to, consultation of, and use of these third-party services via the Sites will be exclusively subject to the terms of use and/or sale, as well as the privacy policies, of said services. Users consequently agree to the general terms of use of the platforms, including those used by social media platforms such as Messenger or WhatsApp.
+
+If Users voluntarily share personal data in the Interactive Spaces, they are warned that it may be collected by a third party. Its subsequent use is in no way subject to the control of Radio France, which disclaims all liability in this regard.
+
+9.5 Prospecting and sending newsletters
+Users are invited to subscribe to newsletters about news and information from Radio France and its channels, events organized by Radio France and its channels for commercial or informational purposes, and partner offers. They may also receive offers concerning services and events from Radio France, its channels, and its partners. After registering, users can unsubscribe at any time by clicking the unsubscribe link provided in the newsletter email. In this case, the user's data will be permanently deleted from the newsletter's database if they no longer have any Radio France newsletter subscriptions or a user account.
+
+9.6 Retention period for personal data
+The information and data collected are stored in accordance with legal and regulatory obligations.
+
+Personal data is stored by Radio France in accordance with simplified standard 48. Specifically regarding User Accounts, personal data is stored by Radio France for as long as the User Account is active. Once the User Account is deleted by the User or becomes inactive, meaning the User has not logged in for two (2) years, the data is deleted by Radio France.
+
+9.7 Rights of Users whose data is collected
+In accordance with the French Data Protection Act (law no. 78-17 of 6 January 1978, as amended) and the European General Data Protection Regulation (GDPR) (Regulation (EU) 2016/679), the User has the right to access, rectify, erase, object to, and obtain a copy of their personal data, as well as the right to restrict its processing. To exercise these rights, the User must send a letter to the following address: Radio France, Data Protection Officer, 116 avenue du président Kennedy, 75220 Paris Cedex 16, France, or an email to the following address:dpdp@radiofrance.comspecifying the purpose of their request and attaching a copy of their identity document.
+
+In accordance with the aforementioned provisions, the User may also define instructions regarding the retention, deletion, and disclosure of their personal data after their death. To do so, these instructions must be registered with Radio France. The User may designate a person responsible for carrying out these instructions or, failing that, their legal heirs. These instructions may be modified at any time.
+
+For more information, the User can consult their rights on the website of theCNIL.
+
+9.8 Security of collected personal data
+Radio France ensures the security of data collected from Users through access control devices (management of identities and authorizations of persons authorized to access personal data), guaranteeing the confidentiality and integrity of said data.
+
+Article 10: Responsibility
+Access to and use of the Sites and their services is at the User's own risk and under their sole responsibility, according to the conditions defined herein.
+
+In any event, Radio France cannot be held liable, in particular for access to, consultation of, use of, or inaccessible content, any offers and services, or information accessed on third-party services. These third parties are solely responsible for complying with French laws and regulations.
+
+10.1 Editorial Content
+The User acknowledges and accepts that the Sites may contain certain technical, typographical or other inaccuracies regarding their Content.
+
+Radio France cannot be held responsible for any errors or omissions on the Sites or in any referenced document. The Sites' content is non-contractual and subject to change without notice.
+
+Radio France cannot be held liable for any direct or indirect, tangible or intangible, incidental or consequential damages arising from the use of the Sites or any information obtained from the Sites.
+
+In this context, Radio France cannot be held liable for information contained on its websites, emails, newsletters, or in any other form. This information sent to users cannot, under any circumstances, be considered as personalized assistance or advice.
+
+The content on these sites complies with French law and regulations. Therefore, Radio France cannot be held liable for any failure to comply with the laws of any other country from which access is made.
+
+Finally, Radio France takes every precaution to ensure that the Sites' content does not violate public order or morality. However, it cannot be held responsible if ideas or images contained on the Sites offend particularly sensitive individuals.
+
+10.2 Stock exchange and investment information content
+The User acknowledges and accepts that Radio France cannot be held responsible for any information (advice, opinion, advice, etc.) present on the Sites regarding stock market and investment.
+
+In this sense, Users are fully responsible for any operation they may carry out in these areas.
+
+It is therefore essential that Users bear in mind the random nature and risk involved in these transactions. As such, Users must comply with all applicable stock market laws and regulations.
+
+10.3 Other content
+The User is informed that content from the YouTube platform may be present on the Sites, and must therefore refer to the terms of use of said platform.here.
+
+Article 11: Applicable Law and Jurisdiction
+These General Terms of Use are governed by French law. Any dispute concerning their interpretation or execution shall be subject to the exclusive jurisdiction of the Courts of Paris.
+
+The invalidity of one or more provisions in the General Terms of Use, pronounced by a court decision, does not render the other provisions invalid.

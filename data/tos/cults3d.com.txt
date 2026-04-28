@@ -1,0 +1,398 @@
+Terms & conditions・Cults
+Skip to content
+⚖️
+Terms & conditions
+General Conditions of Use and Sale
+Last updated: January 6, 2026
+Version : 6.2
+This document is a translation from the original French version. In case of discrepancies or translation errors, the French version shall prevail. To access the original document, please change the website language to French.
+Preamble
+The following terms are defined as:
+CREATOR OR DESIGNER: any person who uploads DIGITAL FILES to the site, either for free or for a fee.
+MEMBER: all people who have registered on the CULTS site and have a profile. When CREATING their account, the MEMBER is prohibited from using a false identity or an identity belonging to a third party.
+BUYER or CUSTOMER or MAKER: all people who have downloaded a DIGITAL FILE on the site, whether free or paid.
+VISITOR: any person who has come to the CULTS site without having registered or logged in.
+All of these 4 typologies are designated as “USER”.
+CREATION or DESIGN or DIGITAL FILE: designates all of the DIGITAL FILES available on the site. The USER understands that this is a DIGITAL FILE for download only; no physical product will be shipped. Intended and accepted uses of digital DESIGNS: 3D printing, CNC machining - Laser cutting, Papercraft, Sewing pattern and Printed circuit - PCB
+PARTNER: all companies with which CULTS has established a contractual partnership relationship or not.
+These general conditions of use and sale govern the rights and obligations of SAS CULTS (hereinafter referred to as CULTS) and, on the other hand, any natural or legal person wishing to make a remote purchase via the CULTS website “cults3d.com”. They also govern all interactions related to the use of CULTS.
+The parties agree that orders placed with CULTS via the internet are governed exclusively by these general conditions of sale.
+CULTS reserves the right to modify its conditions of sale, sale and use at any time.
+The applicable conditions will be those in effect on the date the BUYER places the order.
+These general conditions of use and sale will prevail over any other general or specific conditions not expressly approved by CULTS.
+Article I: Characteristics of the Goods and Services Offered
+CULTS offers a catalog of DIGITAL FILES intended for 3D Printing, CNC Machining - Laser Cutting, Papercraft, Sewing Pattern and Printed Circuit - PCB, via the cults3d.com website.
+CULTS is a marketplace, meaning a multi-seller online platform that is considered a hosting provider, as it does not play an active role in the published content.
+CULTS provides CREATORS with a platform to share and sell their CREATIONS at the price they set.
+BUYERS can download one or more CREATIONS from the platform under the pricing conditions set by the CREATOR.
+The VISITOR is informed that the site’s content and services are financed by advertising revenue displayed on these spaces. They acknowledge that in return for their right to use content and services with open and free access, they accepts the display of advertising on the site.
+Article II: Price
+a) Pricing policy
+Prices may be displayed in multiple currencies (subject to current exchange rates):
+ARS: the Argentine peso
+AUD: the Australian dollar
+BGN: the lev bulgare
+BRL: the Brazilian real
+CAD: the Canadian dollar
+CHF: the Swiss franc
+CNY: the Chinese yuan
+CZK: the Czech crown
+DKK: the Danish crown
+EUR: the euro
+GBP: the pound sterling
+HUF: the Hungarian forint
+INR: Indian rupee
+JPY: the Japanese yen
+KRW: the Korean won
+MXN: the Mexican peso
+NOK: the Norwegian crown
+NZD: the New Zealand dollar
+PLN: the Polish zloty
+RON: the Romanian leu
+RUB: the Russian ruble
+SEK: the Swedish crown
+TRY: Turkish lira
+USD: the American dollar
+ZAR: the South African rand
+Orders may, however, incur additional conversion fees levied by banking establishments.
+DESIGNERS choose the sales price excluding tax of their digital DESIGN shared on CULTS.
+The DESIGNER has the possibility of setting a minimum price for their CREATIONS. CUSTOMERS can choose to pay this amount or pay more if they wish.
+The CULTS commission (20%) is included in the sales price excluding tax set by the seller.
+Prices are initially displayed excluding taxes for VISITORS of the site. When a DESIGN is added to the cart, the prices are displayed with all taxes included (VAT).
+VAT is only applied to the CULTS commission, as the marketplace acts as a transparent intermediary.
+Sellers have the ability to change their price at any time.
+DESIGNS are invoiced on the basis of the prices in effect at the time of validation of the order on the CULTS marketplace.
+b) Rules for applying VAT to CULTS
+How VAT works
+The VAT reform for e-commerce in Europe, which took effect on July 1, 2021, introduced new rules regarding VAT application.
+The VAT rate applied to the CULTS commission will differ depending on the status of the seller, whether an individual seller or a professional seller, and depending on the country of the BUYER.
+The seller's status is determined based on the legal identity they declared in their CULTS personal account.
+The origin of BUYERS is determined based on the legal identity declared in their CULTS personal account or, failing that, via their IP address.
+The income sent to the DESIGNER during their payment requests is gross income. Each seller should manage their own accounting and comply with their tax obligations according to their status and country of tax residence.
+Using the tools and information provided by CULTS in their personal account, the seller will be able to declare VAT or not on each of their sales revenues depending on their tax regime and then the nature and identity of their CUSTOMERS.
+CULTS cannot be held responsible for cases of false declaration on the part of the seller resulting in an error concerning the applicable VAT rate.
+Case of a private seller
+If the BUYER resides in a country of the European Union, the VAT rate applied to the CULTS commission is that in force in their country (VAD regime).
+If the BUYER resides in a country outside the European Union, no VAT is applied to the CULTS commission (EXPORT regime).
+Case of a professional seller
+If the seller is a professional whose company is based in France, the VAT rate applied to the CULTS commission is 20% (NORMAL regime).
+If the seller is a professional whose company is based in a country of the European Union and they have a valid intra-community VAT number entered in their CULTS space, no VAT is applied to the CULTS commission (SELF-LIQUIDATION regime).
+If the seller is a professional whose company is based in a country outside the European Union, no VAT is applied to the CULTS commission (EXPORT regime).
+Article III: Registration and Order
+The VISITOR who would like to download a CREATION available on the cults3d.com website catalog must register and become a MEMBER, and therefore:
+complete the identification form on which they will indicate all the information requested, attesting on their honor to the veracity of this information;
+be of legal age in their country of residence, and not be under a protective measure preventing them from contracting alone;
+not be a resident of a country placed on the list of non-cooperative states and territories (ETNC).
+List available here
+.
+Then when making a purchase they must:
+add the digital product(s) of your choice to the cart
+make payment under the conditions provided (see article V).
+confirm your order and payment.
+Order confirmation implies acceptance of these general terms and conditions of sale, acknowledgment of full understanding thereof, and waiver of reliance on one’s own purchasing conditions or any other terms.
+CULTS undertakes not to disclose any personal information of its MEMBERS except as provided by law or as specified in Article X.
+Also, in cases where they see their liability sought in the context of legal action having a link with a CREATION purchased or downloaded on the cults3d.com site, CULTS must communicate all useful information to the competent authorities.
+These general conditions are accepted upon registration and will not be recalled during future purchases, any change will simply be notified to MEMBERS as indicated in the preamble to these conditions.
+The CUSTOMER's "click" on the "validate" button at the time of ordering constitutes an electronic signature which, between the parties, has the same value as a handwritten signature.
+Article IV: Order Payment Confirmation
+A confirmation email summarizing the order will be sent to the BUYER.
+The order will be confirmed once the payment systems have validated the payment.
+Refunds will be made by any means of payment within 30 days by the DESIGNER.
+CULTS will send an email confirming that the order is available for download.
+The data recorded and stored by CULTS constitutes proof of all transactions between CULTS and its BUYERS.
+Article V: Payment
+Payment is made online via the secure payment modules
+PayPal
+for payment by “Paypal account” or via the PayPal bank card form; or via the secure payment module by bank card and other payment solutions
+Stripe
+.
+Learn more about PayPal’s terms of use
+Learn more about Stripe’s terms of use
+The bank card number and expiration date are encrypted and transmitted to PARTNER companies PayPal or Stripe depending on the CUSTOMER's choice to make payment for their order.
+All payments are made securely using the SSL (Secure Socket Layer) encryption process without CULTS or third parties being able to have access to them.
+In particular, CULTS does not serve as a technical intermediary in the transmission of payment data. This same information will not be reused.
+In order to make a payment, the Customer must ensure that they are resident in a country covered by the payment methods used on the site.
+List of countries covered by Stripe
+.
+List of countries covered by Paypal
+CULTS does not operate in the following countries subject to international sanctions: Cuba, Iran, Syria, North Korea, Russia, and the Autonomous Region of Crimea.
+The order amount is debited from the BUYER’s account upon order confirmation by CULTS.
+The data recorded and kept by CULTS constitutes proof of the order and all past transactions.
+Data recorded by payment systems constitutes proof of financial transactions.
+Payment history is available on the CULTS website in the BUYER's personal account.
+To withdraw their sales balance, DESIGNERS must enter their PayPal account email so that CULTS can transfer the funds via PayPal. Payment requests are made from the DESIGNER’s personal account.
+The minimum threshold for a payment request is €5. Requests can be made every 15 days.
+To accept payment and withdraw their balance, the CREATOR has one month (period defined by PayPal). After this period, in the absence of recovery of the balance, the amount of the sale is returned to CULTS, without possibility of reimbursement.
+In the event that digital DESIGNS violate one or more rules specified in the T&Cs, the sums not collected by the DESIGNER at the time of deletion of the infringing files will be kept with a view to being reimbursed to the CUSTOMER on first request.
+BUYERS and CREATORS agree to ensure that no financial transaction regarding the CREATIONS listed on the cults3d.com site takes place between these two parties without going through CULTS.
+These two parties undertake to provide accurate and valid banking information to CULTS.
+CULTS is not responsible for any transaction malfunctions linked to the online payment services used. The USER and the CREATOR will have to contact these payment services or their bank if applicable.
+Article VI: Right of Withdrawal
+With regard to digital content provided on an intangible medium and in accordance with article L221-28 of the Consumer Code applicable in this case to CREATIONS offered on the platform by CULTS, MEMBERS do not benefit from a right of withdrawal.
+Article VII: Guarantee/Liability
+CULTS will make its best efforts to ensure that the images and viewers appearing in the catalog published on the cults3d.com site are as faithful as possible to the CREATION itself once manufactured by you.
+However, given the digital presentation method of the CREATIONS on the Internet, it is possible that the BUYER's perception of the photographic representation of the CREATIONS does not correspond exactly to the CREATION itself.
+The differences may result from the color quality of the photographs, the difficulty of displaying the rendering of the materials on the screen or even, without being exhaustive, the technical adaptation.
+These differences cannot be interpreted as lack of conformity and lead to the cancellation of the sale.
+CULTS cannot be held responsible in cases where the differences relate to an essential characteristic of the CREATION and affect its quality.
+The illustrations appearing in the catalog on the cults3d.com site are not contractual.
+The BUYER accesses, uses and browses the CULTS site at their own risk.
+CULTS is only bound by a duty of care at all stages of site access, the ordering process, and subsequent services.
+CULTS cannot be held liable for any inconveniences or damages inherent to Internet use, including service disruptions, external intrusions, computer viruses, or any event deemed force majeure under applicable case law.
+The BUYER acknowledges and accepts that, to the fullest extent permitted by applicable regulations, CULTS cannot be held responsible for direct, indirect, fortuitous damage, or for compensation for moral damage, costs, losses, reduction in turnover or profits, or liabilities of any nature whatsoever (even if the occurrence of such damage was known or could have been foreseen by CULTS), which may arise from the use of the CREATIONS or the site or from contrary to the impossibility of using the site or its content.
+The liability of CULTS cannot exceed the total amount paid by the BUYER in payment for the order in question.
+The CREATOR transmits the images in file form and undertakes not to transmit files containing viruses or programs that destroy the data. The CREATOR must keep a copy of the file and under no circumstances can CULTS be held responsible for the loss or destruction of files transmitted by a CREATOR.
+CREATORS make a CREATION available (free of charge or not) and commit to the quality of the DIGITAL FILE, they will guarantee this quality and the printability of their CREATION.
+CULTS does not guarantee the 3D printability nor the “manufacturability” of all the CREATIONS present on the site.
+By submitting their CREATION, the CREATOR undertakes to guarantee that their CREATION is printable using the 3D printing process or perfectly manufacturable.
+For any malfunction, BUYERS have the possibility of contacting the CREATOR who must be able to help and guide the BUYER.
+If the BUYER after downloading the CREATION realizes that it is not printable or manufacturable, no refund can be made from CULTS.
+CULTS cannot guarantee the quality of the CREATIONS made available on its site.
+CULTS is in no way responsible for the content published and posted by all of its USERS.
+CULTS does not in any way guarantee the sustainability of access to orders and files already downloaded by USERS because CREATORS can delete their CREATIONS from the platform at any time.
+CULTS is in no way responsible for links to content external to its site.
+Unless contraindicated explicitly in the context of the license relating to the digital model, all CREATIONS published on CULTS are reserved exclusively for private and personal use. That is to say, this consists of not selling the digital model or any derivative of the digital model for economic or financial gain. For example, you cannot sell the DIGITAL FILE of the model, a derivative or adaptation of this model and you cannot sell and trade 3D printed or more generally manufactured versions of this model.
+The license applied to each model, in the “License” section of the page, sets the framework for the use of DIGITAL FILES. The choice of license is entirely up to the DESIGNERS when sharing the model on the platform. Besides the price, they can choose the type of license they want to apply to their model. All licenses applicable to CULTS are listed on the
+Licenses page
+.
+In the event of prosecution, CULTS undertakes to communicate to the competent authorities all data relating to all CULTS USERS.
+In the event of prosecution, the offender will be fully responsible for all reimbursements and/or fines arising from the procedure.
+CREATIONS posted on CULTS must represent digital CREATIONS that do not contravene public order or good morals.
+In particular, without this list being exhaustive, the manufacture of counterfeit money, counterfeit notes or any element intended to imitate official currencies, the CREATION of firearms or any related accessories improving or modifying its functioning, of objects of a pornographic, child pornographic, zoophilic, racist nature or inciting racial hatred, discriminatory or inciting hatred towards a group of people based on their religion, sexual orientation, affiliation politics, union membership or representing violence without being a work of art, as well as any badge, brand, character whose intellectual property rights clearly do not belong to the CREATOR will be refused by CULTS.
+If a CREATION seems fraudulent, any USER must notify us by clicking on the “Report” button on the product page.
+In the event that the USER is fined for a product printed from a model downloaded from our platform, it is recommended to contact the customs office.
+CULTS will judge alone the adequacy of the CREATION with these provisions and thus reserves the right to refuse the cataloging or ordering of infringing CREATIONS as specified above.
+CULTS reserves the right to delete a MEMBER's account, not to pay money from a CREATOR's sales, to delete or modify a CREATOR'S CREATIONS and/or to block a MEMBER's account, if one of the following cases of use occurs (non-exhaustive list):
+a CREATOR puts for sale a CREATION or several CREATIONS, created by another CREATOR
+a CREATOR puts for sale a CREATION available for free on CULTS or on any other website
+a CREATOR puts on sale CREATIONS that are not 3D printable or manufacturable
+a BUYER who misuses the use of CULTS to send money to himself, to a loved one or to an acquaintance via a CREATOR profile
+a BUYER whose fraudulent transactions have been reported by banking establishments, as such CULTS has implemented an
+internal anti-money laundering policy available here
+a BUYER whose fraudulent transactions have been reimbursed by banking establishments
+a MEMBER having written insulting and violent remarks against another MEMBER or against a MEMBER of the CULTS team
+more generally all MEMBERS who contravene the CULTS CGV and CGP
+The MEMBER who thinks that their CREATION or purchase has been refused although respecting this article is invited to contact CULTS to explain their case.
+Article VIII: Intellectual Property
+The images, drawings, DESIGNS, texts, names and logos appearing on the cults3d.com website are the property of their authors and as such are protected by intellectual property rights and exploitation rights of which CULTS and/or CREATORS linked to CULTS by a specific contract (see Special Conditions) are the holders.
+Any MEMBER who submits a CREATION to CULTS guarantees that they are the author or the rightful holder of all related intellectual property rights and that they have not infringed any third-party intellectual property rights by submitting it.
+The MEMBER undertakes to hold CULTS harmless from any possible claims from third parties.
+Any CREATIONS whose intellectual property rights clearly do not belong to the CREATOR, or which are protected by a legal deposit or contract of which the CREATOR is not the owner will be refused by CULTS.
+CULTS undertakes to implement all means at its disposal in order to best combat counterfeiting. A counterfeit is an object that imitates an original legally protected product by pretending to be the original product. Counterfeits are prohibited on CULTS. DESIGNS pages must include photos clearly showing the object to be manufactured, from multiple angles and with all relevant details.
+If a CREATION seems fraudulent, any USER must notify us by clicking on the “Report” button on the product page.
+To file a request for removal of pages following an intellectual property or copyright violation, the rights holder must complete the following two steps:
+on each incriminated page, use the “Report a problem” button, choose the reason for reporting related to “Copyright”
+and send by post the official and legal letter requesting withdrawal by letter with acknowledgment of receipt to the address of CULTS headquarters: 19 rue du Colonel Bial, 19100 Brive-la-Gaillarde, France
+In this way CULTS will be able to intervene to warn the CREATOR(S) in question in order to ask them to withdraw their DESIGNS as soon as possible.
+In the event of prosecution for the improper use of a brand, patent or copyright, CULTS undertakes to communicate to the competent authorities all data relating to all CULTS USERS who have clearly violated the intellectual property of a third party.
+If sales have been made on these disputed CREATIONS, CULTS will not refund the amount of its commission.
+CULTS adheres to the entirety of the
+Charter for the fight against counterfeiting on the internet
+.
+The CREATOR remains the owner of the CREATION communicated to CULTS and grants him only a single-use license to use their CREATION for the realization of their order.
+In order to sell to another MEMBER the right to use their CREATION, the CREATOR has the possibility, if they wish, to transfer free of charge to CULTS the right to use and reproduce this CREATION in the catalog appearing on the cults3d.com website.
+In this case, the CREATOR must accept the Special Conditions under which they mandate CULTS to reproduce their CREATION on the site cults3d.com and to manage in their name and on their behalf all aspects of their commercial relationship with a potential BUYER who would like to purchase the right to use their CREATION.
+In the event that a BUYER orders a CREATION chosen from the catalog, the CREATOR of the CREATION will receive the proceeds from its sale via CULTS for the right to use their CREATION and CULTS will be remunerated by the CREATOR in their capacity as agent according to the terms defined in the Special Conditions.
+The CREATOR also has the possibility of granting CULTS a non-exclusive license over their CREATION free of charge.
+This license gives the right to CULTS to offer the CREATION in its catalog for its other MEMBERS.
+This license may be revoked at any time by the CREATOR by modifying the price of their CREATION or by removing it directly from the catalog appearing on the cults3d.com website.
+Any reproduction, exploitation, or use—whether in France or abroad—of all or part of the cults3d.com website and/or any CREATIONS for professional purposes (for any reason whatsoever, even partially), including duplication on any medium, website, free-access or paid, or commercial blogs, is prohibited without prior authorization from CULTS and constitutes an infringement punishable under Articles L335-2 et seq. of the French Intellectual Property Code.
+CULTS will organize competitions and challenges to enliven its community. All the CREATIONS that will be present there belong to CULTS. These CREATIONS must meet the conditions of the General Terms and Conditions.
+On CULTS, it is expressly prohibited to reproduce and exploit content published on the platform through any artificial intelligence service.
+It is therefore prohibited to practice scraping, download or copy digital content available on the platform such as files, digital documents, images, photos or even texts, without having first obtained authorization from the author of the content.
+This restriction aims to protect rights holders against any illegal or unauthorized use of their intellectual property, including automated or semi-automated uses via artificial intelligence tools and services.
+It is important to emphasize that only rights holders have the exclusive right to reproduce and distribute their intellectual property. Any unauthorized use constitutes copyright infringement and may result in legal action.
+Article IX : Promotions
+On CULTS, MEMBERS and VISITORS can access promotional codes to use with certain PARTNERS. These entitle you to a price reduction on certain products marketed by the PARTNERS.
+To benefit from it, it is not necessary to be registered on the marketplace. Simply go to the “Promotions” category, select the type of product, copy the Code, go to the PARTNER’s website by clicking on the link. The reduction is then applied directly to the PARTNER's cart by pasting the code in the field provided for.
+To benefit from these reductions, it is not necessary to go through the dedicated pages of the CULTS site. You simply need to have the code to be able to use it with PARTNERS.
+Promo Codes are exclusive to CULTS. They are limited in time. Signage on dedicated pages allows you to identify expired promotions.
+The PARTNER has the possibility of modifying the content of its offer at any time, and without notice. The Partner must ensure and guarantee that its offers on its site comply with the laws and regulations in force, and that they do not infringe any rights belonging to third parties, particularly in matters of intellectual or industrial property or image rights.
+CULTS is not responsible for any transaction malfunctions linked to Partner services. The USER will have to turn to these services.
+Article X: Termination
+A. Termination of the MEMBER
+A MEMBER can cancel their account at any time from their account settings.
+B. Termination by CULTS
+CULTS may terminate or suspend a MEMBER account if it is found that its content and the use made of it does not comply with the Conditions of Use.
+If this is the case, the MEMBER has no contractual or legal right to continue using the CULTS Services.
+CULTS will notify the MEMBER that their account has been terminated or suspended, unless they have repeatedly violated our Terms or we have legal or regulatory reasons preventing us from notifying you.
+In the event of termination of the account, the MEMBER may lose all information associated with it, including DESIGNS, downloads.
+The MEMBER's data will be retained by CULTS for a period of 5 years following deletion, solely to respond to potential requests from judicial or police authorities.
+Article XI: Personal Data
+In accordance with the law relating to data processing, files and freedoms of January 6, 1978, personal information relating to MEMBERS may be subject to automated processing.
+CULTS reserves the right to collect information about MEMBERS, including by using cookies, and, if it wishes, to transmit the information collected to commercial PARTNERS.
+MEMBERS may object to the disclosure of their contact details by notifying CULTS. Likewise, USERS have a right of access and rectification of data concerning them, in accordance with the law of January 6, 1978.
+The automated processing of information, including the management of e-mail addresses of USERS of the site, has been declared to the Commission Nationale de l'Informatique et des Libertés (CNIL).
+The designated person responsible for processing personal data at CULTS is: Sunny Ripert, CTO, hello[@]cults3d.com
+CULTS collects data for organizational and commercial purposes, but also in order to comply with legal provisions and in particular but not exclusively the fight against counterfeiting and compliance with tax provisions.
+Full details are available on our
+privacy policy
+.
+Article XII: Dispute Resolution
+A. Reporting of Illegal Content
+In accordance with Article 16 of the Digital Services Act, CULTS provides users and rights holders with a notification mechanism enabling them to report any illegal content via a dedicated form accessible on the website.
+This mechanism makes it possible in particular to distinguish reports relating to:
+Infringement of third-party intellectual property rights:
+Any unauthorized use of protected works constitutes an infringement of third-party intellectual property rights, including in particular copyrights, trademarks, designs and models, characters, or creative universes.
+Unauthorized reproduction or imitation of another user’s content:
+Any reproduction, imitation, or reuse of content created by another user of the platform carried out without the explicit consent of its author constitutes unauthorized use.
+The notification must include the precise URL of the reported content, a description of the disputed content, the nature of the allegedly infringed rights, the identity of the notifying party, and a statement certifying that the information provided is accurate and submitted in good faith.
+CULTS acknowledges receipt of the notification and reviews it within an indicative timeframe of twenty-four (24) to forty-eight (48) hours.
+Notifications received are retained in an internal register in accordance with the requirements of the Digital Services Act.
+B. These conditions of online sale are subject to French law
+The parties will endeavor to resolve amicably and in good faith any disputes which may arise between them regarding the interpretation, partial or total execution or non-execution of these general conditions.
+The MEMBER will contact CULTS as a priority to obtain an amicable solution.
+In the case of a professional MEMBER, the dispute will be submitted to a mediator of the Professional Chamber of Mediation and Negotiation (“CPMN”), for its professional guarantees of independence, neutrality and impartiality. For the referral, it is enough for one of the parties to mandate the mediator to organize a meeting so that the other party must appear within the month following the request. For the meeting, the mediator sends a letter with acknowledgment of receipt to each of the parties. The parties will fairly share the mediator's intervention costs and undertake to participate in at least one meeting with the mediator, with a view to seeking, with their regulatory assistance, the most suitable solution for resolving the dispute.
+If the parties cannot reach an agreement, this arbitration clause will be deemed honored.
+In the absence of an amicable agreement, any dispute will be submitted to the competent court of the place of the head office of SAS CULTS.
+For more information, or if you are not fully satisfied with the services offered by CULTS, contact our Customer Service:
+hello@cults3d.com
+or
+CULTS.
+19 rue Colonel Bial
+19100 Brive le Gaillarde
+Special Conditions
+This Contract (hereinafter referred to as the “Contract”) is concluded when the CREATOR as defined below chooses to create a seller profile associated with their USER profile on the CULTS Website: “cults3d.com”.
+Between
+SAS CULTS registered with the Brive RCS under number 810 518 322, whose SIRET is 810 518 322 00023, and is domiciled at:
+19 rue Colonel Bial - 19100 Brive la Gaillarde
+cults3d.com
+represented by the legal representatives of SAS CULTS
+On one side,
+And
+The CREATOR, as identified during registration in accordance with Article 6 of this Agreement, hereinafter referred to as “The CREATOR” or “the DESIGNER”.
+Hereinafter collectively referred to as “Parties” and each individually “Party”
+It is previously stated that:
+CULTS makes available to potential CLIENTS on its Website “cults3d.com” (hereinafter referred to as the “Site”) a Catalog of Digital CREATIONS (hereinafter referred to as the “Catalogue”);
+The CREATOR who addresses CULTS in order to authorize CULTS to make the CREATION available on the Catalog and allows CULTS to offer its CREATION on its site. Potential CUSTOMERS will thus be able to acquire the right to use the CREATOR’S CREATION listed in the Catalogue.
+Article I: Purpose and Duration of the Contract
+Right of reproduction and use
+The purpose of this Contract is to determine the conditions under which the CREATOR of a CREATION authorizes CULTS to make it available in the Catalogue.
+By this Contract, the CREATOR authorizes CULTS to make available on the Catalog and consequently to distribute on its Site the CREATION annexed to this Contract and to allow access and downloading, in accordance with article L 122-5 of the Intellectual Property Code.
+Transparent intermediary
+CULTS is a transparent intermediary that connects the CREATOR, via the cults3d.com site, with potential CLIENTS, MEMBERS of the site, who wish to purchase and download the CREATOR'S file.
+The connection is made by reproducing the CREATION on the Catalogue, thus offering potential CUSTOMERS the possibility of purchasing and downloading the right to use the CREATION;
+CULTS then pays to the CREATOR part of the price possibly paid by the final CUSTOMER for the purchase of the right to use the CREATION.
+The role of CULTS is to bring the CREATOR closer to a final CLIENT in order to allow the CUSTOMER to download or purchase the right to use a CREATION.
+The platform acts as a transparent intermediary between CREATORS and CLIENTS without itself selling products or services.
+Under no circumstances does CULTS propose to highlight certain CREATIONS or set promotional offers.
+CULTS manages the financial aspects of the commercial relationship between the CREATOR and the final CLIENT.
+CULTS undertakes to act in the interest of the CREATOR and according to their instructions, unless the CREATOR or their CREATIONS contravene the rules set herein.
+The CREATOR is free to choose the price set for the use of their CREATION, the set price will only be increased by the CULTS commission and the VAT applied to this commission.
+However, CULTS has no obligation of result towards the CREATOR and exercises its mission within the limits set by Article 8 of this Contract.
+Article II: Rights and Obligations of the CREATOR
+The CREATOR represents and warrants that it has the right to enter into this Agreement.
+The CREATOR also warrants that all information provided to CULTS is accurate.
+Regarding the right of reproduction and use:
+The CREATOR guarantees that they is the original author of the CREATION or that they hold the exclusive copyright on the CREATIONS sent. If this is not the case, the CREATOR is exposed to legal action by CULTS, or the possible purchaser(s) of objects created by CULTS as well as by the original author(s) of the CREATION.
+In the case where a CREATION represents architectural monuments, works, people, objects or brands protected by a particular copyright (intellectual property code, image and property rights, civil code, design law, protected trademark law), the CREATOR is responsible for obtaining the necessary approval from the holders of these rights for the free distribution, use and exploitation of this CREATION.
+CREATIONS must not be of a commercial or advertising nature.
+The CREATOR is prohibited from offering a CREATION presenting in particular an offensive, violent, obscene, pornographic or pedophilic nature, the CREATION of firearms or any related accessories improving or modifying its functioning, and, in general, contrary to the laws and regulations in force. The CREATION proposed by the CREATOR must not infringe the rights of third parties, and in particular intellectual property rights and the right to privacy.
+The CREATOR guarantees that the CREATION support does not contain any computer program intended or likely to damage or intercept a computer system or personal data and information.
+Regarding the intermediary relationship between the Client and the CREATOR:
+By this Contract, the CREATOR acknowledges that CULTS is a transparent intermediary service provider between the CREATOR and the Client.
+The CREATOR must specify the price at which they wish to grant potential CUSTOMERS the right to use their CREATION. They can change the price of their CREATION at any time by having access to their personal account.
+On CULTS, the minimum price to sell a CREATION is set at a minimum of 0.50 euros (and its equivalent in dollars). Below this price, CULTS cannot submit a CREATION for sale.
+The CREATOR undertakes to provide as much truthful information as possible for the sale and downloading of their CREATION. Whether it is complete technical descriptions, photos of the object once manufactured, CREATIONS of the DIGITAL FILE, up to the choice of price, everything must be oriented so that BUYERS want to download the digital product.
+If a product sheet does not correspond to CULTS' qualitative expectations, CULTS reserves the right to modify or complete the product sheets in any way (modification of the description, addition of photos, etc.).
+The CREATOR making a CREATION available (free of charge or not) commits to the quality of the DIGITAL FILE. It guarantees this quality and the printability of their CREATION, CULTS not guaranteeing the 3D printability or manufacturability of all the CREATIONS present on the Site. By submitting their CREATION, the CREATOR undertakes to guarantee that their CREATION is printable using the 3D printing process or generally manufacturable.
+The CREATOR undertakes to comply with the
+General Product Safety Regulation
+applicable since December 13, 2024, and for this to complete it in the
+DESIGNS upload form digital
+all descriptions necessary to satisfy the general safety obligation provided for by the regulation The CREATOR must transmit a risk analysis of the product once manufactured from its digital model: namely potential risks for the health and safety of the MEMBER. The CREATOR is encouraged to establish and share technical documentation describing how the object must be manufactured to eliminate or mitigate all potential risks of the product.
+The CREATOR undertakes to provide CULTS with any document enabling their identity to be verified (identity document, kbis, etc.) in order to comply with the laws and regulations in force, this upon first request and particularly in the context of
+the fight against money laundering
+The CREATOR undertakes to follow up with the CUSTOMER and to respond, as quickly as possible (maximum 7 days) to questions from people who have downloaded their files (via comments or messages received in the messaging system), under penalty of not receiving payment for their sales and/or having their sales reimbursed to CUSTOMERS and/or having their account blocked.
+The CREATOR may delete their CREATIONS from the Catalog at any time by sending an email to
+hello@cults3d.com
+. The deletion of one or more CREATIONS cannot, however, cancel or have any impact on any sales of objects previously concluded by CULTS on the basis of this CREATION, any transaction prior to the deletion request being maintained as is.
+In this way, the deletion of a CREATION only applies from the end of the 48-hour notice period necessary to take into account the change in status of the CREATION concerned. Thus, sales of items made prior to this date retain their full value and cannot be called into question.
+Article III: Rights and Obligations of CULTS
+CULTS reserves the right to refuse any CREATION which, by its content or for any other reason for which CULTS does not have to justify, would be deemed inadequate by CULTS to appear in the Catalogue.
+CULTS reserves the right to exclude a CREATION or a CREATOR, to block the account of a CREATOR and thus to refuse him access to all or part of the services of the Site.
+CULTS reserves the right to refuse the registration of a CREATOR in the event that they are domiciled in a country present on the French list of non-cooperative states (
+searchable list here
+and on the lists of countries subject to international sanctions mentioned on PARTNER payment sites.
+CULTS reserves the right to make a CREATION available for free if it is shared for free elsewhere on the Internet.
+CULTS reserves the right not to transfer money to a CREATOR who has violated these General Conditions of Sale (e.g.: sale of an illicit digital model, non-compliance with copyright, sale of a digital model that cannot be printed in 3D or cannot be manufactured, etc.) and to file a complaint with online payment institutes (such as PayPal) to request compensation and reimbursement of the sums already received by the CREATOR in question.
+CULTS is at no time the holder of the rights to the CREATION provided by the CREATOR. In this way, the CREATOR, by sending a CREATION to CULTS, expressly acknowledges that the Site and its administrators are not responsible for any misuse that could be made of the CREATIONS or the objects reproduced from these CREATIONS.
+CULTS is an agent acting on behalf of the CREATOR in the management of its commercial relationship with potential CLIENTS to enable the transfer by the CREATOR of the right to use the CREATOR’S CREATION. The role of CULTS is limited to connecting the CREATOR with potential CLIENTS and managing these commercial relationships.
+CULTS may refuse to send a second payment to a DESIGNER who has already refused or not accepted a payment sent via PayPal.
+Article IV: Scope of the License
+The CREATOR grants to CULTS for the duration of this Contract, on a non-exclusive basis, an international and non-transferable license to use, reproduce, publish the CREATION and manufacture objects from this CREATION in all forms and representations and by all processes, both current and future, and for all destinations.
+More specifically, the license granted under this Agreement grants CULTS the following rights:
+the right to reproduce the CREATION in its Catalog (on any graphic, magnetic, optical, digital or electronic medium, whether current or future) and in any condensed or extended form;
+the right to reproduce the CREATION in the form of an object in any modified, condensed or extended form;
+the right to adapt the CREATION in terms of size, color, etc. ;
+the right to use the CREATION for the manufacture of an object by any process;
+the right to publish the CREATION on the platform or website of one or more CULTS Partners;
+the right to share the CREATION across the entire CULTS digital ecosystem (blogs, social networks, newsletter, etc.)
+Article V: Method of Registration of the CREATOR
+The registration of the CREATOR on the list of CREATORS for CULTS, simultaneously with their first sending of CREATION, allows the creation of their personal page from the information provided on the form provided for this purpose.
+The CREATOR must register and therefore:
+complete the identification form present in their personal account on which they will complete all the information requested, and in particular their USER name, their email address, their email address for payment, their nature (individual or professional), their first and last name and/or their company name, their postal address, their telephone number, their company number and their VAT number, attesting on their honor to the veracity of these;
+in order to comply with legal tax obligations, the CREATOR may be required to communicate other information such as their reference tax number and their complete marital status.
+More information regarding the DAC7
+.
+be of legal age in their country of residence, and not be under a protective measure preventing them from contracting alone.
+The CREATION sent by the CREATOR will be referenced in the Catalog put online by CULTS on its Site, accompanied by its name or nickname with a link allowing it to access its personal page.
+The CREATOR wishing to make a CREATION available on the Catalog and thus mandate CULTS to manage the commercial relationship with potential CLIENTS must provide valid contact details when registering on the Site, so that the earnings from the sale of their CREATION can be sent.
+CULTS declines all responsibility in the event of loss or non-collection of a payment due to the transmission of false or erroneous contact details.
+Article VI: Proceeds from the CREATOR’s sales
+When sending the CREATION, it will be offered by CULTS in its Catalogue, and the object created from this CREATION will be sold, where applicable, non-exclusively and free of rights, in accordance with article L 131-4 of the Intellectual Property Code.
+CULTS offers potential CLIENTS a price set by the CREATOR for the transfer of the right to use their CREATION.
+On this basis, the money passes through CULTS to send the sales proceeds to the CREATOR. The platform acts as a transparent intermediary between CREATORS and CLIENTS without itself selling products or services.
+CULTS takes its income directly in the form of a commission equal to 20% of the price set by the CREATOR for the transfer of the right to use its CREATION.
+The amount of the sale generated by the CREATOR, less the CULTS Commission, is entered in real time in the CREATOR’s virtual wallet from their personal account.
+More information on DSP2 bonds
+CULTS reserves the right to change this percentage in the future, in which case CULTS undertakes to inform the CREATOR and to propose the conclusion of a new Contract.
+CULTS will also collect VAT in certain cases and according to the rules listed in Article II b) of the General Terms and Conditions.
+The CREATOR can make withdrawals from their income generated on the platform via Stripe Connect, Hyperwallet, Payoneer, PayPal.
+To request payment via Hyperwallet, the CREATOR must synchronize their Hyperwallet account with their CULTS account via their personal space by clicking on the “Connect to Hyperwallet” button. The CREATOR must have a valid and verified account with Hyperwallet.
+To request payment via Payoneer, the CREATOR must synchronize their Payoneer account with their CULTS account via their personal space by clicking on the “Connect to Payoneer” button. The CREATOR must have a valid and verified account with Payoneer.
+To request payment via Stripe, the CREATOR must synchronize their Stripe account with their CULTS account via their personal space by clicking on the “Connect to Stripe” button. The CREATOR must have a valid and verified account with Stripe.
+To request payment via PayPal, the CREATOR must enter the e-mail address of their PayPal account in their personal space. The CREATOR must have a valid and verified account with PayPal.
+Detailed instructions for each payment method are provided on the platform. It is important to follow payment rules and limits to avoid any confusion or issues with the platform. It is also essential that the CREATOR has provided all KYCs requested by Approved Payment PARTNERS and that they coincide with those provided to CULTS.
+To accept payment and withdraw their balance, the CREATOR has one month (as defined by PayPal). After this period, in the absence of recovery of the balance, the amount of the sale is returned to CULTS, without possibility of reimbursement. The limitation period for unsettled sales is 5 years. After this period, the DESIGNER will no longer be able to claim payment for these obsolete sales.
+The CREATOR can also convert their sales into CULTS credit. With their credits, they can purchase digital DESIGNS from other CREATORS using the credits available in their virtual wallet.
+CULTS cannot be held responsible for cases of fraudulent sales. If a banking PARTNER informs CULTS of a fraudulent sale, or that it is a stolen bank card, this sale will be canceled and the CREATOR will not receive any income for this sale. Any sale is considered fraudulent if the BUYER does not pay - at the time of the sale or subsequently - the price of the CREATION.
+CULTS cannot be held responsible for cases of false declaration on the part of the seller resulting in an error concerning the applicable VAT rate.
+Article VII: Responsibility of CULTS
+CULTS makes no guarantee to the CREATOR regarding a final CUSTOMER's selection of the CREATION offered by the CREATOR.
+Consequently, CULTS cannot in any way be held responsible for direct, incidental, indirect or immaterial damage that the CREATOR may suffer as a result of use or non-use of the CREATION, even if the parties have been informed of the possibility of such damage.
+Upon termination of this Agreement, CULTS must cease using the CREATION and destroy it from its computer system and storage devices.
+Article VIII: Termination
+A. Termination of the CREATOR.
+The CREATOR can terminate their account at any time from their account settings. Before terminating, it is the CREATOR's responsibility to withdraw the sums owed to him.
+B. Removal of Content
+In the event that content is removed following a notification that complies with the applicable legal and regulatory provisions, in particular the Digital Services Act, CULTS shall inform the relevant CREATOR of the reasons for the removal, the legal basis justifying the decision, the available internal remedies, and the possibility of contesting the decision under the conditions set out below.
+C. Contesting a Removal Decision
+The CREATOR whose content has been removed has the right to an internal appeal allowing them to contest the removal decision within thirty (30) days from the date of notification.
+CULTS shall review the appeal within a reasonable timeframe and shall communicate a reasoned decision to the CREATOR.
+D. Sanctions in Case of Breaches
+In the event of a violation of third-party intellectual property rights or the publication of unlawful content, CULTS applies a graduated system of sanctions, proportionate to the seriousness and repetition of the breaches identified:
+First breach identified: removal of the content concerned and issuance of a warning to the CREATOR.
+Second breach identified: removal of the content concerned and suspension of the CREATOR account.
+In such a case, the user retains access to the website solely as a visitor, without the ability to upload or commercialize content.
+CULTS also reserves the right to include the account concerned in an internal list dedicated to abusive or repeated behaviors.
+E. Treatment of Funds in Transit
+In the event of suspension of a CREATOR account, CULTS shall, where applicable, refund any funds remaining in transit with the partner payment institution, in accordance with the applicable rules and subject to the absence of any ongoing dispute.
+Article IX: Information & Warning
+The CREATOR acknowledges being informed by this contract that the sale of the rights relating to the use of their CREATION for the creation of objects from this CREATION is likely to result in the CREATOR qualifying as a trader, within the meaning of article L121-1 of the Commercial Code, requiring certain specific obligations, such as registration in the Trade and Companies Register, the keeping of specific accounts, the payment of VAT and other taxes. and applicable taxes, and compliance with invoicing rules.
+Indeed, according to Article L121-1 of the Commercial Code: “Traders are those who carry out commercial acts and make it their usual profession.”
+The repeated sale of the product of their work generating substantial income for the CREATOR can be qualified as an act of commerce and therefore falls within the scope of a professional activity regulated in particular by the Labor Code, the Commercial Code and the General Tax Code.
+So an individual who usually sells their CREATIONS or any products on a marketplace and who earns regular income from it, must create a business. There is no minimum or maximum sales threshold. It is the regularity of the activity, its lucrative nature and the organization put in place that allow the courts to assess these criteria on a case-by-case basis and to qualify certain resellers as traders.
+In this hypothesis the CREATOR, considered as a professional seller, would be required in particular to meet the legal obligations cited above in a non-exhaustive manner.
+Consequently, the CREATOR undertakes in particular to fulfill all tax and social obligations linked to the sale of their CREATIONS.
+CULTS not being a seller, it only pays VAT on the amount of its commission received and therefore declines all responsibility for possible fraud that may be carried out by CREATORS escaping the tax legislation applicable to merchants.
+CULTS reserves the right to disclose any necessary information to the tax authorities upon request.
+Article X: Applicable Law and Dispute Resolution
+This Contract is subject to French law.
+The parties will endeavor to resolve, amicably and in good faith, any disputes that may arise regarding the interpretation, partial or total execution, or non-performance of this Contract.
+If the parties are unable to resolve their dispute amicably, the said dispute will be submitted to a mediator from the Professional Chamber of Mediation and Negotiation (“CPMN”), for its professional guarantees of independence, neutrality and impartiality. For the referral, it is enough for one of the parties to mandate the mediator to organize a meeting so that the other party must appear within the month following the request. For the meeting, the mediator sends a registered letter with acknowledgment of receipt to each of the parties. The parties will fairly share the mediator's intervention costs and undertake to participate in at least one meeting with the mediator, with a view to seeking, with their regulatory assistance, the most suitable solution for resolving the dispute.
+If the parties cannot reach an agreement, this arbitration clause will be deemed honored.
+In the absence of an amicable agreement, the dispute will be brought before the competent courts within the jurisdiction of the CULTS head office.
+×
+⏳
+Toggle dev grid

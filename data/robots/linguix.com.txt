@@ -1,0 +1,45 @@
+
+Host: https://linguix.com
+User-agent: *
+Disallow: */user/
+Disallow: /*?tag
+Disallow: /r/*
+Disallow: /login
+Disallow: /signin*
+Disallow: /autologin*
+Disallow: /premium?from=*
+Disallow: /resetpassword*
+Disallow: /*?p=1
+Disallow: /?p=0
+Disallow: */tag*
+Disallow: */author*
+Disallow: */unsubscribe/*
+Disallow: /oauth/request/*
+Disallow: /promokey*
+Disallow: /get-keyboard/*
+Disallow: /extension-proxy/*
+Disallow: /logout*
+Disallow: /blog/wp-admin
+Disallow: /blog/wp-includes
+Disallow: /blog/wp-content/plugins
+Disallow: /blog/wp-content/cache
+Disallow: /blog/xmlrpc.php
+Disallow: /blog/wp-content/uploads
+Disallow: /blog/wp-content/themes
+Disallow: /blog/trackback/
+Disallow: /blog/tag/*
+Disallow: /blog/feed/
+Disallow: /blog/*/*/feed/*/
+Disallow: /blog/*/feed
+Disallow: /blog/*/*/feed
+Disallow: /blog/*?*
+Disallow: /blog/?feed=
+Disallow: /blog/?s=*
+Disallow: /blog/page/*
+Disallow: /blog/*/page/*
+Disallow: /blog/author/*
+Disallow: *?page=1
+Sitemap: https://linguix.com/sitemap.xml
+
+
+

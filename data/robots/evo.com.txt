@@ -1,0 +1,24 @@
+ï»¿User-agent: *
+Disallow: /bin/
+Disallow: /css/
+Disallow: *checkout/thankyou
+Disallow: /kbi/
+Disallow: /less/
+Disallow: /outlet/product/
+Disallow: /retail/product/
+Disallow: /scripts/
+Disallow: /svg/
+Disallow: /views/
+Disallow: /xml/
+Disallow: *shop?text=*
+Disallow: *productdetails/
+Disallow: *reviewproduct?
+Disallow: *askquestion?
+Disallow: *answerquestion?
+Disallow: *cart/additem
+Allow: *productdetails/interstitialcart/
+
+User-agent: Pinterestbot
+Crawl-delay: 0.2
+
+Sitemap: https://www.evo.com/googlemastersitemap

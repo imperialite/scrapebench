@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /accounts/*
+Disallow: /user/delete-account
+Disallow: /api/*
+Allow: /gg-club/$
+Disallow: /gg-club/
+Disallow: /admin/*

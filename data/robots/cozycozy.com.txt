@@ -1,0 +1,99 @@
+#   ___ ___ _____   _  ___ ___ _____   _
+#  / __/ _ \_  / | | |/ __/ _ \_  / | | |
+# | (_| (_) / /| |_| | (_| (_) / /| |_| |
+#  \___\___/___|\__, |\___\___/___|\__, |
+#                __/ |              __/ |
+#               |___/              |___/
+#
+# Thanks for visiting our robots.txt! But we would prefer that you visit us for real!
+#
+# We like curious people! Send us a message if you are looking for a job or just to say hi!
+#
+# mail: contact@cozycozy.com
+#
+
+User-agent: *
+Disallow: /redirect
+Disallow: /api
+
+Disallow: /*/search
+Disallow: */accommodation/*
+
+Disallow: /fr/ou-dormir/tag/
+Disallow: /fr/ou-dormir/trackback/
+Disallow: /fr/ou-dormir/feed/
+Disallow: /fr/ou-dormir/comments/
+Disallow: /fr/ou-dormir/xmlrpc.php
+Disallow: /fr/ou-dormir/*/feed
+Disallow: /fr/ou-dormir/author
+Disallow: /fr/ou-dormir/*/page/
+Disallow: /fr/ou-dormir/?wordfence*
+
+Disallow: /*(wizard:*
+Disallow: /*(auth:*
+Disallow: */1000
+
+Sitemap: https://www.cozycozy.com/fr/sitemap.xml
+Sitemap: https://www.cozycozy.com/es/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/es/catalog/sitemap_2.xml
+Sitemap: https://www.cozycozy.com/fr-ch/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/tw/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/nl-be/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/us/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/us/catalog/sitemap_2.xml
+Sitemap: https://www.cozycozy.com/ca/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/au/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/de/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/it/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/it/catalog/sitemap_2.xml
+Sitemap: https://www.cozycozy.com/jp/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/en-in/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/tr/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/fr-be/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/mx/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/co/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/ie/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/nz/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/en-sg/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/ru/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/nl/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/en-ae/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/ro/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/fr-ca/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/fr-ca/catalog/sitemap_2.xml
+Sitemap: https://www.cozycozy.com/pt/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/at/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/fi/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/pl/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/ua/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/se/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/ar/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/hu/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/es-us/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/fr/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/fr/catalog/sitemap_2.xml
+Sitemap: https://www.cozycozy.com/cl/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/kr/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/si/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/pe/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/fr/ou-dormir/page-sitemap.xml
+Sitemap: https://www.cozycozy.com/fr/ou-dormir/post-sitemap4.xml
+Sitemap: https://www.cozycozy.com/fr/ou-dormir/post-sitemap3.xml
+Sitemap: https://www.cozycozy.com/fr/ou-dormir/post-sitemap2.xml
+Sitemap: https://www.cozycozy.com/fr/ou-dormir/post-sitemap1.xml
+Sitemap: https://www.cozycozy.com/de-ch/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/br/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/gb/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/gb/catalog/sitemap_2.xml
+Sitemap: https://www.cozycozy.com/fr/ou-dormir/post-sitemap.xml
+Sitemap: https://www.cozycozy.com/vn/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/ec/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/uy/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/cr/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/en-hk/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/en-th/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/en-my/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/en-id/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/en-ph/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/sk/catalog/sitemap_1.xml
+Sitemap: https://www.cozycozy.com/za/catalog/sitemap_1.xml

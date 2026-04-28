@@ -1,0 +1,137 @@
+Terms of Service | Using doxy.me Telehealth
+Product
+Resources
+Pricing
+Sign in
+Get started
+Sign in
+Product
+Pricing
+Help Center
+Blog
+Telehealth.org
+Sign in
+Get started
+Sign in
+Product
+Pricing
+Help Center
+Blog
+Telehealth.org
+Sign in
+Get started
+Terms of Service
+Last updated: January 31, 2024
+These Terms of Service (the âTerms of Serviceâ) apply to the use of the online interfaces and properties (e.g., websites and mobile applications) owned and controlled by Doxy.me Inc. (âDoxy.meâ), including the https://doxy.me website (the âSiteâ) and the services available to users through the Site (âServiceâ and âServicesâ). âProviderâ âYouâ âYourâ and similar terms refer to any user who accesses or uses the Site and/or Services. You invite a Patient (defined below) to use the Services using Your Doxy.me account. Your compliance with these Terms of Service is a condition to Your use of the Site and/or Services.
+In concise and simple language
+, here is a summary of the terms (only the terms outside of this section are legally controlling and binding):
+These are the rules to use this site and its services. Also, be sure to read our Privacy Policy to understand the details of how we use data we may collect about You. If You donât like or agree to these Terms of Service and or our Privacy Policy, do not use our Site or Services.
+We own this website and its related service; do not copy or use our services or content without our permission.
+f You use our Site with an account or to provide services to individuals, we call You a âProviderâ and the individual a âPatientâ. You agree to do so in a legal way and follow all rules and regulations that govern Your practice. Doxy.me has no relationship whatsoever with Your Patients.
+You are solely responsible for how You use Doxy.me that includes how you collect fees from Your Patients.
+We are going to email You occasionally, and Youâre okay with that.
+Donât attempt to hack the Site. Donât share Your username and password with anyone. You are part of an overall secure software solution.
+We try our best to provide the best experience, but do not guarantee that our services will be available all the time.
+Only use Doxy.me and our brand the way theyâre intended to be used. We reserve the right to terminate or delete Your account for misuse.
+You control access to Your account and its data. Sign-in to Your account to delete Your account and data.
+As we are not a healthcare provider or legal firm, we cannot provide medical, professional, or legal advice.
+We have limited liability if something bad happens when You use the site.
+We may occasionally update these terms, so check back in regularly.
+PLEASE READ THESE TERMS OF SERVICE CAREFULLY. BY CLICKING âACCEPTâ OR ACCESSING THE SITE AND/OR USING THE SERVICES, YOU AGREE THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND BY THESE TERMS OF SERVICE. IF YOU DO NOT WISH TO BE BOUND BY THESE TERMS OF SERVICE, YOU MAY NOT ACCESS OR USE THE SITE OR SERVICES. BY ACCEPTING THESE TERMS OR BY ACCESSING THE SITE OR USING THE SERVICES, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THE TERMS OF SERVICE INCLUDING THE PRIVACY POLICY REFERENCED BELOW. IF YOU ARE NOT ELIGIBLE OR DO NOT AGREE TO THESE TERMS OF SERVICE, THEN YOU DO NOT HAVE PERMISSION TO ACCESS THE SITE OR USE THE SERVICES.
+As a condition of using the Site or Services, You also agree to the terms of the Doxy.me Privacy Policy and its region-specific annexes, as they may be changed from time to time (the âPrivacy Policyâ) that specify how we collect and handle Your information. Our Privacy Policy, which is incorporated herein by reference, is located at https://doxy.me/en/privacy-policy/. You agree that your use of any Services is subject to the Privacy Policy.
+If You are using the Services as a Patient or individual (not a healthcare provider), You agree to the Acceptable Use Policy found at this link
+https://doxy.me/en/acceptable-use
+1. Ownership of the Site
+All pages within this Site and any material made available by Doxy.me for download are the property of Doxy.me or its licensors or suppliers, as applicable. The Site is protected by the United States and international copyright and trademark laws. The contents of the Site, including without limitation the files, documents, text, photographs, images, audio, and video, and any materials accessed through or made available for use or download through the Site (âContentâ) may not be copied, distributed, modified, reproduced, published, or used, in whole or in part, except for purposes authorized or approved in writing by Doxy.me.
+2. Providers
+To use this Site as a healthcare provider with a registered account (âProviderâ), You must agree to comply with all laws, medical or other board rules, or other rules and regulations applicable to You as a healthcare provider using the Site. Your relationship with a Doxy.me user (defined as an individual who enters Your waiting room and that You communicate with using the Service that may be Your patient or client) (âPatientâ) is directly between You and the Patient. The Patient will never have a provider/patient-type relationship with Doxy.me. Doxy.me does not practice medicine or any other licensed profession and offers no medical or other professional services. As set forth more fully in Sections 10 and 13, Provider is solely responsible for all agreements, consents, notices and other interactions with Patients and other consumers. Without limiting the generality of the foregoing, Provider is solely responsible for all billings and collections from Patients and other consumers, and Doxy.me shall have no liability whatsoever to Provider concerning any amounts owed by any Patient or other consumers.
+Provider agrees not to include any identifiable Patient information whatsoever (name, diagnosis, email, or any other protected health information identifier) in any communication with Doxy.me. As stated above and repeated for emphasis: Doxy.me has no relationship with any of providerâs Patients.
+3. Independent Professional Judgment
+The Provider will use the Site and Services only in accordance with applicable standards of good professional practice. While software products such as the Services may improve the quality of service that Provider and its personnel offer to Patients, many factors, including the provider/patient relationship can affect a patient outcome, and with intricate and interdependent technologies and complex decision-making it is often difficult or impossible to accurately determine what the factors were and in what proportion they affected an outcome. Provider shall be solely responsible for its use of the Site and Services, and the provision of services to Providerâs Patients. In this regard, Provider releases Doxy.me and waives all potential claims against Doxy.me as a result of the Providerâs use of the Site and Services, and the provision of services to Providerâs Patients.
+4. Electronic Communications
+You consent to receive communications from us electronically. You agree that all agreements can be entered into and signed electronically in accordance with applicable law, and all notices, disclosures, and other communications that we provide to You electronically satisfy any legal requirement that such notice or other communications be in writing.
+5. Site Access; Security and Restrictions; Passwords; Accounts
+You are prohibited from violating or attempting to violate the security of the Site, including, without limitation, (a) accessing data not intended for Your use or logging onto a server or an account which You are not authorized to access; or (b) attempting to probe, scan or test the vulnerability of a system or network or to breach security or authentication measures without proper authorization; or (c) accessing or using the Site or any portion thereof without authorization, in violation of these Terms of Service or violation of applicable law.
+You may not use any scraper, crawler, spider, robot or other automated device, process, or means of any kind to access or copy data on the Site, deep-link to any feature or content on the Site, bypass our robot exclusion headers or other measures we may use to prevent or restrict access to the Site.
+You may not introduce any viruses, Trojan horses, worms, logic bombs, or other material that is malicious or technologically harmful.
+Violations of system or network security may result in civil or criminal liability. Doxy.me will investigate occurrences that may involve such violations and may involve, and cooperate with, law enforcement authorities in prosecuting users who are involved in such violations. You agree not to use any device, software or routine to interfere or attempt to interfere with the proper working of this Site or any activity being conducted on this Site.
+While the Doxy.me software is a secure solution, You are also a part of its security. It is Your responsibility to: use a strong password and not share it; keep Your computer operating system and browser updated; use anti-virus and firewall software (and whitelist Doxy.me); and not use Doxy.me in a public place unless You can be assured there are no eavesdroppers. You agree to be fully responsible for all activities occurring under Your user ID.
+Each individual Provider is required to have their own account. Use of that account is for that specific individual. You agree to notify us immediately of any unauthorized access to or use of your user ID or account or any other breach of security. We reserve the right to remove users and disable any account(s) that are being used by more than one user. We also may block any user who violates this policy from creating a new account. Doxy.me reserves the right to cooperate fully with any law enforcement authorities or court order requesting or directing Doxy.me to disclose the identity of anyone posting, publishing, or otherwise making available any materials that are believed to violate these Terms of Service. BY CLICKING âACCEPTâ OR ACCESSING THE SITE AND/OR USING THE SERVICES, YOU AGREE TO HOLD DOXY.ME HARMLESS FROM ANY CLAIMS RESULTING FROM ANY ACTION TAKEN BY DOXY.ME DURING OR AS A RESULT OF ITS INVESTIGATIONS AND/OR FROM ANY ACTIONS TAKEN AS A CONSEQUENCE OF INVESTIGATIONS BY EITHER DOXY.ME OR LAW ENFORCEMENT AUTHORITIES.
+6. License and Access; Termination by Doxy.me
+Subject to Your compliance with these Terms of Service and Your payment of any applicable fees, Doxy.me or its content providers grant You a limited, non-exclusive, non-transferable, non-sublicensable license to access and make use of the Doxy.me Services. In the event You have entered into a separate Platform Subscription Agreement or Master Services Agreement with Doxy.me (the âServices Agreementâ), the terms of the Services Agreement shall also apply to Your use of the Site and the Services. In the event of a conflict between the Services Agreement and these Terms of Service, the terms of the Services Agreement shall prevail.
+All rights not expressly granted to You in these Terms of Service are reserved and retained by Doxy.me or its licensors, suppliers, publishers, rights holders, or other content providers. The Doxy.me Site, or any part of any Service, may not be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any commercial purpose except as expressly authorized in writing by Doxy.me. You may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of Doxy.me without express written consent. You may not use any meta tags or any other âhidden textâ utilizing Doxy.meâs name or trademarks without the express written consent of Doxy.me. You may only use the Services as intended for professional services and as permitted by law. Doxy.me reserves the right to terminate Your account and revoke any licenses granted by Doxy.me if You do not comply with these Terms of Service.
+7. Termination of Account by the Provider
+If You desire to terminate Your account, You must log in to Your account and delete Your account under account settings. Unless required by law or if a violation of these Terms of Service, Doxy.me will not delete Your account even if it is inactive.
+8. Accuracy and Integrity of Information
+Although Doxy.me attempts to ensure the integrity and accuracy of the Site and the Content on the Site, it makes no representations, warranties or guarantees whatsoever as to the correctness or accuracy of the Site and Content thereon. It is possible that the Site could include typographical errors, inaccuracies or other errors, and that unauthorized additions, deletions, and alterations could be made to the Site by third parties. If an inaccuracy arises, please inform Doxy.me at support@doxy.me so that it can be corrected. Information contained on the Site may be changed or updated without notice.
+9. Links to Other Sites
+Doxy.me makes no representations whatsoever about any other website that You may access through this Site. Doxy.me neither endorses nor accepts any responsibility for any content or use of a third-party website. If You decide to access any of the third-party sites linked at this Site, You do this entirely at Your own risk.
+10. Virtual Waiting Room and Content
+The Services include a virtual waiting room (âVirtual Waiting Roomâ) where Patients wait before beginning a session and where You may post information and links to other sites (âProvider Contentâ). Just like the waiting room in a physical office, anyone with the proper link can enter Your Virtual Waiting Room and view Provider Content. You are solely responsible for any content posted to the Your Virtual Waiting Room.
+Any content You upload to the Site including the Virtual Waiting Room, such as agreements, contracts, consents, notices, advice, recommendations, comments, files, videos, images, external website links, or other information must not: (1) be defamatory, abusive, libelous, unlawful, obscene, threatening, harassing, fraudulent, pornographic, or harmful, or encourage criminal or unethical behavior, (2) violate or infringe the privacy, copyright, trademark, trade dress, trade secrets or intellectual property rights of any person or entity, or (3) contain or transmit a virus or any other harmful components. The Provider is solely responsible for obtaining all necessary agreements and consents and providing all required notices to Patients and others who will view or utilize Provider Content.
+By uploading Provider Content and any other information to the Site, You represent and warrant to Doxy.me that: (1) You have the legal right to grant permission for use by the Site and Doxy.me of Provider Content and other information, and (2) You have the legal right and authorization to upload all Provider Content and other information uploaded by you to the Site or posted by you to a Virtual Waiting Room.
+Doxy.me does not own any of the Provider Content you upload. You hereby grant to Doxy.me a royalty-free, perpetual, irrevocable, worldwide, non-exclusive right and license to use, reproduce, modify, adapt, publish, translate, create derivative works of, distribute, perform, and display all Provider Content, remarks, suggestions, ideas, graphics, or other information or materials of any kind or nature communicated by you (or on your behalf) to Doxy.me through the Site (each, a "Submission"), and to incorporate any Submission in other works in any form, media, or technology now known or later developed. You agree that Doxy.me will not be bound to treat any Submission as confidential and may use any Submission in its business (including without limitation, for services, products, marketing, or advertising) without incurring any liability for royalties or any other consideration of any kind, and will not incur any liability as a result of any similarities that may appear in future Doxy.me operations or businesses. Doxy.me is and shall be under no obligation to respond to any Submission.
+Doxy.me does not regularly review Provider Content but does reserve the right (but not the obligation) to monitor and edit or remove any Provider Content submitted to the Site. You grant Doxy.me the right to use the name that You submit in connection with any Provider Content. You agree not to use a false email address, impersonate any person or entity, or otherwise mislead as to the origin of any Provider Content. You are and shall remain solely responsible for the content of any Provider Content You post to the Site or provide to Patients or other consumers â including content posted to Your Virtual Waiting Room. Doxy.me and its affiliates take no responsibility and assume no liability for any Provider Content submitted by You or any third party.
+You agree not to contact other users through unsolicited e-mail, telephone calls, mailings or any other method of communication. To comply with COPPA,
+doxy.me
+is not allowed to collect or store information from a minor. Thus, while using the platform you agree to coordinate care only with the Minor's parent or guardian (e.g. do not invite a Minor directly) and not cause
+doxy.me
+to store information directly from the Minor.
+You agree to defend, indemnify (to the extent permitted by law) and hold Doxy.me harmless from and against all third party claims, damages, and expenses (including reasonable attorneysâ fees) arising from or relating to Your use of this Site, Your violation of applicable law, or from any Provider Content or other information You post or allow to be posted to the Site or a Virtual Waiting Room.
+11. Claims of Copyright Infringement
+We disclaim any responsibility or liability for copyrighted materials posted on our site. If You believe that Your work has been copied in a manner that constitutes copyright infringement, please follow the procedures set forth below. Doxy.me respects the intellectual property rights of others and expects its users to do the same. In accordance with the Digital Millennium Copyright Act (âDMCAâ), we will respond promptly to notices of alleged infringement that are reported to Doxy.meâs designated Copyright Agent, identified below.
+Notices of Alleged Infringement for Content Made Available on the Site
+If You are a copyright owner, authorized to act on behalf of one, or authorized to act under any exclusive right under copyright, please report alleged copyright infringements taking place on or through our Site by sending us a notice (âNoticeâ) containing all of the written information specified below. Please note that this procedure is exclusively for notifying Doxy.me that your copyrighted material has been infringed. Please include the following in the Notice:
+1. Identify and describe the copyrighted works that You claim have been infringed upon.
+2. Identify the material or link You claim is infringing (or the subject of infringing activity) and that access to which is to be disabled, including at a minimum the URL of the link shown on the Site where such material may be found.
+3. Provide Your mailing address, telephone number, and, if available, email address.
+4. Include both of the following statements in the body of the Notice:
+âI hereby state that I have a good faith belief that the disputed use of the copyrighted material is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use).â
+âI hereby state that the information in this Notice is accurate and, under penalty of perjury, that I am the owner, or authorized to act on behalf of the owner, of the copyright or of an exclusive right under the copyright that is allegedly infringed.â
+5. Provide Your full legal name and Your electronic or physical signature.
+Deliver this Notice, with all items completed, to our Copyright Agent:
+Doxy.me Legal
+18 Broad Street, Suite 300
+Charleston, SC 29401
+12. Disclaimer of Warranties
+DOXY.ME DOES NOT WARRANT THAT ACCESS TO OR USE OF THE SITE WILL BE UNINTERRUPTED OR ERROR-FREE, OR WILL MEET YOUR REQUIREMENTS, OR THAT DEFECTS IN THE SITE WILL BE CORRECTED. THE SITE, INCLUDING ANY CONTENT OR INFORMATION CONTAINED WITHIN IT OR ANY SITE-RELATED SERVICE, IS PROVIDED âAS IS,â WITH ALL FAULTS, WITH NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUALITY OF INFORMATION, QUIET ENJOYMENT, AND TITLE/NON- INFRINGEMENT. DOXY.ME DOES NOT WARRANT THE ACCURACY, COMPLETENESS OR TIMELINESS OF THE INFORMATION OBTAINED THROUGH THE SITE.
+YOU ASSUME TOTAL RESPONSIBILITY AND RISK FOR YOUR USE OF THIS SITE, SITE-RELATED SERVICES, AND LINKED WEBSITES. DOXY.ME DOES NOT WARRANT THAT FILES AVAILABLE FOR DOWNLOAD WILL BE FREE OF VIRUSES, WORMS, TROJAN HORSES OR OTHER DESTRUCTIVE PROGRAMMING. YOU ARE RESPONSIBLE FOR IMPLEMENTING PROCEDURES SUFFICIENT TO SATISFY YOUR NEEDS FOR DATA BACK UP AND SECURITY.
+13. No Advice or Services
+As part of the Services, Doxy.me provides a software platform solely for a Provider to communicate with Patients. Doxy.me does not provide any medical, legal, or other professional advice. Doxy.me makes no representations or warranties whatsoever relating to any medical, professional or legal issues associated with Provider, the Providerâs Patients, or goods or services offered by Provider, including but not limited to any compliance obligations with any country, state or federal authority. The Provider should seek legal counsel regarding any legal and compliance issues and should not rely on any materials or content associated with the Site or Services in determining Providerâs compliance obligations under the law.
+14. Limitation of Liability
+DOXY.ME AND ANY THIRD PARTIES MENTIONED ON THIS SITE ARE NEITHER RESPONSIBLE NOR LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, PUNITIVE, OR OTHER DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, THOSE RESULTING FROM LOST PROFITS, LOST DATA, OR BUSINESS INTERRUPTION) ARISING OUT OF OR RELATING IN ANY WAY TO THE SITE, YOUR USE OF THE SITE OR SITE-RELATED SERVICES, CONTENT OR INFORMATION CONTAINED WITHIN THE SITE, AND/OR ANY LINKED WEBSITE, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY AND WHETHER OR NOT ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. YOUR SOLE REMEDY FOR DISSATISFACTION WITH THE SITE, SITE-RELATED SERVICES, AND/OR LINKED WEBSITES IS TO STOP USING THE SITE AND/OR THOSE SERVICES.
+TO THE EXTENT ANY ASPECTS OF THE FOREGOING LIMITATIONS OF LIABILITY ARE NOT ENFORCEABLE, THE MAXIMUM LIABILITY OF DOXY.ME TO YOU WITH RESPECT TO YOUR USE OF THIS SITE IS $500 (FIVE HUNDRED DOLLARS) PROVIDED YOU HAVE A PAID ACCOUNT.
+15. Dispute Resolution.
+In the event of any dispute or claim relating to the Site, the Services or these Terms of Service, You agree to the resolution of such dispute in the state or federal courts located in Rochester, New York, and you hereby consent to the jurisdiction of any such court. These Terms of Service shall be governed, interpreted and enforced in accordance with the internal laws of the State of New York State (excluding its conflicts of laws principles).
+YOU FURTHER AGREE, TO THE EXTENT PERMITTED BY APPLICABLE LAW, TO WAIVE ANY RIGHT TO TRIAL BY JURY WITH RESPECT TO ANY CLAIM, COUNTERCLAIM OR ACTION ARISING FROM OR RELATING TO THESE TERMS OF SERVICE
+16. Revisions; General
+These Terms of Service, the Privacy Policy (and related policies) constitute the entire agreement between Doxy.me and You pertaining to the subject matter hereof. In its sole discretion, Doxy.me may from time-to-time revise and update these Terms of Service by updating this posting. All revisions and updates are effective immediately when we post them, and apply to all access to and use of the Site thereafter. You should, therefore, periodically visit this page to review the current Terms of Service so You are aware of any revisions, as they are binding on You. Certain provisions of these Terms of Service may be superseded by expressly designated legal notices or terms located on particular pages within this Site, or by a services agreement between You and Doxy.me. Your continued use of the Site following revisions signifies Your acceptance and agreement to such revisions.
+Doxy.me reserves the right, in its sole discretion, to terminate Your access to all or part of this Site, with or without cause, and with or without notice.
+In the event that any provisions of these Terms of Service are held by a court or other tribunal of competent jurisdiction to be unlawful, void, or unenforceable, such provisions shall be deemed severable and will not affect the validity and enforceability of any remaining provisions. In addition, in such event any unlawful, void, or unenforceable provision shall be deemed to be modified to the extent necessary to (1) render it valid and enforceable and (2) give the fullest effect possible to the original intent of the provision.
+17. Indemnification
+You agree to defend, indemnify (to the extent permitted by law) and hold Doxy.me harmless from and against all third-party claims, damages and expenses (including reasonable attorneyâs fees) against or incurred by Doxy.me arising out of the use or operation of the Site and Services due to: a) Your breach of these Terms of Service or a violation of applicable law; b) Your use or access of the Site; c) access by anyone accessing the Site using Your user ID and password; d) personnel of Provider; or e) any Patient or any other third party or person claiming damage by virtue of a familial or financial relationship with such a Patient. To the extent applicable, Provider will obtain Doxy.meâs prior written consent to any settlement or judgment in which Provider agrees to or which otherwise provides or implies any finding of fault of Doxy.me or any defect in the Site or Services or requires Doxy.me to make any payments, bear any obligations or admit any liability unless You obtain Doxy.meâs prior written approval. Doxy.me will promptly notify Provider in writing of any claim subject to this indemnification, and promptly provide Provider with the information reasonably required for the defense of the same. However, without limiting Your obligations described above in this Section 17, Doxy.me reserves the right to appear and defend any actions in which it is named as a party.
+Product
+Overview
+Pricing
+What's new
+Company
+About
+Careers
+Security
+Ventures
+Contact
+Resources
+Help center
+Telehealth.org
+Blog
+Status
+Â© Doxy.me Inc.
+Select Language
+English
+English
+Terms of Service
+Privacy Policy
+Cookie Settings
+Select Language
+English
+English

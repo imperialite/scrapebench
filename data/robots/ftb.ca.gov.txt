@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /forms/ar
+Disallow: /internal/
+
+Sitemap: https://www.ftb.ca.gov/sitemap.xml

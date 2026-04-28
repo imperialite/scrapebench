@@ -1,0 +1,15 @@
+#
+# robots.txt
+#
+User-agent: *
+Disallow: /medicines/___service
+Disallow: /australian-health-services/___results
+Disallow: /reference/item/
+Disallow: /organisation/
+Disallow: /service/
+Disallow: /scccc19
+Disallow: /national-covid-19-helpline-faqs
+Disallow: /covid19-services
+
+Sitemap: https://www.healthdirect.gov.au/sitemap.xml
+Sitemap: https://www.healthdirect.gov.au/australian-health-services/sitemaps/sitemap-index-health-services.xml

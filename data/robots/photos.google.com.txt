@@ -1,0 +1,37 @@
+User-agent: *
+Disallow: /activities
+Disallow: /album/
+Disallow: /albums
+Disallow: /auto/
+Disallow: /assistant
+Disallow: /archive
+Disallow: /collections
+Disallow: /conversations
+Disallow: /direct/
+Disallow: /hidden
+Disallow: /initps
+Disallow: /movie/
+Disallow: /movies
+Disallow: /partner/
+Disallow: /people
+Disallow: /photo/
+Disallow: /places
+Disallow: /printorder
+Disallow: /rediscover/
+Disallow: /return-from-share
+Disallow: /search/
+Disallow: /settings
+Disallow: /shared
+Disallow: /sharedmemories
+Disallow: /sharing
+Disallow: /story/
+Disallow: /things
+Disallow: /trash
+Disallow: /unsaved
+Disallow: /updates
+Disallow: /updates/
+
+User-agent: bingbot
+Disallow: /_/PhotosUi/manifest.json
+
+Sitemap: http://www.gstatic.com/social/photosui/sitemap/sitemap.xml

@@ -1,0 +1,72 @@
+Terms Of Use – UCI Sites
+Log In
+Search
+Terms Of Use
+The University of California, Irvine offers blog and website services (“Services; Service”) to any current faculty, staff, or graduate student of UCI (“Users”). The use of these Services is subject to the Terms of Use (“Terms”) contained herein. You must read and agree to these Terms, including any future amendments.
+We will attempt to notify you when major changes are made to these Terms; however, users should periodically review the most up-to-date version available online at
+https://sites.uci.edu/terms
+. UCI may, in its sole discretion, modify or revise these Terms at any time. If you do not accept and abide by these Terms, you may not use the Services.
+I – Disclaimer
+Websites or blogs published through these Services may include un-moderated dialog containing the personal opinions and expressions of the users who submitted the entries. Neither the content of these sites or blogs, nor the links to other websites, are reviewed, approved, or endorsed by UCI. Furthermore, UCI does not guarantee the truthfulness, accuracy, or reliability of any communications posted, submitted or displayed through the Service.
+Although UCI does not routinely monitor the content posted by users, UCI reserves the right to remove content that violates these Terms, but is under no obligation to do so.
+II – Description of Service
+University of California, Irvine offers blog and website services in support of personal, curricular, and scholarly communications conducted by the University community. These Services are made available to any current faculty or staff of UCI subject to the terms and conditions of use.
+A blog is a website maintained by an individual or individuals, with regular entries consisting of commentary, descriptions of events, and/or other content such as graphics, photos, or audio/video clips.
+The Service is provided to users on an as-is and as-available basis. UCI reserves the right to modify, suspend, or discontinue the Service with or without notice at any time and without any liability to its users.
+III – Proper Use
+Users are responsible for maintaining the confidentiality of their account and password and accept responsibility for all activities occurring under their account. Users agree that they will not access or attempt to access any other user’s account, or misrepresent or attempt to misrepresent their identity while using the Services.
+Users may post content freely through the Services provided by UCI, so long as the content is not illegal, obscene, defamatory, threatening, infringing on another’s intellectual property rights, or otherwise injurious or objectionable. Users agree to use the Service in compliance with all applicable local, state, and national laws and all UCI policies, including but not limited to the
+UCI Web Policy
+,
+Computer & Network Use Policy
+,
+University of California Copyright Policy
+, and
+UCI Guidelines for the UC Electronic Communications Policy
+.
+Use of UCI computer resources for private business or commercial activities, fund-raising or advertising on behalf of non-UCI organizations is prohibited. UCI Web pages may link to commercial websites, but any link that generates, or has the potential to generate revenue to UCI or to any individual or company, including click trade or banner advertising, must be approved by
+UCI Procurement Services
+.
+By posting content to any blog or website hosted by
+UCI Sites
+, Users warrant and represent that they either own or otherwise control all the rights to that content, including, without limitation, all the rights necessary for them to provide, post, upload, input or submit the content, or that their use of the content is a protected fair use. Users agree that they will not knowingly and with intent to defraud provide material and misleading false information. Users represent and warrant also that the content they supply does not violate these Terms, and that they will indemnify and hold the University of California, Irvine harmless for any and all claims resulting from content they supply.
+We offer an optional plugin to support creating web forms. By requesting and using forms on the Service, users agree to not collect any
+sensitive or restricted information
+as defined by
+security.uci.edu
+. All information collected via web forms is sent in the clear via email and stored unencrypted in the database. No sensitive or restricted data should be collected and/or stored on the Service.
+Violation of the foregoing policies may result in immediate termination of this agreement and may subject you to state and federal penalties.
+IV – Intellectual Property Rights
+Users retain all patents, trademarks, and copyrights to any content posted, submitted, or displayed through these Services and are responsible for protecting those rights, as appropriate.
+By posting, submitting, or displaying content through the Services provided by UCI, users are granting UCI a non-exclusive, royalty-free, perpetual, and worldwide license to use the content without limitation, including the rights to copy, distribute, transmit, publicly display, reproduce, edit, and reformat the content. Furthermore, UCI may incorporate your content into a collection of work at any time.
+When publicly displaying, distributing, or reproducing your content, UCI will make its best efforts to credit the user. Users agree to allow UCI to use their name or likeness for such purposes.
+V – Termination, Suspension of Service
+UCI may, at its sole discretion, at any time and for any reason suspend or terminate a user’s account, amend these Terms, or terminate the Service. In the event of termination, access to the account will be disabled and any content contained within may (but is not guaranteed to) remain in our system for backup purposes.
+Inactive Websites
+You acknowledge that if your site becomes
+inactive for more than 24 months,
+it may be archived. Email and reminders will be sent to the site owner before a site is archived. Archived sites can be reinstated by request.
+VI – Indemnification
+Users agree to hold harmless and indemnify UCI, any of its subsidiaries, affiliates, and employees from and against any third-party claim arising from or in any way related to the violation or use of the Service. The indemnification includes any liability or expense arising from all claims, losses, actual or consequential damages, suits, judgments, and litigation costs or attorneys’ fees.
+VII – Agreement
+These Terms constitute the entire agreement between the User and UCI and govern the use of the Services. These Terms supersede any and all prior oral or written agreements with the Users.
+VIII – Web Policy
+Sites hosted on UCI Sites must comply with UCI’s Electronic Communications Web Policy –
+Sec. 800-16: Web Policy
+. Please review the policy to make sure your websites are in compliance.
+Change Log
+May 4, 2012:
+Added “You acknowledge that if your site becomes inactive for more than 24 months an email will be sent to the site owner. If the site owner fails to activate the site by updating content, it will be archived and removed from the service.” to
+V. Termination,
+Suspension of Service.
+August 27, 2015:
+Added “
+We offer an optional plugin to support creating web forms. By requesting and using forms on the Service, users agree to not collect any
+sensitive or restricted information
+as defined by
+security.uci.edu
+. All information collected via web forms is sent in the clear via email and stored unencrypted in the database. No sensitive or restricted data should be collected and/or stored on the Service.” to
+III. Proper Use
+.
+Updated on:
+November 4, 2025

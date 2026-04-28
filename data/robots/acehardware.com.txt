@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-image
+Disallow:
+
+User-agent: Storebot-Google
+Disallow:
+
+User-agent: Google-Extended
+Disallow:
+
+User-agent: *
+Disallow: /cart$
+Disallow: /user
+Disallow: /*sortBy=
+Disallow: /search
+Noindex: /search
+Disallow: /*facetValueFilter
+Noindex: /*facetValueFilter
+Disallow: /*undefined$
+Noindex: /*undefined$
+Disallow: /write-a-review
+
+Sitemap: https://www.acehardware.com/sitemap.xml
+Crawl-delay: 5

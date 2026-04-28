@@ -1,0 +1,29 @@
+# Begin robots.txt file
+User-agent: * 
+crawl-delay: 10
+Disallow: /functions/ 
+Disallow: /includes/ 
+Disallow: /viewcart.cfm 
+Disallow: /myaccount/ 
+Disallow: /checkout.cfm 
+Disallow: /updateaccount.cfm 
+Disallow: /web_taxonomy/ 
+Disallow: /menu.cfm 
+Disallow: /web_attributes.cfm 
+Disallow: /web_taxonomy.cfm 
+Disallow: /web_style_info.cfm 
+Disallow: /alt_images.cfm 
+Disallow: /maintenance.htm 
+Disallow: /test.cfm 
+Disallow: /new_customer.cfm 
+Disallow: /process_new_customer.cfm 
+Disallow: /your_info.cfm 
+Disallow: /login.cfm 
+Disallow: /your_info.cfm 
+Disallow: /process_your_info.cfm 
+Disallow: /process_order.cfm 
+Disallow: /process_ms_order.cfm 
+Disallow: /thankyou.cfm 
+Disallow: /index.cfm?action=*
+Sitemap: https://www.catofashions.com/sitemap.xml
+# End robots.txt file

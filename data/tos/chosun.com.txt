@@ -1,0 +1,145 @@
+Terms of Service
+[Chapter 1: General Provisions]
+Article 1 (Purpose)
+The purpose of these Terms and Conditions is to define the rights, obligations, responsibilities, and other necessary matters between Chosun Ilbo Co., Ltd. (hereinafter referred to as the "Company") and its users in connection with the use of all internet-related services (hereinafter referred to as the "Services") provided by the Company.
+Article 2 (Notice, Effectiveness, and Amendment of Terms and Conditions)
+1. The contents of these terms and conditions are displayed on the service screen for users to easily access.
+2. The Company may amend these terms and conditions as necessary, provided such amendments do not violate applicable laws. Any amendments will be announced along with the effective date and reasons for the amendment, following the same procedure outlined in Paragraph 1. For amendments unfavorable to users, the Company will notify users at least 30 days in advance via service notifications and electronic means (e.g., email or in-service notifications). If individual notification is not feasible due to missing or incorrect user contact information, the notification on the service will be considered sufficient.
+3. If the Company announces or notifies changes to these terms and conditions in accordance with Paragraph 2 and the user does not explicitly reject the changes before the effective date, it will be deemed that the user has agreed to the amended terms. Users who do not agree to the amended terms may stop using the service and terminate the usage contract.
+Article 3 (Rules Outside the Terms and Conditions)
+1. Matters not specified in these terms and conditions shall follow the Personal Information Protection Act, the Basic Telecommunications Act, the Telecommunications Business Act, the Act on Promotion of Information and Communications Network Utilization and Information Protection, and other relevant laws and practices.
+2. These terms and conditions apply alongside individual service guidelines provided by the Company.
+[Chapter 2: Service Use Agreement]
+Article 4 (Establishment of the Usage Agreement)
+1. Clicking the "Agree" button in response to the question "Do you agree to these terms and conditions?" during the application process signifies the user's agreement to these terms and conditions.
+2. The usage agreement is established when the applicant agrees to the terms and conditions, submits a membership application, and the Company approves the application. The Company may require additional documentation from the user if deemed necessary.
+3. For applications under Paragraph 2, the Company may request real-name and identity verification from a professional agency.
+4. The Company may categorize users by grade according to its policy, differentiating access times, usage frequency, service menus, etc.
+5. The Company may request additional information for specific services or memberships, in which case additional consent will be obtained.
+6. The Company may impose age or grade restrictions on users based on the "Promotion of Motion Pictures and Video Products Act," "Youth Protection Act," and other applicable laws.
+Article 5 (Approval, Suspension, and Rejection of Applications)
+1. The Company generally approves service applications.
+2. Approval may be delayed until certain issues are resolved, such as:
+a. Lack of service-related facilities.
+b. Technical difficulties.
+c. Other financial or technical considerations recognized by the Company.
+d. Failure to verify identity.
+e. Failure to meet membership criteria.
+3. The Company may reject applications in the following cases:
+a. Use of another person's name or pseudonym.
+b. False information provided in the application.
+c. Applications intended to disrupt public order or good morals.
+d. Application for obscene or vulgar usernames.
+e. Usernames deemed socially inappropriate or legally prohibited.
+f. When the username is deemed to contain profanity or slang.
+g. Users under the age of 14 without parental or legal guardian consent
+h. Failure to meet other requirements set by the Company.
+Article 6 (Changes to Member Information)
+1. Members may view and edit their personal information at any time through the personal information management page. However, certain information necessary for service management, such as real name or ID, cannot be modified.
+2. Members must update their information online or notify the Company via email or other methods if there are changes to the information they provided during registration.
+3. The Company shall not be held liable for any disadvantages arising from a member's failure to notify changes under Paragraph 2.
+Article 7 (Obligation to Protect Personal Information)
+The Company shall endeavor to protect members' personal information as required by the Act on Promotion of Information and Communications Network Utilization and Information Protection and other applicable laws. Matters concerning the protection and use of personal information shall follow relevant laws and the Company's Privacy Policy. However, the Privacy Policy does not apply to external sites linked through the Company’s services.
+Article 8 (Members' Responsibility for Managing IDs and Passwords)
+1. Members are solely responsible for managing their ID and password. Any disadvantages arising from negligence or unauthorized use of their ID or password will be the sole responsibility of the member.
+2. If a member becomes aware of unauthorized use of their ID or password by a third party, they must promptly notify the Company and follow its guidance.
+Article 9 (Notices to Members)
+1. Unless otherwise specified in these terms, the Company may send notices to members via email or other means.
+2. For notices to all members, the Company may substitute individual notifications by posting them on the service notice board for at least seven days.
+[Chapter 3: Obligations of the Contracting Parties]
+Article 10 (Company’s Obligations)
+1. The Company shall maintain a security system to protect members' personal information and take necessary actions such as maintenance, inspection, and restoration to ensure safe service usage.
+2. The Company shall not disclose or distribute members' personal information to third parties without their consent, except as required by law. Additional matters regarding personal information protection are governed by the Information and Communications Network Act and the Company's Privacy Policy.
+3. The Company shall not send promotional emails, SMS messages, or other communications for commercial purposes to members who have not consented to receive them.
+4. If services are provided through agreements with third parties, the Company shall disclose the details of member information shared and obtain individual consent from members within the scope necessary for service provision.
+5. The Company shall promptly address valid complaints from members. If immediate resolution is not possible, the Company shall notify the member of the reason and the expected resolution timeline.
+Article 11 (Members' Obligations)
+1. Members must comply with applicable laws, these terms, and any guidelines provided by the Company. Members must not interfere with the Company's operations.
+2. Members shall not use the service for any commercial activities without prior approval from the Company.
+3. Members shall not copy, modify, translate, publish, or distribute information obtained through the service without the Company's prior approval.
+4. Members are responsible for obtaining all necessary permissions for using photos, trademarks, or other protected content. Any disputes arising from such use shall be the sole responsibility of the member.
+5. Members shall not engage in the following activities while using the service:
+a. Collecting, storing, or misusing other members’ IDs or personal information without authorization.
+b. Reproducing, modifying, publishing, broadcasting, or distributing information obtained from the service for purposes other than personal use without prior approval from the Company.
+c. Infringing on the copyrights or other intellectual property rights of the Company or third parties.
+d. Disseminating information, text, images, or other content that violates public order or good morals.
+e. Engaging in activities objectively deemed to be associated with criminal acts.
+f. Defaming or insulting others.
+g. Engaging in hacking activities or distributing computer viruses.
+h. Sending advertisements, promotional materials, or engaging in commercial activities without authorization.
+i. Conducting any activity that disrupts or may disrupt the stable operation of the service.
+j. Violating any applicable laws or regulations.
+6. Members must comply with applicable laws, these terms and conditions, and the service usage guidelines and precautions.
+[Chapter 4: Service Provision and Use]
+Article 12 (Scope of Services)
+1. These terms apply to all services provided by the Company, including those developed through partnerships. Individual services may have additional terms as required.
+2. Community services with personalized areas are automatically created upon registration, using the member's ID as the community address.
+Article 13 (Provision of Information)
+The Company may provide necessary information to members via email, SMS, or other methods during service usage.
+Members can opt out of receiving such communications through their account settings.
+Article 14 (Transactions with Advertisers)
+The service may include promotional activities by advertisers. The Company shall not be held responsible for any losses or damages incurred by members resulting from transactions with advertisers.
+Article 15 (Member-Submitted Content)
+The Company is not responsible for any civil or criminal liabilities related to the content that members post, upload, email, or otherwise transmit through the service. The Company may delete such content without prior notice if it falls under any of the following:
+1. Content that defames or slanders other members or third parties, infringes on privacy, or damages reputations through false accusations.
+2. Content that disrupts or is likely to disrupt the stable operation of the service.
+3. Content deemed related to criminal activities.
+4. Content that infringes on the intellectual property rights of the Company, other members, or third parties.
+5. Content that exceeds the posting period specified by the Company.
+6. Pornographic or obscene content, or links to such sites.
+7. Content deemed to violate relevant laws or regulations.
+Article 16 (Rights and Responsibilities for Content)
+1. All content published by the Company is the property of the Company.
+2. The Company protects its content, and the unauthorized use or citation of such content on other websites is prohibited.
+3. Content created and posted by members remains the property of the members. However, members grant the Company a free license to use the content.
+4. Member-posted content may appear in search results, promotional materials, or related services. To facilitate such exposure, the Company may edit, reproduce, or modify the content within the scope of applicable laws. Members may request deletion, exclusion from search results, or other actions regarding their content at any time.
+Article 17 (Service Usage)
+1. Services are available 24/7 unless interrupted by technical issues, maintenance, or other unavoidable circumstances.
+2. If necessary, the Company may temporarily restrict service usage due to equipment maintenance, technical difficulties, or unexpected increases in traffic. In such cases, the Company will notify members in advance or, if prior notice is not possible, immediately afterward.
+3. The Company may set specific usage times for certain services and will inform members in advance.
+Article 18 (Points)
+The Company may adjust or periodically expire points earned by members for the effective operation of the service. Adjustments will be announced in advance.
+Article 19 (Termination of Service Contract)
+1. Members may request to terminate the service contract through the customer service center or account management menu at any time. The Company will process such requests promptly as required by law.
+2. Upon termination, all member data will be deleted immediately, except where retention is required by law or the Privacy Policy.
+3. Posts created by the member, such as blog posts, will also be deleted upon termination. However, posts that have been shared or reposted by others, or posted on public boards, will not be deleted. Members should delete such posts manually before termination.
+4. The Company may revoke a member’s account if they fail to log in for a specified period.
+Article 20 (Service Restrictions)
+1. The Company may impose warnings, temporary suspensions, permanent bans, or forced terminations on members who violate these terms or interfere with the normal operation of the service.
+2. If a member fails to log in for an extended period, the Company may restrict access to protect member information and improve operational efficiency.
+3. The Company may terminate the contract or suspend services without prior notice in the following cases:
+a. Unauthorized use of another member's service ID or password.
+b. Intentional disruption of service operations.
+c. Dissemination of content that contravenes public order, good morals, or societal standards.
+d. Planning or executing activities that harm national interests or public welfare through the service.
+e. Defamation, insult, or causing harm to others.
+f. Sending excessive amounts of information or advertisements with the intent to disrupt the stable operation of the service.
+g. Distribution of computer viruses or malicious software that cause malfunctions or destruction of information and communication facilities.
+h. Infringement of intellectual property rights belonging to the Company, other members, or third parties.
+i. Actions that violate correction orders from external organizations such as the Information and Communication Ethics Committee, or engaging in illegal election campaigns based on interpretations from the Election Commission.
+j. Unauthorized use of another member's personal information, ID, or password.
+k. Copying, distributing, or commercially using information obtained through the service without prior approval from the Company.
+l. Posting obscene content on personal websites or bulletin boards or linking to pornographic sites.
+m. Violating these terms and conditions, other Company policies, or applicable laws and regulations.
+Article 21 (AI Learning and Large-Scale Crawling)
+1. The Company prohibits the use of automated tools, such as robots, macros, spiders, or scrapers, to access its content or services without prior agreement or contract.
+2. The Company prohibits the use of its content or services for AI training, software development, or similar purposes without authorization.
+3. Any use of the Company’s content for commercial or non-commercial purposes requires prior approval and, where applicable, a formal contract with the Company.
+4. Unauthorized data collection or crawling for AI learning that infringes on the Company’s rights may result in legal actions, including criminal complaints or claims for damages.
+[Chapter 5: Miscellaneous]
+Article 22 (Prohibition on Assignment)
+Members may not transfer or assign their service usage rights or any contractual status to third parties without the Company’s prior consent.
+Article 23 (Youth Protection)
+The Company enforces a youth protection policy to safeguard minors from harmful information and ensure their safe use of the internet. Details of this policy are available on the service’s main page.
+Article 24 (Disclaimer)
+1. The Company is not liable for service disruptions caused by force majeure, such as natural disasters.
+2. The Company is not responsible for disruptions caused by members’ actions.
+3. The Company is not responsible for the reliability or accuracy of information posted by members.
+4. The Company is not liable for disputes between members or between members and third parties arising from service use.
+5. The Company is not liable for damages caused by members’ violations of these terms.
+Article 25 (Dispute Resolution and Jurisdiction)
+1. The Company and members shall make every effort to resolve disputes related to the service amicably.
+2. If a lawsuit arises despite such efforts, it will be filed in the court with jurisdiction over the Company’s headquarters.
+3. These terms and conditions and any disputes are governed by the laws of the Republic of Korea.
+[Addendum]
+These terms and conditions take effect on September 8, 2023.

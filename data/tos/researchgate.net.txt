@@ -1,0 +1,620 @@
+Terms of Service
+Last updated: February 20, 2024
+To help make these terms easy to navigate, the text is broken down into sections covering different
+topics. You can find an overview of all the sections in the contents. When you visit each section,
+you’ll find a summary of what it contains and a list of subsections.
+Introduction
+● If you live outside of the United States, sections 1 to 8 of these Terms of Service (“Terms”)
+apply to you.
+● If you live in the United States, in addition to sections 1 to 8, section 9 of these Terms
+applies to you. Section 9 contains additional terms of service for United States residents
+(“Additional U.S. Terms”), INCLUDING A MANDATORY ARBITRATION CLAUSE IN SECTION
+9.2.
+● These Terms incorporate the following additional policies (“Policies”):
+Community Guidelines
+Strikes Policy
+Appeals Policy
+Intellectual Property Policy
+Unsolicited Ideas Policy
+Definitions
+● “Member” (also referred to as “you” and “your”) – a User who successfully registers for an
+account on the Service.
+● “Member Submission” – any content, article, data, text, image, post, profile information, or
+other information that a Member adds, creates, uploads, submits, distributes, transmits,
+sends, shares, or posts, whether privately or publicly, on or to the Service.
+● “ResearchGate” (also referred to as “we” and “us”) – ResearchGate GmbH, a German limited
+liability company.
+● “Service”– the services made available at www.researchgate.net and all other websites and
+properties operated by ResearchGate and all associated applications, including our iOS and
+Android apps.
+● “User” (also referred to as “you” and “your”) – anyone who, as a recipient of the Service,
+accesses or uses the Service for any purpose.
+● “Visitor” (also referred to as “you” and “your”) – an unregistered User of the Service.Page 2 of 19
+Contents
+1. Agreement 2
+2. Our Service 3
+3. Content on the Service 4
+4. Your conduct 6
+5. Community Guidelines and Strikes Policy 9
+6. Termination of this agreement 10
+7. Changes to this agreement 11
+8. Important legal terms 12
+9. Additional terms for United States residents 15
+1. Agreement
+Our Service is available to you provided that you agree to these Terms and our Policies.
+Additionally, you can only access the Service and create an account if you meet our eligibility
+criteria.
+1.1 What terms apply
+We provide the Service as an information society service in the meaning of Article 1(b) of
+Directive (EU) 2015/1535. Your use of the Service is subject to these Terms, which include
+the Policies. The Terms become binding on Members once we accept your offer to enter
+into a binding agreement with us, for example, once you have completed the registration
+process and we have made your account accessible by you. Visitors may also be asked to
+agree to these Terms to use certain features. If you do not understand or accept any part of
+these Terms, you must not use the Service.
+1.2 Who can use the Service
+The Service is only available to individual natural persons acting in their professional
+capacity who are at least 18 years old. You cannot use the Service if you are on a sanctions-
+related list of designated persons maintained by the United Nations Security Council,
+European Union, or any governmental authority of the United States of America, or are
+prohibited from receiving the Service under laws applicable to you.
+To register for an account, you must meet our registration criteria, which require you to
+either register using an email address with a domain of a research institution recognized byPage 3 of 19
+us or submit acceptable proof of otherwise being an active researcher. If you don’t meet our
+registration criteria at the time of registration, we may reject your registration or terminate
+your membership if we later learn that you successfully registered without meeting our
+criteria. If you have previously had your membership terminated by us, you may not register
+for the Service again.
+2. Our Service
+ResearchGate’s mission is to connect the world of science and make research open to all. To
+achieve this, the Service facilitates discovery, connection, and collaboration, and lets you showcase
+your research, ideas, and experience.
+2.1 Discover and connect with relevant people, entities, and
+information
+You can use the Service to discover research, discussions, journals, products, services, and
+collaboration, publishing, learning, development, and career opportunities. As a Member,
+you can connect and collaborate with other individuals, recruiters, and entities, build a
+network, exchange knowledge and insights, and engage and interact with the ResearchGate
+community.
+To be as helpful as possible, the Service takes into account information about you, including
+information about your career, skills, experience, affiliations, disciplines, location, research
+output, network, connections, and your and others’ activities on the Service, to personalize
+your experience and recommend content, people, entities, opportunities, and information
+that may be relevant and useful to you. We also gather information from external sources, to
+improve these suggestions and disseminate as much relevant scientific content as possible
+to drive science forward.
+Keeping your profile information accurate and up-to-date helps us to make these
+recommendations more relevant and useful. For more details about how we make these
+recommendations and how you can influence your experience, see our Help Center. For
+more information about our processing of personal data, see our Privacy Policy.
+2.2 Share your research, ideas, and experience
+The Service enables Members to share their own research-related work, knowledge,
+professional insights, and ideas by sharing their Member Submissions. Members can also
+use the Service to showcase their professional identity, including their education, work
+experience, credentials, skills, journal roles, expertise, and affiliations.Page 4 of 19
+While we endeavor to make the Service available as constantly as possible, there may be
+disruptions or temporary suspension of the Service due to maintenance, security, capacity,
+or events beyond our control.
+3. Content on the Service
+When using the Service, you may see the content of others or share content of your own. Both of
+these are subject to a few conditions.
+3.1 Third-party content
+As a User of the Service, you may access third-party content made available on the Service.
+Third-party content may include Member Submissions, content licensed to us by publishers,
+or scientific metadata, bibliographic information, or other content that we have sourced
+from publicly available sources.
+The source of third-party content may be identified next to or in connection with the
+content. You can use third-party content available on the Service in accordance with
+applicable laws, in particular copyright laws (including any applicable exceptions or
+limitations), or otherwise in compliance with any applicable license terms. Trademarks and
+logos displayed on the Service belong to their respective owners.
+We do not represent that third-party content made available on the Service is appropriate or
+available for use in any particular location. If you choose to access or use the Service, you
+do so of your own volition and at your own risk. You are responsible for compliance with all
+applicable local laws, including, if you are in the United States, any applicable export control
+or foreign assets control regulations, and are solely responsible for any damage or loss to
+any party resulting from your access to or use of the content.
+All content publicly posted or privately transmitted through the Service is the sole
+responsibility of the person by whom such content was submitted. We do not endorse and
+have no control over third-party content made available on the Service. We do not generally
+monitor content made available on the Service for violations of law or ResearchGate’s
+policies. We may use automated systems to analyze Member Submissions in order to
+detect potential copyright infringement based on information and instructions provided to
+us by rightsholders. Otherwise, we do not manually or automatically preview, review, or filter
+content, or use algorithmic decision-making for the purpose of content moderation.
+Therefore, we do not and cannot, unless notified, have knowledge of possible infringements,
+inappropriate or inaccurate content, or violations of law caused by Member Submissions.
+We are not liable for such information (Digital Millennium Copyright Act, 17 U.S.C. section
+512; Article 6 of Regulation (EU) 2022/2065).Page 5 of 19
+We will, upon obtaining knowledge about or becoming aware of illegal content, act
+expeditiously to remove or disable access to such content. To the extent that content
+collected from third-party sources, including personal data, is made available by
+ResearchGate on the Service, we are unable to control the legitimacy or accuracy of such
+content. However, we will review any issues that are reported to us.
+Our Help Center provides information about how to report inappropriate, inaccurate, or
+illegal content, including alleged intellectual property infringements. Section 5 (Community
+Guidelines and Strikes Policy) of these Terms describes how we deal with such reports
+3.2 Your content
+If you are a Member, you can add Member Submissions to the Service. You retain all
+ownership rights in your Member Submissions. However, you grant us a worldwide, non-
+exclusive, royalty-free, sub-licensable license to use your Member Submissions (including to
+host, reproduce, distribute, modify, copy, publicly perform or display, translate, and create
+derivative works of your Member Submissions for the sole purpose of making available and
+improving our Service. You also grant Users a worldwide, non-exclusive, royalty-free, non-
+transferable and non-sublicensable license to access your Member Submissions through
+the Service and use the Member Submissions solely in connection with using the Service.
+Your Member Submissions may be displayed next to or in connection with sponsored or
+commercial content on the Service. For example, your profile information may be displayed
+in connection with such content if you take an action in relation to that content, such as
+registering your interest in or recommending it.
+To the extent that you do not have the legal rights to grant these licenses in relation to any
+Member Submissions, you agree not to upload those Member Submissions. You are
+responsible for ensuring that the use of your Member Submissions as contemplated by
+these Terms does not infringe or violate the rights of any third party, including any privacy
+rights, publicity rights, patent, copyrights, contract rights, or any other intellectual property
+or proprietary rights. Where your Member Submissions contain personal data, you must
+have a legal basis to share that personal data. Except where legal exceptions or limitations
+apply, you represent and warrant that you own or otherwise control any and all rights or
+licenses required in order to submit or share all content in your Member Submissions on the
+Service.
+You can end these licenses for a specific Member Submission by deleting that Member
+Submission from the Service where possible, or generally by closing your account. You may
+delete your Member Submissions at any time, with some limited exceptions. For example,
+you may be unable to delete a question if it has been answered, because this content may
+be valuable for others and its deletion may result in deletion of others’ Member
+Submissions. Please be aware that we may continue to display some Member SubmissionsPage 6 of 19
+after you close your account, including metadata and abstracts on publication pages you
+created, labs you created, and posts that form part of a discussion thread. If you sent any
+private messages, the recipients will still have access to the message content.
+You understand that, subject to your Privacy Settings, your profile information, account
+activity, and Member Submissions may be visible to and shared with third parties, including
+other Members (including recruiters) and/or Visitors, and that we cannot and do not control
+any such third parties. For information about what personal data we process and how we
+use the data, please see our Privacy Policy.
+Any idea, information, or feedback you submit to us without our specific request is subject
+to our Unsolicited Ideas Policy.
+4. Your conduct
+To make sure ResearchGate is a constructive and civil space dedicated to research, you agree to
+follow some basic rules.
+4.1 Integrity and authenticity
+As we strive to connect the world of science and make research open to all, we think it’s
+critical that our Members stay accountable for their opinions and actions. For this reason
+you agree to:
+● Identify yourself using only your real name and, if you choose to use a profile photo, only
+use a real photo of you and you alone.
+● Keep your personal data accurate and up-to-date. Do not accept, adopt, or post any
+content that falsely or misleadingly implies incorrect or inaccurate information about
+you, including your roles, authorship, biographical facts, research, qualifications,
+credentials, work experience, achievements, or the like.
+● Only affiliate yourself with institutions that you have an affiliation with, and keep your
+current affiliation on your profile up-to-date.
+● Only register for one account for yourself. Do not register for or operate an account after
+you have had an account restricted, suspended, or terminated, register for or operate an
+account for a third party or on behalf of an entity, or circumvent our registration criteria
+or assist a third party to do so.
+● Use a strong password and keep it confidential. Do not give others access to your
+account or transfer your account to anyone else.
+● Only connect your account with email addresses that belong to you as an individual. Do
+not use a non-personal email address, such as a generic company email address.Page 7 of 19
+4.2 Safety and security
+We want people to always feel safe and secure while they use ResearchGate. With that in
+mind, you agree not to:
+● Annoy, harass, abuse, troll, degrade, disparage, shame, insult, bully, intimidate, threaten,
+attack, stalk, exploit, or send unwelcome communications to others (including
+ResearchGate), including unwanted romantic advances.
+● Share private communications, personal data of minors, or personal or sensitive data of
+any other person without a legal basis to do so. This includes sharing someone’s private
+information online without their permission, sometimes called doxing.
+● Share confidential or proprietary information, trade secrets, or any information you do
+not have a right to share.
+● Share files, programs, or software that contain viruses, worms, or harmful code, or
+otherwise pose a risk of compromising others’ online data or security, including through
+malicious software or websites, browser extensions, or mobile applications.
+● Employ any mechanisms, devices, software, scripts, robots, or any other means or
+processes (including crawlers, browser plugins, add-ons, or any other technology) when
+using the Service, or use any such means to access, scrape or copy content, data, or
+profiles on or from the Service.
+● Access, process, harvest, store, or otherwise use any other person's personal data for
+any purpose other than the natural purpose of such data being made available within
+the Service.
+● Access content or data on the Service at an unusually high rate or attempt to access
+any content or data you do not have permission or eligibility to access.
+4.3 Inappropriate, harmful, or dangerous content
+We want to cultivate a professional, collaborative, and respectful community environment,
+where every researcher is empowered to do their best work. You therefore agree not to:
+● Post anything explicit, derogatory, discriminatory, shocking, graphic, objectionable,
+offensive, sexually suggestive, immoral, potentially harmful, or potentially dangerous,
+including demonstrably false claims, disinformation, misinformation, or harmful health
+claims.
+● Disseminate content that poses a risk of intimidating groups of a population,
+destabilizing political or social structures, or leading to a threat to public security or
+public health.
+● Engage in hateful conduct or share hate speech, including any content that attacks,
+denigrates, or promotes violence against people, a group, or class based on their actual
+or perceived race, color, ethnicity, national origin, political or religious affiliation, sexual
+orientation, sex, gender, gender identity, gender expression, age, immigration status,
+disabilities, or diseases.Page 8 of 19
+● Post content containing nudity, or share any pornographic or sexually explicit,
+suggestive, or inappropriate materials, or content that sexually exploits or endangers
+children or otherwise violates any applicable legislation for the protection of minors.
+Content containing nudity may be permissible where the primary purpose is scientific
+and the content isn’t gratuitous.
+● Share any content that glorifies, incites, or calls for harm or violence of any kind, or
+praises, supports, legitimizes, or downplays violence, violent actors, or violent events.
+● Post or share anything that encourages, threatens, or amounts to commission of a
+crime, condones, denies, or trivializes crimes of genocide, crimes against humanity, war
+crimes, or crimes against peace, or that represents, praises, supports, or legitimizes
+ideologies, organizations, or individuals that engage in or promote violence, organized
+crime, extremism, hate, or terrorism, including any unconstitutional, terrorist, or former
+National Socialist (i.e. Nazi) organizations.
+● Post or share anything that otherwise does not comply with any applicable laws,
+regulations, or other legally binding obligations, promotes illegal activity, or infringes the
+legal rights of others.
+4.4 Deceptive or commercial practices
+ResearchGate is a home for researchers to share and discover research and build valuable
+connections. To help keep a research-focused environment, you agree not to:
+● Post or share anything false, inaccurate, dishonest, fraudulent, misleading, manipulative,
+deceptive, defamatory, or libelous.
+● Use the Service to harm others or their careers or business prospects, or to air personal
+or legal grievances or disputes.
+● Misuse the Service or its features, for example by adding inaccurate, unrelated, outdated
+or non-research-related information, creating publication pages for research you did not
+author, or posting content whose primary purpose is to drive Users to properties outside
+of the Service.
+● Act unprofessionally or inappropriately, including by posting broad, vague, irrelevant,
+repetitive, untargeted, off-topic, or non-scientific content.
+● Distribute, send, post, trigger, or promote advertising or commercial, promotional, or
+spam-like content, including incentivized endorsements, job offers, business proposals,
+junk mail, phishing schemes, deceptive or excessive messages or notifications, exam
+dumps, or game hacks.
+● Publish, share, sell, license, commercialize, or make available information that is
+provided within the Service to any third party outside the Service, unless such a
+distribution or disclosure is intended within the scope of and in accordance with the
+Service. Information made available within the Service is not to be commercialized by
+Users in any way.Page 9 of 19
+● Commercialize any ResearchGate application or any information or software associated
+with such application.
+● Sell, license, or purchase data obtained from ResearchGate or our Service.
+● Post excessively within a short timeframe, overburden or interfere with the working,
+integrity, or appearance of our Service, or impose an unreasonable or disproportionately
+large load on our infrastructure.
+● Block, overwrite, modify, or copy the Service.
+● Post or fulfill requests for potentially unauthorized copyrighted material or pirated or
+cracked versions of software, or promote any form of hacking or cracking.
+● Attempt to manipulate our Service’s algorithms, features, or functionalities for unfair
+advantage, such as to boost content visibility unfairly or game the system for
+recommendations, followings, or the like.
+● Impose an unreasonable or disproportionate administrative burden on ResearchGate,
+including by sending us a disproportionate amount of communications or reports.
+● Misuse any reporting, complaint, or appeals process, including by submitting manifestly
+unfounded notices, complaints, or appeals.
+5. Community Guidelines and Strikes Policy
+Our Community Guidelines set the tone for what behavior and content is encouraged on
+ResearchGate, and what we consider inappropriate. If you violate the guidelines or these Terms, we
+may take action on your content or account and apply a strike under our Strikes Policy.
+Generally, if we receive a report that content or conduct on the Service violates these Terms,
+our Community Guidelines, or the law, the reported content or conduct will be reviewed by a
+human.
+If, following our review of content or conduct, we consider there are objective reasons to
+believe that it violates these Terms, our Community Guidelines, or the law, or may expose
+us, a User, or third parties to harm, potential legal liability, or regulatory impacts, we may
+take action. The action we take may include:
+● Disabling public access to, removing, deleting, blocking, modifying, demoting, or
+reformatting content.
+● Sending a warning to any involved parties or issuing a strike in accordance with our
+Strikes Policy.
+● Suspending a Member’s account access.
+● Permanently disabling a Member’s access to their account.
+In determining whether to take action and when applying our Strikes Policy, we will take into
+account the context, nature, and severity of the event, the rights and legitimate interests of
+all parties involved, the intent of any actors where it can be reasonably identified, and any
+previous relevant events.Page 10 of 19
+If we take action on your content or account, we will notify you what action was taken and
+the reason why it was taken. We may not notify you of action taken on your content or
+account, or of our decision following a report or appeal, where we are prohibited from doing
+so for legal reasons, or it would be unreasonable to do so, bearing in mind the interests of
+the parties.
+If we decide to take action on your content or account, or we decide not to remove content
+that you reported as being illegal, and you believe our decision was made in error, you may
+be able to request an appeal in accordance with our Appeals Policy. In such a case, we will
+reassess our original decision and notify you of the outcome of our review. Our Appeals
+Policy also describes other remedies that may be available to you.
+If you frequently submit manifestly unfounded reports or appeals, we may suspend the
+processing of your reports and appeals.
+6. Termination of this agreement
+You are free to terminate this agreement at any time. We can also terminate this agreement with
+notice or without notice for good cause.
+As a Member, you can terminate this agreement at any time without cause by deleting your
+account. If you ask us to delete your account for you, we may require that you verify your
+identity before we agree to do so, to protect you and others from accidental or unauthorized
+account deletion.
+In the interests of data privacy and security, we may delete your account in accordance with
+our Privacy Policy.
+We may terminate this agreement without cause with a notice period of 30 days. We are
+also entitled to immediate extraordinary termination for good cause at any time.
+Extraordinary termination for good cause is defined as an event that makes it unacceptable
+for the terminating party to continue the agreement until the end of the termination period,
+taking into account all circumstances of the individual case and weighing up the interests
+of both parties. A good cause for ResearchGate includes, but is not limited to, the following
+events:
+● You repeatedly or materially fail to comply with any applicable legal provision, a
+contractual obligation of these Terms, or our Community Guidelines.
+● Our reputation is substantially impaired by your online presence.
+● You have revoked a consent given under data protection law or objected to further
+processing of your personal data.
+● You expose ResearchGate, yourself, or any third party to potential harm, risk, legal
+liability, or regulatory impacts.
+● A legal requirement or court order requires us to terminate.Page 11 of 19
+● We have good reason to believe your account is not under the control of the person
+identified in your profile, or is under the control of a person or group of persons
+operating multiple accounts.
+In the event of termination by ResearchGate, we may either delete your account or disable
+your access to your account. In the event of termination, the following shall survive:
+● The ability of ResearchGate and Users to access, use, and share your Member
+Submissions in accordance with these Terms and applicable laws, when
+appropriate.
+● Our right to retain your account data in accordance with our Privacy Policy, for
+example to defend legal claims.
+● Your ability to access the Service as a Visitor, in which case these Terms will
+continue to apply to such use, to the extent applicable.
+● Sections 1 (Agreement), 3 (Content on the Service), 4 (Your conduct), 6 (Termination
+of this agreement), 7 (Changes to this agreement), 8 (Important legal terms), 9
+(Additional terms for United States residents) of these Terms.
+7. Changes to this agreement
+We can change the Service and these Terms in some circumstances.
+7.1 Changes to our Service
+We can modify the Service, for example:
+● Where it is technically necessary to do so or to adapt to technological
+advancements.
+● To introduce new features that enhance the Service or discontinue existing ones.
+● If we are required to comply with applicable law, a legal order, or a decision by a
+government authority.
+● To prevent abuse or harm or mitigate any potential safety or security issues.
+● If the modification is beneficial to Users or is of a purely technical or process-related
+nature without any material impact on Users.
+We will only change or stop offering any part of the Service for valid reasons, taking into
+account the reasonable expectations of Users as a whole, and any potential impact on
+them. We will provide reasonable notice of such changes where appropriate.
+7.2 Changes to these Terms
+We may change these Terms from time to time, for example, to clarify the Terms, reflect
+changes in our Service, and/or reflect changes in the law. You will become subject to thePage 12 of 19
+new terms if you explicitly agree to them, or if we provide you with notice of the changes.
+We will provide such notice by sending you an email and/or notifying you on the Service.
+You are obliged to check your emails and account regularly for such notice. In the notice, we
+will inform you of the new terms and the material changes, your right to object to the
+changes, and the deadline to object.
+Unless we state otherwise, the changes will become effective thirty days from the day they
+are posted. To object to the changes, you must delete your account and discontinue using
+the Service before the changes take effect. You can also notify us that you object before the
+changes take effect, in which case we may terminate our agreement with you and delete
+your account in accordance with section 6 (Termination of this agreement).
+In applying this procedure, we will not make any changes that materially affect the
+contractual balance between you and ResearchGate.
+8. Important legal terms
+As with all contracts, some legal terms are important to highlight. These terms describe, for
+example, when we may be liable, when you may need to indemnify us, and what law applies.
+8.1 Your indemnification of us
+You will indemnify and hold ResearchGate (including our affiliates and subsidiaries, and our
+and their respective officers, directors, employees, and agents) harmless from any claim or
+demand, including reasonable legal fees, made by any third party due to or arising out of
+your Member Submissions, breach of these Terms, improper use of the Service, breach of
+any law, or violation of the rights of a third party.
+8.2 Our intellectual property
+The software running the Service, site design and content, logos, and other graphics, as well
+as the database, are protected by copyright, trademark, and other intellectual property laws
+in multiple jurisdictions. We reserve all of our intellectual property rights in the Service.
+If you download the ResearchGate app, ResearchGate grants you a personal, worldwide,
+royalty-free, non-assignable, non-sublicensable, non-transferable, and non-exclusive license
+to use the software as part of the Service. This license is for the sole purpose of enabling
+you to use and enjoy the benefit of the Service as provided by ResearchGate, in the manner
+permitted by these Terms. You are not allowed to copy, modify, distribute, sell, or lease any
+part of the software, or to reverse-engineer or attempt to extract the source code of the
+software, unless laws prohibit these restrictions.Page 13 of 19
+8.3 When we may be liable
+We may be liable without limitation for damages resulting from injury to life, limb, or health
+that occur due to a breach of duty by ResearchGate or one of its legal representatives or
+vicarious agents. We may also be liable without limitation for damages owing to a lack of a
+characteristic warranted by ResearchGate or due to malicious conduct by ResearchGate. In
+addition, we may be liable without limitation for damages due to intent or gross negligence
+by ResearchGate or one of its legal representatives or vicarious agents.
+Liability under the German Product Liability Act remains unaffected.
+Apart from the cases set out above, our liability shall be limited to typical foreseeable
+contractual damages in the event of a breach of any of our cardinal contractual duties due
+to slight negligence. Cardinal contractual duties are an abstract description of those
+obligations whose fulfillment is indispensable for the proper implementation of an
+agreement and on whose fulfillment the contracting parties can usually rely. Any other
+liability on the part of ResearchGate is excluded.
+We shall not be a contracting party to any agreements entered into by Users with other
+Users or any third party via the Service. Users are solely responsible for the execution
+and/or fulfillment of agreements they enter into. We shall not be held liable for breaches of
+duty in relation to such agreements. If there is a dispute between you and a third party, you
+agree that ResearchGate assumes no responsibility and is under no obligation to become
+involved.
+The Service may contain links to third-party properties that are not owned or controlled by
+ResearchGate. We have no control over, and assume no responsibility for, such properties.
+We recommend that you proceed with caution when leaving the Service, and review any
+applicable terms and privacy policies.
+8.4 What law applies
+Except as provided below in section 9 (Additional terms for United States residents) with
+respect to U.S. Users, these Terms shall be governed by the laws of the Federal Republic of
+Germany, except for its conflicts of laws principles and the CISG (United Nations
+Convention on the International Sale of Goods).
+If you are deemed to be a consumer in the sense of Article 6 of EU Regulation 593/2008 and
+have your habitual residence outside of Germany, provisions which, in the absence of
+choice, would have been applicable and which cannot, by virtue of law, be derogated from
+by agreement, shall remain unaffected.Page 14 of 19
+8.5 Where disputes will be handled
+Except as provided below in section 9 (Additional terms for United States residents)
+concerning U.S. Users, the courts of Berlin, Germany shall have sole jurisdiction over any
+disputes arising out of or in connection with these Terms. This does not apply if the User is
+deemed to be a consumer in the sense of Article 17 of EU Regulation No. 1215/2012 and is
+residing in a Member State of the EU; in this case, the international jurisdiction is governed
+by Article 18 of EU Regulation No. 1215/2012.
+If the User is a merchant, legal person under public law, or special funds under public law,
+and is either a resident of Germany or resides outside of the European Union (EU), or is
+resident of another Member State of the EU and is not a consumer in the sense of Article 17
+of EU Regulation No. 1215/2012, or has its residence outside of the EU, the courts of Berlin,
+Germany, shall have sole jurisdiction over any disputes arising out of or in connection with
+these Terms.
+Statutory provisions regarding exclusive jurisdiction shall remain unaffected.
+The EU Commission provides an Online Dispute Resolution (ODR) platform for the out-of-
+court resolution of disputes concerning contractual obligations with consumers (as defined
+in Article 4 of EU Directive No 11/2013). You can find the link to this platform here. We do
+not participate in such ODR.
+We do not use alternative dispute resolution (ADR) procedures to resolve disputes with
+consumers.
+8.6 No waiver
+If ResearchGate does not act to enforce a breach of these Terms, that does not mean
+ResearchGate has waived its rights to enforce these Terms.
+8.7 Assignment
+We may transfer all or part of this agreement to an affiliate or, if ResearchGate is sold, to a
+third party.
+8.8 Severance
+If any provision or portion of these Terms is held to be or becomes invalid, illegal, or
+unenforceable, the validity, legality, and enforceability of the remaining provisions shall not
+in any way be affected or impaired.Page 15 of 19
+8.9 Notice
+Any administrative emails from ResearchGate will be sent to your current primary email
+address listed for your account. You must keep this email address up-to-date. In the event
+this address is not valid, or for any reason not capable of receiving our email, our dispatch
+of the email containing any notice will nonetheless constitute effective notice.
+8.10 Miscellaneous
+These Terms are only available and binding in this English-language version.
+9. Additional terms for United States residents
+The following Additional U.S. Terms apply only to United States residents and apply in addition to
+the Terms set out above. To the extent the Additional U.S. Terms are inconsistent with any previous
+Terms, the following Additional U.S Terms shall prevail.
+9.1 No warranty, release, and limitation of liability
+The Service is provided "as is" and we disclaim any and all representations and warranties,
+whether express or implied, including, but not limited to, implied warranties of title,
+merchantability, fitness for any particular purpose, or non-infringement. We do not promise
+any specific results, effects, or outcomes from the use of the Service. We do not represent
+or warrant that the Service and the data and information provided are accurate, up-to-date,
+complete, or reliable.
+You acknowledge and agree that you assume full responsibility for your use of the Service
+and the data. Recognizing such, you understand and agree that, to the fullest extent
+permitted by applicable law, neither we (and our affiliates and subsidiaries, and our and their
+respective officers, directors, employees, and agents) nor any of our suppliers or licensors
+will be liable to you for any direct, indirect, incidental, special, consequential, punitive,
+exemplary, or other damages of any kind, including without limitation damages for loss of
+profits, goodwill, use, data or other tangible or intangible losses or any other damages
+based on contract, tort (including but not limited to negligence), strict liability, or any other
+theory (even if we have been advised of the possibility of such damages), resulting from
+your use of or inability to use the Service and/or the data; unauthorized access to or
+alteration of your transmissions or data; any actions we take or fail to take as a result of
+communications you send us; human errors; viruses; or technical malfunctions.
+Notwithstanding anything to the contrary contained herein, our liability to you for any cause
+whatsoever and regardless of the form of action, will at all times be limited to the amount
+paid, if any, by you to us for use of the Service over the past twelve (12) months, or onePage 16 of 19
+hundred dollars ($100), whichever is greater. Some laws do not allow the limitation or
+exclusion of liability, so these limits may not apply to you. However, if you are a resident of
+the State of New Jersey, these limitations and exclusions do apply to you.
+If you have a dispute with one or more Users, you release us (and our affiliates and
+subsidiaries, and our and their respective officers, directors, employees, and agents) from
+claims, demands, and damages (actual and consequential) of every kind and nature, known
+and unknown, arising out of or in any way connected with such disputes. In entering into
+this release, you expressly waive any protections (whether statutory or otherwise) that
+would otherwise limit the coverage of this release to include only those claims that you may
+know or suspect to exist in your favor at the time of agreeing to this release.
+9.2 Agreement to arbitrate, class action waiver and release
+This section only applies to Users in the United States.
+PLEASE READ THIS SECTION CAREFULLY – IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL
+RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT AND TO HAVE A JURY
+HEAR YOUR CLAIMS. In order to expedite and control the cost of disputes, you and we
+agree that any legal or equitable claim arising out of or relating in any way to your use of the
+Service or these Terms, and the formation, validity, enforceability, scope, or applicability of
+these Terms, including this section 9.2 (referred to as a “Claim”) will be resolved as follows:
+Informal Resolution. We will first try to resolve any Claim informally. Accordingly, neither of
+us may start a formal proceeding (except for Claims described in the “Exceptions” section
+below) for at least 30 days after one of us notifies the other of a Claim in writing. Notice of
+the Claim will include a brief written statement that sets forth the name, address, and
+contact information of the party giving it, the facts giving rise to the dispute, claim, or
+controversy, and the relief requested. You will send your notice by email to
+support[at]researchgate.net AND to this address: ResearchGate GmbH, Chausseestr. 20,
+10115 Berlin, Germany. We will send our notice by email to the email address associated
+with your account. Notwithstanding the foregoing, the notice and 30-day negotiation period
+required by this paragraph shall not apply, however, to disputes, claims, or controversies
+concerning patents, copyrights, moral rights, trademarks, and trade secrets, and claims of
+piracy or unauthorized use of the Service.
+Formal Resolution. Except as provided in the “Exceptions” section below, if we cannot
+resolve a Claim informally, any Claim either of us asserts will be resolved only by binding
+arbitration and not in courts of general jurisdiction. The arbitration will be conducted under
+the rules of JAMS that are in effect at the time the arbitration is initiated (referred to as the
+“JAMS Rules”) and under the rules set forth in these Terms. If there is a conflict between
+JAMS Rules and the rules set forth in these Terms, the rules set forth in these Terms will
+govern. ARBITRATION MEANS THAT YOU WAIVE YOUR RIGHT TO A JURY TRIAL. You may,Page 17 of 19
+in arbitration, seek any and all remedies otherwise available to you pursuant to your state’s
+law.
+(a) Personal Users. If you are a User who uses the Service solely for your own personal, non-
+commercial use, and not in a professional capacity and you decide to initiate arbitration on
+your own behalf as a living person (“Personal User”), we agree to reimburse your arbitration
+initiation fee, and any additional deposit required by JAMS to initiate your arbitration. We
+also agree to pay the costs of the arbitration proceeding. Other fees, such as attorney’s fees
+and expenses of travel to the arbitration, will be paid in accordance with JAMS Rules. The
+arbitration will be held at a location in your hometown area unless you and we both agree to
+another location or telephonic arbitration. To start an arbitration, you or we must do the
+following things:
+● Write a Demand for Arbitration. The demand must include a description of the Claim
+and the amount of damages sought to be recovered. You can find a copy of a
+Demand for Arbitration at www.jamsadr.com.
+● Send three copies of the Demand for Arbitration, plus the appropriate filing fee,
+to: JAMS, 500 North State College Blvd., Suite 600, Orange, CA 92868 (1-800-352-
+5267).
+● Send one copy of the Demand for Arbitration to us at: ResearchGate GmbH,
+Chausseestr. 20, 10115 Berlin, Germany.
+(b) Professional Users. If you are a User who uses the Service in a professional capacity in
+connection with an educational institution or legal entity (“Professional User”) and you
+decide to initiate arbitration associated with your professional use of the Service, you will be
+required to pay the arbitration initiation fee as well as any additional deposit required by
+JAMS to initiate your arbitration. You also agree to pay the costs of the arbitration
+proceeding. Other fees, such as attorney’s fees and expenses of travel to the arbitration, will
+be paid in accordance with JAMS Rules. The arbitration will be held in San Francisco,
+California unless you and we both agree to another location or telephonic arbitration. To
+start an arbitration, you or we must do the following things:
+● Write a Demand for Arbitration. The demand must include a description of the Claim
+and the amount of damages sought to be recovered. You can find a copy of a
+Demand for Arbitration at www.jamsadr.com.
+● Send three copies of the Demand for Arbitration, plus the appropriate filing fee,
+to: JAMS, 500 North State College Blvd., Suite 600, Orange, CA 92868 (1-800-352-
+5267).
+● Send one copy of the Demand for Arbitration to us at ResearchGate GmbH,
+Chausseestr. 20, 10115 Berlin, Germany.
+Special Rules. In the arbitration proceeding, the arbitrator has no authority to make errors of
+law and any award may be challenged if the arbitrator does so. Otherwise, the arbitrator’sPage 18 of 19
+decision is final and binding on all parties and may be enforced in any federal or state court
+that has jurisdiction. Neither you nor we shall be entitled to join or consolidate claims in
+arbitration by or against other individuals or entities, or arbitrate any claim as a
+representative member of a class or in a private attorney general capacity. Accordingly, you
+and we agree that the JAMS Class Action Procedures do not apply to our arbitration. A court
+may sever any portion of section 9.2 that it finds to be unenforceable, except for the
+prohibition on class, representative, and private attorney general arbitration.
+Exceptions. Notwithstanding the foregoing, disputes, claims, or controversies concerning
+patents, copyrights, moral rights, trademarks, and trade secrets and claims of piracy or
+unauthorized access of the Service, including disputes involving a violation of the
+Communications Act of 1934, 47 U.S.C. § 605, or the Digital Millennium Copyright Act, 17
+U.S.C. § 1201, or the Electronic Communications Privacy Act, 18 U.S.C. §§ 2510-2521, or
+any other statement or law governing theft of service, shall not be subject to arbitration as
+set out in this section 9.2 and may be decided only by a court of competent jurisdiction.
+Moreover, you may choose to pursue your claim in small claims court where jurisdiction and
+venue over ResearchGate and you otherwise qualify for such small claims court and where
+your claim does not include a request for any type of equitable relief.
+Personal User right to opt out. If you are a Personal User, you have the right to opt out and
+not be bound by the binding arbitration requirement by sending written notice of your
+decision to opt out to the email address support[at]researchgate.net. The notice must be
+sent within 30 days of the initial effective date of these Terms for you, or your first use of
+the Service, whichever is later. If you opt out of the binding arbitration requirement, we also
+will not be bound by the requirement. Professional Users may not opt out of the binding
+arbitration requirements.
+Changes to this section. We will provide 30 days’ notice of any changes to this section.
+Changes will become effective on the 30th day, and will apply prospectively only to any
+claims arising after the 30th day.
+9.3 Applicable US law
+The U.S. Federal Arbitration Act (including its procedural provisions) is the law that will be
+applied to determine whether section 9.2 can be enforced and how it should be interpreted.
+Apart from that, if you are a United States resident, these Terms and our relationship will be
+governed by Californian law, except for its conflicts of laws principles.Page 19 of 19
+9.4 Venue for legal disputes not subject to arbitration
+If you are a United States resident, judicial proceedings that are excluded from the
+Arbitration Agreement in section 9.2 must be brought in state or federal court in San
+Francisco, California, unless we both agree to some other location. You and ResearchGate
+both consent to venue and personal jurisdiction in San Francisco, California.

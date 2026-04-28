@@ -1,0 +1,74 @@
+User-agent: *
+Disallow: /*/checkout/*
+Disallow: /*/account/*
+Disallow: /*/change-password*
+Disallow: /*/twitter*
+Disallow: /*/instagram*
+Disallow: /*/store/addSignUpEmail*
+Disallow: /*/confirmation*
+Disallow: /*/category*
+Disallow: /*/bag*
+Disallow: /*/checkout*
+Disallow: /c?cid*
+Disallow: /storewifi
+Disallow: */undefined$
+Disallow: */uncategorized$
+Disallow: /*/1000$
+Disallow: /*/track-order/*
+Disallow: /federation-gateway/*
+Disallow: */search/*
+Disallow: *?a=1$
+Disallow: *awsorigin=*
+Disallow: *token=*
+Disallow: *visitID=*
+Disallow: *analyticsObj=*
+Disallow: *hConversionEventId=*
+Disallow: *linkid=*
+Disallow: *sort=*
+Disallow: *CAWELAID=*
+Disallow: *visitID=*
+Disallow: *CAAGID=*
+Disallow: *ueh=*
+Disallow: *&intsrc=*
+Disallow: *bvroute=*
+Disallow: *lid=*
+Disallow: *fblid=*
+Crawl-delay: 30
+
+User-agent: *Pinterestbot*
+Crawl-delay: 30
+
+User-agent: *DuckDuckBot*
+Crawl-delay: 30
+
+User-agent: AhrefsBot
+Crawl-delay: 300
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: GeminiBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+Sitemap: https://www.childrensplace.com/tcp_us_en_sitemap.xml
+Sitemap: https://www.childrensplace.com/tcp_ca_en_sitemap.xml
+Sitemap: https://es.childrensplace.com/tcp_us_es_sitemap.xml
+Sitemap: https://fr.childrensplace.com/tcp_ca_fr_sitemap.xml
+Sitemap: https://www.childrensplace.com/sitemap_TCP_US_en.xml
+Sitemap: https://www.childrensplace.com/tcp_us_en_store.xml
+Sitemap: https://es.childrensplace.com/tcp_us_es_store.xml
+Sitemap: https://www.childrensplace.com/tcp_ca_en_store.xml
+Sitemap: https://fr.childrensplace.com/tcp_ca_fr_store.xml
+Sitemap: https://es.childrensplace.com/tcp_us_es_content.xml
+Sitemap: https://www.childrensplace.com/tcp_us_en_content.xml
+Sitemap: https://fr.childrensplace.com/tcp_ca_fr_content.xml
+Sitemap: https://www.childrensplace.com/tcp_ca_en_content.xml

@@ -1,0 +1,300 @@
+note Terms of Use
+1 month ago Update
+These Terms of Use (hereinafter referred to as the "Terms of Use") Note Co., Ltd. (hereinafter referred to as the "Company") Each service provided by (hereinafter collectively referred to as the "Service") This is a contract regarding the use of the service that applies to users of.
+These Terms of Use apply to all users of the Service notegeneral terms and conditions ” and the Company or/and its subsidiaries note AI creative Co., Ltd. and Tales & Co Co., Ltd. (hereinafter collectively referred to as "our subsidiary") Terms and conditions regarding individual services provided by (hereinafter referred to as "Individual Terms"). It is composed of.
+The individual terms and conditions are notes provided by our company (hereinafter referred to as "notes") ''Applies to when using as a creator notecreator Terms ', which applies when using as a user noteUser Terms '' and the issuance, granting, use, and other handling of points by users note point terms ”, and others,Terms of Use for individual services other than note provided by the Company or/or its subsidiariesThis applies if the user uses the individual service.
+Other information about our website and smartphone and tablet apps (hereinafter referred to as "this site") The rules, etc. related to the use of this service posted above shall also form part of these Terms of Use and shall apply. Please read and agree to these carefully before using this service.
+
+ 
+
+Individual terms
+notegeneral terms and conditions
+notecreator Terms
+noteUser Terms
+note point terms
+TALES Terms of Use
+note pro
+note pro Terms of Use
+note pro special plan terms and conditions
+ 
+
+notegeneral terms and conditions
+Sad righteousness
+A person who uses digital content distributed by a creator on this service or various services operated on this service is called a "user".
+Among users, those who use this service without registering as members of this service are called "guest users".
+"Creator" is a person who produces and distributes digital content or operates various services, and allows users to subscribe, view, or otherwise use this service ("Creator" includes the publisher). It's called.
+Creators who use the "note premium membership service", which is a paid service provided by our company, are called "premium members".
+Users and creators are collectively referred to as "users".
+It is an advance payment method (Article 3, Paragraph 1, Item 1 of the Payment Services Act) issued by the Company to the user after obtaining consideration from the user according to the amount recorded by electromagnetic method, and 1 point ＝ 1 yen as Among these services, those that can be used to pay for digital content or various services designated by the Company are called "regular points".
+This is granted free of charge by the Company to the User, and the User may use the Service as 1 point ＝ 1 yen to pay for digital content or various services specified by the Company in accordance with these Terms of Use. These are called "limited time points".
+Regular points and limited-time points are collectively referred to as "note points" (hereinafter referred to as "points") It's called.
+A payment service using regular points in transactions such as the service for issuing regular points from the Company to users and the payment of consideration for digital content or various services designated by the Company among this service, and related services are called "regular point services". It's called.
+Creators who have applied to our company to become qualified creators who can be the other party for regular point payments by users and are approved by our company are called "merchant stores".
+The special agreement issued by our company that stipulates payment using regular points is called the "regular point usage special agreement".
+Functions of the Service and our role
+This service is a web service managed and operated by our company that aims to create a market for digital content that directly connects creators and users.
+Our company strives to improve awareness of this service, improve user convenience, and contribute to increasing profits for creators through promotions, etc.
+Handling of digital content
+Users enter into transaction agreements with creators on the Service and use the Service.
+The copyright of digital content created by creators belongs to the creators. Our company is in a position to provide media and platform functions based on these Terms of Use, and does not authorize users to transfer or lend copyrights to digital content.
+Eligibility
+This service is available to those who meet all of the following requirements. However, messages are not available to anyone under the age of 13.
+Creators and users who create digital content and those who agree with the philosophy of this service, which is for us to work together to create a future digital content market on the Internet
+Those who can prepare an Internet connection environment at their own responsibility and expense
+Those who agree to these Terms of Use and can continue to comply with them
+Those who have legal responsibility for concluding contracts
+Those who are solvent and can use payment settlement using the method specified by us
+Users shall use this Service at their own risk, and shall be solely responsible for any actions taken using this Service and their results.
+Acceptance of these Terms of Use
+When applying for and registering to use this service, you must agree to these Terms of Use.
+Guest users must agree to these Terms of Use when purchasing Creator's digital content.
+How to apply
+To apply for use of this service, you must register using the prescribed form established by our company.
+Registration will be completed when the Company sends a notification of consent to the user's application for use, and the user will be able to use the Service.
+As a result of confirming your application details, we may not be able to accept your registration for this service.
+The Company may refuse a user's application for registration if the user has been suspended from use by the Company in the past due to violation of these Terms of Use, etc.
+Transaction contract
+If a creator sells digital content or operates various services for a fee or free of charge in this service, a direct contract will be established between the creator and the user. Our company will be in a position to provide creators with a place to sell content and operate various services. The Company is not a party to the contract and assumes no responsibility for the contract. Therefore, in the unlikely event that a problem arises with this contract, it will be resolved between the user and the creator. However, we will do our best to resolve any problems between the parties involved.
+Nature of purchase agreements for digital content
+The content and frequency of distribution of digital content shall be as determined by each individual creator.
+Depending on the circumstances of each creator, we may change the content or frequency of distribution of digital content, or suspend distribution.
+Nature of the contract for the use of the membership
+On this service, a place established by creators in accordance with these Terms of Use where creators and participating users connect is called a "membership", and creators are called a membership ("membership" is included in "various services"). can be operated.
+Creators who operate a membership shall determine the membership plan, the contents of each plan, and the content and conditions of the services provided by users who use the membership to the extent determined by the Company, and shall provide such services at their own responsibility and expense. shall be provided to users.
+Our company does not guarantee the contents of each membership plan set by the creator who operates the membership or the content of other services provided by users who use the membership, and we do not guarantee the contents of each membership plan set by the creator who operates the membership or other services provided by users who use the membership. The issue will be resolved between the creator who operates the membership and the user. However, we will do our best to resolve any problems between the parties involved.
+Users using the Membership shall pay the monthly membership fee in accordance with the method established by the Company as compensation for services individually determined by the Creator pursuant to the provisions of 9.1.
+Users who use memberships acknowledge that they will comply with requests from the Company or creators who operate memberships to improve the way they use memberships, and if they receive measures such as suspension of membership use.
+The creator who operates the membership will refund the consideration for the service for the month in which the membership is canceled to the user who uses the membership, if the creator determines that the membership is inappropriate for the management of the membership, and withdraw the user from the membership. The user agrees to comply with the withdrawal measures from the creator.
+If the Company suspends the operation of a membership to a creator who operates a membership based on 9.5 or note Creator Terms 10.1, the User acknowledges that the user will comply with the Company's suspension of operation.
+If the creator who operates the membership terminates the membership or the user withdraws from the membership, the user will no longer be able to use the services provided by the membership after the date specified by the Company.
+About message function
+The message function is a function that allows users to send and receive one-on-one messages privately on this service. The Company shall check the contents of all messages exchanged in the message function using an automatic detection system for the purpose of detecting acts that violate these Terms of Use and preventing troubles.
+If the Company determines that a user's message constitutes an act that violates these Terms of Use, or that there is a risk of violating these Terms of Use, the Company shall, without prior notice to the user, suspend all or part of the message, or confirm all or part of the message through such action We may take any measures to eliminate such violations, such as deleting such information.
+Our company has no obligation to preserve the content of messages.
+About the invoice function
+On this service, based on special provisions for intermediary issuance, the Company will issue qualified invoices (invoices) with the Company's name and registration number regarding the purchase of digital content by users or the use of various services. The function provided to users on behalf of creators who are issuing businesses is called the "invoice function" Creators who use the Invoice feature must enter their true and accurate registration number in accordance with the methods established by the Company.
+Our company is not responsible for any damage caused to users due to falsehoods or errors in the registration number entered based on 11.1.
+If the Creator ceases to be a qualified invoicing business, he or she shall promptly delete the registration number. If the Company suffers any damage due to failure to delete the registration number, the Creator shall compensate the Company for the damage.
+Withdrawal
+If a user wishes to withdraw from membership, the user shall apply to the Company for withdrawal using the prescribed method within this service.
+Prohibited matters
+ Users should not engage in any acts that cause inconvenience or damage to other users or the Company, or any risk of such damage. Below are some examples of things you should be especially careful about, but these are not the only ones.
+Reproduction, sale, publication, loan, broadcasting, public transmission (including making it available for transmission), screening, modification, adaptation, etc. of digital content beyond the scope of the subscription agreement, except with the consent of the creator. Use
+Avoid and disable technical measures taken to protect digital content
+Transfer or lend your ID and password to someone other than the user
+Sharing ID with an unspecified number of people
+Conducting acts that violate laws and public order and morals
+Doing any behavior that makes other users uncomfortable
+To perform acts that are an obstacle to our services
+Acts that illegally use someone else's credit card
+The act of purchasing digital content, etc. that you sell yourself (hereinafter referred to as "self-dealing"). To do. Note that self-dealing includes transactions between accounts that we reasonably believe are managed by substantially the same user, even if the account names are different.
+Regardless of the type or method of payment method, transactions that are not intended to sell digital content or provide various services, but are primarily for the purpose of converting into cash, or any actions that the Company reasonably deems to be likely to occur. to do.
+Use and suspension of this service, etc
+If a user violates these Terms of Use, the Company may suspend part or all of the Service for that user. In this case, the Company has no obligation to notify the User in any way.
+If the Company performs disaster recovery measures or regular maintenance for the Service, the Company may suspend part or all of the Service. In this case, the Company will notify the User by reasonable means that the Service will be suspended.
+The Company may suspend or suspend some of the functions of the Service without prior notice to the User.
+The Company may suspend the use of the Service for users who have been suspended by the Company in the past for violating these Terms of Use, etc.
+Responsibility
+We will manage cyber attacks such as unauthorized access and hacking to this service, hardware failures that operate this service, and software failures including bugs to prevent them from occurring within a reasonable range, but we cannot guarantee this. Furthermore, our company cannot be held responsible for damage caused by force majeure such as connection failures with Internet lines that users contract with and use, natural disasters, etc.
+Even if a user incurs any damage in connection with this service, the Company will be responsible only for damages within the scope that the user directly and normally causes, and will not be responsible for any other special damages. yeah. In addition, in any case, the total amount of liability that the Company assumes to the User shall be the lower of the total cumulative amount of platform usage fees paid to the Company for the Service over the past year or 10,000 yen. will be the upper limit. However, this upper limit does not apply to damage caused by our company's intentional or gross negligence.
+The Company does not guarantee that digital content posted by creators on the Service or messages sent do not contain harmful substances such as computer viruses. In addition, even if the user's computer, software, or other equipment is infected with a harmful substance such as a computer virus from digital content, files, etc. on this service posted by the creator, the Company will not be responsible for any damage caused to the user. We are not responsible for any damage caused.
+Personal information
+Our company collects the minimum amount of personal information necessary for the operation of this service and manages it safely in a reasonable manner. The handling of personal information will be determined separatelyPrivacy PolicyFollow.
+If a user purchases digital content, the creator will be notified of the username and account URL as purchaser information unless otherwise specified. Additionally, when you use your membership, you will be provided with your username, plan name, and other information you have set up on the Service (such as your external service account name and email address). Creators can use this information to help usPrivacy Policyshall be managed in accordance with. Furthermore, our company may not disclose users' personal information other than those listed above to creators unless permitted by law.
+User ID, etc
+Users are responsible for using their ID and password for this service (hereinafter referred to as "account information") shall be managed and stored, and shall not be used by a third party, lent, transferred, changed name, bought or sold.
+Users are responsible for any damage caused by insufficient management of account information, errors in use, use by third parties, etc., and the Company assumes no responsibility.
+If you discover that your account information has been stolen or used by a third party, you will immediately notify us and follow our instructions.
+Users can change their ID using the method specified by our company. Please note that if the need arises in the operation of this service, the Company may change the user's ID after notifying the user.
+Notice to users
+We regularly send push notifications to our email newsletters and smartphone and tablet apps to notify users of content updates and recommended content for all services we provide. Users can stop both by changing their smartphone or tablet settings.
+We may notify you of recommended content using the above methods based on your behavior history within the site and app.
+Email newsletters and push notifications contain information about all services we provide.
+Changes to the content of this service and these Terms of Use
+We may change the content of this service at our discretion. Additionally, we may change these Terms of Use at our discretion. The revised Terms of Use shall become effective from the time they are displayed on this site, unless otherwise specified by the Company.
+If we change these Terms of Use, we will notify users by email or other method appropriate for public awareness, and then post the changed Terms of Use at the specified URL.
+Notwithstanding the above, if you use the Service after receiving notice of changes to these Terms of Use or after the date of change to these Terms of Use, you will be deemed to have agreed to the changes without objection.
+Status transfer
+Users may not assign, transfer, create collateral, or otherwise dispose of their contractual status, rights, or obligations to a third party without the written consent of the Company.
+Business transfer
+If the Company transfers the business related to this service to another company, the Company will transfer the contractual status, rights and obligations based on these Terms of Use, user information, and other customer information to the transferee of the business transfer. The User shall be able to transfer the information to the Company, and the User shall be deemed to have consented to such transfer in advance. Please note that business transfers under these provisions include not only ordinary business transfers, but also company splits and any other cases in which business is transferred.
+Governing Law and Jurisdiction
+These Terms of Use shall be governed by Japanese law.
+In the event that a dispute arises in connection with any of the matters in these Terms of Use, the Tokyo District Court shall have the exclusive jurisdiction of the first instance.
+notecreator Terms
+Paid/free freedom
+Creators may provide digital content for a fee or free of charge, subject to these Terms of Use.
+If a creator under the age of 18 sells digital content or operates various services for a fee, he or she must obtain the comprehensive consent of a legal representative such as a parent or guardian before using this service. If we suspect that a user is under the age of 18, we will stop selling paid digital content or operating the service, and we will contact the creator or legal representative to confirm whether or not the legal representative has given consent. We may contact you and take the verification procedures prescribed by our company.
+Indication regarding specified commercial transactions
+Creators display information on their pages in accordance with the Specified Commercial Transactions Law and other laws and regulations. For more information on display obligations and content, please see the Frequently Asked Questions Regarding the display of the Special Commercial Law Please refer to.
+Selling price
+When providing digital content for a fee, creators are free to set the selling price of digital content per item to the extent specified by our company.
+When operating various services, creators are free to set monthly membership fees and other service prices per person to the extent specified by our company.
+Furthermore, if a creator additionally sets the usage of the "chip function", the selling price of digital content will be the sum of the amount set by the user himself using the method determined by the Company.
+Price and note usage fee rate
+The selling price of digital content and the price of various services (hereinafter collectively referred to as "price"). Please note that this includes the amount equivalent to consumption tax. () will be transferred from the user to our designated account. When we receive a payment application from a creator, we will collect the payment from the creator Administrative fees The remaining amount after deducting platform usage fees and transfer fees (hereinafter referred to as the "payment amount") Pay creators.
+The platform usage fee is the amount obtained by subtracting administrative fees from the price and multiplying it by 10%.
+We will receive the payment you make to the Creator on your behalf. If the creator wishes to receive the payment amount, he or she can receive the payment amount up to the previous month at the end of the month by completing the prescribed application procedure with our company by the 20th of the current month. Please note that you can only apply to receive the payment amount if the payment amount is 1,000 yen or more. In addition, payment amounts will be received in full from past payment amounts, and you will not be able to apply for a portion of the payment amount. Please note that the deadline for receiving the payment amount is within 180 days from the time the payment is confirmed.
+The Creator shall receive the payment amount by completing the application procedure prescribed by the Company before 180 days have passed from the time the payment is confirmed. If 180 days have passed since the payment was confirmed, but the creator has not completed the application procedures prescribed by the Company, and the payment is 1,000 yen or more, the Company will transfer the amount to the bank account registered by the creator. We will withdraw the entire payment amount received on your behalf based on the withdrawal method specified by our company. In addition, if the price is less than 1,000 yen, at our discretion, we will send the entire remaining amount equivalent to the amount received on our behalf minus administrative fees and platform usage fees to the email address registered by the creator. We will send you an Amazon gift card.
+Before 180 days have passed from the time the payment is confirmed, the Company will not complete the application procedures prescribed by the Company, and will provide creators whose payment is 1,000 yen or more and who have not registered a bank account with a bank account. Registration and receipt of payment amount by completing the application procedures prescribed by the Company We request that this be done before 180 days have passed from the time the price is confirmed. If, despite our request based on this section, 180 days have passed since the creator's payment was confirmed, but the creator does not register a bank account or complete the application procedures prescribed by our company, our company may At our discretion, we will collect administrative fees from the price we receive on your behalf to the email address registered by the creator We will send you an Amazon gift card equivalent to the full remaining amount after deducting the platform usage fee.
+If the Creator loses his or her status as a user of the Service due to withdrawal or other reasons, the Creator shall lose the right to receive any outstanding payments at that time.
+Promotion by us
+In order to further disseminate creators' digital content, we may promote paid digital content at our discretion by lowering the price. In that case, we will compensate you for the difference between the price and the reduced price. In this case, the platform usage fee will be the usage fee rate for the price of paid digital content before the price reduction, unless the creator's individual prior consent is obtained. In order to deliver digital content, profiles, comments, etc. published on this service by creators and users to as many people as possible, we may introduce them through means such as reprinting them on other media and SNS. When introducing something, it may be duplicated on that server, changed, removed, or otherwise modified to meet the specifications of other media, SNS, etc. Regarding paid digital content, we will only introduce the free public portion of the content. In addition, those who are eligible for introduction are those who have set the "License distribution to external sites" setting on the "Settings" screen. If an image of "Everyone's Photo Gallery" is used as the headline image of the digital content we will be introducing, the image of "Everyone's Photo Gallery" will be reproduced on that server according to the specifications of other media, SNS, etc. It may be changed, removed, or otherwise modified.
+Our company may analyze digital content, user information, behavior history, etc. using methods such as statistical processing and machine learning, and use them for promotions such as recommendations.
+Digital content
+Digital content distributed by creators and available for purchase by users on the Service's platform is limited to digital content in data or file formats specified by the Company.
+Creators shall create digital content at their own risk and expense. By uploading from the web interface specified by the Creator, the Company shall be deemed to have authorized the Company to distribute and sell digital content to the User on the Service.
+In order to optimize indexing within this service, the Company may change, remove, or otherwise modify some of the digital content uploaded by creators (in principle, the title and top page) based on the display algorithm set by this service. We may make changes. Please note that the display algorithm may be changed based on our judgment.
+For the purpose of promoting this service as a platform, we may publish digital content uploaded by creators free of charge to the extent necessary.
+If an affiliate ID of an external service is required to display an affiliate link using the display method specified by the Company, and if the creator has not set an affiliate ID, the Company will display the affiliate link in digital content. You can set the affiliate ID held by our company.
+In order to increase the convenience of creators when using this service, the Company shall provide autolink functions, proofreading functions, etc. as appropriate at the Company's discretion, and the Company shall not be responsible for the application of these functions to digital content. Creators shall not object.
+If we determine that digital content uploaded by creators contains expressions aimed at people over 18 years of age, we will indicate that it is digital content aimed at people over 18 years of age and restrict viewing by users under 18 years of age. can do. The Company shall not be liable for any damages or other liability that may be reported to the Creator due to such indications and restrictions.
+Creators can use images posted by the Company on "Everyone's Photo Gallery" that are widely accepted by museums, etc. as the publisher, in accordance with the method prescribed by the Company and within the scope permitted by the publisher. Masu.
+In order for users to use the content of paid or free digital content uploaded by creators to the extent necessary and not contrary to law, for the purpose of confirming compliance with these Terms of Use (passwords, etc.) (including linked external sites and attachments whose access is restricted by identification codes). You may confirm this, and the Creator accepts this without objection. However, we are not obligated to make such confirmation.
+In order to support creators in monetizing their digital content, the Company will collect digital content distributed on the platform of this service and related information (work title, creator name, posting date, etc.) as learning data such as machine learning. It may be provided to third parties free of charge or for a fee. In this case, the Company will calculate a portion of the revenue generated when provided for a fee based on consideration factors separately determined by the Company as consideration for the provision of training data such as machine learning, and will provide the digital content. shall be paid to the creator. Factors to consider separately determined by our company will be announced to users on this site. Creators can set their digital content from the settings screen of this service so that it is not provided to third parties as training data such as machine learning for a fee. Please note that our company does not guarantee creators' profits from providing digital content based on this section.
+Subscription service
+Creators may use the note premium membership service separately determined by the Company on this site in accordance with these Terms of Use by paying the usage fee determined by the Company.
+Note Subscription service (hereinafter referred to as "subscription service") is one of the premium membership services. The person who can use this service is the creator who has the payment method specified by our company and who can comply with these Terms of Use.
+定期購読サービスのご利用希望者は本サイト内の所定の方法に従いご利用申請を行うものとします。当社は、ご利用申請内容に基づき審査を行い、ご利用希望者が定期購読サービスを利用いただける状態となったことをもって、ご利用の手続きが完了したものとします。なお、当社が不適切であると判断した場合には、定期購読サービスをご利用できない場合があります。
+noteプレミアム会員は、定期購読サービスにより運営するマガジン等のサービスにおけるデジタルコンテンツの更新頻度について、ご利用申請時に申請した通りにデジタルコンテンツを発行するものとします。
+以下に該当する場合、当社はnoteプレミアム会員の定期購読サービスの利用を停止することができるものとし、当社が悪質であると判断した場合、代金の支払を拒否し、違約金として没収することがあります。
+定期購読サービスのご利用申請時に申請したコンテンツ内容または更新頻度が著しく異なる場合。
+noteプレミアム会員からの利用料金の支払がない場合。
+本利用規約に違反していると当社が判断した場合。
+ユーザーからの不満・不評・クレームが多く、かつ、定期購読サービスにふさわしくないと当社が判断した場合。
+その他、当社が定期購読サービスの運営に支障が生じると判断した場合。
+メンバーシップ
+本サービスにおいてメンバーシップの運営をすることができる方は、本利用規約を遵守できる方とします。
+メンバーシップの運営を希望するクリエイターは、本サイト内の所定の方法に従い、申請を行うものとします。当社は、申請内容に基づき審査を行い、希望者がメンバーシップを運営することができる状態となったことをもって、手続きが完了したものとします。なお、当社が不適切であると判断した場合には、改善を要請したり、メンバーシップの運営をすることを認めない場合があります。
+メンバーシップを運営するクリエイターは、本サイト内の所定の方法により、メンバーシップを利用するユーザーに対して、メンバーシップのプランに関する適切な説明をするものとします。また、メンバーシップを運営するクリエイターが、当該説明内容を変更した後、当社が不適切であると判断した場合は、8.4に従い、改善を要請するなどの措置をとることがあります。
+The Company may request creators who operate memberships to improve or correct the content of their memberships, suspend the operation or use of their memberships, suspend the use of this service, etc. in the following cases: In addition, if the Company determines that the Company is malicious, the Company will refuse to pay the price It may be confiscated as a penalty. Please note that the provisions of 10.1 shall apply to the deletion of digital content provided by creators to users as part of their membership.
+本利用規約に違反していると当社が判断した場合。
+ユーザーからの不満・不評・クレームが多く、かつ、メンバーシップの運営にふさわしくないと当社が判断した場合。
+メンバーシップを運営するクリエイターが個別に定めたメンバーシップの対価が著しく不当である場合。
+虚偽の説明またはメンバーシップの内容についてユーザーに対して誤解を与える説明など、不適切な説明であると当社が判断した場合。
+If the Company determines that the membership is inappropriate as a result of a review regarding the operation of the membership.
+If you do not comply with our request to improve or correct the content of your membership.
+In addition, if the Company determines that there is a problem with the operation of the membership.
+Prohibited matters
+Posting the following digital content, posting on membership, sending messages, and other information on this service is prohibited.
+Plagiarism, plagiarism, etc. that infringe on the copyrights of others.
+In addition to the above, it also infringes on intellectual property rights such as property rights, trademark rights, portrait rights, honor, privacy, etc. of others.
+The purpose is to harass or slander others.
+Fraud or anything that could cause it.
+Sexual audio, images, and videos.
+Indecent, violent acts of expression, or anything else that may cause excessive discomfort.
+Matters related to ethnicity, religion, race, gender, age, etc. that lead to discrimination.
+Items that may solicit, induce, or encourage suicide, mass suicide, self-harm, illegal drug use, illegal drug use, etc.
+Information products that our company deems to be disadvantageous to users, such as multi-level marketing.
+Stocks recommended, and other items that violate the Financial Instruments and Exchange Act.
+Expressions that cause significant misunderstandings to users, such as ''It's always profitable.''.
+Contains computer viruses and other harmful computer programs.
+Items that attempt to transfer accounts, characters, items, currency, virtual currency, etc. for online games, etc.
+Items that violate or are likely to violate the Act on Prevention of Unjustifiable Premiums and Misleading Representations, the Act on Ensuring the Quality, Efficacy, and Safety of Pharmaceuticals, Medical Devices, etc., the Medical Care Act, and other advertising laws.
+Impersonating a specific person, group, or organization.
+Items that are used directly or indirectly to promote information products that the Company deems to be disadvantageous to users, such as multi-level marketing.
+Recruiting minors to commit criminal acts or acts likely to do so.
+Violates laws and regulations.
+Something that violates public order and morals.
+There are links to sites where the contents of the previous issues are posted.
+Other inappropriate items similar to the preceding items.
+Suspension of use, deletion of digital content or messages, etc
+If we determine that a creator falls under any of the following, we may suspend the creator's use, delete digital content or messages, or exclude the creator from search results without prior notice to the creator. You may. Even if the creator suffers damage due to suspension of such use or deletion of digital content or messages, the Company shall not be liable for any damages or any other liability.
+If we independently determine that you are violating these Terms of Use.
+If you post or send a message to Note that contains digital content that violates the provisions of the preceding paragraph.
+When disclosing sales, profits, or similar items, regardless of whether they are confirmed or undetermined, and inciting the purchase of digital content or various services distributed on this service
+Spam posting, if we determine that it is spamming.
+If the Company independently determines that it is an anti-social force or equivalent.
+If we independently determine that the digital content you post or the message you send is inappropriate.
+When placing an excessive burden on the server of this service.
+If the Company independently determines that the operation of this service will be disrupted.
+Non-payment of fees and payment of penalties in the event of violation of these Terms of Use
+We agree that if a creator violates ① these Terms of Use and sells malicious digital content or operates various services, we will not comply with the acts set forth in ②note General Terms of Use 13.1(8) to (10). If you do so, ③ if you violate these Terms of Use multiple times, ④If you commit a criminal act or a serious violation of laws and regulations on this service, ⑤ if you fall under the category of anti-social forces or are at risk of doing so, ⑥ if you reasonably believe that it will seriously impede the operation of this service. If you judge, We may refuse to pay for content sold by the creator and various services, and may forfeit the content as a penalty. Administrative fees will also be charged to creators. If payment has already been made, we will request a refund.
+If we reasonably believe that the Creator is suspected of violating these Terms of Use, we may, at our discretion, temporarily withhold payment to the Creator, and the Creator may agree to this in advance. I assume that. Our company assumes no responsibility for any damage caused to creators as a result of such measures.
+If, pursuant to the provisions of 11.1, the Creator has to make a refund to the Company, the Company may, at its discretion, deduct the amount of such refund from the amount payable to the Creator.
+Refund settings, etc
+Creators are responsible for the digital content they sell on the Service (limited to the types of digital content specified by the Company) You shall choose whether to make your refund refundable using the method specified by our company. For digital content that has been made refundable by the Creator, if the User expresses his intention to refund on the Service within 24 hours of the User's purchase, and if the Company approves, the User and the Creator's purchase contract will be canceled. will be canceled.
+Paid optional service
+Creators must provide paid option services separately determined by the Company on this site (hereinafter referred to as "paid option services") may be used in accordance with these Terms of Use by paying the usage fee determined by the Company. If the creator wishes to use the paid optional service, he or she must agree to these terms and apply using the method prescribed by the Company. In addition, when using it, you shall comply with the rules, etc. regarding this service posted on this site.
+Paid optional services are available immediately after completing the payment procedure based on application 13.1. Please note that paid usage fees will not be refunded unless required by law.
+Cancellation of contract, etc
+If the transaction contract between the creator and the user ceases to be effective due to cancellation, cancellation, or other reasons after the transaction contract is established, the Company may request a refund from the creator. Masu. Additionally, if we process this refund, we may, at our discretion, deduct such refund amount from the amount owed to Creator.
+If the Company reasonably determines that the transaction contract between the Creator and the User may be revoked, canceled, or otherwise lose its validity, the Company may, at the Company's discretion, temporarily withhold payment to the Creator. Creators acknowledge this in advance. Our company assumes no responsibility for any damage caused to creators as a result of such measures.
+If a credit company, etc. determines that there is unauthorized use of another person's credit card (rechargeback reason) for a user's payment to a creator, the Company may request a refund from the creator. I assume that. Additionally, if we process this refund, we may, at our discretion, deduct the refund amount from the amount owed to Creator.
+If the Company reasonably determines that there is a suspicion of unauthorized use of the User's credit card (rechargeback reason), the Company may temporarily withhold payment to the Creator at the Company's discretion. You acknowledge this in advance. Our company assumes no responsibility for any damage caused to creators as a result of such measures.
+Responsibility
+Creators shall use the Service at their own risk and shall be solely responsible for any actions taken using the Service and their results.
+noteUser Terms
+Purchase amount
+ 
+When a user purchases digital content or uses various services, the amount displayed on the purchase application screen on this service as consideration for purchasing digital content or consideration for various services is determined by credit card payment or in-app purchases on smartphones and tablets. Depending on the method selected by the user, among the payment methods specified by the Company, such as I agree that we will charge and collect.
+Similarly, with respect to the "Chip" feature, you agree to pay in the same manner as described above an amount determined by you in accordance with the method determined by the Company as consideration for the purchase of the digital content.
+Viewing restrictions
+If we determine that digital content includes expressions aimed at people over 18 years of age and indicate that it is digital content aimed at people over 18 years of age, users under 18 years of age will not be able to view the digital content. You acknowledge that.
+Delete comment
+Users are free to comment in the comments section. However, if we independently determine that the content violates these Terms of Use, we may delete your comments. In addition, creators may delete user comments at their own discretion. The Company shall not be liable for damages or other liability for any damage caused to the User due to deletion of the User's comments.
+Refund
+Due to the nature of the Service and the Transaction Agreement, the User acknowledges that the User will not be able to receive a refund of any fees paid to the Company unless the Transaction Agreement is canceled pursuant to note Creator Terms 12.1. Please note that if the user purchases the digital content again after the cancellation of the digital content transaction contract is approved based on note Creator Terms 12.1, the user will not be able to cancel the transaction contract again. Masu.
+Guest Users acknowledge that, notwithstanding the provisions of 4.1, they will not be able to receive refunds for fees paid to the Company.
+If we determine that a user has abused a refund pursuant to note Creator Terms 12.1, we may suspend the user's use without prior notice to the user. Even if such suspension of use causes damage to the user, the Company shall not be liable for damages or any other liability.
+Responsibility
+Users shall use the Service at their own risk and shall be solely responsible for any actions taken using the Service and their results.
+note point terms
+Issuance of regular points, etc
+The conditions for issuing, holding, and using regular points shall be as stipulated in the regular point usage special agreement separately established by the Company, and if the contents of these Terms of Use differ from the contents of the regular point usage special agreement, the provisions of the regular point usage special agreement shall apply. shall take precedence. The conditions for issuing, holding, and using these regular points are determined by the regular point usage special agreement, note user terms, and rules related to the use of this service posted on this site.
+Granting points for a limited time
+The Company will award limited-time points if the User engages in specific acts specified by the Company on this site, meets certain conditions, or otherwise deems it appropriate by the Company.
+The services and transactions eligible for limited-time points as specified in 2.1, the limited-time point award rate, and other conditions for limited-time points to be awarded, held, and used will be determined by the Company and announced to users in these Terms of Use or on this site. To do. Whether or not you are eligible for limited-time points, the rate and expiration date of limited-time points, may vary depending on the user, type of transaction, or type of service used.
+Limited time points specified in 2.1 will be awarded by the Company adding them to the balance of limited time points in the user's account. The balance that allows users to use limited-time points can be checked on our designated screen on this site.
+You can check the usage history of limited-time points on our designated screen on this site. However, the scope of usage history displayed on this site shall be determined by our company.
+The Company shall make final decisions regarding whether or not to award limited-time points as specified in 2.1 for a certain transaction, the number of limited-time points to be awarded, and the granting of other limited-time points, and the User shall comply with these decisions.
+The Company may set an expiration date at the time of granting limited-time points, and if the expiration date has passed without the user using the limited-time points even though the user has been granted the limited-time points, 3 Based on this, the limited time points will naturally expire. Please note that the expiration date is not fixed, and the Company may arbitrarily determine the expiration date for each limited-time point award.
+Disappearance and expiration of limited time points
+Limited time points that have expired will naturally disappear.
+The Company may revoke some or all of the limited-time points held by the User if the User falls under any of the following items.
+In case of violation of laws or misconduct.
+If you violate these Terms of Use.
+In the event of any other serious violation in accordance with the above.
+The Company will not compensate for or assume any responsibility for the limited-time points that have disappeared or expired, unless there are reasons attributable to the Company.
+Point management
+The Company will notify the User of the number of points earned by the User, the number of points used by the User, and the balance of points using the method prescribed by the Company.
+Prohibition of point aggregation and multiple registration
+Users may not create a security interest, such as transferring or pledging points held to other users or other third parties, or share points between users.
+If a user owns multiple accounts, the points held in each account cannot be combined.
+Use of points in payments
+Users may use the points they hold to pay merchants for digital content or various services specified by the Company within the Service as 1 point ＝ 1 yen using the method prescribed by the Company. Masu. In addition, if a user uses points, the Company shall deductively assume payment obligations from the user based on the transaction agreement concluded between the user and the member store, and the user agrees to this. Masu.
+Our company may restrict the services eligible for point usage in 6.1 or attach conditions to point usage.
+If the user cancels the payment under 6.1, the points used for the payment will, in principle, be returned and will not be returned in cash.
+Users may choose whether or not to use points at the time of payment. When making payments using points, if you hold limited-time points or regular points, the points that are consumed from the limited-time points and expire the earliest of the limited-time points will be consumed preferentially. If you do not hold limited time points, regular points will be consumed.
+Cannot be exchanged for cash
+Users may not redeem Points under any circumstances.
+Use by third parties
+Points may be used by the user himself or herself and may not be used by any third party other than the user.
+If the Company confirms by the method prescribed by the Company that the username and password entered when using the Points match the registered one, the Company will consider the use to be made by the User. Even if it is unauthorized use by a third party, we are not obligated to return the points used and are not responsible for any damage caused to the user.
+Unless there is intentional or gross negligence on our part, we will not be held responsible for the loss of all or part of the points held by the User due to malfunction of the User's device or other reasons. yeah.
+Loss of user eligibility
+Regardless of the reason, if a user loses their status as a user, all points held by that user will expire and may not be used again. When withdrawing from this service, the user shall use all points and complete the withdrawal procedure. Even if unused points remain when a user withdraws from membership, the Company shall not be obligated to pay the user an amount equivalent to the points after withdrawing from membership.
+ 
+
+1st edition Established on December 11, 2019
+2nd edition Established on February 3, 2020
+3rd edition Established on March 17, 2020
+4th edition Established on April 7, 2020
+5th edition Established on August 1, 2020
+6th edition Established on September 3, 2020
+7th edition Established on March 1, 2021
+8th edition Established on March 23, 2021
+9th edition Established on December 1, 2021
+10th edition Established on January 4, 2022
+11th edition Established on July 13, 2022
+12th edition Established on February 15, 2023
+13th edition Established on July 1, 2023
+14th edition Established 25 September 2023
+15th edition Established on January 5, 2024
+16th edition Established on April 10, 2024
+17th edition Established on December 24, 2024
+18th edition Established on April 22, 2025
+19th edition Established on August 1, 2025
+20th edition Established on August 26, 2025
+21st edition Established October 2, 2025
+22nd edition Established on January 15, 2026

@@ -1,0 +1,13 @@
+User-agent: dotbot
+Disallow: /
+
+User-agent: *
+Disallow: /*packages
+Disallow: /*preview-page
+Disallow: /*no-records-preview-page
+Disallow: /*payment
+Disallow: /*vhr
+Disallow: /*?
+Disallow: /v2
+
+Sitemap: https://www.carfax.eu/sitemap.xml

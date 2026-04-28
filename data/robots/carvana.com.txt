@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /account/
+Disallow: /admin/
+Disallow: /code
+Disallow: /guide/
+Disallow: /purchase/
+Disallow: /search/getspinnerdatalarge
+Disallow: /search/vehiclehistoryreport
+Disallow: /firefly
+Disallow: /promotion-rules/*
+Disallow: /serenity
+Disallow: /sitemap_old.xml
+Disallow: /post-sale-dashboard
+Disallow: /carvanalocations
+Disallow: /search/*
+Disallow: /advanced-search/*
+Disallow: /browse/*
+Disallow: /drive/
+Disallow: /inventory/
+Disallow: /cars/filters*
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /

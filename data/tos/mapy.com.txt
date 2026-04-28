@@ -1,0 +1,243 @@
+Terms and Conditions of Use and License Terms of Service
+I. Introduction
+
+1. These terms and conditions of use and license terms of the service, referred to as Mapy.com (hereinafter the “Terms”), regulate the terms of use of the service available through the web interface https://www.mapy.com, or as a mobile application (hereinafter the “Service”).
+
+2.     The operator of the Service is Seznam.cz, a.s., with its registered office at 150 00 Praha 5 – Smíchov, Radlická 3294/10, ID No. 26168685, entered in the Commercial Register maintained by the Municipal Court in Prague in Section B, File No. 6493 (the “Operator”).
+
+3.     By using the Service, the user (the “User”) expresses their agreement with these Terms and confirms that they will always use the Service in compliance with these Terms.
+
+4.     The Service allows the display of map data and of other content such as places of interest, business details, reviews, photographs, panoramic pictures or 3D maps.  The Service enables Users to plan, record and measure routes, to navigate, to share their location, etc.
+
+5.     Registration of the User or login of the User into an existing user account maintained by the Operator may be necessary in order to use certain features of the Service.
+
+6.     The features of the Service accessible via web interface may differ from those accessible in the mobile app.
+
+7.     In the mobile app variant, the download of entire maps for offline use is limited to the territory of one country.
+
+8.     Contents which the User uploads to the Service are subject to the License Agreement for User Content on Service and such other terms and conditions as may be stated in the web interface or mobile app of the Service.
+
+9.     The content and personal data of Users are processed in compliance with the Privacy Policy.
+
+II. Service Premium
+
+1.  Within the Service, certain extended features (hereinafter “Service Premium”) are being offered which are clearly labeled as such and can only be accessed on a pay-to-play basis (i.e., must be purchased), unless specified otherwise by the Operator.
+
+2.  The concrete scope of Service Premium is always specified within the Service interface.
+
+3.  Service Premium can be purchased through the mobile app via Google Play, Apple App Store, or on the web via Paddle.com Market Ltd. or through other similar third-party services (hereinafter referred to as "Third Party"). By purchasing Service Premium, the User authorizes the Third Party to charge the respective price and to carry out the payment transaction (i.e., the purchase is made under the conditions and exclusively within the Third Party's environment).
+
+4.  The price for Service Premium is stated at the point of purchase and represents the annual subscription fee with automatic renewal (“Subscription”) The purchase of Service Premium is subject to the separate terms of contract of the given Third Party, and it is the User’s responsibility to familiarize themselves with those terms.
+
+5.  The price for Service Premium may change.  Such change will be brought to the User’s attention with sufficient advance notice.  The change may be rejected and the use of Service Premium be discontinued.  In such a case, Service Premium will cease to be available upon lapse of the Subscription period for which the User paid the Subscription fee.  Unless the User rejects the change of price, such change will take effect as of the beginning of the subsequent Subscription period.
+
+6.  The Subscription may be cancelled within the Subscription management, in accordance with the rules of the Third Party.  If the User cancels their use of the Service before the end of the term for which they bought a Subscription, the User will be able to use Service Premium until the end of the Subscription period; Subscription fees paid will not be refunded.
+
+7.  In order to buy and use Service Premium, the User must log into their user account with the Operator.  The User acknowledges and agrees that if they decide to cancel their user account with the Operator, they will no longer have access to the Service, including Service Premium, whereas in such a case, Subscription fees paid will not be refunded.
+
+8.  When using Service Premium, the user account must not be shared with others.
+
+9.  The Operator reserves the right to update, modify, expand, or restrict the Service Premium service on an on-going basis or to terminate it altogether.
+
+10.  The Operator offers User a free trial option for exploring the Service Premium features over the course of 7 calendar days (the “Trial Period”), without having to pay for a Subscription.  If the User decides to cancel Service Premium during the Trial Period, they incur no obligation to pay the Subscription Fee.  If the User does not cancel Service Premium during the Trial Period, they will be obliged to pay the Subscription Fee after the Trial Period has ended (see also paragraph 13). This offer of a free trial of Service Premium with no obligation to pay a Subscription Fee may be used only once.  The rules governing the Trial Period can be found among the terms of contract of the Third Party.
+
+11. If the User is offered access to Service Premium through a Third Party at a reduced rate (“Promo Subscription”), the terms of the Promotional Subscription shall apply exclusively for a specified period.  If the User wishes to continue to use Service Premium after the Promo Subscription has run its course, the regular Subscription terms shall apply.
+
+12.  The Operator may make Service Premium available for free for the duration of one year to Users who have helped materially improve the quality of the Service through their engagement with the Service (e.g. by uploading photographs, adding user reviews, etc.).  It is at the Operator’s sole discretion to assess whether a given User may claim to be gifted Service Premium on the terms described in this paragraph.  At the same time, the Operator reserves the right to change the rules of such assessment.
+
+13.  Refund policy:
+
+·       Users are provided with a Trial Period during which they can cancel Service Premium at any time without the obligation to pay the Subscription fee.
+
+·       If the User does not cancel Service Premium before the Trial Period ends, it is deemed that they accept its functionalities and content. A refund will not be provided for any Subscription fee already paid, although this does not affect the User's legal rights regarding liability for defects.
+
+·       The commencement of Service Premium usage occurs upon activation of the Subscription, with the User’s knowledge and consent. For this reason, the User does not have the right to withdraw from the contract within 14 days and is therefore not entitled to a refund of the Subscription fee. 
+
+III. Service Licensing Terms
+
+1.  The User may display map data and other content of the Service and make use of such features as Planner, Manual Measurements, Own Points of Interest, or My Maps.  The User may also export own data from the Service, as well as user data made available to them within the Service.  Subject to fulfillment of the conditions determined by the Operator, the User may also publicly display map data or other content of the Service and perform other activities allowed by the Operator within these Terms or within other, related documents.
+
+2.  All use rights to the Service are non-exclusive, non-transferable and non-assignable. The User is not allowed to grant a sub-license to a third party.
+
+3.  Map data and other content of the Service is protected by the Czech Copyright Act and their use is restricted, primarily to using the Service as such.  Map data and other content of the Service must solely be used in such manner and such scope as specified herein or in other related documents, or on the basis of a contract concluded with the Operator.
+
+4.  Map data may be used as follows:
+
+a)     Screenshot: allowed use of the following map data: Basic Maps, Hiking Maps, Winter Maps, Geographical Maps and current picture data – Aerial Maps (in each case only for the territory of the Czech Republic), Oblique Pictures, always for further publication as part of the User’s own documents, printed leaflets, etc. in the form of physical printouts or electronic documents (e.g. PDF) or audiovisual material (TV, film, video). Adding User’s own information (e.g. additional descriptions) is allowed, provided that such information does not materially change the appearance of the map data. However, the Operator does not guarantee that the technical quality of the map data will be suitable for such use.
+
+b)     Using screenshots of 3D Maps and Panoramic Pictures is not permitted.  Panoramic Pictures may solely be used via a link to the Service or using Mapy API.
+
+c)     In addition, the following rules apply to individual types of publications:
+
+·       Print publications –use is possible only for print publications (books, periodical or non-periodical press, presentations or other private materials, etc.) with the total run not exceeding 5,000 copies; tourist guides, handbooks or atlases in which map data represents a major part of the content form an exception for which use is not permitted unless expressly arranged beforehand with the Operator on the basis of a separate contract;
+
+·       Promotional materials, advertisement, consumer goods - use in promotional materials, within a commercial or advertisement or as part of consumer goods (e.g. t-shirts, mugs, posters, office supplies, print advertisements) is not permitted unless expressly arranged beforehand with the Operator on the basis of a separate contract;
+
+·       Audiovisual materials (TV, film, video) - use in audiovisual materials is not permitted except for cases where the map data is depicted in an entirely marginal manner within the audiovisual material, or if an express arrangement was made beforehand with the Operator on the basis of a separate contract.
+
+d)     Publication is always conditional upon proper referencing of the source, in the form of the Service logo (https://o-seznam.cz/ke-stazeni/loga/), or the following description in case of small details (cut-outs): Source: "Mapy.com" and specifying (keeping) the copyright notice of the title holder based on the chosen map data. The respective copyright notice is found in the bottom left corner for map data and in the bottom right corner for picture data, or else in the list of copyright owners for the map data.  In the case of audiovisual materials, the source must be visible and legible throughout the entire period for which the map data is on screen.
+
+e)     In addition to the conditions defined above, screenshots may also be distributed under the Creative Commons 4.0 (CC-BY-SA 4.0) license, provided the authors and sources are stated under the same license.
+
+f)       For details on the conditions for the use of map data or of other content of the Service, the User may contact the Operator.
+
+5.  REST API Service (developer.mapy.com): The use of map data or other features on websites or as part of Users’ own apps is conditional upon observance of special licensing conditions: https://developer.mapy.com/en/terms-and-conditions/  for the REST API Service service.
+
+6.  When in doubt, the User may contact the respective copyright owner of the chosen map data. The current list of map copyright owners can be accessed on the website of the Service.
+
+7.  When using the Service, the following activities are prohibited with respect to the content of the Service, the map data, or any other related data or output:
+
+a)     Redistribution, sale, transfer, granting use authorization to a third party,  creation of new products, services, features or content on the basis of the above which would be similar to the Service or any other service operated by the Operator, creation of derivative content, in particular in the form of data digitization or image recognition, use for creation of a 3D model, etc., in each case unless determined otherwise by the Operator or agreed beforehand in writing with the Operator;
+
+b)     Making copies in breach of these Terms;
+
+c)     Storage, archiving, and provision of access (caching), unless explicitly approved by the Operator;
+
+d)     Extracting data from the Service (scraping), whether manually or by means of automation, i.e., in in particular, indexing, sharing, pre-caching, saving, exporting or mass downloading, creating sources, etc., or allowing third parties to do so;
+
+e)     Use for the creation, expansion, repair, or improvement of other data sets;
+
+f)       Use for any reverse engineering of code or data aimed at obtaining the code or data, or attempts to do so;
+
+g)     Download of Panoramic Pictures for offline use or for use beyond the Service, merging or otherwise modifying Panoramic Pictures, analyses of Panoramic Pictures in order to create derived information;
+
+h)     Removing, hiding or modifying the Operator’s contractual terms and conditions or any other documents, copyright notices, or similar elements;
+
+i)       Use for infringement of third-party rights, including copyrights and rights to personal data protection, or use in any other manner that would be in breach of the spirit and purpose hereof.
+
+8.  The User may contact the Operator in order to notify it of a potential infringement of copyright or other rights.
+
+IV. Location sharing
+
+1.  The Service allows Users, based on their own choice, to share their location with selected persons by:
+
+a)     time-limited one-way location sharing, which is automatically terminated when the User reaches the navigation destination, or manually by the User;
+
+b)     reciprocal or one-way location sharing with other Users or selected persons, which may be terminated manually by the User or automatically at a time specified by the User;
+
+2.  By using the location sharing function, the User acknowledges that their location will be shared with selected persons and/or with persons who avail of the location sharing link. The User has the right to stop sharing their location at any time.  The choice of persons with whom the User will share their location, as well as the handling of the location sharing link, is the sole responsibility of the User, who is responsible for the selection of persons and the sharing of the link.
+
+3.  The User is entitled to use the location sharing function only for personal purposes. Commercial use of the location sharing function is only possible on the basis of a contract concluded with the Operator.
+
+V. Other Conditions of Use of the Service
+
+1.  The Operator does not provide any warranties concerning the functionality, quality, content, availability or performance of the Service and shall not be liable for any damage or harm (including lost profit or other claims) which the User may incur in connection with their use of the Service.
+
+2.  The Operator reserves the right to change, terminate or charge a fee for the Service or any part thereof at any time.
+
+3.  The User is fully responsible for their use of the Service and all its parts and shall exercise caution and refrain from using the Service in situations or under circumstances when such use may be hazardous, i.e., in particular, because the User is being distracted.  The Operator advises Users of the fact that the content of the Service may diverge from reality. For this reason, the User shall rely on their own judgment when using the Service. The User uses the Service at their own risk.
+
+4.  The User is not entitled to use the Service in a way that may have negative impact on its functioning, or in violation of legal regulations or in a way that may endanger the rights of third parties.
+
+5.  The Service contains third-party data for which the Operator bears no responsibility. The Operator is entitled not to display selected third-party data, even without giving a reason.
+
+6.  The Operator reserves the right to refuse to publish data within the Service which:
+
+a)     is in breach with Czech law or infringes third-party rights;
+
+b)     is in breach with the good morals or is a threat to public order;
+
+c)     is apt to cause harm to the Operator or third parties;
+
+d)     is in conflict with rules or conditions stipulated by the Operator or with the Operator’s interests or the interests of third parties.
+
+7.  The Operator neither supports nor accepts any liability for the proper operation, functionality, or contents of any third-party apps or devices, and does not vouch for the compatibility, now or in the future, of third-party apps and devices with the Service.
+
+8.  The Operator reserves the right to take the following measures toward the User if the User is in breach of these Terms (but will in such a case inform the User of the reasons for the measure):
+
+a)     temporary or permanent restriction from access to the Service;
+
+b)     removal of User’s content (in whole or in part) from the Service.
+
+ 
+
+VI. Personal Data Processing
+
+1.  When processing personal data, the Operator shall comply with the legal regulations applying to personal data protection and with the Privacy Policy.
+
+2.  More information on the handling of personal data is available within the relevant section on the website of the Service.
+
+3.  The User hereby grants consent within the meaning of Act No. 480/2004 Coll., on certain services of the information society, as amended, to the Operator with respect to the distribution of commercial messages containing information on the Operator’s services and products, to the e-mail addresses provided by the User. This consent and the subscription to commercial messages may be cancelled at any time.
+
+VII. Final Provisions
+
+1.  By way of supplementary application, the Service is also governed by the Terms of Contract for user registrations for services offered by Seznam.cz, which can be found on the website of the Operator.  If those Terms of Contract are in conflict with these Terms, then the present Terms shall enjoy priority.
+
+2.  In the event of any issues, questions, complaints or comments related to the Service, the User may turn to the Operator using the communication form in the Troubleshooting section.
+
+3.  In order to resolve issues in connection with Service Premium, one may use the communication form in the Troubleshooting section and/or proceed in accordance with the terms and conditions of the Third party.
+
+4.  These Terms are governed by Czech law; in the event of a dispute, the Czech courts have jurisdiction to hear the case.
+
+5.  The Operator may make unilateral changes to these Terms within a reasonable scope, especially following legislative changes, functional and technical changes within the Service, or changes in operational, organizational or commercial processes on the part of the Operator. The Operator shall notify the User of such changes through the Service interface at least 7 days before they come into effect.  The User may reject the changes and discontinue their use of the Service.
+
+6.  In accordance with Regulation (EU) 2022/2065 (the Digital Services Act), the Operator has introduced a notice and action mechanism for reporting information on potentially illegal content.
+
+7.  If the User acts as a consumer with respect to the Operator and a consumer dispute arises which cannot be resolved amicably, then the User in its capacity as a consumer may turn to the Czech Trade Inspection (Central Inspectorate - Department of ADR, with its registered office at Štěpánská 15, 120 00 Praha 2, e-mail: adr@coi.cz, web: adr.coi.cz) with a motion seeking the out-of-court settlement of the consumer dispute.  In such an event, a User who is in the role of a consumer may alternatively use the online consumer dispute platform which is administered by the European Commission and is accessible at: https://ec.europa.eu/consumers/odr/.
+
+8.  The Operator is entitled to collect anonymized data from Users obtained during the use of the Service in order to improve the functionality and quality of the Service and the Operator’s products.
+
+These Terms come into effect as of 25.3.2025.
+
+Licence Agreement for User Content on Service
+Seznam.cz, a.s., with its registered office at Praha 5 - Smíchov, Radlická 3294/10, Postcode 15000, Company ID No. 26168685, registered in the Commercial Register maintained by the Municipal Court in Prague, Section B, Entry 6493 (hereinafter referred to as “Operator”) operates a service identified as Mapy.com, accessible through the web interface https://mapy.com, or as a mobile application (hereinafter referred to as the “Service”). These Licence Terms (hereinafter referred to as the “Terms”) apply to every user of the Operator’s Service (hereinafter referred to as “User”).
+The Service allows to insert user content, especially pictures, reviews, titles, subtitles, headlines, description and details of places of interest, videos, tags, links, metadata, etc. (hereinafter referred to as “Content”), in particular for the purpose of its depiction within the Operator’s Service. Content shall be considered also all data that are created as a result of or in association with the use of the Service by the User or that will be created by the User when using the Service, especially steps, routes, description, etc. In addition, Content shall also be considered all source documents and information, regardless of the form thereof, inserted by the User within error notifications or comments on the Service.
+The User agrees to these Terms and agrees to comply with them by uploading Content via the Service. The User agrees that the Content which the User inserts via the Service, especially the Content that the User publishes within the Service or shares through the Service or via another tool, can be connected with the User's name or user name or another identifier of the User. The User expressly agrees that the Operator is not obliged to attribute authorship of the Content when using it. If the User does not want the Content to be published, they shall not insert the Content using the Service. The Content can be assigned to a particular position in the physical space using geographical coordinates.
+The Operator reserves the right to determine the manner of depiction of the Content within the Service including the manner of its sorting and filtering, and change that manner at any time. The Operator is entitled not to depict the Content within the Service, stop depicting it or remove it from the Service, and the Operator is not obliged to give reasons for it or compensate for such Content.
+By approving of the Terms, the User grants to the Operator a non-exclusive licence to the exercise of the right to use the Content (hereinafter referred to as “Licence”) in all manners of use as defined in Section 12 (4) of the Act No. 121/2000 Coll., on copyright and related rights and on amendment to certain acts (the Copyright Act), as amended, in particular the right to use the Content and depict it within the Service and within other services or derived mobile applications via which the Operator provides users with services or via which the Operator makes content available to users, as well as those operated by the Operator and those that the Operator will start operating in the future, and to use the Consent for the purpose of promotion of the Operator, modify, process and adapt the Content, create a derived work, incorporate the Content in another work, distribute the Content in all manners of distribution, both on its own and as part of another work. The Licence that the User grants to the Operator is unlimited in terms of territory and quantity and shall be provided for the whole period of duration of the proprietary copyright to the Content. The User grants the Licence to the Operator free of charge. The Operator is not obliged to use the Licence. The Operator is entitled to grant the Licence, as a whole or partly, to a third person, either in the form of a sub-licence or assign those rights in favour of a third party, this all without any restrictions, for a fee or free of charge. Therefore, the Content may be used in the manner specified herein by third parties, too. The Licence shall survive the termination of the use of the Service by the User. If the User removes the Content, it shall not affect the Licence, and the Operator as well as third parties shall be entitled to continue using the Content in line with the Licence; for the avoidance of doubt, it is expressly stated that the Operator will anonymise the Content as well as use it without attribution of authorship pursuant to Section 11(2) of the Copyright Act.
+The User declares that it is entitled to grant the Licence to the Operator in the scope defined above, that it is a holder of all rights related to the Content, that it has acquired all authorizations and permission to use the Content, and that it has settled all claims of third parties related to the Content. If this declaration of the User is untrue, the User shall compensate the Operator for all damage and costs incurred by the Operator as a result of the fact that the User’s declaration is untrue. The User is obliged to settle all claims of third parties that those third parties make in relation to the Content.
+The User is entitled to insert in the Service only such Content that does not infringe third party rights, especially the right to personal data protection, intellectual property rights including copyright, Content that does not violate legal regulations, that is not contrary to the ethical rules and good manners, to these Terms and rules of this Service as regards adding of Content, which are specified in paragraph 12 hereof. The User undertakes to observe the rules.
+The User shall be held exclusively liable for correctness of the Content.
+If these Terms are violated, the Content needn’t be published or may be removed, even without giving a reason and providing no compensation; in addition, user accounts via which the Content was published may be blocked or removed, even without a previous request for remedy.
+The User agrees that these Terms and the Licence apply to all the Content inserted by the User in the Service or created in association with using of the Service, namely Content that the User inserted in the Service or created in association with using of the Service at any time in the past.
+The use of the Service and these Terms shall be governed by the legislation of the Czech Republic. All disputes arising out of the use of the Service or associated with these Terms shall be decided by a territorially competent court of the Czech Republic in accordance with the legislation of the Czech Republic.
+All Content inserted by the User or published via the Service, especially pictures, videos, reviews, titles, headlines, description and details, tags, links, metadata, error notification, etc. shall be subject to the rules defined in this paragraph.
+a) Restricted and Prohibited Content
+
+●     Content that does not relate to a place (position) - the Content must relate to a particular place and must capture the appearance of the particular location and/or the User’s own experience with that place. The Service cannot be used for expressing social, political, religious or other opinions.
+
+●     False Content - the Service cannot be used for publishing of Content that is untrue, misleading or the aim of which is only to influence evaluation of a particular place, including publishing of Content about a competitor, the User’s own business or current or previous employers in order to influence the evaluation thereof. The Content must not be published under the identity of another entity. In addition, Content about a place can only be published once and from only a single account (spam).
+
+●     Illegal Content - the Content must not breach legal regulations, depict or promote violence, sexual abuse or other illegal activities, depict or promote illegal products or services, infringe third party rights including copyrights, rights to personality protection and rights to personal data protection.
+
+●     Erotic or sexually explicit Content - the Content must not include erotic or sexually explicit materials including those having erotic subtext and those depicting or implying physical activities of a sexual character or nudity, and those containing vulgar expressions or expressions describing sexual activities, etc.
+
+●     Offensive and pejorative Content - the Content must not be obscene or belittling and must not contain any offensive language or gestures.
+
+●     Dangerous Content - all Content which threatens or bothers the User, which bullies the User, incites to hatred or discrimination or to otherwise dangerous or illegal activities is prohibited.
+
+●     Restricted Content - the Content must not involve any commercial communications; what is especially prohibited is advertisement of products or services the presentation of which is subject to regulation in line with applicable legal regulations, such as alcohol, tobacco and tobacco products, guns, gambling, drugs, food supplements, etc.
+
+b) Rules of Particular Formats
+
+Pictures (including Panorama pictures) and videos
+
+Before they are published, all uploaded pictures and videos are checked.
+
+●     The primary purpose of videos and pictures in the Service is to capture and truly mediate the appearance of a particular location (place, building, tourist monument, etc.).
+
+●     The captured place should be permanent at the particular time. Pictures or videos focusing primarily on people, means of transport, plants, animals, etc. will be approved only exceptionally provided they meet the conditions referred to in the previous sentence.
+
+●     Pictures and videos should always be assigned to the right place. The right place shall mean the position where the depicted (photographed) building is situated or the position from which the picture was taken.
+
+●     The quality of pictures and videos must be good enough, i.e. they must not be blurred, too dark or too light, and they are expected to truly capture the actual condition of the place, i.e. they should not be excessively treated and should not include any added effects (text, frames, filters, collage, watermarks, commercial, etc.); in some situations, the administrator can treat pictures or videos to give them a final appearance.
+
+●     Panorama pictures with obvious errors (e.g. wrongly sewn pictures with visible stitches or discontinuous 360° pictures) may be rejected. The administrator is entitled to automatically connect Panorama pictures.
+
+●     It is not allowed to upload pictures or videos depicting people that might be - directly or indirectly - identified (in particular pictures with recognizable faces). Such pictures or videos can only be uploaded if the faces of the persons depicted in those pictures or videos are adequately blurred or otherwise covered. The same applies to pictures or videos depicting legible licence plates of vehicles. It is allowed to upload historical pictures and photographs, taking into consideration this point.
+
+●     Duplicate pictures or videos with almost identical or very similar Content may be deleted and only one picture or video that best captures the particular place may be kept (e.g. buildings from all sides, pictures of a building from different angles, etc.).
+
+●     In order to protect third parties, it is not allowed to upload pictures of private residential premises without the owner’s consent or pictures of places where it is prohibited to take pictures (this applies both to pictures and videos). In addition, the Content to be published must not include confidential or personal data (payment card numbers, medical records, identity cards, etc.).
+
+Reviews, headlines, details, tags, links and other textual Content
+
+●     Reviews, headlines, details, tags, links and other textual Content must not be used for advertising purposes.
+
+●     Reviews and evaluation must not be written for a fee.
+
+●     Requiring third parties to write positive reviews or discouraging third parties from writing negative reviews is considered to be in breach of these Rules.
+
+The User may report an error or comment on the Service including defective Content via the function “Error Notification”.
+The decision if the Content is defective is always up to the Operator.
+The Operator reserves the right to amend these Terms.

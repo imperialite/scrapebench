@@ -1,0 +1,328 @@
+Privacy Policy
+Content
+
+1. Who we are
+2. What data do we collect?
+3. Why we process your personal data
+4. Your rights
+5. Communication and marketing
+6. Who do we share your data with?
+7. International transfer of personal data
+8. Data storage and retention period (how long we store your data)
+9. How we protect your personal data
+10. Third-party sites
+11. How to contact us
+12. Changes to the Privacy Policy
+13. Data Protection Authority
+Certain data processing operations
+1. Data processing within the OLX Developer Portal services
+2. Data processing within the OLX Work services
+Your privacy is important to us and we are committed to protecting your personal data. This Privacy Policy covers the use of all services, features, products and technologies that OLX provides through its websites, mobile applications, mobile versions of the sites and other online platforms (hereinafter collectively referred to as the “Services”).
+In this document, we explain how we process your data, what privacy rights you have and what legal remedies are available to you. We recommend that you read this Privacy Policy carefully before using our Service.
+1. Who we are
+The controller of your data (i.e. the company that determines the purposes and means of processing your data) for the purposes of coordinating the operation of OLX services across multiple jurisdictions is OLX Global BV, a company registered at: Gustav Mahlerplein 5, Symphony Offices, 1082 MS, Amsterdam, the Netherlands. OLX Global BV is the parent company of LLC “EMARKET UKRAINE”, which provides you with services in accordance with the OLX.UA Terms of Service (hereinafter collectively referred to as “OLX”, “we” or “our” in this Privacy Policy). This company is also considered the data controller in relation to the local services it provides. 
+
+2. What data do we collect?
+2.1. Data obtained as a result of direct interaction: 
+
+2.1.1. Registration and account information 
+
+When you register to use our Service, depending on the registration method below, we may collect: 
+
+● Direct account creation: your email address, phone number. 
+● Google account: your first name, last name, email address, and profile picture. 
+● Facebook account: your first name, email address, Facebook ID, and profile picture. If you grant additional permissions, we may access information about your gender and age. 
+● Apple ID: your name and email address, but providing an email address is optional. 
+
+In addition, using our service, you can provide:
+
+● Personal data: name, address and phone number. 
+● Payment data: required to complete purchase and sale transactions; processed securely. 
+● Location: country, region and city.
+● Job posting reviews: education, experience, skills and resume details are available in the Resume feature.
+● Identity and property rights verification: in some cases, we may collect your passport number, tax identification number, VAT registration number (if available), date of birth and bank account number, property identification numbers, and title document identifiers.
+
+2.1.2. Information regarding the validity of your OLX account 
+
+To ensure the uniqueness of each OLX account, we use SMS verification when you publish your first ad. 
+
+We will send a free SMS to verify the phone number you provided. Failure to verify will limit the capabilities of your account, preventing you from posting ads, managing offers, and communicating with other users through the Service until you are verified. If the same mobile phone number is specified for multiple accounts, all of them will be restricted. In this case, you must select one account for full functionality, while the others will be restricted.
+
+You can make up to 5 SMS verification attempts per day. Verification is performed once per account. After successful verification, your account is permanently linked to the verified mobile phone number.
+
+2.1.3. Communication via chat and with OLX Support: When you use the chat function to communicate with other users, we collect and process the data and information you provide. The same applies to communication with our OLX Support. 
+2.1.4. Recording of telephone calls: With your consent, we may record conversations with our OLX Support or Sales representatives to improve the quality of our services and train our staff. 
+2.1.5. Audio and video research: With your consent, OLX may record audio or video of interactions during specific studies (e.g. user experience testing), providing detailed information on the use of data for each study. 
+2.1.6. User surveys: Sometimes we send surveys to assess your satisfaction with the services we provide. When you use our website or mobile application, we may process session ID data. You may also provide contact information (e.g., email address or phone number) to participate in user experience (UX) surveys or interviews. Survey responses may contain personal data that we process solely for the purpose of analyzing and improving the quality of our services.
+2.1.7. Ratings and Reviews: We collect and analyze the ratings and comments that you leave or receive. This helps us understand your level of satisfaction with the Service, improve communication, and maintain the quality of services by monitoring and preventing unwanted or abusive activities.
+
+2.2. Data collected automatically: 
+When you use our services, we automatically collect the following data: 
+
+2.2.1. Device Information: 
+We collect data about your device, such as operating system, network provider, IP address, language, device type, browser, and software specifications such as fonts and time zones. When you log in, this data is associated with your OLX account.
+
+2.2.2. Location Information: 
+With your consent, we collect location information using technologies such as IP address, GPS and Wi-Fi. This helps us show ads near you. We obtain your consent via a pop-up window, and you can change it in your browser and/or smartphone settings at any time. For more information about the use of location information, see section 3.1.2 of our Privacy Policy.
+
+2.2.3. User and Authentication Information: 
+This includes data about IP address, time zone, operating system and login details such as registration date and last login. 
+
+2.2.4. Activity Data: 
+We collect information about your activity on the Service, including ads viewed, visit times, search queries, search results selected, ad interactions, length of stay on the page, and order of viewing.
+
+2.2.5. Cookies and Similar Technologies: 
+We use cookies to manage sessions, save language settings, and serve ads. Cookies are small files on your device that collect data, including visit dates and browsing history. For more information, please see our Cookie Policy.
+
+2.3. Data from third parties and public sources: 
+
+We combine your personal data obtained from third parties and public sources with information we collect ourselves. This includes:
+
+● Registration via Google Account: We receive your Google email address, ID, full name and profile picture to create and personalize your OLX account, as well as for marketing purposes.
+● Registration via Facebook Account: We receive your Facebook email address, ID, full name and profile picture to customize and improve the functionality of your OLX account.
+● Analytics Data: We use data from providers such as Google Analytics 360 to analyze the use of the service, improve our services and support marketing activities. For more information, see section 9.
+● Payment Data: If you store payment card details during the purchase phase of an Item, our payment partners process your name, card number and expiry date.
+● Government requests: Authorized authorities may provide information about your username, first and last name, phone number, and email address for fraud prevention or other purposes related to data processing.
+● Seller ratings and reviews: We collect user ratings and reviews of sellers in accordance with our Terms of Service. This helps us assess user satisfaction, improve communication, and maintain high standards of service by detecting any inappropriate behavior.
+
+2.4. Age restrictions: our Services are not intended for users who have not reached the minimum age established in accordance with the applicable legislation of Ukraine. We do not knowingly collect or process personal data of individuals who are minors in their country of residence.
+
+3. Why we process your personal data
+We process your personal data based on the following legal grounds as set out by law:
+
+User Consent: We ask for your consent to process your data for specific purposes, explaining that purpose and how your data will be used.
+Legitimate interests: We process your data when we have a legitimate need as part of our normal operations (for example, to improve our services or ensure their security), provided that this does not violate your privacy rights. For example, we may analyze how users interact with our site to make it more user-friendly.
+Legal compliance: We process your data to comply with legal or regulatory requirements.
+
+3.1. Purpose of processing
+Below are the specific purposes of processing personal data and the legal grounds for each of them, including cases where we rely on our legitimate interests.
+
+3.1.1. User authentication, access to our Services 
+Purpose and legal basis – User consent to ensure the effective provision of services to you:
+
+● Login with mobile number and email: We use your name, phone number and/or email address to identify you and provide access when you log in using these methods.
+● Login with social networks or Apple ID: When using Facebook, Google or Apple ID, we identify you based on your account name and the email address from your account (as well as your profile photo in the case of Facebook and Google) to provide access to your account.
+● Payment processing: We use external payment partners to process payments. Depending on the payment method, you provide the payment information necessary to complete the transaction.
+● OLX Jobs: We store data about your education, experience, work experience, skills, professional preferences and other information specified in your resume to ensure effective communication with employers in the Jobs category.
+
+3.1.2. Improving your user experience when using our Services
+
+Purpose and legal basis – we process this information based on our legitimate interests to improve the quality of use of the Services:
+
+● Personalized content and navigation - click data: We use this to offer you personalized content, such as search results or recommendations on the Service. This helps us understand user interaction patterns and offer relevant content.
+● Ad data: We use the photos you provide, descriptions, and prices listed in your ads to train machine learning models to personalize search results based on ad rankings and user interests, improve the identification and presentation of ad elements, and improve search functionality and increase the likelihood of successful sales.
+
+● Location data: With your consent, we use location data to personalize content, such as showing ads nearby, and to improve your experience.
+Note: Google Maps, integrated with our service, is an independent data owner.
+
+● Cross-device access: We associate your devices through contact data to provide convenient access from computers, mobile devices, and tablets, which improves the quality of the Service experience.
+
+● Machine learning to improve search
+Ad data: We use photos, descriptions, and prices from your ads to train machine learning models that improve search features and increase the likelihood of sales.
+Recommendations: Algorithms recommend ads based on your activity on the Service, purchases, and (with consent) geolocation to make your experience more convenient and efficient.
+
+● Communication analysis - chat function: we analyze chats in order to improve the Service.
+
+User reviews and interaction
+
+Surveys and Testing: We sometimes send surveys to measure satisfaction levels. We may also invite you to test our products.
+Ratings and Feedback: We collect and analyze user ratings and feedback to measure satisfaction levels, ensure effective communication, and maintain the quality of our Service.
+
+3.1.3. Ensuring the security and protection of the Service
+
+Purpose and legal basis - we process this information based on your consent, as well as on the basis of a legitimate interest in preventing fraud, ensuring the security and quality of our Service:
+
+Use of Data for Security - Mobile and Registration Data: We use phone numbers, login credentials, and device identifiers to operate and secure our Service. This includes troubleshooting, analytics, testing, fraud prevention, maintenance, support, reporting, and data hosting.
+Communication Monitoring - Chat Analysis for Security: We analyze your chat activity to ensure security, verify customer satisfaction, and prevent fraud. We use machine learning to detect and block spam and abuse. While content is anonymized, personal data may be visible if provided. Manual review is infrequent, strictly controlled, and only performed in cases of suspected fraud.
+Fraud Detection and Prevention
+Algorithmic Monitoring: Algorithms detect suspicious activity, which may result in automatic or manual account blocking. Automatic blocking is only used when there is a high level of confidence in fraud; in other cases, a review is conducted by specialists. If you believe that the blocking was in error, please contact us via the Contact Form to review the solution.
+Device data collection: We collect data from users' devices to prevent fraud, including user ID, IP address, and device settings. This allows us to evaluate the usage pattern and form a "fraud risk score" for the user. For more information, see our Cookie Policy.
+
+3.1.4. Promotion and offering of relevant services
+
+Purpose and legal basis - processing is based on your consent, as well as our legitimate interest in improving the user experience and stimulating transactions:
+
+Personalized recommendations
+Contact information: We use your email address and phone number (SMS) to recommend services that may interest you.
+Email communication: Our algorithms analyze your activity to send personalized recommendation emails. Such emails contain an unsubscribe option, allowing you to opt out of such communications at any time. This is in our legitimate interest to improve your user experience and increase the number of successful transactions by displaying relevant ads.
+Advertising campaign monitoring - click data: We track and analyze the effectiveness of advertising campaigns for our partners, as well as for internal analytics.
+Location-based interaction monitoring - geolocation data: If you have provided such data, we use it to evaluate your interaction with third-party advertising materials within our Services.
+
+Marketing Communications
+Preferred Communication Channel: Upon request, we send information through your preferred notification channel.
+Similar Products or Services: We may send you emails with information about similar services or products if you are already using our Service or have previously purchased something from us.
+Competitions and Promotions: You may receive communications if you have entered a competition or registered for a promotion by providing your contact details.
+Preferences Management: You can stop receiving marketing communications at any time by clicking the unsubscribe link in the email or by changing your notification settings in your account.
+Direct Marketing and Consent: In cases not covered by the above, we send direct marketing communications (by email, SMS, etc.) only based on your consent provided during registration. You can withdraw your consent at any time through your Account settings.
+
+4. Your rights
+You have rights regarding your personal data. To exercise them, log in to your Account or contact us via the feedback form.
+
+Access to your data: you have the right to request a copy of your personal data and to verify the lawfulness of its processing. 
+
+Correction of data: Ask us to correct any incomplete or inaccurate personal data. We may need to confirm the accuracy of new data you provide.
+
+Restriction of processing: A request to restrict processing is permitted in certain cases, such as to verify the accuracy of the data, unlawful use of your data, a request to retain the data for the exercise of legal claims even if we no longer need it, or when you are awaiting consideration of your objection to the legal grounds on which we process your data.
+
+Erasure of data: You can request the erasure of your data if there is no legitimate reason for its storage. This right most often applies if you object to the processing, if the processing is unlawful or if required by law. It should be noted that certain categories of data may continue to be stored, for example where such an obligation is imposed by law.
+
+Objection to processing: applies to situations where we process your data based on legitimate interest. You can object if you believe that such processing affects your rights or freedoms. You can object to our use of your data if it affects your rights by:
+unsubscribing from marketing e-mails using the unsubscribe link provided in the message;
+changing your settings regarding marketing SMS messages, notifications or calls.
+Transfer of your data (data portability): you can ask us to transfer your personal data to you or to a third party in a convenient format. This only applies to automated data that you have provided based on consent or a contract.
+
+Withdrawal of consent: You have the right to withdraw your consent to the processing of your data at any time without affecting the lawfulness of the processing carried out before the withdrawal of consent. Please note that some of the functionality based on such processing may be limited. 
+
+You may also have other rights provided for by the laws of Ukraine.
+
+Additional information:
+
+Free exercise of rights: in most cases, access to data or exercise of rights is free of charge. However, in case of unfounded, repetitive or excessive requests, we may charge a reasonable fee or refuse to execute the request.
+Response time: we try to respond to requests within one month. Complex or voluminous requests may require more time; in such cases, we will inform you about this.
+Feedback and complaints: you can submit a complaint to the Department for Personal Data Protection of the Verkhovna Rada of Ukraine Commissioner for Human Rights at any time. Regardless, we would be grateful for the opportunity to first consider your comments. Contact us via the form.
+
+5. Communication and marketing
+Important notifications
+
+We send important information related to our Services via email, SMS or in-app push notifications. 
+
+These messages include:
+updates on your account verification status;
+notifications when your ads become active or expire;
+transactional messages: Receiving these messages is essential to the effective use of your account. Because they are critical to the operation and management of your account, you cannot opt ​​out of receiving them.
+
+6. Who do we share your data with?
+We may transfer your personal data to third parties for the performance of a specific purpose. Below is a list of entities to which we may transfer your data, as well as the grounds for such transfer.
+6.1. Service providers (third parties)
+To ensure the functioning and support of our service, we cooperate with a number of external providers to whom your personal data may be transferred:
+
+Payment partners: LLC “FC UAPAY” processes payments on our Service. LLC “FC UAPAY” is a payment institution that operates on the basis of a license from the National Bank of Ukraine to provide financial payment services for transferring funds without opening an account (Decision of the National Bank of Ukraine on issuing a license and inclusion in the Register of Payment Infrastructure dated 04/29/2023 No. 21/774-рк).
+Logistics partners: when using the “OLX Delivery” service, we transfer your data to LLC “NOVA POSHTA”, LLC “Nova Poshta Global”, JSC “UKRPOSHTA”, LLC “Trading House “Mist Express”.
+
+
+The information transmitted includes:
+last name, first name, patronymic;
+address, zip code, city of the sender of the item;
+address, zip code, city of the recipient of the item;
+email and phone number;
+date and time of delivery, tracking number, signature.
+in some cases, the registration number of the taxpayer's account card.
+
+In this case, such companies act as separate controllers of personal data. Their privacy policies are available at the following links: 
+
+https://novaposhta.ua/more/privacy-policy/
+https://novaposhtaglobal.ua/privacy-policy/  
+https://www.ukrposhta.ua/ua/polityka-konfidentsiinosti
+https://ua.meest.com/polityka-konfidentsiynosti-meest-ukrayina
+https://uapay.ua/privacy-policy/
+
+Cloud solution providers: Services such as Amazon Web Services (AWS), Google Cloud, and Microsoft Azure store data in a cloud environment, providing a high level of security.
+Integrated tool providers: For example, Google Ireland Limited may access your location data through Google Maps to personalize content.
+Customer support: Salesforce, Inc. helps us manage accounts and respond to user requests by accessing certain data to improve our service.
+Marketing communications: Braze Inc. implements marketing campaigns on our behalf, ensuring that relevant messages are sent.
+User surveys: Factum Ukraine LLC conducts surveys to collect feedback about our Services. For this purpose, it may receive your contact details.
+
+We carefully select suppliers both within and outside the European Economic Area (EEA), ensuring their compliance with high standards of security and legal regulation. All suppliers are obliged to process your data exclusively for the purposes specified by us, without having the right to use it for their own interests. We exclude the possibility of transferring data to companies registered and/or operating in the Russian Federation, the Republic of Belarus and/or their related companies.
+6.2. Parties to the transaction: If you use the “OLX Delivery” service, we may transfer your data to another party to the transaction. The information transferred includes: first and last name, middle name, address, zip code, city, email address, phone number, date and time of delivery, tracking number and signature.
+6.3. Advertising and analytics service providers
+We work with analytics service providers, such as Google Analytics 360, to improve our services by understanding user interactions and supporting marketing activities. We transfer non-personally identifiable data, such as cookie IDs, abbreviated IP addresses, referring URLs and browser data, to evaluate advertising campaigns and user experience.
+6.4. OLX group companies
+We may transfer your personal data to our parent company Prosus NV, as well as to other OLX group companies. You can view the full list of our brands here.
+
+Transferring data to these companies helps us provide our services worldwide, improve them, offer better support and increase security. This may involve sharing data both within and outside the EEA, governed by an internal data transfer agreement that includes technical and organizational safeguards to ensure the security of your data.
+6.5. Mergers and Acquisitions
+In the event of a reorganization, sale or merger of our company or its assets with another company, your personal data may be transferred to the new owners. In such cases, we will comply with all legal requirements, including notifying you and providing you with the opportunity to continue using our Services.
+6.6. Law enforcement and government agencies
+We may transfer your personal data to law enforcement or government agencies to comply with legal or regulatory obligations.
+6.7. Public Information
+When you post an ad, you may provide other OLX users with certain personal information, such as your name, email address, location, and phone number. Some information, such as ratings and reviews, automatically becomes public once you post your ad.
+Please note that other users may share the information you provide, so please be careful.
+
+7. International transfer of personal data
+We may transfer your personal data to foreign entities involved in personal data relations, while making such a transfer exclusively to states that ensure adequate protection of personal data in cases established by law or international treaties of Ukraine. States that are members of the European Economic Area, as well as states that have signed the Council of Europe Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data, are recognized as providing an adequate level of protection of personal data. We exclude the possibility of transferring data to companies registered and/or operating in the territory of the Russian Federation, the Republic of Belarus or companies related to them.
+
+The dissemination of personal data may be carried out solely on the basis of the purpose for which they were collected.
+
+8. Data storage and retention period (how long we store your data)
+8.1. Storage
+Your personal data is stored on secure Amazon Web Services servers located in Dublin, Ireland, i.e. within the European Economic Area (EEA).
+8.2. Data retention period
+We retain your personal data only for the time necessary to achieve the purposes for which it was collected, as well as to comply with legal, tax, accounting or reporting obligations.
+
+When determining the retention period, we take into account:
+the volume, nature and confidentiality of the data;
+the potential risk of harm in the event of unauthorized access or disclosure;
+the purposes for which the data are processed and the possibility of achieving those purposes by other means;
+applicable law (including tax or financial accounting record retention requirements).
+
+In short: we do not store your personal data for longer than is reasonably necessary. After the retention period has expired, we securely delete or anonymize your data unless there is a legitimate reason for further storage.
+
+Data type   Data retention period   Purpose of storage
+Account details   as long as you are registered or until you delete your account Provision of services, legal requirements
+Account data after deletion   up to 3 months Technical processing
+Inactive accounts deleted after 36 months of inactivity  Operational efficiency
+Active ads  30 days from publication   Service functionality
+Archived ads   6 months in user account   Service functionality
+Chat messages  4 months after the exchange   User communication needs
+Certain data after account closure  up to 3 years  up to 3 years
+Fraud prevention data   up to 36 months after account deletion Fraud detection and prevention
+Transactional data   up to 5 years after the end of the financial year  Tax and accounting obligations
+Cookie data depending on the cookie lifecycle   Website functionality
+If there has been no activity on your Account for more than 36 months, we will delete your Account in accordance with the provisions of the OLX.UA Terms of Service, along with all personal data stored in your Account. This means that you will no longer be able to access or use it.
+
+If you have any questions about the retention period of your data, please contact us via the Contact Form.
+
+9. How we protect your personal data
+We store your information on secure servers and use technical and organizational measures to ensure the security of your personal data. OLX regularly evaluates its security measures to prevent accidental or unlawful loss, unauthorized access or disclosure of information.
+
+Our security measures include:
+
+Network Security: We continually evaluate and improve our security measures to identify and address potential risks.
+Risk Management: We conduct regular risk assessments and periodic testing to minimize threats.
+Data Encryption: Payment information is encrypted using SSL technology, providing an additional layer of security.
+
+10. Third-party sites
+Our Service may contain links to other websites or applications. Please note that each of these has its own privacy policy and we do not control their practices. After you leave our Service, we recommend that you review the privacy policy of each website you visit.
+
+11. How to contact us
+To get more information or exercise your rights, check your account settings or contact us via the Contact form. If you need information about how your data is processed, you can also send a letter to the local company — LLC “EMARKET UKRAINE”, 01014, Kyiv, Bolsunovska st., 13-15.
+
+12. Changes to the Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of this by posting a notice on our website. If you do not agree with how we process your data or with the options available to you, you can close your account at any time in your settings by selecting the "Delete Profile" option.
+
+13. Data Protection Authority
+If you have any comments about the way in which we process your data, you can contact the Department for Personal Data Protection of the Verkhovna Rada of Ukraine Commissioner for Human Rights.
+
+Special data processing operations
+1. Data processing within the OLX Developer Portal services
+The OLX Developer Portal enables individuals and legal entities to place ads through integration with our services. The processing of personal data in this context is carried out for:
+improving the operation of the service,
+preventing fraud and abuse.
+Processing of personal data
+Within the framework of using the OLX API, we process the following data:
+application name,
+contact person name,
+phone number.
+
+This is necessary for the proper functioning of the service, user support, and ensuring appropriate interaction with the platform.
+Using the OLX API
+To activate access to the OLX API, the developer must:
+log in to their account,
+specify the name of the application and the purpose of obtaining access; 
+provide contact information.
+
+Providing this information is voluntary, but without it, the use of the API is not possible. We also monitor developer activity to improve the service and detect potential fraud.
+Developer Responsibilities
+Developers using the OLX API are responsible for the user data managed by their applications. They must provide proper instructions for use, adhere to security measures, and comply with applicable legal regulations.
+If you have any concerns about data protection while using an application, please contact the developer directly or review the application's terms of use.
+
+2. Data processing when submitting job application feedback in the “Job” category
+When you submit a job review in the “Job” category, we provide Employers with your resume, including data such as education, professional experience, skills and any other information you have provided. This makes it possible to carry out the hiring process directly through our Services.
+We process your data to provide you with job offers and personalized recommendations in accordance with our Terms of Service:
+Resume Management: You can upload and manage your resume in the “Candidate Profile – Resume” section. Only one resume can be stored at a time, which will be updated when a new resume is uploaded to your account or during the review process. You can delete the attached file before submitting your review.
+Visibility and Storage: Your resume will remain in your account until you delete it or delete your account. Employers will have access to your resume for a maximum of 4 months after submitting a review for a specific ad. After this period, they are responsible for processing and storing it outside of our system.
+Candidate Profile: Add details such as first and last name, contact details, education and professional experience to complete your profile. You can also import resume data to automatically populate your candidate profile. This data is stored until you delete it or delete your account.
+Recommended Ads: Based on your professional preferences and how you use the service, we recommend job ads that may interest you. These are only suggestions and do not lead to automated decisions about you.
+Review Submission Process: When you submit a review through OLX Jobs, we provide employers with your resume, which includes information about your education, work experience, skills and other data that you have shared. The data may be stored in your account for future applications and is necessary for submitting applications. The information from your review may be used to automatically analyze the relevance of the resume data to the requirements of the ad you have applied for, but this does not lead to automated decisions that may have legal consequences or significantly affect you. Once the data is provided to the selected employer, it becomes their separate controller. LLC “EMARKET UKRAINE”, as the controller of personal data, is solely responsible for the processing of candidate data within the Service. When sending a review, you may also be asked to provide certain data necessary to transmit the review to the employer. You can save this data in your account so that it is automatically used when submitting subsequent reviews. Providing the specified data is mandatory for using the service of responding to advertisements in the “Job” category within the Service.
+
+Data retention: We retain your employment reviews for 4 months from the time they are submitted.

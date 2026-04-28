@@ -1,0 +1,96 @@
+Website User and Online Collections Privacy Policy
+I. Website User Privacy
+Protecting our users’ personal information is important. We collect, use, and share information obtained from website users in the following ways:
+
+We collect personal information when you voluntarily provide it to the Library through our websites or when you grant third parties permission to allow the Library's uses of your personal information
+We use personal information only for its intended purpose
+We may disclose personal information to contractors or associates to carry out your requests (for example, to complete a pay.gov transaction)
+We will not otherwise disclose personal information to outside parties, including other government agencies, without first obtaining permission from you, unless disclosure is required by law or court order or to protect the website itself
+We provide a safe online environment for children in accordance with Children's Online Privacy Protection Act (COPPA) principles (detailed below)
+We have safeguards in place to protect the information collected
+For more information follow these links:
+
+Types of Information Collected
+Automatically Collected Information
+Information Collected for Measurement and Customization (such as Cookies and Web Beacons)
+Personal Information
+Children’s Privacy Policy
+Types of Information Collected
+We collect the following types of information about our website users:
+
+Automatically Collected Information
+Information Collected for Measurement and Customization (such as Cookies and Web Beacons)
+Personal Information
+Automatically Collected Information
+We strive to provide the best website experience for you. We automatically collect and store the following non-personally identifiable information:
+
+The name of the domain (ex: Verizon.net, Comcast.net) used to access the internet
+The internet protocol address, which can reveal cities, states, and countries where web visits originated
+The date and time of each website visit
+The URLs of pages visited and files downloaded from our websites, and related performance and reliability data
+If present and available, the internet address of the website visited before a Library website
+Characteristics of devices used to visit Library sites, such as operating system, web browser, and screen resolution, and
+Search terms used to find our websites and used while on the websites (in aggregate only, not linked to the user).
+This information allows us to improve website design, presentation and system performance. We collect this information from anyone who visits, browses, or downloads information from our websites.
+
+Information Collected for Measurement and Customization (such as Cookies and Web Beacons)
+To help provide website users with the best experience possible, we use commercial software to report and analyze aggregated web metrics data. The raw data is generally retained for five years to help improve website performance.
+
+Our sites use four types of tools: session cookies, persistent cookies, web beacons, and other customization tools. “Cookies” are small files that websites transfer to users’ computers to allow the site to remember specific information. If you do not want cookies transferred to your computer, you may opt out by changing your browser options. Without cookies, most of our websites will continue to display normally, but certain features may not work as well or may be unavailable.
+
+Session cookies do not contain personal information and disappear once the browser window is closed. We use session cookies for technical purposes such as to enable you to more easily navigate throughout the websites. Session cookies only collect non-personally identifiable data.
+
+Persistent cookies store information on your computers for longer periods of time and across multiple visits. We do not use persistent cookies to collect personal identifiable information about users. However, we do use persistent cookies to improve web metrics by distinguishing between new and returning users, to anonymously aggregate data on how users use our websites, and to remember your voluntarily-provided preferences to create a smoother browsing experience.
+
+Our websites and emails may use web beacons in conjunction with cookies to compile statistics about site usage. Web beacons are small pieces of code (also called pixels) that are embedded on the pages of websites or emails. We do not use web beacons to collect personal identifiable information about visitors. We may use these technical methods to analyze website performance and reliability data such as timing (e.g., page load) metrics on our sites. We may also use web beacons in HTML emails that we send subscribers who have opted in to receive email from us, to determine whether our recipients have opened those emails and/or clicked on links in those emails.
+
+Customization tools allow you to voluntarily provide information to personalize and improve your online experience. Information from customization tools is retained.
+
+Personal Information
+Personal information may be required to use certain features of our websites, such as making a purchase from our online shop, submitting a request to the Ask a Librarian service, responding to a feedback form, or participating in blog discussions. If you choose to use those features, we will inform you what information is required, and we will only use that information for its stated purpose. If you provide the information requested, then you consent to our using the information for the stated purpose. If you do not provide the information then some website features may be unavailable. We may disclose your information to contractors and associates to carry out your requests (for example, to complete a pay.gov transaction).
+
+How We Store your Personal Information
+We have safeguards in place to protect the information we store, including only allowing access by designated staff and contractors that require access in order to perform their duties.
+
+Children’s Privacy
+Part of our mission is reaching out to children in creative and educationally beneficial ways, while still protecting their privacy.
+
+Some websites designed especially for children may include games or activities that require personally identifiable information. We do not use the information for any purpose other than the game or activity.
+
+If we become aware that a child under the age of 13 has made a request for information (such as through the Ask a Librarian service), we will respond to the request and then delete any identifying information. Similarly, if we learn that a child under 13 has posted personally identifiable information on any of our websites, we will delete the information.
+
+We will disclose information about a child under the age of 13 if it is necessary to protect the child, the website itself, or to respond to a law enforcement inquiry or court order.
+
+We take children’s privacy seriously, and encourage parents to contact us with any questions or concerns via the form at https://ask.loc.gov/comments-feedback/. Similarly, parents who would like to notify us of personally identifiable information collected from a child under the age of 13 that should be deleted should contact us using this form.
+
+Third-Party Interactions
+We work with third-party applications that are not exclusively operated or controlled by the Library of Congress to provide a better web presentation and user experience. For example, we may use third-party applications for purposes such as fulfilling online orders, emailing updates, or collecting voluntarily-provided feedback.
+
+The Library maintains a variety of social media accounts (e.g., on Twitter, Facebook, and YouTube). Interaction with the Library on those platforms is governed by those platforms’ specific privacy policies. The Library also works with third parties on collaborative projects. Some web materials developed as a result of collaborations between the Library and a third party may be hosted on third-party sites. When that is the case, information on the third-party site may be subject to the site’s privacy policy. On its websites, the Library may provide links to external websites as a convenience and for informational purposes only; links do not constitute an endorsement or an approval by the Library of Congress of any of the products, services or opinions of the corporation or organization or individual. The Library of Congress bears no responsibility for the accuracy, legality or content of the external site or for that of subsequent links. Contact the external site for answers to questions regarding its content.
+
+A list of third-party programs and applications commonly used to interact with the Library’s systems can be found here: https://www.loc.gov/legal/third-party-websites-services-and-applications/.
+
+Other than these exceptions, and for authorized government law enforcement activities, we do not provide personal information to outside organizations without first obtaining your consent. The Library respects your personal data and takes care to maintain its confidentiality. If you have any questions about the Library’s Website Privacy Policy, please email privacy@loc.gov.
+
+About Our Web Surveys
+We use various types of online forms, including third-party forms and surveys, to collect opinions and feedback on a variety of topics. Submitting information to web surveys is voluntary.
+
+We appreciate all comments and feedback from our users.
+
+II. Privacy in Mobile Applications
+ 
+We receive aggregate anonymized data from the platforms that distribute our mobile applications (currently Apple’s App Store, the Google Play Store and Amazon), such as the number times an app was downloaded, the app version used, impressions and page views, and mobile set-up information (e.g., device model and operating system, app version, user country, state and city, language, and mobile carrier). Some Library apps may also contain additional commercial web analytics software to report and analyze anonymized unique user data to improve our apps by capturing app launches, session length, mobile OS version, carrier and location (Country, Region/State, and City). You may opt out of sharing this data by changing the settings within the app.
+
+ 
+If we collect any of your voluntarily provided personal information in an app, for example in the BARD app for borrowing accessible books or for the personalization of a Library event/conference/seminar schedule, we will only use it for the purposes you approve. We sometimes work with third-party software platforms that are not exclusively operated or controlled by the Library of Congress to create our mobile applications. In these cases a link to the third party privacy policy will be found within the application.
+
+Some Library apps may allow users to opt in to receive “push notification” messages and a notification provider service will push the notifications to your mobile device. To make sure messages reach the correct devices, our third party provider relies on a device token unique to the mobile device. A device token is a unique identifier issued to the app by the operating system of the mobile device. The app and tokens do not reveal a user’s identity, unique device ID, or contact information to us. If, at any time, you wish to stop receiving push notifications, adjust your phone settings.
+
+III. Privacy in Online Collections Materials
+The Library of Congress is the largest library in the world, with hundreds of millions of items in its collections. Many of these items are made available digitally to users on our websites. Because of the wide breadth and variety of our collections, it is possible that some online collections items contain personally identifiable information. Regardless of the format in which our collections materials are presented to users, all users are responsible for complying with all privacy and publicity rights, rules, and applicable laws when accessing and utilizing the collections.
+
+Privacy and publicity rights are separate and distinct from copyright. Copyright is protected by federal law under the United States Copyright Act (Title 17 of the United States Code). Privacy laws may be governed by state and local laws, or by the laws of the locality from which you are accessing our websites. If you use materials from our collections, regardless of format, or from our websites, then you are responsible for determining whether there are privacy and publicity rights implications. Factors to consider include the type of materials and their intended use.
+
+If you have a question about personal information in the collection, contact privacy@loc.gov. If you have questions about PII in the Library’s catalog records, please contact policy@loc.gov.
+
+Last updated: February 7, 2020

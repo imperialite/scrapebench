@@ -1,0 +1,517 @@
+Uber Developers
+Three lines
+Uber
+Developers
+Docs
+Search
+Sign in
+Terms of Use
+Application Programming Interface Terms of Use
+(Last Updated: January 2021)
+If you are located in, or accessing Uber’s APIs from, Europe please click
+here
+.
+¶
+I. Contractual Relationship; Scope
+These Application Programming Interface Terms of Use (“Terms of Use”)
+govern your access and use of the APIs provided by Uber Technologies,
+Inc. its subsidiaries and affiliates (collectively, “Uber”). The guides,
+materials, references, software and other applications or services
+provided by Uber in association with the access and use of the Uber
+APIs, together with the Uber APIs themselves, are collectively referred
+to as a suite of “Uber API Services”.
+By accessing or using the Uber API Services you confirm your agreement
+to be bound by these Terms of Use as well as Uber’s
+Community Guidelines
+.
+The Uber APIs may also be subject to
+any other agreements you have with Uber, including those related to your
+use of business-specific APIs (“Supplemental Agreements”). Additionally,
+if you use the Uber APIs as an interface to, or in conjunction with,
+other Uber products and services, then the terms of those products and
+services (“Uber Product Terms”) also apply to you and your end users. If
+there is a conflict between these Terms of Use and the terms of a
+Supplemental Agreement governing your use of an Uber API or Uber Product
+Terms governing your use of Uber’s products and services, those terms
+will control with respect to that conflict.
+Collectively, we refer to these Terms of Use, the Community Guidelines,
+any additional applicable terms (including terms in any Supplemental
+Agreements and any Uber Product Terms) and any other applicable
+policies and guidelines as the “Terms.”
+PLEASE READ THESE TERMS OF USE CAREFULLY, AS THEY CONSTITUTE A LEGAL
+AGREEMENT BETWEEN YOU AND UBER.
+¶
+II. Access to APIs
+¶
+A. General.
+You may not use the Uber API Services if you are not of legal age to
+form a binding contract with Uber, you determine that you are unable to
+comply with these Terms of Use or you are prohibited by applicable law
+from accessing or using the Uber API Services.
+¶
+B. Entity Access.
+If you are accessing Uber API Services on behalf of a company, entity,
+or organization (collectively “entity”), then you represent and warrant
+that you: (a) are an authorized representative of that entity with the
+authority to bind such entity to the Terms; (b) have read and understand
+the Terms; and (c) agree to these Terms of Use on behalf of such entity.
+All references to “you” in these Terms of Use shall also refer to that
+entity.
+¶
+C. Registration & Credentials.
+To access the Uber API Services, you may be required to register. After
+an approved registration, you will be issued certain credentials, which
+may be required to access the Uber APIs. You may not make credentials
+available to others including by embedding them in open source projects
+and only you may access the Uber API Services with the credentials
+provided to you. You will not misrepresent or mask your identity or your
+credentials when accessing or using the Uber API Services.
+¶
+D. Access Revocation.
+We reserve the right to revoke your access to the Uber API Services
+without prior notice if we determine your use violates the Terms or is
+otherwise objectionable as determined in Uber’s sole discretion.
+¶
+III. Use of APIs
+¶
+A. Your End Users.
+If you offer your application for use by others outside of your entity,
+you must maintain a user agreement and a legally compliant privacy
+policy for your application that is prominently identified or located
+where users download or access your application. You must immediately
+notify us in writing of any breach of your user agreement or privacy
+policy that impacts, or may impact, customers or users of Uber’s
+products or services.
+¶
+B. Compliance.
+Access, implementation and use of the Uber API Services must be in
+compliance with all applicable law, regulation, third party rights
+(including, without limitation, laws regarding the import or export of
+data or software, privacy, and local laws) as well as Uber’s
+instructions. You will only use the Uber API Services in connection with
+legally permissible activities and as described in the Terms.
+Promptly upon request, you will be required to certify certain aspects
+of your compliance with these Terms, including without limitation, your
+compliance with the above paragraph, and your security and data use
+practices, including the details of any privacy or security incidents
+potentially involving data of Uber users. We will provide the form of
+certification which must be signed by an authorized officer of your
+entity.
+¶
+C. API Limitations.
+Uber sets and enforces limitations on the use of Uber APIs. You will not
+circumvent, or attempt to circumvent, such limitations as they apply to
+each Uber API or as otherwise set forth in the Terms, except as approved
+in writing by Uber. Uber may limit the number or nature of network calls
+that you or your application may make. Uber may change such usage limits
+at any time with or without notice and may use any means to enforce its
+usage limitations or prevent overuse of the Uber APIs.
+¶
+D. Open Source.
+To facilitate your Uber API integration, Uber may make certain Software
+Development Kit(s) (“SDK(s)”) and/or libraries available to you under a
+separate open source license. You agree that any Uber API integration
+facilitated with such open source SDK(s) and/or libraries remains
+subject to the Terms.
+¶
+E. API Monitoring; Audit; Review.
+We have the right to inspect, monitor and audit any records or activity
+related to your use of the Uber API Services, to among other things,
+improve the Uber API Services and identify security issues, or ensure
+compliance with the Terms. You will cooperate with audit requests by
+providing Uber access to relevant knowledgeable personnel, physical
+premises, documentation, infrastructure, and application software.
+We reserve the sole right to determine whether or not your use of the
+Uber API Services is acceptable including the manner in which the Uber
+APIs are integrated into Your Products (defined below). Uber may
+collect and use usage data and information related to your use of the
+Uber API Services.
+You agree to reimburse us for the costs and expenses of any audit that
+reveals a material breach of these Terms of Use related to your use of
+the Uber API Services. You agree to promptly address and correct all
+deficiencies identified in any such audit.
+Uber’s review, testing, or approval of your products or services does
+not constitute any representation or acknowledgement by Uber that Your
+Products and/or any content therein comply with the Terms, any laws,
+rules, or regulations, nor does it constitute any acceptance by Uber of
+any responsibility or liability in connection such products or services,
+or any content therein.
+¶
+F. Revocation.
+If you do not comply with the Terms, or fail to timely evidence such
+compliance or if we believe that you have attempted to exceed or
+circumvent any of the prohibited uses or the additional requirements or
+limitations described in the Terms, your ability to use the Uber API
+Services may be temporarily or permanently blocked or revoked.
+¶
+G. Certain Prohibited Uses.
+Unless permitted by applicable law or any Supplemental Agreement(s)
+between you and Uber, you will not, and will not direct, encourage, or
+assist any other party to: (a) license, sublicense, sell, resell,
+transfer, assign, distribute or otherwise provide or make available to
+any other party the Uber API Services; (b) modify or make derivative
+works based upon the Uber API Services; (c) improperly use the Uber
+API Services, including (1) creating Internet “links” to any part of
+the Uber API Services, “framing” or “mirroring” any part of the Uber
+API Services on any other websites or systems, or “scraping” or
+otherwise improperly obtaining data from the Uber APIs,
+(2) transmitting any viruses or other code that may damage,
+detrimentally interfere with, surreptitiously intercept or expropriate
+any system or data; (d) reverse engineer, decompile, modify, or
+disassemble the Uber API Services; (e) send spam or otherwise
+duplicative or unsolicited messages with the Uber APIs; or (f) use the
+Uber APIs to (1) display any offensive content or any content for which
+you do not have the right to share with Uber or to display or (2)
+distribute unsolicited advertising or promotions, or (3) engage in
+fraudulent or unauthorized activity including phishing, pharming,
+spidering, harvesting or other similar activities.
+In addition, you shall not, and shall not direct, encourage, or assist
+any other party to, access or use the Uber API Services to: (a) design
+or develop a competitive or substantially similar product or service;
+(b) copy or extract any features or functionality thereof; (c) launch
+or cause to be launched on or in connection with the Uber API Services a
+malicious automated program or script, including web spiders, crawlers,
+robots, indexers, bots, viruses or worms, or any program intended to
+overburden or hinder the operation and/or performance of the Uber API
+Services; (d) attempt to gain unauthorized access to the Uber API
+Services or its related systems or networks; (e) include any underlying
+Uber platform or product with competitors in any aggregated view i.e.
+webpage, app, software, etc.; (f) aggregate Uber’s data with
+competitors’ data; or (g) parse or scrape any of Uber’s data; in each
+case other than as explicitly permitted by Uber in writing. You will not
+share with a third party (or enable a third party to use) any
+operational, technical or other data obtained through the use of the
+Uber API Services in any manner that is competitive to Uber, including,
+without limitation, in connection with any application, website or other
+product or service that also includes, features, endorses, or otherwise
+supports in any way a third party that provides services competitive to
+Uber’s products and services.
+¶
+IV. Ownership; License
+¶
+A. Ownership.
+Uber owns all right, title and interest, including without limitation,
+all intellectual property rights and other rights in and to its software
+applications (including but not limited to the Uber API Services), any
+intellectual property rights used in connection with the software
+applications, and other proprietary technology, including any data
+structures therein, accompanying documentation, and any updates or
+revisions to the foregoing. All rights not specifically conveyed are
+retained by Uber.
+You agree that you will not use Uber’s trademarks, service marks, or
+trade dress or any similar names, marks, or trade dress
+(“Uber’s Marks”) without express, written permission from Uber.
+This prohibition on using Uber’s Marks includes, but is not limited to,
+use in domain names, on websites or social media accounts, or as the
+names or titles of software applications or software features or
+functions.
+¶
+B. Licenses.
+Subject to your compliance with the Terms, Uber hereby grants you a
+limited, revocable, non-exclusive, non-transferable, non-assignable,
+non-sublicensable license to access and use the Uber API Services for
+the sole purposes of developing, testing, using, and maintaining an
+integration of your application with the Uber API Services, and to
+refer to Uber for the sole purpose of identifying Uber as the source of
+the Uber API Services.
+Uber may produce and distribute incidental depictions, including
+screenshots, video, or other content from your API client, and may use
+your company or product name, trademarks, and trade dress in the course
+of Uber’s worldwide promotion, marketing, or demonstration of the Uber
+API Services you are using; you hereby grant Uber a worldwide,
+perpetual, irrevocable, transferable, royalty-free license, with the
+right to sublicense, to use, copy, modify, create derivative works of,
+distribute, publicly display, publicly perform, and otherwise exploit
+in any manner such incidental depictions, company names, product names,
+trademarks, and trade dress for the aforementioned purposes without
+further notice to or consent from you.
+Subject to the rights granted to Uber and limitations herein, you
+reserve and retain sole and exclusive ownership of all right, title, and
+interest in, to, and under (a) your extensions and applications, and (b)
+all modifications, corrections, repairs, translations, enhancements, and
+other derivative works and improvements of your extensions and
+applications, including all intellectual property rights arising
+therefrom or relating thereto (collectively, (a) and (b) are “Your
+Products”), to the extent Your Products do not infringe any of Uber’s
+intellectual property rights. You are solely responsible for all costs
+incurred by you in the creation and maintenance of Your Products.
+¶
+V. Content
+You are solely responsible for selecting all content made available
+through and contained in Your Products and for ensuring that such
+content complies with the Terms and any other requirements applicable to
+such content. You are fully responsible for any information you provide
+to Uber via the Uber APIs.
+The Uber API Services may contain content owned by a third party. This
+content is the sole responsibility of the third party that makes it
+available. Additionally, content accessible through Uber APIs and Uber
+products may be subject to the intellectual property rights of third
+parties. User-generated content obtained by Uber will be governed by
+Uber’s
+user generated content
+policy
+.
+¶
+VI. Feedback; Attribution
+¶
+A. Feedback.
+If you provide feedback or suggestions about Uber API Services, such
+information may be used for any purpose without obligation to you.
+Any feedback or suggestions provided by you will be governed by
+Uber’s Feedback Policy
+.
+¶
+B. Attribution.
+Except for and subject to the license granted in Section IV. B. of this
+agreement and except where otherwise expressly stated, neither party
+grants the other party any right, title, or interest in or to the other
+party’s trade names, trademarks, service marks, logos, domain names,
+and other distinctive brand features (“Brand Attributes”).  You shall
+not make any statement regarding your use of the Uber API Services
+which disparages Uber or its business partners.
+The documentation for the Uber API you use may include guidelines for
+providing attribution to Uber. You agree to provide any attribution in
+accordance with the guidelines and as further described
+in our Design
+Guidelines
+,
+which may be updated from time to time. You can use these resources but
+you must not make any changes or modifications to them.
+¶
+VII. Privacy
+¶
+A. Uber Data.
+Except for third party content described herein, “Uber Data” includes
+all data received from Uber through an Uber API. Where such data
+includes non-public content relating to a user, such content must not be
+exposed to other users or to third parties without proper consent from
+that user.
+¶
+B. Personal Information.
+If your use of the Uber API Services or access to Uber Data requires or
+will likely result in the provision of personal information directly to
+Uber, you agree to adequately inform and obtain all necessary consents
+and authorizations from the applicable users to provide such personal
+information to Uber and retain written records of such consents. Uber
+will treat personal information obtained from you through your use of
+Uber APIs in accordance with the applicable privacy and data protection
+laws and its posted privacy notice.
+¶
+C. Confidentiality.
+You may be given access to information that is confidential to Uber
+(“Uber Confidential Information”), which may include your credentials
+as well as any materials, communications or other information that is
+marked confidential or that would reasonably be considered confidential
+under the circumstances. You agree to use Uber Confidential Information
+only for the purpose of using the Uber API Services in accordance with
+the Terms, and, unless compelled by a court of applicable jurisdiction
+(and you gave Uber written notice and a reasonable chance to defend its
+interests prior to such court compelled disclosure), you agree to not
+disclose any Uber Confidential Information to any third party without
+Uber’s prior written consent.
+Uber Confidential Information does not include information that you
+independently developed, that was rightfully given to you by a third
+party without any confidentiality obligation, or that becomes public
+through no fault of your own or any party under your control.
+¶
+D. Security.
+You agree to implement and maintain appropriate technical, physical, and
+organizational measures to protect Uber Data and Uber Confidential
+Information against unauthorized or unlawful processing and against
+unauthorized loss, destruction, damage, alteration, or disclosure in the
+same manner that you would protect your own confidential and proprietary
+information but in no event using less than a reasonable degree of care.
+Uber Confidential Information does not include information that you
+independently developed, that was rightfully given to you by a third
+party without any confidentiality obligation, or that becomes public
+through no fault of your own or any party under your control.
+¶
+VIII. Term; Termination and Survival
+¶
+A. Term; Termination.
+These Terms of Use will apply for as long as you access and use the Uber
+API Services. You may terminate these Terms of Use at any time by giving
+us notice and ceasing to access and use the Uber API Services. Uber may
+terminate these Terms of Use at any time, including if it determines
+that you have violated or attempted to violate the Terms. These Terms of
+Use will terminate automatically in the event the Uber APIs you use are
+no longer made available to you, if your Supplemental Agreement with
+Uber is terminated or expires, or if any representations you make herein
+are deemed or found to be untrue.
+Upon termination of these Terms of Use, you will immediately stop using
+the Uber APIs, cease all use of the Uber intellectual property and
+delete any cached or stored content and any Uber Data (including any
+Uber Confidential Information). Uber reserves the right to contact your
+end users to notify them of the termination of your right to use the
+Uber APIs and the Uber API Services.
+¶
+B. Survival.
+The provisions set forth in these Terms of Use that, by their nature,
+should survive termination or expiration of these Terms of Use, will
+survive any expiration or termination of these Terms of Use.
+¶
+IX. Relationship of Parties
+The relationship of the parties is that of independent contractors.
+These Terms of Use do not create a partnership, joint venture,
+franchisee or other similar relationship. Neither party will make a
+public statement that suggests partnership with or sponsorship or
+endorsement by the other party without such party’s prior written
+approval.
+The parties’ obligations under these Terms of Use are non-exclusive.
+Unless otherwise agreed upon separately in writing, neither party is
+precluded from marketing, licensing, positioning, providing and
+distributing its own products and services through other alliances,
+programs or partners. Nothing in these Terms of Use prohibits or
+restricts either party’s right to develop, make, use, market, license,
+position, provide and distribute products or services similar to or
+competitive with those of the other party as long as it does not breach,
+or attempt to breach, these Terms of Use.
+¶
+X. Representations; Indemnification; Disclaimer; Limitation of Liability
+¶
+A. Representations.
+You hereby represent and warrant that you have all authority necessary
+to bind yourself (including your entity) to these Terms of Use and that
+you are not prohibited from accessing or using the Uber API Services in
+the country in which you reside. If, at any time, you do not have
+authority, are legally prohibited, or do not agree to these Terms of
+Use, then these Terms of Use are automatically terminated, and you must
+discontinue all access and use of the Uber API Services immediately.
+You further represent and warrant that (a) you have the right to
+distribute, or otherwise make available Your Products to your end users,
+(b) such products comply with all applicable local, state, federal and
+international laws and regulations as well as applicable terms of
+service and privacy notices and (c) Your Products do not and will not
+infringe the rights of any third party.
+¶
+B. Indemnification.
+You agree to indemnify and hold Uber and its officers, directors,
+employees, and agents harmless from and against any and all claims,
+demands, losses, liabilities, and expenses (including legal fees),
+arising out of or in connection with: (a) your use of the Uber API
+Services or information obtained through your use of the Uber API
+Services; (b) your breach or violation of the Terms or (c) your
+violation of the rights of any third party, including with respect to
+any third party content.
+¶
+C. Disclaimer.
+THE UBER API SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE”. UBER
+DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES, EXPRESS, IMPLIED, OR
+STATUTORY, NOT EXPRESSLY SET OUT IN THESE TERMS OF USE, INCLUDING THE
+IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+AND NON-INFRINGEMENT. IN ADDITION, UBER MAKES NO REPRESENTATION,
+WARRANTY, OR GUARANTEE REGARDING THE RELIABILITY, TIMELINESS, QUALITY,
+SUITABILITY, OR AVAILABILITY OF THE UBER API SERVICES OR ANY INFORMATION
+REQUESTED OR OBTAINED THROUGH THE USE OF THE UBER API SERVICES, OR THAT
+SUCH SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE. YOU AGREE THAT THE
+ENTIRE RISK ARISING OUT OF YOUR USE OF THE UBER API SERVICES, AND ANY
+INFORMATION REQUESTED OR OBTAINED IN CONNECTION THEREWITH, REMAINS
+SOLELY WITH YOU, TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW.
+¶
+D. Limitations.
+WHERE PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL UBER OR ANY OF ITS
+SERVICE PROVIDERS, SUPPLIERS OR REPRESENTATIVES (INCLUDING OFFICERS OR
+DIRECTORS) BE LIABLE TO YOU OR ANY THIRD PARTY UNDER ANY LEGAL OR
+EQUITABLE THEORY, INCLUDING BREACH OF CONTRACT, TORT (INCLUDING
+NEGLIGENCE), STRICT LIABILITY AND OTHERWISE, FOR ANY: (A) LOSS OF
+PRODUCTION, USE, BUSINESS, REVENUE OR PROFIT, OR LOSS OF DATA OR
+DIMINUTION IN VALUE, OR (B) CONSEQUENTIAL, INCIDENTAL, INDIRECT,
+EXEMPLARY, SPECIAL, ENHANCED OR PUNITIVE DAMAGES, ARISING FROM YOUR USE
+OF THE UBER API SERVICES, REGARDLESS OF WHETHER YOU OR SUCH PERSONS WERE
+ADVISED OF THE POSSIBILITY OF SUCH LOSSES OR DAMAGES OR SUCH LOSSES OR
+DAMAGES WERE OTHERWISE FORESEEABLE. THE FOREGOING LIMITATIONS WILL
+SURVIVE AND APPLY EVEN IF ANY LIMITED REMEDY SPECIFIED IN THESE TERMS OF
+USE IS FOUND TO HAVE FAILED ITS ESSENTIAL PURPOSE. UBER’S AGGREGATE
+LIABILITY UNDER THESE TERMS OF USE WILL NOT EXCEED ONE HUNDRED DOLLARS
+($100).
+¶
+XI. Support and Maintenance
+Uber may provide documentation, functional and technical design
+documents, and other documents that may be relevant or useful in using
+Uber API Services. Uber has no obligation to provide any maintenance,
+support, or training for set-up or use of any Uber API Services.
+¶
+XII. Modifications
+Uber in its sole discretion may modify, update or discontinue the Uber
+API Services. Uber may also impose additional limits on certain features
+and services or restrict your access to parts or all of the Uber API
+Services without prior notice or liability. While we can provide no
+guarantee, we will try to ensure that future versions of the Uber APIs
+are backwards compatible to the immediately preceding version.
+Uber may amend these Terms of Use from time to time. Amendments will be
+effective upon Uber’s posting of such updated Terms of Use at this
+location or in the amended policies or documentation related to the Uber
+APIs. Your continued access or use of the Uber API Services after such
+posting confirms your consent to be bound by these Terms of Use, as
+amended.
+¶
+XIII. Miscellaneous
+These Terms of Use are governed by the laws of the State of Delaware,
+without regard to conflicts of law principles, and all claims arising
+out of or relating to these Terms of Use will be brought exclusively in
+the federal or state courts of New York County, New York, USA, and you
+consent to jurisdiction in those courts. These Terms of Use were drafted
+in English and the English-language version shall control in the event
+of a conflict with any translated version. You may not assign any of the
+rights or obligations under these Terms of Use, by operation of law or
+otherwise, without the prior written consent of Uber. Any attempted
+assignment in violation of this paragraph is void. Uber may exercise its
+rights herein in its sole discretion and without prior notice. The Terms
+constitute the entire agreement among the parties with respect to the
+subject matter and supersede and merge all prior proposals,
+understandings and contemporaneous communications. Any delay by Uber in
+enforcing any of its rights under these Terms of Use, including with
+regard to your non-compliance, shall not constitute a waiver of Uber’s
+rights to future enforcement of its rights under these Terms of Use. If
+any provision of these Terms of Use are determined to be invalid or
+unenforceable by a court of competent jurisdiction, that provision will
+be restated and enforced to the maximum extent permissible and the
+remaining provisions of these Terms of Use will remain in full force and
+effect.
+I. Contractual Relationship; Scope
+II. Access to APIs
+A. General.
+B. Entity Access.
+C. Registration & Credentials.
+D. Access Revocation.
+III. Use of APIs
+A. Your End Users.
+B. Compliance.
+C. API Limitations.
+D. Open Source.
+E. API Monitoring; Audit; Review.
+F. Revocation.
+G. Certain Prohibited Uses.
+IV. Ownership; License
+A. Ownership.
+B. Licenses.
+V. Content
+VI. Feedback; Attribution
+A. Feedback.
+B. Attribution.
+VII. Privacy
+A. Uber Data.
+B. Personal Information.
+C. Confidentiality.
+D. Security.
+VIII. Term; Termination and Survival
+A. Term; Termination.
+B. Survival.
+IX. Relationship of Parties
+X. Representations; Indemnification; Disclaimer; Limitation of Liability
+A. Representations.
+B. Indemnification.
+C. Disclaimer.
+D. Limitations.
+XI. Support and Maintenance
+XII. Modifications
+XIII. Miscellaneous
+Uber
+Developers
+Docs
+©
+2026
+Uber Technologies Inc.
+Privacy
+Accessibility
+Terms

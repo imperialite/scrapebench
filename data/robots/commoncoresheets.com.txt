@@ -1,0 +1,15 @@
+# robots.txt for commoncoresheets.com
+User-agent: *
+Disallow: /code_worksheets/
+Disallow: /mpdf/
+Disallow: /SVGgraph/
+Disallow: /code_site/
+Disallow: /page_files/admin/
+
+# Block homepage with query string variants
+Disallow: /*?C=
+Disallow: /*?ref=
+Disallow: /*?tab=
+
+# Sitemap location
+Sitemap: https://www.commoncoresheets.com/sitemap.xml

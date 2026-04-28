@@ -1,0 +1,46 @@
+# See http://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
+#
+# To ban all spiders from the entire site uncomment the next two lines:
+# User-agent: *
+# Disallow: /
+
+user-agent: *
+Disallow: /*?*preview=true
+Disallow: /offers/bp
+Disallow: /arizona-des-identity-proofing-english
+Disallow: /arizona-des-gsi-identity-proofing-in-spanish
+Disallow: /arizona-des-ui-identity-proofing
+Disallow: /arizona-des-ui-spanish-identity-proofing
+Disallow: /arizona-des-identity-proofing-2
+Disallow: /arizona-pua-identity-proofing
+Disallow: /california-edd-identity-proofing
+Disallow: /california-edd-identity-proofing
+Disallow: /california-edd-sdi-providers
+Disallow: /california-edd-sdi-claimants
+Disallow: /california-edd-sdi-spanish-claimantsDisallow: /colorado-dle-identity-proofing
+Disallow: /colorado-dle-identity-proofing-spanish
+Disallow: /esd-washington-state-identity-proofing
+Disallow: /esd-washington-state-identity-proofing-spanish
+Disallow: /florida-deo-reemployment-florida-deo-reemployment
+Disallow: /myflorida-connect-identity-proofing
+Disallow: /georgia-dol-identity-proofing
+Disallow: /idaho-labor-spanish
+Disallow: /idaho-labor
+Disallow: /indiana-dwd-identity-proofing
+Disallow: /indiana-dwd-identity-proofing1
+Disallow: /job-service-north-dakota-identity-proofing
+Disallow: /kentucky-office-of-unemployment-insurance-kentucky-oui
+Disallow: /ma-dua
+Disallow: /massachusetts-eolwd-identity-proofing
+Disallow: /montana-dol-identity-proofing
+Disallow: /nevada-detr-identity-proofing
+Disallow: /new-york-dol-identity-proofing
+Disallow: /north-carolina-identity-proofing
+Disallow: /oregon-employment-department-identity-proofing
+Disallow: /oregon-employment-department-identity-proofing-spanish
+Disallow: /pennsylvania-pua-identity-proofing
+Disallow: /texas-twc-identity-proofing
+Disallow: /texas-twc-identity-proofing-spanish
+Disallow: /virginia-employment-commission
+Disallow: /verification/unemployment/*
+Disallow: /verification/sdi/*

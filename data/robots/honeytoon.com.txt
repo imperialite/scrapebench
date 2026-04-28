@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Disallow: */account
+Disallow: */appl-connect
+Disallow: */connect
+Disallow: */search?
+Disallow: */adltcreators?
+Disallow: */mylibrary
+Disallow: */cdn-cgi/
+
+Sitemap: https://honeytoon.com/sitemap.xml

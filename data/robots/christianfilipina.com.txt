@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /easylogin.php
+Disallow: /temp
+Disallow: /tmp
+Disallow: /images
+Disallow: /admin
+Disallow: /ajax
+Disallow: /forum
+
+Sitemap: https://www.christianfilipina.com/sitemap-xml.php

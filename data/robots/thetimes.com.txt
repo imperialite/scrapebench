@@ -1,0 +1,95 @@
+# This is the robots.txt file for thetimes.com
+# The Times does not permit the unlicensed use of our content for large language models.
+# Times Media Limited’s Terms of Use may be found at # https://www.thetimes.com/static/terms-and-conditions
+# Contact enquiries@newslicensing.com for assistances
+
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://www.thetimes.com/sitemaps/news
+Sitemap: https://www.thetimes.com/sitemaps/articles/2025
+Sitemap: https://www.thetimes.com/sitemaps/articles
+Sitemap: https://www.thetimes.com/sitemaps/sitemap.xml
+Sitemap: https://www.thetimes.com/subscribe/sitemap_index.xml
+Sitemap: https://www.thetimes.com/static/sitemap_index.xml
+
+
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Googlebot-Video
+User-agent: Googlebot-News
+User-agent: Google-InspectionTool
+User-agent: GoogleOther
+User-agent: APIs-Google
+User-agent: Mediapartners-Google
+User-agent: DuckDuckBot
+User-agent: Slurp
+User-agent: Twitterbot
+User-agent: Bingbot
+User-agent: adidxbot
+User-agent: MicrosoftPreview
+User-agent: Applebot
+User-agent: AdsBot-Google
+User-agent: AmazonAdBot
+User-agent: facebookexternalhit
+User-agent: Yahoo Ad Monitoring
+User-agent: parse.ly scraper
+User-agent: Screaming Frog SEO Spider
+User-agent: SemrushBot
+User-agent: Botify
+User-agent: OnCrawl
+User-agent: Chrome-Lighthouse
+User-agent: Slackbot-LinkExpanding
+User-agent: Slack-ImgProxy
+User-agent: Slackbot
+User-agent: Snap URL Preview Service
+User-agent: proximic
+User-agent: GumGum-Bot
+User-agent: TTD-Content
+User-agent: Pubmatic 
+User-agent: ias_crawler
+User-agent: outbrain
+User-agent: Leikibot
+User-agent: weborama-fetcher
+User-agent: AHC/2.1
+User-agent: SirdataBot
+User-agent: peer39_crawler/1.0
+User-agent: EchoboxBot/1.0
+User-agent: CriteoBot/0.1
+User-agent: AdDefend Site Context Crawler/1.0
+User-agent: SmartologyBot
+User-agent: Dianomi
+User-agent: ChatGPT-User
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+
+
+
+Allow: /
+Allow: /ads.txt
+
+Disallow: /api/
+Disallow: /archive/page/
+Disallow: /archive/article/
+Disallow: /article/category/
+Disallow: /interactives/
+Disallow: /my-articles
+Disallow: /my-articles/
+Disallow: /player/brightcove/
+Disallow: /topic/bbc
+Disallow: /tto/archive/article/
+Disallow: /tto/archive/find/
+Disallow: /tto/archive/frame/article/
+Disallow: /tto/archive/page/
+Disallow: /*?*shareToken=*
+Disallow: /*?*region=*
+Disallow: /*?s=*
+Disallow: /*&s=*
+Disallow: /?_ga
+Disallow: /?ExternalDataReference
+Disallow: /search?*
+Disallow: /search/browse-by-day*
+Disallow: /article/this-article-has-been-deleted*
+Disallow: /article/this-article-has-been-removed*
+Disallow: /article/this-article-is-no-longer-available*

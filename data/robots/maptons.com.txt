@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /lang/
+Disallow: /terms
+Disallow: /privacy
+Disallow: /contacts
+Disallow: /redirect
+Disallow: /tiny.php
+Disallow: /small.php
+Disallow: /normal.php
+Host: https://ru.maptons.com
+Sitemap: https://gb.maptons.com/sitemap.xml

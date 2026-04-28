@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /sell-car$
+Allow: /sell-car/$
+Disallow: /sell-car/
+Disallow: /widgets$
+Disallow: /widgets/
+Disallow: /dealers$
+Disallow: /dealers/
+
+Sitemap: https://carsandbids.com/cab-sitemap/xml_sitemap.xml

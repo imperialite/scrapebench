@@ -1,0 +1,244 @@
+Terms of Use
+The Yellow Pages directory on the internet is created by DTM Deutsche Tele Medien GmbH and the Yellow Pages publishers.
+
+The directory allows users to find telephone numbers and other information that has been authorized for publication. The use of the retrieved data is permitted only for this purpose.
+
+Use or processing for other purposes is only permitted under the strict conditions of German data protection laws, in particular the Federal Data Protection Act and the General Data Protection Regulation.
+
+Any use or exploitation for purposes other than those intended is prohibited.
+
+In particular, the complete, partial or excerpted use of the Yellow Pages directory on the Internet for commercial address processing, commercial information provision or as a basis or aid for the compilation or supplementation of participant, address or other directories in any media form (in print form, electronically, on CD-ROM etc.) as well as the reading of data on the Internet for the aforementioned purposes and for purposes of other commercial use is not permitted and will be prosecuted by the providers according to applicable law by exhausting all legal remedies.
+
+No guarantee is given for the availability of the information system or for the accuracy and completeness of the entries.
+
+German law applies.
+
+General terms of use for the Yellow Pages referral service
+General information and scope
+These are the General Terms and Conditions of Use for the brokerage service of pdm solutions GmbH (hereinafter also referred to as "YELLOW PAGES"), Boxhagener Straße 78, 10245 Berlin. Our contact details can be found in our  legal notice .
+
+These terms of use apply exclusively to the brokerage service offered by pdm solutions GmbH (hereinafter referred to as "brokerage service") and apply both to users of the GELBE SÄTEN website who request offers via the brokerage service (here: "end users") and to businesses that submit an offer in response to a request for an offer (here: "service providers").
+
+The intermediary service is an internet-based system through which end users have the opportunity to request offers for specific services (e.g., craftsmen's services) from service providers by providing the required data (this here: "request").
+
+YELLOW PAGES acts solely as an intermediary for inquiries within the scope of providing its service. If an end user wishes to commission a service provider, a contract is formed exclusively between the end user and the respective service provider (hereinafter referred to as the "Order"). Submitting an inquiry and/or sending an expression of interest, a cost estimate, or a quotation (hereinafter referred to as the "Provider Response") is non-binding and does not constitute a legally binding offer to conclude an Order. If an Order is concluded between the end user and the service provider, YELLOW PAGES becomes neither a party to the Order nor does YELLOW PAGES have any legal obligations in connection with the conclusion or proper fulfillment of the Order. 
+
+Yellow Pages reserves the right to amend these "General Terms of Use for the Yellow Pages Referral Service" (hereinafter: "Terms of Use") at any time and without giving reasons, but always only with effect for future transactions. For transactions carried out before such an amendment, the Terms of Use valid at that time shall apply. 
+
+The use of the brokerage service is free of charge for both the end user and the service provider. Any costs incurred due to the use of communication media required for participation in the service (e.g., internet provider) are to be borne by the end user or service provider.
+
+The contract between GELBE SÄTEN and the end user for the use of the brokerage service is concluded when the end user submits a request within the brokerage service by clicking the "Submit" button. No declaration of acceptance by GELBE SÄTEN is required.
+
+The contract between YELLOW PAGES and the service provider for the use of the brokerage service is concluded when the service provider, after receiving an email from YELLOW PAGES informing them of a request concerning them, submits a response by clicking the "Submit offer. I am interested" button. No acceptance declaration from YELLOW PAGES is required.
+
+The contract language is German. The contract text can be saved by saving or printing these terms of use.
+
+Use of the offer service
+The end user submits their quote request to the brokerage service tool, providing the requested data. The end user must only provide current, truthful, and complete information.
+
+After entering this data and confirming the terms of use, the end user receives an email regarding their quote request, confirming receipt of the declaration.
+
+Simultaneously, the end user's quote request is forwarded to selected service providers from the www.gelbeseiten.de database. These providers then have the option to respond to the quote request or decline it. The provider responses are then sent to the end user via the referral service in the form of a list of quotes. If no responses are received, the end user receives a rejection. If the end user accepts one of the quotes, their contact information is forwarded to the selected service provider. The other service providers who submitted quotes for this request receive a rejection.
+
+A contract between the user and the service provider is only formed when the service to be provided is specifically defined during a meeting or direct contact between the user and the service provider. Neither the request for a quote itself, nor its confirmation, nor the provision of a cost estimate constitutes a legally binding declaration by the end user or the service provider regarding the conclusion or content of such a contract.
+
+By using the brokerage service, the end user confirms that they are at least 18 years old. Persons under 18 years of age are not permitted to use the brokerage service.
+
+End-user obligations
+The end user must provide all information requested in connection with the offer in a current, truthful and complete manner.
+
+The end user must refrain from any misuse of the brokerage service. In particular, they are obligated to submit only serious inquiries.
+
+Obligations of the service provider
+The service provider must provide all information submitted as part of cost estimates in a current, truthful and complete manner.
+
+The service provider must refrain from any misuse of the brokerage service. In particular, they are obligated to submit only serious cost estimates.
+
+The service provider is obliged to comply with all applicable laws, in particular competition law, trademark law, and data protection law.
+
+Availability of the placement service
+The referral service is a free service offered by GELBE SEITEN. GELBE SEITEN assumes no liability for the continuous availability of the referral service, nor for the completeness and accuracy of the data provided by the parties involved in the referral service.
+
+Version transitions and major maintenance, expansion, or recovery work may be carried out by YELLOW PAGES at any time without prior notice.
+
+GELBE SEITEN expressly reserves the right to modify, expand, restrict, or discontinue its offerings or related services at any time. In particular, the referral service may be temporarily unavailable due to maintenance or version upgrades, without giving rise to any claims against GELBE SEITEN by the end user or service provider.
+
+Liability
+In cases of simple negligence, GELBE SEITEN is liable only for breaches of obligations whose fulfillment is essential for the proper performance of the contract and on whose compliance the contractual partner regularly relies and may rely (hereinafter: "essential contractual obligations"). In the event of a breach of essential contractual obligations, GELBE SEITEN's liability is limited to the foreseeable damages typical for this type of contract. Otherwise, GELBE SEITEN is liable only if and to the extent that GELBE SEITEN, its legal representatives, executive employees, or other agents are guilty of intent or gross negligence. 
+
+Furthermore, YELLOW PAGES excludes all liability.
+
+The aforementioned disclaimers and limitations of liability do not apply in the case of express warranties assumed by GELBE SÄTEN and for damages resulting from injury to life, body or health, as well as in the case of liability under the Product Liability Act.
+
+Term and termination
+The contract with the end user begins when the end user submits a request. It ends automatically when the end user selects specific service providers and their contact information is transmitted to those service providers who have submitted a cost estimate, or – if no cost estimates are available – when YELLOW PAGES sends the end user a rejection. Both parties may terminate the contract with one business day's notice. The right to extraordinary termination remains unaffected. If an end user submits a new request, this does not continue any previously established contract, but rather establishes a new one.
+
+The contract with the service provider begins upon their submission of a cost estimate and automatically terminates upon the transmission of the end user's contact information to the service provider. Both parties may terminate the contract during this period by giving one business day's notice. The right to extraordinary termination remains unaffected. If a service provider submits a cost estimate in response to a subsequent inquiry, this does not continue or extend any previously established contract, but rather establishes a new contract.
+
+Final Provisions
+The legal relationship between the parties within the framework of the brokerage service is governed by German substantive law, excluding the UN Convention on Contracts for the International Sale of Goods (CISG). The place of jurisdiction for disputes with service providers is Frankfurt am Main. 
+
+Liability
+ The publishers and editors assume no liability for the availability of the information system, the accuracy and completeness of the entries, and the ratings in the directory  www.gelbeseiten.de .
+
+Joint editors and publishers:
+
+DTM Deutsche Tele Medien GmbH
+
+Wiesenhüttenstraße 18
+60329 Frankfurt am Main
+Tel.: 069 2682-0
+Fax: 069 2682-1101
+Email:  info@dtme.de
+Internet:  www.dtme.de
+
+The publishers of the Yellow Pages directories
+
+To the extent legally permissible, Nuremberg is agreed as the place of jurisdiction.
+
+General terms and conditions for listings on gelbeseiten.de
+The following terms and conditions apply if you, as an entrepreneur as defined in § 14 of the German Civil Code (BGB), wish to book a free basic listing or a paid business listing (possibly after a free trial period) in the online directory Yellow Pages ( www.gelbeseiten.de ). Listings in print directories are not subject to these terms and conditions.
+
+The website  www.gelbeseiten.de  and the Yellow Pages app (hereinafter also referred to as the " Yellow Pages Service ") are a joint  offering  of DTM Deutsche Tele Medien GmbH and the Yellow Pages partner publishers (DTM Deutsche Tele Medien GmbH and the Yellow Pages partner publishers hereinafter collectively or individually referred to as " Providers "). Further information and contact details of the Providers can be found in the  legal notice .
+
+Your sole contractual partner for booking is the partner publisher geographically responsible for your company's location. In your case, this is your local Yellow Pages publisher (also referred to here as " Publisher " or " we "). However, pdm solutions GmbH may send you emails on behalf of the Publisher.
+
+1. General
+
+The publisher, as your contractual partner, provides its services exclusively on the basis of these General Terms and Conditions. Any terms and conditions you use will not become part of the contract unless the publisher expressly agrees to them.
+
+2. Basic entry
+
+The following conditions apply if you, as an entrepreneur, wish to create or supplement a basic entry for your company.
+
+2.1. Conclusion of contract
+
+2.1.1. The publisher offers the option of creating your own listing within the Yellow Pages service to optimize search engine visibility by adding specific data (see section 2.2.1 for details) or supplementing an existing listing (here: " Basic Listing "). The Basic Listing is free of charge. Alternatively, you can choose a paid listing for your business (section 3). The paid listing offers advantages over the Basic Listing, increasing the reach of your listing and improving your company's presentation. In particular, paid listings—unlike Basic Listings—do not display any advertising. Further information on the advantages of the paid business listing can be found in section 3.2.2.
+
+2.1.2. The contract is concluded in German. After completing the online order form (here: " Order Form ") accessible at  https://www.gelbeseiten.de/starteintrag/form?step=1  , you can review your information in a preview and correct it if necessary. After submitting the order form, the publisher will send you a confirmation link to the email address you provided. By clicking on the confirmation link with the "Confirm Now" button, you submit a legally binding offer to conclude a contract based on these General Terms and Conditions. We will confirm receipt of your free order by email (order confirmation).
+
+2.1.3. The publisher will review your submitted offer and the data you have provided. The publisher can accept the offer by including the information you provided in the Yellow Pages listing. We will store the contract details for your order, but these details are not accessible to you. You can always view our current Terms and Conditions on our website. The contract details for your order, including these Terms and Conditions, will be automatically sent to you by email as order confirmation after acceptance of the contract.
+
+2.1.4. The publisher is not contractually obligated to publish the basic entry, but only entitled to do so. Any statutory publication obligations, in particular according to Section 17 Paragraph 4 of the German Telemedia Act (TDDDG), remain unaffected.
+
+2.2. Services of the publisher
+
+2.2.1. The publisher decides at its sole discretion whether to publish the data you provide (here: " information ") within the Yellow Pages service. You can enter the relevant information (e.g., company name, address, telephone and fax numbers, email address, certain basic company data such as industry, website addresses, opening hours, payment methods, images, logo, etc.) in the order form. Like the paid business listing, the free basic listing includes SEO approval (approval of your basic listing for indexing by search engines) and a telephone consultation service from the publisher to assist you in optimizing your listing and your online visibility. The publisher will contact you at the telephone number you provide for this purpose; if you do not wish to use this service, please inform the publisher immediately after concluding the contract. The publisher may, however, change the scope and content of the information and services at any time and without giving reasons.
+
+2.2.2. The publisher is entitled, but not obligated, to transmit the information you provide to third parties at any time. In particular, the publisher is entitled to use this information in other products of the publisher (e.g., collaborations with (individual) suppliers) or of companies affiliated with the publisher within the meaning of Sections 15 et seq. of the German Stock Corporation Act (AktG), provided that this does not conflict with data protection regulations.
+
+2.2.3. The publisher may change, suspend, restrict, or discontinue the Yellow Pages service at any time without giving reasons; you have no right to the continuation of the service. Furthermore, the publisher is entitled to make editorial and/or other content changes as necessary.
+
+3. Paid business listing
+
+3.1. Conclusion of contract
+
+3.1.1. The publisher offers the option of creating an entry within the Yellow Pages service to optimize its findability through specific data (see section 3.2.1 for more details) and of increasing the online findability of an existing entry for a fee (here: “ Paid business entry ”).
+
+3.1.2. The contract is concluded in German. After completing the online order form (here referred to as the " Order Form ") accessible at  https://www.gelbeseiten.de/starteintrag/start?step=1  , you can review your information in a preview and correct it if necessary. After submitting the Order Form, the publisher will send you a confirmation link to the email address you provided. By clicking on the confirmation link with the "Book Now" button, you submit a legally binding offer to conclude a contract based on these Terms and Conditions. We will confirm receipt of your order immediately by email (Order Confirmation).
+
+3.1.3. The publisher will review your submitted offer and the data you have provided. The publisher can accept the offer by including the information you provided in the Yellow Pages listing. We will store the contract details for your order, but these details are not accessible to you. You can always view our current Terms and Conditions on our website. The contract details for your order, including these Terms and Conditions, will be automatically sent to you by email as order confirmation after acceptance of the contract.
+
+3.2. Services of the publisher
+
+3.2.1. The publisher decides at its sole discretion whether to publish the data you provide (here: " information ") within the Yellow Pages service. You can enter the relevant information (e.g., company name, address, telephone and fax numbers, email address, certain basic company data such as industry, website addresses, opening hours, payment methods, images, logo, etc.) in the order form. However, the publisher may change the scope and content of the information at any time and without giving reasons. Like the basic listing, the paid business listing includes SEO approval (approval of your basic listing for indexing by search engines) and a telephone consultation service from the publisher to assist you in optimizing your listing and your online visibility. The publisher will contact you at the telephone number you provide for this purpose; if you do not wish to use this service, please inform the publisher immediately after concluding the contract. The publisher may change the scope and content of the information and services at any time and without giving reasons.
+
+3.2.2. In addition, the publisher grants you the following advantages with a paid company listing compared to a basic listing:
+
+Specify up to five keywords: You can link your listing to specific keywords (e.g., the names of your products and/or services). As soon as Yellow Pages users enter a linked keyword into the search box, your listing can be included in the search results. Without the keyword function, you will only appear in the search results if the user specifically searches for the industry you have specified.
+Improved ranking: Paid business listings are given special prominence in search results and placed above basic listings. This makes your listing more eye-catching and draws greater attention to your business from potential customers. The commercial nature of this preferential placement in search results is clearly indicated.
+Ad-free listing: Your company will be presented in the best possible way online with an ad-free listing.
+Reach via advertising: Your company will gain even more visibility through additional advertising.
+3.2.3. The publisher will include the information you provide in the online listings at www.gelbeseiten.de, provided it meets the requirements of these Terms and Conditions. There is no exclusivity agreement or entitlement to a specific placement, ranking, position, or freedom from advertising, etc.
+
+3.2.4. The publisher is entitled, but not obligated, to transmit the information you provide to third parties at any time. In particular, the publisher is entitled to use this information in other products of the publisher (e.g., collaborations with (individual) suppliers) or of companies affiliated with the publisher within the meaning of Sections 15 et seq. of the German Stock Corporation Act (AktG), provided that this does not conflict with data protection regulations.
+
+3.2.5. You agree that the fee for the paid business listing is based on the mutual business understanding that the publisher does not provide a high-availability platform. The publisher commits to an average annual availability of 98% for the Yellow Pages service. The publisher may modify, suspend, or restrict the scope of services of the Yellow Pages service at any time to the extent necessary for maintenance, further development, or troubleshooting (hereinafter: " maintenance-related outages "). Maintenance-related outages are not taken into account when calculating the aforementioned availability.
+
+3.2.6. The publisher is entitled to modify the Yellow Pages service at any time without giving reasons (e.g., for technical, legal, or economic reasons), provided that the service is not significantly impaired as a result. The publisher may also discontinue an individual service if it is replaced by a service that is essentially equivalent to the original service.
+
+4. Only with a paid business listing: Free trial period and compensation
+
+4.1. Free trial period
+
+4.1.1. As a new customer, you are entitled to test the paid business listing free of charge for a limited period (here: " test period "). This entitlement is excluded if you have already entered into, or have previously entered into, a contract with the publisher or any other provider for a paid business listing. We reserve the right to review any existing or past contractual relationships in this regard.
+
+4.1.2. The trial period has a duration of three months, beginning with the conclusion of the contract in accordance with section 3.1.3.
+
+4.1.3. After the trial period, this will automatically convert into a paid contract in accordance with section 4.2, unless you or we terminate it in writing with a notice period of two weeks before the end of the trial period.
+
+4.2. Remuneration
+
+4.2.1. Upon expiry of the free trial period, you agree to pay the publisher an advance fee of EUR 358.80 plus applicable VAT for the respective term in accordance with section 8.2.
+
+4.2.2. If you default on the service and usage fee, the publisher is entitled to refuse to fulfill the services due to you under the contract until the default is remedied.
+
+4.2.1. The publisher is entitled to change the remuneration in the event of a significant change in procurement and provision costs, provided a notice period of four weeks is observed. In this case, you are entitled to terminate the contract prematurely, effective on the date of the remuneration change, by submitting a corresponding declaration in written or electronic form or via the communication channels provided by the publisher for this purpose.
+
+5. Your duties
+
+5.1. By submitting your binding offer, you confirm that you are the owner of the company for which you wish to book the basic or paid company listing, or that you have been commissioned by the respective owner of the company to do so or are authorized to manage the business.
+
+5.2. You are solely responsible and liable for the content you provide for your listing (hereinafter: " Content ") and any legal consequences that may arise therefrom. You agree to provide only content that you are authorized to distribute and disseminate. In particular, your content must be accurate and permissible under professional, competition, trademark, copyright, name, and personality rights law. You are solely responsible for the accuracy, timeliness, and completeness of this content and for compliance with all legal provisions (including compliance with mandatory disclosures, e.g., for premium-rate numbers).
+
+5.3. Content that is offensive, threatening, glorifies violence, is racist, or sexually explicit, as well as content that encourages the use of harmful substances (as defined by the German Medicines Act and the Narcotics Act), is prohibited. Furthermore, the posting of religious and political information that offends those holding differing religious or political views is prohibited.
+
+5.4. The publisher or providers have no obligation to review or monitor the content.
+
+5.5. Furthermore, the publisher reserves the right to immediately block an entry, not publish it, or terminate the contract without notice if content violates the provisions of these terms and conditions and/or legal regulations.
+
+5.6. You hereby grant the publisher the non-exclusive, transferable, sublicensable, royalty-free, worldwide and perpetual right to use the content in all known and currently unknown ways, in particular to reproduce, distribute, make publicly available and edit it, insofar as this is necessary for the purposes of the contract.
+
+5.7. You declare that all content you provide is free from third-party rights (e.g., copyrights, trademarks, name rights, or personality rights) that would preclude or restrict its intended, contractual use by the publisher and/or providers, and that the content does not violate any applicable law. For any persons depicted in photographs, valid consent must be obtained. You guarantee that attribution of any photographer, image creator, or other rights holder is not required.
+
+6. Liability and Limitation Period
+
+6.1. The publisher is liable in accordance with the statutory provisions.
+
+in the event of injury to the life, body or health of a person,
+in cases of malice, intent or gross negligence,
+according to the provisions of the Product Liability Act,
+within the scope of a guarantee assumed by the publisher, as well as
+insofar as the scope of application of Section 70 TKG (liability of the provider of publicly accessible telecommunications services) is opened.
+6.2. In the case of property damage and financial losses caused by negligence in any other way, the publisher is only liable for breaches of contractual obligations whose fulfillment is essential for the proper execution of the contract and on whose compliance the contractual partner regularly relies and may rely. In this case, however, liability is limited to the amount of damages foreseeable and typical for this type of contract at the time of its conclusion.
+
+6.3. Furthermore, the publisher's liability is excluded.
+
+6.4. The aforementioned limitations of liability also apply in favor of the companies affiliated with the publisher within the meaning of Sections 15 et seq. of the German Stock Corporation Act (AktG), the vicarious agents (including the suppliers), and for the personal liability of the employees, representatives and officers of the publisher, the companies affiliated with the publisher within the meaning of Sections 15 et seq. of the German Stock Corporation Act (AktG) and the vicarious agents.
+
+7. Data protection
+
+For more information about how we process your personal data, please see our  privacy policy .
+
+8. Term/Termination; Changes to the Terms and Conditions
+
+8.1. In the case of a free basic listing, the contract is concluded for an indefinite period. You and the publisher may terminate the contract at any time for any reason without notice by submitting a corresponding declaration in written or text form or via the communication channels provided by the publisher.
+
+8.2. In the case of a paid business listing (outside the free trial period, for which the term according to section 4.1.2 and the notice period according to section 4.1.3 apply), a minimum term of 12 months applies from the date of conclusion of the contract. After the minimum term has expired, the contract will automatically renew for a further term of 12 months unless you or the publisher terminate the contract with six weeks' notice before the end of the respective term by submitting a corresponding declaration in writing or text form, or via the communication channels provided by the publisher. The right of both parties to extraordinary termination for good cause remains unaffected.
+
+8.3. In the event of termination of the contract, the publisher is entitled, but not obligated, to irretrievably delete all content of the standard entry after termination of the contract. The publisher's right to publish or keep published information provided by you even after termination of the contract remains unaffected by the termination of the contract. The publisher's data protection obligations remain unaffected by the provisions of this section 8.3.
+
+8.4. The publisher reserves the right to amend these Terms and Conditions at any time with future effect. Claims already arising at the time of the amendment remain unaffected. The amendment to the Terms and Conditions shall be deemed accepted unless you object to it in writing within six weeks of receiving notification of the amendment, which will be sent at least in text form to the email address you have provided. The publisher will expressly inform you of your right to object and the legal consequences of failing to object within the deadline in the notification of amendment. If you object to the amendment of the Terms and Conditions within the deadline, the previous Terms and Conditions shall remain in effect; however, the publisher shall then be entitled to terminate the contract without notice.
+
+9. Choice of law and jurisdiction
+
+9.1. German law applies, excluding the UN Convention on Contracts for the International Sale of Goods.
+
+9.2. The exclusive place of jurisdiction for all claims between the publisher and the suppliers and merchants or legal entities under public law or special funds under public law is the publisher's registered office. Otherwise, the statutory place of jurisdiction applies.
+
+Accessibility at Yellow Pages
+Yellow Pages helps you quickly and easily find companies, service providers, and shops in your area. To improve access for everyone – including those with physical or technical disabilities – we have made our digital services more accessible.
+
+The following areas were optimized:
+
+Request quotes:
+You can now more easily request quotes from service providers – for example, for a renovation – through our referral service. An online form allows you to specify your requirements. You will then receive suitable offers by email. 
+Create or edit entries:
+Business owners and users can add new businesses or edit existing entries, e.g., if opening hours have changed.
+These services were reviewed and adapted according to the criteria of the  Web Content Accessibility Guidelines (WCAG) 2.2  . Among other things, we made the following improvements:  
+
+Support for screen readers and keyboard control. 
+Simple and clear texts. 
+Supplement to explanations. 
+Sharper contrasts. 
+Improved visibility and usability of individual elements

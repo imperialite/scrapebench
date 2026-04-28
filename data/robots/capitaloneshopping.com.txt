@@ -1,0 +1,63 @@
+#     __ __ __ __ __ __ __ __
+#    /                        \
+#   | "Get in loser,          |
+#   |  we're going ~Shopping" |
+#    \ _ _ _ _ _ _ _ _ _ _ _ /
+#            /
+#           /
+#    /|_||_\`.__
+#   (   _    _ _\
+#   =`-(_)--(_)-'
+# ------------------------------------
+
+
+user-agent: marley
+disallow: /paths
+disallow: /eldians
+
+
+user-agent: cursed-spirits
+disallow: /domain-expansion
+disallow: /gojou-satoru
+
+
+user-agent: *
+disallow: */routeInfo.json
+disallow: *?term=
+disallow: *?run=
+disallow: *?hs=
+disallow: /s/*/coupon/?force_link=true
+disallow: /s/*/coupon/code*
+disallow: /extension-listing*
+disallow: /mobile-extension*
+disallow: /onboarding*
+disallow: /sign-in*
+disallow: /api*
+disallow: /account-settings*
+disallow: /referral-code/
+disallow: /my-rewards*
+disallow: /hotels/*
+disallow: /404/
+disallow: /p/
+disallow: /r/
+disallow: /verify-account
+disallow: /my-credits
+disallow: /redeem
+disallow: /gift-card-purchases
+disallow: /lp/
+disallow: /gift-card-checkout/
+
+
+user-agent: AdsBot-Google
+disallow:
+
+
+user-agent: Googlebot-Image
+disallow:
+
+
+user-agent: bingbot
+crawl-delay: 1
+
+
+sitemap: https://capitaloneshopping.com/sitemap.xml

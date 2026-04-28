@@ -1,0 +1,91 @@
+Terms of Use for Location-Based Services
+Article 1 Purpose
+These Terms and Conditions are for the purpose of regulating the rights, obligations, responsibilities, and other necessary matters between the company and users who use the service regarding location-based services provided by AXG Co., Ltd. (hereinafter referred to as "Company") I do.
+
+Article 2 Effectiveness and change of Terms of Use
+These terms and conditions take effect when the user agrees to these terms and conditions and is registered as a user of a location-based service in accordance with the procedures established by the company.
+If the user clicks the “Agree ” button of these Terms and Conditions, he or she will be deemed to have read all of the contents of these Terms and Conditions, fully understood them, and agreed to their application.
+If necessary for the purpose of reflecting changes in location-based services, the Company may modify these Terms and Conditions to the extent that they do not violate relevant laws and regulations.
+If the terms and conditions change, the company will notify the changes through the company's website or service notice, etc. (hereinafter referred to as "homepage, etc.") at least 15 days prior to the date of application. However, it is revised If the content causes a significant change in user rights, email at least 30 days before the date of application (if there is no email address, sending an electronic message within the service, sending a notification message within the service, etc Individual notification is provided by sending a separate electronic means) or sending a KakaoTalk message or text message to the registered mobile phone number.
+If the company does not express its intention to refuse by 7 days after the date of notice or notification and the effective date of the revised terms and conditions while making a notice or notification in accordance with the preceding paragraph, it clearly indicates that it has been approved If there is no indication of the user's intention even after notification, the changed terms and conditions are deemed to have been approved. If the user does not agree to the revised terms and conditions, he or she may withdraw consent to these terms and conditions.
+Article 3 Rules other than terms and conditions
+For matters not specified in these Terms and Conditions, relevant laws and regulations such as the Act on Protection and Use of Location Information, the Personal Information Protection Act, the Telecommunications Business Act, and the Act on Promotion of Information and Communications Network Utilization and Information Protection, etc In accordance with regulations such as guidelines established by the company.
+
+Article 4 Contents of the service
+The company provides the following location-based services using the user's location information collected from the location information provider.
+
+Providing search results and recommending content: We provide services that search for or recommend related information or content based on the user's location.
+Article 5 Service usage fee
+Location-based services provided by the company are free.
+
+However, data communication fees incurred when using wireless services are separate and are subject to the policies of each mobile carrier to which the user subscribes.
+
+Article 6 Changes, restrictions, and suspension of services
+If the company is unable to maintain location-based services due to various circumstances such as policy changes or changes in related laws, it may change, restrict, or suspend all or part of the location-based services.
+The company may restrict or suspend users' use of the service in the following cases.
+1. When the user intentionally or grossly interferes with the operation of the company's services
+2. In unavoidable cases due to service equipment inspection, repair, or construction
+3. Period stipulated in the Telecommunications Business Act When a telecommunications operator suspends telecommunications services
+4. When there is a disruption in service use due to a national emergency, service facility failure, or excessive service use
+5. If the company determines that it is inappropriate to continue providing the service due to other serious reasons
+When the company restricts or suspends the use of the service in accordance with the provisions of paragraphs 1 and 2, the reason and limitation period are notified in advance through the company website, etc., or to the user Notify.
+Article 7 Use or provision of personal location information
+When the company provides location-based services using personal location information, it notifies and receives consent to these terms and conditions.
+The company does not provide personal location information to third parties without the user's consent, and when providing it to third parties, the recipient and purpose of provision are notified to the user in advance and consent is obtained.
+The person to whom personal location information is provided to the user each time by the communications terminal device or e-mail address from which it was collected, when it is provided to a third party in accordance with paragraph 2, and the date and purpose of the provision are immediately notified. step, In the following cases, notification will be made to the communication terminal device specified in advance by the user, e-mail address, online posting, etc.
+1. If the communication terminal device that collected personal location information does not have the function of receiving text, voice, or video
+2. When a communication terminal device other than the communication terminal device that collected the user's personal location information, or when a notification is requested in advance by e-mail address, online posting, etc
+Based on Article 16, Paragraph 2 of the Act on Protection and Use of Location Information, etc., the company automatically records and preserves confirmation data on the use and provision of personal location information, and the data is stored for 6 months Store it.
+Article 8 Purpose and retention period of personal location information
+The company retains personal location information as follows to provide location-based services.
+
+When the purpose of using and providing location-based services pursuant to Article 4 of these Terms and Conditions is achieved, personal location information will be destroyed without delay.
+However, in the case of services where location information is stored along with posts or content created by users, personal location information is stored during the storage period of the post or content.
+If necessary to provide location-based services, personal location information may be retained for the minimum period necessary to achieve the purpose of use.
+Notwithstanding paragraphs 1, 2 and 3 above, if there are justifiable reasons to retain them under other statutes or the Geolocation Act, they shall.
+Article 9 Rights of personal location information subjects
+Users may withhold all or part of their consent to the use and provision of location-based services using personal location information at any time.
+Users may withdraw all or part of their consent to the use and provision of location-based services using personal location information at any time. In this case, the company withdrew without delay Destroy confirmation of use and provision of personal location information.
+Users may request temporary suspension of use and provision of personal location information. In this case, the company cannot refuse it and sets up the technical means to meet it
+Users may request the company to view or notify the data below, and if there are errors in the data, they may request correction. In this case, the company has justifiable reasons We do not refuse requests without.
+1. Confirmation of use and provision of personal location information to users
+2. Reasons and contents of the user's personal location information provided to third parties in accordance with the provisions of the Act on Protection and Use of Location Information, etc. or other laws and regulations
+Users may make requests to the company using the contact information in Article 15 of these Terms and Conditions for the exercise of their rights.
+Article 10 Rights of legal representatives
+For users under the age of 14, the company must obtain consent from the user and the user's legal representative to provide location-based services using personal location information and to provide personal location information to third parties I do. In this case, the legal representative has all of the user's rights under Article 9 of these Terms and Conditions.
+If the company wishes to use personal location information of a child under the age of 14 or to provide confirmation of provision information to a third party or to use it beyond the scope specified or notified in the Terms of Use, the user and the user The consent of the legal representative must be obtained. However, the following cases are excluded.
+1. When the use of personal location information and confirmation of provision are necessary to settle fees for providing location-based services
+2. When processing and providing a specific individual in an unrecognizable form for statistical production, academic research, or market research
+Article 11 Rights of persons obligated to protect children up to 8 years of age, etc
+The company shall ensure that a person who falls under Article 26, Paragraph 2 of the Act on Protection and Use of Location Information, etc. of a person who falls under the following cases (hereinafter “children up to 8 years of age, etc.) (hereinafter ” person obligated to protect, etc.) is up to 8 years of age If you consent to the use or provision of personal location information for the life or physical protection of a child, etc., you will be deemed to have your consent.
+1. Children up to 8 years of age
+2. Adult guardian
+3. Persons with mental disabilities under article 2, paragraph 2, subparagraph 2 of the Welfare of Persons with Disabilities Act, who fall under persons with severe disabilities under article 2, paragraph 2, of the Employment Promotion and Vocational Rehabilitation of Persons with Disabilities Act Persons (article 32 of the Welfare of Persons with Disabilities Act Accordingly, this only applies to people who have registered as disabled)
+A person under a protection obligation who wishes to consent to the use or provision of personal location information for the protection of the life or body of a child under the age of 8 must attach a written document proving that he or she is under a protection obligation to the written consent You must submit it to the company.
+The person obligated to protect has all of the user's rights under Article 9 of these Terms and Conditions if he or she consents to the use or provision of personal location information for children up to the age of 8.
+Article 12 Compensation for damages
+If damage is suffered due to an act that violates the provisions of Articles 15 and 26 of the Act on the Protection and Use of Company Location Information, etc., the user may claim compensation from the company. The company intentionally, If you fail to show that you are not at fault, you cannot escape liability.
+
+Article 13 Disclaimer
+If the company is unable to provide location-based services in the following cases, the company will not be liable for any damage caused to users as a result.
+1. When there is a natural disaster or equivalent force majeure
+2. If there is intentional interference with the service by a third party who has entered into a service partnership agreement with the company to provide location-based services
+3. If there is an obstacle to using location-based services due to reasons attributable to the user
+4. Other than those referred to in the first to third subparagraphs, on grounds of no intention or negligence on the part of the company
+The company does not guarantee the reliability or accuracy of location-based services or information, data, or facts posted on location-based services, and is responsible for any damage to users resulting from this No burden.
+Article 14 Mediation of disputes and other
+The company faithfully consults with users to resolve disputes related to location information.
+If the dispute has not been resolved through the consultation referred to in the preceding paragraph, the company and the user may apply to the Korea Communications Commission for finance in accordance with the provisions of Article 28 of the Act on the Protection and Use of Location Information, etc Pursuant to the provisions of Article 43 of the Personal Information Protection Act, you may apply to the Personal Information Dispute Mediation Committee for mediation.
+Article 15 Business and location information manager information
+The company's name, address, and contact information are as follows.
+Company name: AXG Co., Ltd
+Address: 12th floor, 152 Pangyoyeok-ro, Bundang-gu, Seongnam-si, Gyeonggi-do (Baekhyeon-dong, Alpha Dome Tower)
+Main phone number: 1577-3321 (paid)
+
+The company operates by appropriately managing and protecting personal location information and designating a person in a position to take actual responsibility as the location information manager so that user complaints can be handled smoothly There is. The location information manager is the head of the department that provides or manages location-based services, and his name and contact information are as follows.
+Name: Lee Ho-won
+Main phone number: 1577-3321 (paid)
+
+<Enforcement date>
+Announcement date: October 22, 2025
+Effective date: December 01, 2025

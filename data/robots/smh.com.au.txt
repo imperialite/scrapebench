@@ -1,0 +1,281 @@
+# Nine Entertainment Co expressly prohibits the use of any Nine
+# content or data, including associated metadata, for any machine
+# learning and/or artificial intelligence including for the purposes
+# of training or development of AI technology, tools and machine
+# learning language models.
+# view our terms of use - https://login.nine.com.au/terms?client_id=smh
+
+# Sitemaps
+Sitemap: https://www.smh.com.au/sitemaps/news/brands/smh
+Sitemap: https://www.smh.com.au/sitemaps/smh-sitemaps-videos.xml
+Sitemap: https://www.smh.com.au/sitemaps/smh-sitemaps-articles.xml
+Sitemap: https://www.smh.com.au/rss/feed.xml
+
+# All visitors
+User-agent: *
+Allow: /
+Disallow: /search?text=*
+
+# Specific agents
+
+
+
+##########
+# Google
+
+User-agent: Google-CloudVertexBot
+User-agent: Google-Extended
+Disallow: /
+
+
+##########
+# OpenAI
+
+User-agent: ChatGPT-User
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: OAISearch
+Disallow: /
+
+
+##########
+# Anthropic
+
+User-agent: anthropic-ai
+User-agent: claude-web
+User-agent: claudebot
+Disallow: /
+
+
+##########
+# Meta
+
+User-agent: facebookbot
+User-agent: meta-externalagent
+User-agent: meta-externalfetcher
+Disallow: /
+
+
+##########
+# Apple
+
+User-agent: applebot-extended
+Disallow: /
+
+
+##########
+# Perplexity AI
+
+User-agent: perplexitybot
+Disallow: /
+
+
+##########
+# Cohere
+
+User-agent: cohere-ai
+Disallow: /
+
+
+##########
+# You.com
+
+User-agent: youbot
+Disallow: /
+
+
+##########
+# Amazon
+
+User-agent: amazonbot
+Disallow: /
+
+
+##########
+# Alibaba Cloud
+
+User-agent: aliyunsecbot
+Disallow: /
+
+
+##########
+# Audigent
+
+User-agent: audigentadbot
+Disallow: /
+
+
+##########
+# Awario
+
+User-agent: awariorssbot
+User-agent: awariosmartbot
+Disallow: /
+
+
+##########
+# BLEX AI
+
+User-agent: blexbot
+Disallow: /
+
+
+##########
+# ByteDance
+
+User-agent: bytespider
+Disallow: /
+
+
+##########
+# Common Crawl
+
+User-agent: ccbot
+Disallow: /
+
+
+##########
+# DataForSEO
+
+User-agent: dataforseobot
+Disallow: /
+
+
+##########
+# Diffbot
+
+User-agent: diffbot
+Disallow: /
+
+
+##########
+# DuckDuckGo
+
+User-agent: duckassistbot
+Disallow: /
+
+
+##########
+# Friendly Technologies
+
+User-agent: friendlycrawler
+Disallow: /
+
+
+##########
+# Internet Archive / "Wayback Machine"
+
+User-agent: ia_archiver
+Disallow: /
+
+
+##########
+# ImageSift
+
+User-agent: imagesiftbot
+Disallow: /
+
+
+##########
+# MyCentralAI
+
+User-agent: mycentralaiscraperbot
+Disallow: /
+
+
+##########
+# NewsNow
+
+User-agent: newsnow
+Disallow: /
+
+
+##########
+# News-Please (Open-source)
+
+User-agent: news-please
+Disallow: /
+
+
+##########
+# Omgili
+
+User-agent: omgili
+User-agent: omgilibot
+User-agent: webzio-extended
+Disallow: /
+
+
+##########
+# Peer39
+
+User-agent: peer39_crawler
+User-agent: peer39_crawler/1.0
+Disallow: /
+
+
+##########
+# QuillBot
+
+User-agent: quillbot.com
+Disallow: /
+
+
+##########
+# Quora
+
+User-agent: quora-bot
+Disallow: /
+
+
+##########
+# Scrapy (Open-source)
+
+User-agent: scrapy
+Disallow: /
+
+
+##########
+# Seekr
+
+User-agent: seekrbot
+Disallow: /
+
+
+##########
+# Seznam.cz
+
+User-agent: seznamhomepagecrawler
+Disallow: /
+
+
+##########
+# TaraGroup
+
+User-agent: taragroup intelligent bot
+Disallow: /
+
+
+##########
+# Timpi
+
+User-agent: timpibot
+Disallow: /
+
+
+##########
+# Turnitin
+
+User-agent: turnitinbot
+Disallow: /
+
+##########
+# Others
+
+User-agent: viennatinybot
+User-agent: jetslide
+User-agent: magpie-crawler
+User-agent: poseidon research crawler
+Disallow: /
+
+##########

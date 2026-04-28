@@ -1,0 +1,29 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /guest-pass/*
+Disallow: /free-trial
+Disallow: /exclusive-guest-pass
+Disallow: /auth/reset-password/finish/*
+Disallow: /classes/*.txt
+Disallow: /classes/*.html
+Disallow: /classes/*.amp
+Disallow: /classes/*.In
+Disallow: /*US_CENSUS_NAME*
+
+# GPTBot
+User-agent: GPTBot
+Disallow: /
+
+# CCBot
+User-agent: CCBot
+Disallow: /
+
+# Host
+Host: https://www.masterclass.com/
+
+# Sitemaps
+Sitemap: https://www.masterclass.com/sitemap.xml
+Sitemap: https://www.masterclass.com/sitemap-classes.xml
+Sitemap: https://www.masterclass.com/sitemap-lessons.xml
+Sitemap: https://www.masterclass.com/sitemap-articles.xml

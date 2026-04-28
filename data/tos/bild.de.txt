@@ -1,0 +1,361 @@
+Terms of use for BILD's digital services
+November 29, 2007 - 5:51 PM
+1. Scope
+
+1.1 The following terms of use apply to the digital services offered by Axel Springer Deutschland GmbH (hereinafter referred to as "BILD") to users via the website www.bild.de or the mobile site m.bild.de, the BILD apps, and TV apps. In addition to the general free use of the website www.bild.de or the mobile site m.bild.de, as well as the free apps such as the BILD Sport app, the following free and paid services requiring registration are offered:
+
+-interest-based content and usage-based recommended articles via email
+
+-BILDplus - paid offer for journalistic content, hereinafter also referred to as "Paid Content",
+
+-BILDplus Shop – Bundles of hardware products with BILDplus,
+
+BILDplus Premium – includes BILDplus and additionally all so-called “passes” (these are editorial offers on special topics such as the Slimming Pass or access to special events such as the Fame Fight Pass)
+
+-ePaper – digital editions of the newspapers “BILD” and “BILD am Sonntag”, including the regional editions, and other journalistic products
+
+-BILD-Shop – physical products from selected manufacturers and Axel Springer's own products,
+
+-BILD Pur, using content without tracking, cookies and personalized advertising,
+
+-BILD CLUB – exclusive offers, content, competitions and events – only for members,
+
+-Quiz and competitions
+
+-Sports prediction games
+
+
+These terms of use also apply if the user is offered free access to paid services, possibly for a trial period or as part of other promotions. Paid digital services, such as BILDplus, are usually offered in the form of a subscription.
+
+
+The terms "paid" and "free" in these terms and conditions refer exclusively to whether BILD receives payment in return. This does not imply anything about whether user data is transferred to BILD in return.
+
+
+1.2 BILD is not responsible for internet services provided by third parties to which BILD links or refers from its pages. The terms of use of the respective providers apply to these services.
+
+1.3 For downloading BILD apps in or via so-called app stores (e.g., iTunes Store, Google Play Store) and, in some cases, also for purchasing BILD subscriptions in or via BILD apps (so-called in-app purchases), the terms of use of the respective app store may apply in addition. Please note that the data protection policies of the respective app store operator also regularly apply to the use of app stores.
+
+2. Provider, contractual partner
+
+The provider of the content and contractual partner of BILD's free and paid services is Axel Springer Deutschland GmbH, Axel-Springer-Straße 65, 10888 Berlin, AG Charlottenburg HRB 196159 B, VAT ID No. DE 214 852 390, Managing Directors: Carolin Hulshoff Pol, Claudius Senst, Peter Würtenberger (hereinafter referred to as "BILD").
+
+3. Contracts for paid services
+
+3.1 BILD concludes contracts for paid services exclusively with users who are of legal age and otherwise fully capable of entering into contracts.
+
+3.2 The presentation of the individual paid offers on the order pages does not constitute a legally binding offer, but rather a non-binding online catalog. For contracts concerning paid offers, the user submits the binding offer to conclude the contract at the end of the ordering process by clicking the "Buy Now" button or, in the case of paid content access that is not subject to a fee in itself, such as the day pass (section 13) or vouchers (section 14), by clicking the corresponding button (e.g., "Redeem" or "Continue" for vouchers). Any subsequent confirmation of receipt sent by BILD does not yet constitute acceptance of the offer. BILD may accept the user's offer within 5 days of receiving the order by means of an explicit declaration. The contract is concluded upon receipt of the declaration of acceptance (order confirmation), but at the latest upon provision of the paid content. Dispatch of the ordered goods and confirmation of shipment to the user are equivalent to an explicit declaration of acceptance by BILD. This does not apply if the user has chosen prepayment as the payment method, if offered.
+
+3.3 BILD is under no obligation to accept the user's offer.
+
+3.4 Different subscription packages, consisting of various components or modules, may be offered for paid digital services. The available packages are detailed in the respective offer description.
+
+3.5 The use of BILD's paid digital services, such as BILDplus, BILD Pur, BILDplus Premium, ePaper, and ad-reduced offers, may be limited to a maximum number of devices. Users will be notified of these limitations within the respective service. So-called "passes" (editorial offers on special topics, such as the Slimming Pass, or access to special events, such as the Fame Fight Pass) may be limited to a specific period.
+
+3.6 BILD is entitled to modify the services and offerings provided under the conditions of § 327r BGB.
+
+4. Registration
+
+4.1 The conclusion of a contract for paid offers and for the use of services requiring registration generally requires user registration. BILD uses its own registration service, myPass, for this purpose. The separate contractual relationship established through registration with BILD via myPass is governed not by these Terms and Conditions, but by the myPass Terms of Use. Registration via myPass is not mandatory in the BILD Shop. Ordering as a "guest" is also possible.
+
+4.2 The data requested during registration must be provided accurately. In particular, the user may not provide data belonging to third parties and is also obligated to notify BILD immediately of any changes to this data, including any changes that may have occurred between a previous registration and the conclusion of the contract. This can also be done in the "My Account" module.
+
+
+If a user has already been permanently excluded from BILD's free or paid services, they may not (re)register without BILD's permission.
+
+5. My BILD account
+
+BILD aims to provide registered users with the best possible experience and therefore continuously adapts the content displayed to the user's personal interests. Upon registration, BILD can also send users editorial content via email, which is automatically compiled for them based on their individual interests and usage patterns. BILD informs users about the necessary data processing in its privacy policy. The paid service BILD Pur does not present users with personalized content.
+
+6. Right of withdrawal, instructions on withdrawal
+
+All information regarding whether the user, as a consumer, has a statutory right of withdrawal with respect to declarations of intent made to BILD aimed at concluding a contract, as well as the corresponding instructions, can be found under the following link: Instructions on withdrawal .
+
+Note: If a sales partner has distributed access authorizations for our payment services to the user in their own name and for their own account (for example, when purchasing vouchers or brokering access authorizations to payment services through mobile network operators; see section 13 of these Terms of Use for further details), the sales partner's cancellation policy must be observed with regard to declarations of intent made to the sales partner that aim at concluding a contract with them; any cancellation in this regard must be declared to the sales partner.
+
+7. BILDplus
+
+Certain digital content from BILD, some of it exclusive, is offered as a paid subscription called BILDplus. BILD aims to provide BILDplus users with the best possible experience and therefore continuously tailors the content to their personal interests. BILD informs users about the necessary data processing in its privacy policy. BILDplus may also be offered free of charge, for example, as part of introductory offers with specific durations or through third-party sponsorship. To use BILDplus as a web application, you can choose either to consent to data processing ("accept all") or – if you prefer not to – to add a BILD Pur subscription. With the BILD Pur subscription, you use BILDplus without tracking and without data processing requiring consent, meaning in particular only with strictly necessary cookies and without personalized advertising (see section 8 of these Terms and Conditions). BILDplus also includes membership in the BILD CLUB.
+
+8. BILD Pur
+
+8.1. With the BILD Pur subscription, BILD offers paid use of its digital services without tracking, using only essential cookies and without personalized advertising.
+
+8.2 The reading and user experience of BILD.de is limited with BILD Pur. In particular, no personalized content or embedded content from partners will be displayed. This includes, for example, content from YouTube, Facebook, Instagram, weather maps, podcasts, and audio players. Sports integrations such as match results, tables, betting integrations, etc., will also only be available in BILD Pur to the extent that they do not require data processing or technologies that require consent.
+
+8.3 Certain cooperation pages that BILD implements with cooperation partners, such as the BILD comparison portal and the BILD deals portal, are not available in BILD Pur, as these only function using data processing and technologies that require consent. These cannot be activated.
+
+8.4 If the user has simultaneously taken out a BILD Plus subscription, section 7 of the terms and conditions, this is restricted in accordance with sections 8.1 to 8.3 of the terms and conditions.
+
+9. Ad blockers and BILD
+
+BILD offers exclusive and personalized content that can only be financed through advertising revenue. However, the increasing use of so-called ad blockers, small browser add-ons, or other technologies with a similar effect (hereinafter collectively referred to as "ad blockers") significantly jeopardizes the financing of these services. Against this background, the following applies:
+
+9.1 Der Nutzer ist nicht berechtigt, bei der Nutzung von BILD einen Ad-Blocker zu verwenden, wenn BILD nicht von der Wirkung des Ad-Blockers ausgenommen ist (sog. Whitelisting) und/oder der Nutzer über ein aktuelles Abonnement über das werbereduziertes Angebot verfügt. BILD ist dementsprechend auch nicht verpflichtet, dem Nutzer Zugang zu dem erworbenen BILDplus-Account zu gewähren, wenn der Nutzer durch Ad-Blocker verhindert oder verhindern will, dass auf den dortigen Werbeflächen Werbung angezeigt wird. Wird ein solcher Ad-Blocker durch BILD technisch erkannt, wird dem Nutzer die Nutzung von BILD oder BILDplus unmöglich gemacht, solange der Ad-Blocker aktiviert ist und die digitalen Angebote von BILD nicht in die Whitelist des Ad-Blockers aufgenommen sind.
+
+9.2 Werbereduzierte Angebote sind weitgehend frei von angezeigter Werbung. Bei Werbereduzierten Angeboten gilt das Verbot nach Ziffer 9.1 daher nicht. Nutzer von Werbereduzierten Angeboten haben nach der Registrierung und Anmeldung auch mit aktiviertem Ad-Blocker Zugang zu den digitalen Angeboten von BILD, einschließlich BILDplus. BILD steht es jedoch frei, auch bei werbereduzierten Angeboten die Verwendung von Ad-Blockern zu untersagen, wenn von BILD eine andere Technologie verwendet bzw. zu Verfügung gestellt wird, die die Werbereduzierung sicherstellt.
+
+9.3 Das Verbot des Einsatzes eines Ad-Blockers gilt auch, wenn der Nutzer über ein BILD Pur-Abo verfügt, da BILD Pur nicht werbefrei ist (z.B. Umfeldwerbung).
+
+10. ePaper
+
+10.1 Im Rahmen eines ePaper-Abonnements ist das einzelne ePaper für den Nutzer in der Regel ab 23.00 Uhr des Tages vor dem Erscheinungstag bis mindestens bis 21:00 Uhr des Erscheinungstages online zum unmittelbaren Lesen und/oder als PDF-Dokument abrufbar.
+
+10.2 Sofern Sie ePaper als PDF-Dokument herunterladen, wird das Dokument in der App gespeichert. BILD löscht das Dokument nach der vereinbarten Nutzungszeit, in der Regel nach 7 Tagen. Andere oder weitergehende Nutzungen und Verwertungen, insbesondere kommerzielle Verwendungen, sind nicht gestattet. Insbesondere ist es nicht gestattet:
+
+-zusätzliche Vervielfältigungen des ePaper herzustellen,
+
+-das ePaper zu bearbeiten oder umzugestalten und das Ergebnis zu veröffentlichen oder zu verwerten,
+
+-das ePaper an Dritte weiterzugeben oder anderweitig zu verbreiten,
+
+-das ePaper öffentlich zugänglich zu machen oder es an Dritte zu senden, auch nicht über Intra- oder Extranets.
+
+Das vorstehende gilt auch für alle einzelnen Artikel, Fotos und sonstige Einzelbestandteile sowie Teile hiervon, es sei denn, der Teil genießt für sich genommen keinen urheberrechtlichen oder sonstigen gesetzlichen Schutz.
+
+11. Download, zugangsfreie Bereiche und Nutzung der BILD Apps
+
+11.1 Das Vertragsverhältnis über die Nutzung der jeweiligen BILD-App beginnt mit dem kostenfreien Download der App und läuft auf unbestimmte Zeit. Die Parteien können das Vertragsverhältnis grundsätzlich jederzeit ohne Frist kündigen. Wenn ein kostenpflichtiges Abonnement besteht, kann der Vertrag über die Nutzung der App erst zu dem Zeitpunkt gekündigt werden, zu dem auch das laufende Abonnement beendet werden kann. Sollte die App bei laufendem kostenpflichtigem Abonnement deinstalliert werden, hat dies auf den Bestand des Abonnements keinen Einfluss. Mit Wirksamwerden der Kündigung erlischt das Recht auf die Nutzung der kostenpflichtigen Angebote innerhalb der App.
+
+11.2 Bei Bestellung eines kostenpflichtigen Abonnements für und in einer BILD-App ist es für den Nutzer wichtig, die Zugangsdaten für den jeweilig genutzten App-Store sicher aufzubewahren, zu speichern oder anderweitig sicherzustellen, dass diese dem Nutzer nicht verloren gehen, denn in der Regel kann der Nutzer nur über die Zugangsdaten für den genutzten App-Store nach einer (nicht auf einer Kündigung oder einem sonstigen Vertragsende beruhenden) Deinstallation der App oder einem technischen Problem mit der App, dem Endgerät oder dem App-Store wieder Zugang zu den Inhalten und Abonnements erhalten.
+
+12. Hardware-Bundle
+
+12.1 Das Bundle-Angebot von BILD besteht jeweils aus der Hardware, z.B. Tablet oder Smartphone sowie einem Zugang zu BILDplus, abhängig vom konkreten Angebot, und stellt ein einheitliches Angebot dar.
+
+
+12.2 Soweit BILD mit einem Finanzierungspartner zusammenarbeitet und der Nutzer den vereinbarten Kaufpreis durch den Finanzierungspartner finanzieren lassen möchte, wird das gewünschte Produkt durch den Finanzierungspartner kreditfinanziert, so dass der Nutzer das Produkt ohne Anzahlung in den jeweils vereinbarten Raten bezahlen kann. Der Nutzer schließt in diesem Fall einen Vertrag über das gewünschte Produkt mit BILD und zugleich auch im Sinne eines so genannten "verbundenen Vertrages" einen Darlehensvertrag mit dem Finanzierungspartner. Dies setzt voraus, dass der Nutzer bei seiner Bestellung die erforderlichen Daten angibt und die Bonität des Nutzers anhand der angegebenen Daten vorläufig geprüft wird. Der Nutzer erhält sodann einen Antrag auf Abschluss des entsprechenden Kreditvertrages per E-Mail oder per Post, den er ausfüllt und im Wege des vom Finanzierungspartner vorgesehenen Identifizierungsverfahrens einreicht. Anschließend prüft der Finanzierungspartner die Bonität des Nutzers abschließend und teilt das Ergebnis BILD mit. Daraufhin kommt der Vertrag zustande, wenn BILD die Annahme des Angebots nach entsprechend positiver Bonitätsprüfung durch den Finanzierungspartner per E-Mail, durch Versenden des bestellten Produktes oder durch das Verfügbarmachen der bestellten Leistung erklärt. Unbeschadet des Rechts von BILD und auch des Finanzierungspartners, einen Nutzer als Vertragspartner jederzeit ablehnen zu können, erfolgt die Annahmeerklärung bzw. die Ablehnung des Angebots durch BILD innerhalb von 10 Tagen nach Eingang des Antrags auf Abschluss des Kreditvertrages bei dem Finanzierungspartner. Erklärt BILD die Annahme eines Vertrages mit dem Nutzer bereits vor Abschluss des Darlehensvertrages zwischen dem Nutzer und dem Finanzierungspartner, obwohl der Kaufpreis finanziert werden soll, steht die Wirksamkeit des Vertrages zwischen dem Nutzer und BILD unter der aufschiebenden Bedingung des Zustandekommens des Darlehensvertrages zwischen dem Nutzer und dem Finanzierungspartner.
+
+13. Tagespässe
+
+13.1 Tagespässe (in der BILD ggf. auch „Super-Ticket“ genannt) für Bezahlangebote finden sich gegebenenfalls in den Printausgaben der Zeitungen „BILD“, „BILD am Sonntag“. Sie ermöglichen es dem Nutzer, zwischen 0:00 Uhr und 23:59 Uhr des Erscheinungstages der Zeitung die digitalen Angebote von BILD ohne gesondertes Entgelt zu nutzen. Das Vertragsverhältnis mit dem Nutzer endet automatisch mit Ende des betreffenden Tages.
+
+13.2 Jeder Tagespass ist nur einmal durch den Nutzer einlösbar. Tagespässe dürfen nicht vervielfältigt oder an Dritte weitergeben werden.
+
+14. Vertriebskooperationen (Gutscheine und andere Zugangsberechtigungen)
+
+Wir unterhalten gegebenenfalls Vertriebskooperationen mit dritten Unternehmen (Vertriebspartnern), in deren Rahmen der Vertriebspartner Zugangsberechtigungen für unsere Bezahlangebote im eigenen Namen und auf eigene Rechnung vertreibt. Ein Beispiel dafür sind Gutscheine, mittels derer sich Nutzer für die Inanspruchnahme bestimmter Bezahlangebote freischalten können; ein anderes Beispiel sind Zugänge für unser Bezahlangebot BILDplus, die Mobilfunkanbieter (z. B. mobilcom-debitel / Freenet) zusammen mit ihren Mobilfunkverträgen und ggf. weiteren digitalen Angeboten vertreiben.
+
+14.1 Gutscheine und andere Zugangsberechtigungen für Bezahlangebote berechtigen zur Nutzung des kostenpflichtigen Angebots im auf dem Gutschein bzw. den Leistungsbeschreibungen des Vertriebspartners aufgeführten Leistungsumfang während der Laufzeit des Gutscheins oder anderen Zugangsberechtigungen bzw. reduzieren den Preis (z. B. Rabatt-Gutscheine).
+
+14.2 Gutscheine und andere Zugangsberechtigungen können unterschiedliche Leistungsmerkmale und Laufzeiten aufweisen. Die Informationen zu Leistung und Laufzeit sowie zu gegebenenfalls geltenden weiteren Bedingungen sind dem jeweiligen Gutschein oder der jeweiligen Gutschein-Einlöseseite bzw. der anderweitigen Leistungsbeschreibung des Vertriebspartners zu entnehmen.
+
+14.3 Gutscheine dürfen nicht vervielfältigt oder an Dritte weitergeben werden.
+
+14.4 Es handelt sich bei den Bezahlangeboten stets um Angebote von BILD, auch wenn der Zugang bzw. die Zugangsberechtigungen vom Vertriebspartner vermittelt worden ist. Es ist daher immer eine separate Registrierung eines Benutzerkontos bei BILD erforderlich; zudem gelten für die Nutzung der Bezahlangebote die dem Nutzer unterbreiteten Nutzungs- und anderen Vertragsbedingungen von BILD.
+
+15. BILD CLUB
+
+15.1 Der BILD CLUB ist ein anmeldepflichtiger Dienst, der den Mitgliedern einen Zugriff auf die im Rahmen des BILD CLUBs ggf. beworbenen exklusiven Vorteilsangebote, Gewinnspiele und Ticketkontingente, ggf. den Zugang zu besonderen Veranstaltungen und Inhalten, u. a. m. ermöglicht. Die Mitgliedschaft im BILD CLUB ist Bestandteil des kostenpflichtigen Produktes BILDplus. Darüber hinaus steht die Mitgliedschaft ausschließlich den BILD- und den B.Z.-Zeitungsabonnenten offen, für die die Mitgliedschaft jeweils ohne zusätzliche Kosten möglich ist.
+
+15.2 BILDplus subscribers automatically become members of the BILD CLUB upon commencement of their subscription. Otherwise, BILD CLUB membership requires separate user registration. BILD uses the myPass registration service of Axel Springer Deutschland GmbH for this purpose. The myPass terms of use apply to the separate contractual relationship established through myPass registration. When registering for the BILD CLUB, BILD or BZ newspaper subscribers must enter their subscription number. A subscription number is valid as soon as the subscriber receives the first issue. It expires upon termination of the subscription. BILDplus users are identified by the email address they provided during myPass registration.
+
+15.3 The prerequisite for taking advantage of special offers advertised within the BILD CLUB is generally the conclusion of a contract for the respective offer with the respective provider, for which the provider's special terms and conditions may apply. Unless otherwise stated, BILD is not the provider of the advertised special offers and not the provider of the respective services. Members have no right to conclude a contract for an advertised special offer.
+
+15.4 The offers of the BILD CLUB are voluntary additional services for subscribers. BILD reserves the right to change the offers and the design of the BILD CLUB at any time without giving reasons, or to discontinue the BILD CLUB entirely.
+
+16. Technical Framework Conditions
+
+In order to use BILD's digital services, users must meet certain minimum technical requirements in addition to a standard internet connection:
+
+-For the online service: an up-to-date browser.
+
+-For ePaper: the Adobe Reader program from Adobe Systems Inc. in its latest version or another program that allows viewing and saving PDF documents.
+
+-For the apps: compatible devices and software, especially the compatible version of the operating system intended for the apps.
+
+It is the user's responsibility to ensure, before purchasing the apps and/or content, that their hardware and software are compatible with the apps and/or content at the time of purchase and in the future. BILD is not obligated to provide ongoing support for operating systems or platforms.
+
+17. Prices, payment and delivery terms
+
+17.1 All prices quoted include the applicable statutory value added tax.
+
+17.2 The remuneration for the respective contract period is payable in advance and is due for payment immediately after completion of the order and thereafter at the beginning of each subsequent contract period.
+
+17.3 Zur Bezahlung bietet BILD gegebenenfalls unterschiedliche Zahlungswege an (z. B. Lastschrift, PayPal, Nachnahme oder Klarna), wobei jedoch kein Anspruch darauf besteht, dass dem Nutzer stets sämtliche Zahlungswege angeboten werden. Für die Zahlungsabwicklung über den jeweiligen Finanzierungspartner bzw. Zahlungssystemanbieter gelten ausschließlich die Nutzungs- und Geschäftsbedingungen des betreffenden Anbieters.
+
+17.4 Wurde zur Begleichung der Rechnung das SEPA-Lastschriftverfahren vereinbart, so ist BILD dazu verpflichtet, dem Nutzer Betrag und Belastungsdatum im Vorfeld mitzuteilen. Die Vorinformation (Pre-Notification) erfolgt spätestens 1 Werktag vor Kontobelastung. Mit der Wahl des SEPA-Lastschriftverfahrens erklärt sich der Nutzer damit einverstanden, dass die Vorabinformationsfrist (Pre-Notification) von 14 Kalendertagen auf einen Werktag vor Fälligkeit verkürzt wird.
+
+17.5 Wählt der Nutzer PayPal als Zahlungsweg, zahlt er den Vergütungsbetrag ohne Bekanntgabe seiner Bankdaten gegenüber BILD. Vielmehr folgt ein automatischer Abbuchungsvorgang (elektronisches Lastschriftverfahren) bzw. Belastungsvorgang (Kreditkartenzahlung) ausschließlich zwischen dem Nutzer und PayPal selbst. Nach den Nutzungsbedingungen von PayPal können dem Nutzer bei der Nutzung des PayPal-Dienstes gesonderte Gebühren entstehen. Um mittels PayPal zahlen zu können, muss der Nutzer über ein Benutzerkonto bei PayPal verfügen bzw. ein solches einrichten. Nach den PayPal-Nutzungsbedingungen behält sich PayPal bei der Durchführung des Bezahlvorgangs das Recht vor, die Zahlungsbeträge in der jeweiligen Höhe von dem PayPal-Konto des Nutzers abzubuchen.
+
+17.6 Bei den Zahlungsarten Klarna Rechnung und Klarna Ratenkauf erhält der Nutzer erst die Ware. Eine Lieferung an eine von der Rechnungsadresse abweichende Lieferadresse ist nicht möglich. Bei dem Finanzierungsservice Klarna Ratenkauf werden alle Einkäufe des Nutzers auf einer Rechnung am Ende des nächsten Monats gesammelt. Der Nutzer kann diese Rechnung dann in flexiblen Raten zahlen, aber auch jederzeit den Gesamtbetrag begleichen.
+
+17.7 Soweit der Nutzer seinen Zahlungsverpflichtungen nicht nachkommt oder geleistete Beträge zurückgebucht bzw. zurückbelastet werden, ist BILD, unbeschadet weitergehender Ansprüche, berechtigt, den Zugang des Nutzers zum Bezahlangebot bis zur Begleichung der offenen Forderungen zu sperren. Sollten die Zahlungsaufforderungen von BILD erfolglos bleiben, wird BILD den Vertrag kündigen.
+
+17.8 Gerät der Nutzer mit der Zahlung des Kaufpreises oder einer vereinbarten Teilzahlung in Verzug, kann BILD von dem Nutzer für jede Mahnung eine Mahnkostenpauschale in Höhe von jeweils 2,50 € verlangen. Dies gilt nicht, wenn es sich bei der Mahnung um eine verzugsbegründende Erstmahnung handelt oder der Nutzer nachweist, dass ein entsprechender Schaden nicht entstanden oder wesentlich niedriger als die Mahnkostenpauschale ist.
+
+17.9 Scheitert ein mit dem Nutzer vereinbarter Lastschrifteinzug mangels ausreichender Deckung des Kontos des Nutzers oder aufgrund eines schuldhaften Verhaltens des Nutzers, kann BILD die Erstattung der BILD von der beteiligten Bank in Rechnung gestellten Rücklastschriftgebühr von dem Nutzer verlangen. Dies gilt nicht, wenn BILD den Nutzern nicht oder nicht rechtzeitig über den Zeitpunkt des Lastschrifteinzugs und die Höhe des einzuziehenden Betrages informiert hat. Die Information ist rechtzeitig erfolgt, wenn sie unter Einhaltung der geltenden oder vertraglich mit dem Nutzer vereinbarten Vorankündigungsfrist ("Pre-Notification") übermittelt wurde.
+
+17.10 Wird ein Artikel ohne besondere Verfügbarkeitsangabe beworben, gilt er als sofort verfügbar. Sofern nichts anderes vereinbart ist, liefert BILD innerhalb von zehn Tagen ab dem jeweils angegebenen spätesten Verfügbarkeitszeitpunkt nach Vertragsschluss, bei Zahlung per Vorkasse innerhalb von zehn Tagen ab dem jeweils angegebenen spätesten Verfügbarkeitszeitpunkt ab Zahlungseingang.
+
+17.11 Soweit BILD, aus Gründen, die sie zu vertreten hat, in Lieferverzug gerät oder eine Lieferung unmöglich wird, und dies nicht auf Vorsatz oder grober Fahrlässigkeit beruht, wird die Haftung für Schäden ausgeschlossen. Weitergehende Ansprüche des Kunden bleiben vorbehalten. Beruhen Verzögerungen der Lieferung auf Gründen, die BILD nicht zu vertreten hat (höhere Gewalt, Verschulden Dritter, u. a.) wird die Frist angemessen verlängert. Der Kunde wird hiervon unverzüglich unterrichtet. Dauern die Ursachen der Verzögerung länger als vier Wochen nach Vertragsschluss an, ist jede Partei berechtigt, von dem Vertrag zurückzutreten.
+
+17.12 Die Laufzeit von kostenpflichtigen digitalen Angeboten lässt sich nicht unterbrechen. Daher kommt auch keine Erstattung von Kosten für solche Unterbrechungen in Betracht.
+
+17.13 Zur Gewährleistung der flächendeckenden Rücknahme der Verkaufsverpackungen ist BILD bzw. der von BILD bezeichnete Lieferant an einem Entsorgungssystem im Sinne des § 6 Absatz 3 der Verpackungsverordnung beteiligt. Der Nutzer kann die Verkaufsverpackungen daher an jeder vorgesehenen Sammelstelle des Entsorgungssystems zurückgeben.
+
+18. Monatliche Zahlungsweise, "Lastschrift komplett"
+
+18.1 BILD ermöglicht dem Nutzer den vereinbarten Kaufpreis für das einheitliche Bundle-Angebot aus Hardware und Zugang zu BILDplus in monatlichen Teilbeträgen zu zahlen. Hierzu kooperiert BILD mit der Arvato Payment Solutions GmbH. BILD ist in einem solchen Fall berechtigt, alle gegen den Nutzer bestehenden Zahlungsansprüche an die Arvato Payment Solutions GmbH abzutreten.
+
+18.2 Die Übermittlung eines Tilgungsplans mit Daten zur Fälligkeit der monatlichen Teilbeträge oder die sonstige Übermittlung von Daten zur Fälligkeit der monatlichen Teilbeträge stellt eine Vorankündigung („Pre-Notification“) für den Lastschrifteinzug der genannten Beträge jeweils zur genannten Fälligkeit dar. Eine zusätzliche Pre-Notification erfolgt i. d. R. nicht.
+
+18.3 Hat BILD mit dem Nutzer eine monatliche Zahlungsweise vereinbart und gerät der Nutzer mit mindestens zwei aufeinander folgenden Teilzahlungen ganz oder teilweise und mit mindestens 10 Prozent des für die gesamte Mindestvertragslaufzeit vereinbarten Entgeltes in Verzug und hat BILD dem Nutzer erfolglos eine zweiwöchige Frist zur Zahlung des rückständigen Betrages mit der Erklärung gesetzt, dass BILD bei Nichtzahlung innerhalb der Frist die gesamte Restschuld verlangen werde, kann BILD bei Nichtzahlung innerhalb der Frist die sofortige Zahlung der gesamten Restforderung verlangen.
+
+18.4 BILD ermöglicht es dem Nutzer ggf., den vereinbarten Kaufpreis als Komplettbetrag per Lastschrift zu zahlen („Lastschrift komplett“). Auch hierzu kooperiert BILD mit der Arvato Payment Solutions GmbH. BILD ist in einem solchen Fall berechtigt, alle gegen den Nutzer bestehenden Zahlungsansprüche an die Arvato Payment Solutions GmbH abzutreten.
+
+19. Eigentumsvorbehalt
+
+Die gelieferte Ware bleibt bis zur vollständigen Zahlung des Kaufpreises und Ausgleich sämtlicher Ansprüche aus dem Liefervertrag Eigentum von BILD.
+
+20. Laufzeiten und Kündigung
+
+20.1 Verträge über die kostenpflichtigen Angebote von BILD laufen jeweils für die Dauer der angegebenen Vertragslaufzeit, beginnend mit dem Tag des Vertragsschlusses. Sofern nicht jeweils abweichend angegeben, verlängert sich der Vertrag grundsätzlich automatisch auf unbestimmte Zeit. Das verlängerte Vertragsverhältnis kann jederzeit mit einer Frist von einem Monat gekündigt werden.
+
+20.2 Bei Gutscheinen und anderen von Vertriebspartnern von BILD vertriebenen Zugangsberechtigungen für das Bezahlangebot BILDplus endet der mit dem Gutschein bzw. der anderen Zugangsberechtigung vermittelte Zugang und damit das Vertragsverhältnis mit BILD zum Ende der mit dem Dritten vereinbarten Laufzeit. Im Falle einer möglichen Kündigung muss die Kündigungserklärung an den Vertriebspartner gerichtet werden. Sieht der Gutschein bzw. die anderweitige Leistungsbeschreibung des Vertriebspartners eine kostenpflichtige automatische Verlängerung des Vertragsverhältnisses vor, so wird darauf auf dem Gutschein und/oder auf der Einlöseseite bzw. in der anderweitigen Leistungsbeschreibung des Vertriebspartners informiert.
+
+20.3 If access to BILDplus is offered as part of a bundle deal by BILD, the BILDplus access agreement has a minimum term (e.g., 24 months). The length of the minimum term is specified in the offer description. The BILDplus access agreement automatically renews for a further 12 months ("renewal period") at the price stated in the renewal offer unless terminated by the user or by BILD with three months' notice prior to the end of the minimum term or renewal period. The right to terminate for cause remains unaffected. Termination must be in writing. In the event of a renewal, the fee for BILDplus access is also due for the respective renewal period according to the bundle offer: If it was a bundle with a one-time payment at the beginning, the fee for the entire renewal period is due as a single payment. If, however, the bundle was a monthly payment plan, the fee will be due monthly even during the renewal period. If the user grants BILD a SEPA direct debit mandate upon signing the contract and the contract is renewed, BILD will collect the fee for BILDplus access via direct debit from the user's specified account after the minimum contract term has expired. For direct debit collection during the minimum contract term of the bundle offer, the user must issue a separate SEPA direct debit mandate to the financing partner involved.
+
+20.4 In cases where a user switches to a different BILDplus package or adds another available subscription module to their existing subscription, a new contract period begins for the subscription agreement, with the duration of the respective minimum term. Section 20.1 then applies to this new contract period. This can result in an extension of the contract term without the possibility of prior ordinary termination during the "old" contract period. Payments already made will generally be credited against the invoice for the new contract period. However, this crediting may not be possible for in-app purchases due to restrictions imposed by the app store providers.
+
+20.5 For the BILD apps, the provider of the respective app store (iTunes Store, Google Play Store, etc.) also influences the available subscription models. Some app stores offer special options for ending subscriptions, for example, via a corresponding menu item in the store. Therefore, in addition to sections 20.1 to 20.4 of these Terms and Conditions, the provisions of the respective app store also apply.
+
+20.6 Sponsored free access may, but does not have to, be extended by BILD.
+
+20.7 Upon termination of the subscription, the right to use the affected content, such as BILDplus or ePaper, expires.
+
+20.8 Membership in the BILD CLUB ends automatically with the termination of the user's BILDplus subscription or their BILD or BZ newspaper subscription. If BILD CLUB membership is part of a BILDplus subscription, it cannot be cancelled independently of that subscription.
+
+20.9 Membership in services requiring registration can be terminated at any time, but only after any existing subscriptions or other ongoing contractual obligations relating to the online services have been terminated or expired. In this case, the user can request the deletion of their user account with the registration service myPass by sending an email to datenschutz@myPass.de. The deletion or termination of the myPass account does not affect BILD's rights to the posted content. The user's posts remain accessible within the service, even though they are generally anonymized or pseudonymized by removing the username. Termination of the account does not affect BILD's rights to the content posted by the user.
+
+20.10 BILD has a special right of termination in the event that users who have provided their personal data as consideration for the use of an offer or have committed to doing so, revoke their data protection consent to the use of their data on the basis of Art. 7 Para. 3 GDPR or object to the data use pursuant to Art. 21 Para. 1 GDPR.
+
+20.11 Both parties are free to terminate the contract without notice.
+
+21. Usage rights
+
+21.1 BILD grants only a simple right of use for the digital content for its intended purpose. The user is therefore specifically prohibited from reproducing the digital content beyond what is necessary for private use, downloading, editing, making publicly available, distributing, modifying, adapting, translating, creating derivative works from, decompiling, reverse engineering, disassembling, or otherwise attempting to access the source code of the digital content, unless expressly permitted by law. The user is not permitted to retrieve or copy the digital content using bots, spiders, screen scraping, or other automated methods. Furthermore, the user is prohibited from using the digital content for training or developing artificial intelligence (AI), including language models, machine learning, neural networks, or other AI systems. Use for text and data mining (Section 44b of the German Copyright Act) remains expressly reserved.
+
+21.2 The use of digital content from paid services, such as BILDplus, (e.g. articles, photos) is permitted exclusively for the user's own non-commercial purposes, regardless of any possible physical embodiment.
+
+Other or further uses and exploitations of the content are prohibited for the user. BILD does not grant the user any corresponding rights of use. Therefore, it is particularly impermissible to create additional copies of the content, to download, edit, or modify the content and publish or exploit the result, to pass on or otherwise distribute the content to third parties, to make the content publicly accessible, or to send it to third parties. This also applies to use in intranets or extranets.
+
+The preceding paragraph applies, subject to the statutory limitations of copyright, regardless of the purpose of the use or exploitation and regardless of the form or embodiment of the digital content at the relevant time. Furthermore, this clause 21.2 applies not only to the digital content as a whole, but also, subject to the statutory limitations of copyright, to all individual articles, photographs, and other individual components, as well as parts thereof.
+
+21.3 Regardless of any potential copyright protection of the journalistic and editorial content of paid services, it is prohibited to systematically republish information from this content in other journalistic offerings, meaning regularly and not just in isolated cases. Uses not permitted under copyright law remain inadmissible in all cases.
+
+21.4 If and to the extent that the user is required to install one or more computer programs on their own device to use a game or other service (e.g., for a browser game), BILD grants the user the non-exclusive right to install and use the computer programs for the purposes of the game in question and to make the necessary copies. No further or other rights of use are granted. Sections 69d and 69e of the German Copyright Act (UrhG) remain unaffected.
+
+21.5 By posting or uploading content (e.g., comments, ratings, texts, photos, videos, as well as name, address, and photo in the case of competitions and prize draws) to BILD's free and paid digital services, the user grants BILD a simple, perpetual, and geographically unrestricted right to reproduce, distribute, edit, and publicly display the content online and in print. This also includes the right to use the content for advertising purposes. This grant of rights extends to all of BILD's online services and social media accounts—including those under top-level domains (TLDs) other than .de—as well as to print publications such as BILD. The first and last name chosen during registration will be used as the author's name for the content, unless the user has also chosen a nickname. If the user is no longer registered and/or their account is deleted, the content will remain available; however, BILD may anonymize the content for data protection reasons. The granting of usage rights does not create any obligation for BILD to pay compensation. BILD reserves the right not to publish submitted content.
+
+21.6 By posting or uploading content, the user simultaneously declares that they are the holder of all necessary rights of use to this content and are authorized to edit, reproduce, distribute, and publicly display and/or make it perceptible. This includes, in particular, third-party copyrights for videos, music, and images, but also the right to one's own image of any persons depicted.
+
+22. User content
+
+22.1 Comments, ratings, and all other user content (texts, photos, videos, etc.) published by users in connection with BILD's free and paid digital services to other users or the general public are personal expressions of the users and do not represent the opinion of BILD. Furthermore, the content must not contain any illegal material, advertising, or commercial content. Therefore, the following are strictly prohibited:
+
+-Content that incites hatred against parts of the population or against a national, racial, religious or ethnic group, calls for violence or arbitrary measures against them, or attacks the human dignity and general personal rights of others by insulting, maliciously disparaging or defaming parts of the population or a aforementioned group;
+
+-Content depicting children or young people in unnaturally sexualized poses, that is pornographic, especially if it involves violence, the sexual abuse of children or young people or sexual acts between humans and animals, as well as content that violates regulations for the protection of minors for other reasons, in particular content within the meaning of the relevant provisions of the Interstate Treaty on the Protection of Minors in the Media; this also applies to content that merely refers to or suggests such content and/or objectives;
+
+-Content that promotes games requiring state authorization (especially gambling as defined in Section 184 of the German Criminal Code), or that deals with or promotes chain letters, pyramid schemes, betting or related matters;
+
+-Content that is offensive, defamatory or otherwise insulting and/or exhibits racist or xenophobic tendencies;
+
+-Content that violates the right to protection of privacy and intimate sphere and/or otherwise the general right of personality and/or threatens or otherwise pressures others in any way would be carried out;
+
+-Content that violates the right of third parties to their own image;
+
+-Content that infringes the copyright and/or related rights of third parties (e.g. photos of fashion events for which the user does not possess the necessary rights).
+
+22.2 Where technically feasible, users are permitted to link to third-party content. However, users must always ensure that the content accessible on the linked websites does not itself violate the rules specified in section 21.1 and does not lead to advertising and other commercial offers, chats, or forums.
+
+22.3 BILD reserves the right to make comment functions available only to BILDplus users. Even after the BILDplus subscription is terminated, the comment will remain. In this case, the user's identity will be anonymized.
+
+23. Abuse of services, sanctions, exemption
+
+23.1 BILD's digital services are intended for the user's private use within the framework of these Terms and Conditions. BILD is entitled to take measures, including technical measures, against any other use and misuse of a paid service, and to sanction violations of these Terms and Conditions. In particular, the following applies:
+
+Use for commercial and/or business purposes is not permitted. This applies in particular to offering goods or services of any kind for a fee, or soliciting such offers. This prohibition also applies to communication between users, provided that the communication in question takes place using the service and its features and functions, as well as to advertising for third-party goods or services for a fee. In particular, the use of games and/or forums, etc., for commercial purposes (advertising, selling virtual credits, etc.) is prohibited without the prior express consent of BILD.
+
+To protect against misuse, BILD reserves the right to mark content using measures that are not immediately apparent to the user. In particular, BILD reserves the right to mark downloadable content with the user's name and email address.
+
+Users are prohibited from manipulating BILD's free and paid digital services by any means whatsoever (scripts, programs, circumvention of access restrictions (hacking, etc.)). This applies in particular to the use of so-called UDID fakers to illicitly access services, the manipulation of game statistics (e.g., high scores), and the use of methods by which data of any kind is read, stored, processed, altered, forwarded, or otherwise misused from a service. Furthermore, intercepting emails/messages or hacking, automatically collecting, or otherwise compromising the profiles of other users is strictly prohibited.
+
+Viruses, Trojans, or similar malicious code must not be introduced. Sending spam emails/spam messages is also prohibited.
+
+23.2 BILD reserves the right to warn users and/or edit or delete user content if BILD has reasonable grounds to suspect that the user is violating these Terms and Conditions. If the suspicion is substantiated, BILD may also block the user's access, either partially or completely, temporarily or permanently. When choosing a sanction, BILD will take into account, in particular, the severity of the violation and the degree of culpability on the part of the user. Regardless of the above, BILD is always entitled to terminate the contract with the user without notice if the legal requirements are met. Further and additional claims remain reserved.
+
+23.3 If BILD, its management, its employees and/or other staff are held liable by third parties with the claim that certain content published by the user infringes the third party's absolute rights (e.g., as a result of insults, false statements of fact, copyright infringements), the user is also obligated to indemnify BILD and its management, employees and other staff from any liability and all costs, including legal fees for defense as well as possible and actual costs of legal proceedings and any fines imposed or to be imposed by a court.
+
+BILD will inform the user of the claim and, insofar as possible and reasonable, give them the opportunity to prove the legality of the publication and to defend against the asserted claim. The user, on the other hand, is obligated to immediately and completely inform BILD of all information available to them regarding the matter in question.
+
+Any further claims for damages that BILD may be entitled to remain unaffected.
+
+24. Liability / Liability for Defects / Warranty
+
+24.1 If paid digital services, such as BILDplus, or other content and goods are provided to you free of charge, the statutory regulations for gifts apply. Liability is limited to intent and gross negligence in accordance with § 521 of the German Civil Code (BGB). No warranty is provided for defects. Services are offered subject to availability and may be changed or discontinued at any time at our sole discretion.
+
+24.2 BILD is liable for damages arising from the use of paid products that are caused intentionally or through gross negligence, that result from the absence of a guaranteed characteristic of the service, that are based on a culpable breach of essential contractual obligations (so-called cardinal obligations), that result from a culpable injury to health, body, or life, or for which liability is provided under the Product Liability Act, in accordance with statutory provisions. Cardinal obligations are those contractual obligations whose fulfillment is essential for the proper performance of the contract and on whose compliance the contractual partner may regularly rely, and whose breach, on the other hand, jeopardizes the achievement of the purpose of the contract. In the event of a breach of a cardinal obligation, liability – insofar as the damage is based solely on simple negligence and does not involve personal injury, life, or health – is limited to such damages that are typically and foreseeably expected to occur in the course of providing services such as those that are the subject of this contract. Furthermore, liability – regardless of the legal basis – is excluded both towards BILD and towards BILD's vicarious agents and assistants.
+
+24.3 Insofar as claims for defects may exist according to the nature of the service in question, the statutory provisions generally apply. However, the warranty period is reduced to one year, unless it concerns claims for damages due to material defects, which result from the absence of a guaranteed characteristic of the service, which result from a culpable injury to health, body or life, or for which liability is provided under the Product Liability Act. If the user is a business and the ordered service is for their business operations, their claims for defects expire one year after receipt of the goods.
+
+24.4 BILD points out that the manufacturer may offer a warranty for the device purchased as part of a hardware bundle that extends beyond the statutory warranty provisions. The manufacturer alone is responsible for this potential warranty, and its warranty terms and conditions apply.
+
+25. Special rules for games
+
+25.1 BILD does not guarantee the uninterrupted availability of online or browser games. In the event of technical malfunctions (e.g., as a result of an external attack or a database failure), BILD reserves the right to restore a current backup of the game or the underlying systems. In such a case, game progress, game statistics, virtual balances, etc., may be reset to the point in time when the backup was created. The user cannot assert any claims arising from such an event.
+
+25.2 If BILD makes a game from a third-party provider (“third-party provider”) accessible, the third-party provider alone is responsible for the game.
+
+25.3 If the acquisition and use of virtual credits (e.g., "tokens," "points," "coins," etc.) is part of a game, the following applies: BILD may, at its sole discretion, determine which virtual goods and services the user can purchase with the virtual credits. An "exchange" for non-virtual payment methods or other monetary value is excluded. The transfer of virtual credits to other users is also strictly prohibited.
+
+25.4 If BILD discontinues an online or browser game and notifies users of this within a reasonable timeframe, the user is not entitled to a refund of any credits acquired for the game. A reasonable timeframe in this case is one within which the user can use up their credits through normal gameplay by the end of the specified period.
+
+26. “Hey_” - Terms of Use
+
+26.1 The chatbot “Hey_” is an interactive tool based on OpenAI’s AI model “ChatGPT” and is designed to deliver information in an entertaining and personalized way.
+
+26.2 “Hey_” is not intended to, nor capable of, replacing any kind of individual and professional advice or service, including, but not limited to, legal, medical, or financial advice. The answers provided by “Hey_” are based on artificial intelligence and therefore on probabilities in comparable question constellations, and cannot replace actual, individualized answers from a human.
+
+26.3 To generate answers, “Hey_” accesses various information sources such as OpenAI's LLMs (e.g., GPT4o), the BILD archive, or the internet. Insofar as BILD trains the chatbot itself, this does not change the probability-based functionality of the AI ​​model.
+
+26.4 Some topic suggestions on “Hey_” are marked as advertisements. In these cases, these are paid chat histories that may be controlled by instructions provided in the background or by other training methods tailored to the respective advertising partner.
+
+26.5 It is not permitted to use “Hey_” to generate content that is prohibited by laws, regulations, official orders, or decrees, such as content glorifying violence, discrimination, pornography, or content that infringes the rights of others. It is also prohibited to
+
+attempting to gain unauthorized access to or disrupt services, devices, data, accounts, or networks;
+To spread spam or malware;
+mining cryptocurrencies without prior written authorization from Microsoft/OpenAI;
+to act in a manner that could damage “Hey_” or impair its use by other people.
+It is also prohibited to assist or encourage anyone to violate any of the prohibitions contained in this paragraph.
+
+26.6 It is not permitted to enter personal data of third parties into “Hey_”. Furthermore, it is not permitted to enter special categories of personal data within the meaning of Article 9(1) GDPR – such as health data, data concerning ethnic origin, political opinions, religious beliefs, or sexual orientation – into “Hey_”.
+
+26.7 The chatbot's responses are not subject to editorial review. They may be incorrect, outdated, or misleading. You should always critically examine the information received and not accept it without verification.
+
+26.8 BILD accepts no liability for damages that may arise from the use of “Hey_”.
+
+27. Data protection
+
+All information regarding the collection, processing and use of users' personal data can be found in BILD's privacy policy.
+
+28. Changes to these Terms of Use
+
+28.1 These Terms and Conditions may be amended at any time and without giving reasons. The amended Terms and Conditions will be displayed to the user in a suitable manner or, if necessary, sent by email. They will be deemed accepted if the user does not object to their validity within four weeks of receiving the notification. The objection must be in written form, i.e., at least by email. The user will be specifically informed in the notification of the possibility of objecting, the deadline, and the consequences of failing to do so.
+
+28.2 If the user objects, both BILD and the user have the right to terminate the subscription in question with immediate effect. Furthermore, the possibility of amending the Terms and Conditions according to section 27.1 does not apply to changes that restrict the content and scope of the core usage options of BILD's services available to the respective user to the user's disadvantage, nor to the introduction of new obligations for the user not previously stipulated in these Terms and Conditions.
+
+28.3 Dispute Resolution: BILD does not participate in voluntary dispute resolution proceedings before a German consumer arbitration board. There is no legal obligation to do so.
+
+29. Other
+
+29.1 Applicable Law: These Terms of Use are governed by German law, excluding the UN Convention on Contracts for the International Sale of Goods and German and European conflict of laws rules, whereby mandatory consumer protection regulations always take precedence over the choice of law.
+
+29.2 Place of jurisdiction: For merchants (within the meaning of the German Commercial Code), foundations or public corporations, Berlin is the exclusive place of jurisdiction for all disputes arising from or due to the use of BILD's services or these terms of use.
+
+29.3 Contract Text and Language: The contract between the user and BILD is generally not set down in a separate contract text specific to the user, which the user could then access later. The content of the contract, however, is derived from these Terms and Conditions and the subject matter of the concluded contract. Only the German language is available for concluding the contract.
+
+
+
+
+As of May 2025

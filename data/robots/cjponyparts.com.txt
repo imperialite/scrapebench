@@ -1,0 +1,38 @@
+User-agent: *
+Disallow: */wishlist/
+Disallow: */productalert/
+Disallow: */sendfriend/
+Disallow: */review/
+Disallow: */vault/
+Disallow: */errors/
+Disallow: */admin/
+Disallow: /customer/account/edit/
+Disallow: /customer/address/edit/
+Disallow: /customer_order/sku/
+Disallow: /customer/account/vehicle/
+Disallow: /checkout/cart/configure/
+Disallow: /sales/order/*
+Disallow: */c/8_1001_/
+Disallow: /catalog/ 
+Disallow: /checkout/
+Disallow: /17-1001/c/*
+
+User-agent: AdsBot-Google
+Allow: /*/c/*type*brand
+Allow: /*/c/*type*price
+Allow: /*/c/*brand*type
+Allow: /*/c/*price*type
+
+User-agent: AdsBot-Google-Mobile
+Allow: /*/c/*type*brand
+Allow: /*/c/*type*price
+Allow: /*/c/*brand*type
+Allow: /*/c/*price*type
+
+User-agent: AdIdxBot
+Allow: /*/c/*type*brand
+Allow: /*/c/*type*price
+Allow: /*/c/*brand*type
+Allow: /*/c/*price*type
+
+Sitemap: https://www.cjponyparts.com/sitemap/sitemap.xml

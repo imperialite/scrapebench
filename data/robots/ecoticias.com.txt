@@ -1,0 +1,41 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+# Bloqueo de plantillas del tema Newspaper
+Disallow: /tdb_templates/*
+
+# Bloqueo de bÃºsquedas internas
+Disallow: /search/
+Disallow: /?s=
+Disallow: *?s=
+
+# Sitemaps
+Sitemap: https://www.ecoticias.com/news-sitemap.xml
+Sitemap: https://www.ecoticias.com/en/news-sitemap.xml
+Sitemap: https://www.ecoticias.com/hoyeco/news-sitemap.xml
+
+Sitemap: https://www.ecoticias.com/sitemap_google_news.xml
+Sitemap: https://www.ecoticias.com/en/sitemap_google_news.xml
+Sitemap: https://www.ecoticias.com/hoyeco/sitemap_google_news.xml
+
+User-agent: grapeshot
+Allow: /
+
+# Agentes no deseados conocidos User-agent: ia_archiver 
+User-agent: AhrefsBot
+Disallow: /
+User-agent: Rogerbot
+Disallow: /
+User-agent: Dotbot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: SemrushBot-SA
+Disallow: /
+User-agent: PetalBot
+Disallow: /
+User-agent: Bytespider
+Disallow: /

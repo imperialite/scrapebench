@@ -1,0 +1,178 @@
+Terms of Service | SignUpGenius
+Products
+Sign Ups
+Auctions
+Tickets
+Donations
+Payments
+Pricing
+Templates
+Resources & Tips
+Blog
+Case Studies
+Videos
+Enterprise
+Search
+Help
+Terms of Service
+Last Updated: January 14, 2025
+Please read these Terms of Service (“Terms”) carefully before accessing the information available on any platform, website, application, or service operated by SignUpGenius, Inc. (“SignUpGenius,” “we,” “us,” or “our”), including but not limited to https://www.signupgenius.com (the “Site”). These Terms apply to the use of any products, solutions, features, or functionality provided by SignUpGenius (collectively, the “Services”), whether accessed through the Site or any other platform or method.
+Access to the Site and use of the Services is conditioned upon your acceptance of, and compliance with, these Terms. By accessing or using the Services, you agree to be bound by these Terms. If you disagree with any part of these Terms, then you do not have permission to access the Services, and you must immediately cease accessing and/or using the Services.
+Services
+The Services offered by SignUpGenius allow you to, among other things, create online sign up forms to help you (the "Creator") organize events and coordinate groups of people participating in those events. After creating an online sign up form for a particular event, the Creator can invite participants (each, a "Participant") to sign up for such event using the online sign up form created by the Creator.
+In order to use the Services to create a sign up form, the Creator must register on the Site by providing us with certain requested information, such as name and email address, and establishing a password. Creating an account on the Site is optional for Participants. Creators and Participants who choose to create an account may also choose to provide other optional information, such as a photo, address, and phone number.
+All Creators and Participants agree to subscribe to the newsletters, marketing or promotional materials, and any other information SignUpGenius may send. You can unsubscribe from communications that are not specifically related to sign ups you are connected to by clicking on the "Unsubscribe" link or by following the instructions provided in those communications. If you do not wish to receive any communications from SignUpGenius, you may
+contact us
+, and our staff will delete you from our system.
+Paid Subscriptions
+Certain Services are offered by SignUpGenius on a paid subscription basis ("Paid Subscriptions"). If you wish to purchase any Paid Subscription, you will be asked to supply certain information relevant to your purchase including, without limitation, your credit card number, your credit card verification code, the expiration date of your credit card, and your billing address (collectively, "Payment Information").
+You represent and warrant that: (i) you have the legal right to use any credit card(s) or other payment method(s) provided by you in connection with any purchase of any Paid Subscription; and (ii) the Payment Information you supply to us is true, accurate and complete.
+You understand that by purchasing a Paid Subscription your subscription will remain active until you cancel. Your Paid Subscription will automatically renew on a monthly or annual basis, depending on your selection at the time of purchase, and you will be billed automatically for such renewal. If the renewal charge fails, you will lose access to your Paid Subscription. You can cancel your Paid Subscription within the billing settings in your account details. If you cancel your Paid Subscription, you will still be able to use the product for the remaining duration of the active subscription period. All subscription payments are non-refundable.
+SignUpGenius may use a third party payment processing service for the purposes of facilitating payment and the completion of purchases of Paid Subscriptions. By submitting your Payment Information via the Site, you grant us the right to provide such Payment Information to any third party payment processing service we use for the foregoing purposes.
+We reserve the right to refuse or cancel your order for a Paid Subscription at any time for any reason in our sole discretion, including but not limited to: (a) product or service availability, (b) errors in the description or price of the product or service, or (c) error in your order for a Paid Subscription. In addition, we reserve the right to refuse or cancel your order for a Paid Subscription if fraud or an unauthorized or illegal transaction is suspected by us in our sole discretion.
+Paid Subscription features may be added, removed, or altered at any time in the sole discretion of SignUpGenius.
+Text Messaging Service
+By giving consent to receive text messages, regardless of the opt-in method, you agree that SignUpGenius may send text messages (such as SMS, MMS, or successor protocols or technologies) to you at the mobile number provided (the "Text Messaging Service"). Text messages may include reminders or notifications related to our products, services, transactions, and your relationship with us. You verify that the mobile number(s) provided to us is true and accurate. You verify that you are the current subscriber or owner of any mobile number(s) that you provide.
+As part of the Text Messaging Service, you may have the ability to send text messages to each Participant (the recipient) who has opted in to the Service. The ability to send text messages and the number of text messages you may send is dependent on having an applicable Paid Subscription.
+You may opt out of receiving text messages at any time by texting "STOP" to the phone number from which the reminder or message was received. You acknowledge and agree to accept a text message confirming your opt-out. If you want to resubscribe, text "START" to the same number, and you will receive text messages again.
+Texting "STOP" to the applicable number will opt you out of messages from all organizers. To stop receiving messages from specific organizers, manage your preferences in your account settings.
+For SignUpGenius support,
+contact us
+or email
+[email protected]
+.
+The Text Messaging Service only supports text messages to numbers registered in the U.S. or Canada. Carriers are not liable for delayed or undelivered messages.
+Message and data rates may apply. Message frequency will vary. If you have any questions about your text plan or data plan, please contact your wireless provider.
+By using the Text Messaging Service, you also agree to the
+Twilio Acceptable Use Policy
+.
+Collecting Payments
+The Services may allow you, as a Creator, to activate a feature to collect payments from Participants for sign up items or donations (the "Payments Service"). SignUpGenius offers payments through Stripe, Inc. ("powered by Stripe").
+By activating the Payments Service as a Creator, or using the Payments Service as a Participant, you understand and agree to the following:
+(a) As the Creator, you are solely responsible for the management and distribution of funds received by those who initiate payments through the platform. We shall not be held liable for any mismanagement of funds collected.
+(b) You acknowledge and agree that you have reviewed and understand the fees charged for payment collection using the Payments Service.
+(c) Fees that are charged in connection with your use of the Payments Service are nonrefundable.
+(d) SignUpGenius does not store credit card information. Your credit card information is stored securely with a separate billing service.
+(e) As a Creator, you are solely responsible for the delivery of goods and/or services as advertised. Any disputes regarding funds collected by you are your responsibility.
+(f) As a Participant, you understand that the goods and/or services advertised are provided by the Creator, and not SignUpGenius. If you have any disputes regarding such goods and/or services, or regarding the funds collected using Payments Service, you must resolve such disputes with the Creator.
+Availability, Errors and Inaccuracies
+We are constantly updating the products and services offered via the Site, and we reserve the right to modify or delete any Services at any time in our sole discretion. We may experience delays in updating information on the Site and in any advertising we do related to our products and services on third party web sites. The information found on the Site may contain errors or inaccuracies and may not be complete or current. Services may be mispriced, described inaccurately, or unavailable on the Site, and we cannot guarantee the accuracy or completeness of any information found on the Site.
+We, therefore, reserve the right to change or update information and to correct errors, inaccuracies, or omissions at any time without prior notice.
+Contests, Sweepstakes and Promotions
+Any contests, sweepstakes or other promotions (collectively, "Promotions") made available by SignUpGenius through the Services may be governed by rules that are separate from these Terms. If you participate in any Promotions made available by SignUpGenius, you are responsible for reviewing and complying with the applicable rules. If the rules for a SignUpGenius Promotion conflict with these Terms, the Promotion rules will apply.
+If you, as a Creator, use the Services to communicate or administer a Promotion, you are responsible for the lawful operation of such Promotion, including the official rules, other terms and eligibility requirements, and compliance with applicable rules and regulations governing the Promotion and all prizes offered. Your official rules must include a complete release of SignUpGenius by each entrant of your Promotion, and an acknowledgement from each entrant that the Promotion is in no way sponsored, endorsed, or administered by, or associated with, SignUpGenius. SignUpGenius will not assist you in the administration of your Promotion, and you agree that if you use the Services to administer a Promotion, you do so at your own risk.
+Content
+Our Services may allow you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material ("User Content"). You are responsible for any and all User Content that you post on or through the Services, including its legality, reliability, accuracy, and appropriateness.
+By posting User Content on or through the Services, you represent and warrant that: (i) you own such User Content and/or that you have the right to use it, and (ii) the posting of such User Content on or through the Services does not violate any intellectual property or proprietary rights of any person or entity, including any privacy rights, publicity rights, copyrights, or any other contract rights. We reserve the right to terminate the account of anyone found to be infringing a third party's intellectual property or other proprietary right.
+You retain any and all rights to any User Content you submit, post or display on or through the Services. We take no responsibility and assume no liability for User Content you or any third party posts on or through the Services, or that is posted publicly as a result of your use of the Services. The extent to which your User Content is available publicly is determined by the settings you choose as part of the Services. You are responsible for the ways in which your User Content is published via the Services. SignUpGenius assumes no responsibility for how User Content is shared by anyone not employed by SignUpGenius.
+SignUpGenius has the right but not the obligation to monitor and edit all User Content provided by you and any other user of the Services.
+Any materials, information, and other content made available through, or created by, the Services ("SUG Content") is the property of SignUpGenius and may only be used as intended as part of the Services or with permission. You may not distribute, modify, transmit, reuse, download, repost, copy, or use SUG Content, whether in whole or in part, for commercial purposes or for personal gain, outside of its intended purposes in connection with the Services without express advance written permission from SignUpGenius.
+Accounts
+When you create an account with us, you represent and warrant that you are above the age of 13, and that the information you provide us is accurate, complete, and current at all times. Inaccurate, incomplete, or obsolete information may result in the immediate termination of your account.
+You are responsible for maintaining the confidentiality of your account user name and password (collectively, "User Credentials"), including but not limited to the restriction of access to your computer and/or your account information. You agree to accept responsibility for any and all activities or actions that occur in connection with your User Credentials. You must notify us immediately upon becoming aware of any breach of the security or unauthorized use of your account or your User Credentials.
+Restrictions
+You agree that you will not under any circumstances:
+• post any information via the Services that is abusive, threatening, obscene, defamatory, libelous, or racially, sexually, religiously, or otherwise objectionable and offensive;
+• use the Services for any unlawful purpose or for the promotion of illegal activities;
+• attempt to, or harass, abuse or harm another person or group via the Services;
+• use another user's account without permission;
+• provide false or inaccurate information when registering an account via the Site;
+• interfere or attempt to interfere with the proper functioning of the Services;
+• make any automated use of the Site or Services, or take any action that we deem to impose or to potentially impose an unreasonable or disproportionately large load on our servers or network infrastructure;
+• bypass any robot exclusion headers or other measures we take to restrict access to the Services or use any software, technology, or device to scrape, spider, or crawl the Services or harvest or manipulate data; or
+• publish or link to malicious content intended to damage or disrupt another user's browser or computer.
+We reserve the right to refuse service, terminate accounts, remove or edit content, or cancel orders at our sole discretion.
+Privacy Policy
+Information that we collect from you in connection with the Services will be used in accordance with our
+Privacy Policy
+, which is incorporated into these Terms. You hereby acknowledge and agree to the terms of our Privacy Policy.
+Intellectual Property
+The Services and its content (including SUG Content, but excluding User Content), features and functionality are and shall remain the exclusive property of SignUpGenius and its licensors. The Services are protected by copyright, trademark, and other laws of both the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of SignUpGenius.
+Digital Millennium Copyright Act
+In accordance with the Digital Millennium Copyright Act ("DMCA"), we will promptly respond to claims of copyright infringement that are reported to the agent we have designated to receive notifications of claims of infringement, whose contact information is:
+SignUpGenius, Inc.
+1213 W. Morehead Street
+Suite 500
+Charlotte, NC 28208
+Attn: Edmund Montanari
+Email:
+[email protected]
+If you believe that your work has been copied in a way that constitutes copyright infringement, please provide our agent with written notice of the claimed infringement that includes the following:
+a) A physical signature of a person authorized to act on behalf of the owner of the copyright allegedly infringed;
+b) A description of the copyrighted work that is claimed to have been infringed;
+c) A description of where the allegedly infringing material is located on the Site;
+d) Your address, telephone number, e-mail address and any other information reasonably sufficient to allow us to contact you;
+e) A statement from you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
+f) A statement made by you, under penalty of perjury, that the information in the notice is accurate and that you are the copyright owner or are authorized to act on the owner's behalf.
+Links To Other Web Sites
+The Services may contain links to third party web sites or services that are not owned or controlled by SignUpGenius ("Third Party Sites"). SignUpGenius has no control over, and assumes no responsibility for the content, privacy policies, or practices of any Third Party Sites. We do not warrant the offerings of any of these third parties, or their websites, products or services.
+You acknowledge and agree that SignUpGenius shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any content, goods or services available on or through any Third Party Sites.
+We strongly advise you to read the terms and conditions and privacy policies of any Third Party Sites that you visit.
+Termination
+We may terminate or suspend your account and bar access to the Services immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever, including but not limited to a breach of these Terms.
+If you wish to terminate your account, you may simply discontinue using the Services. If you wish to have all data in your account removed, you may contact customer support (
+[email protected]
+), and we will remove all data associated with your account.
+All provisions of these Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+Indemnification
+You agree to defend, indemnify and hold harmless SignUpGenius and its licensees and licensors, and their respective employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees), resulting from or arising out of: (a) your use and access of the Services, by you or any person using your User Credentials; (b) a breach of these Terms; or (c) any User Content posted by you via the Services.
+Limitation Of Liability
+In no event shall SignUpGenius, its affiliates, nor their respective directors, employees, partners, agents, or suppliers, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of, or inability to access or use, the Services; (ii) any conduct or content of any third party made available via the Services; (iii) any content obtained from your use of the Services; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose. You agree that in no case shall the liability of SignUpGenius, its affiliates, and their respective directors, employees, partners, agents, suppliers exceed the fees paid to SignUpGenius for the use of the Services, or the amount of ten dollars ($10.00), whichever is greater.
+Disclaimer
+Your use of the Services is at your sole risk. The Services are provided on an "AS IS" and "AS AVAILABLE" basis. The Services are provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance. SignUpGenius is not liable for loss of data due to misuse of the Services.
+SignUpGenius, its subsidiaries, affiliates, and its licensors do not warrant that: (a) the Services will function uninterrupted, secure or available at any particular time or location; (b) any errors or defects will be corrected; (c) the Services are free of viruses or other harmful components; or (d) the results of using the Services will meet your requirements.
+Some jurisdictions do not allow the exclusion of certain warranties or the exclusion or limitation of liability for consequential or incidental damages, so the limitations above may not apply to you.
+Governing Law
+These Terms shall be governed and construed in accordance with the laws of North Carolina, United States, without regard to its conflict of law provisions.
+Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Services, and supersede and replace any prior agreements we may have had between us regarding the Services.
+Changes
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. By continuing to access or use our Services after any revisions become effective, you agree to be bound by the Terms as revised. If you do not agree to the revised Terms, you are no longer authorized to use the Services.
+Contact Us
+If you have any questions about these Terms, please
+contact us
+.
+Products
+Sign Ups
+Donations
+Tickets
+Auctions
+Payments
+About
+About Us
+Social Impact
+Press Kit
+Press Releases
+Support
+Help Center
+API Docs
+Contact Us
+Careers
+Product Updates
+My Account
+Dashboard
+Templates
+Products
+Sign Ups
+Donations
+Tickets
+Auctions
+Payments
+About
+About Us
+Social Impact
+Press Kit
+Press Releases
+Support
+Help Center
+API Docs
+Contact Us
+Careers
+Product Updates
+My Account
+Dashboard
+Templates
+©
+2026
+SignUpGenius Inc. All Rights Reserved.
+Privacy Policy
+Terms of Service

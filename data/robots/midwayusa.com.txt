@@ -1,0 +1,14 @@
+User-agent: * 
+Disallow: /sendPageToFriend* 
+Disallow: /charts 
+Disallow: /content/legacy 
+Disallow: /429.html 
+Disallow: /category/* 
+Disallow: /find* 
+Disallow: /ProductStatuses* 
+Disallow: /noresultspage* 
+Disallow: *-blemished 
+Disallow: /ltd/product* 
+Disallow: /s?* 
+Disallow: /log/* 
+sitemap: https://www.midwayusa.com/sitemap.xml

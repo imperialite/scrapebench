@@ -1,0 +1,6 @@
+Sitemap: https://ezgif.com/sitemap.xml
+
+User-agent: *
+Disallow: /save/
+Disallow: /zip/
+Allow: /

@@ -1,0 +1,11 @@
+User-agent: *
+Crawl-delay: 1
+Allow: /$
+Allow: /?hl=
+Allow: /h$
+Allow: /h?hl=
+Allow: /u/0/$
+Allow: /u/0/h
+Allow: /u/0/h?hl=
+Disallow: /?hl=*&
+Disallow: /

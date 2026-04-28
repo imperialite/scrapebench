@@ -1,0 +1,37 @@
+User-agent: *
+User-agent: Googlebot
+User-agent: Googlebot-News
+User-agent: Googlebot-Image
+User-agent: Googlebot-Video
+User-agent: Googlebot-Mobile
+User-agent: Twitterbot
+Disallow: /buscador/?query=*
+Disallow: /__export/*
+Disallow: /EdicionEnLinea/*
+Disallow: /edicionenlinea/*
+Disallow: /EdicionEnlinea/*
+Disallow: /EdicionImpresa/*
+Disallow: /edicionimpresa/*
+Disallow: /DialogaCon/*
+Disallow: /Galerias/*
+Disallow: /dailystar/*
+Disallow: /busqueda/*
+Disallow: /Videos/Player/*
+Disallow: /mailto:?*
+Disallow: /whatsapp://send?text=*
+Disallow: /sharer/sharer.php?u=*
+Disallow: /share/url?url=*
+Disallow: /intent/post?text=*
+Disallow: /intent/tweet?text=*
+Disallow: /*.html?fb_comment_id=*
+Disallow: /redirectAMP.jsp?*
+Disallow: /export/sites*
+Disallow: /buscar.html*
+
+Allow: /
+
+Sitemap: https://www.elimparcial.com/arc/outboundfeeds/sitemap/?outputType=xml
+Sitemap: https://www.elimparcial.com/arc/outboundfeeds/sitemap-index/
+Sitemap: https://www.elimparcial.com/arc/outboundfeeds/sitemap-news-index/
+Sitemap: https://www.elimparcial.com/arc/outboundfeeds/sitemap-section-index/
+Sitemap: https://www.elimparcial.com/arc/outboundfeeds/google-news-feed/

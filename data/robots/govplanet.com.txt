@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /files/
+Disallow: /jsp/acct/switchLocale.jsp
+Disallow: /jsp/acct/my-account.jsp
+Disallow: /jsp/acct/reg_login.jsp
+Disallow: /jsp/acct/login.jsp
+Disallow: /jsp/acct/kcc-sh-reg.jsp
+Disallow: /jsp/equip/add-interested.jsp
+Disallow: /jsp/equip/view-document.jsp
+Disallow: /jsp/find/searchresults.jsp
+Disallow: /jsp/category/category.jsp
+Disallow: /jsp/share.jsp
+
+Sitemap: https://www.govplanet.com/sitemap.xml

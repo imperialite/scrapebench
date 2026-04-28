@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /images/
+Disallow: /static/
+Disallow: /404
+
+Sitemap: https://investor.vanguard.com/sitemap-index.xml

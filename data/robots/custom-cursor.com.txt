@@ -1,0 +1,14 @@
+# robotstxt.org/
+
+User-agent: *
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /api/
+Disallow: /search/
+Disallow: /*?term=
+Disallow: /cdn-cgi/
+
+Sitemap: https://custom-cursor.com/sitemap_en.xml
+Sitemap: https://custom-cursor.com/sitemap_ru.xml
+Sitemap: https://custom-cursor.com/sitemap_fr.xml
+Sitemap: https://custom-cursor.com/sitemap_es.xml

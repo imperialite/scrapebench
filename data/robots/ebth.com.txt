@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /cdn-cgi/
+Disallow: /admin/
+Disallow: /graphql/
+Disallow: /browse/
+
+User-agent: PetalBot
+User-agent: YandexBot
+User-agent: GPTBot
+User-agent: SemrushBot
+User-agent: SiteAuditBot
+User-agent: Mail.RU_Bot
+Disallow: /
+
+Sitemap: https://www.ebth.com/sitemap.xml

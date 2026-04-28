@@ -1,0 +1,384 @@
+Terms and conditions
+Search this site
+Embedded Files
+Skip to main content
+Skip to navigation
+GOG Distribution Terms
+Last update: January 24th, 2023.
+Dear Partner! These GOG Distribution Terms apply to the distribution of Publisher Games via the GOG Platforms and form part of the Digital Distribution Agreement entered into between the Publisher and GOG.  For ease we have provided short explanations of some clauses, however please note that
+only
+the main text (not in the gray frames) is legally binding.
+STRICTLY CONFIDENTIAL
+NOT TO BE DISCLOSED WITH ANY UNAUTHORIZED PERSONS
+Table of contents
+1. Key Commercial Terms
+2. Financial Terms
+3. Ownership and Intellectual Property Rights
+4. Representations and Warranties
+5. Liability
+6. Indemnities
+7. Confidentiality
+8. Suspension and Termination
+9. Data Protection
+10. General
+11. Definitions and Interpretation
+1. Key Commercial Terms
+1.1.
+Distribution Licence. 1️⃣
+Publisher grants to GOG a non-exclusive licence and right to use, copy, reproduce, modify, create derivative works solely for the purpose of creating Marketing Materials, host, perform, transmit, display the Publisher Materials solely for the purpose of publishing, promoting, marketing, selling, sub-licensing and distributing the Games and Marketing Materials to End Users via the GOG Platforms under the terms of the Agreement. GOG may distribute each Game in the Territory and for the duration specified in the applicable DDF.
+1️⃣
+We need this license to sell and promote your games at GOG and we’ll ask for your approval with regards to any new marketing assets.
+1.
+2
+.
+Marketing Materials Approval.
+GOG will submit all Marketing Materials it creates to Publisher for approval, which Publisher will either approve or reject within 2 (two) working days of receipt from GOG.
+1.3.
+DRM Free.
+Publisher shall ensure that all Games provided to GOG for distribution on the GOG Platforms are ‘DRM Free’. GOG may determine whether or not a Game satisfies the definition of DRM Free in its sole and absolute discretion.
+1.4.
+GOG Galaxy.
+If the parties agree to distribute any Games via GOG Galaxy: (a) GOG will provide Publisher with access to the GOG Galaxy SDK (subject to Publisher accepting any additional GOG Galaxy SDK terms and conditions); and (b) GOG and Publisher will work together in good faith to implement fully functioning GOG Galaxy builds of Games utilising GOG Galaxy features which are summarised at https://docs.gog.com/ (“
+GOG Galaxy Build
+”); and (c) Publisher will use best efforts to ensure that the GOG Galaxy Build is ready for Commercial Release at the same time as the Game is being released on any Other Platforms and Publisher will provide the GOG Galaxy Build to GOG at least five (5) days before such date. Publisher is entitled to distribute Games with GOG Galaxy Builds on Other Platforms, provided that GOG is visibly credited for the work on the build and a link to GOG.COM is provided on the product page of the website or storefront distributing the GOG Galaxy Build.
+1.5.
+Hybrid Windows, MAC and Linux SKU.
+Where multiple Operating Systems are specified for Games in DDFs, GOG may distribute those Games as a single ‘Hybrid Windows, MAC and Linux SKU’. This hybrid SKU enables End Users to purchase and play Microsoft Windows, Apple MAC OS and/or Linux versions of that Game via a single purchase. For the avoidance of doubt, the sale of such a hybrid SKU counts as only a single Game sale.
+1.6.
+Game Keys.
+GOG may create and distribute Game keys to End Users as part of GOG’s gifting service, or as otherwise agreed by the parties.
+1.7.
+Parity Requirement. 2️⃣
+2️⃣
+Parity means that game version you sell on GOG will be the same as other versions of the game distributed on other platforms.
+In case of disparity (e.g. you’ve updated a game on other platform but not on GOG), GOG may withhold the revenue for a game until the parity is restored. If the disparity
+last
+s
+more than 6 months, GOG
+may retain 50% of the revenue earned after it started.
+1.7.1. For as long as GOG remains entitled to distribute a Game, Publisher shall ensure that the version of that Game being distributed by GOG on the GOG Platforms is the same as the versions available on Other Platforms, including in relation to: (a) Game features (considering the technology available on the GOG Platforms now and in the future); (b) Game Updates and Remastered Editions, both in terms of update content and release timings; (c) release of the Game on Other Platforms (date and time), including for any Pre Orders; (d) Operating Systems; and (e) localisation (“
+Parity
+”).
+1.7.2. A failure to implement or maintain Parity will be considered a Parity Delay, unless it is caused solely by GOG (“
+Parity Delay
+”). In the event of a Parity Delay, GOG may: (a) withhold the Publisher Revenue Share for the relevant Game(s) until the Parity has been implemented or restored, to cover expected refunds and returns; and (b) communicate publicly such Parity Delay on the relevant product page on the GOG Platform. This section is without limitation to GOG’s other rights and remedies detailed in the Agreement, at law or otherwise.
+1.7.3. If a Parity Delay has not been remedied to GOG’s reasonable satisfaction within six (6) months of its first identification, GOG may terminate the Agreement in whole or in part at its sole discretion, in which case GOG will promptly pay to Publisher 50% of any Publisher Revenue Share withheld under clause 1.7.2 above and GOG will be entitled to retain the remaining 50%. The parties agree that the amount retained by GOG represents a genuine pre-estimate of loss likely to be suffered by GOG as a result of lost sales due to a lack of Parity and do not regard this as onerous or as a penalty.
+1.8.
+Delivery.
+If Publisher enters into any arrangements with Other Platform that would require a Game being made exclusively available on such Other Platform during the period in which GOG is entitled to distribute that Game on the GOG Platforms, this shall constitute an irremediable material breach of the Agreement, following which GOG at its sole discretion may: (a) immediately terminate the Agreement in whole or in part and claim back any payments and advances (including withheld Publisher Revenue Share as per Clause 1.7.2) that were paid to Publisher according to the Agreement; and/or (b) require Publisher to promptly issue a public statement, written in collaboration with GOG in good faith.
+1.9.
+Pricing.
+3️⃣ GOG in its reasonable discretion may enable certain Games to be purchased and downloaded from the GOG Platforms during the Term in the applicable Territories. GOG shall have sole and absolute discretion as to the price at which the Games are sold but shall use its reasonable commercial endeavours to sell the Games at the Suggested Retail Price (“SRP”) whenever commercially viable. GOG at its discretion may match the Other Platforms’ SRP of Games.
+3️⃣ According to the EU competition law, we need to be able to set our own prices for it not to be regarded as price-fixing.
+Nonetheless, we’ll discount the games only after you opted-in to a particular promo action so you’ll always know in advance about any planned promotions.
+1.
+10
+.
+Pre Orders.
+If the Parties agree (including via e-mail) that Pre Orders may be distributed via GOG Platforms, the details of Pre Orders distribution shall be specified in the DDF.
+1.11.
+Customer Support.
+4️⃣ GOG is responsible for legal matters and customer/technical support regarding the GOG Platforms. Publisher is responsible for legal matters (including age ratings) and other customer/technical support regarding its Games. Publisher can specify a EULA or similar legal documents to be supplied with a Game, but if not then GOG’s default EULA will apply. GOG’s legal policies (https://www.gog.com/support/policies) apply to usage of the GOG Platforms.
+4️⃣ We take care of everything on the platform and you’re responsible for your games on both technical and legal level.
+1.12.
+Third Party Functionality and Software.
+Games distributed via the GOG Platforms must not: (a) include links to third party stores/distribution platforms permitting purchases or payments; (b) contain software regarding such third party stores/distribution platforms; or (c) permit purchases or payments outside of the GOG Platforms.
+1.13.
+Cooperation and Marketing.
+Publisher will support GOG’s marketing, promotional, and social media efforts in good faith and use reasonable commercial efforts to assist GOG with mutually agreed marketing, promotional and social media activities. Publisher will include GOG’s name and logo(s) in all Publisher marketing and promotional materials (including websites, press releases and social posts) alongside and with at least the same visibility (in particular logo size and placement) as any Other Platform’s marks where the Game may be available.
+1.14.
+Geo-Location. 5️⃣
+Publisher recognises that GOG may be subject to additional legal requirements in relation to geo-location, including in the European Union.
+5️⃣
+We must ensure that every person in the EU is able to get the same game on the same (or almost the same) conditions. For that reason we will not be able to run a promotion e.g.  only for French consumers while charging the full price for all other EU citizens.
+1.15.
+Content Creators and Internal Use.
+GOG may create up to 30 activation keys for each Game which GOG may share with content creators in order to market and promote the Games. In addition, GOG may distribute Games to its employees and contractors for testing, Q&A and other non-commercial purposes. Neither of the parties will receive any remuneration for the distribution of the Games or keys described in this clause 1.15.
+1.16.
+Age Ratings.
+Publisher is solely responsible for obtaining and providing GOG with all applicable age ratings and any other descriptors as prescribed by law for the Games before Commercial Release.
+1.1
+7
+.
+B2B distribution.
+The parties agree that, subject to Publisher’s consent (email sufficient, not to be unreasonably withheld or delayed), GOG may distribute any and all Games, either directly or indirectly, including but not limited to the following: (a) retail sales of Games keys or other authorization codes via third party digital or physical retail channels (for example, to large retail chains); and/or (b) pre installation of the Games on to third party hardware, technologies or platforms on an ‘OEM’ basis (together the “
+B2B Distribution
+”). B2B Distribution will be deemed to form part of the GOG Platforms under the Agreement. Any and all revenue from B2B Distribution will be included within Gross Revenue and therefore form part of the calculation of Publisher Revenue Share, unless agreed otherwise in a relevant DDF.
+1.1
+8.
+GOG Direct to Account API.
+The Direct to Account API is an application that allows content purchased on a website/platform to be activated by GOG. This can be done via: (i) the Publisher and GOG signing the GOG Direct to Account API Agreement, giving the Publisher the right to use the Direct to Account API on its own websites/platforms; and/or (ii) a third party and GOG signing the GOG Direct to Account API Agreement, giving the third party the right to use the Direct to Account API on the third party websites/platforms. The third party will be solely responsible and liable for all end user purchases of content (including payment of any applicable revenue share to Publisher) which are activated or facilitated via its use of the GOG Direct to Account API. Section 1.4. (Distribution Licence) shall be deemed to give GOG the ability to activate the content on applicable GOG Platforms accounts. The Publisher agrees that GOG Direct to Account API won't be subject to Publisher Revenue Share, unless agreed otherwise in this Agreement.
+2. Financial Terms
+2
+.1.
+Publisher Revenue Share Calculation.
+GOG will pay to Publisher an agreed share of Net Revenue in connection with each Game, as specified in the applicable DDF. GOG may set off or deduct any amounts owed by Publisher to GOG from Publisher Revenue Share otherwise payable by GOG to Publisher (including any due payments resulting from refunds).
+2.2.
+Currency.
+Publisher Revenue Share will be paid to Publisher in United States Dollars, Euros or Polish Zlotys, as specified in the applicable DDF. Gross Revenue collected by GOG will be converted by GOG to United States Dollars for reporting purposes per the daily average exchange rates of the National Bank of Poland (NBP) published on https://www.nbp.pl/ website on the day preceding the date on which the End User completed the transaction by which said monies were paid to GOG for the applicable Game.
+2.3.
+Revenue Statements.
+GOG will provide Publisher with royalty statements for each reporting period as specified in the DDF within thirty (30) days following the end of each such reporting period (via e-mail or through an electronic platform), detailing the sales of the Games and the computation of Gross Revenue, Net Revenue and Publisher Revenue Share (“Royalty Statements”).
+2.4.
+Payments. 6️⃣
+GOG will pay the amount of Publisher Revenue Share shown on the corresponding Royalty Statement to the bank account indicated by the Publisher in the most recent Payment Details Form (“PDF”) within seven (7) days of the issuance of the Royalty Statement (invoiceless payments).
+6️⃣ When you are located anywhere outside of Poland, we will pay your Royalties to you within 7 days after you receive the Royalty Statement from us.
+When you are located in Poland, you need to send us a VAT invoice after you receive the Royalty Statement. Once we receive a valid invoice from you, we will pay your Royalties
+within 14 days
+after we
+recei
+ve
+a VAT invoice.
+Please also be aware that w
+hen transferring the payment of Publisher Revenue Share to
+you
+, you may receive
+a different amount
+than indicated on the Royalty Statement. This is because some payment processing fees, bank transfer or similar costs may be imposed on the money transfer by the banks participating in such money transfer
+.
+GOG has no control over such fees
+.
+Publisher acknowledges and agrees that PDF is the only method of indicating and/or updating Publisher payment data with GOG and: (1) GOG may disregard any other form of communication indicating Publisher payment details (including payment details indicated on any invoice); (2) GOG may withhold any payments due to Publisher until Publisher submits a valid PDF; (3) if the Publisher fails to submit an updated PDF to GOG, Publisher will be responsible for any costs resulting from an incorrect bank transfer. Each PDF shall be signed and sent by the Publisher to the e-mail address specified in the most recent DDF. GOG needs 1 (one) working day to implement relevant changes made to a PDF. However, if total Publisher Revenue Share is less than $500 (five hundred United States Dollars) then no Publisher Revenue Share will be paid out and such amount will be held by GOG until total Publisher Revenue Share exceed $500 (five hundred United States Dollars) or the Agreement is validly terminated or expires, whichever is earlier (at which point said Publisher Revenue Share will be paid to the Publisher under the terms of the Agreement). The Publisher is aware some payment processing fees, bank transfer or similar costs may be imposed on the money transfer by the bank(s) participating in such money transfer, resulting in the Publisher receiving lower sum than indicated on the relevant Royalty Statement.
+In case Publisher’s headquarters are based in Poland, after receipt of each Royalty Statement, Publisher will provide GOG with a valid VAT invoice for the amount of Publisher Revenue Share shown on the corresponding Royalty Statement, which GOG will pay to the bank account indicated by Publisher in the most recent PDF (or indicated in the VAT invoice if GOG did not receive any valid PDF from the Publisher), within fourteen (14) days of receipt of a VAT invoice. The invoice must be sent to the e-mail address specified in the most recent DDF (Invoice option).
+2.5.
+Withholding Tax. 7️⃣
+GOG will be entitled to deduct withholding tax which may be imposed by governmental authorities in jurisdictions in which GOG is operating, from Publisher Revenue Share. Should the Publisher have a legal basis to avoid these withholding taxes, the Publisher will provide GOG with the appropriate and valid certificate of fiscal residency and supporting documentation, as required by law.
+7️⃣ This is a "backup" clause in case the tax law or its interpretation changes. Currently GOG does not withhold any tax on Publisher Revenue.
+2.6.
+Pre Orders Revenue.
+Sales of Pre Orders will be calculated and reported under clause 2.1 (Publisher Revenue Share Calculation) above. In case the refund ratio of a Game distributed as a Pre Order exceeds 50% before the Game’s Commercial Release, GOG will be entitled to withhold the Publisher Revenue Share payment from such Pre Orders for use in relation to refunds, returns, exchanges or chargebacks demanded by End Users or charges relating to any fraudulent or illegal activity. Any withheld amount will be paid out in the Publisher Revenue Share payment period following Commercial Release of the relevant Game(s) or on termination or expiry of the Agreement (whichever is earlier).
+2.7.
+Audit Rights.
+8️⃣ Publisher may conduct once every calendar year an audit of GOG's records solely with respect to Games in order to verify the Publisher Revenue Share earned and paid during the previous four (4) quarters only. Such audits and audit rights will also be subject to the following: (a) audits may only be conducted by an independent and nationally recognized accounting firm, at the expense of Publisher, without disruption to GOG's daily business operations; (b) the auditing firm must sign a confidentiality agreement reasonably acceptable to GOG; and (c) audits must be completed within thirty (30) days from written notice to GOG that an audit is demanded. In the event that the results of the independent audit indicate any shortage or overpayment of Publisher Revenue Share, the shortage or overpayment, as the case may be, will be paid by the responsible party within ten (10) days from receipt of the final and complete audit report. In the event that Publisher conducts an audit of GOG's records as provided above, Publisher must deliver to GOG an original, sealed (by the auditor), complete, unedited, signed and dated copy of the audit report within seven (7) days after Publisher's receipt of same from the auditor.
+8️⃣ You may audit your GOG financial information once a year for the previous 4 quarters.
+3
+.
+Ownership and Intellectual Property Rights
+3
+.1.
+Ownership. 9️⃣
+The parties agree that as between GOG and Publisher: (a) GOG will remain at all times the sole and exclusive owner of the GOG Materials; and (b) subject to the licences and rights granted to GOG in the Agreement, Publisher will remain at all times the sole and exclusive owner of the Publisher Materials.
+9️⃣ This section reassures that you’re the owner to IP in your Game(s) and GOG is the owner to IP in the platform.
+3.2.
+IT security.
+Each party will ensure that it maintains all reasonable security practices and all reasonably necessary steps will be taken against any unauthorised access, copying, modification, storage, reproduction, display or distribution of the other party’s property.
+4
+.
+Representations and Warranties
+4
+.1.
+Representations and Warranties of Publisher.
+Publisher represents and warrants to GOG on an ongoing basis that: (a) all Games will operate in accordance with their written or published specifications and descriptions, any public statements made by or on behalf of Publisher, and in compliance with any publicly available trial or preview versions; (b) Publisher owns or has licensed all necessary rights (including Intellectual Property Rights), title and interests in all Publisher Materials in order to grant GOG the rights detailed herein and exploitation of them by GOG will not infringe the rights of any third party; (c) Publisher is solely responsible at its own cost for acquiring all necessary permissions, licences, rights, approvals and otherwise and carrying out all necessary action for GOG to be able to freely and legally distribute Games under the Agreement; (d) the Publisher Materials do not contain any known material viruses, material programming errors, Trojan Horses, malware, back doors or other access methods, or other harmful code that would inhibit the End User’s use of the Games, the GOG Platforms, or systems on which they are installed or accessed; (e) all Publisher Materials comply with all applicable laws and regulations; (f) there are no pending or threatened lawsuits, adversary proceedings or governmental actions that involve the Publisher and/or any Publisher Materials that do or may prohibit or adversely affect the performance of the Publisher's obligations or exercise by GOG of its rights under the Agreement; and (g) there are no final judgments or orders (judicial or governmental) against the Publisher or Publisher Materials that would be breached by Publisher entering into the Agreement.
+4.2.
+Representations and Warranties of GOG.
+GOG represents and warrants to Publisher on an ongoing basis that: (a) GOG has all the necessary rights, title and interests in the GOG Platforms; (b) the GOG Platforms do not knowingly infringe any third party Intellectual Property Rights; (c) there are no pending lawsuits, adversary proceedings or governmental actions that prohibit or adversely affect the performance of GOG’s obligations under the Agreement; (d) there are no final judgments or orders (judicial or governmental) against GOG that would be breached by GOG entering into the Agreement and; (e) GOG will follow any guidelines agreed between the parties in writing for the use of Publisher's Intellectual Property Rights.
+4.3.
+Mutual Representations and Warranties.
+The parties each represent and warrant to each other that: (a) they have requisite power to enter into the Agreement; (b) there are no third party agreements or arrangements that restrict their ability to enter into the Agreement or materially harm their ability to perform the Agreement; and (c) they will perform their obligations in the Agreement with reasonable skill and care.
+4.4.
+Disclaimer of warranties. 1️⃣0️⃣
+EXCEPT AS EXPRESSLY STATED IN THE AGREEMENT: (A) THE GOG MATERIALS ARE PROVIDED “AS IS” WITHOUT REPRESENTATION OR WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, OR ARISING OUT OF ANY COURSE OF PERFORMANCE, CUSTOM, INDUSTRY STANDARD, OR USAGE IN TRADE, INCLUDING THE IMPLIED WARRANTIES OF SATISFACTORY QUALITY, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE; AND (B) GOG MAKES NO REPRESENTATION, CONDITIONS OR WARRANTIES OF ANY KIND AND ALL IMPLIED REPRESENTATIONS OR WARRANTIES ARE EXCLUDED TO THE MAXIMUM EXTENT PERMISSIBLE BY LAW.
+1️⃣0️⃣
+This is a standard provision for any kind of Internet services agreements. It means that GOG does not give any additional guarantees regarding GOG.COM operation.
+5
+.
+Liability
+The total liability of GOG and its Affiliates whether in contract, tort (including negligence) or otherwise (including any indemnity given under the Agreement) and whether in connection with the Agreement or any collateral contract, will in no circumstances exceed an amount equal to the Publisher Revenue Share (if any) actually received by Publisher from GOG in the preceding one (1) year prior to the time of any formal proceedings by the Publisher against GOG. In no event will GOG or its Affiliates be liable to Publisher or its Affiliates for any: (a) loss of earnings, profits, charges or expenses, loss of business opportunity, reputational loss or harm, or (b) any special, exemplary, indirect, consequential or punitive loss or damage or disruption of any kind, in any case, whether based on breach of contract, tort (including negligence or breach of statutory duty), misrepresentation, restitution or otherwise, whether or not the relevant party has been advised of the possibility of such damage.
+1️⃣1️⃣
+1️⃣1️⃣
+In case you think GOG breached this contract and you would like to claim damages from GOG, then the maximum amount you can demand is equal to all the revenue you received from GOG in one year before you start any claim.
+6
+.
+Indemnities
+Publisher agrees on demand to indemnify and hold harmless GOG and its Affiliates, officers, directors, employees and agents ("
+Indemnified
+") (and keep them indemnified and held harmless) from and against any and all damages, claims, suits, actions, judgments, settlements, contributions, fines, penalties, costs and expenses whatsoever, including reasonable legal fees and costs, arising out of or in connection with: (a) the Publisher Materials; (b) any unauthorised use by Publisher of the Indemnified's Intellectual Property Rights or Confidential Information; (c) any claim by a third party of Intellectual Property Rights infringement or unauthorised Confidential Information usage; and/or (d) Publisher’s breach of any representation, warranty or other terms of the Agreement. The Indemnified will promptly notify Publisher as soon as it becomes aware of any third party claims against the Indemnified falling under the above indemnity, following which the Indemnified may elect that Publisher undertake and conduct the defence of any such claim at Publisher’s expense and (to the extent practicable) in Publisher’s name, but subject to the Indemnified’s ultimate control. Publisher will make no attempt to settle or compromise any such claim in whole or in part without the Indemnified's express prior written consent. 1️⃣2️⃣
+1️⃣2️⃣
+If your action causes GOG any problems you will help us and (if necessary) cover the actual loss that GOG might have incurred.
+7
+.
+Confidentiality
+Neither party will disclose Confidential Information to any third party and will only release the Confidential Information to those of its directors, officers or employees who need to know it strictly for the purpose of exercising or performing that party's rights and obligations under the Agreement. Each receiving party will treat Confidential Information with the same degree of care and apply no lesser security measures than it affords to its own Confidential Information. The receiving party will make no commercial use of the Confidential Information, except for the above purposes. Confidential Information may be disclosed if and to the extent: (a) it is required by law, court order or other authority of competent jurisdiction or any regulatory or government authority to which the receiving party is subject, but in each case only to the extent required and for the purpose of such disclosure and provided that the disclosing party is promptly informed of the disclosure; (b) the receiving party reasonably considers it necessary to disclose the information to its professional advisers, auditors or bankers provided that it does so on terms protecting the information; (c) the information entered the public domain through no fault of the receiving party; (d) the information was previously disclosed to the receiving party without any obligation of non-disclosure; or (e) the disclosing party has given its consent in writing.
+1️⃣3️⃣
+1️⃣3️⃣
+Remember to follow the red text in the footer - as a general rule, you should not disclose any information regarding your dealings with GOG (including these terms) with unauthorized persons.
+8
+.
+Suspension and Termination
+8
+.1.
+Game Distribution and Suspension. 1️⃣4️⃣
+GOG is under no obligation to distribute or continue to distribute any Games and GOG may immediately remove Games from the GOG Platforms at its sole discretion without obligation or liability to Publisher.
+1️⃣4️⃣
+GOG is not obliged to distribute your games. We need this provision in case your content will be deemed not compliant with any law, GOG standards or in case it infringes other person's rights.
+8
+.2.
+Agreement Termination Right.
+If there are no active DDFs, either party may terminate the Agreement on thirty (30) days written notice to the other party.
+8.3.
+Mutual Termination Rights.
+Either party (the “Non-Defaulting Party”) may terminate the Agreement in whole or in part immediately on written notice to the other party (the “Defaulting Party”) if:
+8.3.1. The Defaulting Party commits a material breach of its obligations under the Agreement (which includes: (a) breach by either party of its representations and warranties, and (b) failure by Publisher to provide Games that are DRM Free) and, if the breach is capable of remedy, fails to remedy it during the period of thirty (30) days starting on the date of receipt of notice from the Non-Defaulting Party requiring it to be remedied; or
+8.3.2. The Defaulting Party is affected by an Insolvency Event; or
+8.3.3. The Defaulting Party is prevented from performing its obligations under the Agreement by reason of Force Majeure for a continuous period of more than thirty (30) consecutive days in total.
+8.4. Effect of Termination. 1️⃣5️⃣
+1️⃣5️⃣ The agreement lasts at least as long as there is any valid DDF.
+In case the agreement is terminated GOG users that already bought your game can still download and play it.
+8.
+4
+.1. If the Agreement is terminated in its entirety, the parties’ rights and obligations under it will end immediately, but not their accrued rights and obligations and any provisions of the Agreement necessary for its interpretation or enforcement. In addition, the parties will return all property of the other party to that party.
+8.4.2. If the Agreement is terminated in part in relation to particular DDFs, the parties’ rights and obligations under the terminated DDFs will end immediately, but not their accrued rights and obligations and any provisions of the applicable DDFs necessary for their interpretation or enforcement. Any parts of the Agreement that are not terminated will remain in full force and effect.
+8.4.3. The termination of the Agreement in whole or in part will not affect the rights of End Users that have purchased Games via the GOG Platforms prior to such termination. Accordingly, such End Users may continue to access and play such Games, and GOG may retain and continue to use Publisher Materials in order to enable End Users to download and re-download Games which they purchased prior to termination.
+9
+.
+Data Protection
+9
+.1.
+Publisher Personal Data.
+GOG is the data controller of the Publisher’s or its representatives’ personal data provided to GOG pursuant to the Agreement. Full details about GOG’s processing of this personal data may be found at partners.gog.com/privacy_notice. By signing the Agreement, Publisher hereby confirms (on behalf of itself and its representatives) its acceptance of the aforementioned privacy notice.
+9.2.
+GOG Data
+. GOG will comply with all applicable data protection laws and regulations in relation to its use of the End Users personal data. Publisher agrees that it will not access, process, handle, distribute or use in any way the End Users personal data except as expressly permitted by GOG in writing.
+9.3.
+Publisher Data.
+Publisher will be the data controller in relation to any end user customer data that Publisher collects (“
+Publisher Data
+”). Publisher will be solely liable for its collection and use of the Publisher Data and will comply with all applicable data protection laws and regulations in relation to the Publisher Data, which will include without limitation Publisher ensuring that it has: (a) an appropriate privacy policy in place detailing at a minimum the legal bases upon which it collects and processes the Publisher Data; and (b) appropriate technical and organisational measures in place to protect the Publisher Data against accidental or unlawful destruction or loss, alteration or unauthorised disclosure or access.
+10
+.
+General
+10
+.1.
+Further Assurance.
+Each party will, and will use all reasonable endeavours to procure that any necessary third party will, promptly execute and deliver such documents and perform such acts as may reasonably be required for the purpose of giving full effect to the Agreement.
+10.2.
+Commercial Bargain.
+1️⃣6️⃣ The Agreement is a commercial bargain agreed on an arms’ length basis following negotiation by the parties. Each party has had the opportunity for legal advice prior to executing the Agreement.
+1️⃣6️⃣
+Here both of us are saying that we’re professionals and can sign commercial agreements.
+10.3.
+Assignment.
+1️⃣7️⃣ Neither party will assign, novate, sub-license, transfer, charge or deal in any other manner with the Agreement or any rights under it without the prior written consent of the other party (without which any such purported steps will confer no rights), except as part of a company amalgamation, reorganisation or reconstruction in which case no such consent is required. Notwithstanding the foregoing, GOG may appoint sub-contractors regarding the performance of its obligations under the Agreement, provided that it remains liable to the Publisher for the same and will ensure that the sub-contractor will protect the Publisher’s property to at least the same standard as would GOG.
+1️⃣7️⃣
+Neither you nor GOG can hire anybody for execution of this agreement without the permission of other party.
+10.
+4.
+Notices.
+Notices must be sent by e-mail to the addresses set out in the DDF, with an information-only copy by mail to the parties’ physical addresses.  Each party may change their notice details by giving an e-mail notice to the other party.
+10.5.
+No Partnership.
+The Agreement does not create any exclusive relationship between the parties nor any partnership, joint venture, employment or agency between them.
+10.6.
+No Waiver.
+No failure or delay by a party to exercise any right or remedy provided under the Agreement or by law will constitute a waiver of that or any other right or remedy, nor will it preclude or restrict the further exercise of that or any other right or remedy. No single or partial exercise of such right or remedy will preclude or restrict the further exercise of that or any other right or remedy.
+10.7.
+Variation.
+Except as detailed in the Agreement, any variation to these GOG Distribution Terms and/or DDFs must be in writing and signed by the parties. In case the Agreement occurs to be incompliant with any law applicable to the Games distribution under the Agreement, GOG may unilaterally modify these GOG Distribution Terms by providing Publisher with notice of the modified terms via Publisher’s e-mail address provided in the latest DDF, which will become automatically binding 30 days from the date GOG notifies Publisher, provided that such modifications are necessary to comply with the said law. Publisher may object to such change and in such an instance parties will engage in good faith negotiations to amend the Agreement in accordance with the relevant law.
+10.8.
+Severability.
+If any court or competent authority finds that any provision (or its part) of the Agreement is invalid, illegal or unenforceable, that provision or part-provision will, to the extent required, be deemed to be deleted, and the validity and enforceability of the other provisions of the Agreement will not be affected. If any invalid, unenforceable or illegal provision of the Agreement would be valid, enforceable and legal if some part of it were deleted, the parties will negotiate in good faith to amend such provision such that, as amended, it is legal, valid and enforceable, and, to the greatest extent possible, achieves the parties' original commercial intention.
+10.9.
+Execution.
+The Agreement may be executed in any number of counterparts, each of which when executed and delivered will constitute an original of the Agreement, but all the counterparts will together constitute the same Agreement. No counterpart will be effective until each party has executed at least one counterpart.
+10.10.
+Third Parties.
+Only a party, an Affiliate of a party and/or an indemnified person in the Agreement will have any rights to enforce any term of the Agreement.
+10.11.
+Entire Agreement.
+The Agreement contains the entire agreement between the parties relating to the subject matter hereof and supersedes all prior agreements, arrangements and understandings between the parties relating to that subject matter. Each party acknowledges that, in entering into the Agreement, it has not relied on, and will have no right or remedy in respect of, any statement, representation, assurance or warranty (whether made negligently or innocently) other than as expressly set out in the Agreement.
+10.12.
+Governing Law and Jurisdiction.
+1️⃣8️⃣
+(a) In case Publisher’s headquarters are based in any country except the United States of America the following shall apply:
+The Agreement and any dispute, claim or matter (whether contractual or non-contractual) arising out of or in connection with it or its subject matter or formation will be governed by and construed in accordance with the law of England and Wales. The parties irrevocably agree that the courts of England will have exclusive jurisdiction over any dispute, claim or matter (whether contractual or non-contractual) that arises out of or in connection with the Agreement or its subject matter or formation. Each party waives, to the fullest extent permitted by applicable law, any objection to such choice of exclusive governing law and jurisdiction and any claim that any such action or proceedings brought in such court has been brought in an inconvenient forum.
+(b) In case Publisher’s headquarters are based in the United States of America the following shall apply:
+All questions concerning the construction, validity and interpretation of the Agreement will be governed by and construed in accordance with the domestic laws of the State of California, without giving effect to any choice of law or conflict of law provision. The parties consent to the exclusive jurisdiction of the US federal and state courts located in Los Angeles in any suit or proceeding based on or arising under the Agreement and irrevocably agree that all claims in respect of such suit or proceeding may be determined in such courts. In the event any party hereto institutes any proceedings against any other party with respect to any controversy or matter arising out of the Agreement, or in connection with any agreement identified in the Agreement, the prevailing party will be entitled to recover from the non-prevailing party such prevailing party’s reasonable attorneys’ fees and costs incurred in connection with such proceedings.
+1️⃣8️⃣ In case you’re US based, then this agreement will governed by US law, in case you’re based anywhere else, this agreement will be governed by UK law.
+10.
+13
+.
+Polish Specific Information Obligation of GOG.
+As of the date of signature of the Agreement, GOG has the status of a large entrepreneur within the meaning of the Polish Act of 8 March 2013 on preventing excessive delays in commercial transactions.
+1
+1
+.
+Definitions and Interpretation
+1
+1
+.1.
+Definitions.
+Affiliates means
+any business entity from time to time controlling, controlled by, or under common control with, either party. A business entity will be deemed to control another business entity if it owns, directly or indirectly, in excess of 50% of the outstanding voting securities or capital stock of such business entity or any other comparable equity or ownership interest with respect to a business entity.
+Agreement means
+the Digital Distribution Agreement entered into between Publisher and GOG, which these GOG Distribution Terms and any DDFs form part of.
+Commercial Release
+means the release date of a DRM Free version of the Game to the public via the GOG Platforms.
+Confidential Information
+means the Agreement and any information or materials in whatever form which is disclosed by one party to the other party and which would be regarded as confidential by a reasonable business person including all business, technical, statistical, financial, marketing and personnel information, customer or supplier details, know-how, designs, trade secrets, creative information or materials or software of the disclosing party or any information that is identified as "Confidential".
+Digital Distribution Form
+or
+DDF
+means a Digital Distribution Form executed by the parties specifying details of the Games to be distributed on the GOG Platforms, each of which forms a part of the Agreement.
+DLC
+means any additional downloadable or online content (e.g. expansion packs and in-game items) created or to be created in the future for the Game.
+DRM Free
+means a Game can be distributed via the GOG Platforms: (a) without any digital rights management, copy protection, online connection requirements (except for multiplayer Games or multiplayer elements of the Games) or any other anti-piracy solution and (b) that End Users may access and play through the entirety of the single player content (including all maps, levels, progression systems, items, cosmetics etc.) of the Game offline, unless otherwise specified in the DDF.
+End User
+means an individual who downloads or purchases a Game via the GOG Platforms or uses other services accessible via the GOG Platforms.
+Force Majeure
+means any cause preventing a party from performing any or all of its obligations which arises from or is attributable to acts, events, omissions or accidents beyond the reasonable control of the party so prevented including strikes, lock-outs or other industrial disputes (other than any such dispute involving the workforce of the party so prevented), nuclear accident or acts of God, war or terrorist activity, riot, civil commotion, malicious damage (excluding malicious damage involving the employees of the affected party or its sub-contractors), industrial action by employees of any providers of electrical power, failure of technical facilities, hacking, denial of service or other IT attack, deployment of IT virus malware or similar technology, fire, flood, or storm or default of suppliers or sub-contractors.
+Game
+means an interactive entertainment product set out in a DDF(s), including all: (a) Publisher documentation and materials regarding it; (b) Game Updates; (c) Remastered Editions; (d) any agreed Game content, including bonus materials.
+GOG Galaxy
+means the ‘GOG Galaxy’ digital distribution system (comprising both server side and client software) which permits End Users to purchase, download, access and play purchased Games, as well as providing other End User features and providing developers with relevant tools and information (see https://www.gog.com/galaxy).
+GOG Materials
+means: (a) the GOG Platforms and all constituent elements of them; (b) the Marketing Materials and any other assets, documents or materials of any kind provided by GOG; (c) GOG’s company name, logo and other branding; (d) any updates, enhancements or modifications to or derivative works of the same, in each case including all Intellectual Property Rights in them.
+GOG Platforms
+means the distribution platforms/services operated or facilitated by GOG including www.GOG.com and GOG Galaxy.
+Gross Revenue
+means all revenue actually received by GOG from sales of Games via the GOG Platforms.
+Intellectual Property Rights
+means any and all copyright, trademarks, service marks, trade dress, brand names, logos, goodwill, get up, trade, business or domain names, design rights, database rights, patents, rights in inventions, know-how, trade secrets and Confidential Information, rights in databases, rights in computer software, moral rights, publicity rights, performance rights, synchronisation rights, mechanical rights, publishing, rental, lending and transmission rights and other intellectual property and exploitation rights of a similar or corresponding character which may now or in the future subsist in any part of the world, in all cases whether or not registered or registrable including all granted applications and all applications for registration, division, continuation, reissuance, renewals, extensions, restorations and reversions regarding any of the same.
+Insolvency Event
+means in respect of either party: (a) a party becomes insolvent or bankrupt (including being unable to pay its debts as they fall due and/or that the value of its assets is less than the amount of its liabilities taking into account its contingent and prospective liabilities), proposes an individual, company or partnership voluntary arrangement, has a receiver, administrator or manager appointed over the whole or any part of its business or assets; (b) if any petition will be presented in good faith, order will be made or resolution passed for its winding up (except for the purpose of amalgamation or reconstruction), bankruptcy or dissolution (including the appointment of provisional liquidators/interim receivers or special managers); or (c) if it will otherwise propose or enter into any composition or arrangement with its creditors or any class of them or if it ceases or threatens to cease to carry on business.
+Marketing Materials
+means materials created by GOG, derived from a Game and used solely for the purpose of promoting and distributing the Games on the GOG Platforms, including artwork, wallpapers, icons, posters and manuals.
+Net Revenue
+means Gross Revenue minus Deductions.
+Operating Systems
+means the operating systems for a Game set out in a DDF.
+Other Platforms
+means any digital distribution platform or website offering computer games for PC.
+Pre Orders
+means purchase orders for a Game or its part made by End Users before Commercial Release of the relevant Game.
+Game Updates
+means any and all updates, upgrades, patches, fixes, DLC(s), additional content and/or other materials for a Game.
+Publisher Materials
+means: (a) the Games and all constituent elements of them; (b) and any other assets, documents or materials of any kind provided by Publisher to GOG; (c) Publisher’s company name, logo and other branding; and (d) any updates, enhancements or modifications to the same, in each case including all Intellectual Property Rights in them.
+Publisher Revenue Share
+means Publisher’s share of Net Revenue, as set out in a DDF.
+Remastered Edition(s)
+means a remastered, definitive, ‘Game of the Year’ or similar edition of the Game and/or applicable DLC.
+11.2.
+Interpretation.
+References to clauses are to clauses in these GOG Distribution Terms. Headings are inserted for convenience only and will not affect the construction of the Agreement. Any phrase introduced by the terms "including", "include", "in particular", "for example" or any similar expression shall be construed as illustrative and shall not limit the sense of the words preceding those terms.
+Changes to GOG Distribution Terms
+January 24th, 2023
+[addition] Clauses 1.17. (
+B2B distribution
+)  and 1.18. (GOG Direct to Account API):
+B2B Distribution clause allows GOG to sell Games via keys in retail or pre-installed on devices. GOG Direct to Account API clause allows Publisher to sell Games (versions for GOG Platforms) on other platforms that use GOG Direct to Account API. This is nothing new, they just were not a part of GOG Distribution Terms before, but located elsewhere.
+[change] Clause
+2.4. (Payments):
+Automatic
+invoiceless Royalty payments have become the default payment option for all Publishers except for the ones based in Poland.  We have updated the Payments section to reflect this change.
+We have added a sentence to make sure that all Publishers are aware that due to fees that may be imposed by banks participating in the money transfer, the amount Publisher receives as Publisher Revenue Share may be lower than the amount indicated in the corresponding Royalty Statement.
+STRICTLY CONFIDENTIAL
+NOT TO BE DISCLOSED WITH ANY UNAUTHORIZED PERSONS
+Report abuse
+Page details
+Page updated
+Report abuse
+This site uses cookies from Google to deliver its services and to analyze traffic. Information about your use of this site is shared with Google. By using this site, you agree to its use of cookies.
+Learn more
+Got it

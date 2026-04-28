@@ -1,0 +1,473 @@
+Terms and Conditions
+These Dollar Tree Terms and Conditions (these “Terms”) are agreed to between Dollar Tree Stores, Inc., a Virginia corporation (“Dollar Tree,” “we,” “us,” and “our”), on behalf of ourselves and our affiliates, and you.
+
+These Terms contain three constituent parts:
+
+The Website Terms of Use
+The Terms of Online Sale
+The In-Store Coupon Acceptance Policy
+These Terms apply to the Dollar Tree website located at www.dollartree.com and all other sites, mobile sites, services, applications, platforms and tools where these Terms, or any portion thereof, appear or are linked (collectively, the "Services"). You and other individuals or entities using the Services are collectively referred to as “Users.”
+
+PLEASE READ THESE TERMS CAREFULLY. BY ACCESSING OR OTHERWISE USING THE SERVICES, YOU AGREE THAT YOU HAVE READ AND AGREE TO BE BOUND BY THESE TERMS. Any person or entity who interacts with the Services, whether through automated means, third-party means, or otherwise, is considered a User. Unless you have entered into a separate agreement with Dollar Tree regarding the Services, these Terms are the complete and exclusive agreement between you and Dollar Tree regarding your access to and use of the Services and supersede any oral or written proposal, agreement or other communication between you and Dollar Tree regarding your access to and use of the Services.
+
+IF YOU DO NOT AGREE TO THESE TERMS, OR DO NOT MEET THE QUALIFICATIONS INCLUDED IN THESE TERMS, DOLLAR TREE IS NOT WILLING TO PROVIDE YOU WITH ACCESS TO OR USE OF THE SERVICES, AND YOU MUST NOT ACCESS OR USE THE SERVICES.
+
+Words and phrases used in these Terms have the definitions given in these Terms, or, if not defined herein, have their plain English meaning as commonly interpreted in the United States. These Terms are entered into as of the earlier of the date you first access or use the Services (the “Effective Date”) and will continue until terminated as set forth herein.
+
+Dollar Tree may revise these Terms from time to time whether by making those modifications available through the Services or by providing notice to you as specified in these Terms. Any modifications will be effective 24 hours following posting through the Services or delivery of such other notice. You may cease using the Services or terminate these Terms at any time if you do not agree to any modification. However, you will be deemed to have agreed to any and all modifications through your continued use of the Services following such notice. Any modifications to the Services, including all updates, upgrades, new versions, and new releases, will be treated as part of the “Services” for purposes of these Terms.
+
+Website Terms of Use
+1 Eligibility
+The Services are intended for use by Users of 13 years of age and older. If you are under 18, you may use this Site only with involvement of a parent or guardian.
+
+2 Access
+Subject to your compliance with these Terms, we will permit you to access and use the Services solely for lawful purposes and only in accordance with these Terms and any other agreement you agree to before being given access to any specific Service. Any additional agreement is in addition to these Terms and will govern your use of the specific Services to which the additional agreement applies. In the event of a conflict between these Terms and such additional agreement, such additional agreement will control.
+
+3 Restrictions on the Use of Materials and Marks
+The materials comprising the Services (the “Materials”) are copyrighted or trademarked and any unauthorized use of any such Materials may violate copyright, trademark, and other laws. You may download one copy of any Materials comprising the Services to a single computer for your personal, non-commercial home use. Modification of the Materials or use of the Materials for any other purpose is a violation of our copyright and other intellectual property rights. The reproduction or public display, performance, or distribution or other use of the Materials, including, but not limited to, the use of our logos or photographs of our products, for any public or commercial purpose, and the use of the Materials on any other website or networked computer environment, is expressly prohibited.
+
+Furthermore, you will not, and will not permit any third party to alter, obscure or remove any copyright, trademark or any other notices that are provided on or in connection with any Materials. “Dollar Tree,” “Everything’s $1,” “Dollar Tree $1 Stop,” “Dollar Giant” and our company logos and other marks are federally registered service marks of Dollar Tree Stores, Inc. All related names, logos, product and service names, designs and slogans are the trademarks of Dollar Tree or its affiliates or licensors. You will not use any such marks without the prior written consent of Dollar Tree. All other third-party brands and names incorporated into the Services are the property of their respective owners and may not be used without authorization.
+
+Except as expressly provided herein, Dollar Tree does not grant any express or implied right to you related to any Dollar Tree patents, copyrights, trademarks, trade secret information, or other intellectual property.
+
+4 Other Restrictions on the Use of the Services
+The Services may only be used for lawful purposes in accordance with these Terms. As a condition of your use of the Services, you represent and warrant to us that you will not use the Services for any purpose that is unlawful or prohibited by these Terms. Whether on behalf of yourself or on behalf of any third party, you will not:
+
+Use any portion of the Services as material on another site;
+Use any portion of the Services for purposes of advertisement or promotion of material, including any spam, junk mail or chain letters;
+Misrepresent your identity, impersonate any person or entity, falsely state or otherwise misrepresent your affiliation with any person or entity in connection with the Services, or express or imply that we endorse any statement that you make;
+Use a buying agent to conduct Transactions through the Services;
+Conduct fraudulent activities through the Services;
+Restrict or inhibit any other User from using the Services;
+Use the Services to defame, abuse, harass, stalk, threaten or otherwise violate the legal rights of others, including others’ privacy rights or rights of publicity; and
+Harvest or collect personally identifiable data about Users.
+5 Technology
+The Services, and the databases, software, hardware and other technology used by or on our behalf to operate the Services, and the structure, organization, and underlying data, information and software code thereof (collectively, the “Technology”), may constitute valuable trade secrets of Dollar Tree. You will not, and will not permit any third party to:
+
+Access or attempt to access the Technology except as expressly provided in these Terms;
+Use the Technology in any unlawful manner or in any other manner that could damage, disable, overburden, or impair the Technology;
+Use automated scripts to collect information from or otherwise interact with the Technology;
+Use any meta tags or any other hidden text utilizing the Technology;
+Alter, modify, reproduce, create derivative works of the Technology;
+Distribute, sell, resell, lend, loan, lease, license, sublicense, or transfer any of your rights to access or use the Technology or otherwise make the Technology available to any third party;
+Reverse engineer, disassemble, decompile, or otherwise attempt to derive the method of operation of the Technology;
+Attempt to circumvent or overcome any technological protection measures intended to restrict access to any portion of the Technology;
+Monitor the availability, performance or functionality of the Technology; or
+Interfere with the operation or hosting of the Technology.
+We use reasonable means to protect the security of the Services, but you acknowledge that perfect security on the internet is impossible and that, as a result, Your Content (defined below) may be exposed in the event of a breach. We retain all rights, title and interest, including, without limitation, all intellectual property rights in and to the Technology and any additions, improvements, updates, and modifications thereto. You receive no ownership interest in or to the Technology, and you are not granted any right or license to use the Technology itself, apart from your ability to access and use the Services under these Terms.
+
+6 Accounts
+Before using certain Services, you may be required to establish an account (an “Account”). Approval of your request to establish an Account will be at our sole discretion. Each Account and the User identification and password for each Account (the “Account ID”) is personal in nature. You may not distribute or transfer your Account or Account ID or provide a third party with the right to access your Account or Account ID. You are solely responsible for all use of the Services through your Account. You will ensure the security and confidentiality of your Account ID and will notify us immediately if any Account ID is lost, stolen or otherwise compromised, and we will not be responsible for such loss, theft, or compromise. Any activities completed through your Account or under your Account ID will be deemed to have been lawfully completed by you. You may not: (1) select or use an Account ID of another User with the intent to impersonate that User; and (2) use an Account ID that we, in our sole discretion, deem offensive. In addition to all other rights available to us, including those set forth in these Terms, we reserve the right, in our sole discretion, to terminate your Account, refuse service to you, or cancel orders.
+
+7 Your Content
+We welcome your reviews, comments, and other communications that you may be invited to submit through or to the Services, or any content or information that you publish through any social media and allow us to feature, such as your name, social media handle, accompanying text, and any images from your social media accounts (e.g., Twitter®, Instagram®, Pinterest®) (collectively, “Your Content”), as long as Your Content complies with these Terms. You are solely responsible for all Your Content that you provide through the Services. You represent and warrant to us that neither Your Content nor the use of Your Content by us as permitted herein will: (1) violate these Terms or any applicable laws, rules, or regulations; (2) be libelous, defamatory, obscene, abusive, pornographic, harmful or exploitive to children, threatening, or an invasion of privacy; (3) constitute an infringement or misappropriation of the intellectual property or other rights of any third party; (4) be illegal in any way or advocate illegal activity; (5) be an advertisement or solicitation of any kind; (6) be false, misleading, or inaccurate; (7) be considered junk mail, spam, a part of a pyramid scheme, a disruptive commercial message or disruptive advertisement; or (8) introduce any viruses, Trojan horses, worms, logic bombs, or other material that is malicious or technologically harmful. We are not responsible or liable for any deletion, correction, destruction, damage, loss, or failure to store or back-up any of Your Content. We are not responsible for the use or disclosure of any personal information that you voluntarily disclose in connection with any of Your Content. You acknowledge and agree that we reserve the right (but have no obligation) to do any or all of the following, in our sole discretion: (a) monitor Your Content; (b) alter, remove, or refuse to post or allow to be posted any of Your Content; and/or (c) disclose any of Your Content, and the circumstances surrounding its transmission, to any third party.
+
+As between you and us, you retain ownership of Your Content. However, in addition to any other rights granted to us under these Terms, by providing Your Content through the Services, you grant us and our authorized representatives and contractors a non-exclusive, sub-licensable, fully paid-up, perpetual, irrevocable, royalty-free, transferable right and license to use, display, perform, transmit, copy, modify, delete, adapt, publish, translate, create derivative works from, sell, and distribute Your Content and to incorporate Your Content into any form, medium, or technology, now known or hereafter developed, throughout the world, in each case in order to provide the Services and fulfill any other of our obligations under these Terms. In addition, you grant to us the right to include your name that you provide along with Your Content. You further irrevocably waive any “moral rights” or other rights with respect to attribution of authorship or integrity of materials regarding Your Content that you may have under any applicable law or under any legal theory. You represent and warrant that you have all rights necessary for you to grant the licenses granted in this Section, including, but not limited to, permission from or on behalf of any individuals that appear in Your Content for us to use their name, image, voice and/or likeness without compensation to you or any other person or entity.
+
+You agree that you are solely responsible for Your Content and that you are responsible for any consequences of submitting it to us. You agree to indemnify and hold us (including all officers, directors, agents, parents, subsidiaries, affiliates, joint ventures, employees and third-party service providers, harmless from all claims, demands, and damages, (actual and consequential) of every kind and nature, known and unknown, including reasonable attorneys’ fees, arising out of a breach of your representations and warranties set forth above, or your violation of any law or the rights of a third party.
+
+8 Third-Party Content and Links
+Content on the Services may also be provided by other Users. Other Users may post content that is inaccurate, misleading, or deceptive. We neither endorse nor are responsible for any opinion, advice, information, or statements made by third parties. The opinions expressed by third parties reflect solely the opinions of the individuals who submitted such opinions and may not reflect our opinions.
+
+The Services may contain links and interactive functionality interacting with the websites of third parties, including social media websites. We are not responsible for, and have no liability for, the functionality, actions, inactions, settings, privacy policies, terms, or content of any such third-party website. Before enabling any sharing functions of the Services to communicate with any such third-party website or otherwise visiting any such third-party website, we strongly recommend that you review and understand the terms and conditions, privacy policies, and settings of each such third-party website. The links and interactive functionality for third-party websites through the Service do not constitute an endorsement by us of such third-party websites. Other websites may link to the Services with or without our authorization, and we may block any links to or from the Services in our sole discretion. YOUR USE OF THIRD-PARTY WEBSITES IS AT YOUR OWN RISK.
+
+9 Value Seekers Blog; Suggestions
+The suggestions provided in the Dollar Tree Value Seekers Blog (“DTVSB”) portion of the Services (the “Suggestions”) are provided free of charge by Users to other Users. The Suggestions are for personal use only and may not be replicated, downloaded, or republished in any manner. Dollar Tree cannot guarantee favorable results from use of the Suggestions, and we recommend that you try only those suggested Items that you deem appropriate for your own personal use, taking into account your age, skill, space, and setting. You should only follow the Suggestions at your own discretion and risk. We assume no liability for any suggested Item or project and do not represent or warrant that they will be free from all risks. You should only undertake a project described in the Suggestions if you are able to read and fully understand the instructions. Any project described in the Suggestions related to food can carry the risk of allergic reactions as well as food borne illnesses. There may be other unknown or unanticipated risks for some projects described in the Suggestions, including a risk of fire or other damage, which could cause injury.
+
+If you submit Suggestions for inclusion in the DTVSB portion of the Services, you will assign all right, title, and ownership in and to the Suggestions to us and waive any claim for intellectual property rights in those Suggestions. In addition, you represent and warrant that you have all rights necessary to make the assignments of the Suggestions to us as contemplated above, and that all Suggestions will be free from intellectual property claims of others. There is no guaranty that we will publicly post or other any submission will be used. No submissions will be returned.
+
+In order for you to use the DTVSB portion of the Services you agree that: (1) you are 18 years of age or older, or if you are younger than 18 years of age, any Suggestions submitted to us are done by your parent or guardian; (2) neither you nor any member of your immediate family is an employee of Dollar Tree; and (3) you are not being paid nor are you entitled to any compensation or other benefits for the Suggestions that you make to us.
+
+10 Termination and Suspension
+These Terms may be terminated by either party at any time, in that party’s sole discretion, upon notice to the other party as permitted under these Terms. Upon termination of these Terms for any reason: (1) all rights granted to you under these Terms will terminate; (2) you will immediately cease all use of and access to all Services, including Your Content; and (3) we may, in our sole discretion, delete your Account at any time. Your Content may continue to exist on the Services and be visible to Users after termination of these Terms unless you actively delete it or contact us and request deletion. Provisions which by their inherent meanings are to survive the termination of these Terms will so survive.
+
+Without limiting our right to terminate these Terms, we may also suspend your access to your Account and the Services, with or without notice to you, upon any actual, threatened, or suspected breach of these Terms or applicable law or upon any other conduct deemed by us to be inappropriate or detrimental to Dollar Tree, the Services, or any other User or third party.
+
+11 Representations and Warranties; Disclaimer
+You hereby represent and warrant to us that: (1) you have the legal right and authority to enter into these Terms; (2) these Terms form a binding legal obligation on your behalf; (3) you have the legal right and authority to perform your obligations under these Terms and to grant the rights and licenses described in these Terms; and (4) your use of and access to the Services and Your Content, will comply with all applicable laws, rules, regulations, and third-party rights and will not cause us to violate any applicable laws, rules, regulations or third-party rights.
+
+THE MATERIALS PROVIDED ON THE SERVICES, AND THE SERVICES THEMSELVES, ARE PROVIDED “AS IS” WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND INCLUDING ANY EXPRESS OR IMPLIED WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT OF INTELLECTUAL PROPERTY, OR FITNESS FOR ANY PARTICULAR PURPOSE. DOLLAR TREE FURTHER DOES NOT WARRANT THE ACCURACY, COMPLETENESS OR USEFULNESS OF THE MATERIALS OR THAT COMMUNICATIONS SENT FROM US ARE FREE OF MALWARE OR OTHER HARMFUL COMPONENTS. DOLLAR TREE MAY MAKE CHANGES TO THE MATERIALS AT ANY TIME WITHOUT NOTICE. DOLLAR TREE MAKES NO COMMITMENT TO UPDATE THE MATERIALS. NO WARRANTIES ARE GIVEN AS TO THE AVAILABILITY OF ANY ITEM (DEFINED BELOW) AND ALL TRANSACTIONS (DEFINED BELOW) SHALL BE “AS AVAILABLE.” EVERY EFFORT HAS BEEN MADE TO ASSURE THAT COLORS OF ITEMS IN IMAGES ARE ACCURATE BUT VARIANCES MAY OCCUR DUE TO DIFFERENCES IN MONITORS AND SETTINGS ON YOUR PERSONAL COMPUTER. WE CANNOT GUARANTEE THAT THE COLOR YOU SEE ON YOUR MONITOR IS ENTIRELY ACCURATE.
+
+12 Indemnity
+You hereby agree to indemnify, defend, and hold harmless us and our officers, directors, shareholders, affiliates, employees, agents, contractors, assigns, Users, customers, providers, licensees, and successors in interest from any and all claims, losses, liabilities, damages, fees, expenses and costs (including attorneys’ fees, court costs, damage awards, and settlement amounts) arising in any manner from: (1) your access to or use of the Services, Technology, or Materials; (2) Your Content, including any use of Your Content by Users; and (3) your breach of any representation, warranty, or other provision of these Terms. We will provide you with notice of any such claim or allegation, and we will have the right to participate in the defense of any such claim at our expense.
+
+13 Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL DOLLAR TREE. ITS PARENT, ITS AFFILIATES, ITS LICENSORS, OR ITS SUPPLIERS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, OR LOSS OF INFORMATION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SERVICES, MATERIALS, OR TECHNOLOGY OR THE ITEMS FOR SALE THROUGH THE SERVICES, EVEN IF DOLLAR TREE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IF ANY PART OF THIS LIMITATION ON LIABILITY IS FOUND TO BE INVALID OR UNENFORCEABLE FOR ANY REASON, THEN DOLLAR TREE’S AGGREGATE LIABILITY FOR LIABILITIES THAT OTHERWISE WOULD HAVE BEEN LIMITED SHALL NOT EXCEED THE LESSER OF THE AMOUNT OF YOUR PURCHASES THROUGH THE SERVICES OR $100. CERTAIN PRODUCTS MAY CONTAIN WARNING LABELS AS REQUIRED UNDER APPLICABLE LAW TO ASSIST YOU IN MAKING AGE APPROPRIATE PURCHASES. WE REQUEST THAT YOU ADHERE TO ALL APPLICABLE PRODUCT WARNINGS.
+
+14 Data Privacy
+You expressly consent to the use and disclosure of your personally identifiable information submitted through the Services as described in the privacy policy located at www.dollartree.com/privacy-policy (the “Privacy Policy”). Notwithstanding anything in the Privacy Policy, we will have the right to collect, extract, compile, synthesize, and analyze de-identified or anonymized data or information resulting from your access to and use of the Services. To the extent any such de-identified or anonymized data or information is collected or generated by us, such data and information will be solely owned by us and may be used by us for any lawful business purpose without a duty of accounting to you.
+
+15 Claims of Infringement
+We respect your copyrights and other intellectual property rights and those of other third parties. If you believe in good faith that your copyrighted work has been reproduced through the Services without your authorization in a way that constitutes copyright infringement, you may notify our designated copyright agent by mail to:
+
+Name: DT Copyright
+Dollar Tree, Legal Department
+Address: 500 Volvo Parkway
+City, State, Zip: Chesapeake, VA. 23320
+
+Please provide the following information to our Copyright Infringement Agent: (1) the identity of the infringed work, and of the allegedly infringing work; (2) your name, address, daytime phone number, and email address, if available; (3) a statement that you have a good-faith belief that the use of the copyrighted work is not authorized by the owner, his or her agent, or the law; (4) a statement that the information in the notification is accurate and, under penalty of perjury, that you are authorized to act on behalf of the owner; and (5) your electronic or physical signature.
+
+16 Dispute Resolution (Informal Dispute Resolution; Governing Law and Venue; Class Action Waiver; Jury Trial Waiver)
+ 
+Informal Dispute Resolution
+
+Except as otherwise provided in this Section, the parties (and counsel, if represented) will attempt to informally resolve in good faith all disputes, controversies, or claims arising under, out of, or relating to these Terms, your use of the Services, Technology, Materials, or your relationship with Dollar Tree (including any dispute, controversy, or claim that arose prior to or after termination of these Terms) (“Dispute”), for a 60-day period (which can be extended by agreement of the parties). The party with the Dispute will send a written notice to the other party that includes all of the following information: (1) contact information (including name, address, email address, and telephone number); (2) a detailed description of the nature and basis of the Dispute and the relief sought, including a calculation for it if applicable; and (3) information sufficient to identify any account, interaction, or transaction at issue. The notice must be personally signed by the party asserting the Dispute (and counsel, if represented). Your notice to Dollar Tree must be sent by postal mail and email at:
+
+Name: Dollar Tree
+ATTN: Chief Legal Officer
+Address: 500 Volvo Parkway
+Email: legaldept@dollartree.com
+Chesapeake, VA. 23320
+
+Our notice to you must be sent to the most recent contact information we have on file for you. For a period of 60 days from receipt of a completed notice (which can be extended by agreement of the parties), you and we agree to negotiate in good faith in an effort to informally resolve the Dispute. If the party receiving the notice makes a request, the other party will personally participate (with counsel, if represented) in a telephonic settlement conference in an effort to resolve the Dispute. This conference, if requested, will be scheduled for a time convenient for the parties and may take place outside of the 60-day period. Completion of this informal dispute resolution process is an obligation and a condition precedent to filing a claim in court except for actions seeking emergency, preliminary, or appropriate interim relief to protect intellectual property rights or to address claims of theft or piracy. All applicable limitations periods (including statutes of limitations) shall be tolled from the date of receipt of a completed notice through the conclusion of this process.
+
+Governing Law and Venue
+
+These Terms and any Dispute are governed by the laws of the Commonwealth of Virginia, without regard to Virginia’s conflict of laws rules. You and we irrevocably consent to the exclusive jurisdiction of the federal and state courts encompassing the city of Norfolk, Virginia for purposes of any Dispute and waive any objections as to personal jurisdiction or as to the laying of venue in such courts due to: (1) inconvenient forum or (2) any other basis or any right to seek to transfer or change venue of any such action to another court.
+
+Class Action Waiver and Jury Trial Waiver
+
+YOU AND WE EACH AGREE THAT ANY PROCEEDING WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS, COLLECTIVE, CONSOLIDATED, PRIVATE ATTORNEY GENERAL, OR REPRESENTATIVE ACTION. YOU AND WE AGREE TO WAIVE ANY RIGHT TO BRING OR TO PARTICIPATE IN A CLASS, COLLECTIVE, CONSOLIDATED, PRIVATE ATTORNEY GENERAL, OR REPRESENTATIVE ACTION IN COURT TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. NOTWITHSTANDING THE FOREGOING, THE PARTIES RETAIN THE RIGHT TO PARTICIPATE IN A CLASS-WIDE SETTLEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, YOU AND WE WAIVE THE RIGHT TO A JURY TRIAL.
+
+17 Applicable Laws
+Unless otherwise specified, the Materials are presented solely for the purpose of promoting Dollar Tree in the continental United States and Canada. This Services are controlled by Dollar Tree from its offices within the Commonwealth of Virginia in the United States. Dollar Tree makes no representation that the Materials or use of the Services are appropriate or available for use in other locations, and access to them from territories where they are illegal is prohibited. Those who choose to access the Materials and Services from other locations do so on their own initiative and are responsible for compliance with applicable local laws. As set forth above, you and we agree that all matters relating to the Services shall be governed by the internal substantive laws of the Commonwealth of Virginia in the United States.
+
+18 Notices
+Unless otherwise specified in these Terms, any notices required or allowed under these Terms will be provided to us by postal mail to the address for Dollar Tree listed on the Services. We may provide you with any notices required or allowed under these Terms by sending you an email to any email address that you provide to us in connection with your Account; provided that in the case of any notice applicable both to you and other Users, we may instead provide such notice by posting it on the Services. Notices provided to us will be deemed given when we actually receive them. Notice provided to you will be deemed given 24 hours after posting to the Services or sending via email, unless (as to email) the sending party is notified that the email address is invalid.
+
+19 Additional Terms
+All waivers by us under these Terms must be in writing or later acknowledged by us in writing. Any waiver or failure by us to enforce any provision of these Terms on one occasion will not be deemed a waiver by us of any other provision or of such provision on any other occasion. If any provision of these Terms is held to be unenforceable, that provision will be removed to the extent necessary to comply with the law, replaced by a provision that most closely approximates the original intent and economic effect of the original to the extent consistent with the law, and the remaining provisions will remain in full force. The prevailing party in any lawsuit or proceeding arising from or related to these Terms will be entitled to receive its costs, expert witness fees and reasonable attorneys’ fees, including costs and fees on appeal to the maximum extent permitted by applicable law. Neither these Terms nor any of your rights or obligations hereunder may be assigned or transferred by you (in whole or in part and including by sale, merger, consolidation, or other operation of law) without our prior written approval. Any assignment in violation of the foregoing will be null and void. We may freely assign these Terms. The words “include,” “includes” and “including” means “include,” “includes” or “including,” in each case, “without limitation.” The parties hereto are independent parties, not agents, employees or employers of the other or joint ventures, and neither acquires hereunder any right or ability to bind or enter into any obligation on behalf of the other.
+
+Terms of Online Sale
+1 Generally
+The Services provide you with the opportunity to buy items sold and shipped by us (“Items”). You will pay us any fees for Items that you purchase. The Dollar Tree Website Terms and Conditions, including the Dispute Resolution provisions, are expressly incorporated by reference. Please review these provisions carefully.
+
+2 Transactions
+If you wish to purchase any Items available through the Services (each such purchase, a “Transaction”), you may be asked to supply certain information relevant to your Transaction including, without limitation, information about your method of payment (such as your payment card number and expiration date), your billing address, and your shipping information (collectively, “Transaction Information”). You represent and warrant that you have the legal right to use any Transaction Information utilized in connection with any Transaction. By submitting Transaction information to us, you grant to us the right to provide such information to third parties for purposes of facilitating the completion of Transactions initiated by you or on your behalf. Verification of Transaction Information may be required prior to the acknowledgment or completion of any Transaction.
+
+3 Items
+All descriptions, images, references, features, content, specifications, products and prices of Items are subject to change at any time without notice. Certain weights, measures, and other descriptions are approximate and are provided for convenience purposes only. If you have purchased Items in full case quantities, please note that some cases come in assortments of styles and colors which cannot be altered. The inclusion of any Items on the Services does not imply or warrant that these Items will be available. It is your responsibility to ascertain and obey all applicable local, state, federal, and international laws (including minimum age requirements) in regard to the receipt, possession, use, and sale of any Item. By entering into a Transaction, you represent and warrant that the Item that you buy will be used only in a lawful manner. You agree to pay all charges that may be incurred by you or on your behalf through the Services, at the price(s) in effect when such charges are incurred including, without limitation, all shipping fees. In addition, you remain responsible for any taxes that may be applicable to your Transactions.
+
+4 Payment
+Your credit/debit card will be charged once your Items ship. When you place your Transaction, we will put a “pending authorization” on your credit/debit card account for the entire amount of your Transaction. A “pending authorization” means your card issuer will hold the funds pending shipment of your Items. This will show up as a “pending transaction” on your credit/debit card account. Once we’ve shipped your Items, your credit/debit card will actually be charged. If your Items are being shipped from multiple locations, you may see separate charges on your credit/debit card account for each shipment.
+
+5 Availability, Errors, and Inaccuracies
+Our acknowledgment of a Transaction means that your Transaction request has been received; it does not mean that your Transaction has been accepted or consummated, that Items have shipped, or that the price or availability of an Item has been confirmed. We make a conscientious effort to describe and display Items accurately through the Services. Despite these efforts, a small number of Items may be mispriced, described inaccurately or unavailable, and we may experience delays in updating Item information. As a result, we cannot and do not guarantee the accuracy or completeness of any information, including prices, product images, specifications, and availability. We reserve the right to change or update Item information and to correct errors, inaccuracies, or omissions at any time without prior notice.
+
+6 Cancellations; Limitations
+We reserve the right, in our sole discretion, to cancel any Transaction or limit Item quantity. We may request additional qualifying information prior to accepting or processing your Transaction. In verifying your method of payment, shipping address and other information available to us, we may decide to cancel or otherwise reduce the quantity of Items in your Transaction. In such case, we will use our best efforts to notify you by email. If your credit or debit card has been charged, we will process any refund that may be due to you.
+
+7 Refunds
+So that we may continue to provide you extreme value, except as stated in the prior paragraph, we do not offer refunds and consider all sales final.
+
+8 Resale
+If you are purchasing Items for resale, you understand and agree that it is your responsibility not to alter or remove any labeling of restrictions or requirements that may be shown on the Items and to warn your customers in the event of any future product safety issues or recalls.
+
+9 Rules for Promotions
+Any sweepstakes, contests, raffles, or other promotions (collectively, “Promotions”) made available through the Services may be governed by rules that are separate from these Terms. If you participate in any Promotions, please review the applicable rules.
+
+10 Gift Cards and Certificates
+All e-gift cards and certificates are deemed purchased in and issued from the Commonwealth of Virginia, United States. The risk of loss and title to such items passes to the purchaser upon our electronic transmission to the recipient.
+
+11 Customer Service
+If you give us permission to contact you regarding a customer service issue, we or our agents may call, text, or email you at the telephone number and/or email address that you provide us. You further agree that we may, for training purposes or to evaluate the quality of our service, listen to and record phone conversations you have with us or our agents regarding customer service issues.
+
+In-Store Coupon Acceptance Policy
+1 Online Redemption
+We do not accept the redemption of coupons through the Services.
+
+1 Online Redemption
+We do not accept the redemption of coupons through the Services.
+
+2 Manufacturer Coupons
+The following explains our policy with regard to coupons offered by the manufacturers of Items (“Manufacturer Coupons”):
+
+We accept Manufacturer Coupons only. We do not accept retail-specific coupons, such as those of Target, Wal-Mart, etc.
+We do not accept photocopies of Manufacturer Coupons. Manufacturer Coupons must be intact and not altered or modified in any way.
+Manufacturer Coupons can only be used in stores, must be presented at time of purchase, and cannot be redeemed for cash at a later time.
+The Item purchased must match the applicable Manufacturer Coupon description (brand, size, quantity, color, etc.) and must be purchased prior to the expiration date printed on the Manufacturer Coupon.
+We accept only one Manufacturer Coupon per Item purchased.
+We will accept a Manufacturer Coupon for over a dollar on a single Item, but the Manufacturer Coupon value will be reduced to the purchase price of the Item.
+We will not give cash back if the face value of a Manufacturer Coupon is greater than the purchase price of the Item.
+Notwithstanding the foregoing, we accept a Manufacturer Coupon for over a dollar on multiple Items if the Manufacturer Coupon amount does not exceed the combined retail price of the Items indicated.
+We accept up to four of the same Manufacturer Coupons per customer per day.
+Manufacturer Coupons for free Items are only accepted if a purchase is required to get one free (for example, buy-one-get-one-free offers).
+Any applicable sales tax on an Item’s price following the redemption of a Manufacturer Coupon must be paid by the customer.
+We reserve the right to accept, refuse, or limit the use of any Manufacturer Coupon.
+This policy is subject to all local, state, and federal laws and regulations where applicable.
+These guidelines apply to all coupons accepted at Dollar Tree (Manufacturer and Internet Coupons).
+3 Internet Coupons
+The following explains our policy with regard to Manufacturer Coupons retrieved from the internet (“Internet Coupons”):
+
+We accept up to two Internet Coupons per customer per day.
+Internet Coupons must have a valid expiration date and must have a valid remit address for the manufacturer.
+We do not accept Internet Coupons for “free” items with no purchase requirements.
+Duplicated (photocopied) Internet Coupons will not be accepted. Each Internet Coupon must have a different serial number.
+DOLLAR TREE MOBILE APP
+
+TERMS OF USE
+
+Welcome to the Dollar Tree Mobile App (“App”) for Dollar Tree Stores, Inc. (“We,” “Us,” or “Company”).  Please carefully read these Terms of Use (“Terms”) and the Company Privacy Policy (“Privacy Policy”) before using the App, as they impose legal obligations on you and us, and keep a copy for your records.  You accept and agree to be bound by these Terms, including additional terms and conditions specifically identified and linked to herein, when you use the App, including, without limitation, when you view or access content, make a purchase, or otherwise interact with the App.  Any activity facilitated or provided by us on or through the App is referred to as a “Service” or “Services.”
+
+PLEASE READ THESE TERMS CAREFULLY BEFORE USING THE APP, AS THEY CONTAIN A WAIVER OF CLASS ACTION RIGHTS AND OTHER LIMITATIONS THAT AFFECT YOUR RIGHTS, ALL OF WHICH ARE APPLICABLE TO YOUR USE OF THE APP, OUR SERVICES, AND ANY RELATED ACTIVITIES.  YOUR CONTINUED USE OF THE APP AND/OR SERVICES SIGNIFIES YOUR ACCEPTANCE OF THE TERMS, INCLUDING CHANGED ITEMS.  IF YOU DO NOT ACCEPT AND AGREE TO THESE TERMS, DO NOT USE THE APP OR SERVICES.
+
+We reserve all rights to modify, delete or append this App or any part thereof, and/or any Service, policy, FAQ or guideline referenced herein at our sole discretion.  You agree that we will not be liable to you or to any third party for any modification, suspension, or discontinuance of the App and/or Services.  Any such changes to the Terms will be posted on this page, and we will update the “Updated and Effective” date to reflect the date of the changes.  We recommend you review the Terms and Privacy Policy from time to time as you access the App and note any changes before your continued use of the App. Your continued use of the App after we post any revisions to the Terms and/or Privacy Policy constitutes your acceptance of the revised Terms and/or Privacy Policy.  If you do not wish to be bound by these Terms (in their current form or as subsequently revised or amended) or if at any time you no longer agree with all the terms and conditions that apply to you, your sole remedy shall be to discontinue your use of the App and/or any Services.  You may receive a copy of these Terms by printing a copy or by emailing us at legaldept@dollartree.com, Subject: Dollar Store App Terms of Use.
+
+ 
+
+Section 1 – General Conditions
+
+Based on your agreement to comply with these Terms, we grant you the right to access and use the App in order to (i) learn more about the Company as well as the products that we offer, (ii) purchase any of the products we offer, and (iii) print pages from the App for purposes of learning more about the Company (collectively, “Permitted Purposes”).  Apart from using the App for the Permitted Purposes, you may not use, copy, modify, or distribute our App (or pages from our App), and may not reproduce, duplicate, copy, sell, resell, or exploit any portion of the Service, use of the Service, or access to the Service, without express written permission from us.
+
+The headings used in this agreement are included for convenience only and in no way limit, define, construe, or describe the scope or extent of such section.
+
+Credit card information is always encrypted during transfer over networks.  You understand that your content (not including credit card information) may be transferred unencrypted and involve (a) transmissions over various networks and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
+
+ 
+
+Section 2 – Accessing the App and Account Security
+
+We reserve the right to change, amend, and modify the App, and any Service or material we provide on the App, in our sole discretion without notice.
+
+To access certain parts of the App, you may be asked to provide certain registration details or other information.  It is a condition of your permission to use the App that all the information you provide on the App is correct, current, and complete.  You agree that all information you provide to register with this App or otherwise, including, but not limited to, through the use of any interactive features on the App, is governed by our Privacy Policy, and you consent to and authorize all actions we take with respect to your information consistent with our Privacy Policy.
+
+If you choose, or are provided with, a username, password, or any other piece of information as part of our security procedures, you must treat such information as confidential, and you must not disclose it to any other person or entity.  You also agree not to provide any other person with access to this App or portions of it using your username, password, or other security information.  You agree to notify us immediately of any unauthorized access to or use of your username or password or any other breach of security.  You should use particular caution when accessing your account from a public or shared computer so that others are not able to view or record your password or other personal information.
+
+We have the right to disable any username, password, or other identifier, whether chosen by you or provided by us, at any time in our sole discretion for any or no reason, including if, in our opinion, you have violated any of these Terms.  We reserve the right to alter or delete materials from the App or to remove any abusive, illegal, or incorrect third-party content from the App at any time in our sole discretion.  We may suspend or terminate any and all accounts you have created or that have been created for you pursuant to your employment or status as a contractor or business partner on the App for your violation of any laws, regulations, or the Terms, or upon termination or suspension of your employment, contractor, or business partner status.
+
+ 
+
+Section 3 - Copyrighted Materials and Trademarks
+
+All content, processes, technology, programs, information, software, artwork, text, images, banners, custom graphics, button icons, scripts, logos and other materials on this App or embodied in our programs or services, including all associated intellectual property rights, are protected by U.S. and international copyright laws and are considered intellectual property of Company and/or its licensors, or are used under principles of fair use.  You are strictly prohibited from copying, downloading, uploading, modifying, distributing, transmitting, transferring, reproducing, publishing, or creating derivative works from it without prior written consent from Company, with the exception of Permitted Purposes.  Current and potential Company vendors and investors are permitted to download, print, or store copies of selected content for business use connected with the potential or other prospective business relationships with Company.  However, all users are forbidden to sell, exploit or engage in the sale of any intellectual property contained on this App, or corrupt the integrity of it in any manner.  Additionally, altering our copyright and/or trademark notices or transmitting pornographic, obscene, libelous, threatening, defamatory, or unlawful or otherwise unauthorized materials to or from this App is strictly prohibited.
+
+Company names, logos, product names and other indicated marks are the trademarks and service marks owned by Company or its affiliates or licensors (“Trademarks”).  Nothing herein should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any Trademark displayed herein, without the written permission of Company.  The Trademarks may not be used in connection with any product or service that is not Company’s, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Company.  All other brands and marks referenced on this App may be the trademarks of their respective owners.  Company retains all rights with respect to the App except those expressly granted to you in Section 1 above.
+
+ 
+
+Section 4 – Your Use of the App
+
+You may use the App only for lawful purposes and in accordance with these Terms.  You agree not to use the App or its content:
+
+in any way that violates any applicable federal, state, local or international law or regulation (including, without limitation, any laws regarding the export of data or software to and from the U.S. or other countries);
+to solicit others to perform or participate in any unlawful acts;
+to infringe upon or violate our intellectual property rights or the intellectual property rights of others;
+to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin or disability;
+to submit false or misleading information;
+to collect or track the personal information of others;
+to spam, phish, pharm, pretext, spider, crawl, or scrape content;
+for any obscene or immoral purpose;
+to interfere with or circumvent the security features of the App or any related website, other websites, or the Internet;
+to reverse engineer the App;
+to engage in any other conduct that restricts or inhibits anyone’s use or enjoyment of the App, or which, as determined by us, may harm the Company or users of the App or expose them to liability; or
+to introduce any viruses, Trojan horses, worms, logic bombs or other type of malicious code, device, software, or routine, that will or may be used in any way that will affect the functionality or operation of the App or any related website, other websites, or the Internet.
+We reserve the right to terminate your use of the App for violating any of the prohibited uses.
+
+ 
+
+Section 5 – Device Connection
+
+Use of the App will require your device(s) to have access or connection via mobile network or Internet (fees may apply).  Because use of the App involves hardware, software and Internet access, your ability to use the App may be affected by the performance of these factors.  We do not guarantee that the App can be accessed on all devices.  We do not guarantee that the App is available in all geographic locations.  By accepting these Terms, you acknowledge and agree that complying with such system requirements, which may be changed from time to time, is your responsibility and that your use of any third-party services is subject to the terms and conditions of use established by the respective third-party service providers. 
+
+ 
+
+Section 6 – User Comments, Feedback and Other Submissions
+
+If, at our request, you send certain specific submissions (for example, contest entries) or without a request from us you send creative ideas, suggestions, proposals, plans, or other materials, whether online, by email, by postal mail, or otherwise (collectively, “Comments”), you agree that such information shall be deemed to be non-confidential and Company shall have no obligation of any kind with respect to such information and shall be free to at any time, without restriction, edit, copy, publish, distribute, translate and otherwise use in any medium such information.  Further, Company shall be free to use any ideas, concepts, know-how or techniques contained in such information for any purpose whatsoever, including, but not limited to, developing, manufacturing, and marketing products incorporating such information.  We are and shall be under no obligation (1) to maintain any Comments in confidence; (2) to pay compensation for any Comments; or (3) to respond to any Comments.
+
+You agree that your Comments will not violate any right of any third-party, including copyright, trademark, privacy, personality or other personal or proprietary right.  You further agree that your Comments will not contain libelous or otherwise unlawful, abusive, or obscene material, or contain any computer virus or other malware that could in any way affect the operation of the App. You may not use a false email address, pretend to be someone other than yourself, or otherwise mislead us or third parties as to the origin of any Comments.  You are solely responsible for any Comments you make and their accuracy.
+
+ 
+
+Section 7 – Copyright Infringement Notice
+
+It is our policy to respond promptly to claims of intellectual property misuse.  If you have a good faith belief that your work has been copied and is accessible on the App in a way that constitutes copyright infringement, please notify us through the process set forth below.
+
+PURSUANT TO SECTION 512(C)(2) OF THE COPYRIGHT REVISION ACT, AS AMENDED BY THE DIGITAL MILLENNIUM COPYRIGHT ACT (“DCMA”), WRITTEN NOTICE OF ANY CLAIMED COPYRIGHT INFRINGEMENT MUST BE SUBMITTED TO THE DESIGNATED AGENT NAMED BELOW.  ANY NOTICE SENT TO THE DESIGNATED AGENT MUST MEET THE REQUIREMENTS OF THE DCMA.
+
+Designated to Receive Notification of Claimed Infringement:
+
+Name:         Dollar Tree
+
+ATTN: Legal Department
+
+Address:      500 Volvo Parkway
+
+Chesapeake VA 22230
+
+Email:          legaldept@dollartree.com   
+
+ 
+
+Note: any email notifications should include “Notice of Alleged Copyright Infringement” in the subject line of the email.
+
+Such notice must include the following information:
+
+The physical or electronic signature of the owner of an exclusive right that is allegedly being infringed upon, or a person authorized to act on the owner’s behalf;
+A description of the materials that are claimed to be infringing or the subject of infringing activity, and a link to the infringing materials, or if a link is not available a description of the location of these materials on the App;
+Sufficient information to identify the copyrighted works claimed to have been infringed upon (or if multiple copyrighted works located on the App are covered by a single notification, a representative list of such works);
+The name, address, telephone number, and email address (if available) of the complaining party;
+A statement by the copyright owner that the copyright owner has a good faith belief that there is no legal basis for the use of the materials that are the subject of the complaint; and
+A statement of the accuracy of the statements made and, under penalty of perjury, a statement that the complaining party is authorized to act on the behalf of the copyright owner.
+Once proper notice is given, we may take the material down.  We reserve the right to take whatever other actions we deem necessary, including notifying the appropriate authorities.  A party whose material was removed improperly may send counter notice to the above-referenced address.  Counter-notices must include the following:
+
+The sender’s name, address, phone number and physical or electronic signature;
+Identification of the material and its location prior to removal;
+A statement under penalty of perjury that the material was removed by mistake or misidentification; and
+The sender’s consent to local federal court jurisdiction, or if overseas, to an appropriate judicial body.
+We suggest that you consult your legal adviser before filing a notice or counter-notice.  Also, be aware that there can be penalties for false claims under the DCMA.
+
+ 
+
+Section 8 – Personal Information
+
+Your submission of personal information through the App is governed by our Privacy Policy.  For more information about our privacy practices, please review our Privacy Policy.
+
+ 
+
+Section 9 – Third-Party Links
+
+For your convenience, this App may provide links to websites owned and operated by third parties that are not affiliated with us.  We are not responsible for examining or evaluating the content or accuracy of these third-party websites, and we do not endorse or claim responsibility for any content on these third-party websites.  We do not warrant and will not have liability or responsibility for any third-party materials or websites, or for any other materials, products, or services of third parties, nor do we warrant that a third-party website will be free of computer viruses or other harmful code that can impact your computer or other Web-access device.  If you link to any third-party website through our App, please be aware that you are doing so at your own risk.  Please proceed with caution when visiting third-party websites by learning about their terms of use, privacy policies and security practices, and make sure you understand them before you engage in any transaction.  We may remove any link to a third party’s website at any time.  Company disclaims any responsibility for any consequence of your use of any third-party website accessed via a link from the App. Complaints, claims, concerns, or questions regarding third-party products should be directed to the third party.
+
+ 
+
+Section 10 – Errors, Inaccuracies and Omissions
+
+Occasionally there may be information on our App that contains typographical errors, inaccuracies or omissions that may relate to product descriptions, pricing, promotions, offers, product shipping charges, transit times and availability, or that may be inaccurate or incomplete in other respects.  We are not responsible if information on this App is inaccurate, incomplete, or outdated.  Any reliance on the material on this App is at your own risk.
+
+We reserve the right to correct any errors, inaccuracies, or omissions, and to change or update information or cancel orders if any information on the App or on any related website is inaccurate at any time without prior notice (including after you have submitted your order).  We undertake no obligation to update, amend or clarify information on the App or on any related website, including, without limitation, pricing information, except as required by law.  No specified update or refresh date applied on the App or on any related website should be taken to indicate that all information on the App or on any related website has been modified or updated.
+
+We have tried to accurately display the products that we offer for sale on the App, including the colors of those products.  Because the colors you see depend on your device display, we cannot guarantee that your device’s display of any color will be accurate.
+
+ 
+
+Section 11 - Indemnification
+
+You agree to indemnify, defend, and hold Company, its parents, affiliates, subsidiaries, employees, officers, directors, agents, vendors, partners, contractors, licensors, service providers, subcontractors, suppliers, interns, successors and/or assigns harmless from any and all claims, suits, actions, demands, damages, costs, liability and expenses, including reasonable attorney’s fees (collectively, “Claims”), resulting from, arising from or relating to your use of this App, including your breach of these Terms, or your violation of any law or the rights of a third party.  Company will be entitled to participate in the defense and settlement of any Claims and reserves the right, at our expense, to assume exclusive defense and control of any Claims; and, in any case, you agree to cooperate with Company, at your sole cost and expense, if and as requested by Company in the defense and settlement of any such Claims.  The indemnified parties are third-party beneficiaries of these Terms and may enforce them.
+
+ 
+
+Section 12 – Disclaimer of Warranties; Limitation of Liability
+
+THE APP AND ALL PRODUCTS AND SERVICES DELIVERED TO YOU THROUGH THE APP ARE (EXCEPT AS EXPRESSLY STATED BY US) PROVIDED “AS IS” AND “AS AVAILABLE” FOR YOUR USE, WITHOUT ANY REPRESENTATIONS, CONDITIONS, OR IMPLIED WARRANTY OF ANY KIND.  TO THE EXTENT PERMITTED BY APPLICABLE LAW, COMPANY EXPRESSLY DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES, INCLUDING ANY EXPRESS OR IMPLIED WARRANTIES OF MERCHANTABILITY, MERCHANTABLE QUALITY, NONINFRINGEMENT, FITNESS FOR ANY PARTICULAR PURPOSE, DURABILITY, AND TITLE.  YOU EXPRESSLY AGREE THAT USE OF THE APP AND RELATED SERVICES IS AT YOUR OWN RISK.
+
+YOU ACKNOWLEDGE AND AGREE THAT, TO THE EXTENT PERMITTED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES, INCLUDING BUT NOT LIMITED TO BREACH OF CONTRACT, TORT, OR NEGLIGENCE, WILL COMPANY (WHICH INCLUDES, FOR PURPOSES OF THIS SECTION, ITS AFFILIATES, SUBSIDIARIES, EMPLOYEES, OFFICERS, DIRECTORS, AGENTS, VENDORS, CONTRACTORS, INTERNS, SUPPLIERS, SERVICE PROVIDERS, LICENSORS, SUCCESSORS, AND/OR ASSIGNS) BE LIABLE FOR ANY INJURY, LOSS, CLAIM, OR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL NON-PERSONAL INJURY DAMAGES OF ANY KIND (INCLUDING, BUT NOT LIMITED TO, LOST PROFITS, LOST REVENUE, LOSS OF SAVINGS, LOSS OF DATA, REPLACEMENT COSTS, OR ANY SIMILAR DAMAGES), WHETHER BASED IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, ARISING OUT OF, OR RELATED TO, YOUR USE OF OR INABILITY TO USE THIS APP, OR ANY CONTENT (OR PRODUCT) POSTED ON, TRANSMITTED BY, OR OTHERWISE AVAILABLE ON THE APP, WHETHER THE MATERIALS CONTAINED ON THE APP ARE PROVIDED BY COMPANY OR BY A THIRD PARTY, AND EVEN IF COMPANY OR AN AUTHORIZED COMPANY REPRESENTATIVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+COMPANY DOES NOT WARRANT OR GUARANTEE THAT THE CONTENT ON THIS APP IS COMPLETE, TIMELY, ACCURATE, USEFUL, CURRENT OR RELIABLE.  COMPANY DOES NOT WARRANT OR GUARANTEE THAT YOUR USE OF THE APP WILL BE UNINTERRUPTED, SECURE OR ERROR-FREE; THAT DEFECTS OR ERRORS WILL BE CORRECTED; OR THAT THE APP AND/OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE FROM VIRUSES OR OTHER HARMFUL COMPONENTS.  YOU AGREE THAT FROM TIME TO TIME THE APP MAY BE INACCESSIBLE FOR INDEFINITE PERIODS OF TIME AT ANY TIME, WITHOUT NOTICE TO YOU.  YOU EXPRESSLY AGREE THAT YOUR USE OF, OR INABILITY TO USE, THE APP IS AT YOUR SOLE RISK.  ANY COMMENTS SUBMITTED OVER THE APP TO COMPANY SHALL BECOME EXCLUSIVE PROPERTY OF COMPANY.  COMPANY RETAINS ALL RIGHTS TO USE, PUBLISH, DISTRIBUTE, DISCLOSE AND REPRODUCE YOUR COMMENTS WITHOUT RESTRICTION OR COMPENSATION TO YOU.  NO COMMENTS OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM COMPANY OR VIA THIS APP SHALL CREATE ANY REPRESENTATION, WARRANTY OR GUARANTEE NOT EXPLICITLY STATED IN THE TERMS OF USE.
+
+NOTHING IN THESE TERMS OF USE WILL AFFECT ANY STATUTORY RIGHTS TO WHICH YOU MAY BE ENTITLED AS A CONSUMER TO THE EXTENT YOUR ABILITY TO ALTER OR WAIVE SUCH RIGHTS BY CONTRACT IS LIMITED BY APPLICABLE LAW.  SPECIFICALLY, YOU ACKNOWLEDGE THAT YOU MAY HAVE OR MAY IN THE FUTURE HAVE CLAIMS AGAINST US WHICH YOU DO NOT KNOW OR SUSPECT TO EXIST IN YOUR FAVOR WHEN YOU AGREED TO THESE TERMS OF USE AND WHICH IF KNOWN, MIGHT MATERIALLY AFFECT YOUR CONSENT TO THESE TERMS OF USE.  YOU EXPRESSLY WAIVE ALL RIGHTS YOU MAY HAVE UNDER SECTION 1542 OF THE CALIFORNIA CIVIL CODE, WHICH STATES:
+
+“A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE AND THAT, IF KNOWN BY HIM OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR RELEASING PARTY.”
+
+YOU ACKNOWLEDGE AND AGREE THAT THE LIMITATIONS OF LIABILITY SET FORTH IN THIS SECTION WILL SURVIVE ANY TERMINATION OR EXPIRATION OF THIS AGREEMENT AND, TO THE EXTENT PERMITTED BY LAW, WILL APPLY EVEN IF ANY LIMITED REMEDY SPECIFIED HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.  IN NO EVENT SHALL COMPANY’S AGGREGATE LIABILITY TO YOU FOR ANY LOSS, DAMAGE, OR CLAIM RELATED TO OR ARISING OUT OF THE APP OR ANY PRODUCTS OR SERVICES YOU RECEIVE FROM THE APP EXCEED THE TOTAL AMOUNTS, IF ANY, ACTUALLY PAID BY YOU TO COMPANY FOR SUCH PRODUCTS OR SERVICES DURING THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE LIABILITY OR FIFTY DOLLARS, WHICHEVER IS GREATER.  YOU AGREE THAT WE WOULD NOT ENTER INTO THESE TERMS AND CONDITIONS WITHOUT THESE LIMITATIONS ON OUR LIABILITY.  BECAUSE SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR THE LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, IN SUCH STATES OR JURISDICTIONS, OUR LIABILITY SHALL BE LIMITED TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+
+ 
+
+Section 13 – Class Action Waiver; Jury Trial Waiver
+
+PLEASE READ THIS SECTION CAREFULLY. IT AFFECTS YOUR LEGAL RIGHTS.
+
+All provisions of this section shall survive termination of these Terms, your relationship with us, and/or your account or profile.
+
+YOU AND WE EACH AGREE THAT ANY PROCEEDING WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS, COLLECTIVE, CONSOLIDATED, PRIVATE ATTORNEY GENERAL, OR REPRESENTATIVE ACTION.  YOU AND WE AGREE TO WAIVE ANY RIGHT TO BRING OR TO PARTICIPATE IN A CLASS, COLLECTIVE, CONSOLIDATED, PRIVATE ATTORNEY GENERAL, OR REPRESENTATIVE ACTION IN COURT TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.  NOTWITHSTANDING THE FOREGOING, THE PARTIES RETAIN THE RIGHT TO PARTICIPATE IN A CLASS-WIDE SETTLEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, YOU AND WE WAIVE THE RIGHT TO A JURY TRIAL.
+
+ 
+
+Section 14 – Severability
+
+In the event that any provision of these Terms is determined to be unlawful, void or unenforceable, such provision shall nonetheless be enforceable to the maximum extent permitted by applicable law, and the unenforceable portion shall be deemed to be severed from these Terms.  Such determination shall not affect the validity and enforceability of any other remaining provisions.
+
+ 
+
+Section 15 – Termination
+
+These Terms are effective unless and until terminated by either you or us.  You may terminate these Terms at any time by notifying us that you no longer wish to use our Services, or when you cease using our App.
+
+If in our sole judgment you fail, or we suspect that you have failed, to comply with any term or provision of these Terms, we also may terminate this agreement at any time without notice and you will remain liable for all amounts due up to and including the date of termination, and/or accordingly may deny you access to our App or Services (or any part thereof).
+
+The obligations and liabilities of the parties incurred prior to the termination date shall survive the termination of this agreement for all purposes.
+
+ 
+
+Section 16 – Assignment
+
+These Terms shall not be assignable by you, either in whole or in part.  Company reserves the right to assign its rights and obligations under these Terms.
+
+ 
+
+Section 17 – Entire Agreement
+
+These Terms and/or any policies or operating rules posted by us on the App or in respect to the Service constitute the entire agreement and understanding between you and us with respect to the subject matter hereof and govern your use of the App, superseding any prior or contemporaneous agreements, understandings, communications and proposals, whether oral or written, between you and us (including, but not limited to, any prior versions of the Terms).
+
+Any ambiguities in the interpretation of these Terms shall not be construed against the drafting party.
+
+ 
+
+Section 18 – Governing Law; Venue
+
+All provisions of this section shall survive termination of these Terms, your relationship with us, and/or your account or profile.
+
+ 
+
+Governing Law
+
+These Terms and any separate agreements whereby we provide you Services shall be governed by and construed in accordance with the laws of the United States of America and the Commonwealth of Virginia and as an agreement wholly performed therein without regard to their conflict of law principles.
+
+ 
+
+Venue
+
+For any litigation or for any dispute challenging the enforceability of any aspect of these Terms, the sole jurisdiction and venue for such litigation will be an appropriate federal or state court located in or encompassing the City of Norfolk, Virginia, United States.  You waive any objections as to personal jurisdiction or as to the laying of venue in such courts due to inconvenient forum or any other basis or any right to seek to transfer or change venue of any such action to another court.
+
+ 
+
+Section 19 – Changes to Terms of Use
+
+You can review the most current version of the Terms at any time at this page.  Please feel free to print out a copy of these Terms for your records.
+
+We reserve the right, at our sole discretion, to update, change or replace any part of these Terms by posting updates and changes to our App. If we modify these Terms, any such modifications will take effect proactively, upon your subsequent access to the App. It is your responsibility to check our App periodically for changes.  Your continued use of or access to our App or Services following the posting of any changes to these Terms constitutes acceptance of those changes.
+
+ 
+
+Section 20 – Survival
+
+The following provisions shall survive the termination of these Terms and shall apply indefinitely:
+
+Section 1 (General Conditions)
+Section 3 (Copyrighted Materials and Trademarks)
+Section 7 (Copyright Infringement Notice)
+Section 12 (Indemnification)
+Section 13 (Disclaimer of Warranties; Limitation of Liability)
+Section 14 (Class Action Waiver; Jury Trial Waiver)
+Section 15 (Severability)
+Section 17 (Assignment)
+Section 18 (Entire Agreement)
+Section 19 (Governing Law; Venue)
+Section 21 (Survival)
+ 
+
+Section 21 – Contact Us
+
+If you have any questions or comments regarding the App’s Terms, you may write to us at:
+
+Address:     Dollar Tree
+
+ATTN: Legal Department
+
+500 Volvo Parkway
+
+Chesapeake, VA 23320
+
+Email:          legaldept@dollartree.com     
+
+ 
+
+Section 22 – Effective Date
+
+The effective date of these Terms is August 23, 2024.
+
+ 

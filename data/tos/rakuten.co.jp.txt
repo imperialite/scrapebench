@@ -1,0 +1,128 @@
+Terms of service
+How to display branding credit and notice
+
+This English translation is only for reference purposes. The Japanese original is the governing Terms of Service and this English translation shall have no legal force.
+
+Article 1（Provisions）
+1. This agreement determines the items, relating to the Web Services provided by Rakuten Group, Inc. (hereinafter called “the Company”), which must be observed by the service user (hereinafter called “the Developer”).
+2. In this agreement, “Web Services” collectively describes search engines and other applications that the Company provides through the internet, application/programming/interfaces, Certification/Approval systems that uses OAuth and other protocols (hereinafter called “Certification/Approval systems”), and information on products and/or services (include, but are not limited to  product names, store names, URLs, images, product descriptions, information prices)(hereinafter called “Product Information”) belonging to the Group.
+3. In this agreement, “the Group” collectively describes the Company, the subsidiaries of the Company, associated companies of the Company and companies to which the equity method is applied.
+4. Regarding the use of the Web Services, the Developer will observe, as well as this agreement, subordinate agreements of this agreement, rules, guidelines, help documents and other documents (hereinafter called “this Agreement and Other Documents”), and the Rakuten Members’ Agreement determined by the Company.
+5. When the Developer uses the Web Services, the Company will consider that the Developer has agreed to this Agreement and Other Documents.
+
+Article 2 (Developer Qualification)
+The Developer must be Rakuten Members who have registered as a Rakuten Member following the procedures determined by the Company.
+
+Article 3 (Affiliates)
+If the Developer uses the Web Services with the aim to obtain affiliate remuneration, or lists a link to a product or service page that is a subject of “Rakuten Affiliates,” provided by the Company, the Developer will create the link through “Rakuten Affiliates.” In this case, the Developer will follow the “Rakuten Affiliate Partner Agreement” determined by the Company.
+
+Article 4 (Developer Information Registration)
+1. When using the Web Services, the Developer will complete the required items in the designated entry form and register the Developer information. The Company reserves the right to refuse the registration of the Developer information.
+2. The Developer must register correct and accurate information, in the registration outlined in the previous clause. The Group does not accept any responsibility for any damage or loss caused by the Developer not registering correct and accurate information.
+3. The Company will handle the personal information, acquired from the Developer through the information registration, following the personal information protection policy of the Group, and the Developer agrees to this.
+4. The Company will notify the Developer through email or on websites designated by the Company (hereinafter called “Notification Websites”), and the Developer agrees to this.
+5. The Developer will regularly check for emails sent from the Company and the Notification Websites. The Group does not accept any responsibility for any damage or loss caused by the Developer not regularly checking their emails or the Notification Websites.
+
+Article 5 (App ID)
+1. The Company, after verifying the information registration by the Developer as outlined in the first clause of the previous article, will issue IDs to the Developer for identifying the websites or client applications (hereinafter collectively called “Applications”) that the Developer attempts to create using the Web Services.
+2. The Developer must store the app IDs responsibly, without allowing any other person to gain knowledge of it. If the Company verifies, using designated methods, that the entered App ID matches the one that was issued by the Company, it is considered that the Developer is responsible for the use, and the Group does not accept any responsibility for any damage or loss caused by this even if someone other than the Developer is using the app ID for any reason including theft and improper use.
+3. In the case that there are any changes to the registered Developer information, the Developer must register the changes immediately. The Group does not accept any responsibility for any loss or damage caused by these changes not being registered.
+
+Article 6 (Intellectual Property Rights)
+1. The intellectual property rights of the Web Services (includes copyright, patent rights, trademark rights and any other property rights. The same applies to below) belong to the Company or the Company’s licensor, and the Developer cannot acquire, exercise or use any right unless explicitly stated in this Agreement and Other Documents.
+2. Even if the Developer is permitted to use the Web Services under this Agreement and Other Documents, the Developer is not allowed to undertake the transfer, loan, sub-license or any other procedure regarding the intellectual property of the Web Services to a third party.
+
+Article 7 (Usage Permission)
+1. The Company permits the Developer to use the Web Services in a non-exclusive manner on the condition that the Developer honours this Agreement and Other Documents.
+2. The Developer must pay the usage fees, which relate to the permission raised in the previous clause, if the Company decides this separately.
+3. The Company can place restrictions on the use of the Web Services (including and not limited to the usage scope and specification of the Application, number of accesses, access times, frequency of information update, indications relating to access, the size of sent data and display of specific information), defined separately, and the Developer accepts this.
+4. In the case that the Company deems it to be necessary, such as when the Developer breaches this Agreement and Other Documents, the Company can immediately revoke the usage permission determined in the first clause, and will take the measures determined in the third item in Article 17.
+
+Article 8 (the Production of Applications)
+1. The Developer may produce Applications using the Web Services according to the terms in this Agreement and Other Documents.
+2. In the case that the Developer attempts to create an Application that uses some of the information on Rakuten Members (parties who have registered as a Rakuten Member according to the procedures determined by the Company. The same applies below.), in order to enable the certification of the Rakuten Members, who attempt to use the applicable Applications or any related service, (hereinafter called “the Users”), and the Developer must use the Certification/Approval systems designated by the Company. Furthermore, the scope of the information on the Rakuten Members used by the applicable Applications and any related services is limited to what is specified separately by the Company.
+3. Upon using the Certification/Approval systems, the Developer will create the webpage that performs the user certification involved in the Application or any related services according to the specifications and standards specified by the Company. In addition, the Developer will display the login buttons and other tools (hereinafter called “Login Tools”), without alteration to the images or any data, in the Developer’s Applications, and, except for in the case that it is explicitly stated in this Agreement and Other Documents, the Developer cannot perform user certification using methods such as by using the Developer’s own login form or listing a link that does not use the Login Tools, and the Login Tools must not be used for any purpose other than for Certification/Approval systems that have been authorized by the Company.
+4. When creating Applications using the Web Services, the Developer must provide a link to Rakuten Ichiba and any other websites specified by the Group (hereinafter called “Rakuten Sites”). Additionally, the Developer must not provide links to websites other than the Rakuten Sites in the parts of the Applications where the Web Services has been used.
+5. The Developer consents to the non-exclusive use, without charge, of the intellectual property rights (including sublicensing rights) relating to the Application, by the Group. Furthermore, the Developer will not exercise the moral right of the author, regarding the Applications, against the Group and any party specified by the Group.
+6. The Developer will take necessary security measures against threats, such as computer viruses and hacking, in creating the Applications.
+7. The Developer will acknowledge and approve that the Company may monitor the Applications and websites created by the Developer for the purpose of ensuring the reliability of the Web Services and related services, by methods such as crawling, and the Developer agrees not to obstruct this kind of monitoring activity.
+
+Article 9 (Use of Trademarks)
+1. In using the Web Services, in creating Applications, or in providing services relating to these, the Developer can only use the Group’s trademarks (including similar trademarks) in ways that are designated by the Company.
+2. In the case that the Developer uses the Group’s trademarks in accordance with the previous clause, the Developer will follow the trademark usage guidelines and any other standards specified by the Group (hereinafter called the “Guidelines and Other Standards”).
+
+Article 10 (Forbidden Actions)
+1. The Developer cannot take the actions described in the following items.
+(1) To create an Application, which includes contents that apply to any of the following;
+    ・Contents that breach the law or this Agreement and Other Documents
+    ・Contents that breach the intellectual property rights or any other rights of the Group or a third party
+    ・Contents relating to criminal activity, expressions of discrimination or any other content that opposes public order and standards of decency
+    ・Adult contents, any contents that causes discomfort to the general public, such as indecent or grotesque contents, or any other contents that are unsuitable for the viewing of users, who are members of the general public, including young people
+    ・Improper displays that breach the self-standards relating to advertisement determined by the Japan Direct Marketing Association (http://www.jadma.org/).
+    ・Contents with specific political or religious assertions
+    ・Contents that could mislead viewers
+    ・Contents that request or appeal to viewers to click, for instance “please click for the running of the website.”
+    ・Contents that displays and/or implies the cooperative relationship with the Group
+    ・Any other contents that the Company deems to be unsuitable
+  （２）Actions that obstructs, destroys or limits the proper operation of systems such as software, hardware and communications devices of the Group or a third party, or actions that have the danger of doing so, with methods such as embedding a computer virus
+  （３）To copy, alter, reverse assemble, reverse compile or reverse engineer the programs provided through the Web Services
+  （４）To gain income by using the Web Services in ways other than Rakuten Affiliate (excludes the cases where the Company explicitly grants permission)
+  （５）Regarding the products or services that is a subject of the results of Rakuten Affiliate (includes, but is not limited to those by Web Services), to use the affiliate program other than Rakuten Affiliate (excludes the cases where the Company explicitly grants permission)
+  （６）To provide services using Web Services that competes or may compete against the Group
+  （７）Regarding the information obtained through the Web Services and Applications (includes but is not limited to Product Information and user information), using them for purposes other than those determined separately by the Company, or copying or altering them in ways other than those determined separately by the Company
+  （８）In the creation of the Applications, using URLs that include character strings that are the same as or similar to the Group's trade name or trademarks
+  （９）Storing information obtained through the Web Services or the Applications in a place that enables the sharing of information with unspecified and/or many people.
+  （１０）Using the Web Services in an environment where only specific people can access (excludes the cases where the Company explicitly grants permission)
+  （１１）Any other actions that are forbidden by the Company
+
+  2. If the Company determines that the Developer is doing, or holds the threat of doing any of the actions that apply to any of the items in the previous clause, the Company can demand the cessation of the provision of the Applications and all or part of their related services to the Developer, and the Developer will fulfil this immediately.
+
+Article 11 (Running of the Applications and the services)
+1. The Developer will clearly indicate that the Applications and their related services are created and run by the Developer, and that the Developer is responsible for these things. Furthermore, the Developer will take measures to prevent individual users from becoming disadvantaged in problematic situations that can be anticipated between the users, and will clearly indicate the scope of responsibilities of the Developer and the users in a way that can be understood by the users.
+
+2. In the running of the Applications and their related services, the Developer will abide by the laws relating to the protection of personal information, laws relating to specific commercial transactions, the Instalment Sales Law, the Act against Unjustifiable Premiums and Misleading Representations, and any other related laws and ordinances.
+
+Article 12 (User Information)
+1. The Developer will be responsible for the management of personal information of the users at the Developer’s own cost. Furthermore, the Developer will obtain prior approval for the purposes of the use of the users’ personal information.
+2. In the case that the company determines that the management of the users’ personal information by the Developer is inadequate, the Company can demand the Developer to take measures deemed necessary by the Company
+and the Developer will implement these.
+3. Unless explicitly permitted by the Company, the Developer may not store and possess or manage the symbols issued by the Developer or a third party, or personal information acquired by the Developer or a third party, in a way that they are connected to the user ID or any other user information issued to the users by the Company.
+4. In the case that the Company permits the storage and possession or management by the Developer of the information described in the previous clause, the Company can place restrictions from the perspective of information security or the protection of the users’ privacy in the way that the information is stored and possessed or managed, and the Developer agrees to this.
+5. The Developer will manage the symbols/information used for certification/authentication provided by the company so they are not known by a third party, and will be responsible for taking measures against their illegal use.
+6. The Developer may not use the users’ information for any other purpose than those that are approved by the users, and will not sell them or take any similar actions.
+7. The Developer will delete all of the information received from the Company regarding a user when the user makes a request. The Developer will provide a simple method for the user to make this request.
+
+
+Article 13 (Credit Display)
+If required so by the Company, the Developer will display that the Product Information displayed on the Applications are supplied by the Group, in a way that the Company determines separately.
+
+Article 14 (Specification Changes)
+The Company can change all or part of the specifications of the Web Services at any time. Furthermore, the Company and the Group does not take any responsibility for any damage or loss incurred by the Developer as a result of the change of specifications of the Web Services.
+
+Article 15 (Termination)
+Regardless of the reason, the Company can pause or terminate the supply of the Web Services or the access to the Rakuten Sites from the Application, for all Developers or any specific Developer, upon notification to the applicable Developer or upon listing a notice on a website designated by the Company. In addition, the Group does not accept any responsibility for any damage or loss caused incurred by the Developer as a result of the aforementioned pause or termination.
+
+
+Article 16 (Exemptions, Not Guaranteed)
+1. The Web Services will be provided in their present form, and the Group does not make any guarantee that the Web Services do not contain any errors, bugs, logical errors, defects, interruptions or any other fault, that the Web Services do not contain any harmful information such as computer viruses, or make any guarantee on properties of the Web Services including their accuracy, reliability, completeness, legality, non-infringement, validity and suitability for the purpose.
+2. The Developer accepts that the provision of the Web Services could be interrupted or stopped due to unavoidable causes such as system maintenances by the Group or faults in the communications line, and will not claim compensation for the aforementioned interruptions or cessations.
+3. Apart from the previous two clauses, the Group will not accept any responsibility for any loss or damage incurred by the Developer arising from phenomena relating to the Web Services, such as the use of the Web Services, the inability to use the Web Services, changes, improper access, and comments made or actions taken by a third party relating to the Web Services.
+
+Article 17 (Compensation)
+1. In the case that any damage or loss is incurred by the Group, a user or a third party, the Developer will guarantee the full amount of the applicable damage or loss (including legal fees).
+2. The Developer will be fully responsible for the resolution of, and the costs arising from any disputes with a user or a third party relating to the production or running of the Applications and materials, including the Application and their related services and contents, and will not cause any problems for the Group.
+3. If the Company determines that the Developer is breaching this Agreement and Other Documents, the Company can take measures towards the Developer as outlined in the following items, and the Developer may not protest to these.
+(1) Rejection of links from the Applications
+(2) The cessation of all or part of the Web Services
+(3) The cessation or deletion of App IDs
+
+Article 18 (Changes in this Agreement and Other Documents)
+The Company may freely amend this Agreement and Other Documents. The amendments in this Agreement and Other Documents take effect from when the Agreement and Other Documents are displayed in a website designated by the Company, after the amendments are made, and the Developer will follow this amended Agreement and Other Documents.
+
+Article 19 (Press Releases)
+The Developer, unless prior, written permission is granted by the Company, may not make a press release relating to the Web Services or the Applications.
+
+Article 20 (Applicable Laws, Jurisdictions)
+This Agreement will be interpreted based on the Japanese laws and the Tokyo District Court shall have the exclusive jurisdiction of the first instance over all disputes arising in connection with this Agreement.
+
+                                                              End

@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /s/
+Disallow: /de/s/
+Disallow: /es/s/
+Disallow: /fr/s/
+Disallow: /pt/s/
+Disallow: /dynamic/
+Disallow: /static/libre*
+Disallow: /static/maplibre*
+Disallow: /cdn-cgi/
+
+Sitemap: https://mapcarta.com/sitemap.xml

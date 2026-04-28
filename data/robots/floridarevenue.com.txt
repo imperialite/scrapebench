@@ -1,0 +1,55 @@
+# Allow all robots but restrict access to certain file structures
+
+Sitemap: http://floridarevenue.com/sitemap.xml
+
+User-agent: PowerMapper
+Disallow: /taxes/taxesfees/Pages/fuel_active.aspx
+Disallow: /taxes/taxesfees/Pages/fuel_inactive.aspx
+Disallow: /dor/training/
+Disallow: /_layouts/
+Disallow: /_catalogs/
+Disallow: /_cts/
+Disallow: /_private/
+Disallow: /Lists/
+Disallow: /m/
+Disallow: /ReusableContent/
+Disallow: /WorkflowTasks/
+Disallow: /SiteCollectionDocuments/
+Disallow: /SiteCollectionImages/
+Disallow: /SiteAssets/
+Disallow: /Documents/Forms/
+Disallow: /Pages/Forms/
+Disallow: /Search/
+Disallow: /rules/
+
+User-agent: SortSite
+Disallow: /taxes/taxesfees/Pages/fuel_active.aspx
+Disallow: /taxes/taxesfees/Pages/fuel_inactive.aspx
+Disallow: /_layouts/
+Disallow: /_catalogs/
+Disallow: /_cts/
+Disallow: /_private/
+Disallow: /Lists/
+Disallow: /m/
+Disallow: /ReusableContent/
+Disallow: /WorkflowTasks/
+Disallow: /SiteCollectionDocuments/
+Disallow: /SiteCollectionImages/
+Disallow: /SiteAssets/
+Disallow: /Documents/
+Disallow: /Pages/Forms/
+Disallow: /Search/
+Disallow: /Forms_library/
+Disallow: */rules/*
+
+User-agent: *
+Allow: /Forms_library/current/*
+Disallow: /Forms_library/20*
+Disallow: /dor/*
+Disallow: */Lists/*
+Disallow: */disasterprep/*
+Disallow: */salestaxholiday*
+Disallow: */backtoschool/*
+Disallow: */freedommonth/*
+Disallow: */tooltime/*
+Disallow: */huntingseason/*

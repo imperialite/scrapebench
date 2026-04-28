@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /apis/
+Disallow: /embed/
+Disallow: /docs
+Disallow: /d/

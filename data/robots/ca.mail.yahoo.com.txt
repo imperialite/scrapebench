@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /d/*
+Disallow: /n/*
+Disallow: /b/*
+Disallow: /m/*
+Disallow: /mb/*
+Disallow: /mrd/*
+Disallow: /mailboxes
+Disallow: /c/d/*
+Disallow: /c/n/*
+Disallow: /c/b/*
+Disallow: /c/m/*
+Disallow: /c/mb/*
+Disallow: /am/*

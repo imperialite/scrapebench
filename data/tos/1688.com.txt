@@ -1,0 +1,412 @@
+Alibaba Terms of Service
+
+
+
+Version number: Version 1, 2024
+
+Last revised date: 20241001
+
+ 
+
+
+Welcome to 1688!
+
+
+
+If "you" (hereinafter referred to as "user") are located in mainland China (referring to the area of ​​the People's Republic of China other than Hong Kong Special Administrative Region, Macao Special Administrative Region and Taiwan region), then "you" and "Hangzhou Alibaba Advertising Co., Ltd." (hereinafter referred to as "Alibaba") jointly sign this "Alibaba Service Terms" agreement (hereinafter referred to as "this Agreement"). The terms and conditions set forth in this Agreement shall apply to your use of the various services provided to you by Alibaba via the Internet in various forms, including the 1688 website, client and other forms (including new service forms that will emerge in the future with the development of technology).
+
+
+
+If you are located in a country/region outside of China, the entity signing the agreement with you will be "1688.COM PTE. LTD." (registered in Singapore, company registration number 202349153K), and "1688.COM PTE. LTD." will provide the aforementioned services to you. The specific details of the services and the legal relationship between you and "1688.COM PTE. LTD." are stipulated in the Terms of Use , not this agreement. Please read the Terms of Use carefully. By completing the registration process, you agree to the Terms of Use .
+
+ 
+
+This Agreement is a revised version of the "Alibaba Terms of Service". From the date of its publication, all references to "Alibaba Terms of Service" on the 1688 platform shall refer to this Agreement.
+
+I. Acceptance of Agreement
+
+1.1 This Agreement includes the main body of the Agreement and all rules that Alibaba has published or may publish in the future and notify through reasonable means. All rules are an integral part of this Agreement and have the same legal effect as the main body of the Agreement.
+
+1.2 Before clicking "Agree to this Agreement," you should carefully read this Agreement. Please be sure to carefully read and fully understand all the terms, especially the clauses that exempt or limit liability, the applicable law, and the dispute resolution clauses. Clauses that exempt or limit liability will be marked in bold and underlined; you should pay special attention to them . If you have any questions about this Agreement, you can log in to the 1688 Service Center (website: https://114.1688.com) to consult Alibaba customer service.
+
+1.3 By filling in the information as prompted on the registration page, reading and agreeing to this agreement, and completing the entire registration process, or by accessing the 1688 platform and using the services in any way, you indicate that you have fully read, understood, and agreed to accept the terms and conditions of this agreement. If you do not agree to this agreement or any of its terms during the process of reading this agreement, you should immediately stop the registration process and stop using the services .
+
+II. Definition
+
+2.1 1688 Platform: refers to the online information publishing and trading platform for business-to-business (B-to-B) trade hosted and operated by Alibaba, including the 1688 website (domain name 1688.com, hereinafter the same) and client.
+
+2.2 Alibaba : refers to "Hangzhou Alibaba Advertising Co., Ltd.", the operator of the 1688 platform.
+
+2.3 Alibaba Services : refers to the various services (hereinafter referred to as "Services") provided to you by Alibaba based on the Internet in various forms, including the 1688 website, client, etc. (including new service forms that will emerge in the future with technological development).
+
+2.4 1688 Platform Rules : This refers to all rules, interpretations, announcements, and other content that have been published or will be published in the 1688 Platform Rules channel (domain name: rule.1688.com), as well as various rules, implementation details, product process descriptions, announcements, etc. published by Alibaba in forums, help centers, and other channels.
+
+2.5 Alibaba Platform: This refers to websites and clients including 1688, Taobao (domain name: taobao.com), Tmall (domain name: tmall.com), Etao (domain name: etao.com), Juhuasuan (domain name: ju.tmall.com), Alimama (domain name: alimama.com), Alitrip (domain name: alitrip.com), Alibaba International Station (domain name: alibaba.com), AliExpress (domain name: aliexpress.com), etc.
+
+2.6 Alipay Company : refers to "Alipay (China) Network Technology Co., Ltd.", the entity that provides Alipay services.
+
+2.7 Related Companies : Refers to the individual or collective names of operators of the Alibaba platform other than Alibaba. For details on related companies of the 1688 platform service providers disclosed in the latest annual report of Alibaba Group Holding Limited, please click here.
+
+ 
+
+III. Scope of Agreement
+
+3.1 Contracting Parties
+
+This agreement is jointly entered into by you and Alibaba, and has the same contractual effect on both of you.
+
+3.2 Supplementary Agreement
+
+Due to the rapid development of the internet, the terms listed in this agreement between you and Alibaba cannot fully enumerate and cover all your rights and obligations with Alibaba, and the existing agreements cannot guarantee that they will fully meet the needs of future development. Therefore, Alibaba's legal statement , privacy policy , and 1688 platform rules are supplementary agreements to this agreement, inseparable from this agreement and having the same legal effect. Your use of Alibaba's services constitutes your agreement to the aforementioned supplementary agreements .
+
+ 
+
+IV. Account Registration and Use
+
+4.1 User Qualification
+
+4.1.1 You acknowledge that when you complete the registration process or actually use the services in other ways permitted by Alibaba, you must possess the civil capacity appropriate to your actions as stipulated by the laws of the People's Republic of China. If you do not possess the aforementioned civil capacity appropriate to your actions, you and your guardian shall bear the corresponding consequences arising therefrom in accordance with the law, and Alibaba has the right to terminate the services provided to you and cancel your account . If you register on the 1688 platform on behalf of a company or other legal entity, you represent and warrant that you have the authority to bind that company or legal entity to this agreement.
+
+ 
+
+4.1.2 In addition, you must ensure that you are not subject to any trade restrictions, sanctions or other legal or regulatory restrictions imposed by any country, international organization or region; otherwise, you may not be able to register and use the service normally.
+
+4.2 Account Registration
+
+4.2.1 You are bound by this agreement after you fill in the information, read and agree to this agreement, and complete the registration process as prompted on the registration page; or after you fill in the information, read and agree to this agreement, and complete the activation process as prompted on the activation page; or when you actually use Alibaba services in other ways permitted by Alibaba. You may use the email address, mobile phone number, or other methods permitted by Alibaba that you provide or confirm as your login method to access the 1688 platform.
+
+4.2.2 You understand and agree that if you complete the registration process on the 1688 platform, you will obtain your Alipay login name (hereinafter referred to as the "Account") upon successful registration. You can directly log in to Alipay and other Alibaba Group platforms that support Alipay login name login using your Alipay login name, without needing to set up a separate account. However, if you successfully registered before March 18, 2013, or if the email address or mobile phone number you used during registration has already been registered or used on other Alibaba platforms, the above-mentioned Alipay login name function will not be activated immediately by default.
+
+4.2.3 Because your account is linked to your information and 1688 platform business information, your account is for your personal use only. Any act by you directly or indirectly authorizing a third party to use your account or obtain information under your account without Alibaba's consent is invalid. If Alibaba determines, based on your account usage behavior and other factors, that your account usage may endanger your account security and/or the information security of the 1688 platform, Alibaba may refuse to provide the corresponding services or terminate this agreement.
+
+4.3 Account Transfer
+
+Because user accounts are linked to user credit information, you may only transfer your account if there is a legal provision, a judicial ruling, or Alibaba's consent, and the account transfer process stipulated in the 1688 platform rules is followed. Once your account is transferred, all rights and obligations under that account are transferred together. Otherwise, your account may not be transferred in any other way; otherwise, Alibaba has the right to pursue your liability for breach of contract, and you shall bear all corresponding liabilities arising therefrom .
+
+ 
+
+4.4 Real-name authentication
+
+To enable you to better use the various services of the 1688 platform and to protect your account security, Alibaba may require you to complete real-name authentication in accordance with national laws and regulations.
+
+4.5 Inactive Account Recycling
+
+If your account meets all of the following conditions, your Alipay login name may be cancelled, you will no longer be able to log in to any Alibaba platform, and all Alibaba platform services will be terminated simultaneously :
+
+(i) Failure to complete real-name authentication in accordance with relevant national laws and regulations and Alibaba's requirements ;
+
+(ii) You have not used your email address, mobile phone number, or other methods and passwords recognized by Alibaba to log in to the 1688 platform for six consecutive months, nor have you logged in to any other Alibaba platform ;
+
+(iii) There are no valid business transactions that have not yet expired .
+
+4.6 Registration Information Management
+
+4.6.1 When completing the registration or activation process, you should accurately and completely provide and promptly update your information as prompted on the corresponding pages of the 1688 platform to ensure that it remains true, timely, complete, and accurate. Where national laws and regulations explicitly require Alibaba, as a platform service provider, to verify user (such as seller) information, Alibaba will, in accordance with the law, periodically check and verify your information, and you should cooperate by providing the latest, true, complete, and valid information.
+
+4.6.2 If Alibaba fails to contact you using the information you last provided, if you fail to provide information as required by Alibaba in a timely manner, if the information you provided is obviously untrue, or if administrative or judicial authorities verify that the information you provided is invalid, you will bear all losses and adverse consequences caused to yourself, others, and Alibaba as a result. Alibaba may issue you inquiries or notices requiring rectification, and require you to re-certify, up to and including suspending or terminating the provision of some or all Alibaba services to you. Except as expressly provided by law, Alibaba shall not be liable for such actions .
+
+4.6.3 Your account login name and nickname must not violate national laws and regulations or the relevant management regulations of the 1688 platform. Otherwise, Alibaba may reclaim your login name and nickname and take appropriate action in accordance with the 1688 platform rules.
+
+4.7 Account Security
+
+4.7.1 Your account is set up and managed by you. Alibaba will never proactively ask you for your account password. Therefore, we strongly recommend that you safeguard your account and ensure that you log out of the 1688 platform correctly at the end of each online session. Alibaba is not liable for any losses or consequences resulting from your voluntary disclosure of your account information or from attacks, fraud, or other acts committed by others. You should seek redress from the infringer through judicial or administrative remedies .
+
+4.7.2 Except where Alibaba is at fault, you shall be responsible for all the results of your actions under your account ( including but not limited to signing various agreements online, publishing information, making inquiries/quotations, purchasing products, ordering services, and disclosing information) .
+
+4.7.3 If you discover any unauthorized use of your account to log in to the 1688 platform or any other situation that may lead to the theft or loss of your account, we recommend that you immediately notify Alibaba and authorize Alibaba to synchronize this information with Alipay and the Alibaba platform. You understand that Alibaba needs a reasonable amount of time to take action on any of your requests, and that the actions taken by Alibaba at your request may not be able to avoid or prevent the formation or expansion of the consequences of infringement. Except where Alibaba is legally at fault, Alibaba shall not be liable .
+
+ 
+
+V. Services and Standards
+
+You are entitled to access services on the 1688 platform including store management, product and/or service quotations, sales and promotion, product and/or service inquiries, procurement and evaluation, and transaction dispute resolution. Alibaba offers a wide range of services; please log in to the 1688 platform to browse details.
+
+5.1 Store Management
+
+5.1.1 By creating a store on the 1688 platform, you can publish various product and/or service information and conduct transactions with other users.
+
+5.1.2 Due to the inseparability of the store and the account, the transfer of the store is essentially the transfer of the store operator's account. The relevant requirements and restrictions for the transfer of the store shall be governed by the Account Transfer Clause 4.3 of this Agreement.
+
+5.1.3 If you temporarily close your store by removing all products, you shall still be responsible for ensuring the smooth operation of transactions completed before the store closure, including shipping, dispute resolution, and complaint handling.
+
+5.2 Pricing, sales and promotion of products and/or services
+
+5.2.1 Through the services provided by Alibaba, you have the right to publish product and/or service information, make quotations, solicit and find trading partners, and complete transactions on the 1688 platform in the form of text, pictures, etc.
+
+5.2.2 You shall ensure that you have the corresponding rights to the products and/or services you publish on the 1688 platform, and you shall not sell the following products and/or provide the following services on the 1688 platform :
+
+(a) Those prohibited or restricted by the state ;
+
+(ii) Infringing upon the intellectual property rights or other legitimate rights and interests of others ;
+
+(iii) The rules, announcements, notices or separate agreements signed between you and the 1688 platform have clearly stated that the product is not suitable for sale or/or provision on the 1688 platform .
+
+5.2.3 You shall adhere to the principle of good faith and ensure that the product and/or service information you publish is true and consistent with the products and/or services you actually sell and/or provide, and faithfully fulfill your transaction commitments during the transaction process. You shall maintain a healthy market competition order on the 1688 platform, and shall not disparage or defame competitors, interfere with any transactions or activities conducted on the 1688 platform, enhance or attempt to enhance your own credit rating in any improper way, or interfere or attempt to interfere with the normal operation of the 1688 platform in any way.
+
+5.2.4 You have the right to decide on the promotion and marketing methods for your products and/or services. Alibaba also provides you with a variety of promotional tools. Your promotional activities must comply with relevant national laws and regulations and the requirements of the 1688 platform .
+
+5.2.5 Paying taxes according to law is the obligation of every citizen and enterprise. You should declare and pay taxes to the tax authorities in a timely and full manner for the portion of your sales/turnover that exceeds the statutory tax exemption threshold .
+
+5.3 Inquiry, Procurement and Evaluation of Products and/or Services
+
+5.3.1 When you inquire about or purchase products and/or services on the 1688 platform, please carefully confirm the product name, price, quantity, model, specifications, dimensions, or the time, content, and restrictive requirements of the services. Please also verify your contact address, telephone number, and recipient information when placing your order. If the recipient you fill in is not yourself, you will bear all legal consequences arising from the actions and intentions of that recipient .
+
+5.3.2 You fully understand and agree that 1688 is a commercial trade procurement platform, not a consumer-facing market. Therefore, your inquiries and purchases must be based on genuine trade needs, and you must not engage in malicious inquiries, purchases, or malicious rights protection activities that disrupt the normal transaction order of the 1688 platform. To maintain the transaction order and security of the 1688 platform, Alibaba may proactively close relevant transaction orders upon discovering the aforementioned situations .
+
+5.3.3 You have the right to rate other users' products and/or services that you have transacted with through the rating system provided by the 1688 platform. All your rating activities shall comply with the relevant provisions of the 1688 platform rules. The rating content shall be objective and truthful, and shall not contain any profanity, pornography, vulgarity, advertising information, or other prohibited information as specified by laws and regulations or this agreement. You shall not improperly help others improve their credit or use your rating rights to threaten or extort other users. Alibaba may delete or block the rating information generated by your above-mentioned behaviors in accordance with the relevant provisions of the 1688 platform rules .
+
+5.3.4 If the products and/or services you inquire about or purchase on the 1688 platform are for export:
+
+5.3.4.1 You agree to comply with all applicable laws and regulations concerning import and export controls, trade restrictions, and economic sanctions. If you violate the foregoing commitments, Alibaba may suspend the relevant services upon discovering such circumstances.
+
+5.3.4.2 You must ensure that you are not subject to trade restrictions, economic sanctions or other legal restrictions imposed by any country, region or international organization, and that you have not directly or indirectly provided funds, goods or services to the aforementioned entities. Otherwise, you should stop using the services provided by Alibaba. You also understand that violating the aforementioned requirements may prevent you from registering and using Alibaba services normally.
+
+5.3.5 Regarding goods, services, software, and technology obtained through the Alibaba platform, you agree to comply with all applicable laws and regulations related to import and export controls, trade restrictions, and economic sanctions, including sanctions resolutions, laws, and regulations formulated and implemented by the United Nations Security Council, China, the United States, and any other country. Based on the need to maintain transaction order and security, if you violate the foregoing commitments, Alibaba may terminate services and proactively close relevant transaction orders and take account action upon discovering such circumstances.
+
+5.4 Transaction Dispute Resolution
+
+5.4.1 You may conduct transactions with other users through the transaction methods supported by the 1688 platform and abide by the corresponding transaction and payment rules. You understand and agree that the 1688 platform only serves as a place for users to find trading partners, negotiate transactions of products and services, and obtain various trade-related services. Alibaba will not participate in transactions between users, nor will it be involved in any legal relationships or disputes arising from transactions between users .
+
+5.4.2 If you have any disputes with other users during transactions on the 1688 platform, you or any other user has the right to choose the following methods to resolve the issue:
+
+(i) Independent negotiation with the opposing party in the dispute;
+
+(ii) Using the dispute resolution services provided by the 1688 platform;
+
+(iii) File a complaint with the relevant administrative department;
+
+(iv) to submit to arbitration in accordance with any arbitration agreement reached with the opposing party to the dispute;
+
+(v) File a lawsuit with the People's Court.
+
+5.4.3 If you use the dispute resolution service of the 1688 platform in accordance with the platform rules, it indicates that you acknowledge and agree to abide by the resolution decision made by 1688's customer service as an independent third party based on the facts of the dispute and in accordance with the 1688 platform rules (including adjusting the transaction status of relevant orders, determining whether to pay all or part of the disputed amount to one or both parties, and executing the corresponding deposit compensation, etc.). Before the 1688 platform makes a resolution decision, you may choose other dispute resolution methods mentioned above to resolve the dispute and suspend the 1688 platform's dispute resolution service. If you are not satisfied with the resolution decision, you still have the right to take other dispute resolution methods to resolve the dispute, but you should still abide by the resolution decision before a final decision is obtained through other dispute resolution methods .
+
+ 
+
+VI. Fees
+
+6.1 Alibaba has incurred significant costs in providing you with the services on the 1688 platform. Except for the services explicitly stated as chargeable by the 1688 platform, the services Alibaba provides to you are currently free. If Alibaba charges you reasonable fees in the future, Alibaba will take reasonable measures and notify you in advance through legal procedures and in the effective manner stipulated in this agreement to ensure you have full choice.
+
+6.2 You shall bear all taxes and fees, as well as related hardware, software, communication, network services and other expenses, incurred as a result of your transactions, obtaining paid services from Alibaba or accessing Alibaba's servers.
+
+ 
+
+VII. Limitation of Liability
+
+7.1 Alibaba will fulfill its basic guarantee obligations in accordance with the law; however, Alibaba shall not be liable for breach of contract in the event of force majeure or other third-party factors causing obstacles to performance, defects in performance, delays in performance, or changes in the content of performance :
+
+(a) Force majeure events such as natural disasters, strikes, riots, wars, government actions, and judicial or administrative orders ;
+
+(ii) Due to public service factors such as power supply failures or communication network failures, or factors involving third parties ;
+
+(iii) Under the circumstances that Alibaba has done its best to manage in good faith, due to factors such as routine or emergency equipment and system maintenance, equipment and system failure, network information and data security , etc.
+
+ 
+
+7.2 Alibaba only provides you with the services stipulated in this agreement. You understand that the information on the 1688 platform is posted by users themselves and may contain risks and defects. Alibaba will establish relevant inspection and monitoring systems in accordance with legal regulations to protect your legitimate rights and interests and ensure a good experience on the 1688 platform as much as possible. However, given the massive amount of information on the 1688 platform and the separation of information from physical goods in the information network environment, Alibaba, as an online trading platform, cannot review the information of each product and/or service individually, nor can it review the quality, safety, legality, authenticity, and accuracy of each product and/or service involved in the transaction. You should exercise caution in your judgment. If you discover any harmful information or behavior, please contact Alibaba promptly to file a complaint. Alibaba will handle harmful information and behavior .
+
+7.3 You understand and agree that in the dispute resolution service, the customer service of 1688 platform are not professionals and can only judge the evidence submitted by users based on the understanding of ordinary people. Alibaba does not guarantee that the dispute resolution decision will meet your expectations. Except as expressly provided by law or in the case of intentional or gross negligence, Alibaba shall not be liable for the dispute resolution decision .
+
+
+VIII. User Information Protection, Authorization, and Information Release Standards
+
+8.1 Protection of Personal Information
+
+Alibaba attaches great importance to the protection of users' personal information (i.e., information that can identify a user independently or in combination with other information). When you use the services provided by Alibaba, you agree that Alibaba may collect, store, use, disclose, and protect your personal information in accordance with the Privacy Policy published on the 1688 platform. Alibaba hopes to clearly explain to you how Alibaba processes your personal information through this Privacy Policy. Therefore, Alibaba recommends that you read the Privacy Policy in its entirety (click here or click the link at the bottom of the 1688 platform homepage) to help you better protect your privacy rights.
+
+8.2 Information Release Standards and Authorization of Non-Personal Information
+
+8.2.1 You are responsible for all actions taken under your registered account, including any content you publish and any consequences arising therefrom , and bear all risks arising from the use of the content, including risks arising from reliance on the accuracy, completeness, or usefulness of the content. When using the services under this agreement, you must comply with laws and regulations and shall not create, copy, publish, disseminate, or comment on information containing the following content or engage in related activities, nor shall you facilitate the creation, copying, publishing, dissemination, or comment on information containing the following content or engage in related activities:
+
+(i) Violating prohibitive provisions of national laws and regulations ;
+
+(ii) endangering national security, leaking state secrets, subverting state power, or undermining national unity;
+
+(iii) Actions that damage national honor and interests;
+
+(iv) Inciting ethnic hatred or discrimination, or undermining ethnic unity;
+
+(v) Undermining the state's religious policies and promoting cults and feudal superstitions;
+
+(vi) Spreading rumors, disrupting social order, and undermining social stability;
+
+(vii) disseminating obscene, pornographic, gambling, violent, or terrorist content, or instigating crime ;
+
+(viii) Fraudulent, false, inaccurate, or misleading ;
+
+(ix) Infringing upon the intellectual property rights of others or involving the trade secrets and other proprietary rights of third parties ;
+
+(x) Insulting, defaming, threatening, or infringing upon the legitimate rights and interests of others, such as by infringing upon their privacy ;
+
+(xi) The existence of viruses, Trojans, crawlers, or other malicious software or program code that may damage, tamper with, delete, or affect the normal operation of any system on the 1688 platform or secretly obtain data or personal information of the 1688 platform and other users without authorization ;
+
+(xii) Violating the bottom lines of laws and regulations, the socialist system, national interests, citizens' legitimate rights and interests, social public order, moral standards, and the authenticity of information;
+
+(xiii) Other content that violates public interests, public morality, or legal provisions, or that is not suitable for publication on the 1688 platform according to relevant 1688 platform agreements and rules .
+
+ 
+
+8.2.2 You represent and warrant that you have the corresponding and legal rights to the information you publish. Otherwise, Alibaba may delete or block the information you publish in accordance with the law or this agreement .
+
+8.2.3 For any non-personal information (excluding personal information) such as text, images, videos, and audio generated during your use of Alibaba's services, no transfer of intellectual property rights, portrait rights, or other rights will occur due to your uploading or publishing activities. Unless Alibaba expressly states otherwise, within the scope permitted by law and the legally prescribed protection period, you grant Alibaba and its affiliates and Alipay a non-exclusive, unrestricted license (including the right to store, use, copy, revise, edit, publish, display, translate, distribute your non-personal information or create derivative works thereof, and to incorporate such information into other works in any known or hereafter developed form, media, or technology) and the right to sublicense to other third parties, as well as the right to collect evidence and initiate legal proceedings against third-party infringements in your own name.
+
+ 
+
+8.2.4 To facilitate your use of Alibaba Platform, Alipay and other related services, you authorize Alibaba to transmit the information you provide and generate during account registration and use of Alibaba services to Alibaba Platform, Alipay and other related service providers, or to obtain the information you provide and generate during registration and use of related services from Alibaba Platform, Alipay and other related service providers .
+
+ 
+
+IX. User Breach of Contract and its Handling
+
+9.1 Determination of Breach of Contract
+
+You shall be deemed to have breached the contract if any of the following circumstances occur:
+
+(i) Violating relevant laws and regulations when using Alibaba services;
+
+(ii) Breach of this Agreement or any supplementary agreement to this Agreement.
+
+To adapt to the development of e-commerce and meet the needs of a massive number of users for efficient and high-quality services, you understand and agree that Alibaba may stipulate the procedures and standards for determining breach of contract in the 1688 platform rules. For example, Alibaba may determine whether you have breached the contract based on the relationship between your user data and massive user data; you have an obligation to provide sufficient evidence and reasonable explanation for any abnormalities in your data, otherwise you will be deemed to have breached the contract.
+
+ 
+
+9.2 Measures for Handling Breach of Contract
+
+9.2.1 If the information you publish on the 1688 platform constitutes a breach of contract, Alibaba has the right to make an independent judgment and may immediately delete or block the relevant information or remove, delete or monitor your products in accordance with the relevant rules. Alibaba also has the right to suspend or terminate the provision of services under this agreement depending on the specific circumstances.
+
+9.2.2 If your actions on the 1688 platform, or actions that, while not performed on the 1688 platform, affect the 1688 platform and its users, constitute a breach of contract, Alibaba may, in accordance with relevant rules, take measures against you such as deducting points from your account, restricting your participation in marketing activities, suspending the provision of some or all services to you, and deducting penalties. If your actions constitute a fundamental breach of contract, Alibaba may close your account and terminate the provision of services to you .
+
+9.2.3 When you breach the contract and there are specific circumstances such as fraud, selling counterfeit goods, or stealing other people's accounts, or when you pose a risk to the transaction security or account security of others, Alibaba will instruct Alipay to take compulsory measures such as canceling payment and freezing funds against your (and the Alipay accounts linked to your account) Alipay accounts according to the risk level of your behavior .
+
+9.2.4 Alibaba may publish information on the measures taken to handle your above-mentioned breach of contract, as well as other illegal information confirmed by effective legal documents issued by national administrative or judicial authorities, on the 1688 platform .
+
+9.3 Liability for Compensation
+
+9.3.1 If your actions cause losses to Alibaba and/or its affiliates or Alipay, you shall be liable for compensation in accordance with this Agreement. You shall compensate Alibaba and/or its affiliates or Alipay for any losses suffered as a result (if any), including:
+
+(a) Reasonable attorney fees, litigation costs, and necessary expenses incurred in eliminating the impact;
+
+(ii) Fines, penalties, or compensation paid to external parties due to administrative penalties, judicial rulings, or mediation within the scope of statutory standards;
+
+(iii) Loss of goodwill and reasonable expected profit loss (such as loss of members, reduced expenditure, reduced consumption frequency and reduced income of store operators, etc.). The specific amount can be calculated based on the relevant estimation standards derived by a third party through independent and reasonable analysis, Alibaba's reasonable analysis based on big data and other reasonable methods for calculating income and loss.
+
+(iv) Other losses suffered as a result.
+
+ 
+
+ 
+
+9.3.2 If your actions cause Alibaba and/or its affiliates or Alipay to be subject to claims by a third party, Alibaba and/or its affiliates or Alipay may seek recourse from you for all losses after fulfilling their obligations to the third party, such as making monetary payments .
+
+9.3.3 If your actions cause losses to a third party or you fail to comply with the mediation decision, you authorize and agree that Alibaba and/or its affiliates may, for the purpose of protecting public interests or the legitimate rights and interests of other users, instruct Alipay to deduct the corresponding amount from your Alipay account for payment. If your Alipay balance or security deposit is insufficient to pay the corresponding amount, you agree to entrust Alibaba to use its own funds to pay the aforementioned amount on your behalf (but Alibaba has no such obligation), and you shall return that portion of the fee and compensate Alibaba for all losses incurred as a result .
+
+9.3.4 You agree that Alibaba may instruct Alipay to deduct the corresponding amount from your Alipay account to pay the aforementioned compensation. If the funds in your Alipay account are insufficient to pay the aforementioned compensation, Alibaba and/or its affiliates may directly offset your funds and/or rights under other agreements with Alibaba and/or its affiliates, and may continue to pursue recovery .
+
+9.3.5 If Alibaba breaches its contract intentionally or through gross negligence, causing you losses, Alibaba will compensate you based on your direct actual losses.
+
+9.4 Special Provisions
+
+9.4.1 If you provide Alibaba and/or its affiliates' employees or consultants with benefits, such as goods, cash, cash equivalents, services, or travel, that clearly exceed the scope of normal business negotiations, this may be considered commercial bribery. In such cases, Alibaba may take appropriate action in accordance with the 1688 platform rules, and after prior notice, terminate all cooperation with you and charge you a penalty and/or compensation, the amount of which will be calculated based on the economic losses and reputational damage suffered by Alibaba due to your bribery .
+
+9.4.2 If Alibaba terminates this Agreement due to your serious breach of contract, Alibaba and/or its affiliates may take measures to suspend or even terminate cooperation with you under other agreements in order to maintain platform order and protect the legitimate rights and interests of other users, and will notify you in the effective manner stipulated in this Agreement .
+
+9.4.3 If other agreements signed between Alibaba and you, or agreements signed between Alibaba and/or its affiliates, Alipay and you, explicitly stipulate circumstances for related processing of your cooperation under this Agreement, Alibaba may suspend or even terminate the Agreement upon receiving instructions, in order to maintain platform order and protect the legitimate rights and interests of other users, and will notify you in a valid manner as stipulated in this Agreement .
+
+10. Amendments to the Agreement
+
+10.1 Alibaba may, from time to time, modify this Agreement and supplementary agreements in accordance with changes in national laws and regulations and the need to maintain market order and protect the legitimate rights and interests of users. The modified agreement and supplementary agreements (hereinafter referred to as the "Modifications") will be notified to you through legal procedures and in accordance with the effective notification methods stipulated in this Agreement .
+
+ 
+
+10.2 If you disagree with the changes, you have the right to contact Alibaba to provide feedback before the effective date of the changes. If your feedback is adopted, Alibaba will adjust the changes accordingly. If you still disagree with the effective changes, you should stop using Alibaba services from the effective date of the changes, and the changes will not be effective against you; if you continue to use Alibaba services after the changes take effect, you will be deemed to have agreed to the effective changes .
+
+ 
+
+ 
+
+ 
+
+XI. Valid Notification
+
+11.1 Valid Contact Information
+
+When you register as a 1688 platform user and accept Alibaba's services, you should provide Alibaba with true and valid contact information (including your email address, phone number, and address). If your contact information changes, you are obligated to update the relevant information in a timely manner and keep it in a state where you can be effectively contacted.
+
+The member account (including sub-accounts) you generate when registering as a 1688 platform user, used to log in to the 1688 platform to receive instant messages such as site messages, system messages, and Aliwangwang messages, also serves as your valid contact method.
+
+Alibaba will send you various notices through one or more of the contact methods mentioned above. The content of such notices may have a significant positive or negative impact on your rights and obligations, so please pay close attention to them .
+
+You have the right to receive commercial information such as product/service advertisements and promotional offers that may interest you via the mobile phone number or email address you provided during registration; if you do not wish to receive such information, you have the right to unsubscribe through the corresponding unsubscribe function provided by Alibaba .
+
+11.2 Delivery of Notice
+
+11.2.1 Alibaba will send you notices through the above contact methods. Among them, written notices sent electronically include, but are not limited to, announcements on the 1688 platform, SMS messages sent to the contact number you provided, emails sent to the email address you provided, and Wangwang messages, system messages, and internal messages sent to your account. Such notices shall be deemed served upon successful transmission. Written notices sent on paper shall be deemed served on the fifth calendar day after being mailed to the contact address provided.
+
+11.2.2 For any disputes arising from transactions on the 1688 platform, you agree that judicial authorities (including but not limited to people's courts) may serve you with legal documents (including but not limited to litigation documents) via SMS, email, AliWangwang, or mail. The mobile phone number, email address, or AliWangwang account you designate to receive legal documents will be the mobile phone number and email address you provided when registering and updating your account on the 1688 platform, as well as the AliWangwang account generated when registering as an Alibaba user. Service of legal documents by judicial authorities to the aforementioned contact methods shall be deemed as service. The mailing address you designate is your legal contact address or a valid contact address you provide.
+
+You agree that the judicial authorities may serve you with legal documents through one or more of the above methods. If the judicial authorities serve you with legal documents through multiple methods, the time of service shall be based on the earliest service method among the above methods.
+
+You agree that the above service of process methods apply to all stages of legal proceedings, including but not limited to first instance, second instance, retrial, enforcement, and summary proceedings.
+
+You must ensure that the contact information you provide is accurate and valid, and that it is updated in a timely manner. If legal documents cannot be served or are not served in a timely manner due to inaccurate contact information or failure to promptly notify you of changes to your contact information, you shall bear all legal consequences arising therefrom.
+
+XII. Termination of Agreement
+
+12.1 Circumstances for Termination of Agreement
+
+12.1.1 You have the right to terminate this Agreement in any of the following ways:
+
+(i) You cancel your account through the website's self-service when you meet the account cancellation conditions required by the 1688 platform;
+
+(ii) You ceased using Alibaba services and explicitly stated your unwillingness to accept the changes before the changes took effect;
+
+(iii) You expressly indicate that you do not wish to continue using Alibaba's services and meet the termination conditions required by the 1688 platform.
+
+12.1.2 Alibaba may using the effective methods stipulated in this Agreement:
+
+(i) Your real-name authentication identity is invalid, no longer legally valid, or cannot be effectively verified;
+
+(ii) If you breach this Agreement, Alibaba will terminate this Agreement in accordance with the breach of contract clause;
+
+(iii) Alibaba will close your account in accordance with the rules of the 1688 platform if you steal other people's accounts, publish prohibited information, commit fraud, sell counterfeit goods, disrupt market order, or seek profit through improper means;
+
+(iv) In addition to the above circumstances, if you have repeatedly violated the relevant provisions of the 1688 platform rules and the circumstances are serious, Alibaba may close your account in accordance with the 1688 platform rules;
+
+(v) Your account has been reclaimed by Alibaba in accordance with this agreement;
+
+(vi) You have engaged in fraud, publishing or selling counterfeit or substandard/infringing products, infringing on the legitimate rights and interests of others, or other serious illegal or breach of contract activities on the Alipay or Alibaba platforms;
+
+(vii) Alibaba believes, based on reasonable grounds, that your actions may cause serious damage or legal liability to you, Alibaba, and other relevant parties such as 1688 platform users;
+
+(viii) Other circumstances under which services should be terminated.
+
+12.2 Handling after termination of the agreement
+
+12.2.1 Upon termination of this Agreement, except as expressly provided by law, Alibaba shall have no obligation to disclose any information in your account to you or any third party you designate.
+
+12.2.2 Upon termination of this Agreement, Alibaba shall retain the following rights:
+
+(i) Continue to retain the various information listed in Article 8 of this Agreement that you have left on the 1688 platform ;
+
+(ii) Alibaba may still pursue your liability for breach of contract in accordance with this Agreement for your past breaches of contract.
+
+12.2.3 Upon termination of this Agreement, Alibaba may notify the counterparty and decide whether to close any transaction orders generated during the term of this Agreement, based on the counterparty's wishes. If the counterparty requests continued performance, you shall continue to perform the terms of this Agreement and the transaction orders, and bear any losses or additional costs incurred as a result .
+
+13. Links
+
+The 1688 platform or third parties may provide links to other World Wide Web websites or resources. Since Alibaba does not control such websites and resources, you understand and agree that Alibaba is not responsible for the availability of such external websites or resources, and does not endorse or assume any responsibility for any content, advertising, products, services, or other materials on or available from such websites or resources. You further understand and agree that Alibaba shall not be liable for any direct or indirect loss caused (or allegedly caused) by or as a result of using or relying on such content, advertising, products, services, or other materials obtained from such websites or resources, except where the law expressly provides that Alibaba is liable .
+
+XIV. Applicable Law, Jurisdiction and Other Matters
+
+14.1 The validity, interpretation, modification, performance and dispute resolution of this Agreement shall be governed by the laws of the People’s Republic of China; where there are no relevant legal provisions, commercial practices and/or industry practices shall apply .
+
+14.2 You and Alibaba are independent contracting parties only. This agreement is not intended to create or establish any agency, partnership, joint venture, employment or licensing relationship.
+
+14.3 Unless otherwise agreed by both parties, you agree that Alibaba has the right to assign all or part of its rights and obligations under this Agreement as required by its business operations, and will notify you in advance through reasonable means and in the effective manner stipulated in this Agreement via legal procedures .
+
+14.4 Any dispute arising out of or relating to this Agreement or Alibaba Services shall be resolved through negotiation between Alibaba and you. If the negotiation fails, either party may file a lawsuit in the People's Court at the defendant's domicile .
+
+14.5 If any provision of this Agreement is held to be invalid or unenforceable, that provision shall be struck and the remaining provisions shall remain in force and effect. The headings of the provisions are for convenience only and do not in any way define, limit, interpret, or describe the scope or extent of such provisions. Alibaba's failure to take action regarding a breach by you or any other party does not waive Alibaba's right to take action regarding any subsequent or similar breaches.
+
+14.6 Both you and 1688 will strictly abide by the requirements of the Anti-Monopoly Law, the Anti-Unfair Competition Law, and other relevant laws and regulations, and participate in market competition and maintain market competition order based on the principles of voluntariness, equality, fairness, and good faith. If you discover any behavior by 1688 employees that is suspected of violating the Anti-Monopoly Law or the Anti-Unfair Competition Law, you can report the issue through 1688's supervision email address [b2b-tousu@alibaba-inc.com]. 1688 will conduct investigations and handle the matter in accordance with the principles of confidentiality and objectivity.
+

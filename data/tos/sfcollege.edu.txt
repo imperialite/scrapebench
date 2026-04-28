@@ -1,0 +1,30 @@
+ï»¿
+Santa Fe College Wi-Fi Acceptable Use Policy
+Santa Fe College Wi-Fi Acceptable Use Policy
+ACKNOWLEDGEMENT
+By using Santa Fe College (SF) Wi-Fi, you hereby expressly acknowledge and agree that there are significant security, privacy, and confidentiality risks inherent in accessing or transmitting information through Wi-Fi. Security issues include, without limitation:
+Interception of transmissions
+Loss of data
+The introduction of viruses and other programs that can corrupt or damage your computer
+Accordingly, you agree that SF is NOT liable for any interceptions or transmissions of data, computer worms, viruses, loss of data, file corruption, hacking, or damage to your computer or other devices that result from the transmission or download of information or materials through the service provided.
+RESTRICTIONS AND LIMITED SUPPORT
+Use of the wireless network is subject to the general restrictions of the SF Appropriate Use of Information Technology Resources Policy.
+Media sharing with peer-to-peer programs do not constitute acceptable use of the wireless network, even if the media being shared is legal/legitimate.
+Device and connection logs may be used for assessing network problems or identifying unacceptable use of the open wireless network.
+Wi-Fi data is not encrypted during transmission.
+The guest wireless network's maximum data speed is significantly lower than the speed of the campus
+“SFCollege”
+wireless network.
+Both network and Internet performance varies and cannot be guaranteed.
+Off-campus connections to the open wireless network are not permitted.
+If abnormal, illegal, or unauthorized behavior is detected, including heavy consumption of bandwidth, Santa Fe College reserves the right to terminate connection or ban the offending device from the wireless network.
+ON-CAMPUS WIRELESS ACCESS POINTS NOT OWNED BY SANTA FE COLLEGE
+The use of wireless access points connected to the SF network not provided by SF’s Information Technology Services (ITS) department pose a security risk that could give unauthorized or malicious persons access to confidential SF data. They can also degrade the performance of the SF wireless network on campus.
+Because of these risks, SF’s ITS department is restricting the use of wireless access points connected to the SF network; only access points provided by SF’s ITS department are allowed.
+IMPORTANT: Many laptops, tablets and smartphones can be configured as access points. Windows allows Internet Connection Sharing across a wireless interface, smartphones can do tethering over WLAN (mobile hotspot), and Mac OS X and GNU/Linux provide similar features. Enabling these features effectively turns a laptop, smartphone, or tablet into an access point. In order to avoid interference with the SF wireless networks, these features must be disabled while the wireless device is used on the SF campus.
+DEFINITIONS
+Wireless Network (WLAN) - a local area network technology that uses radio frequency spectrum to connect computing devices to the Campus Network Backbone and the internet. This technology may also be known as Wi-Fi or 802.11b/g/n/ac.
+Access Point (AP) - electronic hardware that serves as a common connection point for devices in a wireless network.
+Wireless Device - a desktop, laptop, handheld, portable, or other computing device with a component installed to provide a wireless network interface.
+Interference - the degradation of a wireless communication signal caused by electromagnetic radiation or an overlapping frequency generated from another source. Interference can slow down or eliminate a wireless transmission depending on the strength of the interfering signal.
+Tethering - in this case, is defined as sharing the internet connection from your phone or tablet with other devices over Wi-Fi.

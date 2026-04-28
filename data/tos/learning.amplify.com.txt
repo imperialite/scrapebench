@@ -1,0 +1,186 @@
+Amplify | Acceptable Use Policy
+Research
+Research
+Research Hub
+Amplify CKLA & Amplify Caminos
+Amplify Desmos Math
+Amplify ELA
+Amplify Science
+Amplify Tutoring
+Boost Reading & Boost Lectura
+mCLASS Literacy
+mCLASS Math
+Early Literacy Research Brief
+Blog and webinar library
+Blog and webinar library
+Blog
+Literacy blog
+Math blog
+Science blog
+Webinar library
+Amplify Classroom webinar library
+Amplify Classroom live webinars
+Literacy webinar library
+Math webinar library
+Math live webinars
+Science webinar library
+Science live webinars
+Media & events
+Media & events
+Podcast hub
+Press releases
+Media highlights
+Upcoming events
+Community
+Support
+Support
+Ordering and payment
+Technology Integrations
+Logo Amplify 25th anniversary
+Acceptable Use Policy
+Amplify Education, Inc. (“
+Amplify
+”) products support classroom instruction and learning and include Amplify CKLA, Amplify ELA, Amplify Science, Amplify Desmos Math, Desmos Math, Boost Reading, Boost Math, mCLASS, Mathigon, services at
+classroom.amplify.com
+(for creating and assigning activities) and
+student.amplify.com
+(for use of the activities or curricula as directed by an instructor), and any other product or service that links to this Acceptable Use Policy (together, the “
+Products
+”). This Acceptable Use Policy (the
+“AUP
+”) provides the general terms and conditions applicable to your use of the Products. By accessing, downloading, or using the Products, you agree to be bound by the terms of this AUP.
+Notwithstanding the foregoing, nothing in this AUP supersedes or limits your rights under the terms of any other agreement you or your institution have entered into with Amplify regarding the use of Products.
+In the event of any conflict between the AUP and the terms and conditions of an applicable agreement that you or your institution have entered into with Amplify, the terms and conditions of such agreement shall control.
+Our Products are geared towards K–12 students, educators, and staff who use the Products as authorized by their School District or State Agency (each as defined in the Privacy Policy (defined below), and together, “
+School
+”) (“
+Authorized School Users
+”). Student Data (defined below) is owned and controlled by the School, and Amplify receives Student Data as a “school official” under Section 99.31 of the Family Educational Rights and Privacy Act of 1974 (“
+FERPA
+”) for the purpose of providing the Products hereunder. In addition, we rely on the School acknowledging that it is acting as the parent’s agent and consenting on the parent’s behalf to process personal information of students under the age of 13 (“
+Child Users
+”) in accordance with the Children’s Online Privacy Protection Act (“
+COPPA
+”).
+Schools may provide authorization in two ways:
+(1) by the School agreeing to our Customer Terms and Conditions located at
+amplify.com/customer-terms
+or another agreement between Amplify and the School, as applicable; or
+(2) by an educator, staff member, or agent of a School (“
+Educator
+”) agreeing to this AUP. If you are an Educator and wish to use the Products in your classroom, you represent and warrant that the use of the Products in your classroom has been authorized by your School, and that you are authorized to accept this AUP on behalf of the School.
+In each case, we provide these Products solely for the benefit of the School and for no other commercial purpose. We require all Schools to review our Privacy Policy, available at
+amplify.com/customer-privacy
+(“
+Privacy Policy
+”), and to make a copy of the Privacy Policy available to the parents or guardians of Child Users.
+We also provide limited opportunities for individual users to sign up for a restricted account for at-home use of our Products (together, with Authorized School Users, “
+Authorized Users
+”). Please see Additional terms for Mathigon and Amplify Classroom accounts (Section 18) for additional information.
+1. License
+Subject to compliance with this AUP, you are granted a non-transferable, non-exclusive, non-sublicensable license to access and use the Products. You understand that your use of the Products does not confer to you any intellectual property rights held by Amplify or its licensors. Unless otherwise indicated, any future release, update, or other addition to functionality or content of the Products will be subject to this AUP.
+2. Restrictions
+You may access and use the Products solely for non-commercial instructional and administrative purposes. Guidelines for such purposes may be set forth at
+http://amplify.com/amplify-program-usage-guidelines
+and additional guidelines may be detailed in materials associated with the Product You are accessing. Further, You may not, except as expressly authorized by Amplify: (a) copy, modify, translate, distribute, disclose, or create derivative works based on the contents of, sell, or otherwise exploit, the Products, or any part thereof; (b) decompile, disassemble, reverse engineer the Products, or otherwise use the Products to develop functionally similar products or services; (c) modify, alter, or delete any of the copyright, trademark, or other proprietary notices in or on the Products; (d) rent, lease, or lend the Products or use the Products for the benefit of any third party; (e) avoid, circumvent, or disable any security or digital rights management device, procedure, protocol, or mechanism in the Products; (f) use any content from the Products, including but not limited to text, images, videos, assessments, lesson plans, or code, as input or training material for any machine learning or artificial intelligence system, including large language models, neural networks, or other algorithmic models, for any purposes, commercial or non-commercial; or (g) permit any Authorized User or third party to do any of the foregoing. You also agree that any works created in violation of this section are derivative works, and, as such, You agree to assign, and hereby assign, all right, title, and interest in such works to Amplify. The Products and derivatives thereof may be subject to export control laws, restrictions, regulations, and orders of the U.S. and other jurisdictions (together, “
+Export Laws
+”). You agree to comply with all applicable Export Laws, and will not, and will not permit Authorized Users to, export, or transfer for the purpose of re-export, any Product to any prohibited or embargoed country in violation of any U.S. export law or regulation. Further, You represent that You are not located in a country that is subject to a U.S. Government embargo, subject to sanctions by the U.S. Office of Foreign Assets Control, or included on any restricted party list maintained by the U.S. Bureau of Industry and Security. The software and associated documentation portions of the Products are “commercial items” (as defined at 48 CFR 2.101), comprising “commercial computer software” and “commercial computer software documentation,” as those terms are used in 48 CFR 12.212. Accordingly, if You are associated with the U.S. Government or its contractor, You will receive only those rights set forth in this Agreement in accordance with 48 CFR 227.7201-227.7204 (for Department of Defense and their contractors) or 48 CFR 12.212 (for other U.S. Government licensees and their contractors).
+3. Use of the products
+In connection with your access to and use of the Products, you agree not to: (a) post, upload, or otherwise transmit or link to content that is: unlawful; threatening; harmful; abusive; pornographic or includes nudity; offensive; harassing; excessively violent; tortious; defamatory; false or misleading; obscene; vulgar; libelous; hateful; or discriminatory; (b) violate the rights of others, including patent, trademark, trade secret, copyright, privacy, publicity, contract, or other proprietary rights; (c) harass or harm another person; (d) exploit or endanger a minor; (e) impersonate any person or entity; (f) introduce or engage in activity that involves the use of viruses, bots, worms, Trojan horses, time bombs, spyware, or any other computer code, files, or programs that interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment, or otherwise permit the unauthorized access to or use of a computer or a computer network; (g) interfere with, damage, disable, disrupt, impair, create an undue burden on, or gain unauthorized access to the Products or any account (as defined below), or Amplify’s servers or networks; (h) restrict or inhibit any other person from using the Products (including by hacking or defacing the Products); (i) remove, disable, block, or obscure any portion of the Products; (j) use technology or any automated system, such as scripts or bots, to collect user names, passwords, email addresses, or any other data from or through the Products, or to circumvent or modify any security technology or software that is part of the Products; (k) send or cause to send (directly or indirectly) unsolicited bulk messages or other unsolicited bulk communications of any kind through the Products; (l) solicit, collect, or request any information for commercial or unlawful purposes; (m) post, upload, or otherwise transmit an image, audio recording, or video of another person without that person’s consent; (n) use the Products to advertise, promote, or engage in any commercial activity (including engaging in advertising, sales, contests, sweepstakes, or other promotions) without Amplify’s prior written consent; (o) frame or mirror the Products without Amplify’s express prior written consent; (p) use the Products in a manner inconsistent with any applicable law, rule, or regulation; (q) use any robot, spider, search/retrieval application, or other manual or automatic device to retrieve, index, “scrape,” “data mine,” or in any way gather content of the Products or reproduce or circumvent the navigational structure or presentation of the Products; (r) attempt, facilitate, or encourage others to do any of the foregoing. In addition to the foregoing restrictions, your use of the Products may also be subject to an additional acceptable use policy provided to you by your School, as applicable. You are responsible for meeting the hardware, software, telecommunications, and other requirements listed at
+amplify.com/customer-requirements
+.
+4. Intellectual property
+The Products and any Product logo, and certain other of the names, logos, and materials displayed in the Products, may constitute trademarks, trade names, or service marks (“
+Marks
+”) of Amplify or other entities. You are not authorized to use any such Marks. Ownership of all such Marks and the goodwill associated therewith remains with Amplify or those other entities. The content provided to you in the Products, including the software, graphs, text, and graphics, is protected under copyright laws, is subject to other intellectual property and proprietary rights and laws, and is owned by Amplify or its licensors. Your access to the Products does not transfer to you or any third party any rights, title, or interest in or to such intellectual property rights. You may not use the content of the Products, in whole or in part, to train or fine-tune any machine learning or artificial intelligence model or system, including for research, product development, commercial services, or any other purpose, commercial or non-commercial. Such use constitutes unauthorized derivative work and a violation of Amplify’s intellectual property rights. Your rights to make use of the Products are limited to those provided under this AUP, any additional terms as may be agreed upon between your School and Amplify, and any available exceptions under applicable intellectual property laws. Amplify Products are protected by patents (see
+amplify.com/virtual-patent-marking
+).
+5. Account information
+Your authentication to enable your access and use of these Products is based in part upon information supplied by you. You are required to (a) provide accurate information to Amplify and promptly report any changes to such information, (b) not share or allow others to use your account, (c) maintain the confidentiality and security of your account information, and (d) use the Products solely via such authorized accounts. You may not share your credentials (i.e., username and password) to access the Products with anyone except the person for whom that account was created. You agree to notify Amplify immediately of any unauthorized use of your account or related authentication information. Amplify will not be responsible for any losses arising out of the unauthorized use of your account.
+6. Student data
+The parties acknowledge and agree that in the course of providing the Products, Amplify may collect, receive, or generate information that directly relates to an identifiable current or former student of a School (“
+Student Data
+”). Student Data may include personal information from a student’s “educational records,” as defined by FERPA. Student Data is owned and controlled by the School and Amplify receives Student Data as a “school official” under Section 99.31 of FERPA for the purpose of providing the Products hereunder. Individually and collectively, Amplify and School agree to uphold our obligations, as applicable, under FERPA, COPPA, the Protection of Pupil Rights Amendment (“
+PPRA
+”), and applicable state laws relating to Student Data privacy. Amplify’s
+Privacy Policy
+governs the collection, use, and disclosure of Student Data collected or stored on behalf of the School under this AUP. The School is responsible for providing notice or obtaining appropriate consents under applicable laws to authorize Authorized School Users’ use of the Products, including making a copy of the
+Privacy Policy
+available to the parents or guardians of Child Users. Please see Additional Terms for Mathigon and Amplify Classroom accounts (Section 18) for additional information.
+7. Confidentiality
+You acknowledge that in connection with these terms, Amplify may provide you with certain sensitive or proprietary information (“
+Confidential Information
+”), including software, source code, assessment instruments, research, designs, methods, processes, customer lists, training materials, product documentation, know-how, or trade secrets, in whatever form. You agree (a) not to use Confidential Information for any purpose other than use of the Products in accordance with the AUP, and (b) to take all steps reasonably necessary to maintain and protect the Confidential Information of Amplify in strict confidence. Confidential Information shall not include information that, as evidenced by your contemporaneous written records: (i) is or becomes publicly available through no fault of your own; (ii) is rightfully known to you prior to the time of its disclosure; (iii) has been independently developed by you without any use of the Confidential Information; or (iv) is subsequently learned from a third party not under any confidentiality obligation.
+8. User materials
+You represent, warrant, and covenant that you have all the necessary rights, including consents and intellectual property rights, in connection with any data, information, content, and other materials provided to or collected by Amplify from you or on your behalf in connection with your use of the Products, including materials and content that you post, upload, transmit, email, or otherwise make available on, through, or in connection with the Products (“
+User Materials
+”), and that except as otherwise agreed by your School and Amplify, you retain any ownership rights that you have in your User Materials. You hereby grant to Amplify and its affiliates, licensees, and authorized users, a perpetual, non-exclusive, fully paid-up, royalty-free, sublicensable (through multiple tiers), transferable (in whole or in part), worldwide license to use, modify, excerpt, adapt, create derivative works and compilations based upon, publicly perform, publicly display, reproduce, and distribute such User Materials in connection with the Products, subject to Amplify’s Privacy Policy. You and your School are responsible for the accuracy, integrity, completeness, quality, legality, and safety of such User Materials. You further represent and warrant that the posting of such User Materials through or in connection with the Products does not violate the privacy rights, publicity rights, copyrights, contract rights, or any other rights of any person or entity. Amplify and your School reserve the right (but have no obligation) to monitor the Products, including for inappropriate content or conduct, and to remove any content in their discretion without liability to you or any third party. Further, Amplify reserves the right to investigate and take appropriate legal action against anyone who, in Amplify’s discretion, violates this AUP or attempts to do so, including terminating or suspending a user’s account or access to or use of the Products, or reporting any content or conduct to law enforcement authorities. You are solely responsible for creating and maintaining your own backup copies of your User Materials. Amplify is not responsible for any loss, theft, or damage of any kind to any User Materials.
+9. Feedback
+If you provide us with any ideas, proposals, or suggestions related to the Products (“
+Feedback
+”), you hereby acknowledge and agree that your provision of any Feedback is gratuitous, unsolicited, and without restriction, and does not place Amplify under any fiduciary or other obligation. You hereby grant to Amplify a worldwide, royalty-free, fully paid-up, exclusive, perpetual, irrevocable, transferable, and fully sublicensable (through multiple tiers) license to reproduce, distribute, perform and/or display (publicly or otherwise), adapt, modify, and otherwise use such Feedback, in any format or media now known or hereafter developed, and you hereby represent and warrant that you have all necessary rights to grant the foregoing license.
+10. Third party links and services
+The Products may make available, or third parties may provide, links to websites, software, applications, resources, advertisements, content, or other products or services created, hosted, or made available by third parties (“
+Third Party Services
+”). When you access or use a Third-Party Service, you are interacting with the applicable third party, not with Amplify, and you do so at your own risk. Inclusion of any Third-Party Service or a link thereto within the Products does not imply approval or endorsement of such Third-Party Service. Amplify does not control any content that is not Amplify content, and as such, you may be exposed to offensive, indecent, inaccurate, or otherwise objectionable content in the course of accessing or using such Third-Party Services linked from the Products. You are solely responsible for your interactions with other users of the Products, providers of Third-Party Services, and any other third parties with whom you interact on, through, or in connection with the Products. AMPLIFY IS NEITHER RESPONSIBLE NOR LIABLE FOR ANY THIRD-PARTY SERVICES, INCLUDING THE ACCURACY, INTEGRITY, COMPLETENESS, QUALITY, LEGALITY, USEFULNESS, OR SAFETY OF, OR INTELLECTUAL PROPERTY RIGHTS RELATING TO, SUCH THIRD-PARTY SERVICES. ANY ACCESS TO OR USE OF SUCH THIRD-PARTY SERVICES MAY BE SUBJECT TO THE TERMS AND CONDITIONS AND INFORMATION COLLECTION, USAGE, AND DISCLOSURE PRACTICES OF THIRD PARTIES. THIS AUP DOES NOT CREATE ANY RELATIONSHIP BETWEEN YOU AND ANY PROVIDER OF THIRD-PARTY SERVICES, AND NOTHING IN THIS AUP WILL BE DEEMED TO BE A REPRESENTATION OR WARRANTY BY AMPLIFY WITH RESPECT TO ANY THIRD-PARTY SERVICE.
+11. Digital Millennium Copyright Act
+The Digital Millennium Copyright Act of 1998 (“
+DMCA
+”) provides recourse for copyright owners who believe that material appearing on the Internet infringes their rights under U.S. copyright law. If you believe that any material residing on or linked to from the Products infringes your copyright, please send (or have your agent send) to Amplify’s Copyright Agent, by email, fax, or regular mail, a written notification of claimed infringement with all of the following information: (a) identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works are covered by a single notification, a representative list of such works; (b) identification of the claimed infringing material and information reasonably sufficient to permit us to locate the material on the Products (such as the URL(s) of the claimed infringing material); (c) information reasonably sufficient to permit us to contact you, such as an address, telephone number, and, if available, an e-mail address; (d) a statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, the copyright owner’s agent or the law; (e) a statement by you that the above information in your notification is accurate, and a statement by you, made under penalty of perjury, that you are the owner of an exclusive right that is allegedly infringed, or that you are authorized to act on such owner’s behalf; and (f) your physical or electronic signature. Amplify’s Copyright Agent for notification of claimed infringement can be reached as follows: Amplify Education, Inc., 55 Washington Street #800, Brooklyn NY 11201; Attn: Copyright Agent. Amplify’s Copyright Agent for notification of claimed infringement can also be reached electronically at
+legal@amplify.com
+. Amplify reserves the right to terminate infringers’ and suspected infringers’ accounts or their access to or use of the Products.
+12. Changes to the products
+Amplify may, without prior notice, change any Product or stop providing any features of any Product. We may permanently or temporarily terminate or suspend your access to any Product features without notice for any reason, including if in our sole determination you violate any provision of this AUP. Upon termination, you continue to be bound by this AUP.
+13. Warranty disclaimer
+PRODUCTS ARE PROVIDED “AS IS” AND WITHOUT WARRANTY OF ANY KIND BY AMPLIFY. AMPLIFY EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY AS TO TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE OR USE. YOU ASSUME RESPONSIBILITY FOR SELECTING THE PRODUCTS TO ACHIEVE YOUR INTENDED RESULTS AND FOR THE ACCESS AND USE OF THE PRODUCTS, INCLUDING THE RESULTS OBTAINED FROM THE PRODUCTS. WITHOUT LIMITING THE FOREGOING, AMPLIFY MAKES NO WARRANTY THAT THE PRODUCTS WILL BE ERROR-FREE OR FREE FROM INTERRUPTIONS OR OTHER FAILURES OR WILL MEET YOUR REQUIREMENTS. AMPLIFY IS NEITHER RESPONSIBLE NOR LIABLE FOR ANY THIRD-PARTY CONTENT OR SOFTWARE INCLUDED IN PRODUCTS, INCLUDING THE ACCURACY, INTEGRITY, COMPLETENESS, QUALITY, LEGALITY, USEFULNESS, OR SAFETY OF, OR IP RIGHTS RELATING TO, SUCH THIRD-PARTY CONTENT AND SOFTWARE. ANY ACCESS TO OR USE OF SUCH THIRD-PARTY CONTENT AND SOFTWARE MAY BE SUBJECT TO THE TERMS AND CONDITIONS AND INFORMATION COLLECTION, USAGE, AND DISCLOSURE PRACTICES OF THIRD PARTIES.
+14. Limitation of liability
+IN NO EVENT WILL AMPLIFY BE LIABLE TO YOU FOR ANY INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, RELIANCE, OR COVER DAMAGES, DAMAGES FOR LOST PROFITS, LOST DATA, LOST BUSINESS, OR ANY OTHER INDIRECT DAMAGES, EVEN IF AMPLIFY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. TO THE EXTENT PERMITTED BY APPLICABLE LAW, AMPLIFY’S ENTIRE LIABILITY TO YOU ARISING OUT OF PERFORMANCE OR NONPERFORMANCE BY AMPLIFY OR IN ANY WAY RELATED TO THE SUBJECT MATTER OF THIS AUP, REGARDLESS OF WHETHER THE CLAIM FOR SUCH DAMAGES IS BASED IN CONTRACT, TORT, STRICT LIABILITY, OR OTHERWISE, WILL NOT EXCEED $100 IN AGGREGATE. UNDER NO CIRCUMSTANCES WILL AMPLIFY BE LIABLE FOR ANY CONSEQUENCES OF ANY UNAUTHORIZED USE OF THE PRODUCTS THAT VIOLATES THIS AUP OR ANY APPLICABLE LAW OR REGULATION.
+15. Termination
+Amplify may terminate or suspend your access to the Products at any time for any reason, including if Amplify believes that you have violated the AUP or have engaged in conduct that violates applicable law or is otherwise harmful to the interests of Amplify, any other Amplify user, or any third party. Upon termination, you will: cease using the Products and return, purge, or destroy all copies of any Products and, if so requested, certify to Amplify in writing that such surrender or destruction has occurred. Sections 3–13, 16, and 17 will survive the termination of this Agreement.
+16. Governing Law
+This Agreement will be governed by and construed and enforced in accordance with the laws of the U.S., state of New York, without giving effect to the choice of law rules thereof.
+17. Additional terms for iOS apps
+By downloading any Products through Apple, Inc.’s App Store (“
+iOS Products
+”), you agree that the following additional terms apply to your use of our iOS Products:
+This AUP is not a legal agreement with Apple, Inc. (“
+Apple
+”). As between Amplify and Apple, Amplify (not Apple) is responsible for the iOS Products and the contents thereof.
+The license to use the iOS Products under Section 3 above is limited to use (i) on iOS devices that you or your School owns or controls, separate from and in addition to any specific technical requirements for any iOS Product, and (ii) as permitted by the Usage Rules set forth in Apple Media Services Terms and Conditions.
+You must comply with applicable third-party terms of agreement when using the Products.
+Without limiting Section 13 above and solely as between Amplify and Apple, you acknowledge that: (i) Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the iOS Products; (ii) Amplify (not Apple) is responsible for addressing any claims of yours or of any third party relating to the iOS Products or your possession and/or use of the iOS products, including but not limited to (1) product liability claims, (2) any claim that the iOS Products fail to conform to any applicable legal or regulatory requirement, and (3) claims arising under consumer protection, privacy, or similar legislation; (iii) in the event of any failure of the iOS Products to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the iOS Products to you; to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the iOS Products, and any other claims, losses, liabilities, damages, costs, or expenses attributable to any failure to conform to any warranty will be Amplify’s sole responsibility; and (iv) in the event of any third-party claim that the iOS Products or your possession and use of the iOS Products infringes that third party’s intellectual property rights, Amplify (not Apple) will be responsible for any investigation, defense, settlement, and discharge of any such intellectual property infringement claim.
+You represent and warrant that: (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
+Apple and Apple’s subsidiaries are third-party beneficiaries of these Terms, and upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third-party beneficiary thereof.
+Any questions, complaints, or claims with respect to the Products should be directed to:
+Email: privacy@amplify.comMail: Amplify Education, Inc., 55 Washington St. #800, Brooklyn, NY, 11201
+18. Additional terms for Mathigon and Amplify Classroom accounts.
+a.
+Mathigon updates:
+Amplify no longer offers accounts for Child Users, but we will continue to allow Child Users to access their active legacy Mathigon accounts where verifiable parental consent was obtained. We will continue to protect personal information in accordance with the
+Privacy Policy
+and applicable law.
+b.
+Mathigon and Amplify Classroom:
+i. School Use:
+Educators: If you are an Educator, you can create a Mathigon or an Amplify Classroom account using any existing email or through an existing third-party account (e.g. Google, Microsoft). Go to
+https://mathigon.org/signup#teacher
+to sign up for Mathigon. Go to
+classroom.amplify.com
+to sign up for Amplify Classroom.
+Students can also sign up using a unique class code provided by an Educator. Educators are responsible for gaining appropriate authorization or permission from their School to use the Products with students, including Child Users, before providing their unique class code or linking the Products to a third-party service like Google Classroom. For such use in the school context, we do not request additional consent from parents in accordance with the “school official” exception under FERPA and relevant COPPA guidance. For more information, visit our
+Privacy Policy,
+which describes how we collect, use, and disclose personal information and data through the provision of our Products in schools.
+ii. Outside of School Use: If you are an individual user using the Products at home or otherwise outside of the school context, you are prohibited from collecting or providing any personal information from students or minors. You are permitted to access the platform for instructional purposes, but you may not enroll or roster minors, create accounts for minors, or input any personal information of minors into the Product.
+19. Updates to this policy
+We may change this Acceptable Use Policy in the future. For example, we may update it to address changes in our product offerings, or to address changes in the law or best practices. If we make changes that materially impact your legal rights or use of our products, we will provide prominent notification to you (e.g. via the Site or by email).  Otherwise, we will post any updates to the policy with an updated “Last Revised Date” and all changes will become effective immediately. Please check the Last Revised Date to confirm if the policy has been revised.
+Last Modified: February 2, 2026
+©
+2026
+Amplify Education, Inc.
+Facebook icon
+Instagram icon
+X icon
+LinkedIn icon
+YouTube icon
+Amplify Education, Inc., 55 Washington St., Brooklyn, NY 11201. Core Knowledge® and related trademarks are the property of the Core Knowledge Foundation. DIBELS® is a registered trademark of the University of Oregon. The Lawrence Hall of Science is a trademark of the Regents of the University of California. IM K–12™ Math and Illustrative Mathematics® are trademarks of Illustrative Mathematics, which is not affiliated with Amplify. Amplify is not an IM Certified Partner.
+×

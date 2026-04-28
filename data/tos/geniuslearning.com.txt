@@ -1,0 +1,30 @@
+GENIUS SIS DATA PRIVACY FRAMEWORK POLICY
+Genius SIS, LLC. (also referred to here as Genius SIS) complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) set forth by the U.S. Department of Commerce.  Genius SIS has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles, the Principles shall govern.  To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit https://www.dataprivacyframework.gov/
+
+green arrow graphic
+1. Scope
+This Policy applies to any personal information received by Genius SIS from the European Union in reliance on Data Privacy Framework.
+
+2. Collection and Use of Personal Data
+Genius SIS provides Student Information System solutions to its customers, which are predominantly schools and business customers. Genius SIS collects Personal Data from Customers when they register on our system, log-in to their account, request information from us, or otherwise communicate with us. The Personal Data that we collect may vary based on the Customer’s needs. As a general matter, Genius SIS collects the following types of Personal Data from its customers: contact information, including, a contact person’s name, last name and email. Genius SIS requests personal information to operate, maintain and provide the features and functionality of the Services provided and to communicate, as well as for purposes such as the provision of customer service and support, billing, and other exchanges of information. The personal information supplied to Genius SIS will not be given, sold, rented, loaned, or otherwise disclosed to any third parties outside of Genius SIS and its employees, except when we have permission or under special circumstances, such as when that disclosure is reasonably necessary to (i) comply with legal process, (ii) enforce the Terms of Use, (iii) respond to claims that any content provided by using the Services violates the rights of third parties, or (iv) protect the rights, property, or personal safety of Genius SIS, its users, or the public.
+
+3. Right to Access Personal Data
+EU individuals have the right to reasonable access to the personal information that we hold. On request, we will also take reasonable steps to correct, update, amend or delete any information that is demonstrated to be inaccurate, except where the burden or expense of doing so would be disproportionate to the risks to your privacy in the case in question or where the rights of third parties would be violated. Genius SIS does not share any personal data with third parties. In the event that we do, we will update our policy, notify individuals, and give them the opportunity to opt-out before we share their data with third parties, limit the use of disclosure, or use it for a purpose other than the one for which it was originally collected or subsequently authorized. EU individuals requesting to exercise their choices in the event of disclosed to a third party or to request restrictions on the use and disclosure of your personal information, could contact us at info@geniussis.com.
+
+4. Data Integrity and Purpose Limitation
+Genius SIS will process personal information in a manner that is compatible with and relevant to the purpose for which it was collected or authorized by individuals. Where we receive personal information from an Institution, it shall be the Institution that determines those purposes. To the extent necessary for those purposes, we will take reasonable steps to ensure that personal information is accurate, complete, current and reliable for its intended use.
+
+5. Jurisdiction and Enforcement
+As part of participating in Data Privacy Framework, Genius SIS is subject to the investigatory and enforcement powers of the US Federal Trade Commission.
+
+6. Lawful Requests
+Genius SIS may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+7. Transfers to Third Parties
+Genius SIS does not share any personal data with agent or non-agent third parties, as detailed above under, Due to this practice the Privacy Data Framework liability principle does not currently apply. If this practice should change in the future we will update this policy, identify the third parties and state our liability.
+
+8. Complaints Mechanism
+In compliance with the EU-U.S. DPF, Genius SIS commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPFm should first contact Genius SIS at info@geniussis.com. If we have not addressed your DPF Principles-related complaint to your satisfaction, please visit https://www.jamsadr.com/dpf-dispute-resolution for more information or to file a complaint.  The services of JAMS are provided at no cost to you.
+
+9. Binding Arbitration
+You may have the option to select binding arbitration for the resolution of your complaint under certain circumstances, provided you have taken the following steps: (1) raised your complaint directly with Genius SIS and provided us the opportunity to resolve the issue; (2) made use of the independent dispute resolution mechanism identified above. Please see the Data Privacy Framework website for further information: https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2

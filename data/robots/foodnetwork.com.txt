@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /?=*
+Sitemap: https://foodnetwork.co.uk/sitemaps/sitemap.xml
+
+# Block PetalBot
+User-agent: PetalBot
+Disallow: /
+
+# Block MJ12Bot
+User-agent: MJ12Bot
+Disallow: /
+
+Crawl-delay: 60

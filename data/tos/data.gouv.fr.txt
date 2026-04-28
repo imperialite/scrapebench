@@ -1,0 +1,97 @@
+Terms of use
+1. Scope
+Registration on the Platform is free and entails the application of specific conditions, listed in these terms of use.
+
+2. Purpose
+data.gouv.fr  is the national open and community-based platform that aims to centralize and structure open data of public interest. It is intended for those who produce data and wish to open their data, those who use data and want to download data and share their work, and anyone who wants to discover data or find information.
+
+3. Definitions
+“ Contributor ” means any natural person registered on the Platform who benefits from the Services and makes available to all one or more pieces of content of public interest.
+
+“ User ” means any natural person not registered on the Platform who views Reuses and discussions or downloads Datasets.
+
+“ Publisher ” refers to the Interministerial Directorate for Digital Affairs (DINUM).
+
+“ Dataset ” refers to any coherent set of resources or information (data files, links), metadata (publication date, keywords) on a given theme.
+
+“ API ” refers to any software interface that allows a programmer to access the functions of an application and develop new applications using those functions.
+
+“ Reuse ” means any use by any User of the published data for purposes other than those for which it was produced or received.
+
+“ Organization ” refers to any entity referenced on the Platform through which several Contributors can collaborate to edit its datasets. It can contain several Contributors, and a single Contributor can belong to several organizations.
+
+“ Services ” refers to the functionalities offered by the Platform to fulfill its purposes.
+
+4. Features
+4.1 Features available to the User
+The User can view the content made available on the Platform and download it at any time.
+
+In particular, it can:
+
+Access the Platform's content: Datasets, Reuses, Organizations, News;
+Contact Platform support;
+Subscribe to the Platform's newsletter.
+4.2 Features available to the Contributor
+The Contributor has the same functionalities as the User. They also have additional functionalities, which are demonstrated by their registration on the Platform.
+
+4.2.1 Registration and login
+The Contributor registers by providing: their email address, a password, and their first and last name. They log in by entering their email address and password.
+
+4.2.2 Contributor Account
+Unlike the User, the Contributor can, in particular:
+
+Publish datasets as a downloadable file;
+Publish APIs;
+Publish additional resources associated with a dataset to enrich it;
+Reference data reuses;
+Post comments;
+Create or join an organization.
+Datasets and APIs published on the Platform must be free and of public interest.
+Paid datasets and APIs cannot be published on the Platform within the catalog. However, they may be referenced in the Reuse section, in accordance with these terms and conditions.
+
+4.2.4 The Organization
+Each Contributor can create or join an Organization. An Organization carrying out a public service mission can be certified by the Platform's authorized teams.
+
+5. Responsibilities
+5.1 The Platform Publisher
+5.1.1 Security and access to the Platform
+
+The sources of information disseminated on the Platform are considered reliable, but it does not guarantee that it is free from defects, errors or omissions.
+
+The Publisher is committed to securing the Platform, in particular by taking all necessary measures to guarantee the security and confidentiality of the information provided.
+
+The Publisher undertakes to provide the necessary and reasonable means to ensure continuous access to the Platform. It reserves the right to develop, modify, or suspend the Platform without prior notice for maintenance purposes or for any other reason deemed necessary.
+
+5.1.2 Platform Moderation
+
+The Platform is not intended to disseminate, in particular, advertising content, content promoting private interests, content contrary to public order, illegal content, spam, or any contribution that violates applicable law. The Publisher reserves the right, without prior notice, to remove or block access to content published on the Platform that is unrelated to its purpose.
+
+The Publisher does not conduct prior review of publications. As soon as the Publisher becomes aware of content that violates these terms of use, it acts promptly to remove it or make it inaccessible. In particular, the Publisher reserves the right to remove any paid content and links, or content deemed to be of no public interest, published on the Platform.
+
+The Publisher is not obligated to respond to abusive requests and reserves the right to make inaccessible or delete the account of a Contributor or Organization originating such requests.
+
+It reserves the right to choose to highlight certain content on the Platform's home pages or in thematic sections.
+
+Contributors are solely responsible for the data, metadata, or content they publish on the Platform. The Publisher reserves the right to modify the metadata associated with the datasets.
+
+If an Organization fails to add Datasets or Reuse Items, the Publisher reserves the right to remove the Organization. The Organization will be notified electronically prior to removal by authorized Platform teams.
+
+5.1.3 Open Source and Licenses
+
+The platform's source code is free and available here:  https://github.com/opendatateam/udata
+
+The source code for the dataset ranking order is available here:  https://github.com/opendatateam/udata/tree/master/udata/search
+
+The content offered by the Publisher is under an  Open License , with the exception of logos and iconographic and photographic representations which may be governed by their own licenses.
+
+5.2 The Contributor
+The Contributor is responsible for keeping their password secret. Any disclosure of the password, in any form whatsoever, is prohibited. They assume all risks associated with the use of their email address and password.
+
+It is recalled that any person who makes a false declaration for himself or for another is liable, in particular, to the penalties provided for in Article 441-1 of the Penal Code , providing for sentences of up to three years imprisonment and a fine of 45,000 euros.
+
+The Contributor ensures, prior to publication, that the latter complies with the legal framework in force, in particular the GDPR, the law relating to information technology, files and freedoms, the intellectual property code and the code of relations between the public and the administration.
+
+The Contributor agrees not to publish racist, sexist, abusive, insulting, or otherwise offensive messages in discussion forums or anywhere else. Each published comment constitutes a non-exclusive, royalty-free transfer of its intellectual property rights worldwide for the entire duration of those rights.
+
+6. Update to the terms of use
+These terms of use may be amended at any time, depending on changes to the Platform, developments in legislation, or for any other reason deemed necessary. These terms of use are binding on the public.

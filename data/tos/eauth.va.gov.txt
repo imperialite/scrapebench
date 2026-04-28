@@ -1,0 +1,109 @@
+AccessVA - CSP Select
+Skip to main content
+Choose a secure VA Partner to sign into VHIC Self-Service:
+Don't have one?
+Register for a Sign-In Partner
+or
+Learn More
+Sign in options
+Sign in with
+DoD CAC Card
+Sign in with
+VA PIV Card
+Sign in with
+ID.me
+Sign in with
+LOGIN.GOV
+Select another
+VA website
+Select a Sign-In Partner to learn more:
+- DoD CAC Card
+- VA PIV Card
+- ID.me
+- LOGIN.GOV
+For more information about VA and Sign-In Partners visit our
+Frequently Asked Questions (FAQ)
+.
+Back
+Secure Login Redirect
+You are being sent to a secure webpage on the DoD CAC Card website to register or log in to your account.
+							After you log in, you will be sent to VHIC Self-Service.
+By continuing you agree to the
+terms of VA System use
+.
+Cancel
+Accept
+Secure Login Redirect
+You are being sent to a secure webpage on the VA PIV Card website to register or log in to your account.
+							After you log in, you will be sent to VHIC Self-Service.
+By continuing you agree to the
+terms of VA System use
+.
+Cancel
+Accept
+Secure Login Redirect
+You are being sent to a secure webpage on the ID.me website to register or log in to your account.
+							After you log in, you will be sent to VHIC Self-Service.
+By continuing you agree to the
+terms of VA System use
+.
+Cancel
+Accept
+Secure Login Redirect
+You are being sent to a secure webpage on the LOGIN.GOV website to register or log in to your account.
+							After you log in, you will be sent to VHIC Self-Service.
+By continuing you agree to the
+terms of VA System use
+.
+Cancel
+Accept
+Secure Login Redirect
+You are being sent to a secure webpage on the My HealtheVet website to register or log in to your account.
+							After you log in, you will be sent to VHIC Self-Service.
+By continuing you agree to the
+terms of VA System use
+.
+Cancel
+Accept
+VA System Terms of Use
+This system is intended to be used by authorized VA network users for viewing and retrieving information only except as otherwise explicitly authorized. VA information resides on and transmits through computer systems and networks funded by VA; all use is considered to be understanding and acceptance that there is no reasonable expectation of privacy for any data or transmissions on Government intranet or Extranet (non-public) networks or systems. All transactions that occur on this system and all data transmitted through this system are subject to review and action including (but not limited to) monitoring, recording, retrieving, copying, auditing, inspecting, investigating, restricting access, blocking, tracking, disclosing to authorized personnel, or any other authorized actions by all authorized VA and law enforcement personnel. All use of this system constitutes understanding and unconditional acceptance of these terms. Unauthorized attempts or acts to either (1) access, upload, change, or delete information on this system, (2) modify this system, (3) deny access to this system, or (4) accrue resources for unauthorized use on this system are strictly prohibited. Such attempts or acts are subject to action that may result in criminal, civil, or administrative penalties.
+Back
+The Department of Defense (DoD) Common Access Card (CAC) is the standard identification card for Active-Duty Military Personnel, Selected Reserve, DoD Civilian
+				Employees, and Eligible Contractor Personnel. It is also the primary card used to access DoD buildings and it provides access to DoD computer networks and systems.
+For additional information about DoD CAC visit the
+DoD ID Card Reference Center
+.
+Back
+The Personal Identity Verification (PIV) card is issued by a Federal agency and is the standard identification card for all Federal employees and contractors. The
+				PIV card is issued for secure access to Federal and other facilities and access to Federal computer networks and systems.
+For additional information about the VA PIV card visit the
+PIV Card Project
+page.
+Back
+ID.me is a secure login provider certified by the federal government. ID.me is designed to help citizens login to multiple government websites with a single account. Founded by two Army Rangers, ID.me is committed to making government services work more efficiently for citizens.
+Learn more about ID.me.
+How do I register for an account with ID.me
+?
+For additional information about ID.me, please visit
+www.ID.me
+.
+Back
+login.gov is a secure login provider from the U.S. federal government. With one login.gov account, you can securely and privately access many government services online.
+Visit
+login.gov
+to learn more.
+Back
+My HealtheVet is a secure online personal health portal for Veterans/VA Patients. It provides 24/7 access to VA electronic health records including imaging, prescription refill, Secure Messaging, and information through web-based tools. Veterans/VA patients are able to better partner with their providers to manage their overall health, make informed health decisions, and record, store, and share important health and military history information.
+If you do not have a My HealtheVet Premium account, you can register for an account online.
+Visit
+My HealtheVet
+for additional information and on how to register.
+Back
+The VA Logon is a component of Identity and Access Management (IAM) Services. The logon account will allow electronic user registration, credential issuance and authentication for users that are not in the Defense Eligibility Enrollment Reporting System (DEERS).
+A logon account is a way for you to interact with VA websites online. It gives you the ability to identify yourself to the VA via your User ID and password. It permits you to access a wide range of VA online services.
+Your logon account consists of a User ID, a password and your customer profile which contains information about you that will permit VA applications to identify if you have the correct permissions to view the website you attempted to access.
+Back
+VA HOME
+PRIVACY
+FOIA
+U.S. Department of Veterans Affairs | 810 Vermont Avenue, NW Washington DC 20420

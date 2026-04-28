@@ -1,0 +1,14 @@
+User-agent: Bingbot
+User-agent: Googlebot
+
+User-agent: *
+Disallow: /admin/
+Disallow: /logs/
+Disallow: /themes/
+Disallow: /*.ajax$
+Disallow: /dmca
+Disallow: /privacy-policy
+Disallow: /terms-of-use
+Disallow: /terms-of-service
+
+Sitemap: https://geometrygames.io/sitemap.xml

@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /.api/
+Disallow: /api/
+Disallow: /*?_rsc=*
+Disallow: /account$
+Disallow: /.api/get-post-by-id
+
+Sitemap: https://athlonsports.com/sitemaps.xml
+Sitemap: https://athlonsports.com/news-sitemap.xml

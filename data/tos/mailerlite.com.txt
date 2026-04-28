@@ -1,0 +1,283 @@
+Terms of Use - MailerLite
+Close
+No results were found...
+Terms of Use
+These MailerLite Terms of Use (“Terms”) are entered into by and between the MailerLite entity set forth below ("MailerLite") and the entity or person accessing any Services ("Customer" or "you").
+The purpose of these Terms is to introduce the basic terms and conditions of our services offered through our website and mobile application. MailerLite is a service that provides clients with a means to collect email addresses and to create, send and track email promotions
+,
+create websites and landing pages, and use other services offered by MailerLite (“
+Service
+”).
+As used in these Terms, "MailerLite" means:
+(a) MailerLite Limited, an Irish registered company at 88 Harcourt Street, Dublin 2, D02 DK18, Ireland, if the Customer's billing address is located in the EEA, UK and Switzerland; or
+(b) MailerLite, Inc., a Delaware corporation at 548 Market St, PMB 98174, San Francisco, CA 94104-5401, United States, if the Customer's billing address is located anywhere else in the world.
+BY INDICATING YOUR ACCEPTANCE OF THESE TERMS OR ACCESSING OR USING ANY MAILERLITE SERVICES, YOU ARE AGREEING TO BE BOUND BY ALL TERMS AND CONDITIONS CONTAINED OR REFERENCED TO IN THESE TERMS. IF YOU DO NOT AGREE TO THESE TERMS, PLEASE DO NOT USE OUR SERVICES.
+1. Acceptance of Terms
+1.1. To use our Service you must:
+be at least sixteen years old,
+provide accurate contact and billing information,
+use the Services solely for purposes relating to your trade, business, craft, or profession as these Services are not intended for personal use,
+agree with these Terms,
+Anti-Spam Policy
+and
+DPA
+, which form part of these Terms.
+1.2. By signing up, using the site or mobile app, you accept these terms and conditions and warrant that you meet all the requirements listed in this document, and that you won’t use the Service in a way that violates any laws or regulations.
+2. General rules
+2.1. You must follow these rules:
+2.1.1. You are not allowed to send unsolicited email "spam". Please read our
+Anti-Spam Policy
+for more information;
+2.1.2. Your email lists must be permission-based subscriptions;
+2.1.3. Your use of our Service have to comply with all applicable laws and regulations;
+2.1.4. You are not allowed to use our tracking/campaign preview links when sending emails with other services than ours;
+2.1.5. If you are accessing or using the Services on behalf of your company, you represent that you are authorized to accept these Terms on behalf of your company, and all references to "you" or "Customer" reference your company;
+2.1.6. You are not allowed to use offensive and abusive communication;
+2.1.7. You are not allowed to impersonate another person or entity or falsely state or otherwise misrepresent an affiliation with a third party, or otherwise mislead us or other third-party as to your identity.
+2.2. In compliance with international sanctions and the policies of our payment processors, we do not provide Services or accept payments from Customers who are registered in any country or region sanctioned by the United States, United Kingdom, European Union, or United Nations. This prohibition also extends to any business on a sanctions list maintained by these same bodies.
+2.3. You agree to use the Services for your trade, business, craft, or profession. You acknowledge that the Services are strictly for commercial use and that you are not authorized to use the Services for personal, family, or household purposes. Accounts found to be in violation of this warranty are subject to immediate termination.
+2.4. If you violate any of these rules, we may suspend or terminate your account.
+3. Payment terms
+3.1. MailerLite Customers are responsible for ensuring their provided payment method is valid, accurate and has sufficient funds. Payment is not made until provision of Service. The payment period is one month when you order a monthly plan or one year when the annual plan is ordered. Payment methods are as follows:
+For MailerLite Classic (if you signed up before April 2022): payment for the monthly plan can be settled by credit card, and for the annual plan - by credit card or Paypal. We do not accept American Express cards, cash, payment checks or any other payment methods.
+For new MailerLite (if you signed up from April 2022): payment for both monthly and annual plans can be settled by credit card, Paypal or Przelewy24. If you started using MailerLite services through our Shopify integration, you can also pay through Shopify. We do not accept cash, payment checks or any other payment methods.
+3.2. MailerLite Classic and New MailerLite monthly and annual plans renew automatically, unless you choose to cancel. You can cancel any time on the Plan and Billing page within your Account Settings. If you exceed your subscriber quota or monthly email limits, you will be automatically upgraded and charged for the corresponding tier.
+3.3. There is an option to switch between monthly and annual plans. If you have a monthly plan, you can switch to an annual plan at any time. If you want to switch from an annual plan to a monthly plan, you can only switch to the same or a higher monthly plan. You cannot switch plans if your current plan is expired, or if it expires in less than 2 days. You also cannot switch plans if you have already done so within the last 2 days.
+3.4. Paid clients can secure the current pricing for the upcoming year by signing up for an annual plan. This option is exclusively available for MailerLite paid plans and does not extend to the free plan.
+3.5. MailerLite reserves the right and has full discretion to revise fees and pricing by updating the price list on the MailerLite pricing page at
+www.mailerlite.com/pricing
+, which might involve modifications to subscription fees across all available plans. Please be aware that these alterations will apply to both existing and future subscriptions. You will receive notifications regarding any changes through email and our website, at least 14 calendar days before the price adjustment. Your continued use of Services will be deemed as acceptance of the updated fees and pricing.
+3.6. All subscription fees displayed on the MailerLite pricing page at
+www.mailerlite.com/pricing
+are exclusive of VAT and/or sales tax. VAT rates vary by country and the applicable VAT rate will be displayed at checkout and on your final invoice based on your billing country. You can order the Services without paying VAT when:
+you are from an EU country and you have a registered VAT number;
+you are from outside the EU, whether a business or private individual.
+For customers in countries where VAT does not apply, sales tax or any other applicable taxes will be added to the total purchase price during checkout. In the event of any tax related discrepancies, the final checkout price will prevail.
+3.7. All payments made by Customer to MailerLite shall be made free and clear of, and without reduction for, any taxes, including but not limited to withholding tax. If Customer is required by law to withhold or deduct any withholding tax, Customer shall
+increase the payment such that MailerLite receives a net amount equal to the full amount invoiced, and Customer shall indemnify and hold MailerLite harmless against any and all liabilities, penalties, and interest asserted by any tax authority related to such withholding tax.
+3.8. When a MailerLite Classic account's paid plan is not renewed, the account will be downgraded to a Free plan. The account will remain operational within the limitations of the Free plan for 30 days and will be disabled after this period. It means that after the 30 days, you will still be able to log in, access, export, and migrate your data, but you will no longer be able to add new subscribers, create content, or use any sending and publishing features. To fully restore your account's functionality, an upgrade to a paid MailerLite Classic plan will be required. If you’d like to keep using MailerLite for free, please switch to the new MailerLite that currently offers a Free plan for an unlimited time.
+Please note, MailerLite Classic accounts on Free plans that were not upgraded to a paid plan before February 2024 have been permanently deleted, with no option for recovery.
+3.9. In the event that a payment at the end of the subscription period is unsuccessful, for example due to insufficient funds, we will automatically retry charging the provided payment method every 24 hours for up to 7 days, and notify the Customer upon every attempt. If all attempts fail, the invoice will be marked as unpaid, and the Customer’s account will be downgraded to a free plan. This applies to payments made for the New MailerLite service through Stripe and PayPal.
+4. Communications
+4.1. You acknowledge and agree that MailerLite may occasionally send you communications regarding your account or the Service via email.
+4.2. If you provide official letters or documents to MailerLite, MailerLite reserves the right to request that you translate them to the English language.
+4.3. Communication between MailerLite and the Customer shall be mutual, appropriate and respectful.
+4.4. MailerLite provides customer support via email and live chat only to paid Customers. All Customers (Paid and Free) can access the
+Customer Self-Service Center
+for support.
+5. Accounts, passwords and security
+5.1. You must be a registered user to access the Service. After creating a MailerLite account, you’ll need to complete two steps to validate your account: (i) Complete your profile; (ii) Request approval.
+5.2. If you comply with our rules then we will approve your account and you’ll receive an email notification. If something looks suspicious then you might receive a disapproval email.
+5.3. We keep the right at any time to perform your subscribers list review / past campaign performance prior to a full purchased limit approval to be able to analyse your deliverability results and make sure it fully complies with our
+Anti-Spam Policy
+requirements.
+5.4. You are responsible for keeping your password secure. You will be solely responsible and liable for any activity that occurs under your username.
+5.5. MailerLite reserves the right, at its sole discretion, to delete your disapproved account without notifying you.
+5.6. MailerLite reserves the right to access your account to provide support, manage settings, or test it to ensure the functionality and features of MailerLite Services.
+5.7. If your account is inactive for 3 years or more, MailerLite reserves the right to permanently delete your account with all its data, including your list of subscribers and your content. In case MailerLite decides to delete your account, you will be informed multiple times via email. Upon reaching 3 years of account inactivity, you will then be given an additional 60 days to export the data or reactivate your account before the account is permanently deleted.
+5.8. MailerLite utilizes the service Have I Been Pwned, with their terms of use
+here
+, to proactively monitor and safeguard your email and password against potential data breaches. Should your account information be detected in any publicly disclosed datasets, we will promptly notify you and provide actionable steps to secure your account. This process involves only encrypted data checks, meaning that no third party can see or access your details and no personal data of yours is transferred to any third party. By agreeing to these terms, you grant your explicit consent to these security measures.
+6. Appropriate email practices
+6.1. All email lists contained and sent to using Service must be permission-based subscriptions. It is absolutely not acceptable or allowable to use a list that has been purchased, rented or in any way acquired from a third-party.
+6.2. MailerLite reserves the right to terminate any account that it finds in violation of its Terms of Use by receiving abuse complaints higher than allowed, without refund.
+7. Consent
+7.1. Emails are only sent to recipients who have given their consent to receive these emails according to applicable laws and regulations (e. g. General Data Protection Regulations (Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data); or according to section 7, paragraph 2, number 3 UWG (Act Against Unfair Competition) - (opt in) - or have a business relationship with the advertiser, and the conditions according to article 13 section 2 of the European Parliament and Council Directive 2002/58/EU on Privacy and Electronic Communication are met, and etc.).
+7.2. Consent to receive advertisements through email has to be given separately. The recipient must either click/mark a box or otherwise give a comparatively clear declaration of consent to receive advertisements via email. This declaration may not be part of other declarations (such as agreeing to terms and conditions).
+7.3. The recipients must give their consent actively through a conscious act. Pre-clicked/pre-marked boxes are not allowed to be used.
+7.4. The option to revoke consent at any time with future effect must be clearly and explicitly indicated at the time of obtaining consent. This must also contain information as to how consent may be revoked and with whom. The option to revoke consent may not be more complicated than the obtaining of the consent. Revoked consent must be implemented after five (5) working days at the latest.
+8. Email format
+8.1. The contracting entity - that means the contracting partner of the sender of an advertisement must be clearly recognizable. Every sent email shall contain an easily noticeable ‘about us’; either in the text or through a direct link. It must be complete to the extent permitted by applicable law. The ‘about us’ section shall contain the following information:
+Name and address of the sender, for legal entities in addition to name and address the legal form of the entity, authorized representative and the Commercial Registry, Association Registry, Partnership Registry or Cooperative Society Registry they are registered with, as well the appropriate registration number.
+Contact information, at least a valid telephone number or an electronic contact form, as well as email address.
+If there is a value added tax identification number according to section 27a of the value added tax act or a business identification number according to section 139c of the tax code, this number shall be provided. Further reaching information obligations, for example according to section 5, paragraph 1 of the Telemedia Act (Telemediengesetz–TMG) remain untouched.
+Each newsletter must contain an unsubscribe link with an option to withdraw permission to send any further newsletters. In all cases, unsubscribe links must be clear and visible for all your subscribers. Cancellation must be possible for the subscriber, without having to know access data (such as their login/password). Exceptions may be admissible in single cases as special cases occur in the administration of the offering party. Cancellations must be processed promptly.
+Neither the sender nor the commercial character of the message may be obscured or concealed in the header or the subject header of the email. Obscuring or concealing is taking place when the header and subject header are composed in such a way that the recipient cannot get any or can get only misleading information about the actual identity of the sender or the commercial nature of the message before the message is opened and read.
+The sender must remove email addresses from the active mailing list after three hard bounces.
+The customer has to name a contact (name/phone number/e-mail address) for complaints. Response time for complaints must not exceed 24 hours on business days.
+When using email addresses that the sender or his/her customers received from third parties, the sender or his/her customer is obligated to make sure before the advertisement action is taken that only recipients who have given their consent according to these criteria are emailed; a consent that not only refers to mailings sent by a third party but also by the sender himself or the sender’s customer.
+The retrieval of address data for third parties (such as through co-sponsoring) should be transparent to the user. More so, address data retrieved in such a way should only be used for a mailing if: a) the companies for which the address data is generated were named individually, transparently and categorized by industry; b) users were able to easily access the list of companies; c) the number of companies or persons for whom the address data was collected is reduced in a way that excludes the forwarding of user data to an unreasonably large circle of third parties and that allows the user to easily comprehend the consequences and the extent of his consent as well to easily control the legal handling of his data.
+8.2. For clarification purposes we would like to point out that the companies for which the address data is generated may not forward this address data to third parties without a special consent from the user to do so.
+9. Appropriate content
+9.1. We only allow you to send relevant content which is requested by subscribers, and which corresponds to the
+CAN-SPAM Act
+. You cannot send:
+pornography, escort;
+affiliate marketing, pyramid schemes, multi-level-marketing (MLM)
+;
+"get rich quick";
+forex, loan or quick credit services
+;
+gambling or betting
+;
+weight loss material
+;
+mobile unlocking services, IPTV content;
+content for buying, selling or sharing followers or likes for a social media platform;
+content for buying, selling, or sharing any personal data, including email lists and/or phone numbers, or offer illegal goods and services;
+content for buying, selling, or sharing business or customized phone numbers;
+counterfeit products
+;
+content that includes deepfake media
+;
+personal content which is not related to your commercial activities
+.
+In addition, you cannot send any illegal content including but not limited to:
+terrorist content;
+incitement to violence;
+child sexual abuse material;
+hate speech;
+commercial scams and frauds;
+breaches of intellectual property rights.
+9.2. You are prohibited from sending content that promotes discrimination, bullying, or actions that could pose a health risk, such as anti-vaccination material. Additionally, you shall not send false or misleading content about products, services, or other information — this includes exaggerating, hiding, or omitting details, spreading fake information, or presenting content in a confusing or unclear manner.
+9.3. It is strictly forbidden to impersonate another person or entity or falsely state or otherwise misrepresent an affiliation with a third party via links in the emails, landing pages or signup forms created using our Service. Any attempt will lead to immediate account suspension or termination.
+9.4. You can use the Services only if the content is created by you or you have the right to use it. You represent and warrant that you either own or have permission to use all of the material, content, data, and information, including your personal information and the personal information of others, you submit to MailerLite in the course of using the Service.
+9.5. MailerLite uses AI-powered and, if needed, manual content checks on campaigns to ensure compliance with its Terms. This content check might cause a brief campaign sending delay. By using the Services, you agree to both automated checks and potential manual reviews.
+9.6. MailerLite reserves the right, at its sole discretion, to decide whether the content you send is inappropriate or illegal and suspend your account. MailerLite may also have an obligation to report any illegal content to the appropriate authorities, as required by the EU’s Digital Services Act.
+10. Website Builder
+10.1. With our additional Website Builder services you can create websites from your MailerLite account. By using the Website Builder feature, you accept the terms and conditions below and warrant that you meet all the requirements listed in this section and that you won’t use this service in a way that violates any laws or regulations.
+10.2. You’re responsible for the content you publish through MailerLite’s Website Builder. You can not publish any of the prohibited or illegal content including but not limited to:
+adult (involving nudity in a sexual context, pornography or other);
+terrorist content;
+copyrighted content that you do not own the rights to;
+content that promotes violence or incites hatred against certain individuals or groups, such as race, religion, ethnicity, gender, sexual orientation or other;
+child sexual abuse content;
+content meant to trick users into providing their username and password;
+commercial scams (pyramid schemes, MLM, "Get Rich Quick", Forex, weight loss material or other dubious schemes) or frauds;
+IPTV content;
+content that is used for buying, selling or sharing followers or likes for a social media platform;
+content that offer or sell items or services that are illegal (weapons, counterfeit, stolen, fraudulent, infringing, violate rights of privacy/publicity or offensive, escort services, gambling, mobile unlocking services or other illegal goods and services);
+content that includes deepfake media, meaning artificially generated or manipulated audio, video, or image content that realistically portrays an identifiable person, object, place, or event;
+personal content which is not related to your commercial activities;
+any other content which may be illegal under the laws.
+10.3. MailerLite reserves the right, at its sole discretion, to decide whether the content you publish through MailerLite’s website builder is inappropriate or illegal and suspend your account. MailerLite may also choose to report any illegal content to the appropriate authorities, as required by the EU’s Digital Services Act.
+10.4. You are responsible for the personal data protection of your website users. If applicable law requires, you must have a privacy policy, cookie statement and security statement on your website, provide appropriate notice and receive all consents and rights necessary under data protection laws to process your website user’s personal data.
+10.5. In no event shall MailerLite be liable or responsible in any way in relation to your website content or relationship with your website users, including your collection of personal information.
+11. Hosted Content
+11.1. As part of our Services, we provide you with the ability to upload and host EPUB and PDF files for use in your campaigns, websites, landing pages, and popups (“
+Hosted Content
+”).
+11.2. By uploading Hosted Content, you represent and warrant that you own all rights to these files or have obtained all necessary rights, licenses, and permissions to upload, host, distribute, and display the content through MailerLite.
+11.3. You are solely responsible for the Hosted Content you upload. You agree to indemnify and hold harmless MailerLite from any claims, losses, liabilities, damages, or expenses, including legal fees, arising from your Hosted Content or your violation of these Terms.
+11.4. By offering a Hosted Content feature, MailerLite does not act as a publisher, distributor, or agent of the Hosted Content. The availability of such content through our services does not constitute publication in a legal or commercial sense. We do not claim any ownership, exclusive license, or assignment of copyright over the Hosted Content. All intellectual property rights remain solely with the original owner or rights holder. Our role is limited to providing a technical infrastructure to store and deliver the files you upload.
+11.5. We reserve the right to suspend your account if we determine, in our sole discretion, that the Hosted Content violates these Terms.
+11.6. We comply with the Digital Millennium Copyright Act (DMCA) and have a policy for responding to copyright infringement notices. If Hosted Content is alleged to infringe on third-party rights, we may remove or disable access to such content in accordance with our DMCA policy. If you believe that content hosted on our service infringes your copyright, you may send a DMCA takedown notice via the
+Contact Us
+form, selecting the ‘Legal’ topic. Your notice must include:
+a description of the copyrighted work;
+a description of where the infringing material is located (e.g., URL);
+a confirmation that you believe in good faith that the use is not authorized and that the information is accurate, and you are authorized to act on behalf of the copyright owner.
+If you believe your Hosted Content was wrongly removed, you may submit a counter-notice with similar required information. We may or may not restore the content. We also reserve the right to remove Hosted Content or terminate accounts of repeat infringers.
+12. EU Digital Services Act
+12.1. For inquiries related to the EU Digital Services Act (“DSA”), or if you represent an EU Member State authority, the European Commission, or the European Board for Digital Services, please reach out to MailerLite’s dedicated DSA contact at dsa@mailerlite.com to discuss our content moderation practices under the DSA. Communications to this DSA contact point should be in English, or include an English translation. Please note that this contact is exclusively for DSA-related matters.
+12.2. To report spam or any other Terms of Use violations in relation to content or abuse, kindly visit our Abuse Reporting page which you can find
+here
+.
+13. Affiliate Marketing and Affiliate Links
+13.1. Affiliate Marketing and Affiliate Links are two different things. Affiliate Marketing is prohibited in MailerLite, but Affiliate Links are fine in most cases.
+Affiliate Marketing (Prohibited) -
+Affiliate marketing, defined as the promotion of multiple referral links from various third-party companies purely to generate commission-based income, is strictly prohibited. This includes sending unrelated offers or advertisements that are not directly tied to your brand, are not expected to be received by your customers and/or impersonate other brands.
+For example, if you run a travel blog and start sharing content with affiliate links for unrelated third-party products, like furniture, that have no connection to your travel niche with the sole purpose to generate commission, it would be considered affiliate marketing and would not be allowed.
+Affiliate links (Permitted) -
+You may include affiliate links in your campaigns, provided they are clearly presented as offers from another company. These promotions must naturally align with your brand’s content and match the expectations of your subscribers. Any linked content must adhere to our Terms of Use. Sending emails containing blacklisted links or prohibited content may result in suspension or termination of your account.
+For example, as a travel blog, you could share content about travel gear or booking platforms, including affiliate links that allow your subscribers to purchase from these websites. These links would be clearly disclosed as offers from other businesses, ensuring transparency and providing value to your audience by recommending useful, travel-related products or services.
+14. Multiple account abuse
+14.1. Creating multiple free accounts with overlapping content or links is not strictly prohibited. However, it shall not be used to abuse the system. MailerLite reserves the right, at our full discretion, to close such accounts that are deemed abusive.
+14-1. Migration from FreshMail to MailerLite
+If you are choosing to migrate from FreshMail to MailerLite and opting to convert your unused, prepaid funds for annual subscription or ‘Pay as you go’ plans at FreshMail into credits at MailerLite, you agree to adhere to the following stipulations:
+14-1.1. The initiation of the conversion process is at your sole discretion and can be done by requesting the unused funds remaining in your FreshMail account be transferred as credits to MailerLite by writing an email to migracja@freshmail.pl. You can initiate such a transfer only once you have signed up for a MailerLite account and agreed with these Terms.
+14-1.2. MailerLite credits shall be proportionally calculated based on the unused portion of your annual subscription plans or the remaining balance of ‘Pay as you go’ plans, with the original purchase price at FreshMail serving as the basis for calculation. Only the value of full, unused months or unutilized messages will be eligible for conversion into credits.
+14-1.3. Credits issued upon conversion are designated for the exclusive purchase of the Services. These credits are non-refundable and non-transferable.
+14-1.4. By proceeding with the conversion, you accept these Terms. MailerLite reserves the right to adjust the conversion terms, including rates and credit application rules.
+15. Limitation of Liability
+15.1. In no event shall MailerLite be liable or responsible in any way in relation to the contents and use of, or differently in connection with this website or mobile app, or for any indirect, special, incidental or consequential damages (including but not limited to loss of use, loss of profits, revenue, income or anticipated savings, business losses, loss of reputation or goodwill, loss of contracts or business relationships, or loss and/or corruption of information or data) whether in an action in contract, equity or otherwise, arising out of or in any way connected with the use of or inability to use this site or mobile app or the materials therein or resulting from unauthorized access to or alteration of data. We won’t be held liable for any delays or failure in performance of any part of the Service if it is prevented or delayed in performing those obligations by an event of
+force majeure
+circumstances.
+16. Termination of Service
+16.1. The term of Service will continue for as long as you have a MailerLite account or until you or we terminate it.
+16.2. We reserve the right to terminate your account or limit your use of the Services at any time with or without cause. If we decide to terminate your account you will receive termination notice with further instructions.
+16.3. You also have the option of canceling your account at any time without penalty.
+16.4. We reserve the right to terminate our Services if your account is inactive for 2 years or more as per section 5.7. of these Terms.
+16.5. In the event of your account being placed under investigation, either automatically or manually, for non-compliance with these Terms or Anti-Spam Policy, you will be notified via email accordingly. Should there be no response from you within a period of 30 days, the account will be terminated. This clause applies to both monthly and annual subscription plans. However, for yearly plans, efforts may be made to contact you about the account's status before the plan expiration.
+17. AI-Powered Features
+17.1. MailerLite may provide or integrate with certain artificial intelligence-powered features (“
+AI-Powered Features
+”). These features include MailerLite’s native AI functionalities and the Model Context Protocol (“
+MCP
+”), which enables you to connect your MailerLite account with certain third-party artificial intelligence agents (“
+AI Agents
+”). Any AI-Powered Feature is considered part of the Service, and your use of it is treated as part of your overall use of MailerLite.
+17.2. When you connect an AI Agent via the MCP, you explicitly authorize that AI Agent to access, read, and potentially modify data within your MailerLite account. This may include, but is not limited to, subscriber lists and associated personal data, campaign content, email templates, automation workflows, forms, landing page content, and other account information as permitted by the AI Agent's functionality and your configuration.
+17.3. You are responsible for ensuring that any content you input while using AI-Powered Features (“
+Inputs
+”) complies with these Terms. The AI-generated outputs (“
+Outputs
+”) may have limitations and may not always be unique, accurate, fit for purpose, or free from errors or biases, and you are solely responsible for reviewing and ensuring that they are suitable for your use. The same Outputs generated for other Customers are not considered your Content. MailerLite works with third parties to provide AI models and process Inputs and Outputs. You grant MailerLite a license to use your Inputs and Outputs to improve AI models, and you agree to comply with any restrictions on AI usage.
+17.4. You are solely responsible for your choice, configuration, and use of any AI Agent connected via the MCP. This includes ensuring your use complies with all applicable laws, obtaining all necessary consents from your subscribers, and independently verifying the accuracy, quality, and appropriateness of any content or actions generated by the AI Agent before use or reliance.
+17.5. MailerLite provides the MCP as a connection mechanism and does not control, endorse, or make any representations regarding any third-party AI Agent. MailerLite is not responsible for the functionality, security, privacy practices, or outputs of any AI Agent, nor for any damages or losses arising from your use of or reliance on such AI Agents. Your use of any AI Agent is subject to its respective provider's terms of service and privacy policy, which you are solely responsible for reviewing and accepting.
+17.6. MailerLite reserves the right to modify, suspend, or terminate AI-Powered Features, including access to the MCP or specific AI Agent integrations, without liability. Additionally, due to evolving AI laws and regulations, the availability and functionality of the AI-Powered Features and their Outputs may change over time. MailerLite also reserves the right to suspend or terminate your access if we determine your use violates these Terms, poses a security risk, is unlawful, or is otherwise detrimental to our Service or other users.
+17.7. You agree to use the AI-Powered Features and their Outputs in full compliance with these Terms. All content generated or processed by AI-Powered Features or by AI Agents connected via the MCP must comply with Section 9 (Appropriate Content).
+18. Refunds
+18.1. We are required to provide a refund only if we terminate our Services to you without cause before the end of a year for which you have paid. There is no other circumstance in which you will be entitled to a refund from us, including:
+We do not provide refunds if your account is suspended because of violation of our
+Anti-Spam Policy
+or these Terms. We do not refund monthly/yearly plans (incl. upgrades) if it turns out that you’re sending (or were going to send) newsletters a) without having permission from your subscribers, and/or b) with prohibited content as per section 9 of these Terms.
+We do not refund any unused or partially used plans (monthly or yearly) when you did not use or partially used the Services, and/or forgot to cancel your plan, and/or if you canceled immediately after your credit card was charged for the new billing period. A refund will not be applied if you purchased a wrong monthly/yearly plan (even by mistake), and/or decided to cancel your subscription after the purchase because of functionality.
+We treat all customers equally, so we don’t make exceptions to this policy.
+18.2. We may, at our sole discretion, offer refunds in other situations in accordance with the requirements we post on the website or in the mobile app, which may be changed from time to time. In any case, the refund can only be made within 30 days from the last transaction date.
+19. Account Limits and Overages
+19.1. The number of subscribers is limited, emails are unlimited for some plans. For specific limits, please refer to our pricing page.
+For New MailerLite:
+Free Accounts:
+Once your free account reaches its subscriber limit, campaign sending, automations and various methods of adding new subscribers are stopped. While subscription collection through forms and landing pages will still work, you will not be able to send any emails to your subscribers until you manually upgrade to a paid plan.
+Paid Accounts:
+If you exceed your subscriber limit, to ensure uninterrupted service your account will be automatically upgraded to the next plan tier, and your credit card on file will be charged. You will receive notifications before the auto-upgrade occurs.
+For MailerLite Classic:
+Your account may hold more subscribers than your current plan allows, however, you will not be able to send newsletters to any additional subscribers exceeding your plan limit, unless you manually upgrade to the appropriate plan tier.
+19.2. You may not manipulate by deleting subscribers and uploading new ones in order to send newsletters to more unique subscribers than your plan allows.
+19.3.  If you create new API key through your account you must ensure that the subscribers are collected in accordance with the industry best practice and requirements set out in these Terms and
+Anti-Spam Policy
+. You are responsible for preventing any type of abuse when collecting new subscribers through your own generated API key.
+20. Account Disputes
+20.1. In the event of internal disputes involving MailerLite accounts, you shall resolve the matter directly with the other party. You shall not request access to or information about an account that you do not have access to.
+20.2. In exceptional disputes regarding account ownership where MailerLite is able to determine the legitimate account holder, MailerLite has the right to make a judgment on ownership based on the information available to us, whether or not an independent investigation is carried out. If MailerLite is unable to reach a clear decision, we may opt to take no action or temporarily suspend the account until the parties involved reach a resolution, without MailerLite being held responsible for the outcome.
+20.3. To help resolve disputes, MailerLite may ask for appropriate documentation (such as a court ruling, government-issued identification, or other valid documents). MailerLite will not revisit ongoing disputes unless new substantial evidence is provided, or there is reason to believe that our previous actions were incorrect.
+21. Conditions
+21.1. We may modify or terminate our services at anytime, for any reason, and without notice. We reserve the right to modify these Terms of Use at any time without notice. Please review these Terms of Use on occasion as they may change in the future. We may, but have no obligation to, remove accounts and content containing what we determine as unlawful, offensive, threatening, defamatory, obscene or otherwise objectionable material. We will remove content that violates any party’s intellectual property or these Terms of Use.
+21.2. MailerLite reserves the right to introduce new versions of MailerLite platform and, accordingly, may restrict access to older versions or reduce the number of available plans. In the event of such modifications, you will be informed in advance via email and may be required to migrate to the new version. Accounts that are not migrated to the new version by the set deadline may be deactivated. It is your responsibility to stay informed about new versions and associated changes to ensure uninterrupted access to our Services.
+22. Intellectual property
+22.1. MailerLite claims no intellectual property rights over the material you provide to the Service. You acknowledge that MailerLite owns all right, title and interest in and to the Service, including without limitation all intellectual property rights, and such rights are protected by international intellectual property laws. You agree that you will not copy, reproduce, alter, modify, or create derivative works from the Service. More information can be found in MailerLite’s Intellectual Property Guidelines
+here
+.
+23. Refer a friend
+23.1. All MailerLite's Customers have a Refer-a-friend dashboard, which allows you to invite other people to sign up for MailerLite and get a designated credit.
+23.2. When a new user visits MailerLite website via your Refer a friend link and signs up (within 30 days from the first visit) our system instantly identifies your referral. The user will get a designated credit immediately and you will be rewarded with a credit as soon as he or she upgrades.
+23.3. Credits will automatically be applied when you buy or upgrade your MailerLite plan. Up to 50% of the total cost can be covered by credits. The other 50% has to be paid in real money. If your credits exceed the limit, they will be saved to be applied to the next payment.
+23.4. Credits cannot be exchanged for real money.
+23.5.
+MailerLite's Customers are strictly prohibited from referring their own businesses solely to earn commissions. Referrals must be genuine and involve external entities that align with our objectives. Violation of this provision may result in account suspension, termination, and forfeiture of pending self-referral commissions.
+24. Free trial
+24.1. All new free accounts get a 14-day free trial to our premium features.
+24.2. Once you upgrade to a paid plan, your free trial will end.
+25. Privacy
+25.1. At MailerLite, protecting your privacy and the privacy of anyone receiving your email is very important. Please read our
+Privacy Policy
+,
+Trust Page
+and
+Cookie Policy
+to know more about how we process and protect personal data in accordance with good industry practice.
+26. Data Processing Addendum
+26.1. If you share with us personal data of your clients, Data Processing Addendum is applied to you.
+26.2. Data Processing Addendum is an integral part of Terms of Use and can be found
+here
+.
+27. Changes
+27.1. MailerLite reserves the right to change these Terms of Use at any time. If we decide to change this document, we will post changes on this page. All changes are effective immediately upon posting and we suggest that you check these Terms of Use periodically.
+28. Miscellaneous provision
+28.1. Except as provided in Clause 28.2 below, these Terms of Use shall be governed and construed in accordance with governing law and jurisdiction of the place of the MailerLite entity applicable to the country of the Customer's billing address.
+28.2. This Clause applies only if your contracting entity is MailerLite, Inc. Before filing a claim against MailerLite, you agree to try to resolve the dispute informally by contacting us through the Contact Us page which can be found
+here
+with your name, a description of the dispute, and the relief you seek. If the dispute is not resolved within sixty (60) days of your submission, you or MailerLite may bring a formal proceeding. You and MailerLite agree that any dispute, claim, or controversy arising out of or relating to these Terms or the Services will be settled by binding individual arbitration administered by the American Arbitration Association (AAA) in accordance with its Commercial Arbitration Rules and/or the Consumer Arbitration Rules, except that either party may assert claims in small claims court if valid. You and MailerLite waive the right to a trial by jury. YOU AND MAILERLITE AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN AN INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, CONSOLIDATED, OR REPRESENTATIVE PROCEEDING. Unless both parties agree otherwise, the arbitrator may not consolidate more than one person's claims or preside over any form of a representative or class proceeding. You and MailerLite agree that any cause of action arising out of or related to the Services must commence within one (1) year after the cause of action accrues. Otherwise, such cause of action is permanently barred.
+28.3. These Terms of Use will begin upon when you become our client and will continue unless terminated hereunder.
+Last updated on December 29, 2025

@@ -1,0 +1,115 @@
+Copilot - Copilot GPTs Content Policy
+Get the app
+The New Bing
+Copilot
+Microsoft Copilot GPTs Policies
+Last updated
+:
+February 7, 2024
+Thank you for your interest in creating Copilot GPTs using our Copilot GPT Builder. While the Code of Conduct section of the
+Microsoft Services Agreement
+governs use of Copilot, we believe that creators of Copilot GPTs will benefit from having a more specific explanation of how the Code and MSA apply to this product.  The following policies are designed to ensure a safe experience for you and others who will access your custom Copilot GPTs.
+These Copilot GPTs policies apply to:
+All information (including your Copilot GPT name and description), instructions, knowledge, documents, content and data (“Content”) that you provide in connection with the creation of a Copilot GPT;
+The intended or reasonably foreseeable purpose of your Copilot GPT(s) and outputs it generates based on your Content.
+Creators of Copilot GPTs are also subject to the
+Copilot AI Experiences Terms
+as well as
+Microsoft Services Agreement
+.
+Misrepresentation and impersonation.
+Do not build Copilot GPTs that mislead or attempt to mislead or misinform others, including:
+Misrepresenting the purpose, ownership, rights, developer information, security and privacy settings, provenance and any other material information about your Copilot GPT
+Attempting to create, promote or facilitate participation in spamming, scams, phishing, fraud and other fraudulent activities
+Impersonating or conveying a false or misleading affiliation with any other individual, company, entity, brand or other third parties by using their name, image, likeness, voice, branding, designs or any other identifying information or content associated with them without their authorisation or permission
+Attempting to assist in plagiarism or academic dishonesty
+If your GPT is intended to provide content related to information, news or current events in the real world, it must not use or distribute false, misleading, manipulated or out-of-date information
+Attempting to create fake user profiles, profile data, user accounts or bots (“Inauthentic Users”) and/or strategies, plans or instructions which are intended to create, disseminate or amplify falsified or fraudulent online engagement (such as likes, reviews or comments) from Inauthentic Users.
+Privacy.
+Do not build Copilot GPTs that enable, facilitate or promote activities that could compromise the privacy of others, including:
+Collecting, processing, distributing sensitive personal information such as government IDs, banking and payment information, passwords, health data etc.
+Release private, personal or sensitive information of others online without their consent (i.e. “doxxing”)
+Jeopardising or compromising user security or the security or functionality of their device, system or related systems
+Using or attempting to use biometric information for identification or assessment, including facial recognition
+Failing to comply with applicable safety and privacy laws, including relating to the collection of personal information from children
+Security.
+Do not create GPTs that facilitate or instruct the creation of malware, viruses or hacking efforts that could put users, their data or devices at risk or attempt to undermine Copilot safety controls and restrictions. This includes:
+Engaging in bot/scraping behaviours
+Engaging in “jailbreaking” or prompt-based manipulation, including efforts to bypass, remove or reverse engineer Copilot safety restrictions
+Sharing, distributing or attempting to develop spyware, viruses, malware or other malicious programs to monitor online activities of others or collect personal data or other sensitive information
+Attempting to disturb, disable or disrupt normal operation of Copilot, Copilot GPTs or any other service of Microsoft and its affiliates and partners
+Otherwise jeopardising the security of Copilot, Copilot GPTs or their users and devices
+Intellectual Property.
+Do not use Content, APIs or code, that do not belong to you or that you do not have permission to use to build custom GPTs. This includes:
+Using, inputting, uploading or directing the use of any Content, material or technology you do not have rights to use (including integration of third-party APIs). All Content provided by you for use as part of your custom Copilot GPT (and associated metadata) must be either originally created by you, appropriately licensed from the third-party rights holder, used as permitted by the rights holder or otherwise permitted by law
+Do not build Copilot GPTs that infringe or facilitate, encourage or promote the infringement of intellectual property rights of others (including copyright, trademark, patent or publicity rights)
+Do not build Copilot GPTs that facilitate, encourage or promote the sale of infringing or counterfeit goods or services
+Do not build Copilot GPTs that facilitate or encourage attempts to bypass technological measures which are intended to prevent infringement or content sharing
+Harmful and objectionable activities.
+Do not build Copilot GPTs that create or distribute content for, facilitate, promote, glamorise or instruct others to engage in the following harms:
+Exploitation and abuses
+Child sexual exploitation and abuse material (CSEAI) (content depicting minor persons engaging in sexually explicit or abusive behaviour)
+Grooming (the act of an adult communicating with a child for purposes of exploitation)
+Non-consensual intimate imagery and intimate extortion, including deepfakes
+Sexual solicitation
+Human trafficking
+Self-harm
+Suicide
+Self-injury
+Eating disorders
+Violence and coordinated harm
+Attempting or inciting any coordinated harm toward people, animals or property
+Graphic violence and gore
+Terrorism and violent extremist content
+Violent threats and incitement
+Dangerous organisations and individuals
+Harmful or objectionable content
+Hate speech and discrimination, including attacks on individuals or groups based on their protected traits including race, ethnicity, national origin, gender, gender identity, sexual orientation, religious affiliation, age, disability status, caste or any other characteristic that is consistently associated with systemic prejudice or historical marginalisation)
+Bullying and harassment (i.e. content and/or conduct that targets individuals or groups with threats, intimidation, promotion of physical harm or other abusive behaviour)
+Activities affecting fundamental rights or social welfare.
+Do not build Copilot GPTs that could significantly affect user safety, fundamental rights or wellbeing, including:
+Providing tailored or personalised legal, medical or financial advice or engaging in unlicensed professional activities of any kind
+Providing automated decision-making or review in high-stakes areas with potential to significantly affect an individual’s safety, fundamental rights or well-being, including loan, credit, mortgage and financial product eligibility, judicial review, law enforcement, employment, housing, education admission, insurance eligibility, military use or facial recognition
+Promoting or encouraging content or activities that significantly contribute to the systemic prejudice, marginalisation or discrimination of individuals or groups
+Creating political and/or election-related content that:
+Engages in political lobbying or campaigning, including the creation, marketing or dissemination of campaign materials
+Attempts to target, profile or collect data on specific individuals or demographics in connection with political campaigns or elections
+Provides misleading information concerning elections (including misrepresenting voting requirements or processes) or impersonating candidates or nominees for public office
+Attempts to deter or discourage individuals from voting or participating in democratic processes
+Restricted goods and services.
+Do not build Copilot GPTs offering or promoting restricted or highly regulated goods and services, for example:
+Facilitating the sales, transfer, trade, marketing, gifting or creation of regulated products, including tobacco, alcohol, illegal drugs, hazardous goods or materials, or pharmaceutical products
+Facilitating the sales, transfer, trade, marketing, gifting or creation of firearms, explosives and other dangerous products which are intended to cause harm to individuals, animals or property
+Facilitating real-money gambling
+Facilitating payday lending
+Facilitating the mining or trading of cryptocurrency
+Inappropriate content.
+Do not build Copilot GPTs that are intended to create, promote or facilitate the distribution of inappropriate content, including:
+Adult content (including pornography or nudity)
+Sexually suggestive or explicit content outside of educational or scientific context
+Excessive profanity
+Virtual bots or personas that are intended to foster an online romantic or sexual companionship or relationship with users (i.e. “virtual girlfriends/boyfriends”)
+Content that depicts excessive or irresponsible use of drugs, alcohol or tobacco products
+Underage users.
+Do not build Copilot GPTs targeting or primarily intended for users under the age of eighteen.
+Illegal activities.
+Do not build Copilot GPTs that offer, enable, encourage, facilitate or promote illegal activities of any kind. Your Copilot GPTs must comply with all applicable laws and regulations.
+Advertising and sponsored content.
+Do not build Copilot GPTs:
+Where the primary purpose of the Copilot GPT is to get users to click ads, affiliate links, link farms or spam content
+That interfere with or diminish the visibility, value or quality of any ads that may appear in Copilot GPTs
+That fail to adequately disclose the existence of material connections, such as financial incentives, payments, sponsorship, rewards, gifts, complimentary experiences or business relationships, you have with products or services you promote, discuss or recommend in your Copilot GPT.
+Enforcement
+These policies may be enforced at Microsoft’s discretion, and Microsoft may remove, suspend or disable access to Copilot GPTs at any time without prior notice. Copilot GPTs believed to be in violation of these Policies may be removed or blocked from publication automatically upon submission or retroactively suspended or removed upon further review.
+If you encounter a Copilot GPT or content generated from a Copilot GPT that violates these policies, please submit a report using the
+Report a concern
+.
+© 2026 Microsoft
+Manage Cookie Preferences
+Privacy
+Terms
+Advertise
+About our ads
+Help
+Feedback
+European Data Protection

@@ -1,0 +1,31 @@
+# All Bots, ignore the following urls 
+User-agent: AdsBot-Google 
+User-agent: * 
+Disallow: /search/ 
+Disallow: /fitment/ 
+Disallow: /compare/ 
+Disallow: /review/ 
+Allow: /schedule-appointment/$ 
+Disallow: /schedule-appointment/* 
+Disallow: /cart/ 
+Disallow: /checkout/ 
+Disallow: /review/ 
+Disallow: /compare/ 
+Disallow: /error/ 
+Disallow: /search 
+Disallow: /cart 
+Disallow: /500* 
+Disallow: /*null 
+Disallow: *redirectTo* 
+Disallow: /*.scss 
+Sitemap: https://sitemaps.americastire.com/store.xml 
+Sitemap: https://sitemaps.americastire.com/homepage.xml 
+Sitemap: https://sitemaps.discounttire.com/store.xml 
+Sitemap: https://sitemaps.discounttire.com/plp.xml 
+Sitemap: https://sitemaps.discounttire.com/other.xml 
+Sitemap: https://sitemaps.discounttire.com/sitemap_full_product.xml 
+Sitemap: https://sitemaps.discounttire.com/sitemap_full_vehicle.xml 
+Sitemap: https://sitemaps.discounttire.com/soft4xx.xml # Honeypot 
+Disallow: /sticky-products # Block the ia_archiver bot from the site completely 
+User-agent: ia_archiver 
+Disallow: /

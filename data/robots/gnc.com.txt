@@ -1,0 +1,87 @@
+User-agent: *
+Disallow: /*?q*
+Disallow: /*dm3*
+Disallow: /*dm2*
+Disallow: /*dm1*
+Disallow: /*prefn*
+Disallow: /*pmin*
+Disallow: /cart*
+Disallow: /account*
+Disallow: /login?*
+Disallow: /*Login-OAuthLoginForm?*
+Disallow: /*?pid=*
+Disallow: /checkout*
+Disallow: /review-order*
+Disallow: /order-confirmation*
+Disallow: /search*
+Disallow: /orders*
+Disallow: /your-order*
+Disallow: /*srule*
+Disallow: /*Stores-FindStoreInventory
+Disallow: /*gnc/600762.html
+Disallow: /*gnc-rx.html
+Disallow: /*yo-app-sequencer.js
+Disallow: /*cgid*
+Disallow: /profile*
+Disallow: /register*
+Disallow: /*?categoryId=*
+Disallow: /*sz*
+Allow: /dw/image*
+
+
+User-agent: mediapartners-google
+Allow: /dw/image*
+Allow: /*utm_medium*
+
+User-agent: googlebot-Image
+Allow: /dw/image*
+Allow: /*utm_medium*
+
+User-agent: adsbot-google
+Allow: /dw/image*
+Allow: /*utm_medium*
+
+# Chinese Bots 
+User-agent: Baiduspider
+User-agent: 360Spider
+User-agent: Yisouspider
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Sogou web spider
+Disallow: /
+
+User-agent: Sogou inst spider
+Disallow: /
+
+User-agent: Robozilla
+Disallow: /
+
+User-agent: yahoo-mmcrawler
+Disallow: /
+
+User-agent: psbot
+Disallow: /
+
+User-agent: asterias
+Disallow: /
+
+User-agent: yahoo-blogs/v3.9
+Disallow: /
+
+#Crawl Delays
+User-agent: BLEXBot
+User-agent: rogerbot
+User-agent: dotbot
+User-agent: AhrefsBot
+User-agent: MJ12bot
+User-agent: GPTBot
+Crawl-delay: 10
+
+User-agent: Pinterestbot
+Crawl-delay: 1
+
+Sitemap: https://www.gnc.com/sitemap_index.xml

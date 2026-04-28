@@ -1,0 +1,844 @@
+# US Site robots.txt file as of 26th March 2020
+
+User-agent: *
+Disallow: *Order-Find*
+Disallow: /COBilling-BackBilling/
+Disallow: /COReview/
+Disallow: /COShipping/
+Disallow: /Cart-StartCheckout/
+Disallow: /Cart-Show/
+Disallow: /COCheckout-Step
+Disallow: *Product-API*
+Disallow: *Page-Include*
+Disallow: */pl_PL/*
+Disallow: */en_CA/*
+Disallow: */fr_CA/*
+Disallow: */en_ES/*
+Disallow: */de_DE/*
+Disallow: */fr_FR/*
+Disallow: */ja_JP/*
+Disallow: */ko_KR/*
+Disallow: */en_SG/*
+Disallow: */nl_NL/*
+Disallow: */fi_FI/*
+Disallow: */en_GB/*
+Disallow: */en_AU/*
+Disallow: */en_HK/*
+Disallow: */it_IT/*
+Disallow: */se_SE/*
+Disallow: */no_NO/*
+Disallow: */Wishlist-EmailProductFriend*
+Disallow: */ProductQuickView*
+Disallow: /*prefn1=*
+Disallow: /*prefv1=*
+Disallow: /*pmax=*
+Disallow: /*start=*
+Disallow: /*sz=*
+Disallow: /*q=*
+Disallow: */jibbitz-feed
+Disallow: */Marketing-Unsubscribe*
+Disallow: */Marketing-SFMC*
+Disallow: */Home-Show*
+Disallow: */Default-Start*
+
+Sitemap: https://www.crocs.com/sitemap_index.xml
+
+#Blocking Multiple Sizes Colours
+Disallow: */c/*_*
+Disallow: */c/*+*
+
+#Blocking Non Gendered Womens Size Pages
+Disallow: */c/shop-by/*w3
+Disallow: */c/shop-by/*w4
+Disallow: */c/shop-by/*w5
+Disallow: */c/shop-by/*w6
+Disallow: */c/shop-by/*w7
+Disallow: */c/shop-by/*w8
+Disallow: */c/shop-by/*w9
+Disallow: */c/shop-by/*w10
+Disallow: */c/shop-by/*w11
+Disallow: */c/shop-by/*w12
+
+#Blocking Non Gendered Childrens Size Pages
+Disallow: */c/shop-by/*c2
+Disallow: */c/shop-by/*c3
+Disallow: */c/shop-by/*c4
+Disallow: */c/shop-by/*c5
+Disallow: */c/shop-by/*c6
+Disallow: */c/shop-by/*c7
+Disallow: */c/shop-by/*c8
+Disallow: */c/shop-by/*c9
+Disallow: */c/shop-by/*c10
+Disallow: */c/shop-by/*c11
+Disallow: */c/shop-by/*c12
+Disallow: */c/shop-by/*c13
+
+#Blocking Non Gendered Junior Size Pages
+Disallow: */c/shop-by/*j1
+Disallow: */c/shop-by/*j2
+Disallow: */c/shop-by/*j3
+Disallow: */c/shop-by/*j4
+Disallow: */c/shop-by/*j5
+Disallow: */c/shop-by/*j6
+
+#Blocking Non Gendered Mens Size Pages
+Disallow: */c/shop-by/*m4
+Disallow: */c/shop-by/*m5
+Disallow: */c/shop-by/*m6
+Disallow: */c/shop-by/*m7
+Disallow: */c/shop-by/*m8
+Disallow: */c/shop-by/*m9
+Disallow: */c/shop-by/*m10
+Disallow: */c/shop-by/*m11
+Disallow: */c/shop-by/*m12
+Disallow: */c/shop-by/*m13
+Disallow: */c/shop-by/*m14
+Disallow: */c/shop-by/*m15
+Disallow: */c/shop-by/*m16
+Disallow: */c/shop-by/*m17
+Disallow: */c/shop-by/*4
+Disallow: */c/shop-by/*5
+Disallow: */c/shop-by/*6
+Disallow: */c/shop-by/*7
+Disallow: */c/shop-by/*8
+Disallow: */c/shop-by/*9
+Disallow: */c/shop-by/*10
+Disallow: */c/shop-by/*11
+Disallow: */c/shop-by/*12
+Disallow: */c/shop-by/*13
+Disallow: */c/shop-by/*14
+Disallow: */c/shop-by/*15
+Disallow: */c/shop-by/*16
+Disallow: */c/shop-by/*17
+
+#Blocking All Products Womens Size Pages
+Disallow: */c/footwear/*w3
+Disallow: */c/footwear/*w4
+Disallow: */c/footwear/*w5
+Disallow: */c/footwear/*w6
+Disallow: */c/footwear/*w7
+Disallow: */c/footwear/*w8
+Disallow: */c/footwear/*w9
+Disallow: */c/footwear/*w10
+Disallow: */c/footwear/*w11
+Disallow: */c/footwear/*w12
+
+#Blocking All Products Childrens Size Pages
+Disallow: */c/footwear/*c2
+Disallow: */c/footwear/*c3
+Disallow: */c/footwear/*c4
+Disallow: */c/footwear/*c5
+Disallow: */c/footwear/*c6
+Disallow: */c/footwear/*c7
+Disallow: */c/footwear/*c8
+Disallow: */c/footwear/*c9
+Disallow: */c/footwear/*c10
+Disallow: */c/footwear/*c11
+Disallow: */c/footwear/*c12
+Disallow: */c/footwear/*c13
+
+#Blocking All Products Junior Size Pages
+Disallow: */c/footwear/*j1
+Disallow: */c/footwear/*j2
+Disallow: */c/footwear/*j3
+Disallow: */c/footwear/*j4
+Disallow: */c/footwear/*j5
+Disallow: */c/footwear/*j6
+
+#Blocking All Products Mens Size Pages
+Disallow: */c/footwear/*m4
+Disallow: */c/footwear/*m5
+Disallow: */c/footwear/*m6
+Disallow: */c/footwear/*m7
+Disallow: */c/footwear/*m8
+Disallow: */c/footwear/*m9
+Disallow: */c/footwear/*m10
+Disallow: */c/footwear/*m11
+Disallow: */c/footwear/*m12
+Disallow: */c/footwear/*m13
+Disallow: */c/footwear/*m14
+Disallow: */c/footwear/*m15
+Disallow: */c/footwear/*m16
+Disallow: */c/footwear/*m17
+Disallow: */c/footwear/*4
+Disallow: */c/footwear/*5
+Disallow: */c/footwear/*6
+Disallow: */c/footwear/*7
+Disallow: */c/footwear/*8
+Disallow: */c/footwear/*9
+Disallow: */c/footwear/*10
+Disallow: */c/footwear/*11
+Disallow: */c/footwear/*12
+Disallow: */c/footwear/*13
+Disallow: */c/footwear/*14
+Disallow: */c/footwear/*15
+Disallow: */c/footwear/*16
+Disallow: */c/footwear/*17
+
+#Blocking Activity Colour Pages
+Disallow: */activity/*red
+Disallow: */activity/*orange
+Disallow: */activity/*yellow
+Disallow: */activity/*green
+Disallow: */activity/*blue
+Disallow: */activity/*purple
+Disallow: */activity/*pink
+Disallow: */activity/*brown
+Disallow: */activity/*white
+Disallow: */activity/*gray
+Disallow: */activity/*black
+
+#Blocking Age Colour Pages
+Disallow: */age/*red
+Disallow: */age/*orange
+Disallow: */age/*yellow
+Disallow: */age/*green
+Disallow: */age/*blue
+Disallow: */age/*purple
+Disallow: */age/*pink
+Disallow: */age/*brown
+Disallow: */age/*white
+Disallow: */age/*gray
+Disallow: */age/*black
+
+#Blocking Material Colour Pages
+Disallow: */material/*red
+Disallow: */material/*orange
+Disallow: */material/*yellow
+Disallow: */material/*green
+Disallow: */material/*blue
+Disallow: */material/*purple
+Disallow: */material/*pink
+Disallow: */material/*brown
+Disallow: */material/*white
+Disallow: */material/*gray
+Disallow: */material/*black
+
+#Blocking Season Colour Pages
+Disallow: */season/*red
+Disallow: */season/*orange
+Disallow: */season/*yellow
+Disallow: */season/*green
+Disallow: */season/*blue
+Disallow: */season/*purple
+Disallow: */season/*pink
+Disallow: */season/*brown
+Disallow: */season/*white
+Disallow: */season/*gray
+Disallow: */season/*black
+
+#Blocking Sale Womens Size Pages
+Disallow: */sale/*w3
+Disallow: */sale/*w4
+Disallow: */sale/*w5
+Disallow: */sale/*w6
+Disallow: */sale/*w7
+Disallow: */sale/*w8
+Disallow: */sale/*w9
+Disallow: */sale/*w10
+Disallow: */sale/*w11
+Disallow: */sale/*w12
+
+#Blocking Sale Childrens Size Pages
+Disallow: */sale/*c2
+Disallow: */sale/*c3
+Disallow: */sale/*c4
+Disallow: */sale/*c5
+Disallow: */sale/*c6
+Disallow: */sale/*c7
+Disallow: */sale/*c8
+Disallow: */sale/*c9
+Disallow: */sale/*c10
+Disallow: */sale/*c11
+Disallow: */sale/*c12
+Disallow: */sale/*c13
+
+#Blocking Sale Junior Size Pages
+Disallow: */sale/*j1
+Disallow: */sale/*j2
+Disallow: */sale/*j3
+Disallow: */sale/*j4
+Disallow: */sale/*j5
+Disallow: */sale/*j6
+
+#Blocking Sale Mens Size Pages
+Disallow: */sale/*m4
+Disallow: */sale/*m5
+Disallow: */sale/*m6
+Disallow: */sale/*m7
+Disallow: */sale/*m8
+Disallow: */sale/*m9
+Disallow: */sale/*m10
+Disallow: */sale/*m11
+Disallow: */sale/*m12
+Disallow: */sale/*m13
+Disallow: */sale/*m14
+Disallow: */sale/*m15
+Disallow: */sale/*m16
+Disallow: */sale/*m17
+Disallow: */sale/*4
+Disallow: */sale/*5
+Disallow: */sale/*6
+Disallow: */sale/*7
+Disallow: */sale/*8
+Disallow: */sale/*9
+Disallow: */sale/*10
+Disallow: */sale/*11
+Disallow: */sale/*12
+Disallow: */sale/*13
+Disallow: */sale/*14
+Disallow: */sale/*15
+Disallow: */sale/*16
+Disallow: */sale/*17
+
+#Blocking Sale Colour Pages
+Disallow: */sale/*red
+Disallow: */sale/*orange
+Disallow: */sale/*yellow
+Disallow: */sale/*green
+Disallow: */sale/*blue
+Disallow: */sale/*purple
+Disallow: */sale/*pink
+Disallow: */sale/*brown
+Disallow: */sale/*white
+Disallow: */sale/*gray
+Disallow: */sale/*black
+
+#Blocking Collections Womens Size Pages
+Disallow: *collection*/*w3
+Disallow: *collection*/*w4
+Disallow: *collection*/*w5
+Disallow: *collection*/*w6
+Disallow: *collection*/*w7
+Disallow: *collection*/*w8
+Disallow: *collection*/*w9
+Disallow: *collection*/*w10
+Disallow: *collection*/*w11
+Disallow: *collection*/*w12
+
+#Blocking Collections Childrens Size Pages
+Disallow: *collection*/*c2
+Disallow: *collection*/*c3
+Disallow: *collection*/*c4
+Disallow: *collection*/*c5
+Disallow: *collection*/*c6
+Disallow: *collection*/*c7
+Disallow: *collection*/*c8
+Disallow: *collection*/*c9
+Disallow: *collection*/*c10
+Disallow: *collection*/*c11
+Disallow: *collection*/*c12
+Disallow: *collection*/*c13
+
+#Blocking Collections Junior Size Pages
+Disallow: *collection*/*j1
+Disallow: *collection*/*j2
+Disallow: *collection*/*j3
+Disallow: *collection*/*j4
+Disallow: *collection*/*j5
+Disallow: *collection*/*j6
+
+#Blocking Collections Mens Size Pages
+Disallow: *collection*/*m4
+Disallow: *collection*/*m5
+Disallow: *collection*/*m6
+Disallow: *collection*/*m7
+Disallow: *collection*/*m8
+Disallow: *collection*/*m9
+Disallow: *collection*/*m10
+Disallow: *collection*/*m11
+Disallow: *collection*/*m12
+Disallow: *collection*/*m13
+Disallow: *collection*/*m14
+Disallow: *collection*/*m15
+Disallow: *collection*/*m16
+Disallow: *collection*/*m17
+Disallow: *collection*/*4
+Disallow: *collection*/*5
+Disallow: *collection*/*6
+Disallow: *collection*/*7
+Disallow: *collection*/*8
+Disallow: *collection*/*9
+Disallow: *collection*/*10
+Disallow: *collection*/*11
+Disallow: *collection*/*12
+Disallow: *collection*/*13
+Disallow: *collection*/*14
+Disallow: *collection*/*15
+Disallow: *collection*/*16
+Disallow: *collection*/*17
+
+#Blocking Collection Colour Pages
+Disallow: *collection*/*red
+Disallow: *collection*/*orange
+Disallow: *collection*/*yellow
+Disallow: *collection*/*green
+Disallow: *collection*/*blue
+Disallow: *collection*/*purple
+Disallow: *collection*/*pink
+Disallow: *collection*/*brown
+Disallow: *collection*/*white
+Disallow: *collection*/*gray
+Disallow: *collection*/*black
+
+#Blocking favorites Womens Size Pages
+Disallow: */favorites/*w3
+Disallow: */favorites/*w4
+Disallow: */favorites/*w5
+Disallow: */favorites/*w6
+Disallow: */favorites/*w7
+Disallow: */favorites/*w8
+Disallow: */favorites/*w9
+Disallow: */favorites/*w10
+Disallow: */favorites/*w11
+Disallow: */favorites/*w12
+
+#Blocking favorites Childrens Size Pages
+Disallow: */favorites/*c2
+Disallow: */favorites/*c3
+Disallow: */favorites/*c4
+Disallow: */favorites/*c5
+Disallow: */favorites/*c6
+Disallow: */favorites/*c7
+Disallow: */favorites/*c8
+Disallow: */favorites/*c9
+Disallow: */favorites/*c10
+Disallow: */favorites/*c11
+Disallow: */favorites/*c12
+Disallow: */favorites/*c13
+
+#Blocking favorites Junior Size Pages
+Disallow: */favorites/*j1
+Disallow: */favorites/*j2
+Disallow: */favorites/*j3
+Disallow: */favorites/*j4
+Disallow: */favorites/*j5
+Disallow: */favorites/*j6
+
+#Blocking favorites Mens Size Pages
+Disallow: */favorites/*m4
+Disallow: */favorites/*m5
+Disallow: */favorites/*m6
+Disallow: */favorites/*m7
+Disallow: */favorites/*m8
+Disallow: */favorites/*m9
+Disallow: */favorites/*m10
+Disallow: */favorites/*m11
+Disallow: */favorites/*m12
+Disallow: */favorites/*m13
+Disallow: */favorites/*m14
+Disallow: */favorites/*m15
+Disallow: */favorites/*m16
+Disallow: */favorites/*m17
+Disallow: */favorites/*4
+Disallow: */favorites/*5
+Disallow: */favorites/*6
+Disallow: */favorites/*7
+Disallow: */favorites/*8
+Disallow: */favorites/*9
+Disallow: */favorites/*10
+Disallow: */favorites/*11
+Disallow: */favorites/*12
+Disallow: */favorites/*13
+Disallow: */favorites/*14
+Disallow: */favorites/*15
+Disallow: */favorites/*16
+Disallow: */favorites/*17
+
+#Blocking Favorites Colour Pages
+Disallow: */favorites/*red
+Disallow: */favorites/*orange
+Disallow: */favorites/*yellow
+Disallow: */favorites/*green
+Disallow: */favorites/*blue
+Disallow: */favorites/*purple
+Disallow: */favorites/*pink
+Disallow: */favorites/*brown
+Disallow: */favorites/*white
+Disallow: */favorites/*gray
+Disallow: */favorites/*black
+
+#Blocking Best Sellers Womens Size Pages
+Disallow: */best-sellers/*w3
+Disallow: */best-sellers/*w4
+Disallow: */best-sellers/*w5
+Disallow: */best-sellers/*w6
+Disallow: */best-sellers/*w7
+Disallow: */best-sellers/*w8
+Disallow: */best-sellers/*w9
+Disallow: */best-sellers/*w10
+Disallow: */best-sellers/*w11
+Disallow: */best-sellers/*w12
+
+#Blocking Best Sellers Childrens Size Pages
+Disallow: */best-sellers/*c2
+Disallow: */best-sellers/*c3
+Disallow: */best-sellers/*c4
+Disallow: */best-sellers/*c5
+Disallow: */best-sellers/*c6
+Disallow: */best-sellers/*c7
+Disallow: */best-sellers/*c8
+Disallow: */best-sellers/*c9
+Disallow: */best-sellers/*c10
+Disallow: */best-sellers/*c11
+Disallow: */best-sellers/*c12
+Disallow: */best-sellers/*c13
+
+#Blocking Best Sellers Junior Size Pages
+Disallow: */best-sellers/*j1
+Disallow: */best-sellers/*j2
+Disallow: */best-sellers/*j3
+Disallow: */best-sellers/*j4
+Disallow: */best-sellers/*j5
+Disallow: */best-sellers/*j6
+
+#Blocking Best Sellers Mens Size Pages
+Disallow: */best-sellers/*m4
+Disallow: */best-sellers/*m5
+Disallow: */best-sellers/*m6
+Disallow: */best-sellers/*m7
+Disallow: */best-sellers/*m8
+Disallow: */best-sellers/*m9
+Disallow: */best-sellers/*m10
+Disallow: */best-sellers/*m11
+Disallow: */best-sellers/*m12
+Disallow: */best-sellers/*m13
+Disallow: */best-sellers/*m14
+Disallow: */best-sellers/*m15
+Disallow: */best-sellers/*m16
+Disallow: */best-sellers/*m17
+Disallow: */best-sellers/*4
+Disallow: */best-sellers/*5
+Disallow: */best-sellers/*6
+Disallow: */best-sellers/*7
+Disallow: */best-sellers/*8
+Disallow: */best-sellers/*9
+Disallow: */best-sellers/*10
+Disallow: */best-sellers/*11
+Disallow: */best-sellers/*12
+Disallow: */best-sellers/*13
+Disallow: */best-sellers/*14
+Disallow: */best-sellers/*15
+Disallow: */best-sellers/*16
+Disallow: */best-sellers/*17
+
+#Blocking Best Sellers Colour Pages
+Disallow: */best-sellers/*red
+Disallow: */best-sellers/*orange
+Disallow: */best-sellers/*yellow
+Disallow: */best-sellers/*green
+Disallow: */best-sellers/*blue
+Disallow: */best-sellers/*purple
+Disallow: */best-sellers/*pink
+Disallow: */best-sellers/*brown
+Disallow: */best-sellers/*white
+Disallow: */best-sellers/*gray
+Disallow: */best-sellers/*black
+
+#Blocking New Arrivals Womens Size Pages
+Disallow: */new-arrivals/*w3
+Disallow: */new-arrivals/*w4
+Disallow: */new-arrivals/*w5
+Disallow: */new-arrivals/*w6
+Disallow: */new-arrivals/*w7
+Disallow: */new-arrivals/*w8
+Disallow: */new-arrivals/*w9
+Disallow: */new-arrivals/*w10
+Disallow: */new-arrivals/*w11
+Disallow: */new-arrivals/*w12
+
+#Blocking New Arrivals Childrens Size Pages
+Disallow: */new-arrivals/*c2
+Disallow: */new-arrivals/*c3
+Disallow: */new-arrivals/*c4
+Disallow: */new-arrivals/*c5
+Disallow: */new-arrivals/*c6
+Disallow: */new-arrivals/*c7
+Disallow: */new-arrivals/*c8
+Disallow: */new-arrivals/*c9
+Disallow: */new-arrivals/*c10
+Disallow: */new-arrivals/*c11
+Disallow: */new-arrivals/*c12
+Disallow: */new-arrivals/*c13
+
+#Blocking New Arrivals Junior Size Pages
+Disallow: */new-arrivals/*j1
+Disallow: */new-arrivals/*j2
+Disallow: */new-arrivals/*j3
+Disallow: */new-arrivals/*j4
+Disallow: */new-arrivals/*j5
+Disallow: */new-arrivals/*j6
+
+#Blocking New Arrivals Mens Size Pages
+Disallow: */new-arrivals/*m4
+Disallow: */new-arrivals/*m5
+Disallow: */new-arrivals/*m6
+Disallow: */new-arrivals/*m7
+Disallow: */new-arrivals/*m8
+Disallow: */new-arrivals/*m9
+Disallow: */new-arrivals/*m10
+Disallow: */new-arrivals/*m11
+Disallow: */new-arrivals/*m12
+Disallow: */new-arrivals/*m13
+Disallow: */new-arrivals/*m14
+Disallow: */new-arrivals/*m15
+Disallow: */new-arrivals/*m16
+Disallow: */new-arrivals/*m17
+Disallow: */new-arrivals/*4
+Disallow: */new-arrivals/*5
+Disallow: */new-arrivals/*6
+Disallow: */new-arrivals/*7
+Disallow: */new-arrivals/*8
+Disallow: */new-arrivals/*9
+Disallow: */new-arrivals/*10
+Disallow: */new-arrivals/*11
+Disallow: */new-arrivals/*12
+Disallow: */new-arrivals/*13
+Disallow: */new-arrivals/*14
+Disallow: */new-arrivals/*15
+Disallow: */new-arrivals/*16
+Disallow: */new-arrivals/*17
+
+#Blocking New Arrivals Colour Pages
+Disallow: */new-arrivals/*red
+Disallow: */new-arrivals/*orange
+Disallow: */new-arrivals/*yellow
+Disallow: */new-arrivals/*green
+Disallow: */new-arrivals/*blue
+Disallow: */new-arrivals/*purple
+Disallow: */new-arrivals/*pink
+Disallow: */new-arrivals/*brown
+Disallow: */new-arrivals/*white
+Disallow: */new-arrivals/*gray
+Disallow: */new-arrivals/*black
+
+Disallow: school/ Womens Size Pages
+Disallow: *school/*w3
+Disallow: *school/*w4
+Disallow: *school/*w5
+Disallow: *school/*w6
+Disallow: *school/*w7
+Disallow: *school/*w8
+Disallow: *school/*w9
+Disallow: *school/*w10
+Disallow: *school/*w11
+Disallow: *school/*w12
+
+Disallow: school/ Childrens Size Pages
+Disallow: *school/*c2
+Disallow: *school/*c3
+Disallow: *school/*c4
+Disallow: *school/*c5
+Disallow: *school/*c6
+Disallow: *school/*c7
+Disallow: *school/*c8
+Disallow: *school/*c9
+Disallow: *school/*c10
+Disallow: *school/*c11
+Disallow: *school/*c12
+Disallow: *school/*c13
+
+Disallow: school/ Junior Size Pages
+Disallow: *school/*j1
+Disallow: *school/*j2
+Disallow: *school/*j3
+Disallow: *school/*j4
+Disallow: *school/*j5
+Disallow: *school/*j6
+
+Disallow: school/ Mens Size Pages
+Disallow: *school/*m4
+Disallow: *school/*m5
+Disallow: *school/*m6
+Disallow: *school/*m7
+Disallow: *school/*m8
+Disallow: *school/*m9
+Disallow: *school/*m10
+Disallow: *school/*m11
+Disallow: *school/*m12
+Disallow: *school/*m13
+Disallow: *school/*m14
+Disallow: *school/*m15
+Disallow: *school/*m16
+Disallow: *school/*m17
+Disallow: *school/*4
+Disallow: *school/*5
+Disallow: *school/*6
+Disallow: *school/*7
+Disallow: *school/*8
+Disallow: *school/*9
+Disallow: *school/*10
+Disallow: *school/*11
+Disallow: *school/*12
+Disallow: *school/*13
+Disallow: *school/*14
+Disallow: *school/*15
+Disallow: *school/*16
+Disallow: *school/*17
+
+#Blocking New Arrivals Colour Pages
+Disallow: *preschool/*red
+Disallow: *preschool/*orange
+Disallow: *preschool/*yellow
+Disallow: *preschool/*green
+Disallow: *preschool/*blue
+Disallow: *preschool/*purple
+Disallow: *preschool/*pink
+Disallow: *preschool/*brown
+Disallow: *preschool/*white
+Disallow: *preschool/*gray
+Disallow: *preschool/*black
+
+#Blocking New Arrivals Womens Size Pages
+Disallow: */gift-guide/*w3
+Disallow: */gift-guide/*w4
+Disallow: */gift-guide/*w5
+Disallow: */gift-guide/*w6
+Disallow: */gift-guide/*w7
+Disallow: */gift-guide/*w8
+Disallow: */gift-guide/*w9
+Disallow: */gift-guide/*w10
+Disallow: */gift-guide/*w11
+Disallow: */gift-guide/*w12
+
+#Blocking New Arrivals Childrens Size Pages
+Disallow: */gift-guide/*c2
+Disallow: */gift-guide/*c3
+Disallow: */gift-guide/*c4
+Disallow: */gift-guide/*c5
+Disallow: */gift-guide/*c6
+Disallow: */gift-guide/*c7
+Disallow: */gift-guide/*c8
+Disallow: */gift-guide/*c9
+Disallow: */gift-guide/*c10
+Disallow: */gift-guide/*c11
+Disallow: */gift-guide/*c12
+Disallow: */gift-guide/*c13
+
+#Blocking New Arrivals Junior Size Pages
+Disallow: */gift-guide/*j1
+Disallow: */gift-guide/*j2
+Disallow: */gift-guide/*j3
+Disallow: */gift-guide/*j4
+Disallow: */gift-guide/*j5
+Disallow: */gift-guide/*j6
+
+#Blocking New Arrivals Mens Size Pages
+Disallow: */gift-guide/*m4
+Disallow: */gift-guide/*m5
+Disallow: */gift-guide/*m6
+Disallow: */gift-guide/*m7
+Disallow: */gift-guide/*m8
+Disallow: */gift-guide/*m9
+Disallow: */gift-guide/*m10
+Disallow: */gift-guide/*m11
+Disallow: */gift-guide/*m12
+Disallow: */gift-guide/*m13
+Disallow: */gift-guide/*m14
+Disallow: */gift-guide/*m15
+Disallow: */gift-guide/*m16
+Disallow: */gift-guide/*m17
+Disallow: */gift-guide/*4
+Disallow: */gift-guide/*5
+Disallow: */gift-guide/*6
+Disallow: */gift-guide/*7
+Disallow: */gift-guide/*8
+Disallow: */gift-guide/*9
+Disallow: */gift-guide/*10
+Disallow: */gift-guide/*11
+Disallow: */gift-guide/*12
+Disallow: */gift-guide/*13
+Disallow: */gift-guide/*14
+Disallow: */gift-guide/*15
+Disallow: */gift-guide/*16
+Disallow: */gift-guide/*17
+
+#Blocking New Arrivals Colour Pages
+Disallow: */gift-guide/*red
+Disallow: */gift-guide/*orange
+Disallow: */gift-guide/*yellow
+Disallow: */gift-guide/*green
+Disallow: */gift-guide/*blue
+Disallow: */gift-guide/*purple
+Disallow: */gift-guide/*pink
+Disallow: */gift-guide/*brown
+Disallow: */gift-guide/*white
+Disallow: */gift-guide/*gray
+Disallow: */gift-guide/*black
+
+#Blocking Work Shoes Womens Size Pages
+Disallow: */work-shoes/*w3
+Disallow: */work-shoes/*w4
+Disallow: */work-shoes/*w5
+Disallow: */work-shoes/*w6
+Disallow: */work-shoes/*w7
+Disallow: */work-shoes/*w8
+Disallow: */work-shoes/*w9
+Disallow: */work-shoes/*w10
+Disallow: */work-shoes/*w11
+Disallow: */work-shoes/*w12
+
+#Blocking Work Shoes Childrens Size Pages
+Disallow: */work-shoes/*c2
+Disallow: */work-shoes/*c3
+Disallow: */work-shoes/*c4
+Disallow: */work-shoes/*c5
+Disallow: */work-shoes/*c6
+Disallow: */work-shoes/*c7
+Disallow: */work-shoes/*c8
+Disallow: */work-shoes/*c9
+Disallow: */work-shoes/*c10
+Disallow: */work-shoes/*c11
+Disallow: */work-shoes/*c12
+Disallow: */work-shoes/*c13
+
+#Blocking Work Shoes Junior Size Pages
+Disallow: */work-shoes/*j1
+Disallow: */work-shoes/*j2
+Disallow: */work-shoes/*j3
+Disallow: */work-shoes/*j4
+Disallow: */work-shoes/*j5
+Disallow: */work-shoes/*j6
+
+#Blocking Work Shoes Mens Size Pages
+Disallow: */work-shoes/*m4
+Disallow: */work-shoes/*m5
+Disallow: */work-shoes/*m6
+Disallow: */work-shoes/*m7
+Disallow: */work-shoes/*m8
+Disallow: */work-shoes/*m9
+Disallow: */work-shoes/*m10
+Disallow: */work-shoes/*m11
+Disallow: */work-shoes/*m12
+Disallow: */work-shoes/*m13
+Disallow: */work-shoes/*m14
+Disallow: */work-shoes/*m15
+Disallow: */work-shoes/*m16
+Disallow: */work-shoes/*m17
+Disallow: */work-shoes/*4
+Disallow: */work-shoes/*5
+Disallow: */work-shoes/*6
+Disallow: */work-shoes/*7
+Disallow: */work-shoes/*8
+Disallow: */work-shoes/*9
+Disallow: */work-shoes/*10
+Disallow: */work-shoes/*11
+Disallow: */work-shoes/*12
+Disallow: */work-shoes/*13
+Disallow: */work-shoes/*14
+Disallow: */work-shoes/*15
+Disallow: */work-shoes/*16
+Disallow: */work-shoes/*17
+
+#Blocking Work Shoes Colour Pages
+Disallow: */work-shoes/*red
+Disallow: */work-shoes/*orange
+Disallow: */work-shoes/*yellow
+Disallow: */work-shoes/*green
+Disallow: */work-shoes/*blue
+Disallow: */work-shoes/*purple
+Disallow: */work-shoes/*pink
+Disallow: */work-shoes/*brown
+Disallow: */work-shoes/*white
+Disallow: */work-shoes/*gray
+Disallow: */work-shoes/*black

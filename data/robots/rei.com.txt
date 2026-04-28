@@ -1,0 +1,74 @@
+# Robots.txt file for REI.com powered by Atlas
+# If you are passionate about the outdoors and technology, then please visit https://rei.jobs!
+
+# Sitemaps
+Sitemap: https://www.rei.com/sitemap.xml
+
+# Disallow
+User-agent: *
+Disallow: /AddItemToCart*
+Disallow: /AddSessionToCart*
+Disallow: /adventures/*departure=*
+Disallow: /adventures/*sort=*
+Disallow: /adventures/rs/trips/*
+Disallow: /adventures/search/keyword*
+Disallow: /authentication/*
+Disallow: /autosuggest/*
+Disallow: /b/*q%3D=*
+Disallow: /b/*q=*
+Disallow: /b/*r=*
+Disallow: /backOrderController*
+Disallow: /blog/?s=*
+Disallow: /blog/staff-login
+Disallow: /c/*q=*
+Disallow: /c/*q%3D=*
+Disallow: /c/*r=*
+Disallow: /checkout*
+Disallow: /content/dam/*
+Disallow: /content/rei/*
+Disallow: /customer-analytics-attributes/rs/customer/visitors*
+Disallow: /event-cart*
+Disallow: /event-reg*
+Disallow: /events/search*
+Disallow: /learn/*q=*
+Disallow: /learn/*q%3D=*
+Disallow: /learn/search.html*
+Disallow: /newsroom/search*
+Disallow: /OrderTracking*
+Disallow: /RegistrationView*
+Disallow: /rest/cart*
+Disallow: /rest/client-context*
+Disallow: /rest/log*
+Disallow: /rest/user*
+Disallow: /s/*q=*
+Disallow: /s/*q%3D=*
+Disallow: /search*
+Disallow: /ShoppingCart*
+Disallow: /stores/async*
+
+
+# Allow
+Allow: /content/dam/*.gif
+Allow: /content/dam/*.jpg
+Allow: /content/dam/*.png
+Allow: /content/rei/*.gif
+Allow: /content/rei/*.jpg
+Allow: /content/rei/*.png
+Allow: /neo-product/*.css
+Allow: /neo-product/*.js
+Allow: /search-ui/*
+
+User-agent: AdsBot-Google
+Disallow: /adventures/rs/trips/*
+Disallow: /autosuggest/*
+Disallow: /neo-product*
+Disallow: /rest/cart*
+Disallow: /rest/client-context*
+Disallow: /rest/user*
+Disallow: /customer-analytics-attributes/rs/customer/visitors*
+
+User-agent: deepcrawl
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /rest/user*

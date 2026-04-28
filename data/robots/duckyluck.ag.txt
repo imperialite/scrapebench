@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /aff/
+Disallow: /ref/
+Disallow: /auth/
+Disallow: /static/
+Sitemap: https://www.duckyluck.ag/media/sitemap/duckyluck.ag.xml

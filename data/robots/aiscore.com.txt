@@ -1,0 +1,68 @@
+User-agent: *
+Disallow: /user
+Disallow: /match-*/*/standings$
+Disallow: /aa/20*
+Disallow: /aze/20*
+Disallow: /bg/20*
+Disallow: /br/20*
+Disallow: /bs/20*
+Disallow: /ch/20*
+Disallow: /cs/20*
+Disallow: /da/20*
+Disallow: /de/20*
+Disallow: /el/20*
+Disallow: /20*
+Disallow: /es/20*
+Disallow: /et/20*
+Disallow: /fi/20*
+Disallow: /fr/20*
+Disallow: /hr/20*
+Disallow: /hu/20*
+Disallow: /id/20*
+Disallow: /it/20*
+Disallow: /ja/20*
+Disallow: /ka/20*
+Disallow: /km/20*
+Disallow: /ko/20*
+Disallow: /lt/20*
+Disallow: /lv/20*
+Disallow: /mk/20*
+Disallow: /mm/20*
+Disallow: /nl/20*
+Disallow: /nn/20*
+Disallow: /pl/20*
+Disallow: /pt/20*
+Disallow: /ro/20*
+Disallow: /ru/20*
+Disallow: /sk/20*
+Disallow: /sl/20*
+Disallow: /sqi/20*
+Disallow: /sr/20*
+Disallow: /srl/20*
+Disallow: /sv/20*
+Disallow: /th/20*
+Disallow: /tr/20*
+Disallow: /ukr/20*
+Disallow: /vi/20*
+Disallow: /zht/20*
+
+User-agent: YandexBot
+Crawl-delay: 100
+Disallow: /user
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+Sitemap: https://www.aiscore.com/sitemap/matches.xml
+Sitemap: https://www.aiscore.com/sitemap/tennismatches.xml
+Sitemap: https://www.aiscore.com/sitemap/prediction_sitemap/prediction_sitemap_en.xml
+Sitemap: https://www.aiscore.com/sitemap/h2h_sitemap/h2h_sitemap.xml

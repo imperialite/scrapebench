@@ -1,0 +1,116 @@
+# Kompas.com content is made available for your personal, non-commercial
+# use subject to our Terms of Service here:
+# https://inside.kompas.com/term-of-use.
+# Use of any device, tool, or process designed to data mine or scrape the content
+# using automated means is prohibited without prior written permission from
+# PT. Kompas Cyber Media.  Prohibited uses include but are not limited to:
+# (1) text and data mining activities;
+# (2) the development of any software, machine learning, artificial intelligence (AI),
+# and/or large language models (LLMs);
+# (3) creating or providing archived or cached data sets containing our content to others; and/or
+# (4) any commercial purposes.
+# Contact https://inside.kompas.com/about-us#meet for assistance.
+
+# ===== GOOGLE & SEARCH BOTS =====
+User-agent: *
+Disallow: /search/
+Disallow: /komentar/
+Disallow: /copy/
+Disallow: /*?jxrecoid=*
+Disallow: /*?utm_source=*
+
+# ===== X Image Crawl =====
+User-agent: Twitterbot
+Allow: /
+
+User-agent: Twitterbot/1.0
+Allow: /
+
+User-agent: Xbot
+Allow: /
+
+User-agent: X-Twitter-Image-Crawler
+Allow: /
+
+Sitemap: https://www.kompas.com/sitemap.xml
+
+# ---------------------------------------------
+# AI TRAINING BOTS Block All
+# ---------------------------------------------
+User-agent: Amazonbot
+User-agent: GPTBot
+User-agent: OpenAI
+User-agent: ChatGPT-User
+User-agent: CCBot
+User-agent: anthropic-ai
+User-agent: Claude-Web
+User-Agent: PerplexityBot
+User-agent: Applebot-Extended
+User-agent: AudigentAdBot
+User-agent: AwarioRssBot
+User-agent: AwarioSmartBot
+User-agent: BLEXBot
+User-agent: Bytespider
+User-agent: ClaudeBot
+User-agent: cohere-ai
+User-agent: DataForSeoBot
+User-agent: Diffbot
+User-agent: DuckAssistBot
+User-agent: EchoboxBot
+User-agent: FacebookBot
+User-agent: FriendlyCrawler
+User-agent: ImagesiftBot
+User-agent: Jetslide
+User-agent: magpie-crawler
+User-agent: Meta-ExternalAgent
+User-agent: meta-externalagent
+User-agent: Meta-ExternalFetcher
+User-agent: meta-externalfetcher
+User-agent: Meta-WebIndexer
+User-agent: MistralAI-User
+User-agent: MyCentralAIScraperBot
+User-agent: NewsNow
+User-agent: news-please
+User-agent: OAI-SearchBot
+User-agent: omgili
+User-agent: omgilibot
+User-agent: peer39_crawler
+User-agent: peer39_crawler/1.0
+User-agent: Poseidon Research Crawler
+User-agent: quillbot.com
+User-agent: Quora-Bot
+User-agent: Scrapy
+User-agent: SeekrBot
+User-agent: SeznamHomepageCrawler
+User-agent: TaraGroup Intelligent Bot
+User-agent: Timpibot
+User-agent: TurnitinBot
+User-agent: ViennaTinyBot
+User-agent: YouBot
+User-agent: newspaper
+User-agent: Perplexity-User
+User-agent: docomo
+User-agent: yisouspider
+User-agent: trendictionbot
+User-agent: tin_eye
+User-agent: metaexternalagent
+User-agent: chatgpt_user
+User-agent: meta-externalagent
+User-agent: Claude-User
+User-agent: Claude-SearchBot
+User-agent: ias-va
+User-agent: ias-or
+User-agent: ias-ir
+User-agent: ias-jp
+User-agent: ias-sg
+User-agent: ias-au
+User-agent: ias_crawler
+User-agent: admantx
+User-agent: Webz.io
+User-agent: ICC-Crawler
+User-agent: you.com.
+User-agent: ChatGPT’s agent Operator.
+User-agent: Bing’s Copilot chat.
+User-agent: Grok.
+
+Disallow: /

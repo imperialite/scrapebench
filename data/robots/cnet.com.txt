@@ -1,0 +1,181 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+#
+
+# Ziff Davis content is made available for your non-commercial use subject to our
+# Terms of Use here: https://www.ziffdavis.com/terms-of-use
+# Use of any robot, crawler, or other tool to scrape, harvest, extract, or retrieve any content on
+# this website using automated means is prohibited without written permission from Ziff Davis.
+# Prohibited uses include but are not limited to:
+# (1) text and data mining under Art. 4 of the EU Directive on Copyright in the Digital Single
+# Market;
+# (2) development or operation of artificial intelligence or machine learning software or
+# databases, including by training, fine-tuning, embedding, and retrieval-augmented generation;
+# (3) creating data sets containing our content or sharing it with others; and
+# (4) any commercial purposes.
+# Contact licensing@ziffdavis.com for assistance.
+
+User-agent: *
+
+Disallow: */*max-price=*
+Disallow: */*min-price=*
+Disallow: */Xhr*
+Disallow: */account-information/*
+Disallow: */ad/ad-cookie/*
+Disallow: */ajax/
+Disallow: */alert/*
+Disallow: */cnet_global_app_redirect.xml
+Disallow: */component/*
+Disallow: */edit/
+Disallow: */edit/change-email/*
+Disallow: */edit/change-password/*
+Disallow: */email/editor/*
+Disallow: */email/member/*
+Disallow: */email/newsletter/*
+Disallow: */error/*
+Disallow: */ext/make/ingest/*
+Disallow: */feature/*
+Disallow: */finder/*/*/?*filter=*_*_*_*_*
+Disallow: */finder/*/?*filter=*_*_*_*_*
+Disallow: */forums/*
+Disallow: */g00/*
+Disallow: */informacion-de-mi-cuenta/*
+Disallow: */members/*
+Disallow: */products/*?*filter=*
+Disallow: */roadshow/finder/*
+Disallow: */search/*
+Disallow: */user/*
+Disallow: */videos/manifest/*
+Disallow: */videos/secure/*
+Disallow: */videos/selector/*
+Disallow: */wrap-function*
+Disallow: */wrap-xhr*
+Disallow: */xhr*
+Disallow: *?sort=popularity*
+Disallow: *?sort=price*
+Disallow: *?sort=user-rating*
+Disallow: *hub-preview-version=*
+Disallow: /.well-known/*
+Disallow: /api/editionurlgenerator/
+Disallow: /apple-news/*
+Disallow: /au/*
+Disallow: /es/*
+Disallow: /html/story/*
+Disallow: /index.php/*
+Disallow: /products/*
+Disallow: /uk/*
+
+# Ziff Davis bot list
+User-agent: AddSearchBot
+User-agent: AI2Bot
+User-Agent: Ai2Bot-DeepResearchEval
+User-agent: Ai2Bot-Dolma
+User-agent: Amazonbot
+User-agent: AmazonBuyForMe
+User-Agent: Anchor Browser
+User-agent: anthropic-ai
+User-agent: Applebot
+User-agent: Applebot-extended
+User-Agent: atlassian-bot
+User-Agent: AutoRAG
+User-agent: AwarioSmartBot
+User-Agent: Big Sur AI
+User-agent: bigsur.ai
+User-Agent: Brandwatch
+User-Agent: Bravebot
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: Channel3Bot
+User-agent: ChatGLM-Spider
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: Claude-Web
+User-agent: ClaudeBot
+User-agent: ClaudeBot
+User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
+User-agent: Cotoyogi
+User-agent: Crawl4AI
+User-agent: Datenbank Crawler
+User-agent: DeepSeekBot
+User-agent: Devin
+User-agent: Diffbot
+User-Agent: Direqt Anomura
+User-agent: DuckAssistBot
+User-Agent: Echobot Bot
+User-agent: FacebookBot
+User-Agent: Factset_spyderbot
+User-agent: GPTBot
+User-agent: iAsk
+User-agent: iaskspider
+User-Agent: ICC Crawler
+User-agent: ICC-Crawler
+User-agent: ImageSiftBot
+User-agent: imageSpider
+User-agent: Kangaroo Bot
+User-Agent: KlaviyoAIBot
+User-agent: Kunato
+User-agent: laion-huggingface-processor
+User-agent: LCC
+User-Agent: LINER Bot
+User-agent: LinerBot
+User-agent: LinkupBot
+User-agent: Manus-User
+User-agent: meta-externalagent
+User-agent: meta-externalfetcher
+User-Agent: meta-webindexer
+User-agent: mistral.ai
+User-agent: MistralAI-User
+User-agent: netEstate Imprint Crawler
+User-agent: NovaAct
+User-Agent: Novellum AI Crawl
+User-agent: OAI-SearchBot
+User-agent: omgili
+User-agent: PanguBot
+User-agent: PeopleInc-DCipher-Scraper/1.1.0
+User-agent: Perplexity-User
+User-agent: PerplexityBot
+User-agent: PetalBot
+User-agent: Poggio-Citations
+User-agent: QualifiedBot
+User-agent: SBIntuitionsBot
+User-agent: SeekrBot
+User-Agent: SemrushBot-OCOB
+User-Agent: SemrushBotSwa
+User-Agent: ShapBot
+User-agent: Spider
+User-agent: TavilyBot
+User-agent: Timpibot
+User-agent: TwinAgent
+User-agent: Velen Crawler
+User-Agent: VelenPublicWebCrawler
+User-agent: Webzio-Extended
+User-agent: Wrtn
+User-agent: YouBot
+User-agent: ZanistaBot
+#CNET bot list
+User-agent: "008"
+User-agent: AwarioRssBot
+User-agent: DDM-DCipher/1.0.7
+User-agent: HTTrack
+User-agent: Magpie-crawler
+User-agent: Nutch
+User-agent: Offline Explorer
+User-agent: Omgilibot
+User-agent: Peer39_crawler/1.0
+User-agent: Scrapy
+
+Allow: /paid-content/news/how-galaxy-ai-camera-tools-help-you-take-better-photos-automatically-on-the-s25/
+Allow: /paid-content/news/how-samsungs-galaxy-ai-boosts-gaming-performance/
+Disallow: /
+
+Sitemap: https://www.cnet.com/sitemaps/article/index.xml
+Sitemap: https://www.cnet.com/sitemaps/best.xml
+Sitemap: https://www.cnet.com/sitemaps/gallery/index.xml
+Sitemap: https://www.cnet.com/sitemaps/how-to/index.xml
+Sitemap: https://www.cnet.com/sitemaps/news.xml
+Sitemap: https://www.cnet.com/sitemaps/review/index.xml
+Sitemap: https://www.cnet.com/sitemaps/static.xml
+Sitemap: https://www.cnet.com/sitemaps/updating_story/index.xml
+Sitemap: https://www.cnet.com/sitemaps/video/index.xml

@@ -1,0 +1,202 @@
+User Agreement | Top Hat
+Updated as of July 23, 2025
+USER AGREEMENT
+Updated as of July 23, 2025
+This User Agreement (the “
+Agreement
+”) between Top Hat (defined below) and you governs your use of the Products (defined below).
+If you are an Institution User (defined below) and your Institution has negotiated an Institution-specific version of this Agreement, your use of the Products shall be governed by such Institution-specific version of this Agreement; please contact your Institution for a copy of your Institution-specific version of this Agreement. Top Hat’s Privacy Policy (located at
+https://tophat.com/company/legal/privacy-policy/
+) (“
+Privacy Policy
+”) explains the way Top Hat collects and uses your Personal Information (defined in the Privacy Policy).
+Please read the Agreement and the Privacy Policy carefully.
+If you do not agree to be bound by the User Agreement, or you do not wish for Top Hat to process your Personal Information, please do not create a User Account or access or use the Products.
+Top Hat reserves the right to make changes, with or without providing prior notice to you and at any time and from time to time, to (a) the Products, (b) the License Fees (defined below), and/or (c) this Agreement and the Privacy Policy. In the event that you do not agree with any such changes your only remedy shall be to stop using the Products.  Your continued use of the Products constitutes your acceptance of such changes.
+1. Definitions
+: Any capitalized terms not otherwise defined in this Agreement shall have the meanings attributed to them in the Privacy Policy.
+1.1.
+“
+Applicable Law
+” means the law of the state or province in which your Institution is located.
+1.2.
+“
+Content
+” means the interactive educational content (a) either (i) owned by Top Hat under the Top Hat brands, including without limitation Top Hat and Aktiv, or (ii) licensed to Top Hat by a third-party content partner, an Institution User, or an Institution (collectively, “
+Third-Party Content
+”), and (b) made available to Users on the Platform or as printed material.
+1.3.
+“
+Content License
+” means the license granted to you by Top Hat to access and use Content.
+1.4.
+“
+Institution
+” means the educational institution: (a) where you are enrolled as a student on a full- or part-time basis; (b) where you are employed on a full- or part-time basis; or (c) for which you work as a contractor.
+1.5.
+“
+Institution User
+” means a User who is an employee or contractor of an Institution (including, but not limited to, professors, lecturers, teaching assistants, and academic administrators).
+1.6.
+“
+License
+” means a Platform License and, if you have purchased Content, a Content License.
+1.7.
+“
+License Fees
+” means the fees: (a) you pay directly to Top Hat for a License, as disclosed to you when you create your User Account; (b) you pay for a bookstore access key, which will allow you to access the Products after you create your User Account; or (c) your Institution pays on your behalf for a License.
+1.8.
+“
+License Term
+” means the term for which you are granted a License, either (a) as disclosed to you when you create your User Account, or (b) as set forth in the Order Form executed by your Institution when it purchased the License.
+1.9.
+“
+Malicious Code
+” means (a) any code, program, or sub-program the knowing or intended purpose or effect of which is to damage or maliciously interfere with the operation of a computer system containing the code, program, or sub-program, or to halt, disable, or interfere with the operation of the software, code, program, or sub-program, itself, or (b) any device, method, or token that permits any person to circumvent without authorization the normal security of any software or system containing the code.
+1.10.
+“
+Other User Content
+” means any content uploaded, posted, transmitted, or displayed in the Products by any User other than you.
+1.11.
+“
+Payment Processor
+” means
+Stripe (https://stripe.com).
+1.12.
+“
+Platform
+” means the student-engagement and interactive-instruction platforms (whether the desktop or mobile version) offered by Top Hat under the Top Hat bands, including without limitation Top Hat and Aktiv.
+1.13.
+“
+Platform
+License
+” means the license granted to you by Top Hat to use the Platform.
+1.14.
+“
+Products”
+means the Platform and, if you have purchased a Content License, Content,
+as well as any websites (including
+https://tophat.com
+), mobile applications or other Content or digital properties owned and operated by Top Hat that direct to this User Agreement and/or our Privacy Policy
+.
+1.15.
+“
+Student User
+” means a User who is a student enrolled at an Institution.
+1.16.
+“
+Top Hat
+”
+means: (a) Tophatmonocle (US) Corp., a Delaware corporation, for Users located in the United States of America (doing business as Aktiv); (b) Top Hat (AUS) Pty Ltd., an Australian corporation, for Users located in Australia or New Zealand; and (c) Tophatmonocle Corp., a Canadian corporation, for Users located outside of the United States of America, Australia, or New Zealand.
+1.17.
+“
+User
+” means any individual who creates a User Account.
+1.18.
+“
+User Account
+” means the account each User is required to create in order to access and use the Products.
+1.19.
+“
+User Content
+” means any content you upload, post, transmit, or display in the Products.
+2. User Account
+: In order to access and use the Products, you are required to create a User Account with Top Hat.   In creating a User Account, you shall: (a) provide current, complete, and accurate information to Top Hat, and promptly update Top Hat if such information changes during the License Term by visiting
+https://app.tophat.com/accounts/personal_information/
+; (b) not choose a username that violates applicable law, infringes on the intellectual property rights of a third party, or is offensive. Top Hat reserves the right to reject any username in its sole and absolute discretion; and (c) not transfer, sell, convey, or assign the right to use your User Account to any third party. You agree that you: (v) are wholly responsible for the conduct of any third party who accesses your User Account and uses the Products; (w) are responsible for any security breach of the security of the Products related to the use of your username and/or password; (x) shall not have more than one User Account at any given time; and (y) shall not create a User Account or use the Products if Top Hat has previously banned you from using the Products; and (z) shall not create a User Account or use the Products if you are a competitor and/or in order to (i) reverse engineer the Products, and (ii) conduct any comparisons or competitive analysis of the Products.
+3. License and Support
+: Upon creation of your User Account, Top Hat grants you the limited, revocable, non-transferable, and non-exclusive right to access and use (a) the Platform for the License Term, and (b) the Content for your lifetime, subject to Section 5(b) hereof.  Top Hat has the right to suspend or terminate your License at any time if you breach any of the representations and warranties in Section 6 below or the obligations in Section 7 below.  Top Hat shall provide you with the following technical support services during the License Term: (a) phone, chat, and email support services between 9am-9pm ET, Monday through Friday; and (b) a support website (
+https://tophat.com/support/
+) that includes troubleshooting articles, product release notes, and onboarding articles.
+4. Fees
+:  When you create your User Account, you will be able to use the Products for a 14-day free trial period (“
+Free Trial Period
+”).  You have the right to cancel your License at any time (a) during the Free Trial Period, or (b) during the two weeks following the payment of the License Fee (the “
+Refund Period
+”) by following the
+Refund Process
+; if you are canceling a Content License during the Free Trial Period or Refund Period, you must also deregister from the course that required your purchase of Content.  If you cancel your License, all records (including grades) associated with your License will be permanently deleted.   At the end of the Free Trial Period, you will be required to log into your User Account and pay for your License with a valid credit card directly through Top Hat or through the purchase of a bookstore access key; if you fail to do so, Top Hat reserves the right to cancel your License. Following the Refund Period, you shall not be entitled to a refund of any License Fee you have paid. If you are a Student User and your Institution has purchased a License on your behalf, you will not be required to pay a License Fee.  The License Fee is exclusive of all sales, excise or use taxes, or any levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes, levies, or duties.
+4.1.
+Payments.
+Top Hat only provides the Payment Processor with an identifier to link your payment to your User Account. Top Hat does not provide the Payment Processor with Personal Information and only provides billing information required to process your payment and minimize fraudulent payment risk.
+4.2.
+You acknowledge and agree that Top Hat makes no representation, warranty, covenant, or claim regarding, and Top Hat expressly disclaims and denies any responsibility or liability for, directly or indirectly, the privacy practices in regard to any Personal Information you provide to the Payment Processor directly or any other party in relation to purchasing the Products.
+4.3.
+You acknowledge and agree that our terms and policies do not govern any other party. You acknowledge our recommendation to review the applicable privacy and data gathering practices of any third party to which you provide Personal Information.
+4.4.
+You acknowledge and agree that in the event you initiate a credit card dispute for the License Fees that is approved by your financial institution, Top Hat reserves the right, in its sole and absolute discretion, to immediately and permanently, and without notice to you, (a) delete your User Account, all associated User Content, Personal Information, and (b) remove your access from the Products.
+5. User Acknowledgments
+: You acknowledge that your use of the Products is subject to the following notices and limitations: (a) Top Hat does not review, assess, or verify Content except for Content owned by Top Hat; (b) Top Hat does not guarantee the continuing availability of any Licensed Content and reserves the right to remove any Licensed Content for potential infringement of the intellectual property rights of a third party; (c)
+while Top Hat endeavors to ensure that the Products are normally available 24 hours a day, Top Hat is not be liable if for any reason the Products (or any part) are unavailable at any time or for any period; (d) your access to the Products may be suspended temporarily and without notice in the case of system failure, maintenance, or repair or for reasons beyond Top Hat’s control; (e)
+Top Hat may, in its sole and absolute discretion, include artificial intelligence – or machine learning-powered functionality – (“
+AI Functionality
+”) in the Products at any time and from time to time
+; you acknowledge and agree that Top Hat does not guarantee the continued availability of such AI Functionality, and that any content generated through such AI Functionality
+may not accurately reflect real people, places, or facts and you should evaluate the accuracy of any such content
+; (f) Top Hat may at any time and from time to time incorporate functionality licensed from a third party (“
+Product Partner
+”) into the Products (“
+Third-Party Functionality
+”); you acknowledge and agree that your access to and use of Third-Party Functionality may be subject to additional terms and conditions and Top Hat shall not be liable for such Third-Party Functionality; (g) Top Hat is not responsible for any
+links to third-party sites and materials contained in Third-Party Content and has no liability for any loss or damage that may arise if you access such links; (h) an Institution User may remove User Content at any time from the Platform; and (i) you may be exposed to Content and Other User Content that you consider inaccurate, offensive, indecent, or objectionable and you hereby waive any legal equitable rights or remedies you have or may have against Top Hat with respect to such Content and Other User Content.
+6. User Representations and Warranties
+: You represent and warrant that: (a) you are at least 18 years of age and you have the legal authority to enter into this Agreement and use the Products; (b) if the Student User is at least 13, but less than 18, years of age you are the Student User’s parent or Legal guardian with the authority to enter into this Agreement and the Privacy Policy and provide Personal Information related to the Student User on behalf of such Student User; (c) if you are an Institution User, you have the appropriate permissions and authority from Institution to enter into this Agreement and use the Products; (d) you are not an employee, contractor, or representative of a Top Hat competitor; and (e) Top Hat has not previously banned you from using the Products. The Products are not meant for users under the age of 13 years of age.
+7. User Obligations
+: In connection with your use of the Products, you agree not to: (a) violate applicable law or commit fraud; (b) harm, abuse, harass, threaten, impersonate, intimidate, or otherwise behave inappropriately with another User or third party; (c) send spam or otherwise duplicative or unsolicited messages; (d) send, knowingly receive, upload, download, use or re-use, or store any User Content (defined below) that infringes on the intellectual property or privacy rights of a third party or is threatening, libelous, defamatory, discriminatory, pornographic, sexually explicit, abusive, offensive, hateful, violent, or otherwise unlawful or tortious, including material that is harmful to children; (e) send or store Malicious Code; (f) interfere with or disrupt the integrity or performance of the Products or the data contained therein; (g) inquire about, engage in, or aid or assist anyone with any form of academic dishonesty or violations of academic integrity policies or other conduct policies your Institution, including without limitation completing assignments or projects, writing papers or essays, or taking (or helping take) quizzes or examinations on someone’s behalf; (h) modify, translate, reverse engineer, decompile, disassemble, or create derivative works based on the Products except as expressly permitted by applicable law; (i) circumvent any user limits or other timing or use restrictions that are built into the Products; (j) remove any proprietary or copyright notices, labels, or marks from the Products, including without limitation Licensed Content; (k) frame or mirror any content forming part of the Products; (l) access the Products in order to (i) build a competitive product or service, (ii) monitor availability, performance, or functionality of the Products for any benchmarking or competitive purposes, or (iii) copy any ideas, features, functions or graphics of the Products; (m) use all or any portion of the Products for hazardous purposes requiring fail-safe performance, such as aircraft navigation, air traffic control, or weapons systems, in which the failure of the Products could lead directly to death, personal injury, or severe physical or environmental damage; (n) post Licensed Content or answers to any homework or test questions related to the Licensed Content to newsgroups, mail lists, electronic bulletin boards, homework sites, content aggregators, file storage services, or any other on-line location; (o) engage in the use, copying, reproduction, or distribution of any of the Licensed Content or any portion thereof (including for any commercial purposes) other than expressly permitted herein; (p) attempt to circumvent, disable, or otherwise interfere with security-related features or restrictions built into the Products and Platform to prevent any unauthorized uses of the Licensed Content; (q) include any (i) of your or another party’s Personal Information in the User Content or (ii) images of minors and/or vulnerable adults; and (r) not permit any third party to use your username and password to access your User Account or the Products.  If you have reason to believe any Licensed Content potentially infringes any copyright or other intellectual property right of a third party, you shall notify Top Hat pursuant to the
+Copyright Policy
+.  You acknowledge and agree that Top Hat may: (x) report any breach of this Agreement to your Institution; (y)
+take appropriate legal action, including, without limitation, referral to law enforcement or regulatory authority, or notifying the harmed party of any illegal or unauthorized use of the Products, including threats of harm to yourself or another party; and (z) fully cooperate with any law enforcement authorities or court order requesting or directing Top Hat to disclose the identity or other information of any User posting User Content or using the Products.
+8. User Content
+. Top Hat does not monitor User Content or Other User Content.  If you believe any Other User Content is defamatory, breaches the Agreement, or infringes your or a third-party’s  intellectual property rights, please contact us at legal@tophat.com.  Top Hat reserves the right to remove any User Content or Other User Content that it believes, in its sole and absolute discretion, does not comply with this Agreement or violates any third- party intellectual property right.  You hereby consent to the removal of the User Content and waive any claim against Top Hat in connection with such removal.
+9. Intellectual Property Rights
+:
+9.1.
+You retain all ownership rights, including any intellectual property rights, in the User Content.  You acknowledge and agree that Top Hat has no obligation to protect or enforce such rights on your behalf.  By uploading, posting, transmitting, or displaying User Content in the Products, you grant Top Hat, its affiliates, and any Product Partner a non-exclusive, perpetual, and royalty-free license to (a) use, reproduce, modify, publish, distribute, perform, display, and transmit the User Content for the sole purpose of providing the Products to you, including without limitation inputting User Content into a third-party generative AI platform, and (b) use anonymized User Content both during and after the License Term to optimize the Products and for any other lawful purpose, subject to the Privacy Policy.
+9.2.
+Top Hat retains ownership rights, including all intellectual property rights, in the Platform and the Licensed Content it owns.  Top Hat retains the licensing rights in Third-Party Functionality and Third-Party Content.
+9.3.
+Nothing in this Agreement gives you a right to use any of Top Hat’s or any Product Partner’s trade names, trademarks, service marks, logos, domain names, and other distinctive brand features.
+9.4.
+You hereby grant Top Hat a royalty-free, worldwide, irrevocable, perpetual license to use, copy, modify and incorporate into the Products any suggestions, enhancement requests, recommendations, or other feedback you provide relating to the Products.
+9.5.
+If Top Hat becomes aware of an actual or potential claim that the Products violate a third party’s intellectual property rights, Top Hat may do any of the following in its sole and absolute discretion: (i) procure for you the right to continue to use the Products; (ii) replace or modify the Products with equivalent or better functionality so that your use is no longer infringing; or (iii) if (i) or (ii) are not commercially reasonable, terminate provision of the Products and refund to you any Fees for any periods after the termination of the Products.
+10. Suspension
+or Termination.
+You acknowledge and agree that Top Hat may, at its sole and absolute discretion, suspend or terminate your User Account and access to the Products with or without notice and for any reason, including, without limitation, breach of this Agreement. Upon suspension or termination, your right to use the Products will immediately cease, and we reserve the right to remove or delete any User Content.
+11. Personal Information
+.
+Top Hat’s access to and use of your Personal Information is governed by Top Hat’s Privacy Policy, which is available
+here
+. We recommend you read the Privacy Policy closely, to understand our data collection and use practices, as well as your choices and rights in relation to your Personal Information.
+12. Data Storage.
+Any User Content is subject to any data storage limit Top Hat notifies you of from time to time. Top Hat reserves the right to charge for data storage that exceeds any data storage limit.
+13. Linking to Top Hat Website.
+If you are an Institution User, you may link to any Top Hat website, provided you do so in a way that is fair and legal and does not damage Top Hat’s reputation.
+14. Disclaimers
+and Limitations of Liability
+:
+14.1. ACCESS TO AND ACCURACY OF THE PRODUCTS
+. YOUR USE OF THE PRODUCTS IS AT YOUR OWN RISK. NEITHER TOP HAT, PROVIDERS OF THIRD-PARTY CONTENT, NOR PRODUCT PARTNERS, NOR THEIR OFFICERS, DIRECTORS, EMPLOYEES, AFFILIATES, OR AGENTS (COLLECTIVELY, “
+DISCLAIMING PARTIES
+”) WARRANT THAT THE USE OF THE PRODUCTS WILL BE UNINTERRUPTED OR ERROR-FREE, APPROPRIATE OR AVAILABLE FOR USE IN ANY PARTICULAR JURISDICTION; NOR DO THEY MAKE ANY WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE PRODUCTS OR AS TO THE ACCURACY, RELIABILITY OR SUITABILITY OF ANY PRODUCTS, INCLUDING ANY ADVICE OR INFORMATION PROVIDED BY OTHER USERS. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM TOP HAT OR THROUGH OR FROM USE OF THE PRODUCTS SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THIS AGREEMENT.
+14.2. DISCLAIMERS.
+THE PRODUCTS ARE PROVIDED ON AN “AS IS,” “AS AVAILABLE” BASIS WITHOUT REPRESENTATIONS OR WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR AUDIENCE OR JURISDICTION, AND NON-INFRINGEMENT. SUBJECT TO APPLICABLE LAW, IN NO EVENT WILL ANY DISCLAIMING PARTY BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INCIDENTAL, INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES (EVEN IF TOP HAT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), ARISING OUT OF YOUR USE OF OR INABILITY TO ACCESS AND USE THE PRODUCTS, INCLUDING WITHOUT LIMITATION, LOSS OF REVENUE OR ANTICIPATED PROFITS, LOSS OF GOODWILL, LOST BUSINESS, LOST DATA, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER DAMAGES OR LOSSES THAT RESULT FROM MISTAKES, OMISSIONS, INTERRUPTIONS, DELETIONS OF FILES, ERRORS, DEFECTS, VIRUSES, DELAYS IN OPERATION OR TRANSMISSION, OR ANY FAILURE OF PERFORMANCE, WHETHER OR NOT LIMITED TO ACTS OF GOD, COMMUNICATIONS FAILURE, THEFT, DESTRUCTION, OR UNAUTHORIZED ACCESS TO TOP HAT’S RECORDS, PROGRAMS, SERVICES OR SYSTEMS. WITHOUT LIMITING THE FOREGOING OR ANYTHING ELSE HEREIN CONTAINED, IN NO EVENT WILL ANY DISCLAIMING PARTY BE LIABLE TO YOU FOR ANY DAMAGES, COSTS, CLAIMS OR OTHER LIABILITIES RELATED TO OR ARISING OUT OF THIS AGREEMENT, WHETHER IN CONTRACT, NEGLIGENCE OR TORT, IN EXCESS OF THE TOTAL FEES PAID BY YOU FOR THE RIGHT TO ACCESS AND USE THE PRODUCTS DURING THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT OR ACT GIVING RISE TO THE CAUSE OF ACTION.
+15. Indemnification
+: To the extent permitted by Applicable Law, you agree to indemnify and hold Top Hat and its subsidiaries, affiliates, officers, agents, and employees (collectively, “
+Indemnified Parties
+”) harmless from all claims, actions, proceedings, demands, damages, losses, costs, and expenses (including reasonable attorneys’ fees) incurred in connection with (a) any breach by you of this Agreement or the Privacy Policy, (b) your use of the Products, and (c) any User Content.
+16. Law enforcement
+: You waive and hold harmless the Indemnified Parties from any and all claims resulting from any action taken by any Indemnified Party relating to any investigations by law enforcement.
+17. Notices
+: All notices given by you to Top Hat must be emailed to legal@tophat.com.  Top Hat may give notice to you at either the email or postal address you provide in your User Account, or through a notice posted on the Platform.  Notice will be deemed received and properly served immediately when posted on the Platform, 24 hours after an email is sent, or three days after the date of posting of any letter. In proving the service of any notice, it will be sufficient to prove, in the case of a letter, that such letter was properly addressed, stamped, and placed in the post and, in the case of an e-mail that such e-mail was sent to the specified e-mail address of the addressee.
+Top Hat may also contact you by (a) email to send you additional information about the Products, or (b) push notifications to the extent you have consented to receive them.
+18. Severability
+:
+If any provision of this Agreement is held by a court of competent jurisdiction to be contrary to law, the provision shall be modified by the court and interpreted so as best to accomplish the objectives of the original provision to the fullest extent permitted by law, and the remaining provisions of this Agreement shall remain in effect.
+19. Waiver and Cumulative Remedies
+: No failure or delay by either party in exercising any right under this Agreement shall constitute a waiver of that right. Other than as expressly stated herein, the remedies provided herein are in addition to, and not exclusive of, any other remedies of a party at law or in equity.
+20. Entire Agreement
+: This Agreement represents the entire agreement between Top Hat and you, and it supersedes any prior agreement, understanding, or arrangement between Top Hat and you, whether oral or in writing.
+21. Governing Law
+: If you are located: (a) in Canada, this Agreement shall be governed by and construed in accordance with the laws of the province of Ontario; (b) in Australia or New Zealand, this Agreement shall be governed by and  construed in accordance with  the laws of New South Wales; and (c) elsewhere, this Agreement shall be governed by and construed in accordance with  the laws of the state of New York, in each of (a), (b), and (c) excluding any body of law governing conflicts of law; provided, however, that if  you are an Institution User and Applicable Law requires any contract to which your Institution is a party to be governed by the laws of such state or province then this Agreement shall be governed by the laws of such state or province. The parties agree that the United Nations Convention on Contracts for the International Sale of Goods is hereby excluded in its entirety from application to this Agreement. In the event of a dispute arising out of or in connection with the terms of this Agreement between Top Hat and you, you agree to attempt to settle the dispute by engaging in good faith negotiations with Top Hat in a process of mediation before commencing litigation or, if required by Applicable Law, arbitration. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE PRODUCTS MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES.  OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
+Make your course materials accessible and interactive in minutes | Explore Ace Content Enhancer

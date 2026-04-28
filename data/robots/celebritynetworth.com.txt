@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /phpmyadmin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Allow: /wp-includes/js/
+Allow: /wp-includes/images/
+Disallow: /hotlinks/
+Disallow: /dev/
+Disallow: /dl/
+Disallow: /out.php
+
+Sitemap: https://www.celebritynetworth.com/sitemap_index.xml

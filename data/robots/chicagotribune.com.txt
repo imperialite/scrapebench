@@ -1,0 +1,25 @@
+#robots.txt for https://jobnetwork.chicagotribune.com/
+Sitemap: https://jobnetwork.chicagotribune.com/sitemap.xml
+
+User-agent: *
+Disallow: /
+
+# Search Engines
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: DuckDuckBot
+User-agent: Applebot
+# Social Media Previews (Crucial for sharing)
+User-agent: Twitterbot
+User-agent: facebookexternalhit
+User-agent: LinkedInBot
+User-agent: Slackbot-LinkExpanding
+User-agent: Discordbot
+Allow: /
+Disallow: /eu
+Disallow: /backfill-click/
+Disallow: /campaign-click/
+Disallow: /home
+Disallow: /hc
+Disallow: /post-a-job
+Crawl-delay: 1

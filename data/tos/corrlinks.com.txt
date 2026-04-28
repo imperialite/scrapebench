@@ -1,0 +1,879 @@
+PRIVACY POLICY
+Last Modified and Effective Date:
+July 1, 2025
+This Privacy Policy explains and governs the manner in which TKC Holdings, Inc. and its subsidiaries
+                (collectively referred to herein as 
+TKC
+), collects, uses, maintains, and discloses information related to
+                your use of our services. By using our services, you are agreeing to the policies and practices described in this
+                Privacy Policy. If you do not consent to these policies and practices, please do not use the website, app or
+                services.
+This Policy Describes:
+·
+Personal Information and Data We Collect
+·
+How We Collect Your Information and Data
+·
+Biometric Information Policy
+·
+How We Use Your Information and Data
+·
+How We Share Your Information and Data with Third Parties
+·
+How We Protect Your Information and Data
+·
+Privacy Rights
+·
+Privacy of Minors
+·
+Changes to the Policy
+·
+How to Update Your Information and Manage Communications
+·
+Contact for More Information
+·
+California Employee Privacy Notice
+Personal Information and Data We Collect
+We may collect, use, store, and transfer different kinds of information that is linked or reasonably linkable to
+                an identified or identifiable individual
+(collectively referred to herein as 
+Information and Data
+)
+.
+The categories of information and data collected may vary depending on which services you use and many of the
+                services offered by TKC retain far less information.  We have grouped together this Information and Data as
+                follows:
+1.
+Identifiers
+, such as
+            name, alias, postal address, unique personal identifier, online identifier, Internet Protocol (IP) address, email
+            address, account name, social security number, drivers license number, passport number, or other similar
+            identifiers.
+2.
+F
+inancial Information
+such as bank account and routing numbers, credit card number, debit card number, and payment details.
+3.
+C
+ommercial Information
+such as records of products or services purchased, obtained, or considered, or other purchasing or consuming
+                histories or tendencies.
+4.
+Characteristics of protected classifications under California or federal law
+, including age or date of
+            birth, national origin, citizenship.
+5.
+Biometric information
+, including fingerprints,
+faceprints (i.e. your face geometry), and voice recognition. See the Biometric Information Policy below for
+                additional details.
+6.
+Internet or other electronic network activity information
+, including browsing history, search history, and
+            information regarding a consumers interaction with an Internet website, application, or advertisement, browser type
+            and version, time zone setting and location, browser plug-in types and versions, operating system and platform and
+            other technology on the devices you use to access our services.
+7.
+M
+arketing and Communications Data
+such as marketing campaign data, click throughs, your preferences in receiving marketing from us and our third
+                parties, your communication preferences, email communications, and chat communications.
+8.
+A
+udio and Visual Information
+such as audio or video recordings and photographs.
+9.
+Geolocation data
+,
+as the approximate location information associated with your IP address
+.
+10.
+Inference Data
+including inferences drawn from the
+Information and Data identified above.
+Sensitive Personal Information
+. We collect personal information that may be considered Sensitive Personal
+            Information or Sensitive Data under state privacy law, including social security number, drivers license, passport,
+            or other government-issued ID,
+national origin, citizenship,
+and biometric information. We do not use or disclose Sensitive Personal Information or
+            Data for any business purposes other than as permitted by law, including providing good and services, verifying your
+            identity, processing payments, ensuring security and integrity of our websites and apps, complying with
+            applicable legal requirements and/or as permitted by further regulations.
+Retention
+. For each of these categories of Information and Data, we will retain the information as long as is reasonably
+            necessary to fulfill the purpose for which it was collected, to comply with applicable laws and regulations, and/or
+            to support any claim, defense, or declaration in a case or before a jurisdictional and/or administrative authority,
+            arbitration, or mediation panel.
+How We Collect Your Information and Data
+We may collect Information and Data from a variety of sources and methods. This includes:
+Information You Voluntarily Provide
+You may give us your Information and Data by creating an account, purchasing goods and services, filling in forms
+                or by corresponding with us by mail, phone, email, or otherwise. This includes Information and Data you provide
+                when you:
+1.
+Submit a Request More Information or Contact Us form on our website or app
+2.
+Submit a message through our website or app
+3.
+Send funds or make payments through our service
+4.
+Send emails through our service
+5.
+Call, email, fax, text, chat or write to us
+6.
+Create a user profile
+7.
+Purchase services
+8.
+Order goods
+Information We Collect When You Use Our Services
+Information Automatically Collected
+When you visit our website or use our apps, our web server automatically collects your Internet protocol (IP)
+                address, which is a number assigned to your computer when you connect to the Internet. Our web server may also be
+                able to identify things like the type of web browser, operating system you use, internet service provider (ISP),
+                referring/exit pages, operating system, date/time stamp, and/or clickstream data.  When you access and use our
+                services from your mobile devices, we receive data from that mobile device. This may include your location data,
+                IP address and device type. We can and will use IP addresses to identify a user when necessary to enforce
+                compliance with the website Terms and Conditions.
+Use of Cookies
+Cookies are small files that we or our service providers transfer to your computers hard drive through your web
+                browser or app that enables us or our service providers systems to recognize your browser and capture and
+                remember certain information. We use cookies to analyze movement on the website, such as total visitors to the
+                website and pages viewed, for fingerprinting, site security, and to make improvements to the
+                website.  Moreover, our websites partners may also use cookies in connection with the services and
+                websites to which our website links. Most web browsers are initially set up to receive cookies. If you do not
+                want to receive cookies, browsers usually have a Help or Internet Tools feature that will show you how to
+                prevent your browser from accepting new cookies and how to delete cookies from your computer.
+If you reject cookies, you may still use our website, but your ability to use some features or areas of our
+                website may be limited.
+We
+use third party
+cookies
+provided by Google
+Analytics
+to
+                assist us in better understanding our website visitors.  These
+cookies
+collect IP
+                address and usage data, such as the length of time a user spends on a page, the pages a user visits, and the
+                websites a user visits before and after visiting our website.  Based on this information,
+Google Analytics compiles
+aggregated data about website traffic and interactions,
+                which we use to offer better user experiences and tools in the future.  For more information
+on Google Analytics, visit
+Google
+
+s Privacy and Terms
+.
+To opt out of Google Analytics please visit the
+Google support page
+.
+Information We Collect From Third Parties
+We may receive Information and Data from other sources including our trusted partnerships with service providers.
+                The collection, use, and disclosure of Information and Data received from third parties is not governed by TKCs
+                Privacy Policy. We encourage you to carefully review these third-party privacy policies to understand how your
+                information may be collected, used, and disclosed by these third parties.
+Biometric Information Policy
+TKC
+uses first-party technology and third-party technology through its vendors
+to
+                collect, store, and use biometric information, such as your
+fingerprints, voice recognition, faceprints (i.e. your face geometry),
+along with
+                other personal information like a selfie, and government-issued ID.
+By using our
+                Services, you consent to TKC, our identity verification vendors, and each of our contracted service providers,
+                collecting, storing, and using your biometric information for the purposes identified below.
+Purpose for Collection of Biometric Information
+.
+TKC and its vendor may use biometric information for the following purposes:
+●
+To verify your identity
+●
+T
+o prevent fraud
+●
+To improve products and services
+●
+To comply with legal obligations
+Data Retention
+.
+Biometric information will be securely deleted no later than
+3 years after your
+                last interaction with us or our vendor, whichever happens first, provided we have no other legal obligation to
+                retain such information for any longer period.
+How We Use Your Information and Data
+TKC uses Information and Data we collect about you or that you provide to us, for the following business
+                purposes:
+1.
+To provide you with our products and services, and to operate our business.
+2.
+To communicate with you and answer specific questions related to products and services offered.
+3.
+T
+o verify your identity and account information in connection with our products and services you request.
+4.
+To learn more about how visitors use the website (data analysis) and measure areas of interest for the purpose of
+personalizing and
+improving the
+website, products, and services.
+5.
+For our internal marketing purposes, which include, but are not limited to, sending you material about products,
+                services, updates, etc. that we think may be of interest to you.
+6.
+Enhancing the safety and security of the website, preventing potentially fraudulent, prohibited, or illegal
+                activities, and enforcing our Terms and Conditions.
+7.
+Resolving disputes and troubleshooting problems.
+8.
+F
+or our own internal business purposes.
+9.
+R
+esponding to requests by government entities, in connection with an
+            investigation of suspected or actual unlawful activity, and other duties as required by law
+.
+10.
+For any other purposes disclosed at the time you provide your information or as otherwise set forth in this
+                Policy.
+How We Share Your Information and Data with Third Parties
+We share Information and Data with third parties under the following circumstances:
+Service Providers
+.  We contract with third parties to provide services that allow us to operate our business. Your
+                Information and Data may be disclosed to these third-party service providers in order for us to provide you with
+                our services and products. Service Providers are permitted to use your information only on our behalf as specified
+                in the vendor contract.
+For Security Purposes
+. For some of our products, in order for our services to be effectuated, we are required to disclose identifiers,
+                financial information, commercial information, and characteristics of protected classifications to a correctional
+                facility,
+who must review this information for security purposes. Additionally, the
+                end-recipient of the services or products you purchase may be required to receive identifiers, so that they may
+                consent to the receipt of the services or products at issue.
+Internal Third Parties
+.
+We may share Information and Data across other TKC companies, who may use the
+            Information and Data for the purposes described herein.
+Website Security.
+We use products by Google
+(reCAPTCHA)
+and CloudFlare to protect our
+website
+from various types of abusive processing attempts. In order for these tools to work, they analyze various
+                information they collect from each visitor, which may include the IP address, mouse movements, length of stay, and
+                other information. This data is sent to Google or CloudFlare to determine whether the visitor is a natural person
+                or an abusive automated program (
+e.g.,
+bot).
+You can
+click here
+find more information about reCAPTCHA
+.  All information captured by the Google reCAPTCHA tool is subject to
+Google
+
+s
+Terms
+and
+Privacy Policy
+.
+You can find more information about CloudFlare in its
+Privacy Policy
+.
+Categories of Information and Data that have been shared with service providers and internal third parties for
+                    a business purpose in the past twelve months include identifiers, financial information, commercial information,
+                    characteristics of protected classifications under California or federal law, biometric information, internet or
+                    other electronic network activity information, marketing and communications data, audio and visual information,
+                    geolocation data, sensitive personal information, and inference data.
+In certain circumstances, we may also share your personal information as follows:
+Legal Process.
+Subject to applicable law, we may disclose information about you (i) if we are required to do so by law,
+                regulation, or legal process, such as a subpoena or Court Order; (ii) in response to requests by government
+                entities, such as law enforcement authorities; (iii) when we believe disclosure is necessary or appropriate to
+                prevent physical, financial or other harm, injury or loss; or (iv) in connection with an investigation of
+                suspected or actual unlawful activity.
+Business Transactions.
+Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets.
+                Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business,
+                then the new owners may use your Information and Data in the same way as set out in this Privacy Policy.
+Information and Data Sold or Shared for Targeted Advertising.
+TKC
+Does not sell any personal
+            information and has no actual knowledge of any sales or sharing of personal information of minors under 16 years of
+            age.
+TKC does not share any personal information with third parties for the purposes of targeted advertising
+.
+How We Protect Your Information
+and Data
+We endeavor to incorporate physical, technical, and administrative safeguards and policy methods to protect your
+                Information and Data. It is also important that you take steps to maintain the secrecy of your account information
+                and secure access to your computer. Always be sure to log out of your account when using a shared or public
+                computer.
+Please be aware that no data transmission over the Internet, mobile networks, wireless transmission or electronic
+                storage of information can be guaranteed to be 100% secure.
+Therefore, we cannot guarantee its absolute security. It may be possible for third parties to intercept or access
+                transmissions or private communications unlawfully.  Any such transmission is done at your own risk.
+Privacy Rights
+Depending on your jurisdiction of residence, you have certain
+rights with respect to your
+personal information. This section describes your privacy rights and explains how to exercise those rights.
+Right of Access and Portability.
+You have the right to confirm whether or not TKC is processing your Information and Data
+and
+to access
+such
+Information and Data
+. This includes the right to know:
+1.
+The categories of Information and Data we collected about you.
+2.
+The categories of sources from which the Information and Data is collected.
+3.
+The categories of Information and Data sold or shared for purposes of cross-contextual advertising to a third
+            party, as well as the categories of third parties to whom such Information and Data was
+sold or shared
+.
+4.
+The categories of Information and Data that the business disclosed about the consumer for a business purpose and
+            the categories of persons to whom it was disclosed for a business purpose.
+5.
+Our business or commercial purpose for collecting, selling, or sharing for purposes of cross-contextual advertising
+            your Information and Data.
+6.
+The specific pieces of Information and Data we collected about you.
+You also have the right, to the extent the information is available in a digital format, to obtain a copy of
+                    your Information and Data in a portable, and to the extent technically feasible, readily usable format that
+                    allows you to transmit the data to another controller without hindrance.
+You may also request a list of the specific third parties to which we have disclosed Information and Data
+.
+Right to Delete.
+You may request that we delete Information and Data we have collected from you
+,
+under certain circumstances
+. Please note, that some information may not be eligible
+                for deletion based upon applicable law or requirements of contracts.
+Right to Correct.
+You may request that we correct inaccurate Information and
+            Data we have collected from you,
+though we may need to verify the accuracy of the new data you provide to us
+.
+Right to Opt Out.
+You have the right to opt out of the processing of
+Information and Data for the following purposes:
+Sales and Targeted Advertising
+.
+You have the right to opt-out from having your information and Data
+sold or
+processed for the purpose of targeted advertising. However, TKC does not
+sell or process
+Information and Data for the purpose of targeted advertising.
+Profiling
+.
+You have the right to opt-out from having your Information and Data used
+profiling in connection with decisions that produce legal or similarly significant effects
+. However, TKC does not utilize Information and Data for the purpose of Profiling.
+Right
+to Limit Use and Disclosure
+.
+You have the right to
+request that we limit the
+            use and disclosure of
+Sensitive Personal Information to specific business purposes
+            approved by law. Our use of Sensitive Personal Information is already limited to the approved business purposes
+            identified above.
+Right to Withdraw Consent
+:
+You have the right to
+withdraw your consent at any time where we are relying on consent to process
+your
+                Information and Data
+.  If you withdraw your consent, we may not be able to provide certain products or services to you.
+Right to Non-Discrimination
+: Unless permitted by applicable law, we will not discriminate
+against you for exercising any of your
+privacy rights under applicable law, including by, but not limited to:
+1.
+D
+enying you goods or services;
+2.
+C
+harging you different prices or rates for goods or services, including through the use of discounts or other
+                benefits or imposing penalties;
+3.
+P
+roviding you a different level of quality of goods or services; or
+4.
+S
+uggesting that you will receive a different price or rate for goods or services or a different level of quality
+                of goods or services.
+Exercising Your Rights
+If you would like to submit a request, you or your authorized agent may:
+Ø
+Contact us by phone at
+1-844-475-7190
+, or
+Ø
+Initiate a request by completing our
+online form
+.
+Please note that only you, or an agent you authorize to act on your behalf may make a verifiable consumer request
+            related to your Information and Data.
+Authorizing an Agent to Act on Your Behalf.
+Except where you have provided an
+            agent with a Power of Attorney pursuant to Sections 4000  4465 of the California Probate Code, when using an
+            authorized agent you must
+:
+provide that person with written permission clearly
+            describing their authority to make a request on your behalf. That agent must also be able to verify their identity
+            with us and provide us with their authority to act on your behalf. An individual to whom you have provided Power of
+            Attorney pursuant to applicable state rules may also make a request on your behalf.
+Verifying Your Request.
+The verifiable request must:
+·
+Include your full legal name, email, and billing address.
+·
+Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+·
+If you are making the request as an authorized agent you must also provide; the full legal name of the party for
+                which you are making the request and documentation for which your authorization is based.
+Making a verifiable consumer request does not require you to create an account with us. One of our
+                representatives will contact you in order
+to verify your identity
+. You may need to provide additional information in order to verify your request.
+Depending on the nature of the request, we may also require additional verification
+            actions be taken, including but not limited to providing a signed declaration under penalty of perjury that you are
+            the consumer whose Information or Data is the subject of the request.  We will use the information you provide to
+            verify your identity and to respond to your rights request and for no other purpose.
+We cannot respond to your request or provide you with Information or Data if we are not able to verify your
+            identity or authority to make the request or confirm the Information or Data relates to you.
+Appeals.
+Depending on applicable law, you may be able to appeal our decision to deny your request. If applicable you can
+                file an appeal by
+calling 1-844-475-7190, or initiating
+                a request by completing our
+online form
+.
+Exceptions
+.  These rights are not absolute and are subject to certain exceptions. For example, we cannot disclose or permit
+                access to specific pieces of Information and Data if granting your request would present a certain level of risk
+                to the security of the Information and Data at issue, your account with us or the security of our services. We may
+                deny your deletion request if retaining the information under certain circumstances, for example, when it is
+                necessary for us or our service providers to complete a contract or transaction with you or to comply with legal
+                obligations.
+Other
+California
+Privacy Rights.
+California residents have the right to receive information that identifies any third party companies or
+                    individuals that we have shared your Information and Data within the previous calendar year, as well as a
+                    description of the categories of Information and Data disclosed to that third party. You may obtain this
+                    information once a year and free of charge by contacting us at the address below.
+Please be aware that not all information sharing is covered by the requirements of Section 1798.83 and only
+                information on covered sharing will be included in our response.
+Your Do Not Track Browser Setting.
+Some web browsers incorporate a Do Not Track feature (DNT) that
+            signals to the websites that you visit that you do not want to have your online activity tracked. Many websites and
+            applications, including ours, do not currently respond to web browser DNT signals because such signals are not yet
+            uniform. Other third-party websites
+may keep track of your browsing activities when they provide you with content, which enables them to customize
+                what they present to you on their websites.
+Privacy of Minors
+This website is not directed to, nor do we knowingly collect Information and Data from, minors under the age of
+                16. Minors wishing to make purchases through our services must do so with the involvement
+of a parent or guardian.
+Changes to this Policy
+This Privacy Policy may change from time to time. When changes are made, we will update the Last Modified and
+                    Effective
+Date
+at the top of this Privacy Policy. Your continued use of our services after we make changes is deemed to be
+                acceptance of those changes, so please check the Privacy Policy for updates.
+When necessary we may notify you of material changes, for example via email or other method.
+How to Update Your Information and Manage Communications
+If you want to modify your registration information, please login to your profile and make the necessary changes.
+                At the time of registration, you may be given a choice whether you want to receive information about new features,
+                offers or other notices related to TKC and its services.  When you register, you may opt to not receive
+                these communications by not clicking a box that allows us to send you such information. You also have the
+                option to opt out at a later date by following the instructions in the communication that you receive from
+                us.
+Contact for More Information
+We welcome your questions and comments regarding our Privacy Policy. Please direct communications to TKC via our
+online form
+.
+California Employee Privacy Notice
+What is the purpose of this notice?
+This California Employee Privacy Notice (the 
+Notice
+) describes TKCs collection of Personal Information
+            from job applicants, employees, and contractors, the business purposes for which this data will be used, and the
+            privacy rights of California applicants, employees, contractors, beneficiaries, emergency contacts, and members of
+            the board of directors. This Notice supplements any other privacy notices and is not intended to override them. This
+            includes but is not limited to any provisions in the Employee Handbook.
+For the purposes of this Notice, 
+Personal Information
+ means any information that identifies, relates
+                to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or
+                indirectly, to any individual or a household.
+Categories of Personal Information Collected
+TKC collects Personal Information about you during the application process and throughout the scope of your
+                employment with TKC.
+The categories of Personal Information collected may include the following:
+·
+Identifiers
+, such as name, alias,
+employee/staff ID,
+postal address, unique personal
+                identifier, online identifier, email address, social security number, drivers license number, passport number, or
+                other
+government issued identification card
+.
+·
+Characteristics of protected classifications under California or federal law
+, including
+race, sex/gender, marital status,
+age or date of birth, national origin,
+                disability, citizenship, military status
+, request for leave for family care, health condition, or pregnancy
+.
+·
+Family
+information
+,
+such as the name, relationship, date of birth, contact details, and social security numbers of your family
+                    members, and any other information that may be needed for the administration of benefits and to identify who to
+                    contact in the case of an emergency.
+·
+Internet or other electronic network activity information
+,
+such as information technology systems usage information related to your use of our equipment, systems, and
+                    other resources, browser type and version, time zone setting and location, browser plug-in types and versions,
+                    operating system and platform and other technology on the devices you use to access our systems
+.
+·
+Professional or employment-related information
+,
+such as your basic salary, bonus and commission entitlements, insurance benefits (including information about
+                    you and your dependents that we provide to the insurer), hours and overtime, tax code, taxes withheld, holiday
+                    entitlement, sick time, accrued salary information, and information relating to your retirement accounts, job
+                    title, category and status, work location, department, employment contract, assigned tasks and projects, weekly
+                    hours, supervisors name, start and end date, and reason for leaving, performance reviews, evaluations and
+                    ratings, information about disciplinary allegations, the disciplinary process and any disciplinary warnings,
+                    details of grievances, and any outcome; professional certifications, and prior work experience;
+·
+Education information
+such as your education and training background
+;
+·
+P
+ost-offer criminal background information,
+such as any criminal history, revealing felony, misdemeanor, sex offender, probation, and other federal, state and
+                county criminal offense records.
+·
+Audio and video
+information
+, such as pictures and security videos
+.
+·
+F
+inancial information
+, such as your bank details (for payroll and business reimbursement purposes only) and business travel and
+                entertainment data.
+·
+H
+ealth information
+, as required by law or as necessary to manage the employment relationship, including drug test results, smoking
+                status, benefits administration, occupational health, disability accommodation, workers compensation, and medical
+                leave.
+·
+T
+ermination and post-employment information
+, such as termination agreements, benefits notices, and unemployment compensations forms.
+Sensitive Personal Information.
+We collect Personal Information that is
+            defined as 
+Sensitive Personal Information
+ under California law, including drivers license, state
+            identification card, passport, or other government issued identification card, social security numbers, race or
+            ethnic origin, immigration status, and health information.  We use and disclose Sensitive Personal Information only
+            as necessary: (i) to process your request for employment, (ii) provide services and benefits in connection with your
+            employment, (iii) to comply with the law, and (iv) for business purposes reasonably expected within the scope of
+            your employment.
+How We Collect Your Personal Information
+We may collect your Personal Information from a variety of sources and methods. This includes:
+Information You Voluntarily Provide to Us
+We may collect Personal Information from you that you voluntarily provide to us as an applicant and during the
+                    scope of your employment or temporary assignment.
+Information We Collect When You Use Our Systems
+We collect Personal Information when you use our systems, including computer systems, security systems, time
+                    keeping systems, and any internal intranet or online platforms.
+Information We Collect When You Use Our Website
+Automated technologies or interactions
+.
+If you applied for a position through one of our websites, we receive and store internet protocol (IP) addresses,
+                browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or
+                clickstream data.  When you access and use our website from your mobile devices, we receive data from that mobile
+                device.  This may include your device ID, location data, IP address and device type.
+You may manage how
+                your mobile device and mobile browser share location information with us, as well as how your mobile browser
+                handles cookies and related technologies by adjusting your mobile device privacy and security settings.  Please
+                refer to instructions provided by your mobile service provider or the manufacturer of your device to learn how to
+                adjust your settings.
+Cookies
+.  Cookies are small files that we or our service provider transfer to your computers hard drive through your
+                web browser or app that enables us or our service providers systems to recognize your browser and capture and
+                remember certain information. We use cookies to analyze movement on the website, such as total visitors to the
+                website and pages viewed, for fingerprinting, site security, and to make improvements to the
+                website.  Moreover, our websites partners may also use cookies in connection with the services and
+                websites to which our website links. Most web browsers are initially set up to receive cookies. If you do not
+                want to receive cookies, browsers usually have a Help or Internet Tools feature that will show you how to
+                prevent your browser from accepting new cookies and how to delete cookies from your computer. If you reject
+                cookies, you may still use our website, but your ability to use some features or areas of our website may be
+                limited.
+We use third party cookies provided by Google Analytics to assist us in better understanding our website
+                    visitors.  These cookies collect IP address and usage data, such as the length of time a user spends on a page,
+                    the pages a user visits, and the websites a user visits before and after visiting our website.  Based on this
+                    information, Google Analytics compiles aggregated data about website traffic and interactions, which we use to
+                    offer better user experiences and tools in the future.
+For more information on Google Analytics, visit
+Google
+
+s Privacy and Terms
+.
+To opt out of Google Analytics please visit the
+Google support page
+.
+Information We Collect From Third Parties
+We collect Personal Information from service providers including where we operate accounts on third-party
+                    platforms, such as employee search and recruiting platforms, background check and employee eligibility
+                    providers, employee benefit providers, payroll providers, security providers, evaluation and training providers,
+                    support system platforms, curriculum platforms, emergency notification platform, electronic signature providers,
+                    and technology providers.
+How We Use Your Personal Information
+TKC uses Personal Information, for all purposes related to the application for employment, and the creation,
+                administration, and termination of your employment relationship with TKC and for all purposes related to clients.
+                These purposes include, but are not limited to, the following:
+·
+Making a decision about your recruitment or appointment.
+·
+To assess your skills, qualifications, and suitability for the work or role for which you are applying.
+·
+To carry out background and reference checks, where applicable.
+·
+To communicate with you about the recruitment process.
+·
+Determining the terms on which you work for us.
+·
+Confirming you are legally entitled to work in the United States.
+·
+To administer compensation, including, but not limited to, payment of wages and bonuses and income tax
+                withholding and reimbursement of business expenses.
+·
+Providing employment benefits to you if applicable, for example, medical insurance, life insurance, and
+                retirement savings plans.
+·
+Business management and planning, including accounting and auditing.
+·
+Conducting performance reviews, managing performance and determining performance requirements.
+·
+Making decisions about salary reviews and compensation.
+·
+Assessing qualifications for a particular job or task, including decisions about promotions.
+·
+Gathering evidence for possible grievance or disciplinary hearings.
+·
+Making decisions about your continued employment or engagement.
+·
+Making arrangements for the termination of our working relationship.
+·
+Education, training and development requirements.
+·
+Dealing with legal disputes involving you, or other employees, workers and contractors, including accidents at
+                work.
+·
+Ascertaining your fitness to work.
+·
+To administer leaves of absence as required by law or company policy.
+·
+Complying with health and safety obligations.
+·
+To prevent fraud.
+·
+To monitor your use of our information and communication systems to ensure compliance with our policies.
+·
+To ensure network and information security, including preventing unauthorized access to our computer and
+                electronic communications systems and preventing malicious software distribution.
+·
+To conduct data analytics studies to review and better understand employee retention and attrition rates.
+·
+Equal opportunities monitoring.
+·
+To exercise TKCs rights under applicable law and to support any claim, defense, or declaration in a case or
+                before a jurisdictional and/or administrative authority, arbitration, or mediation panel.
+·
+To meet legal and regulatory requirements including civil discovery in litigation involving the TKC or affiliated
+                companies.
+·
+To facilitate administrative functions, including, but not limited to, the management and operation of
+                information technology and communications systems, risk management and insurance functions, budgeting, financial
+                management and reporting, strategic planning, and the maintenance of licenses, permits and authorizations
+                applicable to TKCs business operations.
+How We Disclose
+Personal Information
+Service Providers
+. We may use third-party service providers to perform certain business services on our behalf and may disclose
+                Personal Information to such service providers as needed for them to perform these business services. Service
+                providers are only allowed to use, disclose, or retain the Personal Information to provide these services and are
+                prohibited from selling Personal Information.
+Business services provided include, but are not limited to, employee search and recruiting platforms,
+                    background check and employee eligibility providers, employee benefit providers, payroll providers, security
+                    providers, evaluation and training providers, curriculum platforms, support system platforms, emergency
+                    notification platform, electronic signature providers, travel management providers, employee survey providers,
+                    and technology providers
+.
+Internal Third Parties.
+We may share Personal Information with our parent company, subsidiaries and other companies owned by or controlled
+                by Employer, who may use the Personal Information for the purposes described above.
+Categories of Personal Information that have been disclosed for a business purpose with service providers and
+                internal third parties in the past twelve months include:  identifiers, characteristics of protected
+                classifications under California or federal law, family information, internet and other electronic network
+                activity information, professional or employment related information, education information, post-offer criminal
+                background information, audio and visual information, financial information, health information, termination and
+                post-employment information.
+In certain circumstances, we may also share your Personal Information as follows:
+Business Transactions
+. We may do business with third parties to whom we may choose to sell, transfer, or merge parts of our business
+                or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to
+                our business, then the new owners may use your Personal Information in the same way as set out in this
+                Policy.
+Legal Process
+. Subject to applicable law, we may disclose information about you (i) if we are required to do so by law,
+                regulation or legal process, such as a subpoena; (ii) in response to requests by government entities, such as law
+                enforcement authorities; (iii) when we believe disclosure is necessary or appropriate to prevent physical,
+                financial or other harm, injury or loss; or (iv) in connection with an investigation of suspected or actual
+                unlawful activity.
+Information You Provide To A Third Party
+. We may contract with third party service providers that operate their own websites and online platforms on
+                which you will need to create an account (
+Third-Party Sites
+). TKC does not control any Third-Party Sites
+                and is not responsible for any information they may collect. The information collection practices of a Third-Party
+                Site are governed by its privacy policy. It is your choice to enter any Third-Party Site. We recommend that you
+                read its privacy policy if you choose to do so.
+Personal Information Sold or Shared for Targeted Advertising.
+TKC
+Does not sell any personal information and has no actual knowledge of any sales or sharing of personal
+                information of minors under 16 years of age.  TKC does not share any personal information with third parties for
+                the purposes of targeted advertising.
+Retention of Personal Information.
+Personal information
+will be retained as long as
+necessary for the
+business purpose
+for which it is collected and processed and
+to comply with applicable laws and regulations
+in accordance with our internal
+                document retention policies.
+We consider the following criteria when determining how long to retain Personal Information: why we collected
+                    the Personal Information, the nature of the Personal Information, the sensitivity of the Personal Information,
+                    our legal obligations related to the Personal Information, and the risks associated with retaining the Personal
+                    Information.
+California
+Privacy Rights
+The California Consumer Privacy Act (CCPA) provides you with certain privacy rights related to the Personal
+                Information TKC collects about you. Please see below to learn more about your rights under the CCPA.
+Right to Know.
+You may request no more than twice in any twelve (12) month period and, subject to verification of your identity
+                and certain exemptions:
+Ø
+The categories of Personal Information we collected about you.
+Ø
+The categories of sources from which the Personal Information is collected.
+Ø
+The categories of Personal Information sold or shared for purposes of cross-contextual advertising to a third
+            party, as well as the categories of third parties to whom such personal information was
+sold or shared
+.
+Ø
+The categories of Personal Information that the business disclosed about the consumer for a business purpose and
+            the categories of persons to whom it was disclosed for a business purpose.
+Ø
+Our business or commercial purpose for collecting, selling, or sharing for purposes of cross-contextual advertising
+            your Personal Information.
+Ø
+The specific pieces of Personal Information we collected about you.
+You also have the right
+, to the extent the information is
+            available in a digital format, to obtain a copy of your Personal Information in a portable, and to the extent
+            technically feasible, readily usable format that allows you to transmit the data to another controller without
+            hindrance
+Right to Delete.
+You may request that we delete Personal Information we have collected from you, subject to verification of your
+                identity. Please note, that some information may not be eligible for deletion based upon applicable law or
+                requirements of contracts.
+Right to Correct.
+You may request that we correct inaccurate Personal
+            Information we have collected from you, subject to verification of your identity and exceptions provided by law.
+Right to Opt Out.
+You have the right to opt-out from having your Personal Information sold to third
+parties or shared with third
+parties for purposes of cross-contextual advertising. 
+                However, TKC does not sell Personal Information nor does TKC share Personal Information with third parties for
+                purposes of cross-contextual advertising.
+Right
+to Limit Use and Disclosure
+.
+You may request that we limit the use and disclosure of your Sensitive
+            Personal Informatio
+n for any purpose other than the pre-approved business purposes identified in the privacy law.  Our use of
+                Sensitive Personal Information is already limited to the approved business purposes identified above.
+Right to Non-Discrimination.
+The CCPA provides
+the right to be free from
+discrimination if you choose to
+            exercise your rights under the statute, and we will not retaliate against you for the exercise of your rights.
+Exercising Your CCPA Rights
+If you are a California resident and would like to submit a CCPA request, you or your authorized agent may:
+Ø
+Contact us by phone at 1-844-475-7190, or
+Ø
+Initiate a request by completing our
+online form
+.
+Ø
+C
+ontact the Chief People Officer by phone, email or in person.
+Authorizing an Agent to Act on Your Behalf.
+Only you or a person that you
+            authorize to act on your behalf, may make a verifiable request related to your Personal Information. Except where
+            you have provided an agent with a Power of Attorney pursuant to Sections 4000  4465 of the California Probate Code,
+            when using an authorized agent you must: (1) provide the agent with signed permission clearly describing their
+            authority to make a request on your behalf; (ii) verify your own identity; and (iii) directly confirm that you have
+            provided the authorized agent permission to submit the request. That agent must also be able to verify their
+            identity with us and provide us with their authority to act on your behalf.
+Verifying Your Request.
+The verifiable request must:
+·
+Include your full legal name, email, and billing address
+·
+Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+·
+If you are making the request as an authorized agent you must also provide; the full legal name of the party for
+                which you are making the request and documentation for which your authorization is based.
+We will use this information to verify your identity using reasonable methods in order to process your rights
+            request. These methods may include matching information you provided to us with information already maintained by us
+            or through the use of a third-party identity verification service. Depending on the nature of the request, we may
+            require additional verification actions be taken, including but not limited to providing a signed declaration under
+            penalty of perjury that you are the consumer whose Personal Information is the subject of the request.  We will use
+            the information you provide to verify your identity and to respond to your rights request and for no other purpose.
+            We cannot respond to your request or provide you with Personal Information if we are not able to verify your
+            identity or authority to make the request or confirm the Personal Information relates to you. You are not required
+            to have an account with us to make a verifiable request.
+Exceptions
+.  These rights are not absolute and are subject to certain exceptions. For example, we cannot disclose or permit
+                access to specific pieces of Personal Information if granting your request would present a certain level of risk
+                to the security of the Personal Information at issue, your account with us or the security of our Services. We may
+                deny your deletion request if retaining the information under certain circumstances, for example, when it is
+                necessary for us or our service providers to complete a contract or transaction with you or to comply with legal
+                obligations.
+Questions
+If you have any questions or concerns about this Notice, please contact us using our
+online form
+.

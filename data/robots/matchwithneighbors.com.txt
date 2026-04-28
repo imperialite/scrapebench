@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /redirect
+Disallow: /messages
+Disallow: /agreement
+Disallow: /privacy
+Disallow: /imprint
+Disallow: /contact
+Disallow: /faq
+Disallow: /landing*
+Disallow: /affsignup*
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /

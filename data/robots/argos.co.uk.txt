@@ -1,0 +1,36 @@
+# /robots.txt file for https://www.argos.co.uk
+
+Sitemap: https://www.argos.co.uk/sitemap.xml
+
+User-agent: *
+Disallow: /wishlist
+Disallow: /list/*
+
+User-agent: Googlebot
+Disallow: /wishlist
+Disallow: /list/*
+Disallow: /checkout/*/delivery
+Disallow: /checkout/*/information
+Disallow: /checkout/*/payment
+Disallow: /checkout/*/routing
+Disallow: /checkout/*/guest
+Disallow: /checkout/*/stock
+Disallow: /checkout/*/user
+Disallow: /confirmation/
+
+User-agent: Googlebot-image
+Disallow: /wishlist
+Disallow: /list/*
+Allow: /.well-known/
+
+User-agent: Bingbot
+Disallow: /wishlist
+Disallow: /list/*
+Disallow: /checkout/*/delivery
+Disallow: /checkout/*/information
+Disallow: /checkout/*/payment
+Disallow: /checkout/*/routing
+Disallow: /checkout/*/guest
+Disallow: /checkout/*/stock
+Disallow: /checkout/*/user
+Disallow: /confirmation/

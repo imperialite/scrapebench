@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /content/
+Allow: /content/*.pdf
+Allow: /content/dam/
+
+
+Sitemap: https://www.ambetterhealth.com/sitemap.xml

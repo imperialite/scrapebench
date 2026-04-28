@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /micro-class
+Disallow: /blog/tag/*
+Disallow: /search/*
+
+Sitemap: https://askfilo.com/sitemap.xml

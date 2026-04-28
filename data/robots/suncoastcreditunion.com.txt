@@ -1,0 +1,11 @@
+User-agent: *
+User-agent: AdsBot-Google
+User-agent: Googlebot
+Disallow: /sitecore/*
+Disallow: /settings/*
+Disallow: /Settings/*
+Disallow: /data/*
+Disallow: /Data/*
+Disallow: /cgi-bin/*
+Allow: /
+Sitemap: https://www.suncoast.com/sitemap.xml

@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /dealerhybrid
+Disallow: /auction-central/
+Disallow: /resource-guide/
+
+Sitemap: https://classiccars.com/sitemap_index.xml
+
+User-agent: Mediapartners-Google
+
+User-agent: Googlebot
+Disallow: /auction-central/
+Disallow: /resource-guide/
+
+User-agent: Googlebot-image
+
+User-agent: BingBot
+User-agent: AhrefsBot
+User-agent: Qualys
+User-agent: YandexBot
+User-agent: PetalBot
+User-agent: GoogleAdsBot
+User-agent: GoogleImageProxy
+User-agent: GoogleImages
+User-agent: facebookexternalhit
+User-agent: TermlyBot
+Allow: /

@@ -1,0 +1,93 @@
+terms of service
+Revised on December 21, 2020
+"NAVITIME" (hereinafter referred to as "this service") is provided in accordance with these terms of use (hereinafter referred to as "these terms") established by NAVITIME JAPAN Co., Ltd. (hereinafter referred to as "our company"). Customers shall use this service only upon consent to these terms. When customers start using this service, they are deemed to have consented to these terms.
+
+Article 1 Service Overview
+1. In this service, customers may use route search services, map search services, and other services specified by our company.
+2. The Service includes services that require an information fee (hereinafter referred to as "Paid Services") and services that do not require an information fee (hereinafter referred to as "Free Services"). With the Free Services, you can use some of the functions of the Service.
+Article 2: Establishment of Paid Service Agreement
+To use the paid service, you must complete the registration procedures specified by our company. Upon completion of the registration procedures, a contract for the paid service (hereinafter referred to as the "Paid Service Contract") will be established between you and our company.
+
+Article 3 Prohibited matters
+You may not engage in any of the following activities with respect to the Service or the software, documents, data, images, characters, logos, etc. used in the Service.
+
+(1) Seeking monetary or other commercial gain directly through the Service
+(2) Removing or modifying product labels, copyright notices, other warnings, or restrictions based on proprietary rights.
+(3) Reproducing, distributing, publicly transmitting, modifying, translating, adapting, or creating derivative works of the Content.
+(4) Transferring, selling, assigning or otherwise disposing of the information to a third party.
+(5) Allowing a third party to use the content, whether by sublicense, loan, or other means.
+(6) Reverse engineering or other analytical activities
+(7) Interfering with the operation of the Service or damaging the credibility of the Service, or engaging in any other act that may result in such acts
+(8) Posting personal information of customers or third parties
+(9) Engaging in any act that violates or may violate laws and regulations
+(10) Any act that infringes, restricts, or interferes with the rights of our company or a third party, or that may result in such acts.
+(11) In addition to the above, engaging in any other conduct that the Company deems inappropriate.
+Article 4 ID and Password
+When using paid services or some other functions, you may be required to obtain a designated ID and password (hereinafter referred to as "ID, etc."). You shall properly manage your ID, etc. at your own responsibility, and shall not allow a third party to use it, or lend, transfer, change the name of, or buy or sell it.
+
+Article 5: Precautions and Warnings for Use
+1. General Provisions
+(1) This Service may not be available due to the radio wave reception conditions of the information terminal (hereinafter referred to as the "Information Terminal") being used, other functional limitations of the Information Terminal, or the settings of the Information Terminal by the Customer.
+(2) Information on the Service, including maps, routes, traffic regulations, road conditions, operation status, timetables, facilities, stores, events, and weather (collectively referred to as "Service Information"), may differ from actual information or may be inaccurate. In addition, Service Information may be subject to change without notice to you.
+(3) The Service Information includes information, images, etc. posted by customers (hereinafter collectively referred to as "Posted Information"). Posted Information may contain inaccurate or inappropriate content, so please use it for reference only.
+(4) There are some countries or regions covered by this Service where information about this Service cannot be provided.
+2. By car, walking, etc.
+! caveat
+(1) It is extremely dangerous to operate this information terminal or look at the screen while driving a car, motorcycle, bicycle, etc. or while walking. Always stop your vehicle or stand still in a safe place before doing so. Also, please be aware that operating this information terminal or looking at the screen of this information terminal while driving a car, motorcycle, bicycle, etc. may violate the Road Traffic Act and other laws and regulations.
+(2) Always follow actual traffic lights, road signs, road markings, and other traffic regulations and road conditions.
+(3) In principle, information on traffic regulations applies only to standard-sized automobiles and does not apply to large automobiles, motorcycles, etc.
+(4) Roads that are actually impassable due to the implementation of pedestrian zones, closures during the winter, traffic restrictions at certain times of the day, etc. may be displayed or guided as passable roads.
+(5) Roads that are not actually crossable by pedestrians may be displayed or guided as such.
+(6) Do not use this service to guide you to emergency medical facilities, etc. The information on this service does not include all information on police, fire departments, medical institutions, etc., and may differ from the actual information.
+3. Trains, airplanes, buses, etc.
+(1) Timetable updates may be delayed from the actual timetable revisions. If you are using express trains, airplanes, etc., please check the actual departure and arrival times again.
+(2) Estimated times and reference values ​​may be displayed and guided on some sections of streetcars and airport shuttle buses.
+4. Course creation function
+(1) When using the course creation function, the nickname you set, the course you created, and the title, description, and notes you created (collectively referred to as "Course Information, etc.") may be made public on the Service.
+(2) You shall not set or create inappropriate Course Information, etc. that violates laws, regulations, or other rules, or that violates public order and morals. If the Company determines that the Course Information, etc. set or created by you is inappropriate, the Company may change (including, but not limited to, deleting or correcting) all or part of such Course Information, etc.
+(3) Course information posted by other customers may contain inaccurate or inappropriate content. We do not guarantee the accuracy, completeness, or usefulness of the content of the course information, and we do not completely eliminate inaccurate or inappropriate content from course information.
+(4) Course information posted by other users is subjective information of the user who posted it, and by its nature, it may contain hearsay information whose source cannot be identified, and may change over time. Please be aware of this nature and decide at your own risk whether or not to use it as a reference.
+5. Other
+Information about facilities and stores may have changed, such as names, addresses, and phone numbers, or the facilities and stores themselves may no longer exist. Information about events may have changed, such as dates, times, and locations.
+
+Article 6: Service Usage Fees
+1. Customers who have signed a Paid Service Agreement shall pay the fee for the Paid Service (hereinafter referred to as the "Usage Fee") to the Company in the manner specified by the Company. The Usage Fee shall be as separately stated in the Service or on the Company's website.
+2. Use of the Service may incur separate communication fees, etc. in accordance with the regulations of the telecommunications carrier. Such communication fees, etc. shall be borne by the Customer.
+3. We will not refund any usage fees paid by you.
+Article 7 Suspension of the Service
+If any of the following events occur, we may suspend the provision of all or part of the Service without prior notice to you.
+
+(1) When regular or emergency maintenance and inspection of the system for providing the Service is carried out
+(2) When the Service cannot be provided due to natural disasters, fires, power outages, civil unrest, etc.
+(3) When the Service cannot be provided due to a failure of telecommunications lines, computers, or other means of communication.
+(4) In addition to the above, if the Service cannot be provided due to reasons beyond the control of the Company.
+Article 8 Cancellation of Paid Service Agreement
+1. If you wish to cancel a paid service contract, you must follow the cancellation procedure specified by our company.
+2. Depending on the information terminal that uses the paid service and the method of use, the paid service contract may not automatically terminate even if the communication service contract with the telecommunications carrier for this information terminal is terminated. Please complete the cancellation procedure for the paid service before terminating the communication service contract.
+Article 9: Changes and Termination of the Service
+1. The Company may, at its discretion, change the content of or terminate the provision of the Service without prior notice to the Customer.
+2. The Company shall not be liable for any damages incurred by the Customer in connection with the change in content or termination of provision under the preceding paragraph.
+Article 10 Intellectual Property Rights
+All intellectual property rights and other rights relating to the Service belong to the Company or to a third party that grants the Company a license to use such intellectual property rights.
+
+Article 11 Handling of Personal Information and Other Information
+1. The Company shall comply with the "Privacy Policy" prescribed by the Company and properly manage the personal information of customers that the Company obtains through the provision of the Service.
+2. We may use information obtained through your use of the Service (including, but not limited to, data such as destination, location information obtained by GPS functions, travel route information, posted information, etc.) for the Service or related services or our other businesses (including creating statistical data and providing it to third parties to the extent necessary for such businesses).
+3. When providing the information described in the preceding paragraph to a third party, we will take appropriate anonymization measures and will not re-identify the anonymized information. Furthermore, when providing such information to a third party, we will contractually prohibit the recipient from re-identifying the information. We will not provide your personal information to a third party without complying with the provisions of the "Privacy Policy" set forth in paragraph 1.
+4. The Company shall handle statistical data created based on customers' personal information or the information in paragraph 2 without any restrictions.
+Article 12 Warranty and Liability
+1. The Company shall not be liable for any damages arising in connection with the use or inability to use the Service, except as expressly provided in these Terms and Conditions.
+2. The Company does not guarantee the accuracy, completeness, or safety of the Service, or that the Service is suitable for or effective for a particular purpose of the Customer, nor does the Company guarantee that the Service does not infringe any intellectual property rights, that the Service is free from defects, or that the Service will operate without any malfunctions.
+3. The customer shall be liable for any damages to IDs, etc. that occur due to insufficient management by the customer or other reasons not attributable to our company, and our company shall not be liable in any way.
+4. The Company shall not be liable for any damages incurred by the Customer due to the interruption of provision of all or part of the Service caused by any of the reasons set forth in Article 7.
+5. If the contract between you and us based on these Terms and Conditions constitutes a consumer contract as defined in Article 2, Paragraph 3 of the Consumer Contract Act (Act No. 61 of 2000), the provisions in these Terms and Conditions that completely exempt us from liability shall not apply. In such cases, if damage incurred by you is due to our default or tort, we shall be liable for compensation only for direct and ordinary damages actually incurred by you, except in cases where there is willful misconduct or gross negligence on the part of our company, and the amount of compensation based on such liability shall not exceed the amount equivalent to one month's usage fee.
+Article 13 General Provisions
+1. Without the prior written consent of the Company, you may not allow a third party to transfer your contractual status regarding the use of the Service, or assign, pledge or have a third party assume all or part of your rights and obligations.
+2. If the Customer violates any provision of these Terms and Conditions, the Company may immediately suspend or terminate the provision of the Service to the Customer without any notice.
+3. In any of the following cases, the Company may change these Terms of Use by publishing the changes on the Service or on the Company's website related to the Service, or by other means the Company deems appropriate, or by notifying the Customer. Such changes shall become effective from a time separately determined by the Company. Customers should review these Terms of Use from time to time and agree to their contents before using the Service.
+(1) When the change to these Terms and Conditions is in the general interest of customers
+(2) When the change to these Terms and Conditions does not violate the purpose of the contract for the provision of the Service and is reasonable in light of the necessity of the change, the appropriateness of the content after the change, the content of the change, and other circumstances related to the change.
+4. Any notices or other information displayed by the Company on the Service shall constitute part of these Terms and Conditions. Customers must comply with such notices and other information when using the Service.
+5. Even if any provision or part of these Terms and Conditions is deemed invalid or unenforceable under the Consumer Contract Act or other laws and regulations, this shall not affect in any way the validity of any other provisions of these Terms and Conditions other than that provision or part thereof.
+6. These Terms and Conditions shall be interpreted in accordance with the laws of Japan.
+7. In the event that litigation becomes necessary regarding this service, the Tokyo District Court shall have exclusive jurisdiction as the court of first instance.

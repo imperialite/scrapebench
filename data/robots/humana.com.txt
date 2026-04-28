@@ -1,0 +1,13 @@
+# Robots.txt file created by https://www.humana.com/
+# For domain: https://www.humana.com/
+# Updated 09-04-2023 - September 2023 release
+# All robots will spider the domain
+
+User-agent: *
+Disallow: /direct-connect-logon
+Disallow: /insurance-plan-quotes/
+Disallow: /medicare-secured/
+Disallow: /mvc/
+Disallow: /sitecore/
+
+Sitemap: https://www.humana.com/sitemap.xml

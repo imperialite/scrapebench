@@ -1,0 +1,31 @@
+ï»¿User-agent: *
+
+Disallow:/LL/Landlord-Guide.aspx
+Disallow:/ll/Comparables.aspx
+Disallow:/ll/Tenant-Screening.aspx
+Disallow:/ll/dashboard.aspx
+Disallow:/ll/inbox.aspx
+Disallow:/ll/ll_CompareRent.aspx
+Disallow:/ll/ll_myaccount.aspx
+Disallow:/ll/search-tenants.aspx
+Disallow:/v4/pages/Listing/Listing.aspx
+Disallow:/v4/pages/myWaitlistApplications/myWaitlistApplications.aspx
+Disallow:/v4/pages/pricing/pricing.aspx?upgradepath=topnav
+Disallow:/v4/pages/tenantAccount/tenantAccount.aspx
+Disallow:/v4/pages/alertPreferences/alertPreferences.aspx
+Disallow:/v4/pages/renterInbox/renterInbox.aspx
+Disallow:*login/login.aspx*
+Disallow:/Main/equal_housing_opportunity.aspx
+Disallow:/Main/faq.aspx
+Disallow:/terms_of_use.aspx
+Disallow:/v4/pages/listYourProperty/list-your-property.aspx
+Disallow:/tnresult.aspx
+Disallow:/v4/pages/tnresult/tnresult.aspx
+Disallow:/Administrator-Account/
+Disallow:/v4/AjaxHandlerUnauthenticated
+Disallow:/v4/AjaxRWHandler
+Disallow:/v4/AjaxHandler
+Disallow:/Footer
+Disallow:/Header
+
+Sitemap: https://www.affordablehousing.com/sitemapindex.xml

@@ -1,0 +1,142 @@
+General terms and conditions for the use of SZ.de
+December 3, 2025
+These General Terms and Conditions (“GTC”) apply exclusively to access to digital content of the internet service where the third party is not obligated or has not committed to paying a price (i.e., third parties who are not SZ subscribers).
+
+Save as PDF
+Table of contents
+Special conditions
+
+Conclusion of contract
+Termination
+Data protection
+General Terms and Conditions
+
+Contract partner
+Definitions
+Right of withdrawal for consumers
+Liability
+Copyrights
+Changes to these Terms and Conditions
+Final Provisions
+Special conditions
+Conclusion of contract
+By clicking the "I agree" button, a contract for advertising is concluded between the user and the publisher.
+
+The publisher provides users with journalistic content along with personalized advertising, ad tracking, usage analysis, and external multimedia content. For this purpose, it allows users to access the freely available content of SZ.de (unless they wish to access SZ Plus articles).
+
+For this purpose, the user provides certain personal data and allows its processing (information such as cookies, device identifier, IP address, etc.) for the following purposes:
+
+Usage analysis and product optimization
+SZ Personalization and Marketing
+Third-party advertising (IAB)
+If a user wishes to use SZ.de on multiple devices, they must conclude a separate advertising agreement for each device. Similarly, objecting to data processing and canceling the agreement requires doing so on each device. The publisher is unable to identify users across devices, meaning they cannot link the agreement to a user based on the devices they use.
+
+Termination
+(1) The advertising agreement can be terminated at any time with immediate effect. By selecting the "Terminate advertising agreement" link in the footer of www.sz.de , a confirmation page will open where the advertising agreement can be terminated. This will result in the immediate termination of the advertising agreement. Upon termination, access to SZ.de will cease.
+
+If you object to data processing – this is possible in the footer of www.sz.de under "Contract with Advertising" via the "Objection" link or in the settings of the news app via the "Object to Contract with Advertising" link – the publisher will terminate the contract with advertising without notice, as its continuation is no longer economically viable due to the loss of advertising opportunities. With the termination, you will no longer be able to use SZ.de.
+
+The use of programs that prevent advertising contained on websites from being displayed to the viewer (so-called ad blockers or ad filters) violates these terms and conditions after the conclusion of the contract with advertising and entitles the publisher to terminate the contract without notice.
+
+Users can order SZ Plus subscriptions at any time or enter into a new contract with advertising.
+
+Data protection
+The publisher processes the user's data provided for the advertising contract based on Article 6 Paragraph 1 Sentence 1 Letter b) GDPR for the purpose of fulfilling the contract, as described in this privacy policy . The user can submit data protection declarations (objections) regarding this data processing at any time in accordance with Section 327q Paragraph 1 of the German Civil Code (BGB) in the footer of www.sz.de.
+
+General Terms and Conditions
+Contract partner
+The contracting party is the
+
+Süddeutsche Zeitung GmbH
+Hultschiner Straße 8
+81677 Munich
+
+Commercial Register: Munich Local Court, HRB 73315
+VAT ID No.: DE 811158310
+
+Management:
+Dr. Christian Wegner (Chairman), Johannes Hauner
+
+Telephone: +49 89 2183-0
+General email: kontakt@sz.de
+Consumer right of withdrawal email: widerrufsrecht@sz.de
+Data protection email: datenschutz@sz.de
+
+Definitions
+ customer
+ consumer
+ entrepreneur
+ users
+Right of withdrawal
+Customers who are consumers have the following statutory right of withdrawal .
+
+Cancellation policy
+You have the right to withdraw from this contract without giving any reason. The withdrawal period is 14 days, starting from the date of conclusion of the contract.
+
+To exercise your right of withdrawal, you must inform us of your decision to withdraw from this contract by means of a clear statement.
+To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
+
+Consequences of the revocation
+If you have revoked your declaration of intent to conclude the contract with advertising in due time, neither you nor we are bound by our declarations of intent aimed at concluding the contract and you can no longer use SZ.de.
+
+Liability
+(1) The publisher is only liable
+
+for damages caused intentionally or through gross negligence by him,
+for damages resulting from culpable injury to life, body or health,
+if and to the extent that this is mandatory under the Product Liability Act, as well as
+for damages resulting from at least slightly negligent breach of a duty, the fulfillment of which is essential for the proper execution of the contract, the breach of which jeopardizes the achievement of the purpose of the contract and on the observance of which the client regularly relies (cardinal duties).
+Furthermore, claims for damages against the publisher are excluded, regardless of the legal basis.
+
+(2) The liability for damages is limited – apart from liability for intent and culpable injury to life, body or health – to the foreseeable, typically occurring damage.
+
+(3) Claims for damages by merchants against the publisher shall become time-barred, except for claims arising from tort or intentional acts, twelve (12) months after the date on which the client became aware, or should have become aware, of the circumstances giving rise to the claim.
+
+(4) To the extent that the publisher’s liability is excluded or limited under the above provisions, this also applies to the personal liability of its employees, representatives and agents.
+
+Copyrights
+(1) The use of our publications, in particular journalistic content, is permitted exclusively for personal, non-commercial purposes, unless the user has applied for the right to commercial use on a single workstation during registration. Passing on the content to third parties is prohibited, regardless of the purpose or method of transfer. Any use beyond this is prohibited without the express consent of the publisher, irrespective of any potential copyright protection of this content and regardless of the scope of such legal protection. In particular, it is prohibited to use our publications, in whole or in part, for the purpose of producing, supporting, improving, or operating other news and information services or for other (commercial) purposes: a) by technical means such as crawlers, spiders, scraping, or text and data mining; b) by using artificial intelligence programs or otherwise altering, translating, reformulating, shortening, or summarizing them. or c) to publish or make available to limited groups of people or individual third parties, whether in their original form or in edited, translated, reworded, shortened, expanded, or summarized form, regardless of the transmission method (online or otherwise), in any form whatsoever. Actions that are mandatorily permitted under copyright law remain unaffected by the above provisions. Uses that are not permitted under copyright law are not permitted by the above provisions, even in individual cases. Furthermore, it is not permitted to use our publications for the training, development, and/or improvement of (generative) AI systems. The publisher expressly reserves the right to text and data mining within the meaning of Section 44b of the German Copyright Act (UrhG).
+
+(2) Further rights, in particular the right to commercial use of journalistic content (e.g., republication) as well as transferable usage rights, media monitoring and analysis, multi-user licenses or licenses for libraries and schools, can be acquired via www.sz-archiv.de . Rights to create an electronic press review can be obtained from Presse-Monitor Deutschland GmbH (PMG) ( www.pressemonitor.de ).
+
+Changes to these Terms and Conditions
+The publisher may, in the event of a change in market conditions, legal conditions or supreme court rulings, amend these terms and conditions at any time with effect for the future and without giving reasons, provided that the customer is not unreasonably burdened as a result.
+
+Final Provisions
+(1) These General Terms and Conditions and all legal relations between the parties shall be governed by the laws of the Federal Republic of Germany, excluding the UN Convention on Contracts for the International Sale of Goods (CISG).
+
+(2) To the extent permitted by law, Munich shall be the place of performance and the exclusive place of jurisdiction, including for international matters.
+
+(3) Agreements that deviate from these General Terms and Conditions must be in writing. This also applies to amendments to this requirement of written form.
+
+(4) Should any part of these Terms and Conditions be invalid or unenforceable, the validity of the remaining provisions shall not be affected. In place of the invalid or unenforceable part, the parties shall be deemed to have agreed upon a provision that most closely approximates the intended purpose of the invalid or unenforceable part and/or that which the parties would have agreed upon had they been aware of the invalidity or unenforceability. The same shall apply in the event that the provision contains a gap.
+
+Usage analysis, marketing & personalization
+To further develop and improve its products, the publisher needs usage analysis. This analyzes visitor traffic and includes information on visitor behavior, interests, and demographic data, such as age group or gender, as pseudonymized values. This allows the publisher to identify when its digital offerings are most frequently used, which functions are reused, and which areas require optimization. For these purposes, profiles—that is, data aggregated from a user's session—are created, and information is stored in and retrieved from a browser or end device.
+
+The data collected includes, in particular, websites visited and elements used there, as well as technical information such as the browser used, the computer system used, and information on usage times.
+
+SZ Personalization and Marketing
+To enable users to quickly and directly discover relevant content within the publisher's digital offerings, the publisher analyzes which SZ services and products (editorial texts, podcasts, newsletters, quizzes, games, purchases, events, etc.) the user accesses, reads, or orders. From this collected behavior, the publisher creates a profile and derives potential preferences and interests in order to recommend further content and products to the user and to allow the user to personalize their digital experience.
+
+The publisher advertises its products and also offers its services on third-party websites. Naturally, these should be tailored to the user's needs. To this end, the publisher uses user interests gathered through usage analysis. This also allows the publisher to determine the effectiveness and success of its advertising.
+
+Third-party advertising (IAB)
+The publisher's digital products, like its print products, are subject to the same standards of credible and professional quality journalism. This costs money, so—similar to advertisements in its print products—the publisher offers selected third parties advertising space in its digital products for usage-based advertising. Each advertising partner uses its own technologies and cookies to deliver the content. The insights gained from user behavior allow for more targeted advertising and content delivery, improved user-friendliness of the digital offerings, and the development of new products. Users can find an up-to-date overview of these third parties in their privacy settings. The publisher is also committed to limiting the number of third parties. These third parties are subject to ongoing review, so they may be added or removed. However, users will always have an up-to-date overview. The method used to select third parties and their use of advertising space for personalized ads will not change.
+
+To manage this type of advertising in compliance with data protection regulations, the publisher uses the Transparency and Consent Framework of IAB Europe 2.2. This set of rules from the Interactive Advertising Bureau Europe (“IAB Europe”), an industry association for online marketing, defines and monitors the data protection-compliant delivery of advertising.
+
+To ensure that advertising complies with data protection regulations, IAB Europe has defined the following purposes for processing data, including users' personal data:
+
+Storing or accessing information on an end device
+Using reduced data to select advertisements
+Creating profiles for personalized advertising
+Use of profiles to select personalized advertising
+Creating profiles to personalize content
+Use of profiles to select personalized content
+Measuring advertising performance
+Measuring the performance of content
+Analysis of target groups through statistics or combinations of data from different sources
+Development and improvement of the offers
+Using reduced data to select content
+More information on the purposes of processing: https://iabeurope.eu/iab-europe-transparency-consent-framework-policies/

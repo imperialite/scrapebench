@@ -1,0 +1,4 @@
+User-agent: *
+
+
+Sitemap: https://dmv-practice-test.com/sitemap-index.xml

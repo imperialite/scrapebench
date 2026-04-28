@@ -1,0 +1,241 @@
+User-agent: *
+Allow: */search/login
+Allow: */login$
+Allow: /login.mhtml$
+Disallow: */login
+Disallow: */base/logout
+Allow: */search/account
+Disallow: */account
+Disallow: /subscribe_success
+Allow: /download_history.mhtml$
+Disallow: /download
+Disallow: /checkout
+Disallow: /account_purchase_history.mhtml
+Disallow: /contests
+Allow: */search/portfolio
+Disallow: */portfolio
+Disallow: */editor/template
+Disallow: */editor/design
+Disallow: */editor/search
+Disallow: */video/cart
+Disallow: */video/checkout
+Disallow: */music/cart
+Disallow: */music/user
+Disallow: */music/orders
+Disallow: /web/checkout
+Disallow: /sstk/api/footage/wasabi/*
+Disallow: /studioapi/wasabi/*
+Disallow: /sstk/api/*
+Disallow: /studioapi/*
+Disallow: /napi/*
+Disallow: /api/*
+Disallow: /feed.mhtml
+Disallow: /nuance-chat.html
+Disallow: /sw/*
+Disallow: /base/login
+Allow: */search/collections
+Allow: */editorial/collections
+Disallow: */collections
+Disallow: */generate/*
+Allow: */generate/$
+Disallow: /image-*chatId=*
+Disallow: /image-*tool=*
+Disallow: /image-*mode=*
+Disallow: /blog/?s=*
+Disallow: /cart
+
+Disallow: */search/ris/*
+Disallow: */search/models/*
+Disallow: /search/personalized/*
+Disallow: /search/similar/*
+
+# Editor Images
+Disallow: */editor/image/*
+Allow: */editor/image/$
+
+# Disallow User-Agents
+User-agent: CCBot
+Disallow: /
+
+# Allow Open-AI crawler
+User-agent: OAI-SearchBot
+Disallow: /
+# Allow blog and landing pages
+Allow: */blog/*
+Allow: */discover/*
+Allow: */explore/*
+Allow: */inspire/*
+Allow: */featured-collections/*
+Allow: */music/featured-collections/*
+Allow: */category/*
+Allow: */video/featured/*
+Allow: */business*
+Allow: */terms*
+# Allow SRPs and ADPs.
+Allow: */image-*
+Allow: */search/*
+
+# Disallow public gptbot
+User-agent: GPTBot
+Disallow: /
+
+# Allow Perplexity 
+User-agent: PerplexityBot
+Disallow: /
+# Allow blog and landing pages
+Allow: */blog/*
+Allow: */discover/*
+Allow: */explore/*
+Allow: */inspire/*
+Allow: */featured-collections/*
+Allow: */music/featured-collections/*
+Allow: */category/*
+Allow: */video/featured/*
+Allow: */business*
+Allow: */terms*
+# Allow SRPs and ADPs.
+Allow: */image-*
+Allow: */search/*
+
+# Disallow meta externalagent
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: adidxbot # Allow Bing ad bot to do it's thing
+Allow: *
+
+User-agent: bingbot # Disallow ADPs for Bing
+Allow: */image-illustration/*.jpg # Allow Images that match Image ADP paths 
+Allow: */image-illustration/*.webp
+Allow: */image-photo/*.jpg
+Allow: */image-photo/*.webp
+Allow: */image-vector/*.jpg
+Allow: */image-vector/*.webp
+Allow: */search/login
+Allow: */login$
+Allow: /login.mhtml$
+Disallow: */login
+Disallow: */base/logout
+Allow: */search/account
+Disallow: */account
+Disallow: /subscribe_success
+Allow: /download_history.mhtml$
+Disallow: /download
+Disallow: /checkout
+Disallow: /account_purchase_history.mhtml
+Disallow: /contests
+Allow: */search/portfolio
+Disallow: */portfolio
+Disallow: */editor/template
+Disallow: */editor/design
+Disallow: */editor/search
+Disallow: */video/cart
+Disallow: */video/checkout
+Disallow: */music/cart
+Disallow: */music/user
+Disallow: */music/orders
+Disallow: /web/checkout
+Disallow: /sstk/api/footage/wasabi/*
+Disallow: /studioapi/wasabi/*
+Disallow: /sstk/api/*
+Disallow: /studioapi/*
+Disallow: /napi/*
+Disallow: /api/*
+Disallow: /feed.mhtml
+Disallow: /nuance-chat.html
+Disallow: /sw/*
+Disallow: /base/login
+Allow: */search/collections
+Allow: */editorial/collections
+Disallow: */collections
+Disallow: */generate/*
+Allow: */generate/$
+Disallow: */search/ris/*
+Disallow: */search/models/*
+Disallow: */editor/image/* # Editor Images
+Allow: */editor/image/$
+Disallow: /image-*chatId=*
+Disallow: /image-*tool=*
+Disallow: /image-*mode=*
+Disallow: /blog/?s=*
+Disallow: /cart
+Disallow: /sitemaps
+Disallow: /sitemaps/*
+
+User-agent: Yandex # Disallow ADPs for Yandex (cannot combine with Bing)
+Allow: */image-illustration/*.jpg # Allow Images that match Image ADP paths
+Allow: */image-illustration/*.webp
+Allow: */image-photo/*.jpg
+Allow: */image-photo/*.webp
+Allow: */image-vector/*.jpg
+Allow: */image-vector/*.webp
+Disallow: */image-editorial/* # Disallow Editorial ADPs
+Disallow: */music/track-* # Disallow Music ADPs
+Disallow: */image-illustration/* # Disallow Image ADPs
+Disallow: */image-photo/*
+Disallow: */image-vector/*
+Disallow: */image-generated/*
+Disallow: */video/clip-* # Disallow Video ADPs
+Allow: */search/login
+Allow: */login$
+Allow: /login.mhtml$
+Disallow: */login
+Disallow: */base/logout
+Allow: */search/account
+Disallow: */account
+Disallow: /subscribe_success
+Allow: /download_history.mhtml$
+Disallow: /download
+Disallow: /checkout
+Disallow: /account_purchase_history.mhtml
+Disallow: /contests
+Allow: */search/portfolio
+Disallow: */portfolio
+Disallow: */editor/template
+Disallow: */editor/design
+Disallow: */editor/search
+Disallow: */video/cart
+Disallow: */video/checkout
+Disallow: */music/cart
+Disallow: */music/user
+Disallow: */music/orders
+Disallow: /web/checkout
+Disallow: /sstk/api/footage/wasabi/*
+Disallow: /studioapi/wasabi/*
+Disallow: /sstk/api/*
+Disallow: /studioapi/*
+Disallow: /napi/*
+Disallow: /api/*
+Disallow: /feed.mhtml
+Disallow: /nuance-chat.html
+Disallow: /sw/*
+Disallow: /base/login
+Allow: */search/collections
+Allow: */editorial/collections
+Disallow: */collections
+Disallow: */generate/*
+Allow: */generate/$
+Disallow: */search/ris/*
+Disallow: */search/models/*
+Disallow: */editor/image/* # Editor Images
+Allow: */editor/image/$
+Disallow: /image-*chatId=*
+Disallow: /image-*tool=*
+Disallow: /image-*mode=*
+Disallow: /blog/?s=*
+Disallow: /cart
+
+# Sitemaps
+Sitemap: https://www.shutterstock.com/sitemaps
+Sitemap: https://www.shutterstock.com/blog/sitemap_index.xml
+Sitemap: https://www.shutterstock.com/blog/india/sitemap_index.xml
+Sitemap: https://www.shutterstock.com/de/blog/sitemap_index.xml
+Sitemap: https://www.shutterstock.com/es/blog/sitemap_index.xml
+Sitemap: https://www.shutterstock.com/fr/blog/sitemap_index.xml
+Sitemap: https://www.shutterstock.com/ja/blog/sitemap_index.xml
+Sitemap: https://www.shutterstock.com/ko/blog/sitemap_index.xml
+Sitemap: https://www.shutterstock.com/th/blog/sitemap_index.xml
+Sitemap: https://www.shutterstock.com/pt/blog/sitemap_index.xml
+Sitemap: https://www.shutterstock.com/zh-Hant/blog/sitemap_index.xml
+# Some of our affiliate partners rely on the sitemap below to pull image data from us
+Sitemap: https://www.shutterstock.com/sitemapz/20211116/image-index.xml

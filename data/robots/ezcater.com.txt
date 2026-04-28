@@ -1,0 +1,31 @@
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+User-agent: rogerbot
+Crawl-delay: 10
+Disallow: /contact_us
+Disallow: /caterer_app
+Disallow: /caterer_portal
+Disallow: /admin
+Disallow: /sem
+
+# To ban all spiders from the entire site uncomment the next two lines:
+User-Agent: *
+crawl-delay: 1.5
+Disallow: /contact_us
+Disallow: /caterer_app
+Disallow: /caterer_portal
+Disallow: /admin
+Disallow: /sem
+Disallow: /catering/search/*
+
+# Landings has canonical tag pointing back to /brand page
+Allow: /sem/brand
+
+# Allowing Google AdsBot to crawl our amp pages in order to serve them from cache
+User-Agent: AdsBot-Google
+Allow: /sem/brand
+
+Sitemap: https://www.ezcater.com/lunchrush/sitemap_index.xml
+Sitemap: https://www.ezcater.com/index.php?sitemap=page
+Sitemap: https://static.cdn-ezcater.com/landings/sitemaps/sitemap.xml.gz
+Sitemap: https://wp.ezcater.com/sitemap-index.xml

@@ -1,0 +1,10 @@
+# robots.txt for https://rajasthan.gov.in
+
+User-agent: *
+Disallow: /
+
+# Explicitly allow these URLs
+Allow: /home
+
+# Sitemap
+Sitemap: https://rajasthan.gov.in/sitemap.xml

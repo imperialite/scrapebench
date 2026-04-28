@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /tag/
+Disallow: /2018/
+Disallow: /ads/
+Disallow: *BUS_CENSUS_NAME*
+Disallow: *BUS_MALE_NAME*
+Disallow: *BUS_FEMALE_NAME*
+Disallow: *pmin*
+Disallow: *pmax*
+Disallow: *prefv*
+Disallow: *prefn*
+Disallow: *srule*
+Disallow: *storeid*
+
+Allow: /wp-admin/admin-ajax.php
+Allow: /tag/*-mugshots
+
+User-agent: GPTBot
+Disallow: /
+User-agent: Amazonbot
+Disallow: /
+
+Sitemap: https://bustednewspaper.com/taxonomy-category-sitemaps.xml
+Sitemap: https://bustednewspaper.com/taxonomy-tag-sitemaps.xml
+Sitemap: https://bustednewspaper.com/posts-sitemap.xml
+Sitemap: https://bustednewspaper.com/pages-sitemap.xml

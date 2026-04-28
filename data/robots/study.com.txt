@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: /search/quicksearch.html
+Disallow: /search/find.html
+Disallow: /search/text/academy.html
+Allow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /

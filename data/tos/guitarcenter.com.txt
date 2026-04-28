@@ -1,0 +1,3749 @@
+Terms of Use | Guitar Center
+Cookie Policy
+We use cookies, pixels and other trackers on this website for purposes detailed in our
+Privacy Policy
+. Some trackers are offered by third parties and involve collection of your personal data by those third parties so they can provide services to us. By using this website, you agree to such uses and our
+Terms of Use
+.
+Privacy Policy
+Cookie Preferences
+Deny Cookies
+Accept All Cookies
+{
+"siteName" : "/gc",
+"mobileAppSrcCode" : "",
+
+"GCNav" : "newGCNav1",
+
+"segmentCookie" : "",
+"mobileAppItunesBanner" : "true",
+"enableClarip": true,
+"claripConsentJSUrl": "https://cdn.clarip.com/gci/clarip_consent.js",
+"claripDomain": "https://gci.clarip.com/",
+"sourceCodeId" : "7700001",
+"sourceName" : "GCDIRECTSOURCECODE1",
+"sourceSegment" : "Direct",
+"profileZipcode" : "",
+"jsonLdEnabled" : "true",
+"profileStoreId" : "",
+"onlineOnlyLessons" : "false",
+"defaultLessonsStoreId" : "101",
+"profileStoreName" : "",
+"contextPath" : "",
+"imageResizeEnabled" : "true",
+"unicaEnv" : "site-prod",
+"staticContentUrl" : "https://static.guitarcenter.com",
+"styleStaticContentUrl" : "https://static.guitarcenter.com",
+"catalogAssetStaticContentUrl" : "https://static.guitarcenter.com",
+"scene7StaticContentUrl" : "https://media.guitarcenter.com/is/image/",
+"scene7BasePath" : "MMGS7/",
+"staticVersion" : "ECMD-GC-7.7.40.3.2026.02.27.atg.a&cb=18",
+"versionParam" : "?vId=ECMD-GC-7.7.40.3.2026.02.27.atg.a&cb=18",
+"customerService" : "866-498-7882",
+"profileID" : "8902164257",
+"contentKey": "",
+"isInternational": "false",
+"isWarrantyShippable": "true",
+"isInternationalCommerceEnabled": "false",
+"currencySymbol": "$",
+
+"profileCountryCode": "US",
+"profileCurrencyCode": "USD",
+"audioEyeEnabled" : "true",
+"applePayEnabled":"false",
+
+"oLOnExitNumber": "0",
+"liveChat" : "false",
+"cookieLoggedIn" : false,
+"richRelevanceMode":"render",
+"richRelevanceApiKey":"9ed4604c5beebd43",
+"richRelevanceUserId":"",
+"richRelevanceSessionId":"6bb3b93a4cbc77dad2927e1ec026d427",
+"rrBaseUrl":"//recs.richrelevance.com/rrserver/",
+"rrChannelId":"-",
+"hashedUserIdForCriteo":"",
+"rrTimeout":"10000",
+
+"isEducatorAccount": "false",
+"sessionIsDC": "false",
+"fullyLoggedIn" : false,
+"welcomeMat" : "false",
+"powerReviewsUrl" : "//static.guitarcenter.com/",
+
+"prodEnvEnabled" : true,
+"isMobile":"false",
+
+"madMobileEnabled" : false,
+
+"rrLoadAtgRecs":"false",
+"janrainAppDomain":"https://login.guitarcenter.com",
+"janrainAppId":"fpfceefgnphmdjjkhnio",
+"janrainAppName":"login.guitarcenter.com",
+"endecaCookieSortEnabled":"true",
+"enableInstoreOnlyAddToCart":"false",
+"JSESSIONID":"",
+"isHum" : "true",
+"showEloyalty": "true"
+
+,
+"fortivaCardName":"Essentials Card"
+
+,
+"enableSiteForCurbside":true,
+"storePickUpMode":"both"
+,
+"gcProExperience":"false",
+"enableSingleLessonsPurchase":"false",
+
+"gcProApproved":"false",
+
+"gcProCheckout" : "false",
+
+"gcProStatus" : "NeverApplied",
+
+"gcProSplitCart" : "true"
+
+,"rioBaseUrl":"https://rqw9jvf3hj.execute-api.us-west-2.amazonaws.com/prod/v1/search",
+"riokey":""
+
+}
+{ "pageData": {"urls":{"powerReviewsUrl":"//static.guitarcenter.com/","catalogAssetStaticContentUrl":"static.guitarcenter.com","staticContentUrl":"//static.guitarcenter.com"},"site":{"deviceType":"d","isAudioEyeEnabled":true,"contentKey":"","endecaCookieSortEnabled":true,"prodEnvEnabled":true,"siteName":"gc","isInternationalCommerceEnabled":false,"isHum":true,"claripDomain":"https://gci.clarip.com/","enableClarip":true,"imageResizeEnabled":"","claripConsentJSUrl":"https://cdn.clarip.com/gci/clarip_consent.js","applePayEnabled":"","JSONLDEnabled":"","staticVersion":"ECMD-GC-7.7.40.3.2026.02.27.atg.a&cb=18","fortivaCardName":"Essentials Card","welcomeMat":true,"unicaEnv":"site-prod","versionParam":"?vId=ECMD-GC-7.7.40.3.2026.02.27.atg.a&cb=18","isTypeAheadEnabled":true,"isRichRelevanceEnabled":true,"audioEyeEnabled":true,"ELoyaltyEnabled":""},"product":{},"scene7":{"scene7BasePath":"MMGS7/","scene7StaticContentUrl":"media.guitarcenter.com/is/image/"},"janrain":{"appDomain":"https://login.guitarcenter.com","appName":"login.guitarcenter.com","appId":"fpfceefgnphmdjjkhnio"},"mobileApp":{"srcCode":"","itunesBanner":true},"richRelevance":{"mode":"render","loadAtgRecs":false,"baseUrl":"//recs.richrelevance.com/rrserver/","apiKey":"9ed4604c5beebd43","channelId":"-","timeout":"10000"}} }
+Skip to main content
+Skip to footer
+Hottest Deals
+Big Bang Drum Sale: Up to 25% Off
+|
+Up to $200 Off select Fender
+®
+|
+Learn How to Save 10%* with a Gear Card
+Pro Gear Advisers
+Chat
+•
+866-498-7882
+Select Store
+Sign In
+search
+search
+Guitars
+Amps & Effects
+Used & Vintage
+Keys & MIDI
+Drums
+DJ Gear
+Basses
+Recording
+Live Sound
+Accessories
+More
+Lessons
+Repairs
+Rentals
+Riffs Blog
+Mics & Wireless
+Music Software
+Lighting
+Band & Orchestra
+Platinum Gear
+Deals
+New Arrivals
+Daily Pick
+Financing
+GC Pro
+Brands
+Recently Viewed
+Guitars
+Shop All
+Guitars
+Back
+Shop All
+Guitars
+Guitars
+Classical & Nylon
+Ukuleles, Banjos & More
+Guitar Value Packs
+Electric Guitars
+Solid Body
+Hollow & Semi-Hollow Body
+Left-Handed
+Travel & Mini
+Classical & Nylon
+Ukuleles, Banjos & More
+Guitar Value Packs
+Classical & Nylon
+Ukuleles, Banjos & More
+Guitar Value Packs
+Acoustic Guitars
+Acoustic-Electric
+6-string
+12-string
+Left-Handed
+Classical & Nylon
+Ukuleles, Banjos & More
+Guitar Value Packs
+Guitar Accessories
+Guitar Strings
+Guitar Picks
+Guitar Pickups
+Cases & Gig Bags
+Guitar Stands
+Wall Hangers
+Instrument Cables
+Guitar Amps
+Effects
+Classical & Nylon
+Ukuleles, Banjos & More
+Guitar Value Packs
+Popular Brands
+Taylor
+Fender
+Epiphone
+Gibson
+Martin
+Ibanez
+Fender Custom Shop
+Gibson Custom
+Jackson
+Guitar Deals
+Guitar New Arrivals
+Guitar Top Sellers
+Exclusive Guitars
+Platinum Guitars
+Used Guitars
+Amps & Effects
+Shop All
+Amps & Effects
+Back
+Shop All
+Amps & Effects
+Amps & Effects
+Guitar Amps
+Combo Amps
+Heads
+Cabinets
+Guitar Amp Stacks
+Mini Amps
+Headphone Guitar Amps
+Acoustic Combo Guitar Amps
+Amplifier Accessories
+Amp Parts
+Amp Stands
+Covers & Cases
+Bass Amps
+Combo Amps
+Heads
+Cabinets
+Amp Stacks
+Mini Amps
+Preamps
+Pedals
+Amplifier Accessories
+Amp Parts
+Amp Stands
+Covers & Cases
+Effects
+Effects Pedals
+Multi-Effects Pedals
+Delay & Reverb
+Distortion & Overdrive
+Effects Pedal Accessories
+Pedalboards
+Power Supplies
+Popular Brands
+Fender
+Line 6
+Marshall
+BOSS
+Vox
+Orange
+Mesa Boogie
+EHX
+Amps & Effects Deals
+Amps & Effects New Arrivals
+Amps & Effects Top Sellers
+Exclusive Amps & Effects
+Used Amps & Effects
+Used & Vintage
+Shop All
+Used & Vintage
+Sell Your Gear
+Back
+Shop All
+Used & Vintage
+Used & Vintage
+Used
+Guitars
+Basses
+Amps & Effects
+Keyboards & MIDI
+Recording
+Drums
+Mics & Wireless
+DJ
+Live Sound
+Lighting
+Vintage
+Guitars
+Bass
+Amplifiers & Effects
+Keyboards & MIDI
+Drums & Percussion
+Folk & Traditional Instruments
+Pro Audio
+Sell Your Gear
+Used & Vintage Price Drops
+Keyboards & MIDI
+Shop All
+Keyboards & MIDI
+Back
+Shop All
+Keyboards & MIDI
+Keyboards & MIDI
+Keyboard Workstations
+Organs
+Portable & Arranger Keyboards
+Keyboard Accessories & Parts
+Keyboard Amplifiers & Monitors
+Keyboard & MIDI Packages
+Production & Groove
+Digital Pianos
+Home Digital Pianos
+Stage Digital Pianos
+Stands & Racks
+Benches & Stools
+Sustain, Volume & Expression Pedals
+Cases, Gig Bags & Covers
+Keyboard Workstations
+Organs
+Portable & Arranger Keyboards
+Keyboard Accessories & Parts
+Keyboard Amplifiers & Monitors
+Keyboard & MIDI Packages
+Production & Groove
+Keyboard Workstations
+Organs
+Portable & Arranger Keyboards
+Keyboard Accessories & Parts
+Keyboard Amplifiers & Monitors
+Keyboard & MIDI Packages
+Production & Groove
+MIDI
+MIDI Controllers
+MIDI Interfaces
+Keyboard Workstations
+Organs
+Portable & Arranger Keyboards
+Keyboard Accessories & Parts
+Keyboard Amplifiers & Monitors
+Keyboard & MIDI Packages
+Production & Groove
+Synthesizers & Sound Modules
+Synthesizers
+Modular Synthesizer Systems
+Synthesizer Modules
+Sound Modules
+Synthesizer & Eurorack Accessories
+Keyboard Workstations
+Organs
+Portable & Arranger Keyboards
+Keyboard Accessories & Parts
+Keyboard Amplifiers & Monitors
+Keyboard & MIDI Packages
+Production & Groove
+Popular Brands
+Yamaha
+Nord
+Williams
+Akai
+Casio
+Korg
+Roland
+teenage engineering
+Native Instruments
+Keys & MIDI Deals
+Keys & MIDI New Arrivals
+Keys & MIDI Top Sellers
+Exclusive Keys & MIDI
+Used Keys & MIDI
+Drums
+Shop All
+Drums
+Back
+Shop All
+Drums
+Drums
+Accessories
+Pedals
+Thrones
+Drum Sticks & Mallets
+Drum Heads
+Drum Hardware & Stands
+Concert Percussion
+World Percussion
+Acoustic Drums
+Drum Sets
+Snare Drums
+Floor Toms
+Mounted Toms
+Bass Drums
+Accessories
+Pedals
+Thrones
+Drum Sticks & Mallets
+Drum Heads
+Drum Hardware & Stands
+Concert Percussion
+World Percussion
+Accessories
+Pedals
+Thrones
+Drum Sticks & Mallets
+Drum Heads
+Drum Hardware & Stands
+Concert Percussion
+World Percussion
+Electronic Drums
+Electronic Drum Sets
+Electronic Drum MIDI Controllers
+Electronic Drum Modules
+Drum Amps
+Drum Machines
+Trigger Pads
+Acoustic Drum Triggers
+Accessories
+Pedals
+Thrones
+Drum Sticks & Mallets
+Drum Heads
+Drum Hardware & Stands
+Concert Percussion
+World Percussion
+Cymbals
+Cymbal Packs
+Hi-Hat Cymbals
+Crash Cymbals
+Cymbal Stands & Boom Arms
+Electronic Cymbals
+Accessories
+Pedals
+Thrones
+Drum Sticks & Mallets
+Drum Heads
+Drum Hardware & Stands
+Concert Percussion
+World Percussion
+Popular Brands
+Alesis
+DW
+Ludwig
+Meinl
+Pearl
+Remo
+Roland
+Sabian
+Simmons
+TAMA
+Yamaha
+Zildjian
+Drum Deals
+Drum New Arrivals
+Drum Top Sellers
+Exclusive Drums
+Used Drums
+DJ Equipment
+Shop All
+DJ Equipment
+Back
+Shop All
+DJ Equipment
+DJ Equipment
+Categories
+Controllers & Interfaces
+DJ CD & Media Players
+DJ Mixers
+DJ Software
+Production & Groove
+Turntables
+DJ Vinyl
+DJ Headphones
+Karaoke
+Needles & Cartridges
+DJ Accessories
+Popular Brands
+Pioneer DJ
+Numark
+Denon
+Native Instruments
+Gemini
+Rane
+Reloop
+Ortofon
+DJ Gear Deals
+DJ Gear New Arrivals
+DJ Gear Top Sellers
+Used DJ Gear
+Basses
+Shop All
+Basses
+Back
+Shop All
+Basses
+Basses
+Electric Basses
+4-String
+5-String
+6+ String
+Electric Bass Value Packs
+Fretless
+Left-Handed
+Acoustic Basses
+Fretted
+Fretless
+Left-Handed
+Double Basses
+Bass Accessories
+Strings
+Bass Effects
+Bass Amps
+Straps
+Instrument Cables
+Cases & Gig Bags
+Bass Pickups
+Stands & Wall Hangers
+Popular Brands
+Fender
+Spector
+Ibanez
+Squier
+Dean
+Rogue
+Music Man
+Schecter
+Epiphone
+Rickenbacker
+Sterling
+Yamaha
+Bass Deals
+Bass New Arrivals
+Bass Top Sellers
+Exclusive Basses
+Platinum Basses
+Used Basses
+Recording
+Shop All
+Recording
+Back
+Shop All
+Recording
+Recording
+Categories
+Audio Interfaces
+Studio Monitors
+Studio Subwoofers
+500 Series
+Audio Recorders
+Recording Packages
+Headphones
+Microphones
+Software
+Mixers
+Streaming Equipment
+Popular Brands
+Focusrite
+Universal Audio
+KRK
+Tascam
+Apple
+PreSonus
+JBL
+Recording Deals
+Recording New Arrivals
+Recording Top Sellers
+Exclusive Recording Gear
+Used Recording Gear
+Speak with a Recording Expert
+Live Sound
+Shop All
+Live Sound
+Back
+Shop All
+Live Sound
+Live Sound
+Categories
+PA Systems
+PA Speakers
+PA Subwoofers
+PA Monitors
+Power Amps
+Signal Processors
+Mixers
+Microphone & Wireless Systems
+Headphones
+Power Conditioners & Surge Protectors
+Popular Brands
+QSC
+Harbinger
+Behringer
+Electro-Voice
+Bose
+JBL
+Yamaha
+Mackie
+RCF
+Live Sound Deals
+Live Sound New Arrivals
+Live Sound Top Sellers
+Exclusive Live Sound
+Used Live Sound Gear
+Accessories
+Shop All
+Accessories
+Back
+Shop All
+Accessories
+Accessories
+Categories
+Strings
+Tuners & Metronomes
+Stands & Racks
+Cables & Snakes
+Cases & Gig Bags
+Drum Accessories
+Care & Cleaning
+Brass Accessories
+Woodwind Accessories
+Clothing & Collectibles
+Books, Sheet Music & Media
+Popular Brands
+Musician's Gear
+Fender
+Gator
+On-Stage
+Livewire
+Road Runner
+DW
+Remo
+Accessories Deals
+Accessories Top Sellers
+Exclusive Accessories
+Accessories New Arrivals
+Used Accessories
+Mics & Wireless
+Shop All
+Mics & Wireless
+Back
+Shop All
+Mics & Wireless
+Mics & Wireless
+Categories
+Microphones
+Wireless Systems
+Tube Microphones
+Condenser Microphones
+Dynamic Microphones
+Ribbon Microphones
+USB Microphones
+Drum Microphones
+Microphone Packs & Kits
+Streaming Equipment
+Popular Brands
+Shure
+Sennheiser
+Neumann
+Telefunken
+AEA Microphones
+Lewitt
+Audio-Technica
+Rode
+MXL
+AKG
+VocoPro
+Gemini
+Mics & Wireless Deals
+Mics & Wireless New Arrivals
+Mics & Wireless Top Sellers
+Exclusive Mics & Wireless
+Used Mics & Wireless Gear
+Music Software
+Shop All
+Music Software
+Back
+Shop All
+Music Software
+Music Software
+Categories
+DAW
+Virtual Instruments
+Effects Plugins
+Mixing & Mastering
+Sound Libraries
+Signal Processors
+Software Bundles
+Software Downloads
+Popular Brands
+Native Instruments
+Avid
+Image Line
+Spectrasonics
+Toontrack
+Steinberg
+Antares
+iZotope
+PreSonus
+Celemony
+Music Software Deals
+Music Software New Arrivals
+Music Software Top Sellers
+Lighting
+Shop All
+Lighting
+Back
+Shop All
+Lighting
+Lighting
+Categories
+Lighting & Effects Packages
+Intelligent Lighting
+Color Changers & Wash Lights
+Par Cans
+Lasers & Strobes
+Fog & Bubble Machines
+Lighting Controllers & Dimmer Packs
+Mirror Balls
+Gels, Gobos & Lenses
+Spotlights
+Lamps & Bulbs
+Popular Brands
+Chauvet DJ
+Venue
+American DJ
+Eliminator Lighting
+ColorKey
+JMAZ Lighting
+Blizzard
+Lighting Deals
+Lighting New Arrivals
+Lighting Top Sellers
+Exclusive Lighting
+Used Lighting
+Band & Orchestra
+Shop All
+Band & Orchestra
+Back
+Shop All
+Band & Orchestra
+Band & Orchestra
+Categories
+Woodwind Instruments
+Brass Instruments
+Orchestral Strings
+Marching Percussion
+Concert Percussion
+Classroom & Kids
+Popular Brands
+Allora
+Yamaha
+Rico Reeds
+Buffet Crampon
+Bach
+Selmer Paris
+Jo-Ral
+Jupiter
+Getzen
+P. Mauriat
+Band & Orchestra Deals
+Band & Orchestra New Arrivals
+Band & Orchestra Top Sellers
+Platinum Gear
+Shop All
+Platinum Gear
+Back
+Shop All
+Platinum Gear
+Platinum Gear
+Categories
+Platinum Electric Guitars
+Platinum Acoustic Guitars
+Platinum Basses
+Popular Brands
+Gretsch
+Fender Custom Shop
+Gibson
+Gibson Custom
+Martin
+PRS Guitars
+Rickenbacker
+Taylor
+ESP
+Ernie Ball Music Man
+Ibanez
+Jackson
+Platinum Deals
+Platinum New Arrivals
+Platinum Top Sellers
+Deals
+Shop All
+Deals
+Back
+Shop All
+Deals
+Deals
+Categories
+Guitars
+Basses
+Amps & Effects
+Recording
+Drums
+Software
+Keyboards & MIDI
+Mics & Wireless
+Live Sound
+DJ
+Lighting
+Accessories
+Open Box Clearance
+Guitars
+Basses
+Amps & Effects
+Recording
+Drums
+Keyboards & MIDI
+Mics & Wireless
+Live Sound
+DJ
+Lighting
+Accessories
+Used & Vintage Price Drops
+Guitars
+Basses
+Amps & Effects
+Recording
+Drums
+Keyboards & MIDI
+Mics & Wireless
+Live Sound
+DJ
+Lighting
+Accessories
+Vintage
+PRS Sale
+Fender Sale
+Exclusive Deals
+Bundles
+Outlet
+New Arrivals
+Shop All
+New Arrivals
+Back
+Shop All
+New Arrivals
+New Arrivals
+Categories
+Electric Guitars
+Acoustic Guitars
+Amps & Effects
+Keyboards
+Basses
+Live Sound
+Recording
+Drums
+Accessories
+Featured
+Now In Stock
+Preorders
+Guitar Center Exclusives
+Special Financing
+Trending Gear
+Platinum Gear
+Brands
+Shop All
+Brands
+Back
+Shop All
+Brands
+Brands
+A
+A Designs
+A&F Drum Co
+A&S Crafted Products
+A-Tempo Percussion
+AAS
+Accu-Stand
+Aclam Guitars
+ACON DIGITAL
+AcoustaGrip
+Acoustic
+Acoustica
+Acus Sound Engineering
+ADAM Audio
+Adams
+ADVANCE MUSIC
+AEA Microphones
+AER
+Aguilar
+Ahead
+Ahead Armor Cases
+AIAIAI
+AIM
+Air Music Tech
+AirTurn
+Akai Professional
+AKG
+Al Cass
+Alacran
+Alaska Pik
+Alesis
+Alfred
+Alhambra
+Allen & Heath
+Alliance
+Allied Music Supply
+Allora
+Allparts
+AlphaTheta
+Alpine Hearing Protection
+Altieri
+Alto
+Altus
+Aluratek
+Alvarez
+Amadeus Press
+Amati
+American Audio
+American Classics
+American DJ
+American Recorder Technologies
+Ampeg
+Amphion
+Amprx Power Solutions
+Analysis Plus
+Anchor Audio
+Andreas Eastman
+Animals Pedal
+Ansmann
+Antares
+Antelope Audio
+Antoine Courtois Paris
+Anton Breton
+Anton Eminescu
+API
+Apogee
+Applause
+Apple
+Apple Creek
+Applied Acoustics Systems
+Applied Microphone Technology
+Aquarian
+AQUILA
+Arcolla
+Argosy
+Arion Humidifier
+Arobas Music
+ARP
+Arrangers
+Arriba Cases
+Art
+Art & Lutherie
+Artino
+Artiphon
+ArtistPro
+Arturia
+Ashdown
+Asher Guitars & Lap Steels
+Ashley Mark
+Ashley Publications Inc.
+Aspen Pittman Designs
+Aston Microphones
+Atlas Sound
+Atlas-C1
+Attack Drumheads
+Audeze
+Audient
+Audiffex
+Audio Innovate
+Audio Modeling
+Audio-Technica
+Audiomodern
+Audix
+Auralex
+Ausounds
+Austrian Audio
+Avalon
+Avante
+Avantone
+Avid
+Aviom
+Axe Heaven
+AxLabs
+Azumi
+M
+M-Audio
+Mack's
+Mackie
+Maestro
+MAGMA
+Magma Cases
+Magna Cart
+Mahalo
+Majestic
+Malletech
+MALONEY StageGear Covers
+Manhasset
+Manikin Electronic
+Manley
+maono
+Mapex
+Maple Leaf Strings
+Marantz
+Marantz Professional
+Marcinkiewicz
+Marimba Warehouse
+Markbass
+Marlo Plastics
+Marshall
+Martin
+Martin Professional
+MASSIMO
+Master & Dynamic
+Matthews Effects
+Maxon
+McDSP
+McPherson
+Medallion Strings
+MEINL
+Meinl Stick & Brush
+Meinl Weston
+Mel Bay
+MeldaProduction
+Meredith Music
+Merida
+Meris
+MESA/Boogie
+METRIC HALO
+Meyer
+Meze Audio
+Mic Eze
+Mick's Picks by D'Andrea USA
+Microphome
+Microsoft
+Midas
+Middle Atlantic
+Midwest Folding Products
+Mighty Bright
+Mighty Mite
+Mikme
+Milkman Sound
+Millennia
+Miraphone
+Mirfak
+Mission Engineering
+Mitchell
+Mitchell Lurie
+MJS Music Publications
+Mobart Music Publications/Schott Helicon
+Modal Electronics Limited
+Modartt
+Modern Drummer
+Mogami
+Mojave Audio
+Mojotone
+Moku
+MONO
+Monster Cable
+Monster Oil
+Moog
+Moosmann
+Morgan Amplification
+MORGENSTEIN TOOL
+Morley
+Motion Sound
+MOTU
+MTD
+MTS Products
+MukikiM
+Mullard
+Music Minus One
+Music Nomad
+Music Sales
+Music Theatre International
+Musical Sampling
+Musician's Gear
+Musicians Institute
+MusicLab
+Musser
+Mutec
+MuzicLight
+MVD
+MVP
+MVPPLATINUM
+MWM
+MXL
+MXR
+MXR Custom Shop
+MyStage
+P
+P. Mauriat
+PACE
+Pageantry Innovations
+Paige Capo
+Paiste
+Palmer Audio
+Panyard
+Parduba
+Pat Petrillo Products
+Pavane
+pBone
+pBugle
+pBuzz
+PCDJ
+pCornet
+PDP by DW
+Peaceland Guitar Ring
+Pearl
+Pearl Flutes
+Peavey
+Pedaltrain
+Peer Music
+Peluso Microphone Lab
+Penguin Books
+Perantucci
+PERMACEL
+Perri's
+Perry's Music
+Peterson
+Petz
+Phaeton
+Phase
+Phil Jones Bass
+Phil's
+Phoenix Audio
+Phonic
+Phottix
+Pianoteq
+Pick Boy
+Pickaso Guitar Bow
+Pickbandz
+Pig Hog
+Pignose
+Pigtronix
+PinchClip
+Ping
+Pintech
+Pioneer DJ
+Pirastro
+Pittsburgh Modular Synthesizers
+Plasti Lyre
+Plasti-Folio
+Platinum Samples
+PLAYdifferently
+Pluginz
+PMC
+PocketStrings
+Point Source Audio
+Polyend
+POLYVERSE
+Pop Audio
+Pork Pie
+Portastand
+Positive Grid
+Powell
+Powell-Sonare
+Practice Tracks
+PraiseSong
+Prelude by Conn-Selmer
+Premier
+Premiere
+PreSonus
+Prim
+Primacoustic
+Pro Tour
+ProCo
+Prodipe
+ProHT
+ProjectSAM
+Proline
+Promark
+Prop-It
+ProPik
+ProRockGear
+Protec
+Protechtor Cases
+Protection Racket
+Providence
+ProX
+PRS
+PSP Audioware
+pTrumpet
+Pure Tone Technologies
+Puresound
+PWM Instruments
+Pyramid America
+D
+D&A Guitar Gear
+D'Addario
+D'Addario Woodwinds
+D'Andrea
+D'Angelico
+D.W. Fearn
+D16 Group
+Daking
+Dampit
+Danelectro
+Dangerous Music
+Danmar Percussion
+Darco
+Daredevil Pedals
+Darkglass
+Darkglass Electronics
+DataVideo
+Dava
+Daybreak Music
+dbx
+ddrum
+Dean
+Dean Markley
+DeArmond
+Death By Audio
+Decibel Eleven
+Decibullz
+Decksaver
+Deer River
+Deering
+Defender
+DEG
+Delkin
+Delta Sound Labs
+DeltaLab
+Denis Wick
+Denon DJ
+Devine Entertainment
+Dexibell
+DG De Gregorio
+Di Zhao
+Diago
+dialtune
+Diamond Head
+Diezel
+Digidesign
+DIGITAL AUDIO LABS
+Digital Music Doctor
+Digitech
+DiMarzio
+Direct Sound
+Dixon
+DJ.Studio
+DJI
+Dobro
+Doc Sweeney Drums
+DOD
+Dogman Devices
+Donato
+Donner
+DPA Microphones
+DR LISTON's
+DR Pro
+DR Strings
+Dragonfly Clothing
+Drawmer
+Dreadbox
+Dream
+Dreamtonics
+DRS Racks
+Drum Chart Builder
+Drum Fun Inc
+Drum Pike
+DrumClip
+DrumDial
+drumdots
+DRUMnBASE
+DrumTags
+Dual Turntables
+Duesenberg
+Duesenberg USA
+Dunable Guitars
+Dunlop
+Duracell
+Durand
+DV Mark
+DW
+DWe
+DYNACORD
+Dynasty
+Dynaudio
+Dynaudio Acoustics
+T
+T-Rex Engineering
+Taboo
+Tackle Instrument Supply
+Takamine
+Talicor
+TAMA
+Tama by Kanstul
+Tama Marching
+TAMBURO
+Tanglewood
+Tannoy
+Tara Publications
+TASCAM
+Taurus
+Taylor
+TC Electronic
+TC Helicon
+Technics
+TECHRA
+teenage engineering
+TELEFUNKEN
+Temple Audio Design
+Tempo
+Tera Grand
+Thalia
+The Drum Channel
+The Light Source
+The Loar
+The Lute Hole Company
+The Orchard
+The Realist
+The RimRiser
+The Rock Slide
+The String Centre
+Theo Wanne
+Theodore Presser
+Thomastik
+Thore
+Thud Rumble
+Thum-Eez
+Tiger
+TIK PIK
+Timber Drum Company
+Tinker Tar
+Titan
+Titan Field Frames
+TK Audio
+TKL
+Tobias
+Toca
+Toft Audio Designs
+Tom Crown
+Tone King
+Tonedevil Guitars
+ToneGear
+Tonelux
+TonePros
+ToneSpeak
+Tonewood Cases
+Toontrack
+Tourte
+Tovusound
+Trace Elliot
+Tracktion
+Transcontinental Music
+Traps Drums
+Trash Talk Audio
+Traveler Guitar
+Travelite
+Treeworks
+Trends International
+Triad-Orbit
+Trick
+Trident Audio
+TRO ESSEX Music Group
+Trombotine
+Trophy
+Truetone
+TRUSST
+Tuba Essentials
+Tube-Tech
+Tune-bot
+Tung-Sol
+Turbosound
+Two Notes AUDIO ENGINEERING
+Tycoon Percussion
+R
+Radial Engineering
+Railhammer
+Randall
+Randall May International
+RANE
+Rapco
+Rapco Horizon
+Raxxess
+Ray Ross
+RCF
+Real McCoy Custom
+Reason Studios
+Recording King
+Red Witch
+Reed Wizard
+ReedGeek
+Rees Harps
+Regal
+Reka
+Relab Development
+Relish Guitars
+Reloop
+Remo
+Ren Wei Shi
+Resonans
+Reunion Blues
+Reveal Sound
+Revelle
+Reverend
+Revv Amplification
+RF Venue
+Rhythm Band
+Rhythm Tech
+Richard Cocco
+RICHTER
+Rickenbacker
+Rico
+Rico Royal
+Ricordi
+Rigotti
+Rise by Sawtooth
+Rittor Music
+RME
+Road Ready
+Road Runner
+Roadie Tuner
+ROC-N-SOC
+Roche Thomas
+Rock House
+ROCK LOCKS
+ROCK OFF
+Rock Prodigy
+Rock Steady
+Rockman
+RockNRoller
+rockready
+RockStand by Warwick
+Rockstarz
+Rocktron
+RODE
+Rogers
+Rogue
+Rok-It
+Rokinon
+Roland
+Roland Cloud
+Rolls
+ROSS Electronics
+Rotosound
+Rover
+Rovner
+Row-Loff
+Royer
+Rozanna's Violins
+RTOM
+Ruach Music
+Ruby
+Rupert Neve Designs
+RZ Clarinets
+G
+G&L
+G. Henle Verlag
+G. Schirmer
+G7th
+Galaxy Audio
+Gallien-Krueger
+GAMAGO
+Gamechanger Audio
+GAMMA
+Gard
+Gator
+GATOR CABLEWORKS
+Gazley
+Gear One
+Gem Sound
+GEM Swabs
+Gemeinhardt
+Gemini
+Genalex
+Genelec
+Gentry Publications
+Genzler Amplification
+George L's
+Gerlitz
+Get'm Get'm
+Getzen
+GForce
+GHS
+Giardinelli
+Gibraltar
+Gibson
+Gibson Custom
+Gig Gear
+Ginger Audio
+Gitane
+Glaesel
+Glasser
+Global Creative Group
+GLOBAL TRUSS
+Glorious
+Glowtronics
+Glyph
+Godin
+Godlyke
+Gold Tone
+Golden Age Project
+Gon Bops
+Gonzalez
+Goodview
+Goodwood
+GoPro
+Gorilla Snot
+Gorilla Tips
+Gotoh
+Grace Design
+Graph Tech
+GRAVITY PICKS
+Gravity Stands
+Gretsch
+Gretsch Drums
+Gretsch Guitars
+Groove Juice
+Groove Synthesis
+Groove Tubes
+GROOVETECH TOOLS, INC.
+GROVER
+Grover Pro
+Grover-Trophy
+Gruv Gear
+Gruv Glide
+Gruv-X
+Guild
+Guitar Center
+Guitar Triller
+Guitar World
+GuitarGrip
+Guy's Publishing
+C
+C&D Visionary
+CAD
+CadLive
+CAIG
+Canadian Brass
+Caparison Guitars
+Cardinal Percussion
+Carl Fischer
+Carl Martin
+Carlisle Cases
+CARTEC Audio
+Casio
+Catalinbread
+CB Percussion
+Celemony
+Celestion
+Cengage Learning
+Centerstream Publishing
+Cerwin-Vega
+Chamsys
+Chandler Limited
+Chaos Audio
+Chapman
+Charter Oak Acoustics
+Charvel
+CHAUVET DJ
+CHAUVET Professional
+Chedeville
+Cherry Audio
+Cherry Lane
+Chester Music
+ChopSaver
+CIOKS
+Circa 74
+Clark W Fobes
+Classical Destinations Educational
+Clayton
+Cleartone
+Cloud
+CME
+Coffin Case
+Cole Clark
+ColorKey
+Conn
+Conn-Selmer
+Control Acoustics
+COOL
+Cool Wind
+Cooperstand
+CopperSound Pedals
+Cordoba
+Corelli
+Cort
+Course Technology PTR
+CP
+CRAFTER
+crazybaby
+Cre8audio
+Creative Concepts
+Creative Tunings
+Cremona
+Crown
+CTM
+Curnow Music
+Curry
+Cusack Music
+Cymbal Crown
+Cympad
+H
+H. Jimenez
+H. Wilson
+H.W.
+Habanero Pickups by Grover Jackson
+Hagerty
+Hagstrom
+Hal Leonard
+Hamilton
+Hammond
+Hans Hoyer
+HansenFutz
+Happy Socks
+Harbinger
+HARDCASE
+Harmon
+Harmonic Vision
+Harmony
+Harper Trucks
+Harrison
+Harry Hartmann
+Headliner
+HeadRush
+Headway
+Hearos
+Heather Brown Electronicals
+Heavyocity
+HEDD
+Heil Sound
+Hennessey
+Henry Heller
+Hercules
+Hercules DJ
+Heritage
+Hetman
+HexHider
+Hidersine
+Hill
+Hilo
+HINGESTIX
+Hinkler
+Hinshaw Music
+Hit'n'Mix
+HK AUDIO
+Hodge
+Hofner
+Hohner
+Holton
+Homespun
+Honeytone
+Hornberg Research
+Hosa
+Hot Licks
+Hot Sox
+House of Blues
+Hudson Music
+Hughes & Kettner
+Huiksi Music Company
+Huisku Music
+Humes & Berg
+HumiCase
+L
+L Lab
+La Bella
+La Tromba
+La Voz
+Lab Gruppen
+Lace
+Lag Guitars
+Lake People
+Lakland
+Lamp Lite
+Laney
+Langevin
+Lanikai
+Larsen Strings
+Laskey
+Lauten Audio
+Lava
+LAVA MUSIC
+LD Systems
+LEA Professional
+Leblanc
+Lee Oskar
+Legator
+Legendary Strings
+Legere Reeds
+Lehle
+Leo Quan Badass
+Leslie
+Levante
+Levy's
+LEWITT
+Lexicon
+Licklibrary
+Lighting
+Line 6
+Littlite
+Livemix
+Livewire
+LM Products
+LMI
+Lock-It Straps
+Logickeyboard
+Logitech
+Logjam
+Londoner Bows
+Los Cabos Drumsticks
+LOW BOY
+Loxx
+LP
+LR Baggs
+LsL Instruments
+Lucero
+Lucid Audio
+Lucida
+Luckies
+Ludwig
+Luna
+Luyben
+Lynx
+Lyons
+K
+K&M
+K. Bell
+Kaces
+Kala
+Kali Audio
+Kanile'a Ukulele
+Kaotica
+Karl Willhelm
+Kasza Cymbals
+KAT Percussion
+Kauer Guitars
+Kawai
+KB Covers
+Keeley
+Keith McMillen
+Kelly SHU
+Kemper
+Kendrick
+Kentucky
+Kernom
+Key Leaves
+Keyfax
+KEYTAB
+Kickport
+KickPro
+Kicktone
+Kilpatrick Audio
+Kimbo
+King
+King David
+Kirlin
+KJOS
+Klark Teknik
+Kluson
+KNA
+Knc Picks
+Knilling
+Kohala
+Kohlert
+Kolstein
+KORG
+Kramer
+Krane
+Kratt
+Kremona
+KRK
+KSP
+KTS Titanium
+Kuassa
+Kun
+Kuppmen Music
+Kurzweil
+Kurzweil Home
+Kustom
+Kustom PA
+KV331 Audio
+Kydd Basses
+Kyser
+E
+E-Cords
+E. Rousseau
+Earasers
+EAROS
+Earthenware
+EarthQuaker Devices
+Earthworks
+Eastman
+EastWest
+Ebow
+EBS
+Ecler
+Eden
+Editions Durand
+Educational Activities
+EFNOTE
+Egnater
+Elation
+Electro-Harmonix
+Electro-Voice
+Elektron
+Eliminator Lighting
+Elixir
+Elysia
+eMedia
+EMG
+Emma Electronic
+Empirical Labs
+Empress Effects
+Endust
+Engelhardt
+ENGL
+ENKI
+Epiphone
+EQUI=TECH
+Ernie Ball
+Ernie Ball Music Man
+Erogenous Tones
+ESP
+Essential Pak
+Etude
+Etymotic Research
+Eulenburg
+EvaBeat
+EVANS
+Eventide
+Everly
+EVH
+Exponential Audio
+Expressive E
+Extendabone
+EZ Dupe
+F
+Faber Music LTD
+Faber Piano Adventures
+FabFilter
+Fat Cat
+Favored Nations
+Faxx
+Fender
+Fender Custom Shop
+Ferrofish
+Fibracell
+Finger Fitness
+Fingerease
+FingerWeights
+Firestix
+First Note
+Fischer Amps
+Fishman
+FJH Music
+Flea Market Music
+Flight
+Flock Audio
+Florea
+Floyd Rose
+Fluid Audio
+Focal
+Focusrite
+Fodera Guitars
+Forestone
+FORTALEZA GUITARS
+Fostex
+Fox
+Franklin Strap
+Fred Bock Music
+Fred Kelly Picks
+Frederick Hemke
+Freedom
+Fret Daddy
+Fret12
+Fret37
+Friedman
+Fryette
+Fuchs
+Funko
+Furman
+Fusion
+J
+J & D Hite
+J Meinlschmidt
+J. La Salle
+J. Winter
+J.Rockett Audio Designs
+Jackson
+Jackson Audio
+Jade
+Jambone
+Jamey Aebersold
+Jamhub
+JamStands
+Jamstik
+Jargar
+Jasmine
+Jawbone Press
+JAZZLAB
+JBE Pickups
+JBL
+JBL Bag
+Jet-Tone
+JetSlide
+Jewel
+JH Audio
+JHS
+JHS Pedals
+JICO
+JMAZ Lighting
+JMR Electronics
+JN Guitars
+Jo-Ral
+Jodi Head
+JodyJazz
+Joia Tubes
+Jose Ramirez
+Joyo
+JUBILATE
+Juice Goose
+Jupiter
+W
+Walden
+Waldorf
+WalkaBout
+Walrus Audio
+Walrus Productions
+Walton Music
+Waltons
+Wampler
+Warburton
+Warm Audio
+Warner Bros
+Warwick
+Washburn
+Wathen CryoTone Tubes
+Wave Arts
+WaveDNA
+Way Huge Electronics
+WD Music
+WEA
+WesAudio
+Westone Audio
+WFLIII Drums
+Whirlwind
+Wilfin Music
+Williams
+Willis Music
+Willson
+Win-D-Fender
+Wishbone
+Wm. S Haynes Amadeus
+Wolf
+Wolff Audio
+Woodrow Guitars
+Word Music
+Wrap-It Storage Straps
+Wren And Cuff
+Wuhan
+Wylde Audio
+N
+n-Track
+Nady
+NANLITE
+Natal Drums
+National
+National Public Seating
+Native Instruments
+Native Tongue
+NativeAudio
+NBO Oneboard
+Neat
+Nektar
+Neotech
+Neumann
+Neunaber
+Neutrik
+Neve
+Newfangled Audio
+Nexus Lights
+Nightfox Audio
+Nino
+No Nuts
+No1 Stretch Strap
+Nobels
+Noble & Cooley
+Nomad
+Nord
+Noteflight
+Nova
+Novation
+Novello
+NS Design
+NuGen Audio
+Numark
+Nuvo
+NUX
+O
+Oasis
+Oberheim
+Ocean Way
+Odyssey
+Off the Wall
+OffSet
+Ohma World
+Oklahoma Sound
+Old Blood Noise Endeavors
+Omnirax
+On-Stage
+One Control
+Optima
+Orange Amplifiers
+Orange County Drum & Percussion
+Orangewood
+Ortega
+Ortofon
+Otamatone
+Otto Link
+Otto Musica
+Outlaw Effects
+Output
+Ovation
+Overloud
+Overseas Connection
+Oyaide
+I
+Ibanez
+Icon
+Iconic Concepts
+iConnectivity
+IK Multimedia
+Ilio
+Image Line
+Impact Soundworks
+Indigisounds
+Ingles
+Innovative Percussion
+Inspired Acoustics
+Integrity Music
+INTERNET Co.
+Interstellar Audio Machines
+Intuitive Instruments
+ION
+Iron Horse
+Islander
+IsoAcoustics
+IsoNode
+ISOVOX
+Istanbul Agop
+Istanbul Mehmet
+iZotope
+V
+V-MODA
+V7
+Valencia
+Valentino
+Vandor
+Vandoren
+Vanguard Audio Labs
+Vater
+Vaultz
+Vega
+VEI
+Venue
+VHT
+Vibes
+Vibramate
+Vic Firth
+Vienna Symphonic Library
+View Video
+Vito
+VocoPro
+VOGGENREITER
+Von Frankenstein Monster Gear
+Voodoo Lab
+VOX
+VTG
+U
+u-he
+UDO Audio
+UFIP
+Ultimate Acoustics
+Ultimate Ears
+Ultimate Support
+Ultra-Pure
+Ultrasone
+Undertone Audio
+Unique Engineering
+Universal Audio
+Universal Music Group
+X
+X8 Drums
+XCHANGE
+Xeros
+XHUN Audio
+XL Specialty Percussion
+XLN Audio
+XLNTSOUND
+XO
+Xotic
+Xtensor
+Xvive
+Z
+ZapZorn
+Zildjian
+ZipSpin
+Zoom
+ZT
+ZVEX
+Zynaptiq
+Q
+Q Parts
+QSC
+Quaid Schott Media Productions
+Quik-Lok
+Quilter Labs
+#
+1010music
+512 Audio
+65amps
+920D Custom
+Y
+Yamaha
+Yorkville
+B
+B&O Play
+B&S
+B.C. Rich
+Baby Audio
+Bach
+Backbeat Books
+Backun
+Bad Cat
+BAE
+Baker Street
+Balter Mallets
+Bam
+BandStorage.com
+Barcus Berry
+Barefoot Buttons
+Barefoot Sound
+Barn3
+Bartolini
+Bass Drum O's
+Bass Plate
+BASSBOSS
+Basslines
+BBE
+BC Audio
+BCM International
+Bearcat
+Bears for Humanity
+Beechler
+Beetronics FX
+Behringer
+Belkin
+Bellafina
+Belmonte
+BELWIN
+BENRO
+Bergerault
+Berklee Press
+Berp
+Besson
+Best Service
+beyerdynamic
+Beyron Audio
+BG
+Big Bang Distribution
+Big Bends
+Big Fat Snare Drum
+Big Fish
+Bigsby
+Bill Edwards Publishing
+Bitwig
+BK Media
+Black Box Analog
+Black Cherry USA
+Black Diamond
+Black Ice
+Black Label
+Black Lion Audio
+Black Market Modular
+Black Swamp Percussion
+Blackmagic Design
+Blackstar
+Blessing
+BlissLights
+Blitz
+Blizzard
+Blue
+Blue Cat Audio
+Blue Juice
+Blueridge
+BluGuitar
+Bob Reeves
+Bobcat
+Bobelock
+Bogner
+Bonade
+BONE Drums
+BongoTies
+Boomwhackers
+Boosey and Hawkes
+Bose
+Bosphorus Cymbals
+BOSS
+Boveda
+Bow-Right
+Brainwerks
+Bravo Reeds
+Breath Builder
+Breedlove
+Brian May Guitars
+Bridge
+Brilhart
+Bristol
+British Drum Co.
+BROADWAY GIFTS
+Brookfield
+Browntrout Publishing
+BSS Audio
+BSX Bass
+Buffet Crampon
+Bugera
+Bundy
+BURKART
+Burl Audio
+BusyBox
+Buttkicker
+C
+C&D Visionary
+CAD
+CadLive
+CAIG
+Canadian Brass
+Caparison Guitars
+Cardinal Percussion
+Carl Fischer
+Carl Martin
+Carlisle Cases
+CARTEC Audio
+Casio
+Catalinbread
+CB Percussion
+Celemony
+Celestion
+Cengage Learning
+Centerstream Publishing
+Cerwin-Vega
+Chamsys
+Chandler Limited
+Chaos Audio
+Chapman
+Charter Oak Acoustics
+Charvel
+CHAUVET DJ
+CHAUVET Professional
+Chedeville
+Cherry Audio
+Cherry Lane
+Chester Music
+ChopSaver
+CIOKS
+Circa 74
+Clark W Fobes
+Classical Destinations Educational
+Clayton
+Cleartone
+Cloud
+CME
+Coffin Case
+Cole Clark
+ColorKey
+Conn
+Conn-Selmer
+Control Acoustics
+COOL
+Cool Wind
+Cooperstand
+CopperSound Pedals
+Cordoba
+Corelli
+Cort
+Course Technology PTR
+CP
+CRAFTER
+crazybaby
+Cre8audio
+Creative Concepts
+Creative Tunings
+Cremona
+Crown
+CTM
+Curnow Music
+Curry
+Cusack Music
+Cymbal Crown
+Cympad
+D
+D&A Guitar Gear
+D'Addario
+D'Addario Woodwinds
+D'Andrea
+D'Angelico
+D.W. Fearn
+D16 Group
+Daking
+Dampit
+Danelectro
+Dangerous Music
+Danmar Percussion
+Darco
+Daredevil Pedals
+Darkglass
+Darkglass Electronics
+DataVideo
+Dava
+Daybreak Music
+dbx
+ddrum
+Dean
+Dean Markley
+DeArmond
+Death By Audio
+Decibel Eleven
+Decibullz
+Decksaver
+Deer River
+Deering
+Defender
+DEG
+Delkin
+Delta Sound Labs
+DeltaLab
+Denis Wick
+Denon DJ
+Devine Entertainment
+Dexibell
+DG De Gregorio
+Di Zhao
+Diago
+dialtune
+Diamond Head
+Diezel
+Digidesign
+DIGITAL AUDIO LABS
+Digital Music Doctor
+Digitech
+DiMarzio
+Direct Sound
+Dixon
+DJ.Studio
+DJI
+Dobro
+Doc Sweeney Drums
+DOD
+Dogman Devices
+Donato
+Donner
+DPA Microphones
+DR LISTON's
+DR Pro
+DR Strings
+Dragonfly Clothing
+Drawmer
+Dreadbox
+Dream
+Dreamtonics
+DRS Racks
+Drum Chart Builder
+Drum Fun Inc
+Drum Pike
+DrumClip
+DrumDial
+drumdots
+DRUMnBASE
+DrumTags
+Dual Turntables
+Duesenberg
+Duesenberg USA
+Dunable Guitars
+Dunlop
+Duracell
+Durand
+DV Mark
+DW
+DWe
+DYNACORD
+Dynasty
+Dynaudio
+Dynaudio Acoustics
+E
+E-Cords
+E. Rousseau
+Earasers
+EAROS
+Earthenware
+EarthQuaker Devices
+Earthworks
+Eastman
+EastWest
+Ebow
+EBS
+Ecler
+Eden
+Editions Durand
+Educational Activities
+EFNOTE
+Egnater
+Elation
+Electro-Harmonix
+Electro-Voice
+Elektron
+Eliminator Lighting
+Elixir
+Elysia
+eMedia
+EMG
+Emma Electronic
+Empirical Labs
+Empress Effects
+Endust
+Engelhardt
+ENGL
+ENKI
+Epiphone
+EQUI=TECH
+Ernie Ball
+Ernie Ball Music Man
+Erogenous Tones
+ESP
+Essential Pak
+Etude
+Etymotic Research
+Eulenburg
+EvaBeat
+EVANS
+Eventide
+Everly
+EVH
+Exponential Audio
+Expressive E
+Extendabone
+EZ Dupe
+F
+Faber Music LTD
+Faber Piano Adventures
+FabFilter
+Fat Cat
+Favored Nations
+Faxx
+Fender
+Fender Custom Shop
+Ferrofish
+Fibracell
+Finger Fitness
+Fingerease
+FingerWeights
+Firestix
+First Note
+Fischer Amps
+Fishman
+FJH Music
+Flea Market Music
+Flight
+Flock Audio
+Florea
+Floyd Rose
+Fluid Audio
+Focal
+Focusrite
+Fodera Guitars
+Forestone
+FORTALEZA GUITARS
+Fostex
+Fox
+Franklin Strap
+Fred Bock Music
+Fred Kelly Picks
+Frederick Hemke
+Freedom
+Fret Daddy
+Fret12
+Fret37
+Friedman
+Fryette
+Fuchs
+Funko
+Furman
+Fusion
+G
+G&L
+G. Henle Verlag
+G. Schirmer
+G7th
+Galaxy Audio
+Gallien-Krueger
+GAMAGO
+Gamechanger Audio
+GAMMA
+Gard
+Gator
+GATOR CABLEWORKS
+Gazley
+Gear One
+Gem Sound
+GEM Swabs
+Gemeinhardt
+Gemini
+Genalex
+Genelec
+Gentry Publications
+Genzler Amplification
+George L's
+Gerlitz
+Get'm Get'm
+Getzen
+GForce
+GHS
+Giardinelli
+Gibraltar
+Gibson
+Gibson Custom
+Gig Gear
+Ginger Audio
+Gitane
+Glaesel
+Glasser
+Global Creative Group
+GLOBAL TRUSS
+Glorious
+Glowtronics
+Glyph
+Godin
+Godlyke
+Gold Tone
+Golden Age Project
+Gon Bops
+Gonzalez
+Goodview
+Goodwood
+GoPro
+Gorilla Snot
+Gorilla Tips
+Gotoh
+Grace Design
+Graph Tech
+GRAVITY PICKS
+Gravity Stands
+Gretsch
+Gretsch Drums
+Gretsch Guitars
+Groove Juice
+Groove Synthesis
+Groove Tubes
+GROOVETECH TOOLS, INC.
+GROVER
+Grover Pro
+Grover-Trophy
+Gruv Gear
+Gruv Glide
+Gruv-X
+Guild
+Guitar Center
+Guitar Triller
+Guitar World
+GuitarGrip
+Guy's Publishing
+H
+H. Jimenez
+H. Wilson
+H.W.
+Habanero Pickups by Grover Jackson
+Hagerty
+Hagstrom
+Hal Leonard
+Hamilton
+Hammond
+Hans Hoyer
+HansenFutz
+Happy Socks
+Harbinger
+HARDCASE
+Harmon
+Harmonic Vision
+Harmony
+Harper Trucks
+Harrison
+Harry Hartmann
+Headliner
+HeadRush
+Headway
+Hearos
+Heather Brown Electronicals
+Heavyocity
+HEDD
+Heil Sound
+Hennessey
+Henry Heller
+Hercules
+Hercules DJ
+Heritage
+Hetman
+HexHider
+Hidersine
+Hill
+Hilo
+HINGESTIX
+Hinkler
+Hinshaw Music
+Hit'n'Mix
+HK AUDIO
+Hodge
+Hofner
+Hohner
+Holton
+Homespun
+Honeytone
+Hornberg Research
+Hosa
+Hot Licks
+Hot Sox
+House of Blues
+Hudson Music
+Hughes & Kettner
+Huiksi Music Company
+Huisku Music
+Humes & Berg
+HumiCase
+I
+Ibanez
+Icon
+Iconic Concepts
+iConnectivity
+IK Multimedia
+Ilio
+Image Line
+Impact Soundworks
+Indigisounds
+Ingles
+Innovative Percussion
+Inspired Acoustics
+Integrity Music
+INTERNET Co.
+Interstellar Audio Machines
+Intuitive Instruments
+ION
+Iron Horse
+Islander
+IsoAcoustics
+IsoNode
+ISOVOX
+Istanbul Agop
+Istanbul Mehmet
+iZotope
+J
+J & D Hite
+J Meinlschmidt
+J. La Salle
+J. Winter
+J.Rockett Audio Designs
+Jackson
+Jackson Audio
+Jade
+Jambone
+Jamey Aebersold
+Jamhub
+JamStands
+Jamstik
+Jargar
+Jasmine
+Jawbone Press
+JAZZLAB
+JBE Pickups
+JBL
+JBL Bag
+Jet-Tone
+JetSlide
+Jewel
+JH Audio
+JHS
+JHS Pedals
+JICO
+JMAZ Lighting
+JMR Electronics
+JN Guitars
+Jo-Ral
+Jodi Head
+JodyJazz
+Joia Tubes
+Jose Ramirez
+Joyo
+JUBILATE
+Juice Goose
+Jupiter
+K
+K&M
+K. Bell
+Kaces
+Kala
+Kali Audio
+Kanile'a Ukulele
+Kaotica
+Karl Willhelm
+Kasza Cymbals
+KAT Percussion
+Kauer Guitars
+Kawai
+KB Covers
+Keeley
+Keith McMillen
+Kelly SHU
+Kemper
+Kendrick
+Kentucky
+Kernom
+Key Leaves
+Keyfax
+KEYTAB
+Kickport
+KickPro
+Kicktone
+Kilpatrick Audio
+Kimbo
+King
+King David
+Kirlin
+KJOS
+Klark Teknik
+Kluson
+KNA
+Knc Picks
+Knilling
+Kohala
+Kohlert
+Kolstein
+KORG
+Kramer
+Krane
+Kratt
+Kremona
+KRK
+KSP
+KTS Titanium
+Kuassa
+Kun
+Kuppmen Music
+Kurzweil
+Kurzweil Home
+Kustom
+Kustom PA
+KV331 Audio
+Kydd Basses
+Kyser
+L
+L Lab
+La Bella
+La Tromba
+La Voz
+Lab Gruppen
+Lace
+Lag Guitars
+Lake People
+Lakland
+Lamp Lite
+Laney
+Langevin
+Lanikai
+Larsen Strings
+Laskey
+Lauten Audio
+Lava
+LAVA MUSIC
+LD Systems
+LEA Professional
+Leblanc
+Lee Oskar
+Legator
+Legendary Strings
+Legere Reeds
+Lehle
+Leo Quan Badass
+Leslie
+Levante
+Levy's
+LEWITT
+Lexicon
+Licklibrary
+Lighting
+Line 6
+Littlite
+Livemix
+Livewire
+LM Products
+LMI
+Lock-It Straps
+Logickeyboard
+Logitech
+Logjam
+Londoner Bows
+Los Cabos Drumsticks
+LOW BOY
+Loxx
+LP
+LR Baggs
+LsL Instruments
+Lucero
+Lucid Audio
+Lucida
+Luckies
+Ludwig
+Luna
+Luyben
+Lynx
+Lyons
+M
+M-Audio
+Mack's
+Mackie
+Maestro
+MAGMA
+Magma Cases
+Magna Cart
+Mahalo
+Majestic
+Malletech
+MALONEY StageGear Covers
+Manhasset
+Manikin Electronic
+Manley
+maono
+Mapex
+Maple Leaf Strings
+Marantz
+Marantz Professional
+Marcinkiewicz
+Marimba Warehouse
+Markbass
+Marlo Plastics
+Marshall
+Martin
+Martin Professional
+MASSIMO
+Master & Dynamic
+Matthews Effects
+Maxon
+McDSP
+McPherson
+Medallion Strings
+MEINL
+Meinl Stick & Brush
+Meinl Weston
+Mel Bay
+MeldaProduction
+Meredith Music
+Merida
+Meris
+MESA/Boogie
+METRIC HALO
+Meyer
+Meze Audio
+Mic Eze
+Mick's Picks by D'Andrea USA
+Microphome
+Microsoft
+Midas
+Middle Atlantic
+Midwest Folding Products
+Mighty Bright
+Mighty Mite
+Mikme
+Milkman Sound
+Millennia
+Miraphone
+Mirfak
+Mission Engineering
+Mitchell
+Mitchell Lurie
+MJS Music Publications
+Mobart Music Publications/Schott Helicon
+Modal Electronics Limited
+Modartt
+Modern Drummer
+Mogami
+Mojave Audio
+Mojotone
+Moku
+MONO
+Monster Cable
+Monster Oil
+Moog
+Moosmann
+Morgan Amplification
+MORGENSTEIN TOOL
+Morley
+Motion Sound
+MOTU
+MTD
+MTS Products
+MukikiM
+Mullard
+Music Minus One
+Music Nomad
+Music Sales
+Music Theatre International
+Musical Sampling
+Musician's Gear
+Musicians Institute
+MusicLab
+Musser
+Mutec
+MuzicLight
+MVD
+MVP
+MVPPLATINUM
+MWM
+MXL
+MXR
+MXR Custom Shop
+MyStage
+N
+n-Track
+Nady
+NANLITE
+Natal Drums
+National
+National Public Seating
+Native Instruments
+Native Tongue
+NativeAudio
+NBO Oneboard
+Neat
+Nektar
+Neotech
+Neumann
+Neunaber
+Neutrik
+Neve
+Newfangled Audio
+Nexus Lights
+Nightfox Audio
+Nino
+No Nuts
+No1 Stretch Strap
+Nobels
+Noble & Cooley
+Nomad
+Nord
+Noteflight
+Nova
+Novation
+Novello
+NS Design
+NuGen Audio
+Numark
+Nuvo
+NUX
+O
+Oasis
+Oberheim
+Ocean Way
+Odyssey
+Off the Wall
+OffSet
+Ohma World
+Oklahoma Sound
+Old Blood Noise Endeavors
+Omnirax
+On-Stage
+One Control
+Optima
+Orange Amplifiers
+Orange County Drum & Percussion
+Orangewood
+Ortega
+Ortofon
+Otamatone
+Otto Link
+Otto Musica
+Outlaw Effects
+Output
+Ovation
+Overloud
+Overseas Connection
+Oyaide
+P
+P. Mauriat
+PACE
+Pageantry Innovations
+Paige Capo
+Paiste
+Palmer Audio
+Panyard
+Parduba
+Pat Petrillo Products
+Pavane
+pBone
+pBugle
+pBuzz
+PCDJ
+pCornet
+PDP by DW
+Peaceland Guitar Ring
+Pearl
+Pearl Flutes
+Peavey
+Pedaltrain
+Peer Music
+Peluso Microphone Lab
+Penguin Books
+Perantucci
+PERMACEL
+Perri's
+Perry's Music
+Peterson
+Petz
+Phaeton
+Phase
+Phil Jones Bass
+Phil's
+Phoenix Audio
+Phonic
+Phottix
+Pianoteq
+Pick Boy
+Pickaso Guitar Bow
+Pickbandz
+Pig Hog
+Pignose
+Pigtronix
+PinchClip
+Ping
+Pintech
+Pioneer DJ
+Pirastro
+Pittsburgh Modular Synthesizers
+Plasti Lyre
+Plasti-Folio
+Platinum Samples
+PLAYdifferently
+Pluginz
+PMC
+PocketStrings
+Point Source Audio
+Polyend
+POLYVERSE
+Pop Audio
+Pork Pie
+Portastand
+Positive Grid
+Powell
+Powell-Sonare
+Practice Tracks
+PraiseSong
+Prelude by Conn-Selmer
+Premier
+Premiere
+PreSonus
+Prim
+Primacoustic
+Pro Tour
+ProCo
+Prodipe
+ProHT
+ProjectSAM
+Proline
+Promark
+Prop-It
+ProPik
+ProRockGear
+Protec
+Protechtor Cases
+Protection Racket
+Providence
+ProX
+PRS
+PSP Audioware
+pTrumpet
+Pure Tone Technologies
+Puresound
+PWM Instruments
+Pyramid America
+Q
+Q Parts
+QSC
+Quaid Schott Media Productions
+Quik-Lok
+Quilter Labs
+R
+Radial Engineering
+Railhammer
+Randall
+Randall May International
+RANE
+Rapco
+Rapco Horizon
+Raxxess
+Ray Ross
+RCF
+Real McCoy Custom
+Reason Studios
+Recording King
+Red Witch
+Reed Wizard
+ReedGeek
+Rees Harps
+Regal
+Reka
+Relab Development
+Relish Guitars
+Reloop
+Remo
+Ren Wei Shi
+Resonans
+Reunion Blues
+Reveal Sound
+Revelle
+Reverend
+Revv Amplification
+RF Venue
+Rhythm Band
+Rhythm Tech
+Richard Cocco
+RICHTER
+Rickenbacker
+Rico
+Rico Royal
+Ricordi
+Rigotti
+Rise by Sawtooth
+Rittor Music
+RME
+Road Ready
+Road Runner
+Roadie Tuner
+ROC-N-SOC
+Roche Thomas
+Rock House
+ROCK LOCKS
+ROCK OFF
+Rock Prodigy
+Rock Steady
+Rockman
+RockNRoller
+rockready
+RockStand by Warwick
+Rockstarz
+Rocktron
+RODE
+Rogers
+Rogue
+Rok-It
+Rokinon
+Roland
+Roland Cloud
+Rolls
+ROSS Electronics
+Rotosound
+Rover
+Rovner
+Row-Loff
+Royer
+Rozanna's Violins
+RTOM
+Ruach Music
+Ruby
+Rupert Neve Designs
+RZ Clarinets
+S
+SABIAN
+Sabra Som
+SafCord
+Salyers Percussion
+Samson
+Saramonic
+SAUDER
+Savannah
+Savarez
+Sawtooth
+Sax Dakota
+Schaller
+SCHAUM
+Schecter Guitar Research
+Scherl and Roth
+Schilke
+Schlagwerk
+Schott
+Schott Japan
+sE Electronics
+Seagull
+Secrets of the Pros
+Seiko
+Sela
+Selmer
+Selmer Paris
+Sennheiser
+Sequential
+Sequenz
+SERATO
+Sevilla Classical Guitar Strings
+SEYDEL
+Seymour Duncan
+Shadow Electronics
+Shaker
+Shawnee Press
+Sheeran by Lowden
+Sheeran Looper
+Sheptone
+Sherman
+Shredneck
+Shubb
+Shubb-Pearse
+Shure
+Silver Creek
+Silverstein Works
+Silvertone
+Simmons
+Singin' Dog
+Singular Sound
+Sire
+SIT Strings
+SJC
+SJC Drums
+SK
+SKB
+Skoove
+Slate Digital
+Slide-O-Mix
+Slider Straps
+Slingerland
+Slug Percussion
+Snareweight LLC
+Snark
+Snarling Dogs
+SofiaMari
+Soldano
+Solid State Logic
+Solid State Logic Software
+SOLOMON MiCS
+Sonarworks
+Song Without Borders
+SONIBLE
+Sonic Reality
+SONiVOX
+Sonnet
+Sonnox
+Sonoma Wire Works
+SONOR
+Sonor Orff
+Sonuscore
+Sonuus
+Sony
+Souldier
+Sound City
+Sound Particles
+Sound Percussion Labs
+Sound Radix
+Soundbrenner
+Soundcraft
+SOUNDRISE
+SoundSwitch
+Soundtoys
+Source Audio
+Southern
+Sovtek
+Soyuz Microphones
+Spaceman Effects
+Spector
+Spectra 1964
+Spectra Sound
+Spectrasonics
+Spitfire Audio
+SPL
+Squier
+Sshhmute
+Stage Ninja
+Stageline
+Stager Microphones
+Stagg
+Standard
+Standtastic
+Stanton
+Startec
+Stay
+Stedman
+Steinberg
+Steinberger
+Sterisol
+Sterling Audio
+Sterling by Music Man
+Steven Slate Audio
+Stick Gripps
+Stork
+strandberg
+String Letter Publishing
+String Sling
+String Swing
+Stringjoy
+Strobel
+Strukture
+Strymon
+Studio 49
+Studio Devil
+Studio Trends
+Studiologic
+Suck UK
+Sugal
+SUGAR BYTES
+Suhr
+Summit Audio
+Super Sensitive
+Super7
+Superslick
+Supro
+Surfy Industries
+Suzuki
+Svetlana
+Sweet Pipes
+SwirlyGig
+Switchcraft
+Sybersound
+Synchro Arts
+Synergy
+Synthogy
+T
+T-Rex Engineering
+Taboo
+Tackle Instrument Supply
+Takamine
+Talicor
+TAMA
+Tama by Kanstul
+Tama Marching
+TAMBURO
+Tanglewood
+Tannoy
+Tara Publications
+TASCAM
+Taurus
+Taylor
+TC Electronic
+TC Helicon
+Technics
+TECHRA
+teenage engineering
+TELEFUNKEN
+Temple Audio Design
+Tempo
+Tera Grand
+Thalia
+The Drum Channel
+The Light Source
+The Loar
+The Lute Hole Company
+The Orchard
+The Realist
+The RimRiser
+The Rock Slide
+The String Centre
+Theo Wanne
+Theodore Presser
+Thomastik
+Thore
+Thud Rumble
+Thum-Eez
+Tiger
+TIK PIK
+Timber Drum Company
+Tinker Tar
+Titan
+Titan Field Frames
+TK Audio
+TKL
+Tobias
+Toca
+Toft Audio Designs
+Tom Crown
+Tone King
+Tonedevil Guitars
+ToneGear
+Tonelux
+TonePros
+ToneSpeak
+Tonewood Cases
+Toontrack
+Tourte
+Tovusound
+Trace Elliot
+Tracktion
+Transcontinental Music
+Traps Drums
+Trash Talk Audio
+Traveler Guitar
+Travelite
+Treeworks
+Trends International
+Triad-Orbit
+Trick
+Trident Audio
+TRO ESSEX Music Group
+Trombotine
+Trophy
+Truetone
+TRUSST
+Tuba Essentials
+Tube-Tech
+Tune-bot
+Tung-Sol
+Turbosound
+Two Notes AUDIO ENGINEERING
+Tycoon Percussion
+U
+u-he
+UDO Audio
+UFIP
+Ultimate Acoustics
+Ultimate Ears
+Ultimate Support
+Ultra-Pure
+Ultrasone
+Undertone Audio
+Unique Engineering
+Universal Audio
+Universal Music Group
+V
+V-MODA
+V7
+Valencia
+Valentino
+Vandor
+Vandoren
+Vanguard Audio Labs
+Vater
+Vaultz
+Vega
+VEI
+Venue
+VHT
+Vibes
+Vibramate
+Vic Firth
+Vienna Symphonic Library
+View Video
+Vito
+VocoPro
+VOGGENREITER
+Von Frankenstein Monster Gear
+Voodoo Lab
+VOX
+VTG
+W
+Walden
+Waldorf
+WalkaBout
+Walrus Audio
+Walrus Productions
+Walton Music
+Waltons
+Wampler
+Warburton
+Warm Audio
+Warner Bros
+Warwick
+Washburn
+Wathen CryoTone Tubes
+Wave Arts
+WaveDNA
+Way Huge Electronics
+WD Music
+WEA
+WesAudio
+Westone Audio
+WFLIII Drums
+Whirlwind
+Wilfin Music
+Williams
+Willis Music
+Willson
+Win-D-Fender
+Wishbone
+Wm. S Haynes Amadeus
+Wolf
+Wolff Audio
+Woodrow Guitars
+Word Music
+Wrap-It Storage Straps
+Wren And Cuff
+Wuhan
+Wylde Audio
+X
+X8 Drums
+XCHANGE
+Xeros
+XHUN Audio
+XL Specialty Percussion
+XLN Audio
+XLNTSOUND
+XO
+Xotic
+Xtensor
+Xvive
+Y
+Yamaha
+Yorkville
+Z
+ZapZorn
+Zildjian
+ZipSpin
+Zoom
+ZT
+ZVEX
+Zynaptiq
+#
+1010music
+512 Audio
+65amps
+920D Custom
+GC Advantages
+Pick Up In Store
+Sound Advice
+Pro Coverage
+International Orders
+Gift Cards
+Pro Coverage
+Overview
+Financing
+Guitar Center Gear Card
+Business-to-Business Program
+Equipment Leasing
+Communicate with Us
+Manage My Subscriptions
+Store Feedback
+Website Feedback
+Gear Advisor/Online Sales Assistance
+Corporate Relations
+Company Information
+History
+Press Room
+Careers
+Business Partnerships
+Marketing Partnerships
+Commercial Account
+Policies
+Terms of Use
+Privacy Policy
+Purchase Terms
+Return Policy
+Dispute Resolution Policy
+Low Price Guarantee
+Rental Terms
+Repair Disclaimer
+Limited Availability Products
+Shipping, Taxes and Title Policy
+CA Transparency in Supply Chain Act
+IRS Forms 8937
+Lessons Terms & Conditions
+Mobile Terms & Conditions
+Back to Customer Service
+Policies
+Last Revised: November 6,  2019
+GUITAR CENTER GENERAL TERMS OF USE
+PLEASE READ THESE GUITAR CENTER GENERAL TERMS AND CONDITIONS OF USE ("TERMS OF USE") CAREFULLY AS THEY CONTAIN IMPORTANT INFORMATION ABOUT YOUR RIGHTS AND OBLIGATIONS, AS WELL AS LIMITATIONS AND EXCLUSIONS.
+THESE TERMS OF USE INCORPORATE THE FOLLOWING OTHER GUITAR CENTER POLICIES:
+THE GUITAR CENTER
+DISPUTE RESOLUTION POLICY
+, WHICH REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES RATHER THAN JURY TRIALS OR CLASS ACTIONS;
+THE GUITAR CENTER
+PRIVACY POLICY
+; AND
+THE
+GUITAR CENTER PURCHASE TERMS
+, WHICH APPLY IF YOU MAKE A PURCHASE FROM GUITAR CENTER.
+THE
+GUITAR CENTER RENTAL TERMS
+, WHICH APPLY IF YOU RENT EQUIPMENT FROM GUITAR CENTER.
+BY CONTINUING TO USE THE SITE AFTER HAVING THE OPPORTUNITY TO READ THESE TERMS OF USE,  YOU AGREE TO THEM; IF YOU DO NOT AGREE TO THESE TERMS OF USE, YOU MAY NOT ACCESS OR USE THIS SITE.
+In these Terms of Use, the terms "Guitar Center," "we," "our," and "us" refer to Guitar Center Stores, Inc.  These Terms of Use govern your access to, and use of all or any part of the website located at www.guitarcenter.com, the Guitar Center mobile application (the "App") and any website or mobile application owned or operated by Guitar Center Stores, Inc. that directs the user to these Terms of Use (collectively, the "Site").
+License and Use of Content
+Subject to these Terms of Use, Guitar Center grants you a limited, revocable, royalty-free license (the "License") to view the content and materials (including User Content, as defined below) contained on the Site (the "Contents") and to make only such copies as may be incidentally created during your exercise of the License through the normal operation of a commercially available web browser and a gateway cache and proxy to access the Content from the Guitar Center server. You are not granted any right to use Guitar Center trademarks, logos, trade dress (including without limitation the layout of the Site) or other intellectual property, and all such items shall remain our exclusive property.
+You may only use the Site and the Content for your own Personal Use, as defined below, and you have no right to transfer, assign or use the Content for any other purpose or to allow or enable anyone else to do so.  Personal use means nothing commercial or charitable, whether or not money or other compensation or consideration is involved and whether or not it is for your benefit or for the benefit of someone else ("Personal Use").  You are not allowed to use, display, reproduce, perform, adapt, translate, modify, create derivative works from, publish, distribute, disseminate and/or broadcast Content, except for your own User Content, as defined below,  without our express prior written consent.  You may not alter, delete or conceal copyright or other notices.
+If we provide desktop, mobile or other applications for download, you may download a single copy to your computer or mobile device solely for your own Personal Use, provided you agree to be bound by our end user license agreement or other terms for such applications.  If we provide social media features which allow you to share information or content about or from the Site on social media or otherwise allow you to connect the Site with your social media account, you may take such actions as are enabled by such features.
+Unauthorized or prohibited use of Content may subject you to civil liability, criminal prosecution, or both under federal, state and local laws. Except as expressly provided above, nothing contained herein shall be construed as conferring any license or right under any copyright or other intellectual property right.
+Modification
+Guitar Center reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Site or any part thereof with or without notice. You agree that Guitar Center will not be liable to you or to any third party for any modification, suspension, or discontinuance of the Site.
+Submissions
+All remarks, suggestions, ideas, graphics, data, resumes, questions or other information that you communicate to Guitar Center through the Site, by facsimile, through the mail (electronic or otherwise), through a mobile device or through any other means (a "Submission"), will forever be the property of Guitar Center, excluding User Content, as defined below.  Unless otherwise specified in our Privacy Policy, Guitar Center will not treat any Submission as confidential or proprietary and will not be liable for the use of any ideas for its business (including, without limitation, service or promotion ideas) and will not incur any liability as a result of any similarities that may appear in future Guitar Center products, services or operations. Without limitation, Guitar Center will have exclusive ownership of all present and future existing rights to the Submission for any commercial or other purpose whatsoever, without compensation to you or any other person sending the Submission. You acknowledge that you are responsible for whatever material you submit, and that you, not Guitar Center, have full responsibility for the Submission, including its legality, reliability, appropriateness, originality, and copyright.
+Accuracy of Content and Pricing Information
+Because prices, product descriptions and availability can change quickly, Guitar Center does not warrant the accuracy or completeness of the information provided on the Site, in its stores or in electronic or written materials and is not responsible for pricing, typographical or other errors.  Guitar Center may make changes to the information contained herein, including to the products and prices described on the Site, at any time, without prior notice to you (including after you have submitted an order). Information on the Site is periodically updated, but it may not be current or complete at the moment you use the Site and may contain errors or inaccuracies. In no event shall Guitar Center or its service or product providers be liable to you in any manner whatsoever for any decision made by you, or for any act or failure to act by you, in reliance upon information provided on the Site. See our
+Purchase Terms
+for more information about pricing and purchases.
+Registration and Account Creation
+The Site may allow you to register and create an account (including via social media log-in information) ("Account") in order to access or Post (as defined below) certain content on the Site or to purchase products or services on the Site. If you create an Account, you agree to provide accurate and complete information about yourself and to maintain and update such information so it remains accurate and complete following registration. Failure to provide accurate and complete information or to update such information shall be grounds for us to suspend or terminate your Account.
+You are responsible for maintaining the confidentiality of your Account log-in and password information and for any activities that occur through your Account.  We are not liable for any harm caused or related to the theft or misappropriation of your Account information or your authorization of anyone else to use your Account information. You agree to immediately notify us if you become aware of or believe there is or may have been any unauthorized use of your Account or if you wish to deactivate your Account due to security concerns.
+User Content and Posting on the Site
+Sections of the Site may enable you to submit, provide, transmit, exchange, communicate and display (a "Post" or "Posting") content, messages, photos or profiles (except for Submissions, "User Content").  Guitar Center will not own or retain any rights to the User Content you post on the Site, other than those limited technical permissions required in order to display, store and serve the User Content.
+1.	You understand and agree that Guitar Center has the right, but not the obligation, to investigate, take legal action against and review and delete any Account and/or User Content that, in its sole judgment, violates these Terms of Use, might be offensive or illegal, might harm, violate the rights of, or threaten the safety of others, or might in any way be deemed unsuitable by Guitar Center.
+2.	You are solely responsible for the User Content that you Post.
+3.	By Posting User Content, you represent and warrant that you have the right to grant, and do grant, to Guitar Center a revocable, perpetual, non-exclusive, fully paid, worldwide license to use, copy, perform, display and distribute such User Content to prepare derivative works of, or incorporate into other works, such User Content, and to grant and authorize sublicenses of the foregoing, but only for the purpose of its use on our Site in connection with your Post(s).  You also represent and warrant that you have all permissions and licenses necessary to grant such rights to Guitar Center, including, by way of example, "right of publicity" and other rights relating to the reproduction of names and/or likenesses of any individuals which appear in such User Content.  You may revoke any of the foregoing licenses by deleting the applicable licensed User Content pursuant to the instructions provided on the Site.  However, Guitar Center may retain copies of such User Content for non-public, non-commercial archival use.
+4.	Guitar Center prohibits Posting User Content that includes, but is not limited to, content that:
+a.	is patently offensive to the community, such as content that promotes racism, bigotry, hatred or physical harm of any kind against any group, organization or individual;
+b.	harasses or advocates harassment of another person, group or organization;
+c.	involves the transmission of “junk mail,” “chain letters,” or unsolicited mass mailing or “spamming;”
+d.	involves information that you know is false, misleading or promotes illegal activities or conduct that is abusive, threatening, obscene, defamatory or libelous;
+e.	promotes or distributes illegal or unauthorized copies of the copyrighted works of others (examples include, without limitation providing pirated computer programs or links to them, providing information to circumvent manufacture-installed copy-protect devices, and/or providing pirated music/video or links to pirated music/video files);
+f.	contains restricted or password only access pages, or hidden pages or images (those not linked to or from another accessible page);
+g.	infringes on the rights of privacy or publicity of any individual or misappropriates the name and/or likeness of another;
+h.	includes material that solicits personal information from anyone, especially from individuals under the age of 18;
+i.	includes material that is lewd, obscene, contains nudity or depicts sexual activities or contains sexually suggestive content, including photographs;
+j.	contains any material that depicts, describes or threatens violence;
+k.	contains words or descriptions that are reasonably considered vulgar, course or crude;
+l.	provides instructional information about illegal activities such as making or buying illegal weapons, using or obtaining illegal drugs, violating someone's privacy, or providing or creating computer viruses;
+m.	solicits passwords or personal identifying information for commercial or unlawful purposes from other users; and/or
+n.	engages in any unauthorized commercial activities, solicitations and/or sales.
+5.	You must use the Site in a manner consistent with any and all applicable laws and regulations.
+6.	You may not engage in advertising to, or solicitation of, other users of the Site including, but not limited to, through any offer to buy or sell any products or services.
+Disclaimer of Warranties
+This Disclaimer of Warranties ("Disclaimer") applies only to your free use of the Site.  This Disclaimer does not apply to, for example, your purchase of any product or service from Guitar Center.
+Guitar Center is not offering the Site, in whole or in part, for sale to you.  These Terms of Use are not a contract for sale, and the Site is not a "good" within the meaning of the Uniform Commercial Code.
+INSTEAD, THE SITE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND. WITHOUT LIMITING THE FOREGOING, GUITAR CENTER EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ALL WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+We do not represent and warrant that the functions contained on the Site will be un-interrupted or error-free, that defects will be corrected, or that the server that makes the Content available will be free of viruses or other harmful components.  Further, Guitar Center will not provide for specific IT infrastructure or connectivity.
+We do not represent or warrant the accuracy or completeness of any Content (including User Content) posted on the Site. We are not responsible for the conduct, whether online or offline, of any users of the Site.
+Limitation of Liability
+The following Limitation of Liability ("Limitation") applies only to your free use of the Site.  This Limitation does not apply to, for example, your purchase of any product or service from Guitar Center.
+Your use of the Site is at your own risk.  You agree that our sole obligation to you is to provide the Site "as is."  Neither Guitar Center nor any of our employees, officers, directors, nor any of our agents or any other party involved in creating, producing, or delivering the Site shall be liable to you or any third party for your use of, or the inability to use, the Site or the Content except in cases of (1) gross negligence, recklessness, or an act of knowing or intentional willful misconduct; or (2) a violation of a consumer protection statute in connection with the Site.
+IN NO EVENT SHALL GUITAR CENTER BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND, INCLUDING, WITHOUT LIMITATION, THOSE RESULTING FROM LOSS OF USE OR PROFITS, WHETHER OR NOT GUITAR CENTER HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES, ARISING OUT OF OR IN CONNECTION WITH THE USE OF THE SITE. GUITAR CENTER’S TOTAL CUMULATIVE LIABILITY IN CONNECTION WITH THESE TERMS OF USE AND THE USE OF THE SITE, WHETHER IN CONTRACT OR TORT OR OTHERWISE, SHALL NOT EXCEED $1,000. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
+Copyright
+The Site and the Content are copyrighted works of Guitar Center and/or its suppliers or users. Neither the Site nor the Content may be reproduced, displayed, modified or adapted, distributed or transmitted in any form by any means (including, but not limited to, electronic duplication or transmission) without our prior written permission.
+You may not post, distribute, or reproduce in any way any copyrighted material, trademarks, or other intellectual property or proprietary information without obtaining the prior written consent of the owner of such proprietary rights.
+Without limiting the foregoing, if you believe that your work has been copied and posted on the Site in a way that constitutes copyright infringement, please provide our Designated Copyright Agent with the following information: an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest; a description of the copyrighted work that you claim has been infringed; a description of where the material that you claim is infringing is located on the Site; your address, telephone number, and email address; a written statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf. Guitar Center’s Designated Copyright Agent for notice of claims of copyright infringement can be reached as follows: Guitar Center Legal Counsel, 5795 Lindero Canyon Rd, Westlake Village, CA 91362.
+Restricted Rights Legend
+Use, duplication, or disclosure by the United States Government is subject to the restrictions set forth in DFARS 252.227-7013 (c)(1)(ii) and FAR 52.227-19.
+Trademarks
+All trademarks are owned by their respective owners or are used under license.
+For further information on intellectual property matters contact Guitar Center, Attn: Legal Counsel, at 5795 Lindero Canyon Road, Westlake Village, CA 91362. For questions or technical problems regarding this service, please contact the webmaster.
+Contests, Sweepstakes and Promotions
+From time to time, we may conduct promotions on or through the Site, including, without limitation, contests and sweepstakes (each, a "Promotion"). Each Promotion may have Official Rules or other terms and limitations which will be posted or otherwise made available to you and, for purposes of that Promotion, will be deemed incorporated into and form a part of these Terms of Use.  To the extent that the terms for any Promotion conflict with these Terms of Use, the terms for that Promotion shall control with respect to that Promotion only.
+Links to Other Websites
+If you see or use any links or conduits on the Site which allow you to browse, redirect or visit any other websites, web pages or other internet or web-based locations, it does not mean that Guitar Center is associated with or has endorsed, reviewed or even knows anything about that website or page and we have no obligation, responsibility or liability to you or anyone else if you go to another website, page or address outside the Site, even if a link on the Site  allowed you to do so. When you leave the Site, you should confirm the terms and conditions, privacy and other policies that apply to you since Guitar Center neither controls, nor has any responsibility for any third party sites (unless they are expressly owned by us), their practices or anything associated with their operations.
+Modification to Terms of Use
+Guitar Center may modify these Terms of Use at any time.  When we make changes to these Terms of Use, we will change the "Last Revised" date above.  If a material change is made to these Terms of Use, we will post notice of that change on the first page of these Terms of Use.   By using the Site, you agree to be bound by any such revisions, and you should periodically visit this page of the Site to examine the then-current Terms of Use by which you are bound. Certain provisions of these Terms of Use may be superseded by expressly designated legal notices or terms located on particular pages of the Site.
+Severability
+If any provision of these Terms of Use is held by a court of competent jurisdiction to be unenforceable for any reason, the remaining provisions hereof shall be unaffected and remain in full force and effect.
+Indemnification
+You agree to indemnify and hold harmless Guitar Center and its affiliated companies against all costs, expenses, damages, losses and liabilities incurred or suffered by Guitar Center or our affiliated companies resulting from any violation by you of these Terms of Use.
+Governing Law
+These Terms of Use shall for all purposes be governed by and interpreted in accordance with federal law and the laws of the State of California as those laws are applied to contracts entered
+Headings
+The section headings used herein are for convenience of reference only and do not form a part of these Terms of Use, and no construction or inference shall be derived therefrom.
+Contact Us
+If you have any questions, you may contact Guitar Center at:
+Guitar Center
+5795 Lindero Canyon Road
+Westlake Village, CA 91362
+855-770-3373
+Our Site may be covered by U.S. Patent No. 5,930,474
+Nothing in this Agreement prohibits or otherwise limits you from posting either a negative or positive review.
+{"sourceCode":"gcdirectsourcecode1","siteSection":"customer service","reportSuiteIds":"guitarcenterprod","pageType":"customer service","ATGID":"8902164257","category":"customer service: policies","pageName":"customer service: policies"}
+Be the first to know about exclusive offers, tips and more.
+Email Address (Required)
+Yes, I would like to receive emails with news and offers from Guitar Center.
+Other Ways to Shop
+Financing
+App
+Gift Cards
+866-498-7882
+Connect With Us
+Facebook
+Opens in new window
+X
+Opens in new window
+YouTube
+Opens in new window
+Instagram
+Opens in new window
+TikTok
+Opens in new window
+Your Account
+Order History
+Returns
+Wish List
+Email Preferences
+Business Accounts
+Features
+Rebates
+Apply for Leasing
+Pro Coverage
+Press Room
+Support
+Service & Support
+Policies
+About
+Careers
+Site Map
+Locations
+Accessibility Statement
+How Are We Doing?
+Contact Us
+Better Business Bureau
+(opens in new window)
+Copyright © Guitar Center, Inc.
+All Rights Reserved.
+California Transparency Act
+Purchase Terms & Conditions
+Your Privacy Rights
+Terms of Use
+Do Not Sell or Share My Info
+Data Rights Request
+Cookie Preferences
+https://guitarcenter.egain.net/system/templates/chat/guitarcenter/chat.html?entryPointId=1001&templateName=guitarcenter&languageCode=en&countryCode=US&ver=v11
+/common/chatPopup.jsp?entryPointId=1001&brandId=GCChat&sourceId=GCChat
+866-498-7882
+English
+877-687-5402
+Español
+Chat Now
+Gift Card
+Customer
+Service
+Financing
+Mobile App
+Facebook
+X
+YouTube
+Instagram
+TikTok
+Give Feedback
+Terms of Use
+Terms & Conditions
+Privacy Policy
+Accessibility Statement
+CA Transparency Act
+Do Not Sell or Share My Info
+Data Rights Request
+Cookie Preferences
+Better Business Bureau
+(opens in new window)
+Copyright © Guitar Center Inc.
+You are changing the Ship-To country.
+Our product catalog varies by country due to manufacturer
+restrictions. If you change the Ship-To country, some or
+all of the items in your cart may not ship to the
+new destination.
+Cancel
+Previous
+Next
+Help
+Guitar Center Support
+×
+Hey there.
+How can we help you out?
+We're here for your gear needs.
+Track your order
+Returns
+Store Locator
+Guitar Center Lessons
+Live Chat
+855-458-1036
+MON - FRI 6AM - 8PM PT
+SAT 6AM - 6PM PT
+SUN 6AM - 5PM PT
+Chat sessions may be recorded by Guitar Center for training, quality, and improvement purposes. More info:
+Privacy Policy

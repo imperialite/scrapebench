@@ -1,0 +1,361 @@
+Website terms
+Website Terms
+
+Effective Date: January 27, 2026
+
+THIS AGREEMENT CONTAINS A BINDING ARBITRATION AGREEMENT, WHICH PROVIDES THAT YOU AND WE AGREE TO RESOLVE CERTAIN DISPUTES THROUGH BINDING ARBITRATION AND GIVE UP ANY RIGHT TO HAVE THOSE DISPUTES DECIDED BY A JUDGE OR A JURY. YOU HAVE THE RIGHT TO OPT OUT OF OUR AGREEMENT TO ARBITRATE. SEE THE “DISPUTE RESOLUTION” SECTION OF THIS AGREEMENT.
+
+The terms and conditions of these Website Terms and any addendums thereto (the “Agreement”) govern your use of the Site(s) (as defined below) including your participation in our online community (whether you're registered, contributing content or just browsing). Please read and check this Agreement regularly as it may change from time to time.
+
+Definitions
+
+The term “Services,” means, collectively, various websites, applications, widgets, email notifications and other media, or portions of such media, through which you have accessed this Agreement. 
+
+The term “Content” means, collectively all text, photographs, images, illustrations, designs, audio clips, video clips, “look and feel,” metadata, data, articles, graphics, images, scripts, software code or the like associated with any and all Services provided.
+
+The terms “we”, “us”, “our” and “Lonely Planet” refer to Lonely Planet Global, Inc. 
+
+The terms “you” and “your” refer to you, the user of the Site.
+
+Using our Sites
+
+By using any website owned and operated by Lonely Planet, such as Lonelyplanet.com (the “Site(s)”) you agree to be bound by this Agreement.
+
+No commercial use of Sites is permitted. You may use the Sites for personal, non-commercial purposes only.
+
+If you are under the age of 18 you need your parents' permission before using the Sites or registering.
+
+Prohibited Use of the Service
+
+You may not access or use the Services in violation of applicable laws, including export controls and sanctions, or in violation of our or any third party’s intellectual property or other proprietary or legal rights. As between you and us, we are the sole and exclusive owner of the Services and Content. Any use or access, as further detailed below, is strictly prohibited without written consent by us.  
+
+You may not access or use, or attempt to access or use the Services to take any action that could harm us or a third party. You further agree that you will not attempt (or encourage or support others) to circumvent, reverse engineer, decrypt, or otherwise alter or interfere with the Services or any Content or make any unauthorized use of the Services. 
+
+Additionally, you agree that you will not:
+
+use any robot, spider, scraper, deep link, or other similar automated data gathering or extraction tools, program, algorithm, or methodology to “scrape”, access, acquire, copy, or monitor our Services or any portion of our Services or for any other purpose, without our prior written permission;
+take any action that imposes, or may impose in our sole discretion, an unreasonable or disproportionately large load on our infrastructure; 
+copy, reproduce, modify, create derivative works from, compile, disassemble, distribute, or publicly display any Content (except for your personal information) from our Services without our prior written permission and the appropriate third party, as applicable;  
+interfere or attempt to interfere with the proper working of our Services or any activities conducted on our Services;
+bypass any robot exclusion headers or other measures we may use to prevent or restrict access to our Services; nor 
+use the Services for the development of any software algorithm, program, machine learning model, neural network, artificial intelligence or generative artificial intelligence (AI) tool, including, but not limited to, training or using the Services in connection with the development or operation of a machine learning or AI system.  This includes any use of the Content for training, adjustments, or grounding any machine learning or AI system, including as part of retrieval-augmented generation.
+For the avoidance of doubt, you are specifically prohibited hereunder from performing any “text and data mining” (TDM) activities as those activities are described under Art. 4 of the EU Directive on Copyright in the Digital Single Market.
+
+Notwithstanding the foregoing, we allow public search engine operators to use web crawlers to copy materials from our Services. This permission is granted solely for creating publicly available search indices of our Services' content and does not extend to creating caches or archives of these materials. We may revoke this permission at any time, either broadly or for specific cases.
+
+Unless expressly allowed in this Agreement, you must not:
+
+Collect or harvest any personally identifiable information, including account names, from our Services or Content;
+Use any communication systems provided by our Services (such as forums or email) for commercial or solicitation purposes; nor
+Solicit users of our Services for commercial purposes without our prior written consent.
+Lonely Planet trademarks and copyright
+
+All content on the Sites is owned by Lonely Planet Global Inc. (us) or licensed to us by our registered users and other licensees. You may not copy, store, scrape or use any part of our site without permission.
+
+Our trademarks (including but not limited to Lonely Planet, and Lonely Planet Journeys) may not be used in any way or for any purpose without our permission.
+
+More information about our intellectual property, can be found here.
+
+Contributing to the Sites
+
+If you engage with someone else’s application on a site (e.g. using or posting content on the application), an independent legal relationship is formed between you and the application provider. An application provider may impose terms on your use of their application.
+
+You agree that all of your contribution to the site is your own work. You license us the non-exclusive, perpetual, irrevocable, royalty-free, worldwide rights to reproduce, communicate, edit, store, adapt or otherwise use any content you upload to the site, including any feedback that you submit through the site, via third party applications available through the site, on the site and in our other products (your content). This includes the right to sublicense to others at our discretion.
+
+You also consent to your content being altered, edited or adapted for such uses, or to ensure your content does not infringe this Agreement or breach the law, as we see fit. Although we generally attribute you as the author, it's not always possible. So you consent to us not attributing authorship to you, or only attributing your registered 'handle'. We will ask you before publishing your real name.
+
+Prohibited content. You must ensure that your content does not contain anything that breaches any laws or rights, including by:
+
+defaming any person
+breaching any intellectual property rights
+containing personal information (contrary to our privacy policy)
+containing commercial advertising
+containing excessively coarse language or content which would be rated R or X 
+If you would like to include someone else's copyright material, trademark or other intellectual property in your content you must first obtain and keep their written permission.
+
+Removal of content and termination of accounts
+
+We may remove your content from the Sites in our discretion.
+
+We may terminate or suspend your registration (and any future accounts) if you breach this Agreement.
+
+Reporting abuse
+
+IF YOU BELIEVE ANY CONTENT ON OUR SITES INFRINGES THIS AGREEMENT, PLEASE USE THE REPORT ABUSE FUNCTION AVAILABLE THROUGHOUT THE SITES.
+
+Reporting defamation
+
+A defamation notification must contain the following information:
+
+Your name and email address;
+The location of the comments on our website that you are referring to, including what the comments are and why you believe they are defamatory;
+The meaning that you attribute to the comments and what aspects you believe are incorrect or just opinions;
+Confirmation that you do not have sufficient contact details of the users who have posted the comments (the Poster/s) to pursue this matter directly with those Poster/s; and
+Confirmation that you consent to Lonely Planet providing your name and/or email to the Posters.
+Please note that your notification must be in writing and signed either by hardcopy or electronically by email to community@lonelyplanet.com with ‘Defamation notification’ in the subject line.
+
+Upon receipt of a valid defamation notification, we will contact the Poster/s in relation to their comments.
+
+Reporting copyright infringements
+
+Lonely Planet respects intellectual property rights, and this Agreement is intended to comply with the requirements of the Online Copyright Infringement Liability Limitation Act and the Digital Millennium Copyright Act. Company will investigate notices of copyright infringement and take appropriate actions under the Digital Millennium Copyright Act, Title 17, United States Code, Section 512(c)(2) (“DMCA”). If you believe that your work has been copied on the Site in a way that constitutes copyright infringement, please provide our copyright agent the written information specified below:
+
+(a)               An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest.
+
+(b)               A description of the copyrighted work that you claim has been infringed upon.
+
+(c)               A description of where the material that you claim is infringing is located on the Services.
+
+(d)               Your address, telephone number, and email address.
+
+(e)               A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.
+
+(f)                A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
+
+Pursuant to the DMCA, written notification of claimed copyright infringement must be submitted to the following designated agent:
+
+Julia Archer
+939 Burke Street
+Winston-Salem, NC 27101
+
+Your privacy
+
+The purposes for which we collect your personal information when you register or email us are: administering the site, sending you a password, contacting you about your content and keeping in touch with you.
+
+You can access and update your personal information in the 'profile' section at any time.
+
+We may disclose information about you to our authors (some of whom work on contract to us) and other Lonely Planet companies. If your content breaches this Agreement or the law, we may pass your details and IP address on to a law enforcement agency. Don't worry, we won't sell your contact details to marketing companies for spamming!
+
+To find out more, please read our privacy policy.
+
+Liability and Disclaimer
+
+You must:
+
+own all of the work you upload to the Sites or have the permission from the owner of the content to upload it;
+be able to grant Lonely Planet the rights under this Agreement (so, for example, you cannot grant us exclusive rights if you have already granted someone else exclusive rights); and
+obtain the consent of the owner of any work incorporated into the content you upload on the Sites;
+because serious legal consequences can happen to you, Lonely Planet, and other parties if you do not (like legal action for infringement).
+
+ You indemnify Lonely Planet against all losses, costs and expenses directly incurred by Lonely Planet, in connection with a demand, allegation, action, proceeding or claim that you do not own all of your work, you are not able to grant Lonely Planet rights or you do not have the consent of an owner to incorporate their work into yours. Lonely Planet must take reasonable steps to mitigate its loss.
+
+YOU AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO OUR SERVICES MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
+
+THE FOLLOWING APPLIES TO END USERS WHO LIVE OUTSIDE AUSTRALIA, THE UK AND THE EU:
+
+WE ARE NOT RESPONSIBLE TO YOU OR ANYONE ELSE FOR ANY LOSS, DAMAGE, LIABILITY, COST OR EXPENSE SUFFERED IN CONNECTION WITH THE USE OF THE SITE OR ANY CONTENT OR SERVICES AVAILABLE VIA THE SITES. THE SITES ARE PROVIDED “AS IS”. THE INFORMATION ON THE SITES IS GENERAL AND MAY NOT BE SUITABLE FOR YOUR PARTICULAR NEEDS. YOU SHOULD VERIFY CRITICAL INFORMATION (LIKE ADVICE ABOUT VISAS AND HEALTH AND SAFETY) INDEPENDENTLY BEFORE YOU TRAVEL.
+
+WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE SITES OR THEIR CONTENT AND EXCLUDE, TO THE MAXIMUM EXTENT PERMITTED BY LAW, ANY LIABILITY WHICH MAY ARISE AS A RESULT OF THEIR USE. WE WILL NEVER BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL LOSS, OR LOSS OF PROFITS OR REVENUE ARISING OUT OF THE USE OF OUR SITES. YOU INDEMNIFY LONELY PLANET AGAINST EACH CLAIM, ACTION, PROCEEDING, JUDGMENT, DAMAGE, LOSS, EXPENSE OR LIABILITY INCURRED OR SUFFERED BY, OR BROUGHT, MADE OR RECOVERED AGAINST US IN CONNECTION WITH ANY BREACH BY YOU OF THIS AGREEMENT.
+
+Nothing in this Agreement excludes liability for death or personal injury caused by negligence, or liability for fraudulent misrepresentation. Subject to the previous sentence, our liability to you under this Agreement is limited to resupply of the content or services accessed via the Sites.
+
+THE FOLLOWING APPLIES TO END USERS WHO LIVE WITHIN AUSTRALIA, THE UK AND THE EU:
+
+ WE USE REASONABLE CARE AND SKILL TO ENSURE THE ACCURACY OF THE INFORMATION PROVIDED ON THE SITES. INFORMATION CONTAINED ON THE SITES MAY NOT BE FULLY ACCURATE AND IS PROVIDED “AS IS”.
+
+However, certain laws also provide non-excludable statutory guarantees, conditions or warranties for the supply of certain goods or services. Nothing in this Agreement is to be taken to exclude, restrict or modify any guarantee, condition or warranty that Lonely Planet is prohibited by law from excluding restricting or modifying.
+
+Subject to your rights under law (which cannot be excluded), Lonely Planet:
+
+DOES NOT WARRANT OR GUARANTEE THAT THE SITES WILL BE 100% ACCURATE OR CONTINUOUS AT ALL TIMES. THE INFORMATION CONTAINED ON THE SITE IS GENERAL AND MAY NOT BE SUITABLE FOR YOUR PARTICULAR NEEDS; and
+is not responsible for:
+loss that was not reasonably foreseeable;
+loss that was not caused by Lonely Planet’s breach of contract or by Lonely Planet’s negligence;
+business losses (such as lost data, lost profits or business interruptions) or loss suffered by non-consumers;
+losses caused by factors which could reasonably be considered to be outside Lonely Planet’s control (such as faults in third party equipment); and
+any loss caused, or contributed to, by your breach of contract or your negligence.
+Subject to the above paragraph, Lonely Planet is responsible for:
+
+loss suffered by you as a result of a serious breach of contract by Lonely Planet if the loss was reasonably foreseeable by both you and Lonely Planet when this Agreement was entered into; and
+damage to property caused by Lonely Planet’s negligence if the loss was reasonably foreseeable at the time when this Agreement was entered into.
+You must:
+
+verify critical information (like advice about visas and health and safety) independently before you travel; and
+take all necessary steps to minimize the extent of any loss you may suffer in accordance with this Agreement, and you must notify Lonely Planet in writing of your loss within 30 days.
+Entire Agreement
+
+The Agreement constitutes the sole and entire agreement between you and Lonely Planet regarding the Website and supersede all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, regarding the Website.
+
+Waiver and Severability
+
+No waiver by Lonely Planet of any term or condition set out in this Agreement shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of Lonely Planet to assert a right or provision under this Agreement shall not constitute a waiver of such right or provision.
+
+If any provision of this Agreement is held by a court or other tribunal of competent jurisdiction to be invalid, illegal, or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of the Agreement will continue in full force and effect.
+
+Amendments of this Agreement
+
+We reserve the right to update, amend and/or change this Agreement at any time in our sole discretion and without notice. Updates to this Agreement will be posted here. If we make a material change to this Agreement, we will provide advance notice to you, such as by posting a notice on our website, application. Amendments will take effect immediately upon us posting the updated Agreement on our Services. You are encouraged to revisit this Agreement from time to time to review any changes that have been made. The date on which this Agreement was last updated will be noted immediately above this Agreement. Your continued access and use of our Services following the posting of any such changes shall automatically be deemed your acceptance of all changes.
+
+ASSIGNMENT.
+
+Lonely Planet may assign or transfer this Agreement, in whole or in part, including your account, data, and any associated rights and obligations, in connection with a merger, acquisition, reorganization, sale of assets, or change of control, without notice to you and without restriction.
+
+General
+
+Nothing contained in this Agreement will be deemed to constitute either party as the agent or representative of the other party, or both parties as joint venturers or partners for any purpose. You may not assign, delegate or transfer your rights or obligations under this Agreement. We may assign our rights and duties under this Agreement without such assignment being considered a change to the Terms and without notice to you, provided your rights under this Agreement are not prejudiced.
+
+Governing Law
+
+You agree that the laws of the State of North Carolina, without regard to principles of conflict of laws, will govern this Agreement and any claim or dispute that has arisen or may arise between you and us, except as otherwise stated in this Agreement. This Agreement will not be governed by the United Nations Convention on Contracts for the International Sale of Goods, if applicable. Notwithstanding any other provision of this Agreement, you or we may seek injunctive or other equitable relief from any court of competent jurisdiction.
+
+Dispute Resolution (including Arbitration, Class Action Waiver and Time to Initiate Action)
+
+Initial Dispute Resolution Period: In an effort to accelerate resolution and reduce the cost of any Dispute between us, you and we agree to first attempt to negotiate any Dispute informally for at least sixty (60) days before either party initiates any arbitration or court proceeding (the “Initial Dispute Resolution Period”). That period begins upon receipt of written notice from the party raising the Dispute. If we have a dispute with you, we will send the notice of that Dispute to your email address you have provided to us. If you have a dispute with us, you agree to send us a written notice to Lonely Planet, Attn: Legal Department, 1423 Red Ventures Drive, Fort Mill SC 29707, or by email delivered to legal@redventures.com. A notice of Dispute will not be valid, and will not start the Initial Dispute Resolution Period, and will not allow you or us to later initiate a lawsuit or arbitration, unless it contains all of the information required by this paragraph:  (a) subject line reading: “Notice of Dispute”; (b) description of the nature of the claim or dispute and the underlying facts; (c) date upon which the Dispute arose; (d) the specific relief sought; and (e) name, email address, and physical mailing address of the party seeking relief.  The Initial Dispute Resolution Period must include a conference between you and us to attempt to informally resolve any Dispute in good faith. You and we agree to appear at the conference telephonically or via videoconference; counsel may participate in the conference, but you and we will also participate in the conference. The conference shall be individualized such that a separate conference must be held each time either party initiates a Dispute, even if the same law firm or group of law firms represents multiple users in similar cases, unless all parties agree; multiple individuals initiating a Dispute cannot participate in the same conference unless all parties agree. Compliance with this informal dispute resolution process is mandatory and a condition precedent to initiating an arbitration or litigation.   The statute of limitations and any filing fee deadlines shall be tolled while the parties engage in the informal dispute resolution process required by this paragraph. If either party violates this Initial Dispute Resolution Period paragraph, a court of competent jurisdiction has the authority to enjoin the prosecution of the arbitration or court proceeding, and, unless prohibited by law, the arbitration provider shall neither accept nor administer any such arbitration nor assess fees in connection with such arbitration.
+Scope: The parties acknowledge that this Agreement evidences a transaction involving interstate commerce. Any arbitration conducted pursuant to the terms of this Agreement shall be governed by the Federal Arbitration Act (9 U.S.C., Secs. 1-16). You and We agree that any dispute, claim or controversy between You and Us asserted after the effective date of these this Agreement, including but not limited to all disputes arising out of this Agreement or your use of the Service (each, a “Dispute”) shall be finally settled by binding arbitration except as expressly excluded below in the Section titled “Exceptions to Binding Arbitration.”
+Binding Arbitration: If You and We do not reach an agreement to resolve the Dispute following the Initial Dispute Resolution Period (and including the conference of the parties provided in the preceding paragraph), you or we may commence an arbitration proceeding. The arbitration shall be administered by JAMS pursuant to its Comprehensive Arbitration Rules and Procedures (the “JAMS Rules”) and in accordance with the Expedited Procedures in those Rules, which are available at www.jamsadr.com, unless it is a Mass Arbitration before NAM, as defined below. If, for any reason, JAMS is unable to provide the arbitration, then except as otherwise stated below, you or we may file a Dispute with any national arbitration company that handles consumer arbitrations following procedures that are substantially similar to the JAMS Expedited Procedures in the JAMS Comprehensive Arbitration Rules.
+Process: In order to initiate arbitration following the conclusion of the Initial Dispute Resolution Period, a party must provide the other party with a written demand for arbitration and file the demand with the applicable arbitration provider.  A party initiating an arbitration against Us must send the written demand for arbitration to Lonely Planet, Attn: Legal Department, 1423 Red Ventures Drive, Fort Mill SC 29707. By signing the demand for arbitration, the party and its counsel certifies to the best of the party’s and counsel’s knowledge, information, and belief, formed after an inquiry reasonable under the circumstances, that (i) the demand for arbitration is not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of dispute resolution; (ii) the claims and other legal contentions are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law; (iii) the factual contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after a reasonable opportunity for further investigation or discovery; and (iv) the party has complied with the Initial Dispute Resolution Period, including participation in an in-person conference, as described above. The Arbitrator shall be authorized to afford any relief or impose any sanctions available under Federal Rule of Civil Procedure 11 or any applicable state law for either party’s violation of this requirement.
+Location & Hearing:  If you are a resident of the United States, then the arbitration hearing shall be held in the county in which you reside or at another mutually agreed location. If you are not a resident of the United States, then the arbitration hearing will be held in Mecklenburg County, North Carolina, United States, or another mutually agreed location. Where no disclosed claims or counterclaims exceed $25,000, the dispute shall be resolved by the submission of documents only, subject to the arbitrator's discretion to require an in-person hearing, if the circumstances warrant. In cases where an in-person hearing is held, you and/or We may attend remotely, unless the arbitrator requires otherwise. The language of the arbitration will be English. 
+Fees: Your and our right to recover attorneys’ fees, costs and arbitration fees shall be governed by the laws that apply to the parties’ Dispute, as well as any applicable arbitration rules. Either party may make a request that the arbitrator award attorneys’ fees and costs upon showing that the other party has asserted a claim, cross-claim, defense, or procedural tactic that is groundless in fact or law, brought in bad faith, for the purpose of harassment, or is otherwise frivolous, as allowed by applicable law and the JAMS Rules.
+Mass Arbitration Before NAM: Notwithstanding the parties’ decision to have arbitrations administered by JAMS (and subject to the exceptions otherwise set forth in the “Exceptions to Binding Arbitration” Section), if 25 or more demands for arbitration are filed relating to the same or similar subject matter and sharing common issues of law or fact, and counsel for the parties submitting the demands are the same or coordinated, you and we agree that this will constitute a “Mass Arbitration.” If a Mass Arbitration is commenced, you and we agree that it shall not be governed by JAMS Rules or administered by JAMS. Instead, a Mass Arbitration shall be administered by NAM, a nationally recognized arbitration provider, and governed by the NAM Rules in effect when the Mass Arbitration is filed, excluding any rules that permit arbitration on a class-wide basis (the “NAM Rules”), and under the rules set forth in this Agreement. The NAM Rules are available at https://namadr.com/resources/rules-fees-forms/or by calling 1-800-358-2550. You and we agree that the Mass Arbitration shall be resolved using NAM’s Mass Filing Supplemental Dispute Resolution Rules and Procedures, available at https://www.namadr.com/. Before any Mass Arbitration is filed with NAM, you and we agree to contact NAM jointly to advise that the parties intend to use NAM’s Mass Filing Supplemental Dispute Resolution Rules and Procedures. The individual demands comprising the Mass Arbitration shall be submitted on NAM’s claim form(s) and as directed by NAM. You and we agree that if either party fails or refuses to commence the Mass Arbitration before NAM, you or we may seek an order from NAM compelling compliance and directing administration of the Mass Arbitration before NAM. Pending resolution of any such requests, you and we agree that all arbitrations comprising the Mass Arbitration (and any obligation to pay arbitration fees) shall be stayed.  If for any reason the provisions in this Mass Arbitration Before NAM paragraph are found to be unenforceable, or if for any reason NAM declines to administer the Mass Arbitration, then the Disputes comprising the Mass Arbitration shall be administered by AAA consistent with the provisions of the Dispute Resolution Section of this Agreement.
+Appointment of Procedural Arbitrator in Mass Arbitration. You and we agree to cooperate in good faith to implement the Mass Arbitration process to minimize the time, filing fees, and costs of the Mass Arbitration. Those steps include, but are not limited to (1) the appointment of a Procedural Arbitrator to efficiently and cost-effectively manage the Mass Arbitration and to rule on proposals by the parties for the efficient and cost-effective management of the Mass Arbitration to the extent the parties cannot agree; (2) the adoption of an expedited calendar for the arbitration proceedings; and (3) consolidation of Mass Arbitration matters before one or several arbitrators for streamlined proceedings.   
+Exceptions to Binding Arbitration. Notwithstanding the parties' decision to resolve all disputes through arbitration, either party may invoke the following exceptions to arbitration:
+Provisional remedies: Either party may seek provisional remedies in aid of arbitration and to enforce the Initial Dispute Resolution Period from a court of appropriate jurisdiction, subject to the forum selection provisions below.
+Intellectual Property and Trade Secret Disputes: Either party may bring an action in state or federal court that only asserts claims for patent infringement or invalidity, copyright infringement, piracy, moral rights violations, trademark infringement, and/or trade secret misappropriation, subject to the forum selection provisions below.
+Small Claims Court: Either party may seek relief in a small claims court for any individual disputes or claims within the scope of that court's jurisdiction. If an arbitration is filed, before the arbitrator is formally appointed either party can send written notice to the opposing party and the applicable arbitration provider that it wants the case decided by a small claims court, after which the arbitration provider may close the case, in which instance no filing fees shall be due or payable by either party. Any disagreement about whether a Dispute is subject to small claims court shall be decided by small claims court or a court of competent jurisdiction, not the arbitrator.
+Class and Collective Action Waiver. TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAW, YOU AND WE AGREE THAT EACH PARTY MAY BRING DISPUTES AGAINST THE OTHER PARTY ONLY IN AN INDIVIDUAL CAPACITY, AND NOT AS A CLASS ACTION OR COLLECTIVE ACTION OR CLASS ARBITRATION.
+Although the parties have agreed that no disputes may proceed as part of a class arbitration, you and we agree that the arbitrator may consolidate an individual arbitration filed under this Agreement with other individual arbitration(s), at the request of any party, if the arbitrations share any common issues of law or fact. 
+Statute of Limitations: To the fullest extent allowed by law, you and we agree that if any Dispute has a statute of limitations in excess of one year, such Dispute must be filed within one year after the Dispute accrued or it will be forever barred.
+Forum: For any Dispute not subject to binding arbitration, to the fullest extent allowed by low, you and we agree to submit to the exclusive jurisdiction of any state or federal court located in Mecklenburg county, North Carolina (except for small claims court actions which may be brought in the county where you reside), and waive any jurisdictional, venue, or inconvenient forum objections to such courts.
+Severability: If any provision in this Dispute Resolution Section of this Agreement is found to be unenforceable, that provision shall be severed with the remainder of this Section of this Agreement remaining in full force and effect. The foregoing shall not apply to the prohibition against class or collective actions as provided for above. This means that if the prohibition against class or collective actions is found to be unenforceable with respect to a particular claim or request for relief and any appeals have been exhausted (or if the decision is otherwise final), then such claim or request for relief shall proceed in a court of competent jurisdiction, but it shall be stayed pending arbitration of all other claims and requests for relief.
+30 Day Right to Opt-Out: You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth in this Agreement by sending written notice of your decision to opt-out by emailing us at legal@redventures.com or by sending written notice of your opt-out by U.S. mail delivered to: Attn: Legal Department, Lonely Planet, 1423 Red Ventures Drive, Fort Mill SC 29707. The notice must be sent within thirty (30) days of your first use of the Service, or the effective date of the first version of this Agreement containing a Dispute Resolution (including Arbitration, Class Action Waiver and Time to Initiate Action) section otherwise you shall be bound to arbitrate disputes in accordance with the terms of those sections. If you opt-out of these arbitration provisions, we also will not be bound by them.
+LONELY PLANET ADDENDUM FOR TRAVEL SERVICES
+
+The following additional terms and conditions (“Addendum”) apply to your use of Lonely Planet’s online travel marketplace branded Lonely Planet Journeys.  This Addendum is part of the Agreement.  Lonely Planet’s travel marketplace platform is designed to connect you, the traveler, with travel agents and local travel companies (“Local Travel Agencies”) to plan your trip.  Accessing the travel marketplace portion of the Site is your agreement to this Addendum and the Agreement above. You should read Agreement, inclusive of this Addendum, in their entirety before accessing or using the services on our site. If you don’t agree with our privacy policy or the Agreement, you may not access the Site or use our services.  In the event of any conflict between the Agreement and this Addendum, the terms of this Addendum shall control.
+
+How to contact us:
+
+You can contact us at: shop@lonelyplanet.com
+
+How we’ll contact you:
+
+We’ll contact you in English through email or phone. 
+
+Using the Site
+
+The purpose of the site is to match you with Local Travel Agencies to plan your international trip. The Site is for your personal, non-commercial use. When you use our site in any way, you confirm that you are at least 18 years of age, have the legal authority to enter into a binding agreement, and that you will only use the Site according to this Agreement. You agree to be financially responsible for all of your use of the Site (as well as the use of your account by others). If you are making a request or booking on behalf of others, you are responsible for sharing this Agreement with them. When booking on behalf of others, you are agreeing to this Agreement, the Local Travel Agency's Terms and Conditions, and the Itinerary on behalf of yourself and your whole travel party. You confirm that all information shared with us, by you or on your behalf, or by members of your travel party, is true and accurate. You also confirm that the traveler is not an unaccompanied minor. You agree to only make legitimate reservations and purchases for you and your travel party and understand that submitting payment constitutes an agreement for every traveler associated with the trip. We have the right at all times to deny you use or access to the site for any reason.
+
+What We Do
+
+The Lonely Planet site is a platform to connect Travelers and Local Travel Agencies who offer travel services to the destinations the Traveler chooses (“Travel Services”). Travel Services include accommodations, flights, transportation, excursions and any other service booked by you through the Local Travel Agency.
+
+The Traveler makes a trip request on the Lonely Planet platform and is matched with a Local Travel Agency. The Local Travel Agency crafts an itinerary including all services provided and costs. If the Traveler chooses to book and pay for the itinerary proposed, you will need to accept the Terms and Conditions of the Local Travel Agency along with the itinerary before submitting payment. Traveler’s should read this Agreement carefully as you will be bound by this Agreement when you book the trip.  Submitting payment constitutes an agreement for every traveler associated with the trip.   
+
+The Traveler and Local Travel Agency must communicate only through the platform. This includes the planning of Travel Services, the payment of travel services, providing reviews, or any other action on the Site related directly or indirectly to your trip. You should never pay the Local Travel Agency directly for any Travel Services and you should notify Lonely Planet immediately if a Local Travel Agency requests direct payment from you.
+
+We do not own or control the Local Travel Agencies or Travel Services
+
+The Site is a marketplace designed to connect you with Local Travel Agencies who will then make an Agreement with you to provide Travel Services. Lonely Planet does not provide, own or control any of the Local Travel Agencies or Travel Services. Your agreement for Travel Services is with the Local Travel Agency and not with Lonely Planet. We do not own, manage or control the Local Travel Agencies and your contract for Travel Services is with the Local Travel Agency. The Travel Services, such as hotels, airlines, transportation, etc. are owned, controlled or made available by third parties (the “Supplier(s)”). The Suppliers are responsible for the Travel Services. The Local Travel Agency’s terms apply to your booking and travel so you must agree to and understand those terms. By entering into an agreement with a Local Travel Agency and/or utilizing the Travel Services, you agree that neither Lonely Planet, or its employees, agents, or representatives are or may be liable for any loss, injury, or damage to you or your belongings, or otherwise, in connection with any service supplied or not supplied resulting directly or indirectly from any occurrence beyond the control of Lonely Planet. Lonely Planet shall not be liable for any injury, damage, or loss resulting from the neglect of any Local Travel Agency or Supplier or other person supplying services. Lonely Planet hold themselves free of responsibility for any damage(s) from any cause(s) whatsoever. 
+
+While our Site displays information regarding Local Travel Agencies, this is in no way meant to suggest or imply or in any way communicate that we are affiliated with the Local Travel Agency.  Our Local Travel Agencies are selected based on representations and statements that they make to us during the selection process, and while we attempt to ensure the accuracy of the information, we cannot be liable if a Local Travel Agency provides us inaccurate information. Your interaction with any Local Travel Agency accessed through the Site is at your own risk. Lonely Planet does not act as an agent or fiduciary for you or for any Local Travel Agency or Supplier.  Any references on the Site to Local Travel Agencies, Suppliers, or Travel Services do not constitute or imply an endorsement, sponsorship, or recommendation by Lonely Planet. You acknowledge that Lonely Planet does not guarantee the quality, safety, legality, suitability, or availability of any Travel Services.
+
+User Accounts
+
+As part of our Service, we allow you to create an account and a profile. If you sign up for an account, you agree to the terms, conditions and limitations associated with them. The features of the account may change from time to time. 
+
+You may only use and register an account if you are over the age of 18 and can enter into binding contracts. If you become a member, you are responsible for maintaining the confidentiality of your passwords, login, and account information. You will be responsible for the use of the Site by you, anyone using your password and login information (with or without your permission) and anyone who you allow to access your purchased content. If at any time you have reason to believe that your account is no longer secure (through for example: loss, theft, identity theft, hacking, or unauthorized disclosure or use of your information or computer or mobile device used to access the Site), you are solely responsible to promptly change any and all of your Personal information that is affected.
+
+We may take actions we deem reasonably necessary to prevent fraud and abuse, including placing restrictions on the amount of content or other services that can be accessed any one time. We reserve the right to refuse Travelers from creating or logging into their accounts and you may not transfer or assign your account. 
+
+Deleting your Account
+
+You may delete your account by contacting us. If you would like to request the deletion of your personal data you should read our privacy policy.
+
+Force Majeure
+
+Lonely Planet shall not be liable at any time, in any way, for loss, injury or damage arising from an act of nature, any force majeure, acts of government or de facto authority, government-imposed prohibitions, war, threat of war, civil unrest, any kind of hostilities, terrorist activities, industrial disputes, strikes, theft, robbery, sickness, health risks, pandemic, epidemic, accident, quarantine, immigration or customs regulations, hijacking, closure or congestion of airports or ports, breakdown, delay, cancellation, error, omission, inclement weather, storms, tempests, hurricanes, volcanic eruptions, delay or default of any person engaged in providing any accommodation, hotel closures, or any other cause beyond its control. In such cases, Lonely Planet will not be responsible for any refund.  Any refund you may be entitled to will be from the Local Travel Agency.  Local Travel Agencies may choose to offer credits in lieu of a refund.  We are not responsible for a Local Travel Agency’s failure to pay a refund or for supplier bankruptcy or insolvency.
+
+ASSUMPTION OF RISK.
+
+Travel involves inherent risks, including but not limited to risks associated with illness, disease, pandemics, physical injury, death, crime, terrorism, civil unrest, political instability, weather conditions, transportation failures, delays, cancellations, inadequate medical care, and differing standards of safety, sanitation, and infrastructure. By using the Site and booking Travel Services, you knowingly and voluntarily assume all such risks, whether foreseeable or unforeseeable, and accept full responsibility for your participation in travel activities. You agree that Lonely Planet shall not be responsible or liable for any injury, loss, damage, cost, or expense arising from such risks.
+
+Travel requirements, including but not limited to visa rules, vaccination requirements, border restrictions, health advisories, and entry conditions, may change at any time without notice. Lonely Planet does not guarantee that travel-related information on the Site is current and assumes no duty to update such information. You are solely responsible for verifying all travel requirements prior to departure.
+
+Travel Protection Coverage
+
+You acknowledge that travel protection or insurance coverage is not included in the Travel Services unless expressly stated. If you decline to purchase adequate travel insurance, you do so at your own risk. We strongly encourage you to purchase a Travel Protection Plan including additional Cancel for Any Reason coverage.  Such a plan at a minimum should cover Trip Cancellation or Interruption, Cancel for Any Reason, Medical Expense, Emergency Evacuation/Repatriation, and Baggage. Travel protection plans can help protect you in the event of loss of non-refundable trip deposits and payments that result from cancellation or trip interruption (due to a covered reason such as injury or illness before or during the trip). It also helps with reimbursement for medical emergency costs (including very costly medical evacuation costs), missed connections and baggage loss. Purchasing coverage may be limited by time constraints so it is imperative that you purchase protection as soon as possible after booking. If you choose to travel without adequate coverage, we will not be liable for any losses, expenses, or damages for which travel protection plan coverage would otherwise have been available, including but not limited to trip cancellation, interruption, medical expenses, emergency evacuation, or baggage loss.   
+
+Please contact Lonely Planet if you would like information on our preferred travel protection partner. 
+
+Payment and Fees
+
+We accept payment by debit or credit card (Visa, MasterCard, Discover, and American Express). We do not charge you a fee for using your card, however your bank or card issuer may apply an additional transaction fee. We are not responsible for these charges.
+
+Cards are accepted subject to security and fraud checks and we reserve the right to reject or cancel your arrangements at any time should your payment fail any element of these checks before or after confirmation.
+
+Customers paying with a debit or credit card must provide a click authorization for every transaction for your trip.  
+
+Credit Card Chargebacks
+
+You may have the ability to dispute charges with your credit card company ("chargebacks"). Before initiating a chargeback, we ask you first to call us to discuss any questions or concerns about our charges. We will work with you and attempt to resolve your concerns. By using our platform to make a booking with a Local Travel Agency, you accept and agree to the relevant cancellation policy of that Local Travel Agency. 
+
+Lonely Planet retains the right to dispute any chargeback that is improper and recover any costs, including attorney’s fees related to improper chargebacks. Additionally, in the event of an improper chargeback, we retain the right to cancel any travel reservation in the event of a chargeback related to that reservation. The following chargeback scenarios are improper and we retain the right to investigate and rebut any such chargeback claims:
+
+Chargebacks resulting from non-cancellable reservations, whether or not the reservation is used.
+Chargebacks resulting from charges authorized by family, friends, associates or other third parties with direct access to your credit card. This does not include credit card fraud.
+Chargebacks arising from inconsistency or inaccuracy with regard to the Local Travel Agency’s product description.
+Chargebacks resulting from force majeure or other circumstances that are beyond the control of Lonely Planet or the Local Travel Agency or Suppliers.
+Chargebacks resulting because you do not agree with the cancellation policy of the Local Travel Agency.
+Errors
+
+We strive to ensure that all pricing and information on the Site is accurate. However, it’s always possible that despite our efforts there may be times when errors occur.  These errors may be price related or other. If, for example, the correct price of your trip is less than our stated price when you booked, we will charge the lower amount. If the correct price at your booking date is higher than the price communicated to you, we will contact you before confirming your booking. 
+
+Trip Cancellation
+
+Any trip cancellation will be subject to the terms of the Local Travel Agency and Travel Suppliers. Please refer to the Local Travel Agency’s Terms and Conditions to familiarize yourself with their refund policies.  We will have no liability to you for a Local Travel Agency or Travel Supplier’s failure to provide a refund.
+
+Disclaimer of Liability
+
+The Local Travel Agencies providing Travel Services on this Site are independent contractors and not agents or employees of Lonely Planet. Lonely Planet is not liable for the acts, errors, omissions, representations, warranties, breaches or negligence of any such Local Travel Agency or for any personal injuries, death, property damage, or other damages or expenses resulting there from. Lonely Planet is not responsible for the bankruptcy or the inability of the Local Travel Agency to provide the Travel services.
+
+The information and offers contained on the site (including text, graphics, links or other material) are provided on an "as is," and "where available" basis. Lonely Planet makes no representation or warranty, express or implied, to you or another person or entity as to the accuracy, results, timeliness, completeness, merchantability, fitness for any particular purpose, including but not limited to warranties arising by statute or otherwise in law or from a course of dealing or usage of trade, with respect to the site or any related materials, products, services, or information.
+
+Under no circumstances, including, but not limited to negligence, shall we, our providers or distributors, be liable for any damages to, or viruses that may infect your computer equipment or other property, or any loss of data, on account of your access to, use of, or browsing on the site, or your downloading of any materials, data, text, images, video, audio, or other information from the site or associated with any email or links sent to you by Lonely Planet. 
+
+In no event shall we, our providers or distributors, be liable for any injury, loss, claim, damage, or any special, punitive, exemplary, direct, indirect, incidental, or consequential damages of any kind (including, but not limited to, lost profits, lost business, or lost savings), whether based in contract, tort, strict liability, or otherwise, that arise out of or are in any way connected with the use, or the inability to use, the site or the services or materials on the site or the travel reservations booked through Lonely Planet, even if advised of the possibility of such damages.  In no event shall our total liability, or that of our providers or distributors, exceed the total charges set forth in the itinerary giving rise to any such liability. Any claim or cause of action arising from, or relating to, your access and use of, or purchase of products and/or services from, the site must be brought within one year from the date on which such claim or action arose.
+
+Applicable law may not allow the limitation or exclusion of liability of incidental or consequential damages, so the above limitation or exclusion may not apply to you. Your use of the site shall be at your own risk.
+
+Indemnification
+
+You agree to defend and indemnify Lonely Planet (including its directors, employees, and agents) from and against any claims, causes of action, demands, recoveries, losses, damages, fines, penalties or other costs or expenses of any kind or nature including but not limited to reasonable legal and accounting fees, brought by third parties as a result of:
+
+your breach of this Agreement or the documents referenced;
+any damage caused by you while using the Travel Services;
+your violation of any law or the rights of a third party; or
+your use of our Platform.
+Links to Third Party Sites
+
+The Site contains links to websites owned and operated by third parties. If you use these links you leave the Site. These links are provided for your information and convenience only and are not an endorsement by Lonely Planet of the content of such linked websites or third-party services. Lonely Planet has no control of the content of any linked website and is not responsible for these websites or their content or availability. Lonely Planet makes no warranties or representations, express or implied about such linked websites, the third parties they are owned and operated by, the information contained on them or the suitability of quality of their products or services. If you decide to access any third-party websites and make use of the information contained on them and/or enter into any contract for the supply of goods or services from such third party and/or make any donations to such third party, you do so entirely at your own risk. Lonely Planet accepts no liability for damage or loss, however caused in the connection with the use of or reliance on any information, material, products or services contained on or accessed through any such linked website.
+
+Prohibited Activity
+
+You may make limited copies of your travel itinerary (and related documents) for travel or reservations booked through the Site.  If your booking or membership account shows signs of fraud, abuse, or suspicious activity, Lonely Planet may cancel any bookings associated with your name, email address, or account, and close any associated Lonely Planet accounts. If you have conducted any fraudulent activity, Lonely Planet reserves the right to take any necessary legal action and you may be liable for monetary losses to Lonely Planet, including litigation costs and damages. To contest the cancellation of a booking or freezing or closure of an account, or cancellation of an order please contact shop@lonelyplanet.com.
+
+Review Comments Photos and Other Content Submissions
+
+Parts of the Site enable you to provide feedback, text, photos, audio, video, information, and other content (“Content”). If you use said interactive areas on the Site you are solely responsible for the Content that you upload, transmit, or share with us or others on or through the Site (collectively, the "User Content"), and you confirm that you are not transmitting or sharing User Content that you do not have permission to share. We do not guarantee any confidentiality with respect to the User Content and you understand that the User Content may be publicly displayed.
+
+When you provide us with User Content, you own the Content you create and share, and you also grant us a perpetual, transferable, irrevocable, sub-licensable, fully-paid, worldwide license to use, modify, reproduce, distribute, prepare derivative works of, publicly perform, and publicly display (in tangible form and electronically) all User Content or other Content provided to us. We can use the User Content in any format, channel, platform, or region with the right to localize the Content into other languages. If uploaded or submitted to us, you further give us permission and the right to use your name, image, likeness, or other personal attributes for the purposes described in this Agreement.
+
+You authorize us to make copies as we deem necessary in order to facilitate the storage and assimilation of the User Content on the Sites. By providing User Content, you represent and confirm that the User Content you provide will not violate or in any way infringe upon the rights of third parties, including property, contractual, employment, trade secrets, proprietary information, and nondisclosure rights, or any intellectual property rights. You may remove your User Content from the Site, but the license that you have granted will remain in effect. You understand that we do not control nor are we responsible for reviewing User Content. However, we reserve the right to review, edit, or delete any User Content or your account at any time. We are not in any way responsible or liable for such User Content or the messaging contained in User Content.
+
+You must not create and/or upload any User Content that:
+
+is advertising, placed as a review or a survey;
+is intentionally untrue or deceptive;
+is immoral, pornographic, discriminatory, or in any other way offensive;
+violates applicable laws in any way or constitutes a criminal offence; or 
+contains viruses or other computer programs that may damage software or hardware or that may affect the use of computers.
+Account Termination
+
+We reserve the right, in our sole discretion and without liability, to terminate your access to all or part of the Site, with or without notice, for any reason or no reason.
+
+Complaints
+
+We understand that sometimes issues may arise.  If you have complaints, we encourage you to contact us at shop@lonelyplanet.com, so that we can work with you to attempt to resolve the problem. If you have an issue with your Travel Services, your complaint should be addressed to the Local Travel Agency.
+
+SANCTIONS AND EXPORT CONTROLS.
+
+You represent and warrant that you are not located in, under the control of, or a national or resident of any country subject to U.S. or other applicable sanctions or embargoes, and that you are not listed on any government restricted or prohibited party list. Lonely Planet reserves the right to refuse service, cancel bookings, suspend accounts, or terminate this Agreement at any time if required to comply with applicable laws, regulations, sanctions, or export controls, without liability to you.
+
+ 

@@ -1,0 +1,180 @@
+Terms of Use
+1. Terms
+By accessing this web site, you are agreeing to be bound by these
+web site Terms and Conditions of Use, all applicable laws and regulations,
+and agree that you are responsible for compliance with any applicable local
+laws. If you do not agree with any of these terms, you are prohibited from
+using or accessing this site. The materials contained in this web site are
+protected by applicable copyright and trade mark law.
+2. Use License
+Permission is granted to temporarily download one copy of the materials
+(information or software) on chunkbase.comâs web site for personal,
+non-commercial transitory viewing only. This is the grant of a license,
+not a transfer of title, and under this license you may not:
+modify or copy the materials;
+use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
+attempt to decompile or reverse engineer any software contained on chunkbase.comâs web site;
+remove any copyright or other proprietary notations from the materials; or
+transfer the materials to another person or âmirrorâ the materials on any other server.
+This license shall automatically terminate if you violate any of these restrictions and may be terminated by
+chunkbase.com at any time. Upon terminating your viewing of these materials or upon the termination of this
+license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+3. Consent to Data Collection
+These Terms of Service incorporate our
+Privacy Policy
+, which discloses how we,
+our vendors, and our service providers collect and use data when you use the Site and/or mobile applications. You
+hereby consent to the collection and use of data by us, our vendors, and our service providers as described in the
+Privacy Policy (including any links to other policies therein). You can revoke this consent at any time by following
+the opt-out instructions in the Privacy Policy or clicking the provided links on the Site.
+4. Limitations on Liability
+YOU UNDERSTAND AND AGREE THAT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE, OR OUR VENDORS OR SERVICE PROVIDERS
+(COLLECTIVELY, âWEâ OR âUSâ), SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE
+DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL,
+OR OTHER INTANGIBLE LOSSES, RESULTING FROM YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE WEBSITE.
+IN NO EVENT SHALL THE AGGREGATE LIABILITY OF ANY OF US EXCEED THE GREATER OF (A) THE TOTAL AMOUNT PAID OR PAYABLE
+TO CHUNKBASE BY YOU FOR THE WEBSITE DURING THE SIX-MONTH PERIOD PRIOR TO THE ACT, OMISSION, OR OCCURRENCE GIVING RISE TO
+SUCH LIABILITY; OR (B) ONE HUNDRED U.S. DOLLARS ($100). THE LIMITATIONS OF THIS SUBSECTION SHALL APPLY TO ANY THEORY OF
+LIABILITY, WHETHER BASED ON WARRANTY, CONTRACT, STATUTE, TORT, OR OTHERWISE, AND WHETHER OR NOT THE PARTIES HAVE BEEN
+INFORMED OF THE POSSIBILITY OF ANY SUCH DAMAGE, AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED ITS
+ESSENTIAL PURPOSE.
+5. Binding Arbitration (âArbitration Agreementâ)
+Only applicable to users from the United States
+a.
+Applicability of Arbitration Agreement.
+You agree that any dispute or claim against us, or our vendors or service
+providers(collectively, âWeâ or âUsâ), related in any way to your access or use of this website, to these Terms, or
+to any aspect of your relationship with Us, will be resolved by binding arbitration, rather than in court, except that
+(1) you may assert claims in small claims court if your claims qualify, so long as the matter remains in such court
+and advances only on an individual (non-class, non-representative) basis; and (2) you or We may seek equitable relief
+in court for infringement or other misuse of intellectual property rights (such as trademarks, trade dress,
+domain names, trade secrets, copyrights, and patents). You agree that you must commence any arbitration or other
+claim within one (1) year after the dispute arises; otherwise, the claim is permanently barred, which means that
+you will no longer have the right to assert a claim regarding the dispute. This Arbitration Agreement will apply,
+without limitation, to all claims that arose or were asserted before the effective date of these Terms or any prior
+version of this Arbitration Agreement.
+You agree in advance that you will not participate in or seek to recover monetary or other relief in any lawsuit filed
+against Us, alleging class, collective, and/or representative claims on your behalf. Instead, by agreeing to
+arbitration, you may bring your claims against any of Us in an individual arbitration proceeding (except for any
+Batch Arbitration, as described below). If successful on such claims, you could be awarded money or other relief
+by an arbitrator. You acknowledge that you have been advised that you may consult with an attorney in deciding whether
+to accept these Terms, including this Arbitration Agreement.
+The Federal Arbitration Act governs the interpretation and enforcement of this Arbitration Agreement.
+b.
+Process.
+To begin a claim, you must first send a letter describing your claim in detail, including your name and
+contact information, your legal claim, the specific facts giving rise to your claim (including the date(s) and amount(s)
+of any relevant transaction or interaction with us), and the requested relief, to
+Alexander Gundermann c/o Block Services, Stuttgarter Str. 106, 70736 Fellbach, Germany.
+You and We agree
+to attempt in good faith to negotiate an informal resolution of your claim. If a resolution is not reached within
+thirty (30) days, you may commence an arbitration action as set forth herein. The arbitration will be conducted by
+JAMS, an established alternative dispute resolution provider. Disputes involving claims and counterclaims under
+$250,000, not inclusive of attorneysâ fees and interest, will be subject to JAMSâs most current version of the
+Streamlined Arbitration Rules and procedures available at
+http://www.jamsadr.com/rules-streamlined-arbitration/
+;
+all other claims will be subject to JAMSâs most current version of the Comprehensive Arbitration Rules and Procedures,
+available at
+http://www.jamsadr.com/rules-comprehensive-arbitration/
+. JAMSâs rules are also available at
+www.jamsadr.com
+or by calling JAMS at
+800-352-5267. If JAMS is not available to arbitrate, the parties will select an
+alternative arbitral forum. You may choose to have the arbitration conducted
+remotely, based on written submissions, or in person at a mutually agreed
+location. We will be entitled to make an offer of judgment in the arbitration
+proceeding. If the offer of judgment is not accepted, and the award is not more
+favorable than the unaccepted offer, you will be solely responsible for all
+costs incurred by Us after the offer of judgment is made to the extent permitted
+by applicable law. Any judgment on the award rendered by the arbitrator may be
+entered in any court of competent jurisdiction.
+c.
+Fees.
+If the arbitrator finds that you cannot afford to pay JAMSâs filing, administrative, hearing, and/or other
+fees, and you cannot obtain a waiver from JAMS, we will pay them for you. If the arbitrator determines the claims are
+frivolous, you agree to pay Us our attorneysâ fees and costs in the arbitration, to the extent permitted by applicable
+law.
+d.
+Authority of Arbitrator.
+The arbitrator, and not any federal, state, or local court or agency, will have exclusive
+authority to resolve any dispute related to the interpretation, applicability, enforceability, or formation of this
+Arbitration Agreement, including, but not limited to, any claim that all or any part of this Arbitration Agreement
+is void or voidable. The arbitration will decide the rights and liabilities, if any, of you and Us. The arbitration
+proceeding will not be consolidated with any other matters or joined with any other cases or parties. The arbitrator
+will have the authority to grant motions dispositive of all or part of any claim. The arbitrator will have the authority
+to award monetary damages and to grant any non-monetary remedy or relief available to an individual under applicable law,
+the arbitral forumâs rules, and these Terms (including the Arbitration Agreement). The arbitrator will issue a written
+award and statement of decision describing the essential findings and conclusions on which the award is based,
+including the calculation of any damages awarded. The arbitrator has the same authority to award relief on an individual
+basis that a judge in a court of law would have. The award of the arbitrator is final and binding upon you and Us.
+e.
+Waiver of Jury Trial.
+You and We hereby waive any constitutional and statutory rights to sue in court and have
+a trial in front of a judge or a jury. You and We are instead electing that all claims and disputes will be resolved by
+arbitration under this Arbitration Agreement, except as specified in Section (a) above. An arbitrator can award on an
+individual basis the same damages and relief as a court and must follow this Agreement as a court would. However, there
+is no judge or jury in arbitration, and court review of an arbitration award is subject to very limited review.
+f.
+Waiver of Class or Consolidated Actions.
+Except with respect to Batch Arbitration (as defined below), all claims
+and disputes within the scope of this Arbitration Agreement must be arbitrated on an individual basis and not on a
+class basis, only individual relief is available, and claims of more than one customer or user cannot be arbitrated
+or consolidated with those of any other customer or user. In the event that this subparagraph is deemed invalid or
+unenforceable neither you nor We are entitled to arbitration and instead claims and disputes will be resolved in a
+court as set forth in these Terms.
+g.
+Batch Arbitration.
+You and We agree that, in the event that there are fifty (50) or more individual requests for
+arbitration of a similar nature filed against Us within an approximately (30) thirty-day period
+(or otherwise in close proximity) regardless of the state(s) in which such claims are filed, JAMS will administer all
+such similarly situated arbitration demands on a collective basis as a single, consolidated arbitration (subject to a
+single set of fees, proceeding schedule, and, if required, hearing) before a single arbitrator in accordance with the
+requirements outlined elsewhere in this section, provided that â in the event that the arbitrator deems it impracticable
+or inequitable to administer all such claims collectively in a single arbitration â (s)he may group demands for
+arbitration into groups of not fewer than twenty (20) matters, plus a remainder group as needed (or as otherwise
+deemed by the arbitrator to be practicable, equitable, and in best keeping with the spirit of this provision) and
+arbitrate each group of matters as a single, consolidated arbitration (either structure a âBatch Arbitrationâ).
+You and We agree (1) to work with JAMS in good faith to facilitate the resolution of disputes on a Batch Arbitration
+basis and (2) that requests for arbitration are of a âsimilar natureâ if they arise out of the same event, agreement,
+or factual scenario and raise the same or similar legal issues and seek the same or similar relief. Disagreements over
+the applicability of this Batch Arbitration process will be settled in a single, consolidated arbitration proceeding
+that includes all affected parties and is resolved by a single arbitrator subject to the requirements of this section.
+This Batch Arbitration provision shall in no way be interpreted as authorizing a class or collective arbitration or
+action of any kind, or any suit or arbitration involving joint or consolidated claims, under any circumstances other
+than those expressly set forth in this section.
+h.
+Severability.
+If any part or parts of this Arbitration Agreement are found under the law to be invalid or
+unenforceable, then such specific part or parts will be of no force and effect and will be severed, and the remainder
+of the Arbitration Agreement will continue in full force and effect.
+i.
+Survival.
+This Arbitration Agreement will survive the termination of your relationship with Us.
+j.
+Modification.
+Notwithstanding any provision in these Terms to the contrary, We agree that if We make any future
+material change to this Arbitration Agreement, it will not apply to any individual claim(s) for which that you had
+already provided notice to Us.
+6. Revisions and Errata
+The materials appearing on chunkbase.comâs web site could include technical, typographical, or photographic errors.
+chunkbase.com does not warrant that any of the materials on its web site are accurate, complete, or current.
+chunkbase.com may make changes to the materials contained on its web site at any time without notice. chunkbase.com
+does not, however, make any commitment to update the materials.
+7. Links
+chunkbase.com has not reviewed all of the sites linked to its Internet web site and is not responsible for the contents
+of any such linked site. The inclusion of any link does not imply endorsement by chunkbase.com of the site. Use of any
+such linked web site is at the userâs own risk.
+8. Site Terms of Use Modifications
+chunkbase.com may revise these terms of use for its web site at any time without notice. By using this web site you are
+agreeing to be bound by the then current version of these Terms and Conditions of Use.
+General Terms and Conditions applicable to Use of a Web Site.
+Â© 2013-
+2026
+chunkbase.com All Rights Reserved.
+Not an official Minecraft product. Not approved by or associated with Mojang.
+Site Map
+Contact
+Legal Notice
+Privacy
+Terms

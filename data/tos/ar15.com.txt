@@ -1,0 +1,161 @@
+Last updated: February 24, 2025
+This Privacy Policy describes AR15.COM, LLC (“AR15.COM,” "We," "Us," or "Our") policies and procedures on the collection, use, and disclosure of our users' ("You" or "Your") personal information when You use the Service and tells You about Your privacy rights and how the law protects You. This Privacy Policy governs the websites we and our affiliates, subsidiaries, and related entities operate.
+
+California Notice at Collection
+We collect personal information detailed in the “Information We Collect” section for business purposes and commercial purposes outlined in the “Purpose of Collection (including business purposes)” column in the table below. To learn more, including how you can opt-out of the sale or sharing of your personal information, please see the “Exercising Your Privacy Rights” section below.
+
+This Privacy Policy includes the following sections:
+
+1. Information We Collect
+2. Sale/Sharing of Personal Information
+3. What about Cookies?
+4. Disclosure of Personal Information
+5. Security of Personal Information
+6. Retaining Personal Information
+7. State Privacy Rights
+8. Exercising Your Privacy Rights
+9. Changes to Our Privacy Notice
+10. Advertising Companies
+11. Google (and YouTube) API
+12. Meta API
+13. Affiliate Programs
+14. Contact Us
+Information We Collect
+We collect information that identifies, relates to, describes, references, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular individual. In particular, we have collected the following categories of personal information:
+
+Category	Example(s)	Source(s)	Purpose of Collection (including business purposes)
+Identifiers	Name, Country/State, email address, username	Directly from the consumer	Maintaining and servicing your account, providing customer service
+Membership Information	Products/services purchased, Name, address, credit card number	Directly from the consumer	Processing orders and transactions, processing payments
+Internet/Network Activity	IP address	Directly from the consumer	Website Security, providing analytic services
+We have not collected any categories of sensitive personal information about you.
+
+Sale/Sharing of Personal Information
+AR15.COM does not currently sell personal information as the term is defined under the applicable law, however, we do share the following categories of personal information to our cookie and tracker providers:
+
+Internet/Network activity
+Geolocation data
+AR15.COM does not knowingly sell personal information of consumers under the age of sixteen (16) years.
+
+What About Cookies?
+We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service.
+
+You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service.
+
+Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close your web browser. Learn more about cookies: All About Cookies.
+
+We use both session and persistent Cookies for the purposes set out below:
+
+Necessary / Essential Cookies
+Type: Session Cookies
+Administered by: Us
+Purpose: These Cookies are essential to provide You with services available through the Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services.
+Functionality Cookies
+Type: Persistent Cookies
+Administered by: Us
+Purpose: These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website.
+Tracking and Performance Cookies
+Type: Persistent Cookies
+Administered by: Third-Parties
+Purpose: These Cookies are used to track information about traffic to the Website and how users use the Website. The information gathered via these Cookies may directly or indirectly identify you as an individual visitor. This is because the information collected is typically linked to a pseudonymous identifier associated with the device you use to access the Website. We may also use these Cookies to test new advertisements, pages, features or new functionality of the Website to see how our users react to them.
+Managing Your Cookie Preferences
+You can choose how web browser cookies are handled by your device via your browser settings. Some devices allow you to control this through your device settings. If you choose not to receive cookies at any time, websites may not function properly, and certain services will not be provided. Each browser and device are different, so checkthe settings menu of the browser or device to learn how to change your settings and cookie preferences. You can find information on how to manage cookie settings on certain browsers via the following links:
+
+Cookie settings in Chrome
+Cookie settings in Firefox
+Cookie settings in Microsoft Edge
+Cookie settings in Safari
+The online advertising industry also provides websites from which you may opt out of receiving targeted ads from data partners and other advertising partners that participate in self-regulatory programs. You can access these and learn more about targeted advertising and consumer choice and privacy by visiting the Network Advertising Initiative and the Digital Advertising Alliance.
+
+To the extent that our Collection Technologies is considered a “sale/”share” or where we conduct targeted advertising as defined by applicable state privacy laws (listed in the “State Privacy Rights” section), you may exercise your right to opt out by doing either of the following:
+
+Click on the “Your Privacy Choices California Consumer Privacy Act (CCPA) Opt-Out Icon” link in the footer of our website and adjust your preferences. Please note that your request to opt-out will be linked to your browser identifier only. If you use a different computer or browser to access our website, you will need to adjust your preferences on those sites.
+Broadcast an opt-out preference signal, such as by enabling Global Privacy Control (GPC) where supported by your browsers. To download and use a browser supporting GPC signals, visit https://globalprivacycontrol.org/orgs. You will need to implement this for each supported browser or browser extension you use.
+How We Respond to Browser "Do Not Track" Signals
+Some web browsers incorporate a "Do Not Track" feature that signals to websites you visit that you do not want to have your online activity tracked. California law requires that website operators disclose how they respond to a Do Not Track signal and whether other third parties may collect personally identifiable information about an individual's online activities from their site or service.
+
+We currently do not respond to "Do Not Track" signals. As the technology and communication between browser and website improves, we may make changes to our policy.
+
+Disclosure of Personal Information
+
+Service Providers
+We may share Your personal information with Service Providers to monitor and analyze the use of our Service, for payment processing, for email marketing, to contact You, etc.
+
+With Affiliates
+We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
+
+Business Transactions
+If We are involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
+
+Law enforcement
+Under certain circumstances, We may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+Other legal requirements
+We may disclose Your Personal Data in the good faith belief that such action is necessary to:
+
+Comply with a legal obligation
+Protect and defend the rights or property of AR15.COM
+Prevent or investigate possible wrongdoing in connection with the Service
+Protect the personal safety of Users of the Service or the public
+Protect against legal liability
+Security of Personal Information
+The security of Your Personal Data is important to Us but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
+
+Retaining Personal Information
+We will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+We will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
+
+State Privacy Rights
+Residents of California, Connecticut, Colorado, Delaware, Indiana, Kentucky, Maryland, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, and Virginia, Colorado, Connecticut, Texas, Oregon, Montana, Delaware, Tennessee, and Indiana are provided with the following privacy rights:
+
+The Right to Know and Access: You have the right to request that we disclose to you the categories of personal information we have collected, used, disclosed, or sold about you. You may also request a copy of the personal information we have collected about you.
+
+The Right to Deletion: You have the right to request that we delete any of your personal information that we collected from you and retained, subject to certain exceptions.
+
+The Right to Correct: You have the right to request that we correct any inaccurate personal information that we have collected from you and maintain.
+
+The Right to Opt-Out: You have the right to opt out of the sale and/or sharing of your personal information with third parties as well as the right to opt out of targeted advertising. If you would like to opt out, please see the “Managing Your Cookie Preferences” section above.
+
+Residents of Utah and Iowa are provided with the Right to Know and Access, Right to Deletion, and Right to Opt Out listed above.
+
+Please see the “Exercising Your Privacy Rights” section below for details on how to submit a
+Right to Know and Access, Right to Deletion, and Right to Correct
+request.
+
+We will not discriminate against you for exercising any of your privacy rights listed above. Unless permitted, we will not:
+
+Deny you goods or services
+Charge you different prices or rates for goods or services, including granting discounts or other benefits, or imposing penalties
+Provide you a different level or quality of goods and services
+Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services
+Right to Appeal
+Residents of Colorado, Connecticut, Delaware, Indiana, Iowa, Kentucky, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, and Virginia have the right to appeal our decision if we deny one of your requests listed above. Please see the “Exercising Your Privacy Rights” section listed below for details on how to submit this request.
+
+Notice to Nevada Residents
+As a Nevada consumer, you have the right to request that a company refrain from exchanging your personal information to specific parties in exchange for financial compensation. This right remains valid regardless of whether your personal information is presently being sold.
+
+Exercising Your Privacy Rights
+If you are a resident of the applicable states listed above and would like to exercise your rights as outlined, please submit the request here. Before we can process your request, we will ask you a series of questions in order to attempt to verify your identity. If you use an authorized agent to make a request on your behalf, we may ask the agent to verify their own identity and confirm with you that you provided the authorized agent permission to submit the request here.
+
+Changes to this Privacy Policy
+We may update our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+Advertising Companies
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of the advertiser. (URL Will Be Posted If 3rd Party Advertising is used.)
+
+Google (and YouTube) API
+AR15.Com utilizes the YouTube API to embed videos on the site. Please make sure to check YouTube's Terms of Service if you have any concerns. Additionally you can learn more about Google's data collection and usage in the Google Privacy Policy page. By using the site and clicking on any YouTube video, you agree to be bound by the terms and accept the privacy policy. This site does not collect futher information on you regarding youtube videos.
+
+Meta API
+AR15.Com utilizes the Meta API to embed content on the site. Please make sure to check Meta's Terms of Service if you have any concerns. By using the site, you agree to be bound by the terms. This site does not collect futher information on you regarding Meta content.
+
+Affiliate Programs
+AR15.Com utilizes affiliate programs to create affiliated links. Programs currently include Sovrn and Avantlink. Links are created without use of user data. When you click on these links, the affiliate programs will monitor your click and the traffic from ARFCOM to the designated site resulting in a shared comission for any sales. In short, the site is rewarded a commission based on any sales through an affiliated link. Specifics on catpured data (typically traffic based data) can be found at each program mentioned.
+
+Contact Us
+If you have any questions about this Privacy Policy, You can contact us:
+
+By email: webmaster@ar15.com
+By visiting this page on our website: www.ar15.com

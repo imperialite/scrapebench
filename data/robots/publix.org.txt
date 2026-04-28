@@ -1,0 +1,4 @@
+#This section applies to all bots 
+User-agent: * #Disallow all pages 
+Disallow: / #Allow only the homepage 
+Allow: /$

@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /tools/shopping/GenerateCurrentOffersLinks.aspx 
+Disallow: /tlp/ 
+Disallow: /preference-center/update-preferences/
+
+Sitemap: https://www.acura.com/sitemap.xml

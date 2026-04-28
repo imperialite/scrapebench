@@ -1,0 +1,113 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /search/
+Disallow: /*.pdf
+Disallow: /post-style/*
+Disallow: /jobs-scrape/*
+Disallow: /*ia_markup=*
+Disallow: /dmg_liveblog/*
+Disallow: /wp-includes/*
+Disallow: /wp-content/*.js
+Disallow: /wp-content/*.css
+Disallow: /wp-json/*
+Disallow: /_static/*
+
+User-agent: AI2Bot
+User-agent: Ai2Bot-Dolma
+User-agent: Amazonbot
+User-agent: amazon-kendra-
+User-agent: anthropic-ai
+User-agent: Applebot-Extended
+User-agent: bedrockbot
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: ChatGLM-Spider
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: Claude-Web
+User-agent: cohere-ai
+User-agent: Cotoyogi
+User-agent: DeepSeekBot
+User-agent: Diffbot
+User-agent: DuckAssistBot
+User-agent: EchoboxBot
+User-agent: FacebookBot
+User-agent: FriendlyCrawler
+User-agent: Gemini-Deep-Research
+User-agent: Google-CloudVertexBot
+User-agent: Google-Extended
+User-agent: GoogleOther
+User-agent: GoogleOther-Image
+User-agent: GoogleOther-Video
+User-agent: GPTBot
+User-agent: Grok
+User-agent: iaskspider/2.0
+User-agent: ICC-Crawler
+User-agent: ImagesiftBot
+User-agent: img2dataset
+User-agent: ISSCyberRiskCrawler
+User-agent: Kangaroo Bot
+User-agent: KunatoCrawler
+User-agent: LinerBot
+User-agent: Meltwater
+User-agent: Meta-ExternalAgent
+User-agent: Meta-ExternalFetcher
+User-agent: MistralAI-User
+User-agent: OAI-Operator
+User-agent: OAI-SearchBot
+User-agent: omgili
+User-agent: omgilibot
+User-agent: PanguBot
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: PetalBot
+User-agent: QualifiedBot
+User-agent: Scrapy
+User-agent: Seekr
+User-agent: Sidetrade indexer bot
+User-agent: TaraGroup Intelligent Bot
+User-agent: TikTokSpider
+User-agent: Timpibot
+User-agent: VelenPublicWebCrawler
+User-agent: WARDBot
+User-agent: Webzio-Extended
+User-agent: wpbot
+User-agent: WRTNBot
+User-agent: YouBot
+Disallow: /
+
+User-agent: GoogleOther
+Allow: /.well-known/privacy-sandbox-attestations.json
+
+# Year Sitemap
+Sitemap: https://metro.co.uk/sitemap.xml?yyyy=2026
+Sitemap: https://metro.co.uk/sitemap.xml?yyyy=2025
+Sitemap: https://metro.co.uk/sitemap.xml?yyyy=2024
+Sitemap: https://metro.co.uk/sitemap.xml?yyyy=2023
+Sitemap: https://metro.co.uk/sitemap.xml?yyyy=2022
+Sitemap: https://metro.co.uk/sitemap.xml?yyyy=2021
+Sitemap: https://metro.co.uk/sitemap.xml?yyyy=2020
+
+# News Sitemap
+Sitemap: https://metro.co.uk/news-sitemap.xml
+
+# Sitemap archive
+Sitemap: https://metro.co.uk/sitemap.xml
+
+Sitemap: https://metro.co.uk/sitemap-channels.xml
+
+Sitemap: https://metro.co.uk/sitemap-tags.xml
+
+Sitemap: https://metro.co.uk/sitemap-authors.xml
+
+Sitemap: https://metro.co.uk/sitemap-videos.xml
+
+Sitemap: https://metro.co.uk/sitemap-tv-soaps.xml
+
+Sitemap: https://metro.co.uk/sitemap-images.xml
+# Sitemap archive
+Sitemap: https://metro.co.uk/sitemap.xml
+

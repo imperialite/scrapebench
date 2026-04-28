@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /search-question
+Disallow: /pdf-chat
+Disallow: /extension-login
+Disallow: /lp/
+Disallow: /h5/
+Disallow: /amp/
+Disallow: /history
+Disallow: /outline
+Disallow: /editor
+
+User-agent: Baiduspider
+User-agent: 360Spider
+User-agent: Yisouspider
+User-agent: Sogouspider
+User-agent: AhrefsBot
+User-agent: Amazonbot
+Disallow: /
+Disallow: /campaign-plus

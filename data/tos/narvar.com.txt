@@ -1,0 +1,327 @@
+Terms of Service | Narvar Corporation Legal Agreement
+Narvar Agentic
+Products
+Back
+PRODUCTS
+Promise
+AI-powered delivery date estimates to boost conversion
+Secure
+Give shoppers peace of mind and protect and grow your bottom line
+Track
+Personalized tracking experiences to build brand loyalty
+Shield
+Returns and exchanges  management to mitigate fraud and reward best customers
+Notify
+Proactive communication to drive customer lifetime value
+Assist
+Delivery claim management to tackle fraud and build trust
+Intelligent Retail Insights Service (IRIS™)
+Transform 74B+ interactions into insights that personalize, optimize, and protect.
+Meet IRIS™
+Solutions
+Back
+NEW
+The Future of Agentic Post-Purchase Starts Here
+Get Started
+BY VALUE
+Retain Revenue
+Grow Revenue
+Increase Operational Efficiency
+BY STAGE
+Pre-Purchase
+Delivery
+Post-Delivery
+BY FUNCTION
+Ecommerce & Digital
+Customer Care
+Supply Chain & Logistics
+Risk & Fraud
+PLATFORMS & INTEGRATIONS
+Partner Network
+Deliver engaging order tracking experiences.
+Shopify
+Zendesk
+BigCommerce
+Klaviyo
+Magento
+Gorgias
+Salesforce
+Attentive
+Customers
+Back
+industries
+Apparel & Accessories
+Footwear
+Beauty & Skincare
+Healthcare
+Electronics & Gaming
+Home & Pets
+Food & Beverage
+See All Customer Stories
+featured
+Yamazaki Home Boosts Conversion Rates by 5% with Narvar Secure
+Resources
+Back
+resources
+Blog
+eBooks
+Reports
+Webinars
+See All Resources
+featured
+eBook
+The Returns Platform Optimization Guide
+Webinar
+2025 State of Post-Purchase Report: Trends & Insights
+Company
+Back
+company
+Our Story
+Careers
+News & Press
+Sign In
+Request a demo
+EN
+English
+日本語
+Book a demo
+Last Updated: August 1, 2020
+Narvar Terms of Service
+These Terms of Service are effective as of August 1, 2020 for all those customers agreeing to these Terms of Service for the first time on that date and thereafter. If you have previously agreed to a version of Narvar’s Terms of Service before August 1, 2020 (e.g., the
+October 24, 2017 Terms of Service
+), please be aware that by continuing to use Narvar’s Services after August 1, 2020, you are accepting these updated terms. If you have a separate, written terms of service agreement with Narvar, then the August 1 updates to Narvar’s Terms of Service will not apply to you.
+NARVAR RESERVES THE RIGHT, AT ITS SOLE DISCRETION, TO ALTER OR UPDATE THESE TERMS OF SERVICE, THE PLATFORM AND/OR THE SERVICES AT ANY TIME WITH OR WITHOUT NOTICE INCLUDING, WITHOUT LIMITATION, FEATURES, SPECIFICATIONS, CAPABILITIES, FUNCTIONS, LICENSING TERMS, RELEASE DATES, GENERAL AVAILABILITY OR OTHER CHARACTERISTICS THAT DO NOT AFFECT THE PLATFORM AND THE SERVICES AS THEY ARE CURRENTLY BEING PROVIDED TO COMPANY. ANY CHANGES MADE TO THESE TERMS OF SERVICE WILL NOT APPLY TO COMPANY TO THE EXTENT THAT (I) THE CHANGES CONCERN MATTERS WHICH ARE THE SUBJECT OF AN ACTUAL DISPUTE BETWEEN COMPANY AND NARVAR AS OF THE DATE THE CHANGES TAKE EFFECT AND (II) NARVAR HAS ACTUAL NOTICE OF THE DISPUTE AS OF THE DATE THE CHANGES TAKE EFFECT. BY CONTINUING TO USE THE PLATFORM AND/OR THE SERVICES AFTER ANY SUCH CHANGES, COMPANY AGREES TO BE BOUND BY THE UPDATED TERMS OF SERVICE.
+These Narvar Terms of Service (“
+Agreement
+”), together with all Service Orders (as defined below), governs Company’s access to the Platform, Services and Implementation (as each such term is defined below) that Company (as defined below) receives from Narvar, Inc. (“
+Narvar
+”). Company and Narvar are referred to individually as a “
+Party
+” and collectively as the “
+Parties
+.”
+‍
+1. Definitions.
+“
+Authorized Employee
+” means an employee or contractor of the Company that has been authorized by Company to access the Services on behalf of the Company.
+“
+Company
+” means the company or other legal entity identified in the applicable Service Order.
+“
+Company Data
+” means any information or data which Company inputs into the Platform or provides to Narvar for inputting into the Platform.
+“
+Confidential Information
+” means business or technical information that one Party discloses to the other Party under this Agreement, and which is marked by the disclosing Party as “confidential” or “proprietary” or otherwise should be reasonably deemed confidential.
+“
+Documentation
+” means the Platform and/or Services documentation provided by Narvar to Company under and including this Agreement.
+“
+Feedback
+” means any feedback, comments and suggestions for improvements to the Services that Company provides to Narvar.
+“
+Intellectual Property Rights
+” means patent rights (including, without limitation, patent applications and disclosures), inventions, copyrights, trade secrets, moral rights, know-how, data and database rights, and any other intellectual property rights recognized in any country or jurisdiction in the world.
+“
+Implementation
+” means the services performed by Narvar to configure and rollout the Services to Company, as described in a statement of work attached to a Service Order.
+“
+Marks
+” means a Party’s corporate or trade name, trademarks, service marks, logos, domain names or other identification of such Party. “
+Platform
+” means Narvar’s proprietary cloud-based system through which retailers may provide Users with enhanced pre- and post-purchase experiences, and all changes, enhancements, updates, new versions, improvements and other modifications thereto, whether made by or on behalf of Narvar.
+“
+Service Level Agreement
+” means the service level agreement set forth in Exhibit B hereto.
+“
+Services
+” means the Platform-related services described in the applicable Service Order (but excluding the Implementation).
+“
+User
+” means an individual who is a customer of Company and who is given access to the Platform (as it is made available to Company under this Agreement) for the benefit of Company.
+‍
+2. Services.
+2.1	Service Orders.
+From time to time, the Parties may execute one or more service orders that describe the Services Narvar will provide to Company (each a “
+Service Order
+”). Each Service Order will expressly refer to this Agreement, will form a part of this Agreement, and will be subject to the terms and conditions contained herein. A Service Order may be amended only by a written agreement executed by both Parties.  Should any conflict arise between the terms of the Service Order and this Agreement, the Service Order will control to the extent of the conflict.
+2.2	Services.
+Narvar will provide the Services to Company in accordance with the terms and conditions set forth in the applicable Service Order and this Agreement.
+2.3	Implementation.
+If a Service Order includes Implementation, Narvar will provide the Implementation to Company in accordance with such Service Order and this Agreement.
+2.4 Platform Hosting.
+Narvar will host, operate and maintain the Platform on servers operated and maintained by or at the direction of Narvar.
+2.5	Data Protection and Information Security.
+Narvar will follow its standard data protection and information security procedures for the Services as set forth in Exhibit C hereto.
+2.6	Cooperation and Assistance.
+Company will cooperate in providing accurate set-up and configuration data for the Services and, if applicable, Implementation, in accordance with Narvar’s instructions as provided in the Documentation and the terms of the applicable Service Order. Company will at all times provide, and Narvar’s performance of Services and Implementation shall be conditioned upon, Company providing Narvar with good faith cooperation and assistance and make available such information, access, data, and Company personnel as may be reasonably required by Narvar in order to provide the Services and Implementation. Company will be responsible for obtaining and maintaining at Company’s expense all the necessary computer hardware, software, modems, connections to the Internet and other items required for Company to access and use the Services.
+2.7	Authorized Employees.
+Company shall ensure that all Authorized Employees comply with the terms and conditions of this Agreement, including, without limitation, with Company’s obligations and the restrictions set forth in Section 3.2. Narvar may suspend or terminate any Authorized Employee’s access to the Services upon notice to Company in the event that Narvar reasonably determines that such Authorized Employee violated this Agreement. Company will at all times be responsible for all actions taken by its Authorized Employees.
+2.8	Country-Specific Terms.
+If the Company is located in certain jurisdictions other than the U.S., this Agreement includes the country-specific terms set forth in Exhibit A hereto (“
+Country-Specific Terms”
+), as such Exhibit may be amended by the Parties from time to time in writing (e-mail being sufficient). Should any conflict arise between the terms of the main body of this Agreement and the Country-Specific Terms, the Country-Specific Terms will control to the extent of the conflict.
+‍
+3.
+Licenses.
+3.1	License to the Platform.
+Subject to Company’s compliance with the terms and conditions of this Agreement, Narvar grants to Company a limited, non-exclusive, non-transferable (except pursuant to Section 14.1), worldwide license, without the right to sublicense, to access and use and permit Users to access and use the Platform solely in connection with Company’s permitted use of the Services during the applicable Term. Such license is subject to any order volume limitations specified in the applicable Service Order. Narvar reserves all rights to the Platform not otherwise expressly granted in this Section 3.1.
+3.2	Restrictions.
+Company shall not interfere with or disrupt the Platform or the Services or attempt to gain access to any systems or networks that connect thereto (except as required to access and use the Services as permitted under this Agreement). Company shall not allow access to or use of the Platform or the Services by anyone other than its Authorized Employees and Users in accordance with the terms of this Agreement. Without limiting the foregoing, Company shall not provide its  login information to the Services or otherwise provide access to the Services to any third-party without Narvar’s prior written consent or as otherwise permitted in the applicable Service Order. Further, Company shall not, and shall not permit any third-party to: (i) copy, modify or create any derivative work of any portion of the Platform or the Services; (ii) reverse engineer, decompile or disassemble the Platform or the Services; (iii) market, sublicense, publish, distribute, reproduce, assign, transfer, rent, lease or loan any portion of the Platform or the Services to any third-party; (iv) remove or obscure any copyright or proprietary rights notices content in any portion of the Services; (v) attempt to access or search the Platform or the Services or download content from the Platform or the Services using any engine, software, tool, agent, device or mechanism (including spiders, robots, crawlers, data mining tools or the like) other than the software and/or search agents provided by Narvar or other generally available third-party web browsers; or (vi) use the Platform or the Services or any of Narvar’s Confidential Information for benchmarking or competitive analysis, or to develop, commercialize, license or sell any product, service or technology that competes with the Services.
+3.3	Acceptable Use Policy.
+Company and its Authorized Employees and Users shall use the Platform and Services exclusively for authorized and legal purposes, consistent with all applicable laws, regulations and the rights of others.
+3.4	Limited Trademark License.
+Company grants Narvar a royalty-free, non-exclusive, non-transferable (except pursuant to Section 14.1), non-sublicensable, limited term license to use the Company’s Marks solely for the purpose of providing the Services and modifying the appearance of Company’s interface to the Platform to incorporate Company’s branding and only as set forth in the applicable Service Order. Narvar agrees to comply with the Company’s Marks usage policies and instructions provided by Company to Narvar and acknowledges that all use of the Company Marks shall inure solely to the benefit of Company. Narvar will not contest or otherwise challenge or interfere with the exclusive use and enjoyment of the Company’s Marks nor file any applications or registrations for the Company Marks or any confusingly similar marks. The license in this Section 3.4 is limited to the duration of the applicable Service Order.
+‍
+4.
+Fees.
+4.1
+In consideration for Narvar providing the Services and, if applicable, the Implementation, Company will pay Narvar the fees set forth in the applicable Service Order (“
+Fees
+”) in accordance with the payment terms set forth therein. All Fees are non-refundable except as expressly provided in this Agreement.
+‍
+5.
+Privacy Policy; Data.
+5.1	Privacy Policy.
+To the extent applicable, Narvar will provide the Services in accordance with Narvar’s Privacy Policy (“
+Privacy Policy
+”), which is accessible at
+privacy policy
+.
+5.2	Company Data.
+Company grants Narvar a limited, worldwide, non-transferable (except pursuant to Section 14.1), non-exclusive, non-sublicensable, royalty-free license during the applicable Term to use, reproduce, distribute, transmit, have transmitted, perform, display, store, archive, and make derivative works of the Company Data solely for the purpose of operating and providing the Services to Company.
+5.3	Narvar Data.
+Narvar shall have the right to collect and analyze de-identified and/or aggregated data relating to the provision, use and performance of various aspects of the Platform, the Services and related systems and technologies (including, without limitation, information based upon Company Data and data derived therefrom), and, during and after the applicable Term, Narvar shall have the right to: (i) use such de-identified and/or aggregated data to improve and enhance the Platform and Services and for other development, diagnostic and corrective purposes in connection with the Platform, the Services and other Narvar offerings; and (ii) disclose such de-identified and/or aggregated data in connection with its business.
+6.
+Proprietary Rights.
+6.1	Narvar Ownership.
+As between Company and Narvar, Narvar owns and retains all right, title and interest in and to the Platform, the Services and the Implementation, including all Intellectual Property Rights therein.
+6.2	Company Ownership.
+As between Company and Narvar, Company owns and retains all right, title and interest in and to the Company Data and Company’s Marks, including all Intellectual Property Rights therein.
+6.3	Feedback.
+To the extent that Company provides to Narvar any Feedback, Company grants Narvar a non-exclusive, worldwide, perpetual, irrevocable, fully-paid, royalty-free, sublicensable and transferable license under any and all Intellectual Property Rights that Company owns or controls to use, copy, modify, create derivative works based upon and otherwise exploit the Feedback for any purpose.
+‍
+7.
+Representations and Warranties.
+7.1	Mutual.
+Each Party represents and warrants to the other Party that: (a) it has full power and authority to enter into this Agreement; (b) the execution, delivery and performance of this Agreement by it have been duly authorized by all necessary actions and do not violate its organizational documents; and (c) it will comply with all laws and regulations applicable to its provision, or use, of the Services.
+7.2	Services Warranty.
+With respect to each Service Order, Narvar represents and warrants to Company that during the applicable Term, (a) the Services will operate substantially in accordance with the terms of the Documentation, and (b) Narvar’s delivery of the Services will meet the service availability commitment set forth in the Service Level Agreement. Narvar’s sole and exclusive liability and Company’s sole and exclusive remedy for any breach of the warranty set forth in this Section 7.2 will be as set forth in the Service Level Agreement.
+7.3	Implementation Warranty.
+With respect to each Service Order that includes Implementation, Narvar represents and warrants that the Implementation will be performed in a professional and workmanlike manner. Narvar’s sole and exclusive liability and Company’s sole and exclusive remedy for any breach of the warranty set forth in this Section 7.3 will be to reperform the nonconforming Implementation services.
+‍
+8. Term.
+This Agreement will remain in effect for as long as Narvar is providing Services to Company pursuant to a Service Order. Unless explicitly stated otherwise, each Service Order will be in effect for the term set forth therein (the “
+Initial Term
+”) and will automatically renew for additional periods equal to the Initial Term unless a Party provides written notice of its intention not to renew at least thirty (30) days prior to expiration of the current term (any such renewal term a “
+Renewal Term,
+” and together with the Initial Term, the “
+Term
+”).
+9.
+Termination.
+Either Party may terminate this Agreement (including any and all Service Orders) for breach if: (i) the other Party is in material breach of the Agreement and fails to cure that breach within thirty (30) days after receipt of written notice specifying the breach, to the extent such breach is curable, provided that the cure period for any default with respect to payment shall be five (5) business days; or (ii) the other Party ceases its business operations or becomes subject to insolvency proceedings and the proceedings are not dismissed within sixty (60) days. Narvar may further terminate this Agreement immediately upon written notice to Company in the event that Company infringes or otherwise violates Narvar’s Intellectual Property Rights in and to the Platform and the Services.
+‍
+10.
+Effect of Termination.
+10.1
+Upon expiration or termination of a Service Order (other than termination pursuant to Section 9), each other Service Order that is then-in effect will remain in effect for the duration of the then-current Term of such Service Order.
+10.2
+Upon expiration or termination of each Service Order: (i) each Party will make no further use of any Confidential Information belonging to the other Party, and will promptly return to the other Party (or destroy) all Confidential Information of the other Party in its possession or control, except for any archived electronic communications which may be stored confidentially, (ii) Company’s and its Authorized Employees’ and Users’ right to access and use the Platform pursuant to such Service Order will immediately terminate; and (iii) all Fees owed by Company to Narvar pursuant to such Service Order will be immediately due; provided that if Company terminates the Service Order for cause in accordance with Section 9, Narvar will refund to Company a pro rata amount of any Fees paid up-front based on the remainder of the applicable Term.
+10.3
+The rights and obligations of Narvar and Company contained in Sections 4, 5.3, 6, 10, 11, 12, 13 and 14 will survive any expiration or termination of this Agreement and Service Orders.
+‍
+11.
+Confidentiality
+.
+11.1	Confidentiality.
+Each Party (a “
+Receiving Party
+”) agrees not to use or disclose any Confidential Information of the other Party (a “
+Disclosing Party
+”), except as necessary for the performance of this Agreement. The Receiving Party will use all reasonable efforts to protect Confidential Information of the Disclosing Party from unauthorized use or disclosure, but in no event less than the efforts that it ordinarily uses with respect to its own proprietary information of a similar nature and importance. The Receiving Party may disclose Confidential Information of the Disclosing Party only to those of its employees, contractors, agents and advisors who have a bona fide need to know such Confidential Information for the performance of this Agreement; provided, that each such employee, contractor, agent or advisor first executes a written agreement (or is otherwise already bound by a written agreement) that contains use and nondisclosure restrictions at least as protective of the Confidential Information as those set forth in this Agreement. To the extent there is a breach of Confidential Information or Intellectual Property Rights, each party may seek injunctive relief in any court of competent jurisdiction without the posting of a bond or other similar requirement.
+11.2	Exclusions.
+The obligations in Section 11.1 will not apply to the extent any information: (a) is or becomes generally known to the public through no fault or breach of this Agreement by the Receiving Party; (b) is rightfully known by the Receiving Party at the time of disclosure without an obligation of confidentiality; (c) is independently developed by the Receiving Party without access to or use of any Confidential Information of the Disclosing Party that can be evidenced in writing; or (d) is rightfully obtained by the Receiving Party from a third party without restriction on use or disclosure. In addition, the Receiving Party may disclose Confidential Information of the Disclosing Party that it is required to disclose pursuant to a court order or other judicial process provided that the Receiving Party shall first give the Disclosing Party prompt notice and only disclose the minimum amount of information required.
+‍
+12.
+Disclaimer; Limitation of Liability.
+12.1	Disclaimer.
+EXCEPT FOR THE EXPRESS WARRANTIES PROVIDED IN SECTIONS 7.1, 7.2 AND 7.3, NARVAR MAKES NO WARRANTIES OF ANY KIND WHATSOEVER, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, WITH RESPECT TO THE PLATFORM, THE SERVICES, THE IMPLEMENTATION OR ANY OTHER ACCOMPANYING MATERIAL PROVIDED HEREUNDER. NARVAR SPECIFICALLY DISCLAIMS ANY AND ALL WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THOSE WARRANTIES ARISING FROM A COURSE OF DEALING OR USAGE OR TRADE. NARVAR DISCLAIMS ANY WARRANTY THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT ALL ERRORS WILL BE CORRECTED.  Company assumes sole responsibility and liability for results obtained from use of the Services and for conclusions drawn from such use. Narvar shall have no liability for any claims, losses, or damages caused by errors or omissions in any Company Data or other information provided to Narvar by Company in connection with the Services or the Implementation, or any actions taken by Narvar at Company’s direction. Narvar shall have no liability for any claims, losses or damages arising out of or in connection with Company’s or any Authorized Employee’ or User’s use of any third-party products, services, software or web sites that are accessed via links from within the Services.
+12.2	Exclusion of Damages.
+EXCEPT AS SET FORTH IN SECTION 12.4 AND FOR (A) BREACH OF CONFIDENTIALITY, AND (B) INFRINGEMENT OR VIOLATION OF THE OTHER PARTY’S INTELLECTUAL PROPERTY RIGHTS, NEITHER PARTY WILL BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT, EVEN IF THE SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF WHETHER SUCH LIABILITY ARISES IN CONTRACT, NEGLIGENCE, TORT, STRICT LIABILITY, WARRANTY, OR OTHERWISE.
+12.3	Total Liability.
+IN NO EVENT WILL EITHER PARTY’S AGGREGATE LIABILITY UNDER THIS AGREEMENT EXCEED THE FEES PAID OR PAYABLE BY COMPANY TO NARVAR UNDER THIS AGREEMENT DURING THE TWELVE (12) MONTHS PRIOR TO THE EVENT GIVING RISE TO LIABILITY, EXCEPT AS SET FORTH BELOW AND IN SECTION 12.4:
+(A)
+EACH PARTY’S AGGREGATE LIABILITY FOR BREACH OF CONFIDENTIALITY AND INFRINGEMENT OR VIOLATION OF THE OTHER PARTY’S INTELLECTUAL PROPERTY RIGHTS WILL NOT EXCEED ONE AND ONE HALF TIMES (1.5X) THE FEES PAID OR PAYABLE BY COMPANY TO NARVAR UNDER THIS AGREEMENT DURING THE TWELVE (12) MONTHS PRIOR TO THE EVENT GIVING RISE TO LIABILITY;
+(B)
+EACH PARTY’S INDEMNIFICATION OBLIGATIONS UNDER SECTIONS 13.1(I) TO 13.1(IV) AND 13.2(I) TO 13.2(III), WILL NOT EXCEED TWO TIMES (2X) THE FEES PAID OR PAYABLE BY COMPANY TO NARVAR UNDER THIS AGREEMENT DURING THE TWELVE (12) MONTHS PRIOR TO THE EVENT GIVING RISE TO LIABILITY; AND
+(C)
+NARVAR’S INDEMNIFICATION OBLIGATION UNDER SECTION 13.1(V) AND LIABILITY FOR BREACH OF THE DATA PROTECTION AND INFORMATION SECURITY OBLIGATIONS IN EXHIBIT C HERETO WILL NOT EXCEED FIVE TIMES (5X) THE FEES PAID OR PAYABLE BY COMPANY TO NARVAR UNDER THIS AGREEMENT DURING THE TWELVE (12) MONTHS PRIOR TO THE EVENT GIVING RISE TO LIABILITY OR $500,000, WHICHEVER IS LOWER.
+THE AGGREGATE LIABILITY CAPS SET FORTH IN THIS SECTION 12.3 ARE NOT CUMULATIVE AND CANNOT BE COMBINED WITH EACH OTHER (
+I.E.,
+THE SAME EVENT GIVING RISE TO LIABILITY CANNOT BE SUBJECT TO MORE THAN ONE CAP SET FORTH IN THIS SECTION 12.3).
+12.4
+THE LIMITATIONS OF LIABILITY IN THIS SECTION 12 SHALL NOT APPLY TO (A) EITHER PARTY’S LIABILITY FOR FRAUD OR WILLFUL MISCONDUCT OR (B) CUSTOMER’S LIABILITY FOR BREACH OF SECTION 3.2 (RESTRICTIONS) AND INDEMNIFICATION OBLIGATIONS UNDER SECTION 13.2(IV).
+12.5 Basis of the Bargain.
+THE PARTIES HEREBY ACKNOWLEDGE AND AGREE THAT THE LIMITATIONS OF LIABILITY IN THIS SECTION 12 ARE AN ESSENTIAL PART OF THE BASIS OF THE BARGAIN BETWEEN NARVAR AND COMPANY, AND WILL APPLY EVEN IF THE REMEDIES AVAILABLE HEREUNDER ARE FOUND TO FAIL THEIR ESSENTIAL PURPOSE.
+‍
+13.
+Indemnification.
+13.1	Indemnification by Narvar.
+Narvar will defend (or settle), indemnify and hold harmless Company from and against any damages and liabilities (including court costs and reasonable attorneys’ fees) awarded in a final judgement against Company, and amounts agreed to in settlement with respect to each of the foregoing, to the extent arising from a third party claim or suit against Company that (i) the Platform or the Services infringe, misappropriate or otherwise violate any Intellectual Property Rights of such third party; (ii) is based on any violation of laws applicable to the nature and conduct of Narvar’s business by Narvar; (iii) is based on any act of gross negligence or willful misconduct by Narvar or its employees; (iv) is based on a claim that a Narvar agent, subcontractor or other representative is an employee or is entitled to employment or other similar benefits from Company; or (v) arises out of Narvar’s breach of the data protection and information security obligations set forth in Exhibit C hereto. Narvar’s obligations under this Section 13.1 are contingent upon: (a) Company providing Narvar with prompt written notice of such claim (but in any event notice in sufficient time for Narvar to respond without prejudice); (b) Narvar having the exclusive right to defend or settle such claim; and (c) Company providing all reasonably necessary cooperation to Narvar, at Narvar’s expense, in the defense and settlement of such claim.  Company may participate in the defense of any claim at its own expense. If Company’s use of the Services is, or in the reasonable opinion of Narvar is likely to be enjoined due to the type of claim specified in item (i) of this Section 13.1, Narvar will, at its sole expense and option, do one of the following: (x) replace or modify the Services to make them non-infringing and of equivalent  functionality; (y) procure the right for Company to continue to use the Services under the terms of this Agreement; or (z) if Narvar is unable to accomplish either (x) or (y) despite using its reasonable efforts, terminate this Agreement and refund to Company a pro-rata portion of Fees paid for the remaining portion of the Term during which Company would have had access to the Services.  Narvar’s obligations in this Section 13.1 do not apply to, and Narvar will have no obligation to Company for, any claim that arises from (1) modifications to the Services by anyone other than Narvar not approved in advance by Narvar in writing, (2) Company’s use of the Services in violation of this Agreement or other than as specified in the Documentation, or (3) the combination, operation or use of the Services with equipment, devices, software or data (including without limitation Company Data) not supplied by Narvar, if a claim would not have occurred but for such combination, operation or use. THIS SECTION 13.1 SETS FORTH NARVAR’S SOLE LIABILITY AND COMPANY’S SOLE AND EXCLUSIVE REMEDY WITH RESPECT TO ANY ALLEGED OR ACTUAL INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS BY THE PLATFORM OR THE SERVICES.
+13.2 Indemnification by Company.
+Company will defend (or settle), indemnify and hold harmless Narvar from and against any damages and liabilities (including court costs and reasonable attorneys’ fees) awarded in a final judgement against Narvar, and amounts agreed to in settlement with respect to each of the foregoing, to the extent arising from a third party claim or suit against Narvar that: (i) the Company Data or its use by Narvar in accordance with this Agreement infringes, misappropriates or violates a third party’s Intellectual Property Rights, or rights of publicity or privacy, or result in the violation of any applicable law or regulation, (ii) is based on Company’s, an Authorized Employee’s, or User’s use of the Services to the extent such use was not in accordance with this Agreement; (iii) is based on the manufacture, sale, distribution or marketing of any Company’s products or services; or (iv) is based on a breach of Section 3.2 (Restrictions) by Company. Company’s obligations under this Section 13.2 are contingent upon: (a) Narvar providing Company with prompt written notice of such claim (but in any event notice in sufficient time for Company to respond without prejudice); (b) Company having the exclusive right to defend or settle such claim; and (c) Narvar providing all reasonably necessary cooperation to Company, at Company’s expense, in the defense and settlement of such claim. Narvar may participate in the defense of any claim at its own expense.
+‍
+14.
+Miscellaneous
+.
+14.1	Assignment.
+Neither Party may assign any of its rights or obligations under this Agreement without the prior written consent of the other Party.  Notwithstanding the foregoing, either Party may, without the consent of the other Party, assign this Agreement to an entity merging with, consolidating with, or purchasing substantially all its assets or stock, provided that the assignee will assume all rights and obligations under this Agreement. Any permitted assignment of this Agreement will be binding upon and enforceable by and against the Parties’ successors and assigns, and any unauthorized assignment will be null and void and constitute a breach of this Agreement.
+14.2 Entire Agreement.
+This Agreement, together with its exhibits and any Service Orders, constitutes the entire agreement between the Parties and supersedes all previous agreements, oral or written, with respect to the subject matter of this Agreement.  This Agreement may only be amended in a writing signed by a duly authorized representative of each Party.
+14.3 Marketing Materials.
+Company agrees that, upon Company’s prior written consent, Narvar may identify Company as a customer and use Company’s Marks on (a) Narvar’s website, (b) in sales presentations, marketing materials and press releases, and (c) to develop a brief customer profile or case study for use by Narvar on Narvar’s website for promotional purposes.
+14.4 Insurance.
+During the Term, Narvar will maintain general, cybersecurity, and privacy liability insurance coverage with reputable insurers, at its expense.
+14.5 Restricted Rights.
+The Platform and its documentation are “commercial computer software” and “commercial computer software documentation,” respectively, as such terms are used in FAR 12.212 and other relevant government procurement regulations. Any use, duplication, or disclosure of the Platform or its documentation by or on behalf of the U.S. government is subject to restrictions as set forth in this Agreement.
+14.6 Export Control.
+Company agrees to comply fully with all relevant export laws and regulations of the United States (“
+Export Laws
+”) to ensure that neither the Platform or the Services, nor any direct product thereof are: (a) exported or re-exported directly or indirectly in violation of Export Laws; or (b) used for any purposes prohibited by the Export Law.
+14.7	Force Majeure.
+Except for payment obligations, if either Party is prevented from performing or is unable to perform any of its obligations under this Agreement due to causes beyond the reasonable control of the Party invoking this provision, including but not limited to denial-of-service attacks, acts of God, acts of civil or military authorities, riots or civil disobedience, wars, strikes or labor disputes (other than those limited to the affected Party), such Party’s performance will be excused and the time for performance will be extended accordingly provided that the Party immediately takes all reasonably necessary steps to resume full performance.
+14.8 Governing Law.
+This Agreement will be governed by and interpreted in accordance with the laws of the state of California without giving effect to its conflicts of law rules.  Each of the Parties to this Agreement consents to the exclusive jurisdiction and venue of the state and federal courts located in San Francisco, California. The United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transactions Act, as currently enacted by any jurisdiction or as may be codified or amended from time to time by any jurisdiction, do not apply to this Agreement.
+14.9 Notices.
+All notices required or permitted under this Agreement will be in writing, will reference this Agreement, and will be deemed given: (i) when delivered personally; (ii) one (1) business day after deposit with a nationally-recognized express courier, with written confirmation of receipt; (iii) when sent by email, on the date the email was sent with confirmation of transmission if sent during normal business hours of the receiving party, and on the next business day if sent after normal business hours of the receiving party; or (iv) three (3) business days after having been sent by registered or certified mail, return receipt requested, postage prepaid. All notices (a) to Narvar will be sent to: Narvar, Inc., Attn: Narvar Legal, 50 Beale Street, 7th floor, San Francisco, CA 94105; e-mail:
+legal@narvar.com
+, and (b)  to Company will be sent to the addresses set forth in the applicable Service Order; or to such other address as may be specified by either party to the other party in accordance with this Section 14.9.
+14.10 Relationship of Parties.
+The Parties are independent contractors and will have no right to assume or create any obligation or responsibility on behalf of the other Party.  Neither Party will hold itself out as an agent of the other Party.  This Agreement will not be construed to create or imply any partnership, agency, joint venture or formal business entity of any kind.
+14.11 Third Party Beneficiaries.
+No third party is a beneficiary of this Agreement entitled to enforce its terms directly.
+14.12 Severability.
+If any provision of this Agreement is held invalid or unenforceable, it will be replaced with the valid provision that most closely reflects the intent of the Parties and the remaining provisions of the Agreement will remain in full force and effect.
+14.13 Non-Exclusive Remedies.
+Except as set forth in Sections 7.2, 7.3 and 13.1, the exercise by either Party of any remedy under this Agreement will be without prejudice to its other remedies under this Agreement or otherwise.
+14.14 No Waiver.
+No delay or failure by either Party to exercise any right or remedy under this Agreement will constitute a waiver of such right or remedy. All waivers must be in writing and signed by an authorized representative of the Party waiving its rights. A waiver by any Party of any breach or covenant will not be construed as a waiver of any succeeding breach of any other covenant.
+‍
+EXHIBITS AVAILABLE UPON REQUEST
+EXHIBIT A – COUNTRY-SPECIFIC TERMS
+‍
+EXHIBIT B – SERVICE LEVEL AGREEMENT
+EXHIBIT C – NARVAR DATA PROCESSING ADDENDUM
+Appendix 1 – Data subjects, Categories, and Processing Operations
+Appendix 2 – Narvar Information Security
+Appendix 3 – Standard Contractual Clauses (Processors)
+Products
+Solutions
+Resources
+Legal
+Company
+Copyright © 2012-
+2026
+Narvar Inc. All rights reserved.

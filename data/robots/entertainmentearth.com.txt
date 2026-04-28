@@ -1,0 +1,33 @@
+# 
+User-agent: bingbot # 
+Crawl-delay: 3 
+User-agent: msnbot 
+Crawl-delay: 3 
+User-agent: discobot 
+Disallow:/ 
+user-agent: Vegi 
+Disallow: / # 
+user-agent: SEMrushBot # 
+Disallow: / # 
+User-agent: Screaming Frog SEO Spider # 
+Disallow: / 
+Sitemap: https://www.entertainmentearth.com/sitemap/sitemap_index.xml # Google Image 
+User-agent: Googlebot-Image 
+Disallow: 
+Allow: /news/* # global 
+User-agent: * 
+Disallow: /news/adadmin/ 
+Disallow: /news/adadmindata/ 
+Disallow: /news/backup/ 
+Disallow: /news/cgi-bin/ 
+Disallow: /news/mttest/ 
+Disallow: /news/newsletter/ 
+Disallow: /news/staging/ 
+Disallow: /news/trackback/ 
+Disallow: /news/feed/ 
+Disallow: /news/comments/ #
+Disallow: /news/category/*/* 
+Disallow: /news/archive/ 
+Disallow: /news/*/trackback/ 
+Disallow: /news/*/feed/ 
+Disallow: /news/*/comments/

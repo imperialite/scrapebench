@@ -1,0 +1,1031 @@
+Terms of Service | ClassDojo
+Skip content
+Terms of Service
+Print policy
+Contents
+Privacy Policy
+Website Privacy Policy
+Terms of Service
+ClassDojo Terms of Service
+The ClassDojo Terms
+Agreeing to our Terms
+Registration and Security
+Using the Service
+ClassDojo Technology
+Your Information and Content
+Testimonials
+Privacy and Security
+Online Safety
+Additional Terms by User Type
+FERPA
+Linked Accounts
+Text, SMS, and Other Messaging
+Social Media and Third-Party Authentication Services
+Third-Party Applications and Integrations
+Third Party Content and Websites
+Premium Features
+Modification to Agreement
+Your Representations and Warranty
+Acceptable Use and Conduct
+WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY
+Indemnity
+User Interactions and Release
+Copyright Protection
+Term and Termination
+Dispute Resolution
+Experimental Features
+Third Party Notices
+Notice to California Residents
+Service Provider under the CCPA
+Miscellaneous
+Contact Information
+Transparency
+Premium Features Terms
+Child Privacy Terms
+Virtual Terms of Service
+District Terms
+Third Party Service Providers
+Cookies Policy
+Dojo Tutor Child Privacy Terms
+Dojo Tutor Privacy Policy
+Dojo Tutor Terms of Service
+Dojo Tutor AI Transparency Note
+Dojo Tutor Third Party Services
+Last updated:
+2026-01-07
+Previous Policies
+ClassDojo Terms of Service
+Last Updated:
+January 2026
+.
+You can see past versions of our Terms
+here
+on Github.
+Thank you for your interest in ClassDojo, which owns and operates the services offered on classdojo.com (âClassDojo Websiteâ), including the ClassDojo platform (âClassDojo Platformâ), and any associated mobile applications (âClassDojo Appsâ) or products and services that Company may provide now or in the future (collectively, the âServiceâ). The following are the terms of service (âTerms of Serviceâ) that define the relationship between ClassDojo, Inc. (doing business as ClassDojo (âCompany,â âClassDojo,â âwe,â or âusâ)) and you, and govern your use of ClassDojoâs Services. These Terms of Service do not apply to the Dojo Tutoring product located at
+https://tutor.classdojo.com
+Â (âDojo Tutoring Websiteâ) as well as the areas of the Dojo Tutoring Website where users log in to use the Dojo Tutoring platform (theÂ âTutoring Platformâ), or any Dojo Tutoring mobile applications (theÂ âDojo Tutoring Appsâ) (collectively, theÂ âDojo Tutoring Service(s)â). The Dojo Tutoring Services Terms of Service is located
+here
+.
+PLEASE NOTE THAT THESE TERMS CONTAIN A DISPUTE RESOLUTION AND BINDING ARBITRATION PROVISION
+SECTION
+, INCLUDING A CLASS ACTION WAIVER THAT AFFECTS YOUR RIGHTS UNDER THESE TERMS AND WITH RESPECT TO DISPUTES YOU MAY HAVE WITH THE SERVICES. EXCEPT FOR CERTAIN KINDS OF DISPUTES DESCRIBED IN SECTION 25 (DISPUTE RESOLUTION), YOU AGREE THAT DISPUTES ARISING UNDER THESE TERMS WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION, AND BY ACCEPTING THESE TERMS, YOU AND CLASSDOJO ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN ANY CLASS ACTION OR REPRESENTATIVE PROCEEDING.
+Weâve done our best to write this policy in simple, clear terms. Weâve also added summaries below each section that provide short explanations of the legal language in plain English. These short summaries, which start with âBasically...â, are to aid in understanding only and are not intended to be legally binding.
+The ClassDojo Terms
+These Terms of Service contain general terms that apply to you as a user of the ClassDojo Service ("User"), along with additional terms that may apply to you as a User registered as a teacher, school leader, school administrator, aide, or other similar personnel ("School Personnel"), a Parent User (as defined below), or a Student (as defined below). If you are School Personnel, you will also be subject to ourÂ
+Student Data Protection Addendum (âStudent DPAâ)
+that further governs the use of
+Student Data
+. Additionally, if a school district is directly contracting with ClassDojo (âSchool Districtâ), as opposed to individual School Personnel on behalf of a school, the School District and ClassDojo will also enter into the specific school district terms of service (the â
+District Terms
+â).
+If you are purchasing any premium features (such as
+ClassDojo Plus (âPremium Featuresâ)
+) through the ClassDojo Service you will be also subject to the
+ClassDojo Premium Features Terms
+. If you are using or purchasing any ClassDojo fictional currency (âClassDojo Virtual Currency â) or redeeming your ClassDojo Virtual Currency in any ClassDojo store or shop made available by ClassDojo on the ClassDojo Services (âClassDojo Shopâ) for virtual goods or virtual services (âVirtual Goodsâ), you will also be subject to the ClassDojo
+Virtual World Terms
+. Additionally, if you partake in any sweepstakes, giveaways, or promotions (âSweepstakesâ) we may offer you, you will be subject to the Sweepstakes Terms that are linked from that specific Sweepstakes.
+The Student DPA, District Terms, Premium Features Terms, Virtual World Terms, and Sweepstakes Terms (collectively "Terms") are hereby incorporated by reference.
+When using the Service, you will also be subject to any posted guidelines, policies, or rules applicable to specific features of the Service, which may be posted from time to time (collectively the âGuidelinesâ). These Terms of Service and Terms, including any other Guidelines and future modifications (collectively, the âAgreementâ), govern your use of the Service and is a legal contract between you and ClassDojo. If there is any inconsistency between the Terms of Service, Terms, and any of the Guidelines, the additional Guidelines will prevail to the extent of the inconsistency.
+ClassDojo cares about your privacy. The
+ClassDojo Privacy Policy
+describes our data practices, including the types of information we receive and collect from you, how we use and share this information, and your rights in relation to the processing of information about you.
+Agreeing to our Terms
+By registering for an account on, or otherwise accessing or using the ClassDojo Service, you acknowledge that you have read and agree to be bound by this Agreement. If you are using the Service on behalf of a school, School District, or other similar educational institution (âEducational Institutionâ) that has a separate written agreement with ClassDojo (outside of the Student DPA), that agreement will govern our use of
+Student Data
+, but this Agreement shall still apply to your use of the Service, unless otherwise indicated in writing.
+Users under the age of 18 (âMinor Usersâ) require a parent or legal guardian (or School Personnel if used in connection with an Educational Institution) to allow them to use the Services and to agree to the Agreement. By permitting a Minor User to use the Services, the parent, legal guardian, or School Personnel becomes subject to this Agreement and agrees to be responsible for the Minor User's activities on the Services. If you are a Minor User, you represent that your parent, legal guardian or School Personnel has reviewed and agreed to the Agreement. If you donât get your parent, guardian or School Personnel to read and agree to the Agreement, you donât have permission to use the Service. Additionally, for Minor Users under the age of 13, ClassDojo follows the United States Federal Trade Commissionâs (âFTCâ)
+Childrenâs Online Privacy Protection Act
+and its implementing regulations under the Childrenâs Online Privacy Protection Rule (collectively âCOPPA) consent rules that prohibit online service providers from knowingly collecting
+personal information
+from children under 13 years of age without verifiable parental consent or notice as applicable (âConsentâ). ClassDojo extends the U.S.-based COPPA consent protections in all jurisdictions, even if not required. If we rely on other legally applicable grounds for processing childrenâs personal information (e.g., if we rely on legitimate interest in the European Union and the United Kingdom), we will still use the FTC COPPA consent methods described to provide further transparency for parents. Note that we use the term Outside School Child User to refer to both children (users under 13) and teens (users 13 and above) using the service outside of school unless specifically noted (e.g. where we make specific references to Outside School Child users under 13.  Similarly, when we use the term âstudentâ this includes both teens and children (unless otherwise noted).
+Consent
+may be obtained either from 1) ClassDojo if the parent is setting up a Student Account (as defined below) or Outside School Child Account (as defined below) directly or is allowing their child to use certain Premium Features within their parent account or otherwise access the Service, or the student has received a unique link from their teacher to set up their own Student Account; or 2) a studentâs teacher, school, or School district if the teacher, school or School District is setting up the Studentâs Account and allowing the Student to log in (such as through the use of a
+QR code
+, class text code, or
+Google Login
+) or otherwise allowing Students to access ClassDojo from school (â
+School Consent
+â).
+If you are entering into this Agreement on behalf of a company or other legal entity (including if you are School Personnel entering on behalf of your Educational Institution), you represent that you have the authority to bind said entity to these terms and conditions, in which case the terms âyouâ, âyourâ or âUserâ shall refer to such entity.
+If you do not have such authority, or if you do not agree with these terms and conditions, you must not accept this Agreement and may not use the Service
+.
+Basically,
+By using or signing up for ClassDojo, you agree to these terms. If you are under the age of 18, your legal guardian or parent will need to review and agree to the Agreement on your behalf. Welcome to the community!
+Registration and Security
+As a condition to using Service, you may be required to register with ClassDojo and select a secure password and username or provide additional contact information ("ClassDojo User ID"). Alternatively, (1) an Educational Institution or School Personnel or (2) a parent may create accounts and logins for Students or their child (âStudent Login(s)â) and a parent may also create accounts for their child for use outside of school (not in connection with school use)(âOutside School Child Loginâ). When you create a ClassDojo User ID, Student Login or Outside School Child Login, you must provide the Company with accurate, complete, and updated Student Login and Outside School Child Login information. You may not select or use a Student Login, Outside School Child Login, or the name of another person with the intent to impersonate that person. You will not provide any false information or create an account for anyone other than yourself without permission. ClassDojo reserves the right to refuse registration or to cancel a Student Login or Outside School Child Login at its discretion.
+You shall be responsible for maintaining the confidentiality of your login credentials, Student Login, Outside School Child Login, password, or QR code (âAccount Credentialsâ) and will not share with anyone or let anyone else access your Account Credentials or account. You may not transfer your Account Credentials or account to anyone without express prior written consent of ClassDojo. ClassDojo will not be liable for any direct or indirect loss that you may incur as a result of someone else using your Account Credentials, either with or without your knowledge or for a failure to comply with this Section. However, you may be held liable for losses incurred by ClassDojo or another party due to someone else using your Account Credentials.
+You expressly agree to (a) immediately notify ClassDojo of any unauthorized use of your account or any other breach of security of your Account Credentials, account or a child's personal information, and (b) ensure that you properly log out from your account at the end of each session on a shared device.
+You represent, warrant, and covenant that (1) all Account Credential information you submit is truthful and accurate, and (2) if you are setting up a Student Login or Outside School Child Login, that you have obtained any and all necessary rights, permissions, or consents to access, set up, monitor, use or disclose any data from such accounts of other Users.
+Basically,
+You should keep your QR code, username, password and any other login credentials secret! You agree all Account Credential information you provide is accurate and you have obtained any necessary consents to set up a Student Login or Outside School Child Login.
+Using the Service
+Permission to use ClassDojo
+As long as you are complying with all of the terms and conditions of this Agreement, ClassDojo gives you permission to access and use the Service solely to enable your use of the Service on devices that the User owns or controls. The Service is available for your personal, noncommercial use. Additionally, when used in connection with Educational Institutions, The Service should only be used for
+educational purposes
+or other lawful purposes that help bring school communities together. You may download a single copy of the ClassDojo App for personal, non-commercial use only.
+Access to and use of the Service itself is free for all Users, but we do offer, and may add to in the future, optional
+Premium Features
+, District level features, and Class Dojo Virtual Currency that ClassDojo may charge for. Please also be aware that while we currently provide our mobile services for free, your carrierâs normal rates and fees still apply, such as text messaging and data fees.
+The right to access and use the Service is revoked in jurisdictions where it may be prohibited, if any.
+Changes to the Service
+We are constantly changing and improving our Services. We may add or remove functionality or features, and we may suspend or stop a Service altogether, including, for example, if you do not comply with this Agreement or if we are investigating suspected misconduct. You can stop using our Service at any time, although weâll be sorry to see you go. We may also add or create new limits to our Service or restrict your access to all or a part of the Service at any time without notice or liability.
+We believe that you (or your Educational Institution as applicable) own your data, and that preserving your access to such data is important. If we discontinue a Service, where reasonably possible, we will give you reasonable advance notice and a chance to get information out of that Service. Please see our
+FAQ
+for more information.
+Restrictions
+Except as expressly permitted under this Agreement, you agree that your permission to use the Service is conditioned upon you following all the restrictions set forth in the â
+ClassDojo Technology
+â and â
+Acceptable Use and Conduct
+â sections.
+Basically,
+You can use ClassDojo, as long as you follow the rules in these terms.
+ClassDojo Technology
+The Service and the ClassDojo Technology are intended solely for the personal, non-commercial use of our Users and may only be used in accordance with this Agreement. âClassDojo Technologyâ means all past, present, and future content of the Service, including all the software, hardware, and technology used to provide the Service (including ClassDojo proprietary code and third-party software), user interfaces, materials displayed or performed on the Service, such as text, graphics, articles, photographs, images, illustrations and the design, structure, sequence and âlook and feelâ of the Services, and all other intellectual property, including all ClassDojo Marks. âClassDojo Marksâ means the trademarks, service marks, logos, or any other trade name, trademarks, service marks and other distinctive or proprietary brand features of ClassDojo.
+ClassDojo Technology is protected by copyright and other intellectual property laws. Using our Service does not give you ownership of any intellectual property rights in our Service or the ClassDojo Technology. You agree that, as between you and ClassDojo, all the intellectual property rights in the ClassDojo Service and ClassDojo Technology, which does not include User Content (as defined below), are owned by ClassDojo or its licensors. These terms do not grant you the right to use any ClassDojo Marks.
+You will not, nor will you allow any third party (whether or not for your benefit) to:
+Run, license, rent, lease, loan, distribute, or sell access to the ClassDojo Service or the ClassDojo Technology.
+Build or support (and/or assist a third-party in building or supporting) products or services in competition with ClassDojo, or access the ClassDojo Service to build a product using similar ideas, features, functions, interface, or graphics of the ClassDojo Service.
+Use, store, copy, reproduce, modify, translate, publish, broadcast, transmit, distribute, perform, upload, create derivative works from, display, license, sell, or otherwise exploit the ClassDojo Technology for any purposes other than as expressly permitted under this Agreement.
+Decompile, reverse engineer, disassemble, or otherwise attempt to obtain the source code of any ClassDojo Technology.
+Circumvent, disable, or otherwise interfere with security related features or features that prevent or restrict use or copying of any User Content or ClassDojo Technology or enforce limitations on use of the ClassDojo Service or the User Content and ClassDojo Technology.
+Remove, obscure, or alter any copyright, logo, trademark, or other legal notices displayed in or along with our Services or any ClassDojo Premium Features or other custom products or merchandise, or otherwise use any of the ClassDojo Technology in a manner that creates the impression that the ClassDojo Technology belongs to you.
+Basically,
+Use of our Service does not give you any ownership rights to our intellectual property. We respect copyrights, trademarks and brands. Please respect ours too!
+Your Information and Content
+User Content and Activities
+In the course of using the Service, you and other Users may provide or post certain content or information. This includes, but is not limited to, photos, videos; files; drawings; journal entries; documents; music; âpostsâ; âlikesâ or comments on a
+Class Story or School Story
+(collectively âStoriesâ); feedback points awarded by a teacher, School Personnel, or a parent; messages sent between parents and teachers; messages sent between families (âFamily Chat â); messages sent between students and teachers (âPortfolio Commentsâ);
+Student Data
+; Activities (as defined below); student responses to Activities (âStudent Activity Responsesâ); Feedback (as defined below); content posted in the virtual world where Students can engage in various activities (e.g., explore, build, and play certain games) and interact with other children inside the classroom (âClass Islandsâ) or the use of this virtual world at home not in connection with school use (âHome Islandâ)(Class Island and Home Islands, collectively âDojo Islandsâ); voice recordings collected from your device (including in connection with automated speech recognition (ASR) features (such as âSparksâ); and Prompts (not provided by ClassDojo), Inputs, and Output (solely when modified by a User) (âUser Modified Outputâ) (each as defined in our
+AI Transparency Note
+)) (âUser AI Contentâ), which may be used by ClassDojo in connection with the Service and which may be visible to certain other Users (collectively âUser Contentâ). Please visit our
+Privacy Policy
+for additional information on the types of information different types of Users are able to provide. Additionally, some User Content may be deemed an Education Record (as defined below).
+School Personnel may contribute educational content, create answers to assessments, create activities for students to complete, create derivative works (e.g., completion of assignments) and transmit this data and content to ClassDojo (collectively âActivitiesâ).
+School Personnel and Users may submit feedback, comments or suggestions for improvements to the Services (in written, oral or any other form) (âFeedbackâ).
+Ownership
+Consistent with applicable law, as between ClassDojo and you, you (or your Educational Institution as applicable) retain all ownership rights you have in any User Content. ClassDojo does not claim any ownership rights in the User Content. Please note that, while you retain ownership of your User Content, any template or layout in which you arrange or organize such User Content through tools and features made available through any of our Services are not proprietary to youârights to such templates or layouts will remain with us or our service providers.
+License
+User Content
+In order to allow ClassDojo to provide the Service, you hereby grant to us a limited, non-exclusive, sublicensable (as necessary to perform the Service, including distributing Activities, and providing the Premium Features), worldwide, royalty-free, and transferable (only to a successor) right and license to:
+Use, host, copy, store, distribute, publicly perform and display, publish (in whole or in part), modify, and create derivative works (such as changes we make so that your content works better with our Service) such User Content as necessary to provide, improve (subject to applicable laws) and make the Service available to you and other Users including through any future media in which the Service may be distributed;
+Use and disclose metrics and analytics regarding the User Content in an aggregate or other non-personally identifiable manner (including, for use in improving our service or in marketing and business development purposes);
+Use, modify, prepare derivative works, publish, distribute and sublicense Feedback without any compensation to you;
+Use any User Content (including any Student Data or Education Record) that has been
+de-identified
+for any product development, research or other lawful purpose subject to the
+Student DPA
+; and
+Use for other purposes permitted by the
+Student DPA
+and the
+ClassDojo Privacy Policy
+.
+Company will only share and use your
+personal information
+in accordance with ClassDojoâs current Privacy Policy at
+http://www.classdojo.com/privacy
+.
+Activities and Student Data Free Output
+By default, if School Personnel contribute Activities or User Modified Output that does not contain any Education Records or Student Data (âStudent Data Free Outputâ) , such Activities or Student Data Free Output will be licensed royalty-free to ClassDojo under the Creative Commons Attribution 4.0 License (âCC Licenseâ), which is available at
+https://creativecommons.org/licenses/by/4.0/
+. Such Activities or Student Data Free Output shall be available to the School Personnel's Educational Institution and its Users. In addition, ClassDojo may also sub-license such Activities to other Users of the Services at other Educational Institutions. By accepting the Terms, You acknowledge and agree that Activities will be licensed under the CC License unless you "opt-out" of sharing to other Educational Institutions. Such Activities will continue to be licensed under the CC License until School Personnel âturns offâ such sharing for that particular Activities. However, you understand and agree that if you "turn-off" sharing for Activities (i) the Activities will be available to Users within the School Personnel's school only; (ii) the change is prospective and does not terminate any sub-licenses to the underlying Activities previously granted by ClassDojo to any third parties (such as teachers from other schools and districts), and (iii) ClassDojo thereafter shall not grant any additional sub-licenses for the underlying Activities to third parties such as other schools.
+License Termination
+The license in the License Section above will terminate when you or your Educational Institution delete (i) any User Content with intellectual property rights (like photos or videos) (âIP contentâ)), (ii) personally identifiable information (such as that in
+Student Data
+or an Education Record), or (iii) your account. Such termination may not apply if your User Content has been shared with others, and they have not deleted it. When you post User Content in
+Class Islands
+,
+Stories
+, or
+Portfolios
+this can be viewed by other teachers, students and parents and it means that you are allowing others to access and use that information and to associate it with you (i.e., your name and profile picture if you provide one as a teacher, student, or parent).
+Note, however, that any User Content that may be in an Education Record or
+Student Data
+(including User Content in or related to messages sent through
+ClassDojo Messaging
+, Stories or Portfolios, may be kept after you delete your account for school legal compliance reasons (e.g., maintenance of âeducation recordsâ under the Family Educational Rights and Privacy Act (FERPA) or Student Data under various state student privacy laws or similar laws in international jurisdictions). Please see the section entitled â
+Deleting your Account
+â in our Privacy Policy and our
+deletion FAQs
+for more information. When you delete IP Content,
+Student Data
+, Education Records, or personal information, it is deleted in a manner similar to emptying the recycle or trash bin on a computer. However, you understand that any removed User Content may persist in backup copies for a reasonable period of time (but will not be available to others).
+Your Responsibilities and ClassDojo Rights
+You (or your parent as applicable) agree that you are responsible for making sure that you have all rights in the User Content, including the rights necessary for you to grant us the foregoing licenses to the User Content. Additionally, you (or your parent as applicable) represent, covenant and agree that you have all required rights to submit, post, upload or otherwise own, use or disseminate the User Content that you submit or upload without violating any third-party rights or any other applicable laws.
+If the Services are used in an Educational Institution, the Educational Institution or School Personnel, as applicable, represents, covenants and agrees on behalf of yourself and your Student Users that the submitting User (including your Students) has all required rights to submit, post, upload or otherwise, own, use or disseminate the User Content he or she submits or uploads without violating any third-party rights.
+You are responsible for ensuring your User Content complies with the â
+Acceptable Use and Conduct
+â Section and for any other guidelines or conditions specific to a particular category of User (e.g., teacher, parent, or student). When you include User Content, you can create links to external websites. If you elect to create links to external websites, you must verify the quality and substance of each external link. You are solely responsible for any links you create to external websites. ClassDojo is not liable or responsible for any links created by you, or for any damages, direct or indirect, arising therefrom.
+All information posted or transmitted through the Service is the responsibility of the person that posted it, and we will not be liable for any errors or omissions in any content. ClassDojo cannot guarantee the identity of any other Users with whom you may interact in the course of using the Service, or the authenticity of any data which users may provide about themselves. You understand that when using the Services, you will see User Content from a variety of sources and understand that User Content could be inaccurate, offensive, or objectionable. You acknowledge that all content, including User Content, accessed by you using the Service is at your own risk and you will be solely responsible for any damage or loss to any party resulting therefrom. User agrees to waive, and does waive, any legal or equitable right or remedy that User has or may have against ClassDojo regarding User Content. If notified by a User or content owner that User Content allegedly violates the Agreement, ClassDojo may investigate and decide whether to remove the User Content (which ClassDojo can do at any time, without notice).
+You acknowledge that ClassDojo and its designees (such as teachers) reserve the right, but shall have no obligation (except as may be required by applicable law), to pre-screen, filter, edit, approve, remove, refuse to accept, post, display, or transmit any User Content through or on the Service in whole or in part at any time for any reason or no reason with or without notice and without liability of any kind. Additionally, we do not guarantee that we will publish any of your User Content and reserve the right to block or suspend the availability of any User Content, or to remove User Content from the Service at any time for any reason, and without obligation to any User, such as if we receive a notice reports a User Content infringes someoneâs intellectual property rights or otherwise violates this Agreement.
+Your Likeness
+ClassDojo does not permit User Content containing personal information of Users under the age of 13 to be available to the general public.
+If you as a parent, child or School Personnel, upload any User Content to any area of our Service in areas that may be viewed by others (for example, in
+Stories
+or
+Dojo Islands
+) containing your likeness or the likeness of others, you (or your parent) also agree to the following:
+You (or your parent) consent to the use of your likeness, and you have obtained (as necessary) the written consent, release, and/or permission of every identifiable individual who appears in your User Content to use such individual's likeness, for purposes of using and otherwise exploiting the User Content in the manner contemplated by this Agreement, or, if any such identifiable individual is under the age of eighteen (18), you have obtained any necessary written consent, release and/or permission from such individual's parent or guardian (and you agree to provide to us a copy of any such consents, releases and/or permissions upon our request). If you do submit a submission that contains the likeness of an identifiable individual under the age of eighteen (18), we strongly encourage you not to include any identifying information (such as the individual's first and last name or address) with such User Content.
+Analyzing User Submissions
+Our automated systems analyze your User Content (including emails) to provide you personally relevant product features, such as customized search results, and for spam and malware detection. This analysis occurs as the content is sent, received, and when it is stored. ClassDojo will not analyze any
+personal information
+contained in Educational Records or
+Student Data
+for the purpose of providing
+behaviorally-targeted advertising
+to students or parents.
+The foregoing shall not be construed to prohibit ClassDojo from using Educational Records or
+Student Data
+(i) for adaptive learning or customized student learning purposes (including generating personalized learning recommendations for all account holders (e.g., Users) or sending Program Communications (as defined below) to Users; (ii) to provide recommendations for employment, school, educational, or other learning purposes when such recommendation is not determined in whole or in part by payment or other consideration from a third party; (iii) to notify Student Users about Service updates or new features that are not Targeted Advertising; ; (iv) to notify non-Student account holders about new educational product updates, features, or services, including sending Program Communications; or (v) otherwise using Student Data as permitted in the
+Student DPA
+and its accompanying exhibits. âProgram Communicationsâ means in-app or emailed communications relating to Providerâs educational services, including prompts, messages and content relating to the use of the Service, for example; onboarding and orientation communications, prompts for students to complete, or teachers to assign exercises or provide feedback as part of the learning exercise, periodic activity reports, suggestions for additional learning activities in the Service, service updates (for example new features or content, including using for at home learning opportunities), and information about special or additional programs (e.g., ClassDojo Plus or Dojo Tutoring) offered through the Services or ClassDojo website or applications.
+Basically,
+You (or your school or parent as applicable) own any content you post on ClassDojo. You (or your school or parent as applicable) also give us permission to use it to provide and improve (as allowed by applicable law) the ClassDojo Service to you and other Users. Our use of any
+personal information
+you submit is also subject to our
+Privacy Policy
+. You (or your school or parent as applicable) are responsible for making sure that you have all the rights in any information or content you submit to ClassDojo, including to grant us the license we need to provide the service. We do not guarantee that we will publish any of your content or information and we (or our designees, such as School Personnel) reserve the right (but have no obligation) to pre-screen, filter, or remove it from the service at any time, for any reason.
+Testimonials
+If you provide endorsements or testimonials about ClassDojo or the Service (each, a âTestimonialâ), you hereby grant to ClassDojo a nonexclusive, sublicensable, fully-paid right to use the Testimonials, forever and throughout the world, including to use, copy, exhibit, publish, publicly display or perform, and distribute the Testimonial, in whole or in part, in print, television, radio, digital media (including internet, social media, websites, and apps), and in all other media now known or hereafter existing for advertising, marketing, publicity, and promotion of ClassDojo and the Service and all other commercial business purposes. ClassDojo may modify the Testimonial so long as the original content is not significantly altered or misrepresented. ClassDojo will be under no obligation to actually use any Testimonial and has the right to use the Testimonial either with or without your name. You hereby waive the right to inspect or approve any use by ClassDojo of a Testimonial. You also represent that each Testimonial is true and accurate and reflects your personal experiences and honest beliefs and is made of your own free will. You hereby hold harmless and release ClassDojo, its officers, directors, agents, and employees from all claims, demands, and liabilities of any kind arising out of or in connection with ClassDojo's use of the Testimonials, including without limitation, claims based upon invasion of privacy, defamation, or right of publicity.
+Privacy and Security
+Your privacy is extremely important to us. We take great care to limit what we collect and how we use it, and to enable you to understand our policies. Please read our
+Privacy Policy
+which explains how we treat your
+personal information
+and protect your privacy when you use our Service and for
+more information
+on the administrative, technical and physical safeguards we maintain to protect against unauthorized use, disclosure of or access to personal information. Please see our
+Privacy Policy
+for a description of the procedures 1) by which a child, parent or legal guardian of a child may review, access or delete the personal information of a child ; and 2) by which the Educational Institution may
+access and delete
+Education Records.
+In addition, please read the
+Student DPA
+, which is an agreement between us and your Educational Institution, and describes the duties and responsibilities to protect
+Student Data
+processed by ClassDojo. By using our Service, you agree that ClassDojo can use such data in accordance with our Privacy Policy. We wonât reduce your rights under the Privacy Policy without your explicit consent.
+Basically,
+In addition to these terms, please read our
+Privacy Policy
+and the
+Student DPA
+provided to your school, which outline our practices towards handling any personal information that you may provide us.
+Online Safety
+ClassDojo cares about the safety of its Users. These Terms of Service require Users to abide by various policies regarding behavior and content on all ClassDojo services. These include the âAcceptable Use and Conductâ section,
+DMCA Notification Guidelines
+,
+Community Guidelines for ClassDojo Chats
+and Content Submission Guidelines. We also have additional terms that apply to specific Users, which are outlined in the âAdditional Terms by User Typeâ section.
+If you or a Student you are responsible for are using the Service through or on the direction of an Educational Institution, then you should report any abuse or inappropriate content to the connected teacher or Educational Institution in the first instance.
+You can find more information on reporting inappropriate content
+here
+. If any user needs toÂ report any abuse**Â **or inappropriate content on the Services that has either not been addressed (i) by the connected teacher or Educational Institution if used in connection with an Educational Institution, or (ii) the parent if the Services are used not in connection with an Educational Institution, they may do so by reporting the user or content directly to ClassDojo
+here
+, from within the Services (e.g., Home Islands reporting), or by emailing atÂ
+safety@classdojo.com
+. Any report emailed to ClassDojo should be accompanied by an explanation of the reasons why content or behavior is deemed to be illegal or inappropriate and the exact URL at which the content can be accessed (where available). The name of the individual making the report must also be provided. For any intellectual property related reporting please see our â
+Copyright and Trademark Protection
+â section for how to report. We promptly review reports that are submitted to us, and will take appropriate action to remove or disable access to content that we deem is inappropriate, for example because it infringes our Terms of Service or our Guidelines.
+If we determine that you have breached these Terms of Service or our Guidelines , including by posting inappropriate or illegal content, we may remove any content that you have uploaded, posted or otherwise distributed using our Services, and suspend or permanently disable your access to our Services.
+ClassDojo takes measures to expeditiously detect and remove from the Service any material that is illegal or potentially harmful in nature. For example, we may use technologies to detect illegal or potentially harmful content and minimize the time such content is available on the Service.
+If ClassDojo removes or suspends a User (or removes any content posted by a User) after a report of abuse, or after any violation of the Agreement, including, without limitation, the
+Acceptable Use and Conduct
+section, the User may challenge any such decision by emailing at
+safety@classdojo.com.
+. Complaints about our Services can also be submitted to this address.
+ClassDojo has appointed EDSR as its legal representative for the purposes of receiving correspondence from regulatory authorities under the Digital Services Act (âDSAâ). Regulatory authorities can contact ClassDojo directly at
+safety@classdojo.com
+, or can contact EDSR, in English or French, regarding matters pertaining to the DSA:
+- by email at
+dsa@edsr.eu
+- by writing to EDSR at Avenue Huart Hamoir 71, 1030 Brussels, Belgium
+- by phone at +32 2 216 19 71
+Digital Services Coordinator:
+Belgian Institute for Postal Services and Telecommunications
+Contact for notifications under the DSA:
+dsa@bipt.be
+Basically,
+ClassDojo prioritizes user safety and requires everyone to follow policies on behavior and content, including Acceptable Use, Community Guidelines, and Content Submission rules. If you come across inappropriate or abusive content, first report it to the connected teacher or Educational Institution, or if unresolved, directly to ClassDojo through their reporting tools or via email at
+safety@classdojo.com
+. If your account or content is removed due to a violation, you can challenge the decision by reaching out to ClassDojo, and regulatory authorities can contact their legal representative, EDSR, for matters under the Digital Services Act.
+Additional Terms by User Type
+The following additional terms apply to specific Users:
+Students and Outside School Child Users
+If you are a student accessing the Service at the invitation of a teacher or other school official or your parent for
+educational purposes
+connected to a school or classroom (âStudentâ) or a child using the Service not connected to a school or classroom, including for learning activities at home, such as through Home Islands or certain Premium Features (âOutside School Child Userâ), the following terms apply to you. A â
+Student Account
+â means the account you as a Student are accessing to use the Service and an â
+Outside School Child Account
+â means the account you as an Outside School Child User are accessing to use the Service.
+(i)
+Invitation:
+Only Students or Outside School Child Users who have been invited, or given access to the Service, by their teacher, Educational Institution, or parent may use the Service. You may not access or use the Service unless you are invited or given access to the Service by (i) a teacher, or Educational Institution who is authorized to give you access to the Service (including creating your Student Account on your behalf to allow you to
+log in
+or giving you a
+unique student code
+to allow you to set up your own Student Account) or (ii) your parent who must create your Student Account or Outside School Child Account on the Service or allow you to use their ClassDojo App on their device.
+(ii)
+Account Creation:
+If you are under 13 years of age in the United States, or outside the United States and under the minimum age required to be able to consent to the creation of an online account and sharing of your personal information under the laws of the country where you live or access the Services (âChild Userâ), and you want a Student Account or Outside School Child Account on ClassDojo, you will need to either (1) have your Student Account created at school by your teacher (only after the teacher represents to ClassDojo that they have acted as the agent of the parent and
+consented
+on their behalf), (2) receive a unique student code from your teacher to create your own Student Account with a username (and/or email address) and password, or (3) have your parent create your Student Account or Outside School Child Account after we have obtained
+parental consent
+from them. Any Student Account (or access to a Student Account) created for the Student by the parent, or the Studentâs teacher in class, or the Student directly, are
+linked together
+(these are not different accounts, but rather the same singular account).
+(iii)
+Consent:
+Child Users are prohibited from using certain features of the Service without Consent, including, without limitation, Student Accounts and Outside School Child Accounts. By using a Student Account or Outside School Child Account on the Service, you promise that, if requested during your use of the Service, you provided your real age and that you are either (a) over the age of 13; or (b) if under 13 that your parent (or you with the unique student code given to you by your teacher) has set up your Student Account or Outside School Child Account and that any response sent to Company in response to Company seeking your parentâs consent comes from your parent or legal guardian; or (c) your School Personnel has set up your Student Account or is otherwise allowing you to use the Service and provided School Consent.
+(iv)
+Student User Content:
+Teachers will
+review
+any User Content you as a Student upload to the Service in your
+Portfolio
+prior to the User Content appearing in your
+Portfolio
+for parents to see, but other students in your class may see your User Content if they inadvertently log in as you with the code given in class. Once a post has been approved by the teacher, any subsequent comments or replies to that post by the student will be added without approval by the teacher and also become visible to the parent. If you are a Student, please do not provide any personal information about yourself to us, other than what we request from you when you use the Service or as directed by your parent, teacher, school, or district, such as through the use of the Portfolios feature or use of Premium Features or
+Class Islands
+while in school.
+(v)
+Outside School Child User User Content:
+If you are using the Services as an Outside School Child User, any User Content that you as an Outside School Child User upload to the Service can be viewed by your connected parents or legal guardians (or others your parents choose to connect to your Outside School Child Account), but will not be viewable by your teacher in your Student Account. Please see ourÂ
+FAQ
+Â for more details.
+(vi)
+Dojo Islands:
+If you are playing in
+Home Islands
+as an Outside School Child User, you may interact and engage directly with other Users, (including your classmates). Additionally, your teacher may turn off the ability for you to use Class Islands while in your classroom with your Student Account. Please be kind when interacting with others and make sure to follow the â
+Acceptable Use and Conduct
+â guidelines. If you are engaging in activities in Dojo Islands, you may also earn ClassDojo Virtual Currency that you may use to unlock items in Dojo Islands at the
+ClassDojo Shop
+. Your use of the ClassDojo Virtual Currency and ClassDojo Shop is also subject to our
+Virtual World Terms
+.
+Basically,
+If you want to create a Student Account, your Student Account must be set up by a teacher or parent or you must be given a
+unique student code
+by your teacher to set up your own Student Account. If youâre under 13, your parent must first give their permission or your school must have obtained your parentâs consent or acted as their agent and
+consented
+on their behalf. If you want to create an Outside School Child Account, your Outside School Child Account must be set up by your parent. If you are playing in
+Dojo Islands
+please be kind when interacting with others and make sure to follow the â
+Acceptable Use and Conduct
+â guidelines.
+School Personnel
+If you are a School Personnel accessing the Service on behalf of an Educational Institution, the following terms apply to you:
+(i)
+Permissions and Authority:
+You agree that you are acting on behalf of (or have received all necessary permission from) your Educational Institution to enter into this Agreement and to register and use the Service as part of your curriculum. Only School Personnel who are current employees of the Educational Institution may use the Service on the Educational Institution's behalf. The School Personnel is responsible for obtaining any necessary approvals from their school's authorities and administrators before using the Service. Upon termination of a School Personnel or other staff member's employment with the Educational Institution, such individual must return and cease using all login details and Student access he or she has in his or her possession. If at any time you learn a User of the Service claims to be affiliated with your Educational Institution who is not, in fact, affiliated with your Educational Institution, you will notify ClassDojo immediately at
+privacy@classdojo.com
+.
+(ii)
+Students under 13:
+You further understand and acknowledge that COPPA prohibits online service providers from knowingly collecting
+personal information
+from children under 13 years of age without Consent and you understand that we will not let children under the age of 13 use certain features of the Service unless:
+ClassDojo obtains
+Consent
+from the childâs parent or legal guardian if 1) the parent is creating a Student Account for the Student on ClassDojo or allowing the Student to access and use the Services on the parent device; or 2) the Student has created their own Student Account using the unique student code given to them by their teacher; or
+You provide
+School Consent
+in situations where you set up the childâs Student account on their behalf to enable them to
+log in
+or otherwise access certain features of the Service in the classroom (or at home for school purposes) which may result in the collection of personal information from the child. ClassDojo will not provide use of Student Accounts or access to the Service to children under the age of 13 if we are unable to obtain Consent or learn that you have not provided School Consent. You agree that you will not knowingly create a childâs Student Account on their behalf or allow the child to use the Service in the classroom until you have provided
+School Consent
+.
+Please note that for users based outside of the United States, we do not rely on consent as our legal basis for processing personal data under applicable privacy laws. Please refer to the
+ClassDojo Privacy Policy
+for more information.
+(iii)
+School Consent
+. You acknowledge and agree that ClassDojo has provided to you (a) the direct notice required under 16 C.F.R. Part 312.4 of COPPA as set forth
+here
+(âDirect Noticeâ) and (b) a link to ClassDojoâs notice of privacy practices that includes a description of all personal information that is collected and how it will be used and disclosed as set forth
+here
+. Additionally, you acknowledge and agree that you have read the Direct Notice and privacy practices. You, on behalf of the Educational Institution, (i) authorize ClassDojo to collect and use the
+personal information
+of Students in the Service for
+educational purposes; and (ii) acknowledge and agree that you have the authority to authorize the collection described in (i) and to act as the agent of the parent.
+Additionally,
+you acknowledge and agree that when this
+School Consent
+described above is utilized to allow children under 13 to use the Service, you will be responsible (and hereby agree that ClassDojo is not responsible) for 1) providing all required notices and disclosures to parents under COPPA in a format you deem appropriate, including the Direct Notice (of which ClassDojo will provide relevant information to you and/or the Educational Institutions or other School Personnel); 2)
+acting as the agent of the parent
+and consenting on their behalf) under COPPA; and 3) providing a means for a parent to review any
+personal information
+contained in Student Data or Education Records collected through the Service and refuse to permit its further use as required by COPPA. For clarity, it is ClassDojoâs obligation to comply with COPPA as a whole. To do this, we rely on Educational Institutions to provide consent under COPPA by acting as the agent of the parent, but only after providing the Educational Institution with the required information and notices as set forth
+here
+.
+This includes without limitation, limiting access to the Service only to those Student Users from whom School Personnel has Consented for and complying with all parental requests regarding the collection, use and disclosure of such parentâs childâs personal information. If a Parent User rescinds such School Consent, School Personnel or the Educational Institution shall immediately notify ClassDojo to discontinue that Studentâs access to the Service and ensure that such Studentâs information is no longer accessible through the Services. For more information on School Consent please see our
+FAQ
+. Under no circumstances will ClassDojo be liable for the School Personnelâs failure to consult their school's authorities and administrators or for failing to provide School Consent when required.
+(iv)
+Parent Code
+. Each Student the teacher inputs on ClassDojo is assigned a
+unique parent code
+by ClassDojo. This unique parent code is used by parents to connect with their childâs updates from school on ClassDojo. Parents may register for an account on ClassDojo without the unique parent code, including to utilize the
+Premium Features
+or to create an
+Outside School Child Account
+, but will be unable to connect with their childâs school to see their childâs or the schoolâs updates without a code or explicitly getting approved by a verified teacher to connect with a specific child (see
+here
+). Parents with a ClassDojo account may give Consent for their child to have a Student Account or Outside School Child Account on ClassDojo. It is your responsibility to ensure that each student only shares his/her unique parent code with his/her parents. It is solely the School Personnelâs decision on how to communicate the parent code to the parent, including by sending home a private letter to the student's parent or otherwise contacting the parent directly. Alternatively, if the School Personnel has access to the student's parent contact information and has permission to do so, the School Personnel may provide ClassDojo with a list of parent email addresses or phone numbers for ClassDojo to send the parent code at the direction of and on behalf of the School Personnel (via email or SMS) to enable the parent to then create a parent account. For security reasons, Parent Codes expire and new ones can be generated by a teacher.
+(v)
+Verifying Parents.
+School Personnel that are teachers may be asked to
+verify
+Parent Users as they sign-up for ClassDojo and ask to be connected to your class. You acknowledge and agree that ClassDojo may use this verification provided by
+verified
+School Personnel to assist with verifying the identity of the Parent User for
+Consent
+purposes.
+(vi)
+Student Portfolios and Stories
+. If you choose to use the
+Portfolios
+or
+Stories
+feature in your classroom or enable students to contribute to
+Stories
+, the following conditions and limitations apply:
+You may
+elect
+to allow Students to directly contribute User Content, including Student Activity Responses, to their Portfolios or Stories after you have set up their Student Account on their behalf and only after you have provided School Consent. It is your responsibility to decide whether to set up the Student Account on the Studentâs behalf and to grant permission to such Student to submit User Content. ClassDojo is not responsible for the selection of Students given access to the Portfolios or Stories feature in your classroom (or used at home in connection with school (such as remote learning).
+If you utilize the class
+QR code
+or text code for your Students to access the Service, it is your responsibility to ensure that only the applicable Students can access the class
+QR code
+or text code and that students are only signing in and choosing their own Student Account.
+If you provide or allow Students to provide Portfolio Comments, you agree that ClassDojo may provide parents with a notice that you are engaging in the use of such Portfolio Comments, including to communicate with their child prior to any posting of such Portfolio Comments to the childâs Portfolio. Additionally, you acknowledge and agree that once a Student Activity Response is reviewed and accepted by you to be posted on the Studentâs portfolio, that all associated Portfolio Comments can be viewed by the childâs connected parents.
+If you provide, use, or link to any any Third-Party Application Created Content, Third-Party Content or Third Party Websites (all as defined below) in a Studentâs Portfolio, on on a Class or School Story, you acknowledge and agree (i) to comply with Sections 14 â
+Third-Party Applications and Integrations
+â and 15 â
+Third Party Content and Websites
+â; and (2) that ClassDojo is not responsible for your choice to include any such Third-Party Application Created Content, Third-Party Content or Third-Party Websites. You also represent and warrant in connection with your use of any Third-Party Applications, Third-Party Websites, or Third-Party Content, that you will only use such Third-Party Application Created Content, Third-Party Content or Third-Party Websites that have been approved by your Educational Institution.
+(vii)
+Feedback Points.
+You may customize any feedback points awarded to your students in your classroom (âClassroom Feedback Pointsâ) and agree that you are solely responsible for any such customization of Classroom Feedback Points. Additionally, you agree that you are solely responsible for (a) deciding how and when to award such Classroom Feedback Points to your students, (b) any notes that you may leave in connection with such Classroom Feedback Points, and (c) the decision on whether or not you share a studentâs individual Classroom Feedback Points with their parent or guardian. The same terms apply for Schoolwide points given by Admins, Teachers and School Leaders.
+(viii)
+Responsible for Your User Content and Student User Content.
+You are solely responsible for reviewing all Student User Content, including, but not limited to, any User Content in Class Islands, Activities, Student Activity Responses and Portfolio Comments, prior to these being posted on the Studentâs Portfolio or in Stories or elsewhere on the Service and are also solely responsible for all submitted Student User Content (including any
+personal information
+contained therein if not removed by you) on the Service and for ensuring that such submissions meet all applicable conditions and restrictions set forth in this Agreement, including, but not limited to, those in â
+Your Information and Content
+â and the â
+Acceptable Use and Conduct
+â Sections.
+(ix)
+Class Islands.
+If you choose to use the
+Class Islands
+feature in your classroom, the following conditions and limitations apply:
+Using the
+Class Islands
+feature, you
+may choose
+to allow Students to engage in the experiences and activities of Class Islands while in school (or in connection with school at home, such as remote learning) and will be providing School Consent for this use. Please note that you will need to disable Class Islands for your classroom if you choose not to allow Students to use Class Islands. You agree and acknowledge that Students may also earn
+ClassDojo Virtual Currency
+while participating in Class Islands with their Student Account and may use this ClassDojo Virtual Currency at the
+ClassDojo Shop
+. It is your responsibility to decide whether to grant permission to Students to use Class Islands. ClassDojo is not responsible for the selection of Students given access to the Class Islands feature in your classroom or used at home in connection with school (such as remote learning).
+The Virtual World Terms will also apply to this use, and you agree to these terms and conditions, including on behalf of your Students.
+You are solely responsible for reviewing all activity on Class Islands by your Student Users and ensuring that all activity that takes place on Class Islands and any content posted (including any
+personal information
+contained therein if not removed by you) meet all applicable conditions and restrictions set forth in this Agreement, including, but not limited to, those in â
+Your Information and Content
+â and the â
+Acceptable Use and Conduct
+â Sections.
+(xi)
+Google Login.
+If you choose to instruct your students to log in on the Service using their Google for Education or other Google Accounts (âGoogle Login(s)â), you are responsible for educating your students on the proper use of their Google Login, including to help educate your students on better protecting their Google Login by turning on
+two-factor authentication
+. Note that ClassDojo does not request or store passwords associated with any Google Logins. Please see
+here
+for more information on what we collect through the use of Google Login and how we use that information. Additionally, please see the section â
+Social Media and Third-Party Authentication Services
+â for more detail on the use of Google Login.
+(xii)
+Stories and Other Communications with Parents.
+If you choose to use Stories, ClassDojo Messaging, or other digital communications features with parents or guardians (âParent Communicationsâ) the following terms apply:
+You should use Parent Communications for educational subject matter only and must comply at all times with the
+Parent Communication Guidelines
+.
+You are solely responsible for reviewing all Parent Communications you distribute and ensuring that all Parent Communications (including any
+personal information
+contained therein if not removed by you) meet all applicable conditions and restrictions set forth in this Agreement, including, but not limited to, those in â
+Your Information and Content
+â and the â
+Acceptable Use and Conduct
+â Sections.
+(xiii)
+Activities.
+If you choose to submit Activities to the Service, the following conditions and limitations apply:
+During the Activities submission process, you may opt-out to sharing with individual third-parties. In doing so, you acknowledge that we may sublicense our rights to the Activities to these third parties as set forth in the Section entitled â
+Your Information and Content
+â. In addition, you may choose to opt-out with regard to a previously submitted Activities at any time. However, you understand and agree that opting-out with regard to a previously submitted Activities does not terminate any sub-licenses to the affected Activities previously granted by ClassDojo to any third parties, but ClassDojo thereafter shall not grant any additional sub-licenses for the affected Activities.
+ClassDojo enables its School Personnel to leave publicly-viewable feedback on Activities ("Activities Feedback"). Unless you turn off this feature in your account, you may receive Activities Feedback from other School Personnel which will be shown publicly on the Service.
+You understand that if you ever need to remove Activities you can do so within the Activities area of your account.
+You are solely responsible for the content of all Activities and Activities Feedback you leave for other School Personnel, including any personal information contained therein and for ensuring that material meets all applicable conditions and restrictions set forth in this Agreement, including, but not limited to, those in the âYour Information and Contentâ and âAcceptable Use and Conductâ Sections. You further acknowledge that Activities and Activities Feedback is subject to any other disclaimers and rights of ClassDojo with respect to the Activities and Activities Feedback contained in this Agreement.
+(xiv)
+Linked Accounts.
+School Personnel and Educational Institutions agree that Student Accounts may be linked with Outside School Child Accounts as further set forth in the â
+Linked Accounts
+â Section.
+Basically,
+Please be sure your school or district is fine with you using ClassDojo, and acting on behalf of your Educational Institution in this Agreement. Additionally, if you are creating Student Accounts in the classroom for Students under 13 to enable them to log in to their accounts, or otherwise allowing Students under 13 to use the Service, you will be responsible for obtaining
+School Consent
+under COPPA. You are also responsible for reviewing any User Content submitted by your Students (regardless of age) and for ensuring it complies with our
+Content Submission Guidelines
+, as well ensuring it the User Content meets the terms and conditions set forth in the â
+Acceptable Use and Conduct
+â and â
+Your Information and Content
+â Sections. This includes activity on Class Islands. Additionally, if you allow your Students to log in to the Service through the use of a QR or text code, you are responsible for ensuring that Student only logs in to his or her own account. If you use any Parent Communications tools, you must only use them for educational subject matter and must abide by our
+Parent Communication Guidelines
+.
+Parents and Guardians
+If you are at least 18 years of age and you are the legal parent or guardian of a Student or Outside School Child User (âParent Userâ) you can create a Parent User account on the Service (âParent Account  â). Additionally, as a Parent User, you can link your Parent Account to your childâs Student Account through the
+unique parent code
+provided by your childâs Educational Institution. With a Parent Account, you may then (i) create either a Student Account or Outside School Child Account for your child on the Service, (ii) allow your child to create their own account (âStudent Created Accountedâ), (iii) allow your child to access or use the Service, including on your device, without setting up a separate Outside School Child Account or Student Account. The following terms apply to you as a Parent User:
+(i)
+Creating Your Childâs Student Account or Outside School Child Account:
+If you would like to create your childâs Student Account or Outside School Child Account at home, you must first have created a Parent Account on ClassDojo. IF YOU REGISTER OR CREATE AN ACCOUNT FOR, APPROVE OR
+CONSENT
+TO THE REGISTRATION OF, OR OTHERWISE ASSUME RESPONSIBILITY FOR ANY CHILD USER, YOU REPRESENT AND WARRANT THAT YOU ARE SUCH CHILD USERâS LEGAL PARENT OR GUARDIAN AND YOU AGREE TO BE BOUND BY THIS AGREEMENT ON BEHALF OF SUCH CHILD USER, INCLUDING WITHOUT LIMITATION BEING LIABLE FOR ALL USE OF THE SERVICES BY THE CHILD USER.
+To create your childâs Student Account or Outside School Child Account, we will first require your
+Consent
+. In order to comply with COPPA and similar laws in other applicable jurisdictions, which govern the online collection of data from children, ClassDojo may take additional steps to verify that the user granting permission for the creation of a childâs Student Account or Outside School Child Account is his or her parent or legal guardian. You acknowledge that ClassDojo may choose to make inquiries, either directly or through third parties, that ClassDojo deems necessary to validate your registration information, including, without limitation, engaging third parties to provide verification services. The current ways in which we seek to verify are set forth in our
+FAQ
+. ClassDojo reserves all rights to take legal actions against anyone who misrepresents personal information or is otherwise untruthful about their identity. NOTWITHSTANDING THE FOREGOING, YOU ACKNOWLEDGE THAT CLASSDOJO CANNOT GUARANTEE THE ACCURACY OF ANY INFORMATION SUBMITTED BY ANY USER AND CLASSDOJO IS NOT OBLIGATED TO VERIFY THE IDENTITY OF ANY USER, INCLUDING ANY USERâS CLAIM TO BE A PARENT USER, OR TO VERIFY THAT A PARENT IDENTIFIED BY A CHILD USER OR OTHER PARTY DURING REGISTRATION IS SUCH CHILD USERâS ACTUAL PARENT OR GUARDIAN.
+Any Student Account created by you, your childâs teacher, or your child directly are linked together (these are not different accounts, but rather the same singular account). Additionally, any Outside School Child Account will also be linked with the Student Account (if both exist), but only certain content will be viewable by the childâs teacher. Please see ourÂ
+FAQ
+Â for more details, including on what information will be shared between the two accounts (with your Consent).
+(ii)
+Your Consent:
+If your child is under the age of 13,
+Consent
+must be given in order for 1) you to create the Student Account or Outside School Child Account; 2) your child to create a Student Created Account; or 3) your childâs School Personnel to create a Student Account on behalf of your child, enabling them to
+log in
+. In the UK and the European Union, we may rely on other lawful bases to process your childâs data, but nonetheless seek parental consent under COPPA to provide additional transparency for parents.
+This Consent may be obtained either by: 1) ClassDojo if (a) you are setting up your childâs Student Account or Outside School Child Account or (b) your child is setting up the Student Created Account (if not created in connection with the unique code received from their teacher) or you are allowing your child to access or use the Service without setting up an account, including on your device or account; or 2) a Studentâs School Personnel (through
+School Consent
+) if they are setting up your childâs Student Account, enabling them to
+log in
+, or otherwise allowing them to access and use the Service in school.
+In addition to providing Consent when creating your childâs Outside School Child Account or Student Account, there may be instances where we will also ask you to provide additional Consent as set forth
+here. For example,
+a heightened level of verifying you are the parent in order to provide Consent may be required when some of the features that your child may use in
+Premium Features
+or Home Islands require a heightened level of parental verification under COPPA. This may mean that we canât rely on the lower level of âverificationâ that you are the childâs parent when we initially obtained your Consent if it was obtained through the âemail plusâ method at the time you created your childâs account.
+If you are the parent or legal guardian of a child who is using the Service and your childâs Student Account was not set up by your childâs School Personnel, or you did not give Consent while setting up your childâs Student Account or Outside School Child Account, you can email us at
+privacy@classdojo.com
+to have that childâs Student Account or Outside School Child Account deleted. Please note that if you, as a parent, provide an email to School Personnel when the school is obtaining School Consent, we may send an email asking you to verify your childâs account, but you will not receive any other emails unless you have opted in to email marketing or have separately created an account on our Service.
+In addition to the Consent provided under COPPA, we also will seek to obtain your consent to the sharing and use of certain
+Student Data
+or
+educational records
+from your childâs Student account to their Outside School Child Account as set forth in our
+Childrenâs Privacy Policy
+and as set forth below in the section â
+Consent to Sharing Student Data for Dojo Islandsâ
+.
+(iii)
+Responsible for Your Childâs User Content:
+Once your child has a Student Account or Outside School Child Account, they will be able to upload User Content, including Student Activity Responses, to the Student Account and
+Portfolios
+(which is not viewable by the general public, but by linked parents, legal guardians and School Personnel) as well as in their Outside School Child Account, including in
+Dojo Islands
+. You are solely responsible for reviewing and ensuring that such User Content submissions (when not submitted during or in connection with school use) meet all applicable conditions and restrictions set forth in this Agreement, including, but not limited to, those in â
+Your Information and Content
+â and the â
+Acceptable Use and Conduct
+â Sections and are solely responsible for any
+personal information
+contained therein (if not removed by you). You can request to remove any User Content uploaded by your child either by 1) contacting your childâs School Personnel if the User Content was uploaded during school, and we will respond to valid requests received from the School Personnel or Institution, or 2) contacting us directly at
+privacy@classdojo.com
+when the User Content is collected directly from your child through their Outside School Child Account.
+(iv)
+Premium Features:
+If you are accessing or using the Premium Features, or allowing your child to access and use them, you will also be subject to the
+Premium Features Terms
+. Additionally, if you are allowing your child to access and use Premium Features on your device or account, we will first require your
+Consent
+. We may also seek your
+Consent
+for the use of certain Premium Features if
+School Consent
+was previously used. Additionally, if you or your child is utilizing a feature where
+Student Data
+or education records under
+FERPA
+will be used and shared between in school and out of school use (use not in connection with a school), you are consenting to this use and sharing. See our
+FAQ
+for more information.Â
+(v)
+Home Islands:
+If you choose to allow your child to use the
+Home Islands
+feature with their Outside School Child Account, the following conditions and limitations apply:
+Using the
+Home Islands
+feature, you may elect to allow your child to engage in the experiences and activities of Home Islands through their Outside School Child Account after providing
+Consent
+for this use. You agree and acknowledge that your child may also earn ClassDojo Virtual Currency while participating in Home Islands with their Outside School Child Account and may use this ClassDojo Virtual Currency at the
+ClassDojo Shop
+. It is your responsibility to decide whether to grant permission for your child to use Home Islands. ClassDojo is not responsible for your selection of which children you give access to the Home Islands feature with their Outside School Child Account. If you have given your Consent and your child visits the Home Islands, you agree that some of their information may be seen by other children also playing in Home Islands (including their classmates and schoolmates), but not the general public. Please see
+here
+for more details on what other children may see about your child while in Home Islands and how children can interact with each other.Â
+If your child is using
+Home Islands
+, or you or your child are using some of our
+Premium Features
+, some of your childâs data, including what may be considered
+Student Data
+or education records under FERPA, will be used and shared between in school (Class Island) and out of school use (Home Island) and you are consenting to this use and sharing. See our
+FAQ
+for more information.Â
+The
+Virtual World Terms
+will also apply to this use and you agree to these terms and conditions.
+You are solely responsible for reviewing all activity on Home Islands by your child and ensuring that all activity that takes place on Home Islands and any content posted (including any
+personal information
+contained therein if not removed by you) meet all applicable conditions and restrictions set forth in this Agreement, including, but not limited to, those in â
+Your Information and Content
+â and the â
+Acceptable Use and Conduct
+â Sections.
+(vi)
+Family Chat and Family Communities.
+If you choose to use Family Chat or participate in parent and family groups (âFamily Communitiesâ), or other digital communications features with other parents or guardians (collectively the âFamily Communicationsâ) the following terms apply:
+You must comply at all times with the
+Community Guidelines
+You are solely responsible for reviewing all Family Communications you distribute and ensuring that all Family Communications (including any
+personal information
+contained therein if not removed by you) meet all applicable conditions and restrictions set forth in this Agreement, including, but not limited to, those in â
+Your Information and Content
+â and the â
+Acceptable Use and Conduct
+â Sections.
+(vii)
+Dojo
+Sparks:
+If you choose to allow your child to use the Dojo Sparks feature with their Outside School Child Account, the following conditions and limitations apply:
+Using the Dojo Sparks feature, you may elect to allow your child to engage in the experiences and activities of Dojo Sparks through their Outside School Child Account after providing
+Consent
+for this use. You agree and acknowledge that your child may use our âlearn to readâ features using speech recognition and agree that ClassDojo may collect and process your childâs voice recording from your childâs device microphone (e.g., through an iPad or Chromebook) in order to provide our automated speech recognition (âASRâ) services. You additionally agree that we may then send this audio recording and de-identified identifiers to a third-party
+service provider
+for ASR processing; the
+service providers
+will then provide back the ASR analysis and related metadata. This data (voice recording and ASR analysis) will be retained only transiently for processing by our third-party
+service provider
+, and then deleted. ClassDojo will separately retain the voice recordings for a limited time period as well as the ASR analysis performed by the
+service providers
+as set forth in our Childrenâs Privacy Policy. We further limit the use of the ASR data by the third party
+service provider
+to provide the ASR service to ClassDojo for your child and would not allow this service provider to use this ASR data to improve their product or train ASR models.
+It is your responsibility to decide whether to grant permission for your child to use Dojo Sparks. ClassDojo is not responsible for your selection of which children you give access to the Dojo Sparks feature with their Outside School Child Account.
+If your child is using Dojo Sparks, some of your childâs data, including what may be considered
+Student Data
+or education records under FERPA, may be used and shared between in school and out of school use and you are consenting to this use and sharing. See our
+FAQ
+for more information.Â
+You are solely responsible for reviewing all activity and use that occurs through the use of Dojo Sparks by your child and ensuring that all activity that takes place on Dojo Sparks and any voice recordings posted (including any
+personal information
+contained therein) meet all applicable conditions and restrictions set forth in this Agreement, including, but not limited to, those in â
+Your Information and Content
+â and the â
+Acceptable Use and Conduct
+â Sections.
+Basically,
+Parents: Weâll need your
+consent
+to set up your childâs Student Account or Outside School Child Account if they are under 13 or you allow them to access Premium Features or Home Islands on your device. The current ways in which we seek to verify are set forth in our Consent
+FAQ
+. In addition to providing Consent when creating your childâs Outside School Child Account or Student Account, there may be instances where we will also ask you to provide additional Consent as set forth
+here
+.
+If your childâs teacher or other School Personnel wants to create your childâs Student account on their behalf, they will act as your agent and consent on your behalf in what is commonly referred to as â
+School Consen
+tâ. You are solely responsible for reviewing and ensuring that your childâs User Content submissions (when not submitted during or in connection with school use) meet all applicable conditions and restrictions set forth in this Agreement, including, but not limited to, those in â
+Your Information and Content
+â and the â
+Acceptable Use and Conduct
+â Sections and are solely responsible for any
+personal information
+contained therein (if not removed by you). If you are accessing or using the Premium Features , or allowing your child to access and use Premium Features or Home Islands, you will also be subject to the
+Premium Features Terms
+and the
+Virtual World Terms
+(as applicable). Additionally, we may also seek your
+Consent
+for the use of certain Premium Features or Home Islands if
+School Consent
+was previously used and if you or your child is utilizing a feature where
+Student Data
+or education records under
+FERPA
+will be used and shared between in school and out of school use (use not in connection with a school). See our
+FAQ
+for more information.
+Â
+FERPA
+ClassDojo understands that it is important that our partner Educational Institutions comply with the
+Family Education Rights and Privacy Act
+(FERPA) and related regulations. Certain information that may be provided to ClassDojo by School Personnel that is directly related to a student and maintained by an Educational Institution, may be considered an
+education record
+under FERPA (âEducation Recordâ). Additionally, certain information, provided to Company by School Personnel about a student, such as student name and grade level, may be considered
+directory information
+under FERPA (âDirectory Informationâ) and thus not an Education Record. Please see our
+Student DPA
+for more information regarding FERPA, ClassDojoâs commitments to help Educational Institutions comply with FERPA, and an Education Institutionâs obligations with respect to FERPA.
+Educational Institutions may not generally disclose
+personal information
+from an eligible Studentâs Education Record to a third-party without written consent of the parent and/or eligible Student or without meeting one of the exemptions set forth in FERPA (âFERPA Exemption(s)â), including the exemption for Directory Information (âDirectory Information Exemptionâ) or School Official (as that term is defined in FERPA) exemption (âSchool Official Exemptionâ). For the purposes of FERPA, to the extent personal information from Education Records are transmitted to ClassDojo from an Educational Institution or from Students using accounts at the direction of the Educational Institution, ClassDojo shall be considered a School Official with a legitimate educational interest, and performing services otherwise provided by the Educational Institution.
+If the Educational Institution has a policy of disclosing Education Records under FERPA, the Educational Institution shall include a specification of criteria for determining who constitutes a School Official and what constitutes a legitimate educational interest in its annual notification of FERPA rights (âAnnual Notification of Rightsâ). Additionally, the Educational Institution represents, warrants and covenants to ClassDojo, as applicable, that the Educational Institution has:
+Complied with the School Official Exemption, including, without limitation, informing parents in their Annual Notification of Rights that the Educational Institution defines âSchool Officialâ to include service providers such as ClassDojo and defines âlegitimate educational interestâ to include services such as the type provided by ClassDojo; and/or
+Complied with the Directory Information Exemption (if relying on such exemption), including, without limitation, informing parents and eligible students what information the Educational Institution deems to be Directory Information and may be disclosed and allowing parents and eligible students a reasonable amount of time to request that schools not disclose Directory Information about them; and/or
+Obtained all necessary parental or eligible student written consent to share the Student Data with ClassDojo, in each case, solely to enable ClassDojoâs operation of the Service.
+If the Educational Institution is relying on the Directory Information exemption, the Educational Institution represents, warrants, and covenants to ClassDojo that it shall not provide information to ClassDojo from any student or parent/legal guardian that has opted out of the disclosure of Directory Information. ClassDojo depends on the Educational Institution to ensure that the Institution is complying with the FERPA provisions regarding the disclosure of any Education Records or Student Data that will be shared with ClassDojo. ClassDojo is not in a position to provide legal advice regarding whether the Educational Institution's existing FERPA disclosures are sufficient. To the extent that School Personnel or the Educational Institutions have questions regarding these issues, they should consult the Educational Institution's own legal counsel for more information.
+Basically,
+FERPA gives parents and Students certain rights over their
+education records
+. FERPA requires schools to not share
+PII
+in education records without either meeting an exemption or obtaining parental permission. So, if a teacher provides Student Data to ClassDojo, the school must either meet an exemption or obtain the appropriate permission in advance. Please see our
+Student DPA
+for more information regarding FERPA, ClassDojoâs commitments to help Educational Institutions comply with FERPA, and Educational Institutionâs obligations with respect to FERPA.
+Linked Accounts
+Parent Users and other authorized family users (â
+Family Usersâ
+) may have personal or non-school accounts (i.e., for use of ClassDojo at home not related to school) in addition to school related accounts (â
+Family Outside School Account(s)
+â). Family Outside School Accounts and Outside School Child Accounts are collectively referred to as the â
+Outside School Accountsâ
+. ClassDojo permits Students to associate an
+Outside School Child Account
+with their
+Student Account
+, by using the same login credentials associated with an Outside School Child Account to join a class or use the account for school-directed learning. Additionally, non-Student Users (e.g., Parent User or other Family User) are permitted to associate their Family Outside School Accounts with their school accounts (â
+School Accounts
+â). Similarly, a User may choose to associate their Student Account with their Outside School Child Account in the same manner. If a User chooses to associate an Outside School Account with either their Student Account or School Account (as applicable), the two accounts will be deemed "Linked Accountsâ. The Linked Accounts will use the same login to access both accounts, but the product data for in-school and out of school use is stored separately and only certain content will be viewable by School Personnel. Note however, that the login data (the username and password) is stored in one place and shared between both the Outside School Child Account and the Student Account. Please see ourÂ
+FAQ
+Â for more details, including on what information is shared and linked between the two accounts with the consent of the parent and with authorization from an Educational Institution (per our
+Student DPA
+and this Agreement) (âLinked Dataâ). Parents and Students can also choose to reuse an existing Student Account for home or create a new Outside School Child Account for home activity not associated with a school or classroom.
+Student Data
+shall not include information that a Student User, Parent User or other approved Family User provides to ClassDojo through such Outside School Accounts independent of that Studentâs, Parentâs or approved Family Userâs engagement of the Services at the direction of the Educational Institution. Additionally, any information a Parent or approved Family User provides to ClassDojo through such Outside School Account shall not be considered school data or information and shall not be owned or controlled by the Educational Institution. Additionally, a parent may provide consent for the use of certain categories of Student Data in a non-school context through the use of the Outside School Child Account (e.g., certain limited data sharing in
+Dojo Islands)
+. Please see our
+FAQ
+for more information.
+Prior to the termination of Student Accounts (or this Agreement) at the direction of School Personnel or Educational Institution, ClassDojo may, at the request of School Personnel or the Educational Institution, or the Student or the Studentâs parent or legal guardian, transfer Student Generated Content (as that term is defined in the
+Student DPA
+and/or various Privacy Laws) to the Outside School Child Account instead of deleting such content to enable ongoing ownership by Student Users or Parent Users. Transfer in this case may mean retaining the Student Generated Content within the previously created and Linked Account (e.g., the Outside School Child Account) upon any request to delete the Student Account by the Institution. In addition, any Linked Data may also be retained.
+Text, SMS, and Other Messaging
+We offer two SMS programs: one that delivers important announcements at the direction of the School or School District and one that sends announcements and promotional offers on behalf of ClassDojo.
+At the Direction of the School of School District
+ClassDojo, on behalf of and at the direction of an Educational Institution, may send Parent Users or authorized Family Users informational text messages or invites from your child's Institution, including, but not limited to, messages: (1) providing information related to a Parent User, Family User, or their childâs use of the Services; (2) supplying information that they request; or (3) responding to their inquiries regarding their account or use of ClassDojo. If you, as a Parent User, or Family User, provide your telephone number to your childâs school, you are consenting to ClassDojo (on behalf of and at the direction of your childâs school) sending informational text messages closely related to the Institutionâs mission.
+Other Uses
+Additionally, if as a User, you have created an account on the Service, and have provided ClassDojo directly with your phone number or email, you further agree that we may send you messages, invites, alerts, messages related to COPPA
+parental consen
+t, and other communications through the Service, including via email, web alert, text messages, push notifications and other similar means, in accordance with the preferences you set through the Service. Additionally, ClassDojo may send School Personnel and Parent Users marketing messages not on behalf of the Educational Institution.
+WE ARE REQUIRED TO INFORM YOU THAT THESE CALLS AND/OR TEXT MESSAGES MAY BE CONSIDERED MARKETING UNDER APPLICABLE LAW, THEY MAY BE MADE USING AN AUTODIALER, AND YOUR CONSENT IS NOT A CONDITION OF PURCHASE. IF YOU WISH TO OPT OUT OF MARKETING CALLS AND/OR TEXT MESSAGES FROM CLASSDOJO, YOU CAN EMAIL
+PRIVACY@CLASSDOJO.COM
+OR TEXT THE WORD âSTOPâ TO THE NUMBER WHICH YOU ARE RECEIVING THE MESSAGES.
+You may continue to receive text messages for a short period while we process your request, including a message confirming the receipt of your opt-out request. In addition, for any help, please text âHELPâ. ClassDojo does not charge you for our text message features. But message and data rates may apply whether you send or receive messages, so depending on your plan with your wireless or other applicable provider, you may be charged by your carrier or other applicable provider. Message frequency may vary based on your use of the Services. Carriers are not liable for delayed or undelivered messages.
+Basically,
+At the direction of the school, You may receive text messages, emails, and other notifications from ClassDojo relating to but not limited to your, your child, or Studentâs activity on ClassDojo or in response to information you request. Additionally, ClassDojo may send Parent Users promotions and announcements.You can opt out at any time by adjusting your notification preferences or contacting
+privacy@classdojo.com
+or by texting the word âSTOPâ to the number from which you receive the text message.
+Social Media and Third-Party Authentication Services
+ClassDojo may, now or in the future, incorporate certain functions that allow you to interact with the Service through your accounts on certain supported third-party social networks or network storage sites, such as with âLikeâ and âShareâ buttons or ones allowing you to register on ClassDojo through social networks or otherwise grant access to a third-party social networking service, such as through Facebook Connect or Google, or other similar features (collectively âLinked Accountsâ). If you choose to use such features, you grant Company permission to access and use your Linked Account for the purpose of processing your requests. Additionally, if you decide to use a Linked Account to register for a ClassDojo account through an authentication service (such as Google Accounts, Microsoft Accounts, Facebook Connect, or Clever) (âAuthentication Serviceâ) you give ClassDojo the permission to store and use certain information already associated with your Authentication Service consistent with our
+Privacy Policy
+. The current list of Authentication Services that we use is listed
+here
+. You may revoke ClassDojoâs access to your account on any Authentication Service at any time by updating the appropriate settings in the account preferences of the respective Authentication Service. You should check your privacy settings on each Authentication Service to understand and change the information sent to us through each Authentication Service. Please review each Authentication Serviceâs terms of use and privacy policies carefully before using their services and connecting to our Service. Your use of Linked Accounts and Authentication Services is subject to the applicable third-party terms and privacy policies.
+Basically,
+If you want to log in through or use third-party services with your ClassDojo account (e.g., Google Apps), weâll help you connect your account to those services so you can use them, and you are giving us permission to store and use certain information already associated with your authentication service. You can revoke our access to this account by updating your settings in your authentication service account.
+Third-Party Applications and Integrations
+If you use any third-party applications, such as YouTube video, including, but not limited to, third-party applications that are integrated directly with our Service through application programming interfaces ("APIs") for your convenience, ("Third-Party Applications"), you are solely responsible for your interactions with such Third-Party Applications. Additionally, if you elect to use any Third-Party Applications, you are solely responsible for the selection of and any transfer or downloading of any User Content, or any other data or content stored on the ClassDojo Service, to such Third-Party Applications, including through any ClassDojo APIâs. By exporting your User Content to a Third-Party Application, you hereby authorize ClassDojo to transfer that information to that Third-Party Application. ClassDojo shall not be responsible for any disclosure, modification or deletion of your data, or the use of your data by such Third-Party Applications, including, without limitation, any User Content, resulting from any such access by Third-Party Applications.
+You acknowledge and agree that in connection with certain Third-Party Applications, you will be required to create accounts on other websites in your name ("User Third-Party Accounts") for such services to function. Such User Third-Party Accounts are required by the Third-Party Applications to be set up directly between you and the Third-Party Application. Use of the User Third-Party Accounts will be governed by the terms of use, agreements, policies, rules, guidelines and privacy policies of such websites ("Third-Party Application Terms"). You agree and acknowledge that you are solely responsible for compliance with such Third-Party Application Terms. If required to provide the Service, you hereby authorize and grant ClassDojo a right to use any names, passwords, API keys or other keys ("Third-Party Application Account Keys") solely as necessary to provide the Service to you as the User.
+If you use any Third-Party Applications, including without limitation, to create and link or integrate any videos or other content ("Third-Party Application Created Content") to your account on ClassDojo, it is your responsibility to obtain any and all necessary rights and consents you need, including, without limitation, for any additional photos / videos / music not already part of the ClassDojo
+Stories
+or
+Portfolios
+, and as necessary to grant us the
+license
+set forth in â
+Your Information and Content
+â Section. You are also solely responsible for all Third-Party Application Created Content, and for ensuring that such Third-Party Application Created Content meets all applicable conditions and restrictions set forth in this Agreement, including, but not limited to, those in â
+Your Information and Content
+â Section and the
+Community Guidelines
+. You further acknowledge that any Third-Party Application Created Content is subject to any other disclaimers and rights of ClassDojo with respect to such content contained in this Agreement, including, but not limited to the â
+Your Information and Content
+â Section. You represent and warrant, in connection with any use of Third-Party Applications, that you: (i) shall comply at all times with all applicable Third-Party Application Terms, including regarding the indirect or direct transfer of any User Content or other data to any third parties; (ii) shall comply with any and all process and guidelines set forth (or that may be set forth) by ClassDojo regarding Third-Party Applications; and (iii) will comply with the
+Community Guidelines
+for all content you link to or integrate with the Service through the use of any Third-Party Applications.
+Basically,
+If you use any third-party applications in conjunction with ClassDojo, you are responsible for your interactions on those applications. Also, those applications will have their own terms of use and privacy policies you must follow. Any content you share from third-party applications onto ClassDojo must still follow our Terms of Service and Privacy Policy.
+Third Party Content and Websites
+Content from other Users and third parties, including information about third-party products and services, is made available to you through the Service ("Third-Party Content"). Additionally, the Service may contain links to third-party websites (e.g., YouTube educational videos) that are not owned or controlled by Company, and includes features that allow you to interact and communicate with third parties (âThird-Party Websitesâ). The inclusion of Third-Party Content and links to Third-Party Websites on the Service does not imply our affiliation or endorsement of such Third-Party Content or Third-Party Websites.
+Because we do not control Third-Party Content or Third-Party Websites, you agree that we are not responsible for any such Third-Party Content or Third-Party Websites, including the accuracy, integrity, quality, legality, usefulness, safety or intellectual property rights of or relating to such Third-Party Content or Third-Party Websites (including privacy policies or opinions expressed on the Third-Party Websites and how these Third Party Websites may use User information), it is the sole responsibility of the person from which such Third-Party Content or Third-Party Websites originated, and ClassDojo has no obligation to monitor such Third-Party Content or Third-Party Websites. When you access Third-Party Websites or interact or communicate with third parties through the Service, you do so at your own risk and are solely responsible for determining whether or not such Third-Party Content and Third-Party Websites are appropriate or acceptable to you. Your interactions with Third-Party Content and Third-Party Websites, organizations and/or individuals found on or through the Service are solely between you and such organizations and/or individuals. You understand that using the Services and interacting with Third-Party Content or Third-Party Websites could subject you to third-party fees, terms and/or policies, such as a privacy policy, and you agree to pay all those fees and to follow those terms and policies. You understand that by using the Service you may be exposed to Third-Party Content or Third-Party Websites that are offensive, indecent or objectionable, and that you use the Service at your own risk.
+Basically,
+Weâre not responsible for any third-party content posted, or third-party websites or services linked from our service, or any disputes you may have with them.
+Premium Features
+ClassDojo offers certain Users the ability to purchase
+Premium Features
+through the Service. The categories and prices of our Premium Features are described in the application and are subject to change from time to time. Any use of the Premium Features and any payment(s) made on connection with the Premium Features is also subject to our
+Premium Features Terms
+.
+Modification to Agreement
+General:
+We may modify this Agreement or Guidelines to, for example, reflect changes to the law or changes to our Services. You should look at the Agreement periodically for changes. Weâll post notice of modifications to this Agreement on this page or elsewhere in the Services and/or as required by law. Changes will not apply retroactively. Changes will be effective immediately, except that for existing users, material revisions will be effective thirty (30) days after posting or notice to you of the revisions unless otherwise stated. However, changes addressing new functions for a Service or changes made for legal reasons will be effective immediately. We may require you to accept the modified Agreement or Guidelines in order to continue to use the Service. Your continued use of the Services, following notice of the changes to the Agreement or Guidelines, constitutes your acceptance of our amended terms, policies or guidelines. If you do not agree to the modified Agreement, you should discontinue your use of the Service.
+Student Accounts or School Use:
+ClassDojo will not change how personal information contained in
+Education Records
+or
+Student Data
+are used or shared under these Terms of Service without advance notice, including prominent notice to affected Users. If a change with respect to how personal information contained in Education Records or Student Data is used or shared under these Terms of Service has a material adverse impact on the Students, School Personnel or Educational Institution and the School Personnel or Educational Institution does not agree to the change, the School Personnel or Educational Institution must notify ClassDojo within thirty days of receiving the notice of change as described under the caption â
+Contact Information
+â below. If School Personnel or Educational Institution notifies ClassDojo as required, then the Students, School Personnel or Educational Institution will remain governed by the Terms of Service in effect immediately prior to the change until the end of the then current Term of the Educational Institutionâs Student DPA (or the end of the current school term in absence of a Student DPA). If the Service is renewed, they will be renewed under ClassDojo's then current Terms of Service.
+Basically,
+If these terms of use change, we will notify you, and give you a chance to opt out or discontinue use of the Service. We wonât change the terms retroactively. If we materially change how PII contained in an Education Record or Student Data is used, weâll give you advance notice. If you donât like the new changes, weâll give you an opportunity to contact us and to opt out of the change.
+Your Representations and Warranty
+You warrant, represent and agree that you will not provide any User Content or otherwise use the Service in a manner that (i) infringes, violates or misappropriates anotherâs intellectual property rights, rights of publicity or privacy, or other rights; (ii) violates any international, federal, state or local law, statute, ordinance or regulation or which would render Company in violation of any applicable laws or regulations, including without limitation, COPPA, state student privacy laws, FERPA, and all other laws, rules or regulations concerning the collection, use and disclosure of personal information about Users (collectively the âLawsâ); (iii) is harmful, fraudulent, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous, or otherwise objectionable; or (iv) jeopardizes the security of your account or the Service in any way, such as allowing someone else access to your account or password or submitting User Content that contains viruses. Additionally, you represent, warrant and agree that you (i) possess all rights necessary to provide your User Content and grant Company the rights in this Agreement (ii) you will comply with the Laws in connection with your use of the Service; and (iii) if you are School Personnel or an Educational Institution, you are solely responsible for providing notices and providing or obtaining consents required by applicable Laws for students to use the Services or to provide User Content, including compliance with the applicable provisions of COPPA when obtaining
+School Consent
+.
+Basically,
+You agree not to post content that harms others or violates anyoneâs rights and if you are School Personnel or an Institution, you agree that you are solely responsible for providing any required notices and/or obtaining or providing parental consent under FERPA and COPPA (if relying on School Consent). We think youâll be reasonable and responsible, but if youâre not, we might have to remove your content.
+Acceptable Use and Conduct
+We do our best to keep ClassDojo safe, but we cannot guarantee it. We need your help to keep ClassDojo safe, which includes the following commitments by you when using our Service:
+You will only use the Service as permitted by Law, including applicable export or re-export control laws and regulations.
+You will not post unauthorized commercial communications (such as spam, promotional emails, or advertisements) on or through the Service.
+You will not engage in unlawful multi-level marketing, such as a pyramid scheme, on the Service.
+You will not upload viruses or other malicious code, files or programs.
+You will not collect, solicit or otherwise obtain login information or access an account belonging to someone else.
+You will not use the Service to violate a personâs right to privacy or publicity or otherwise collect, use or disclose data, including personal information, about other users without their consent or for unlawful purposes or in violation of any Law.
+You will not bully, intimidate, or harass any User or use the Service in any manner that is threatening, abusive, violent, or harmful to any person or entity, or invasive of anotherâs privacy.
+You will not post or approve any User Content or use the Service in a manner that infringes, violates or misappropriates any third-partyâs intellectual property rights or other proprietary rights, privacy rights or contractual rights.
+You will not use the Service in any way to upload, post, transmit, email or otherwise distribute content that: is abusive, amounts to harassment or hate speech (including on the basis of rave, religion, gender, sexual orientation or disability), is discriminatory, defamatory, threatening, pornographic or obscene; incites violence; promotes terrorism, suicide, self-injury or an eating disorder; contains nudity or graphic or gratuitous violence, including against animals; amounts to bullying; encourages or promotes behavior highly likely to result in serious injury; or is otherwise objectionable as reasonably determined by ClassDojo.
+You will not use the Service to do anything unlawful, deceptive, misleading, illegal, unethical, malicious, or discriminatory.
+You will not do anything that could disable, overburden, or impair the proper working or appearance of the Service or prevent other Users from using the Service, such as a denial of service attack or interference with page rendering or other Service functionality.
+You will not access (or attempt to gain unauthorized access) to the Service or to ClassDojoâs computer systems by any means other than as permitted in this Agreement or engage in any activity that disrupts, diminishes the quality of, interferes with the performance of, or impairs the functionality of, the Service.
+You will not use automated means, including spiders, robots, crawlers, data mining tools, or the like to download data from the Service, including any Users' content or information, or otherwise access the Service, - except for Internet search engines (e.g., Google) and non-commercial public archives (e.g., archive.org) that comply with our robots.txt file, or "well-behaved" web services/RSS/Atom clients. We reserve the right to define what we mean by "well-behaved."
+You will not employ misleading email or IP addresses, or forged headers or otherwise manipulated identifiers in order to disguise the origin on any content transmitted to or through the Service.
+You will not use the Service in any commercially unreasonable manner or in any manner that would disparage ClassDojo.
+You will not impersonate a ClassDojo employee, or any other person, or falsely state or otherwise misrepresent your affiliation with any person or entity.
+You will not use the Service in any manner that is harmful to minors. Without limiting the foregoing, you will not transmit or post any content anywhere on the Service, including any User Content, that violates child pornography laws or that otherwise violates any child sexual exploitation laws. ClassDojo absolutely does not tolerate this and will report any suspected instances of child pornography, including reporting any of your user registration information, to law enforcement, including the National Center for Missing and Exploited Children and the equivalent agency in any international jurisdiction.
+You will not copy, modify, or distribute any text, graphics, or other material or content available through the Service without our prior written permission, or if such content is a User Content, the prior written consent of such User.
+You will comply at all times with the
+Community Guidelines
+.
+You will not facilitate or encourage any violations of this Agreement or our policies, including, without, limitation, to facilitate the unlawful distribution of copyrighted content.
+Any violation of the above may be grounds for termination of your right to access or use the Service.
+Basically,
+You agree to keep ClassDojo a safe and positive place and to not to misuse ClassDojo's services.
+WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY
+We provide our Service using a commercially reasonable level of skill and care and we hope that you will enjoy using them. But there are certain things that we donât promise about our Services.
+DISCLAIMER OF WARRANTIES
+. THE SERVICE (AND ANY ASSOCIATED PRODUCTS, PREMIUM FEATURES, VIRTUAL GOODS, CLASSDOJO VIRTUAL CURRENTLY , CLASSDOJO SHOP, THIRD-PARTY CONTENT, THIRD-PARTY WEBSITES, THIRD-PARTY APPLICATIONS, USER CONTENT, CLASSDOJO TECHNOLOGY OR SOFTWARE AND ANY OTHER CONTENT (âCOLLECTIVELY THE âCLASSDOJO OFFERINGSâ) ARE PROVIDED ON AN âAS ISâ AND âAS AVAILABLEâ BASIS AND WITHOUT ANY WARRANTY .
+WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, CLASSDOJO (AND ITS PARENT, SUCCESSORS, AFFILIATES, SUBSIDIARIES, CONTRACTORS,SERVICE PROVIDERS, EMPLOYEES, OFFICERS, DIRECTORS, SUPPLIERS, LICENSORS, PARTNERS AND AGENTS (TOGETHER THE âCLASSDOJO PARTIESâ) EXPRESSLY DISCLAIMS ALL WARRANTIES OR REPRESENTATIONS OF ANY KIND, EXPRESS, IMPLIED OR STATUTORY, REGARDING THE CLASSDOJO OFFERINGS, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTY OF QUALITY, ACCURACY, PERFORMANCE, AVAILABILITY, MERCHANTABILITY, QUIET ENJOYMENT, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT.
+IN PARTICULAR, CLASSDOJO AND THE CLASSDOJO PARTIES MAKES NO REPRESENTATION OR WARRANTY THAT THE CLASSDOJO OFFERINGS (1) WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS, OR BE TO YOUR LIKING, (2) WILL BE TIMELY, SECURE, ACCURATE, FREE FROM ERRORS OR LOSS, OR UNINTERRUPTED, OR THAT THE SERVICES ARE FREE FROM VIRUSES OR OTHER HARMFUL COMPONENTS, OR (3) THAT ANY DEFECTS OR ERRORS WILL BE CORRECTED. SOME FEATURES ARE EXPERIMENTAL AND HAVE NOT BEEN TESTED IN ANY MANNER.
+ANY MATERIAL DOWNLOADED FROM THE WEBSITE OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS DONE AT THE USER'S OWN DISCRETION AND RISK, AND THE USER WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO THEIR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM ACCESSING OR DOWNLOADING ANY SUCH MATERIAL.
+NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY THE USER FROM CLASSDOJO OR ANY MATERIALS OR CONTENT AVAILABLE THROUGH THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THIS AGREEMENT.
+LIMITATION OF LIABILITY
+. UNDER NO LEGAL THEORY, INCLUDING, BUT NOT LIMITED TO NEGLIGENCE, SHALL CLASSDOJO OR THE CLASSDOJO PARTIES , BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, COST OF COVER, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES (EVEN IF CLASSDOJO HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), ARISING FROM OR RELATING TO (i) THIS AGREEMENT; (ii) YOUR USE OR THE INABILITY TO USE THE CLASSDOJO OFFERINGS; OR (iii) ANY INTERACTION WITH ANY THIRD-PARTY THROUGH OR IN CONNECTION WITH THE CLASSDOJO OFFERINGS, INCLUDING OTHER USERS.
+EXCEPT AS NOTED IN THE DISPUTE RESOLUTION SECTION, IN NO EVENT WILL CLASSDOJO OR THE CLASSDOJO PARTIES BE LIABLE TO YOU IN THE AGGREGATE (FOR ALL POTENTIAL CLAIMS BY YOU) FOR ANY DAMAGES INCURRED IN EXCESS OF THE GREATER OF ANY FEES YOU HAVE ACTUALLY PAID TO COMPANY FOR USE OF THE CLASSDOJO OFFERINGS IN THE 12 MONTHS PRIOR TO THE EVENTS GIVING RISE TO THE CLAIM, OR ONE HUNDRED DOLLARS ($100).
+CERTAIN JURISDICTIONS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF YOU RESIDE IN SUCH A JURISDICTION, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS. IN SUCH CASES, CLASSDOJOâS LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY LAW.
+Basically,
+ClassDojo is a free service and is provided âas-is.â Weâre not liable to you for indirect, or special damages if something goes wrong. Additionally, we set a cap of our liability to you for any direct damages that you may incur as a result of using our Services to be the greater of the amount of fees you have paid to us for your use of the Service in the 12 months prior to the claim or $100 (except as set forth in the Dispute Resolution Section).
+Indemnity
+You agree, to the extent permitted by law, to indemnify, hold harmless and defend Company and the ClassDojo Parties from and against all damages, losses, demands, liabilities, judgments, settlements, costs and expenses of any kind (including reasonable attorneys' fees) from any claim or demand made by any third-party relating to or arising out of (i) your access to, use, or misuse of the Service or ClassDojo Offerings ; (ii) your breach or alleged breach of this Agreement, including any representation or warranty; (iii) your failure to comply with applicable Laws (including any failure to obtain or provide any necessary consent); (iv) the infringement (actual or alleged) by you or any third-party using your account of any intellectual property, privacy, publicity, or other right of any person or entity, including in connection with your User Content; or (v) your breach or alleged breach of any interaction, agreement, or policy between you and any other Users or any third party.
+ClassDojo reserves the right, at ClassDojoâs expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us and you agree to cooperate with our defense of these claims. You agree not to settle any matter without the prior written consent of ClassDojo. ClassDojo will use reasonable efforts to notify you of any such claim, action or proceeding upon becoming aware of it.
+Basically,
+If someone brings a claim against us related to your content or use of the Service, violation of anotherâs rights, or a breach of this Agreement, you promise to pay for the cost of legal expenses and any loss or damages we incur.
+User Interactions and Release
+User Disputes
+ClassDojo is not responsible for the actions, content, information or data of other third parties, including other Users. You are solely responsible for your interactions with other users of the Services, and any other parties with whom you interact through the Service. You should make whatever investigation you feel necessary or appropriate before proceeding with any online or offline interaction with any other person. We reserve the right, but have no obligation, to become involved in any way with these disputes to try to resolve them.
+Release
+If you have a dispute with one or more Users, you release us (and our officers, directors, agents, subsidiaries, successors, joint ventures, and employees) from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes, including damages for loss of profits, goodwill, use, privacy or data. If you are a California resident, you waive California Civil Code Â§1542, which says: "A general release does not extend to claims which the creditor does not know or suspect to exist in his or her favor at the time of executing the release, which if known by him or her must have materially affected his settlement with the debtor." And, if you are not a California resident, you waive any applicable state statutes of a similar effect.
+Basically,
+There are many people who use ClassDojo. Although we expect every user to follow our guidelines, we are not responsible for their actions. Weâll enforce our acceptable use and other guidelines, but we wonât get involved in, nor are we responsible for any disputes you may have with other users of ClassDojo.
+Copyright Protection
+Copyright
+It is ClassDojoâs policy to respond to notices of alleged copyright infringement that comply with the Digital Millennium Copyright Act (âDMCAâ). For more information, please go to ClassDojoâs
+DMCA Notification Guidelines
+. ClassDojo may remove any allegedly infringing content without any liability to you. ClassDojo will promptly terminate without notice any Userâs access to the Service where the User is a ârepeat infringerâ of copyrights. ClassDojo, however, reserves the right to identify and terminate Users under any circumstances it deems appropriate, including after only a single instance of allegedly infringing behavior by that User.
+Trademarks
+ClassDojoâs policies prohibit you from providing User Content that infringes trademarks. If you provide User Content that infringes trademarks, your User Content can be blocked or removed. If you are a trademark owner that believes your trademark is being infringed, please note that we are not in a position to mediate disputes between users and the holders of trademark rights. However, we will look into and try to resolve any allegations of trademark infringement by following the similar process as our DMCA Notification Guidelines for trademarks.
+Basically,
+We respect copyrights and trademarks. If you see any violations, please see our
+DMCA Notification Guidelines
+.
+Term and Termination
+This Agreement shall remain in full force and effect while you use the Service unless your account is terminated as provided in this Agreement (âTermâ). All provisions of this Agreement which, by their nature, should survive termination, shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, and limitations of liability.
+Termination by ClassDojo:
+For non-school based accounts (including parents not connected to a school or Outside School Child Users):
+ClassDojo may suspend or terminate your access to the Service or your account at any time, for any reason (without cause or for your violation of any term of this Agreement), and without warning or notice, which may result in the loss of information associated with your account. Upon termination of your account, your right to use the Service will immediately cease. You agree that any termination of your access to the Services or any account you may have, or portion thereof, may be affected without prior notice, and you agree that ClassDojo shall bear no responsibility or liability to you or any third party for any damages or claims resulting from or in connection with such actions, including the loss of information associated with your account.
+Termination by ClassDojo of School Personnel, Educational Institutions, Parent Users Connected to Schools or Students:
+You acknowledge that, if you knowingly, intentionally or negligently violate this Agreement, ClassDojo may suspend your license to the Services, in whole or in part, until the violation has stopped or terminate your license and use of the Services. In the event that you fail to correct the violation after reasonable notice from ClassDojo, ClassDojo may terminate your license and use of the Services and this Agreement. You agree and if such termination or suspension occurs, ClassDojo shall bear no responsibility or liability for any damages or claims resulting from or in connection with such actions, including the loss of information associated with your account.
+The following does not apply in the unforeseen circumstances in which ClassDojo ceases operations or files for bankruptcy at which point ClassDojo may terminate or suspend all User accounts and licenses with or without notice to you, and with no liability to you. We believe that you (or your school as applicable) own your data and preserving access to such data is important. If we discontinue the Service (such as if we went out of business), where reasonably possible, we will give you advance notice and a chance to get information out of the Service. Click
+here
+for more information.
+Termination by School Personnel or Educational Institutions.
+School Personnel or Educational Institutions may terminate their use of the Service (or their account) or a Student Account at any time by contacting us at
+privacy@classdojo.com
+provided, however, that an Educational Institution may require satisfaction of certain requirements before School Personnel or the Educational Institution can terminate their account or before a Student Account can be terminated. Prior to the termination of Student Accounts (or this Agreement) at the direction of School Personnel or an Educational Institution, ClassDojo may, at the request of School Personnel or the Educational Institution, or the Student or the Studentâs parent or legal guardian, transfer Student Generated Content (as that term is defined in the
+Student DPA
+and/or various Privacy Laws) to the
+Outside School Child Account
+instead of deleting such content to enable ongoing ownership by Student Users or Parent Users. Transfer in this case may mean retaining the Student Generated Content within the previously created and Linked Account (e.g., the Outside School Child Account) upon any request to delete the Student Account by the Educational Institution. In addition, any Linked Data may also be retained.
+Dispute Resolution
+Generally: In the interest of resolving disputes between you and Company in the most expedient and cost-effective manner, you and Company agree that, except as provided in subsection (b) below, any and all disputes arising in connection with these Terms of Service shall be resolved by binding arbitration. Arbitration is more informal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, may allow for more limited discovery than in court, and can be subject to very limited review by courts. Arbitrators can award the same damages and relief that a court can award. Except as provided in subsection (b) below, our agreement to arbitrate disputes includes, but is not limited to, all claims arising out of or relating to any aspect of these Terms of Service, whether based in contract, tort, statute, fraud, misrepresentation or any other legal theory, and regardless of whether the claims arise during or after the termination of these Terms of Service. Any dispute relating to the interpretation, applicability, or enforceability of this binding arbitration agreement will be resolved by the arbitrator. YOU UNDERSTAND AND AGREE THAT, BY ENTERING INTO THESE TERMS OF SERVICE, YOU AND COMPANY ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.
+Exceptions: Notwithstanding subsection (a), we both agree that nothing herein shall be deemed to waive, preclude, or otherwise limit either of our right to (i) bring an individual action in small claims court, (ii) pursue enforcement actions through applicable federal, state, or local agencies where such actions are available, (iii) seek injunctive relief in a court of law, or (iv) to file suit in a court of law to address intellectual property infringement claims.
+Opt-Out: If you do not wish to resolve disputes by binding arbitration, you may opt out of the provisions of this Section 25 within 30 days after the date that you first agreed to the companyâs Terms of Service by sending a letter to Class Dojo, Inc., Attention: Legal Department â Arbitration Opt-Out, 735 Tehama St, San Francisco, CA 94103, United States of America that specifies: your full legal name, the email address associated with your account on the Service, and a statement that you wish to opt out of arbitration (â
+Opt-Out Notice
+â). Once the Company receives your Opt-Out Notice, this Section 23 will be void and any action arising out of this Terms of Service will be resolved as set forth in Section 27. The remaining provisions of this Terms of Service will not be affected by your Opt-Out Notice.
+Arbitration: Any arbitration between you and Company will be governed by ADR Services (âADRâ) under its Arbitration Rules ("ADR Services Rules"), as modified by these Terms of Service, and will be administered by the ADR Services. The ADR Services Rules and filing forms are available online at
+www.adrservices.com
+.
+Notice; Process: A party who intends to seek arbitration must first send a written notice of the dispute to the other, by certified mail or Federal Express (signature required), or in the event that we do not have a physical address on file for you, by electronic mail ("Notice"). Company's address for Notice is: Class Twist, Inc., 735 Tehama St, San Francisco, CA 94103, United States of America. The Notice must (a) describe the nature and basis of the claim or dispute; (b) set forth the specific relief sought ("Demand"), and (c) identify the name or account of the party making the claim. We agree to use good faith efforts to resolve the claim directly, but If we do not reach an agreement to do so within 30 days after the Notice is received, you or Company may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by you or Company shall not be disclosed to the arbitrator until after the arbitrator makes a final decision and award, if any.
+Arbitration Relief: Except as provided in subsection (h) (No Class Actions), the arbitrator can award any relief that would be available if the claims had been brought in a court of competent jurisdiction. If the arbitrator awards you an amount higher than the last written settlement amount offered by the Company before an arbitrator was selected, the Company will pay to you the higher of: (i) the amount awarded by the arbitrator and (ii) US$10,000. The arbitratorâs award shall be final and binding on all parties. Judgment on the award may be entered in any court having jurisdiction.
+Fees: In the event that you commence arbitration in accordance with these Terms of Service, Company will reimburse you for your payment of the filing fee, unless your claim is for greater than $10,000, or if the Company has received 25 or more similar demands for arbitration, in which case the payment of any fees shall be decided by the ADR Services Rules. Any arbitration hearings will take place in the county and state of your residence unless we agree otherwise , provided that if the claim is for $10,000 or less, you may choose whether the arbitration will be conducted solely on the basis of documents submitted to the arbitrator, through a telephonic or video hearing, or by an in-person hearing as established by the ADR Services Rules in the county (or parish) of your residence. If the arbitrator finds that either the substance of the claim or the relief sought in the Demand is frivolous or brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)), then the payment of all fees will be governed by the ADR Services Rules, and the other party may seek reimbursement for any fees paid to ADR Services. Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based. The arbitrator may make rulings and resolve disputes as to the payment and reimbursement of fees or expenses at any time during the proceeding and upon request from either party made within 14 days of the arbitratorâs ruling on the merits.
+No Class Actions: you and company agree that each may bring claims against the other only in your or its individual capacity, and not as a plaintiff or class member in any purported class or representative proceeding. Further, unless both you and Company agree otherwise, the arbitrator may not consolidate more than one personâs claims, and may not otherwise preside over any form of a representative or class proceeding.
+Modifications to this Arbitration Provision: If the Company makes any substantive change to this arbitration provision, you may reject the change by sending us written notice within 30 days of the change to the Companyâs address for Notice, in which case your account with the Company will be immediately terminated and this arbitration provision, as in effect immediately prior to the changes you rejected will survive.
+Enforceability: if only subsection (h) of this Section or the entirety of this Section is found to be unenforceable, then the entirety of this Section 25 shall be null and void and, in such case, the parties agree that the exclusive jurisdiction and venue described elsewhere in Section 29 shall govern any action arising out of or related to these Terms of Service.
+Basically,
+It is our goal to quickly and efficiently resolve disputes that may arise. For that reason, we require disputes to be submitted to arbitration. If you bring a dispute in arbitration that is $10,000 or less, ClassDojo will pay all the filing fees and make arrangements for telephonic or video-based proceedings (if you prefer). Additionally, we each waive rights to bring class actions.
+Experimental Features
+We may provide experimental features for you to try. These experimental features are not guaranteed to work the first time or any time. These features may abruptly and unexpectedly cease functioning, or disappear altogether. Other features of ClassDojo are not regularly tested for compatibility with experimental features. Experimental features will be added and old ones removed, possibly without notice.
+Basically,
+ClassDojo sometimes offers experimental features which haven't been tested. These may be removed without notice.
+Third Party Notices
+Apple Notice.
+Â If User is using the ClassDojo App on an iOS device, User also acknowledges and agrees to the terms of this Section. This Agreement is between User and ClassDojo only, not with Apple, and Apple is not responsible for theÂ ServicesÂ and the content of theÂ Services. Apple has no obligation whatsoever to provide any maintenance and support service with respect to theÂ Services. If theÂ ServicesÂ fail to meet the applicable warranty, User may notify Apple and Apple will refund any applicable purchase price for theÂ ClassDojo AppÂ to User. Apple has no other warranty obligation whatsoever with respect to theÂ Services. Apple is not responsible for addressing any claims by User or any third party relating to theÂ ServicesÂ or Userâs use of theÂ Services, including: (a) product liability claims; (b) any claim that theÂ ServicesÂ fail to meet any applicable legal or regulatory requirement; and (c) claims arising under consumer protection or similar legislation. Apple is not responsible for the investigation, defense, settlement and discharge of any third-party claim that theÂ ServicesÂ or Userâs use of theÂ ClassDojo AppÂ infringe that third partyâs intellectual property rights. User agrees to comply with any applicable third-party terms when using theÂ Services. Apple and Appleâs subsidiaries are third-party beneficiaries of theÂ ClassDojo Agreement, and when User accepts theÂ ClassDojo Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce theÂ ClassDojo Agreement against User as a third-party beneficiary. User hereby represents and warrants that (i) User is not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a âterrorist supportingâ country; and (ii) User is not listed on any U.S. Government list of prohibited or restricted parties.
+Google Notice:
+THIS SERVICE MAY CONTAIN TRANSLATIONS POWERED BY GOOGLE. GOOGLE DISCLAIMS ALL WARRANTIES RELATED TO THE TRANSLATIONS, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTIES OF ACCURACY, RELIABILITY, AND ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+Notice to California Residents
+If User is a California resident, under California Civil Code Section 1789.3, User may contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 N. Market Blvd., Suite S-202, Sacramento, CA 95834, or by phone at (800) 952-5210 in order to resolve complaints.
+Service Provider under the CCPA
+ClassDojo shall be considered a âservice providerâ as that term is defined under the California Consumer Privacy Act, as amended by the California Privacy Rights Act and its implementing regulations (collectively the âCCPAâ) to certain entities that ClassDojo may contract with that may be deemed a âbusinessâ (as defined under the CCPA) located in California (âBusiness Institutionâ) and are not defined as a ânonbusinessâ (as that term is defined under the CCPA). In such instances, ClassDojo agrees to comply with all applicable provisions of the CCPA that apply to service providers. ClassDojo will notify the Business Institution if it can no longer meet these obligations under the CCPA. The business purpose (as defined by the CCPA) for which ClassDojo is processing personal information of the Business Institutionsâ Users shall be set forth in the applicable Data Protection Addendum and such Business Institution is disclosing this personal information only for this limited and specified business purpose. In addition to those restrictions set forth in the applicable Data Protection Addendum , ClassDojo agrees not to (i) sell or share (as those terms are defined under the CCPA) personal information of the Business Institutionâs Users collected by ClassDojo (ii) retain, use, or disclose the personal information of the Business Institutionâs Users collected by ClassDojo for any purpose other than the business purpose (as defined under the CCPA) set forth in the applicable Data Protection Addendum or as otherwise permitted by the CCPA; (iii) retain, use, or disclose the personal information of the Business Institutionâs Users collected by ClassDojo for any commercial purpose other than the business purpose (as defined under the CCPA) set forth in the applicable Data Protection Addendum or as otherwise permitted by the CCPA; (iv) retain, use, or disclose the personal information of the Business Institutionâs Users collected by ClassDojo outside the direct business relationship between ClassDojo and the Business Institution, unless expressly permitted by the CCPA.
+Miscellaneous
+The failure of either party to exercise, in any respect, any right provided for herein shall not be deemed a waiver of any further rights hereunder. Company shall not be liable for any failure to perform its obligations hereunder where such failure results from any cause beyond Company's reasonable control. If any provision of this Agreement is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain in full force and effect and enforceable. This Agreement is not assignable, transferable or sublicensable by you except with Company's prior written consent. Company may transfer, assign or delegate this Agreement and its rights and obligations without restriction. Except with respect to the Student DPA which shall be governed by the laws set forth in the Student DPA, this Agreement is governed by and construed in accordance with the laws of the State of California without regard to the conflict of laws provisions thereof. Except with respect to the Student DPA which shall be governed by the terms set forth in the Student DPA, to the extent any dispute arising from or relating to the subject matter of this Agreement is permitted to be brought in a court of law, such claim shall be subject to the exclusive jurisdiction of the state and federal courts located in San Francisco, California, and for all purposes of this Agreement, you and Company consent to the exclusive jurisdiction and venue of such courts. Unless and solely to the extent that you or your Institution have a separate written agreement with Company that governs your use of the Service (in which case such agreement will control), we both agree that this Agreement is the complete and exclusive statement of the mutual understanding of the parties and supersedes and cancels all previous written and oral agreements, communications and other understandings relating to the subject matter of this Agreement, and that the Agreement may not be modified, except as otherwise provided herein. This Agreement and any subsequent versions of this Agreement posted to the Website will be deemed a writing signed by both parties. No agency, partnership, joint venture, or employment is created as a result of this Agreement and you do not have any authority of any kind to bind Company in any respect whatsoever.
+Basically,
+Please abide by these terms - we will!
+Contact Information
+For information about how to contact Company, please visit our
+contact page
+ClassDojo
+Our mission is to give every child an education they love.
+English
+App Store
+Google Play
+Company
+About us
+Press
+Careers
+Engineering
+Accessibility
+Resources
+Big Ideas
+Points
+Resources
+Training
+Remote Learning
+ClassDojo Plus
+Dojo Tutor
+Activity Corner
+Support
+Help Center
+Contact
+Cookie Settings
+Transparency Notice at Collection
+Privacy and Security
+Community
+Teacher Community
+Wall of Love
+Tutoring
+Find a tutor
+Math tutoring
+Reading tutoring
+Dyslexia tutors
+ESL tutors
+English
+Facebook
+X
+Instagram
+Â© ClassDojo, Inc
+Terms of Service
+Product Privacy Policy
+Website Privacy Policy
+App Store
+Google Play

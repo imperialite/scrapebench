@@ -1,0 +1,10 @@
+User-agent: GPTBot
+User-agent: SemrushBot
+Disallow: /
+
+User-Agent: FacebookBot
+Crawl-delay: 1
+
+User-agent: *
+Sitemap: https://www.oed.com/sitemap.xml
+Allow: /

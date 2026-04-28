@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /account/
+Disallow: /exchange/
+Disallow: /login/
+Disallow: /logout/
+Allow: *.js
+Allow: *.css
+Sitemap: https://www.epicgames.com/site/sitemap

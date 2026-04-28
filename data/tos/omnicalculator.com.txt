@@ -1,0 +1,347 @@
+Legal Information
+1. Legal Information
+Website Terms and Conditions of Use
+This Privacy Policy tells you what to expect us to do with your personal information when you make contact with us or use one of our services we provide on our websites
+omnicalculator.com
+.
+We’ll tell you:
+why we are able to process your information;
+what purpose we are processing it for;
+whether you have to provide it to us;
+how long we store it for;
+whether there are other recipients of your personal information;
+whether we intend to transfer it to another country; and
+whether we do automated decision-making or profiling.
+The first part of the notice is information we need to tell everybody. The other parts of the notice are information we need to tell specific group of users depending on purpose we collect your data.
+Most often we receive the following question from you, so before we describe the details of data processing to you, we will answer it:
+Do we collect data you input into calculators?
+We don’t.
+By far the most common privacy-related question we get is: do we store the data users input in calculators? The answer is:
+we neither store nor sell the data you enter into our calculators.
+Part I General information
+Controller’s contact details
+Omni Calculator limited liability company is the controller for the personal information we process, unless otherwise stated. There are many ways you can contact us, including by email and post. More details can be seen here.
+Our postal address:
+Omni Calculator Sp. z o.o.
+ul. Mikołajska 13/42
+31-027 Kraków, Poland
+Our register number is 0000545705.
+If you have any requests, questions, comments, or concerns regarding our Privacy Policy or practices, please contact us by email:
+gdpr@omnicalculator.com
+How do we get information?
+Most of the personal information we process is provided to us directly by you for one of the following reasons:
+You browse our website.
+You have made an enquiry to us or you have made an information request.
+You subscribe to our newsletter.
+You as a journalist want to receive our free e-book.
+You visit our accounts on social networks - YouTube, Facebook, LinkedIn and Twitter and you contact us using these sites.
+You want to join our team.
+Your data protection rights
+Under data protection law, you have rights we need to make you aware of. The rights available to you depend on our reason for processing your information.
+Your right of access
+You have the right to ask us for copies of your personal information. This right always applies. There are some exemptions, which means you may not always receive all the information we process.
+Your right to rectification
+You have the right to ask us to rectify information you think is inaccurate. You also have the right to ask us to complete information you think is incomplete. This right always applies.
+Your right to erasure
+You have the right to ask us to erase your personal information in certain circumstances.
+Your right to restriction of processing
+You have the right to ask us to restrict the processing of your information in certain circumstances.
+Your right to object to processing
+You have the right to object to processing if we are able to process your information because the process forms is in our legitimate interests.
+Your right to data portability
+This only applies to information you have given us. You have the right to ask that we transfer the information you gave us from one organisation to another, or give it to you. The right only applies if we are processing information based on your consent or under, or in talks about entering into a contract and the processing is automated.
+You are not required to pay any charge for exercising your rights. We have one month to respond to you.
+Your rights to complain
+We work to high standards when it comes to processing your personal information. If you have queries or concerns, please contact us at
+gdpr@omnicalculator.com
+and we’ll respond.
+If you remain dissatisfied, you can make a complaint about the way we process your personal information to the supervisory authority which is President of the Personal Data Protection Office (Warsaw, Poland).
+Sharing your information
+We use data processors who are third parties who provide elements of services for us. We have contracts in place with our data processors. This means that they cannot do anything with your personal information unless we have instructed them to do it. They will not share your personal information with any organisation apart from us. They will hold it securely and retain it for the period we instruct.
+Our important IT services provider is Google. We use Microsoft as well (more information about it you can read below). Due to the use of mentioned services, your data may be transferred to the United States of America (USA) in connection with their storage on American servers. Service providers have included information on standard data protection clauses (SSC) in the terms of their services which guarantee properly safety level.
+In some circumstances we are legally obliged to share information. For example, under a court order. In any scenario, we’ll satisfy ourselves that we have a lawful basis on which to share the information and document our decision making and satisfy ourselves we have a legal basis on which to share the information.
+You can find more information about our providers below in Part I.
+Links to other websites
+Where we provide links to websites of other organisations, this Privacy Policy does not cover how that organisation processes personal information. We encourage you to read the Privacy Policies on the other websites you visit.
+Changes to this Privacy Policy
+We keep our Privacy Policy under regular review to make sure it is up to date and accurate.
+March 2023
+We have run our website and prepared this version of our Privacy Policy.
+Purpose and lawful basis for processing
+The lawful basis we rely on to process personal data for the above purposes is article 6(1)(f) of the GDPR which allows us to process personal data based on our legal legitimate interests.
+Visitors to our website
+Analytics
+When you visit our website, we use a third-party service, Google Analytics to collect standard internet log information and details of visitor behaviour patterns. We do this to find out such things as the number of visitors to the various parts of the site. This information is only processed in a way that does not directly identify anyone. We do not make, and do not allow Google to make, any attempt to find out the identities of those visiting our website.
+If we do collect personal data through our website, we’ll be upfront about this. We’ll make it clear when we collect personal information and we’ll explain what we intend to do with it.
+If you are interested in details related to data processing as part of Google Analytics, we encourage you to read the explanations prepared by Google here.
+Survicate
+We use Survicate tool to receive all survey responses, even for partially submitted surveys and enrich surveys automatically with user attributes. The tool is provided by Survicate sp. z o.o. with its registered office in Warsaw (postal code 02 – 786) at ul. Zamiany 8 LU2, entered into the register of entrepreneurs of the National Court Register kept by the District Court for the capital city of Warsaw in Warsaw, 13th Commercial Division of the National Court Register under KRS number: 0000551025. We carry out activities in this area based on our legitimate interest, consisting in receive all survey responses and enrich surveys automatically with user attributes on our websites. As part of the Survicate tool, we do not collect information that allows us to identify individual users.
+If you are interested in details related to data processing as part of Survicate, we encourage you to read the explanations prepared by Survicate here.
+Microsoft Clarity
+We use the Microsoft Clarity tool to analyse user behaviour on the website for user experience (UX) analysis, provided by Microsoft with its registered office at 1 Microsoft Way, Redmond, WA 98052, United States. We carry out activities in this area based on our legitimate interest, consisting in creating statistics and analysing them in order to optimize our websites. Microsoft Clarity collects information related to the user's activity on the website and in particular records each website user and creates video recordings of his/her movement on the website and generates heat maps. As part of the Microsoft Clarity tool, we do not collect information that allows us to identify individual users.
+If you are interested in details related to data processing as part of Microsoft Clarity, we encourage you to read the explanations prepared by Microsoft here.
+Cookies and Local storage
+We use a cookies tool on our website to obtain consent for the optional cookies we use.
+Cookies that are necessary for functionality, security and accessibility are set and are not deleted by the tool.
+You can read more about how we use cookies, and how to change your cookies preferences, in our Cookies policy (See ‘Cookies policy’ section below).
+We also use cookies to obtain consent for the local storage. Local storage that is necessary for the website to function is set and does not require consent. The data stored in local storage can be deleted at any time through your browser settings, in accordance with the instructions provided in the section “Information on Local storage” below.
+Purpose and lawful basis for processing
+The purpose for implementing the above is to maintain and monitor the performance of our website and to constantly look to improve the site and the services it offers to our users. The lawful basis we rely on to process your personal data is either Article 6(1)(a) of the GDPR, for example when we require your consent for the optional cookies we use (marketing, analitycs purposes), or Article 6(1)(f) which allows us to process personal data when it’s necessary for our legitimate interests (necessary cookies). For example, in order to maintain the integrity of our IT systems and the continuity of our business.
+What are your rights?
+As we are processing your personal data for our legitimate interests as stated above, you have the right to object to our processing of your personal data. There are legitimate reasons why we may refuse your objection, which depend on why we are processing it. As we are processing your personal data based on your consent, you can withdraw your consent at any time. Withdrawal of consent does not affect the lawfulness of processing carried out on the basis of consent before its withdrawal. Your rights are particularly indicated in Part I of this Privacy Policy.
+Other important information
+Providing personal data is voluntary, but necessary to achieve the individual purposes of their processing.
+Your data may be processed outside the European Economic Area - Google or Microsoft may process your data on a server in the United States. In these cases, Google processes your personal data outside the European Economic Area, but this is done on the basis of the so-called standard contractual clauses, provisions of the contract concluded between us and Google and also Microsoft, which guarantee an adequate degree of secure processing of your personal data. Moreover, the identifiers and the level of anonymization used make it impossible to identify you.
+Part II Data processing via communication channels
+Below we present the principles of personal data processing that apply when you send us an e-mail with a question or your feedback or request for an offer or information about the service, partnership, advertising or media inquiries by contacting us via the data available on our website.
+Purpose and lawful basis for processing
+When you contact us to make an enquiry or ask us question, we collect information, including your personal data, so that we can respond to it.
+The lawful basis we rely on to process your personal data is article 6(1)(a) of the GDPR, which is your consent.
+What we need and why we need it?
+If you contact us via email or post, we’ll need a return address for response and your contact data (name, e-mail, post address).
+What we do with it?
+We’ll keep a record of our response. We use the information supplied to us to deal with the enquiry and any subsequent issues that may arise, and to check on the level of service we provide.
+How long we keep it?
+We will process your data until your consent is withdrawn, and in the remaining scope we will process it until the limitation period for claims and in the period resulting from legal regulations determining the storage time of accounting documents.
+The nature of providing the data
+Providing your data is voluntary.
+Who is the recipient of your personal data?
+The recipient of your personal data, i.e. an external entity that will be able to participate in the processing of your data, will be our trusted subcontractors - IT service providers in the field of data hosting and business mail services, and in the event of concluding a contract and placing an order by you, they will also be entities whose activities are ancillary to our activities, including in particular entities providing accounting, legal, auditing and consulting services.
+Other relevant information
+Your data will not be processed outside the European Economic Area.
+What are your rights?
+You have the right to withdraw your consent at any time and your other rights are indicated in Part I of this Privacy Policy.
+Part III Subscribing to our e-newsletter
+Below we present the principles of personal data processing that apply when you decide to subscribe to our newsletter on press.omnicalculator.com.
+Purpose and lawful basis for processing
+Our purpose for collecting the information is so we can provide you with a service and let you know about upcoming events and news.
+The lawful basis we rely on for processing your personal data is your consent under article 6(1)(a) of the GDPR.
+What we need?
+Your email address.
+Why we need it?
+We use your email address to send you our E-newsletter.
+What we do with it?
+We only use your details to provide the service.
+How long we keep it?
+Unless you withdraw your consent. In the event of withdrawal of consent, the relevant data will be deleted immediately.
+Who is the recipient of your personal data?
+The recipient of your personal data, i.e. an external entity that will be able to participate in the processing of your data, will be our trusted subcontractors - IT service providers in the field of data hosting and business mail services. In order to send our newsletter, we will use the Prowly (Semrush) - tool of Prowly.com Sp. z o.o..
+Other relevant information
+We don’t process your data outside the European Economic Area on our own, but we use the tool of Prowly.com Sp. z o.o. This company is based in Poland and cooperates with service providers which are based in countries outside. These countries may have data protection laws less stringent than or otherwise different from the laws in effect in the country in which you are located. We have taken measures to protect your personal data where it is processed and your rights as a data subject , including through the use of Standard Contractual Clauses approved by the European Commission.
+What are your rights?
+Your rights are indicated in Part I of this Privacy Policy.
+Part IV Getting ebook and subscribing to our e-newsletter for journalists
+Below we present the principles of personal data processing that apply when you, as a journalist want to sign up for our free journalist guide in ebook form on omnicalculator.com/journalist-numbers-guide.
+Purpose and lawful basis for processing
+Our purpose for collecting the information is so we can provide you with our free ebook guide for journalists and to send you invitations to future virtual events and links to new calculators that'll make reporting easier.
+The lawful basis we rely on for processing your personal data is your consent under article 6(1)(a) of the GDPR.
+What we need?
+Your email address.
+*
+Why we need it?
+We use your email address to send you our free e-book guide for journalists, invitations to future virtual events and links to new calculators.
+What we do with it?
+We only use your details to provide the service.
+How long we keep it?
+Unless you withdraw your consent. In the event of withdrawal of consent, the relevant data will be deleted immediately.
+Who is the recipient of your personal data?
+The recipient of your personal data, i.e. an external entity that will be able to participate in the processing of your data, will be our trusted subcontractors - IT service providers in the field of data hosting and business mail services. In order to send you invitations to future virtual events and links to new calculators, we will use the Prowly (Semrush) tool.
+Other relevant information
+We don’t process your data outside the European Economic Area on our own, but we use the tool of Prowly.com Sp. z o.o. This company is based in Poland and cooperates with service providers which are based in countries outside. These countries may have data protection laws less stringent than or otherwise different from the laws in effect in the country in which you are located. We have taken measures to protect your personal data where it is processed and your rights as a data subject , including through the use of Standard Contractual Clauses approved by the European Commission.
+What are your rights?
+Your rights are indicated in Part I of this Privacy Policy.
+Part V Data processing as part of our marketing activities
+Below we present the principles of personal data processing that apply when you use and communicate with us using our profiles on Facebook, LinkedIn and Twitter social networking sites (referred to as "fan pages"). We publish on our fan pages on a regular basis and share the content, offers and recommendations of our products and services.
+For what purpose is your data processed?
+We process your data only in connection with maintaining our profiles in social media, including to inform you about our activity and to promote various types of events, services and products, as well as to communicate with you via functionalities available in social media.
+Remember that social network controllers record your activity using cookies and other similar technologies every time you interact with our fan pages and other websites on Facebook, LinkedIn, YouTube and Twitter. Fan page controllers have access to general statistics about your (as a fan page visitor) interests and demographic data (such as age, gender, region). As part of the use of social networking sites, the scope and purposes of data processing in social networking sites have been defined by the controllers of these sites.
+On what legal basis do we process your data?
+The legal basis for the processing of your personal data is:
+our legitimate interest (Article 6(1)(f) of the GDPR) consisting in promoting our own brand and building and maintaining a community associated with the brand;
+Your consent to the creation of data for website statistics on Facebook, YouTube, LinkedIn or Twitter (Article 6(1)(a) of the GDPR).
+How long do we process your data?
+We will process your personal data for as long as it is necessary to achieve the purposes described in this Privacy Policy, in particular to fulfill our contractual and statutory obligations, unless you withdraw your consent to the processing of your data earlier.
+Facebook, Twitter, YouTube and LinkedIn process your data when using our fanpages for their own purposes, not covered by this Privacy Policy. We have no influence on the activities of these websites related to the aforementioned data processing. In this regard, we refer to the privacy policies of individual social networking sites:
+Facebook
+Data Policy.
+Twitter
+Data Policy.
+YouTube
+Data Policy.
+LinkedIn
+Data Policy.
+Who is the recipient of your personal data?
+The recipient of your personal data, i.e. an external entity that will be able to participate in the processing of your data, will be our trusted subcontractors - IT service providers in the field of data hosting and business mail services; Facebook Ireland Ltd., 4 Grand Canal Square, Dublin 2, Ireland administering Facebook social network, Google Ireland, Gordon House, Barrow Street, Dublin 4, Ireland, administering YouTube; Twitter International Company, Cumberland Place, Fenian Street Dublin 2, D02 AX07 Ireland administering Twitter social network, LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Ireland administering LinkedIn social network.
+The nature of providing the data
+When you connect with our fan pages - your personal data - including IP address, other identifiers and other information are collected via cookies or other similar technologies.
+As part of using our fan pages, the scope and purposes of data processing on social networking sites are determined by the controllers of these sites.
+What rights do you have?
+Your rights are indicated in Part I of this Privacy Policy.
+Part VI Data processing during recruitment process
+The following information applies to the person we reach using the data sent to us in the contact form, via external recruitment services or to the e-mail address, for recruitment purposes, aimed at starting cooperation.
+We collect information, including your personal data, so that we can contact you and carry out the recruitment process.
+Purpose and lawful basis for processing
+Our purpose for processing this information is to assess your suitability for a role you have applied for and to help us develop and improve our recruitment process.
+The lawful basis for processing your personal data is the necessity perform a contract or to take steps at your request, before entering a contract.
+If you provide us more data than it is required to fulfill the purpose of the processing the lawful basis for processing is your consent expressed by providing us with additional data.
+The lawful basis for processing your personal data for the purpose of future recruitment processes is your consent expressed by selecting the optional checkbox. What will we do with the information you give us?
+We’ll use all the information you provide during the recruitment process to progress your application with a view to offering you an employment contract with us, or to fulfil legal requirements if necessary.
+We will not share any of the information you provide with any third parties for marketing purposes.
+We’ll use the contact details you give us to contact you to progress your application. We may also contact you to request your feedback about our recruitment process. We’ll use the other information you provide to assess your suitability for the role.
+Who is the recipient of your personal data?
+The recipient of your personal data, i.e. an external entity that participates in the processing of your data, will be our trusted subcontractors - IT service providers in the field of data hosting and business mail services, recruitment platforms through which we recruit (such as:JustJoinIT; NoFluff Jobs, Rocket Jobs, Linkedin, etc.) and recruitment companies which participate in the recruitment process.
+What information do we ask for, and why?
+We do not collect more information than we need to fulfil our stated purposes and will not keep it longer than necessary. We will ask for your e-mail address, and if you use the contact form, we will need your name, surname and e-mail address. Providing a telephone number is not mandatory, but it can speed up the recruitment process.
+The information we ask for is used to assess your suitability for employment. You don’t have to provide what we ask for but it may affect your application if you don’t.
+We will use any feedback you provide about our recruitment process to develop and improve our future recruitment campaigns.
+How long do we process your data?
+Most of our advertisements concern positions for which we are constantly recruiting. The selection of a given candidate does not close the recruitment process. In these cases, we process your personal data for the time necessary to select the best candidate, but no longer than 12 months from receiving your application.
+If you give your voluntary consent to the processing of your personal data in order to participate in future recruitment processes, we will process your data no longer than until it is withdrawn. You can withdraw your consent by sending us a message to the following address:
+privacy@omnicalculator.com
+. How we make decisions about recruitment?
+Final recruitment decisions are made by hiring managers and members of our recruitment team. We take account of all the information gathered during the application process.
+What rights do you have?
+As an individual, you have certain rights regarding your own personal data. They are specified in Part 1 of Privacy Policy.
+Cookies policy
+What are cookies and other similar technologies?
+A cookie is a text file saved by a web server on your computer or mobile device. Its content can only be downloaded and read by the server that created the file. Cookies are unique to your browser or mobile application you are using. The content of a cookie often consists of identifiers, website names and sequences of numbers and letters.
+Essential cookies
+What are essential cookies and can I reject them?
+These cookies are necessary for the website to function and cannot be disabled without affecting your use of this website. These cookies are usually only placed in response to specific actions taken by the user on the website. We use these cookies because we believe it is in our legitimate interest and also our users to allow this website to function properly.
+Why do we use essential cookies?
+We usually use these files to perform a specific function of the website, e.g. remembering the user's acceptance of the content of the Privacy Policy.
+What data is collected and used by essential cookies?
+Essential cookies do not collect or use personal information.
+How long do we keep this data?
+Strictly essential cookies are usually session cookies which only store data for the duration of the user's visit on the website, but if the cookie supports remembering your acceptance of the Privacy Policy, the data is retained longer to remember you during subsequent visits.
+Analytical cookies
+What are analytics cookies and can I reject them?
+Also known as "performance cookies", "measurement cookies" or "statistical cookies", these cookies allow us to count visits and traffic sources so that we can measure and improve the performance of our site. They help us know which pages are the most and least popular and see how users navigate the site.
+We use cookies to understand how users interact with our site, for example to see if users are leaving certain pages or experiencing problems on them. We use cookies because we have a legitimate interest in monitoring website activity and its performance. You can reject these cookies by changing your cookie settings.
+Why do we use analytical cookies?
+We use analytical cookies to enable measurement and analysis. These cookies allow us to obtain, among others, the following information:
+what websites users visit before getting on our website, for example whether users came directly to our website;
+which pages on our website are the most and least popular, how much time users spend on each page and on each part of the page, what links and buttons they click;
+what device users use to visit our website, e.g. information about the brand and model, which browser and operating system users use.
+What data is collected and used by analytical cookies?
+Cookies usually only store a coded identifier. We are unable to identify you. However, this ID is a link to Google's analytics servers, allowing Google to create a profile of how the user uses the site. Browser data is also processed as a result of reading the cookie file, including technical data of the device used to access the website and its location.
+We do not collect any personal information through statistical cookies. We generally only receive aggregated data about users of our website. However, Google processes your personal data in order to provide us with these aggregated statistics. In addition, since other websites also use Google Analytics, Google not only has a profile of how you use our website, but also how you use the many other websites which also use Google Analytics. Google may also associate cookie information with your account information if you are logged into your Google Account while browsing to create an even more detailed profile about you. To find out more about how Google processes your personal data, please refer to the Google Privacy Policy.
+How long do we keep this data?
+The period of storage of analytical files, depending on the country and the purpose of the cookie, may be up to 24 months. For example, some cookies are only stored on your device when you visit the website. Some cookies store information for 24 hours to remember you as a unique visitor to the site on that day. Others can be stored for up to 24 months.
+Advertising cookies
+*
+These cookies are placed by our advertising partners. They are used to build a profile of your interests, to show you relevant adverts on other sites, and to enable you to like and share our content on social media. They do not directly store personal data, but work based on the ability to uniquely identify the browser and device that the user uses to browse the Internet. In addition, other companies that place these cookies may associate users’ personal information with the pages users view if they are logged into their services while browsing.
+Cookies used on our website
+You can see and change your cookie settings on our website here.
+How can I change cookie settings?
+You can find out more about how to manage cookies in different browsers, here:
+Google Chrome
+Microsoft Edge
+Mozilla Firefox
+Microsoft Internet Explorer
+Opera
+Apple Safari
+If you do not want Google Analytics cookies to be installed on your device, please visit:
+http://tools.google.com/dlpage/gaoptout
+.
+Information on Local Storage
+What is local storage technology?
+Local storage is a local data storage mechanism, similar to cookies, that allows us to save and access information on your device through the browser. It enables the storage of persistent data, which remains available even after the browser is closed, to provide you with a more optimized experience while using our site. Data stored in local storage is accessible only to our website and is not automatically transmitted to the server.
+Why do we use local storage?
+Local storage items are fundamental to the basic operation of our website. This technology is essential for the proper functioning of the website. We may also use local storage technology for other reasons, e.g. marketing or analytical, provided that you give us your consent to such  use.
+What data is collected and used by local storage?
+The majority of data collected through local storage consists of non-personal information essential for the website's functionality. For any non-essential data, you will be asked to provide consent upon visiting our website, allowing us to utilize local storage on your device.
+There are no plans to transfer this data and process it to another place but the user device itself. Upon your consent we may especially save information on the address of the page you have accessed and when this has happened. This information will be saved on your device with the use of local storage technology. Based on that information, upon your next visits on our websites we may reduce the number of advertsiments that you see on the page or we may show you an optional pop-up with survey on the use of our website. Please however note that we will not be able to identify the user based on the local storage data.
+How long do we keep this data?
+Local storage data is saved and stored on your device persistently. The informations will be stored until you remove it manually.
+Can I remove local storage?
+Yes, you can remove and modify your local storage preferences at any time. For your security and privacy, we recommend managing these settings directly in the browser. To remove local storage, delete data collected by this technology, or adjust your preferences, please follow the instructions of your browser’s provider. Below you can find the links to the information on local storage provided in regards to the most popular browsers:
+Google Chrome
+Safari
+Microsoft Edge
+Mozilla Firefox
+Terms and conditions
+Nature of Services.
+Via this Website Service Provider offers calculators in various science disciplines & areas of life. The calculators are only of informational and supportive nature. Service Provider does not guarantee in any manner that the results shown by the calculators are correct or can be used in any manner without prior verification. The calculators are not services designed as independent tools that may replace the consultation with a professional in certain area. Each result achieved with the use of a calculator should be verified and confirmed by a professional in certain area prior to its use.
+No warranty.
+All information, materials, services shared via the Website are not covered by any warranty as to their value, usefulness, completeness, completeness or usability. The use of the Website is at the User’s sole risk. The Service Provider is not liable for any physical and legal defects of the Website and its components and for the proper quality of them. The Service Provider is liable only for damages caused by the sole intentional fault of the Service Provider. The Service Provider's liability for lost profits is excluded.
+Liability for the operation of the Website.
+The Service Provider is not liable for technical problems or technical limitations occurring in the computer hardware, ICT system and telecommunications infrastructure that are used by the User, which prevent the User from using the Website. The Service Provider is also not liable for the unavailability of the Website. The Service Provider is entitled to suspend availability of the Website at any time, at its sole discretion.
+Copyrights note.
+All of the copyrights to the Website and its content belong solely to the Service Provider and are not transferred or licensed do the Users. Especially, the Users are not entitled to copy, disseminate, reproduce, retransmit or undertake any other actions towards the Website or its content. The Users are only entitled to use the Website and the services provided via Website in a manner indicated by the Service Provider on the Website.
+Personal data removal
+To remove your account on our website's services and delete all personal data linked to it, you may use our
+manage profile
+form. Alternatively, to request your account and personal data removal send an email from the address associated with your account or with your profile on third party social login (Facebook, Google, etc.) to
+deletemyaccount@omnicalculator.com
+, expressing your request. We will delete the information associated with your account, and notify you once the process is complete.
+Common ID Cookie
+This site uses cookies and similar tracking technologies such as the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and MacOS browsers. Users can opt out of the Common ID tracking cookie by clicking
+here
+.
+Advertising Privacy Settings
+FOR EU USERS ONLY: When you use our site, pre-selected companies may access and use certain information on your device and about your interests to serve ads or personalized content. You may revisit or change consent-choices at any time by clicking
+here
+.
+LiveRamp
+When you use our website, we share information that we collect from you, such as your email (in hashed form), IP address or information about your browser or operating system, with our identity partners/service providers, including LiveRamp Inc. LiveRamp returns an online identification code that we may store in our first-party cookie for our use in online and cross-channel advertising and it may be shared with advertising companies to enable interest-based and targeted advertising. To opt-out of this use, please click
+here
+.
+2. Omni Calculator Embed Policy
+This policy provides for terms and conditions of embedding our calculators on your website. The entity providing services is Omni Calculator sp. z o.o.,  with its seat at ul. Mazowiecka 72/46 30-019 Kraków, NIP: 6772386770, KRS: 0000545705, REGON: 360914592.
+This document is made available to Publishers free of charge on the Omni Calculator’s website before concluding the contract for Services described below.
+Embedding Omni Calculator tool on your website requires your (Publisher’s) previous consent for the following conditions:
+Services
+The Service provided under this policy consists in enabling you to embed any of the calculators provided by Omni Calculator on
+https://www.omnicalculator.com/
+on your website.
+Technical conditions for providing services
+Technical conditions that must be fulfilled in order to embed our calculator on your website are as follows:
+Logo Display:
+The Omni Calculator logo must be displayed on the embedded calculator.
+"Powered by Omni Calculator" Text:
+This text must be included near the calculator to cite Omni Calculator as the source.
+Do follow backlink Requirement:
+The backlink must be placed somewhere on your website, preferably within relevant content, and should use the main keyword as anchor text. For example, if embedding the "Calorie Deficit Calculator," the anchor text could be "calorie deficit calculator."
+Technical size requirements:
+400 px width
+Stick to default height
+Omni Calculator has the right to temporarily suspend the availability of the calculators in connection with the necessary maintenance work or to ensure the security of the data and in a manner that ensures the least nuisance for the Publisher and its users.
+Prohibition of providing unlawful content
+You are obliged to use the Services in a manner consistent with the law, morality and principles of social coexistence, also taking into account respect for personal rights, dignity and intellectual property rights of third parties. You are strictly prohibited from providing any unlawful content, unlimited in time and place.
+The rules for conclusion and termination of our contract
+Announcements  or other information about the Services displayed on the Website or constitute an invitation to negotiate the Agreement.
+In order to embed the calculator on your website you need to send us via e-mail a request with the information about your website (its description and purpose). The website must fulfill the above technical requirements, it must be must operate for a lawful purpose and must not infringe the rights of third parties. We reserve the right to cooperate with the selected website providers- at our discretion. Especially, Omni Calculator may make the conclusion of the contract dependent on meeting additional requirements in regards to the website or presentation of calculators on the website.
+The contract for Services is concluded once Omni Calculator confirms its conclusion and allows the embedding of the chosen calculator on your website. Omni Calculator will provide you with the necessary guidelines in order to embed the chosen calculator.
+The embedding of calculator is free of charge. Omni Calculator reserves the right to introduce charges for embedding or using calculators in the future.
+Both Publisher and Omni Calculator may terminate the contract for embedding the calculator at any time without providing a reason by sending the relevant statement via e-mail. In the event of termination the Publisher is obliged to remove the embedded calculator from its website within 7 business days. After the ineffective lapse of the 7 days term indicated above Omni Calculator will be entitled to disable the calculator used by the Publisher.
+The Publisher may terminate the contract with immediate effect and disable calculators in the event when Publisher breaches the provisions of this Policy or any additional rules communicated by Omni Calculator, especially in the event of providing unlawful content by the Publisher or failure to acquire user consents for data tracking.
+User Notification and Data Collection
+By embedding Omni Calculator on your website, you agree to inform your users that data tracking may occur. The data collected through our embedded calculators is non-personal, aggregated data, and it is used to improve the performance and user experience of our tools.
+Cookies we use on our calculator embeds: ab_client_id
+Consent for Data Tracking
+You are responsible for obtaining the necessary consents from your users regarding data tracking associated with the use of our calculators. These consents must be in compliance with applicable privacy laws (e.g., GDPR, CCPA). You must clearly disclose that data may be collected through the embedded calculator and ensure your users are aware of this tracking.
+Proof of Consent
+At our request, you agree to provide evidence that you have obtained the required consents from your users regarding data tracking and usage. Failure to provide proof of consent may result in the removal of the embed privileges.
+Liability and Indemnification
+If you fail to obtain the necessary consents from your users, you accept full responsibility for any legal consequences, including covering any fines or penalties imposed on Omni Calculator due to non-compliance. You also agree to indemnify and hold Omni Calculator harmless from any claims, damages, or liabilities arising from your failure to comply with this policy or applicable data protection laws.
+Omni Calculator is not responsible for technical problems or technical limitations occurring in the computer hardware, ICT system and telecommunications infrastructure that are used by the Publisher, which prevent the Publisher from embedding the calculators on its website. Omni Calculator is not liable for the unavailability of the Services due to force majeure.
+Copyrights
+The calculators contain content protected by copyright and intellectual property law, in particular copyrighted works. The Publisher is obliged to respect the intellectual property rights (including proprietary copyrights) of Omni Calculator and third parties. In particular, it is forbidden to copy and distribute the above-mentioned content, use it for commercial purposes and for presentation on other websites without the consent of the Service Provider.
+Complaints about Electronic Services
+Any complaints relating to this policy and the Services provided hereunder may be submitted in electronic form to the e-mail address:
+embed@omnicalculator.com
+Omni Calculator considers complaints within 14 days.
+Modifications to the Policy
+Omni Calculator reserves the right to modify this embed policy at any time, especially in the event of:
+a) changes in the scope and manner of providing the Services offered;
+b) ensuring the security of information that is obtained or processed;
+c) changes to generally applicable laws that affect the content of this document;
+d) the need to adapt the rules of Services to orders, judgments, provisions or guidelines resulting from the decision of the competent public administration body in the scope of operation by Omni Calculator or  a court decision applicable to the scope of the Omni Calculator’s activity affecting the mutual rights and obligations of the Parties;
+e) the need to correct obvious errors or typographical errors or to fill gaps or inaccuracies that cannot be removed as a result of the interpretation of the provisions contained therein;
+f) merger, division or transformation of Omni Calculator or change of other identification data of Omni Calculator indicated in this document (to the extent necessary to update such data);
+g) the occurrence of other, only important reasons.
+Information about the scope of changes to the Policy  and the date of entry into force of the changes will be made available to the Publisher via e-mail, no later than 2 weeks before the changes to the Terms and Conditions come into force.
+The changes come into force from the date indicated by Omni Calculator and are effective for Publishers who conclude the Agreement from the date of entry into force of the changes. The changes are also effective for Publishers who use the Service on the date of entry into force of the changes, if: the changes result in granting the Publisher new rights, impose new obligations on the Publisher, which may be charged to the Publisher only at the Publisher’s will, or have no significant impact on the Publisher’s rights and obligations of the client.
+If the amendment to the Policy results in imposing new obligations on the Publisher, the performance of which the Publisher may not opt ​​out of or limits the rights granted so far, especially in the event of introducing charges for Services, the Publisher is entitled to submit a statement of termination of the Agreement with effect at the end of the second full week counted from the date of receipt of the by the termination notice. In this case, the changes have no effect on the Publisher.
+By embedding an Omni Calculator on your website, you agree to abide by these terms and conditions.

@@ -1,0 +1,15 @@
+User-agent: Googlebot
+Allow: *.js
+Allow: *.css
+
+User-agent: Mediapartners-Google*
+Allow: /
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /tmp/
+
+Sitemap: https://alchetron.com/sitemap.xml
+Sitemap: https://alchetron.com/sitemap
+
+Host: https://alchetron.com

@@ -1,0 +1,15 @@
+user-agent: *
+disallow: /auth/jwt
+disallow: /optics/
+disallow: /tfe-logging
+disallow: /tfe-metrics
+disallow: /track-attribution
+disallow: /*?*date_from=
+
+user-agent: AdsBot-Google
+user-agent: AdsBot-Google-Mobile
+disallow: /auth/jwt
+disallow: /optics/
+disallow: /tfe-logging
+disallow: /tfe-metrics
+disallow: /track-attribution

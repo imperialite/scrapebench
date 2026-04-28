@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /
+Allow: /aaii/index.html
+Allow: /aaa/index.html
+Allow: /nea/index.html
+Allow: /rates/
+Allow: /bankac/securedoc/documentupload

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: */wyndham/nextgen
+Disallow: */wyndham-nextgen
+Sitemap: https://clubwyndham.wyndhamdestinations.com/sitemap.xml

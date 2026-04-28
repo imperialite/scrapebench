@@ -1,0 +1,12 @@
+User-Agent: *
+Sitemap: https://www.allstate.com/sitemap.xml
+Disallow: /_test*
+Disallow: /credit
+Disallow: /landingpages*
+Disallow: /qat*
+Disallow: /resources/allstate/attachments/pdf/etr0509.pdf
+Disallow: /resources/resourcetest
+Disallow: /staff-counsel*
+Disallow: /test*
+Disallow: /tests*
+Disallow: /api/

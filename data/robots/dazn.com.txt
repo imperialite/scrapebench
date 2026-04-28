@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /app/
+Disallow: /amp/
+Disallow: /highlight/
+
+Sitemap: https://www.dazn.com/sitemap.xml

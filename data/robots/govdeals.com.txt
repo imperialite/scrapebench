@@ -1,0 +1,8 @@
+User-agent: *
+Crawl-delay: 5
+Allow: /account/register
+Allow: /assets/images/
+Allow: /assets/i18n_cb/
+Disallow: /account/
+Disallow: /assets/
+Sitemap: https://www.govdeals.com/sitemap_gd.xml

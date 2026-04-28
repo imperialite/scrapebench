@@ -1,0 +1,12 @@
+User-Agent: * 
+Disallow: */search?Ntt=* 
+Disallow: /shop/gadgets/ 
+Disallow: /cartridges/FeaturesResultsList/ 
+Disallow: /search/ 
+Disallow: /*?Ns=price* 
+Disallow: /*?Ns=RATINGS* 
+Disallow: /*?Ns=product* 
+Disallow: /api/c/* 
+Disallow: */c/*/*z*z*z* 
+Allow: */c/*/*?*icid=* 
+Sitemap: https://shop.lululemon.com/sitemap.xml

@@ -1,0 +1,89 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /ad/827622/how-renault-groups-vehicle-development-merges-real-life-with-virtual-reality
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Allow: /ad/827622/how-renault-groups-vehicle-development-merges-real-life-with-virtual-reality
+Disallow: /
+
+User-agent: ChatGPT-User
+Allow: /ad/827622/how-renault-groups-vehicle-development-merges-real-life-with-virtual-reality
+Disallow: /
+
+User-agent: ClaudeBot
+Allow: /ad/827622/how-renault-groups-vehicle-development-merges-real-life-with-virtual-reality
+Disallow: /
+
+User-agent: Claude-Web
+Allow: /ad/827622/how-renault-groups-vehicle-development-merges-real-life-with-virtual-reality
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: Omgili
+Disallow: /
+
+User-agent: PerplexityBot
+Allow: /ad/827622/how-renault-groups-vehicle-development-merges-real-life-with-virtual-reality
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+User-agent: Googlebot-News
+Disallow: /ad
+Disallow: /sponsored
+
+User-agent: *
+Allow: /ad/827622/how-renault-groups-vehicle-development-merges-real-life-with-virtual-reality
+Disallow: /admin
+Disallow: /newfanshot
+Disallow: /users/*/replies
+Disallow: /users/*/comments
+Disallow: /login
+Disallow: /account
+Disallow: /auth/*
+Disallow: /chorus_auth
+Disallow: /sso
+Disallow: /search
+Disallow: /the-highlight$
+
+User-agent: *
+Disallow: /share$
+Disallow: /share/*
+Disallow: /share?*
+
+# Google news sitemap
+Sitemap: https://www.bleedinggreennation.com/sitemaps/google_news
+
+# Sitemap archive
+Sitemap: https://www.bleedinggreennation.com/sitemaps

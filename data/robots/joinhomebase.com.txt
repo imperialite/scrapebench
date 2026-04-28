@@ -1,0 +1,37 @@
+User-agent: *
+Disallow: *?replytocom
+Disallow: /trackback/
+Disallow: /cgi-bin/
+Disallow: /recommended/
+Disallow: */comments/
+Disallow: /comments/
+Disallow: /trackback/
+Disallow: */trackback/
+Disallow: /xmlrpc.php
+Disallow: /wp-login.php
+Disallow: /wp-signup.php
+Disallow: /wp-admin/
+
+
+#WP Import Export Rule
+User-agent: *
+Disallow: /wp-content/uploads/wp-import-export-lite/
+
+# Delay bytedance crawlers
+User-agent: bytespider | byte spider | bytedance | bytedance
+User-agent: bytespider
+User-agent: byte spider
+User-agent: bytedance
+Crawl-delay: 300
+
+# Delay curl requests
+User-agent: curl | Curl
+Disallow: /
+
+# Allow agentic-AI users
+User-agent: Claude-User
+User-agent: ChatGPT-User
+User-agent: Perplexity-User
+Disallow:
+
+Sitemap: https://www.joinhomebase.com/sitemap.xml

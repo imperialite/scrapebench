@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /m/*/pictures
+Disallow: /tv/*/pictures
+Disallow: /search
+Disallow: /critics/self-submission/
+Sitemap: https://www.rottentomatoes.com/sitemaps/sitemap.xml

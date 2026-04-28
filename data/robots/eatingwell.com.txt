@@ -1,0 +1,98 @@
+User-agent: *
+
+Disallow: *.pdf
+Disallow: /embed?
+Disallow: /node*
+Disallow: /?q=node
+Disallow: /?q=node/
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=filter/tips/
+Disallow: /?q=node/add/
+Disallow: /?q=search/
+Disallow: /?q=user/password/
+Disallow: /?q=user/register/
+Disallow: /?q=user/login/
+Disallow: /?q=user/logout/
+Disallow: /embed
+Disallow: /oembed
+Disallow: /dyn/
+Disallow: /labs/
+Disallow: /order/
+Disallow: /child/
+Disallow: /photos/
+Disallow: /common/
+Disallow: /content/
+Disallow: /private/
+Disallow: /premium/
+Disallow: /partner/
+Disallow: /templates/
+Disallow: /community/kudos/
+Disallow: /community/user/
+Disallow: /templatedata/
+Disallow: /videos/theme/
+Disallow: /videos/widgets/
+Disallow: /go?
+Disallow: /nutrition-search-result
+
+User-agent: Pinterest
+Disallow:
+
+User-agent: Pinterestbot
+Disallow:
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /thmb/
+
+User-agent: OAI-SearchBot
+Disallow: /thmb/
+
+User-agent: GPTBot
+Disallow: /thmb/
+
+User-agent: news-please
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: FriendlyCrawler
+Disallow: /
+
+User-agent: Quora-Bot
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Perplexity-User
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+
+Sitemap: https://www.eatingwell.com/sitemap.xml
+
+Sitemap: https://www.eatingwell.com/google-news-sitemap.xml

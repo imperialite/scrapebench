@@ -1,0 +1,78 @@
+# We allow everything from the root
+# and then set noindex on our backends for paths that we want to Disallow
+# to prevent this list from being too complex and long
+
+User-agent: Applebot
+Allow: /
+
+User-agent: baiduspider
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Discordbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Google-InspectionTool
+Allow: /
+
+User-agent: ia_archiver
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+User-agent: Naverbot
+Allow: /
+
+User-agent: Screaming Frog SEO Spider
+Allow: /
+
+User-agent: seznambot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: teoma
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: SnapchatAdsBot
+Allow: /
+
+User-agent: SemrushBot
+Allow: /
+
+User-agent: Pinterestbot
+Allow: /
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://link.me/sitemap.xml
+Sitemap: https://link.me/users-sitemap.xml

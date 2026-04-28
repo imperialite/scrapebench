@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /us/search.aspx
+
+User-agent: grapeshot
+Disallow:
+
+Sitemap: https://www.astrology.com/sitemap.xml
+
+Sitemap: https://www.astrology.com/sitemap-news.xml

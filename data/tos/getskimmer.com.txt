@@ -1,0 +1,229 @@
+Pool Service Software - Terms of Service
+Terms of Service
+Pool Service Software App TOS | Skimmer
+Revised: September 16, 2025
+1. ACCEPTANCE OF TERMS
+‍
+Skimmer, Inc. (“
+Skimmer
+”) provides technology-enabled services, including the Software as a Service offering branded as Skimmer, the website at
+https://www.getskimmer.com
+, any Mobile Apps (as defined below), and other related software, content, and services, including all versions and upgrades thereto (collectively, the “
+Services
+”).  Your use of the Services is subject to and governed by the terms and conditions in this Terms of Service (“
+TOS
+”). Skimmer may, at its discretion, update this TOS at any time. You can access and review the most current version of this TOS at the URL for this page or by clicking on the “Terms of Service” link within the Services, or as otherwise made available by Skimmer.
+PLEASE REVIEW THIS TOS CAREFULLY. BY REGISTERING FOR AN ACCOUNT  OR OTHERWISE ACCESSING OR USING THE SERVICES, YOU AGREE TO BE BOUND BY THIS TOS, INCLUDING ANY UPDATES OR REVISIONS POSTED HERE OR OTHERWISE COMMUNICATED TO YOU. IF YOU DO NOT AGREE WITH THE TERMS AND CONDITIONS OF THIS TOS, YOU MAY NOT ACCESS OR USE THE SERVICES.
+THIS TOS REQUIRES FINAL AND BINDING ARBITRATION TO RESOLVE ANY DISPUTE OR CLAIM ARISING OUT OF OR RELATING IN ANY WAY TO THIS TOS, OR YOUR ACCESS TO OR USE OF THE SERVICES
+, INCLUDING THE VALIDITY, APPLICABILITY OR INTERPRETATION OF THIS TOS, AND YOU AGREE THAT ANY SUCH CLAIM WILL BE RESOLVED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS, CONSOLIDATED OR REPRESENTATIVE ACTION, ARBITRATION OR OTHER SIMILAR PROCESS. PLEASE REVIEW SECTION 15 CAREFULLY TO UNDERSTAND YOUR RIGHTS AND OBLIGATIONS WITH RESPECT TO THE RESOLUTION OF ANY CLAIM.
+You represent and warrant that you: (a) are of legal age to form a binding contract; (b) have the right, authority, and capacity to agree to and abide by this TOS; and (c) are not a person barred from using the Services under the laws of any applicable jurisdiction. THE SERVICES ARE NOT INTENDED FOR USERS UNDER THE AGE OF 13, AND SUCH USERS ARE EXPRESSLY PROHIBITED FROM SUBMITTING ANY PERSONAL DATA OR USING ANY ASPECT OF THE SERVICES, AND BY TAKING SUCH ACTIONS YOU AGREE, REPRESENT, AND WARRANT THAT YOU ARE 13 YEARS OF AGE OR OLDER.
+2. RIGHTS
+‍
+(a)
+Grant
+. Subject to and conditioned on your compliance with this TOS, Skimmer hereby grants you a personal, non-exclusive, non-transferable, non-sublicensable, revocable license solely to use the Services only for your personal, non-commercial use. Your access to and use of the Services must further comply in all material respects with all usage guidelines posted by Skimmer.
+(b)
+Mobile Apps
+. Skimmer may make available mobile software applications, including without limitation Skimmer Pro, for access to and use of certain components of the Services (collectively, “
+Mobile Apps
+”). Your access to and use of Mobile Apps is subject to and governed by this TOS. If any Mobile App is downloaded by you from the iTunes App Store (each, an “
+iOS Mobile App
+”) or other app store provider, your use of such iOS Mobile App or other app is further subject to your compliance in all material respects with the terms and conditions of the Usage Rules set forth in the iTunes App Store Terms of Service or other app store provider’s terms of service, as applicable. This TOS is between you and Skimmer only, and not with Apple Inc. (“
+Apple
+”) or any other app store provider, and Apple or such other app store provider is not responsible for iOS Mobile Apps or such other Mobile Apps and the contents thereof; however, Apple and Apple’s (or such other app store provider and its)  subsidiaries are third-party beneficiaries of this TOS with respect to iOS Mobile Apps or Mobile Apps, as applicable.
+(c)
+Trademarks
+. You may not use Skimmer or any of its names, brands, trademarks, service marks and logos that Skimmer makes available on the Services (“
+Marks
+”). Skimmer claims trademark protection over all such Marks and you will not use the Marks except as expressly authorized herein. You will not remove or alter the Marks or any proprietary notices on the Services. The Marks may not be included in or as part of any registered corporate name, any other logo, or service or product name.  You may not create any derivative works of the Marks or use the Marks in a manner that creates or reasonably implies an inaccurate sense of endorsement, sponsorship, or association with Skimmer.  You will not otherwise use business names or logos in a manner that can mislead, confuse, or deceive any third party. All use of the Marks and all goodwill arising out of such use, will inure to Skimmer’s benefit.
+3. PRIVACY POLICY
+‍
+(a) In addition to this TOS, the Skimmer
+Privacy Policy
+at
+https://www.getskimmer.com/home/privacy
+(“
+Privacy Policy
+”) applies to how Skimmer may process information provided as part of the Services. You acknowledge and agree that by accessing or using the Services, Skimmer may receive certain information about you, including personal information, as set forth in the Privacy Policy, and Skimmer may collect, use, disclose, store, share, and process such personal information in accordance with such Privacy Policy.
+(b) Notwithstanding the fact that you may be listed on a federal, state or other applicable “Do Not Call” list  or any current or prior election to opt in or opt out of receiving phone calls, emails, SMS or text messages, mail or other messaging from us, our agents, representatives, affiliates, anyone calling on our behalf or our service providers regarding the Services, you expressly consent to being contacted by us, our agents, representatives, affiliates, anyone calling on our behalf or our service providers for any and all purposes arising out of,  relating to or regarding the Services, at any telephone number you provide, or physical or electronic address you provide or at which you may be reached. You agree Skimmer may contact you in any way, including SMS messages (including text messages), calls using prerecorded messages or artificial voice, and calls and messages delivered using auto telephone dialing system or an automatic texting system. Automated messages may be played when the telephone is answered, whether by you or someone else. In the event that an agent or representative calls, he or she may also leave a message on your answering machine, voice mail, or send one via SMS or text.  You consent to receive SMS messages (including text messages), calls, messages (including prerecorded and artificial voice and autodialed) or other messaging from us, our agents, representatives, affiliates, anyone calling on our behalf or our service providers at the specific number(s) you have provided to Skimmer, or numbers Skimmer can reasonably associate with your account (through skip trace, caller ID capture or other means), with information or questions about the Service or the service or products offered by our service providers. You certify, warrant and represent that the telephone numbers that you have provided to Skimmer are your contact numbers. You represent that you are permitted to receive calls at each of the telephone numbers you have provided to Skimmer or to our service providers.  You agree to promptly alert Skimmer and our service providers whenever you stop using a particular telephone number.  Your cellular or mobile telephone provider will charge you according to the type of plan you carry. Skimmer may listen to and/or record phone calls between you and Skimmer’s representatives without notice to you as permitted by applicable law. For example, Skimmer listens to and records calls for quality monitoring purposes.
+4. PROPRIETARY RIGHTS
+‍
+(a) You grant Skimmer and its service providers a perpetual, irrevocable, worldwide, royalty-free, fully-paid-up, non-exclusive, sublicensable, transferable license to use, reproduce, modify, adapt, create derivative works from, publicly perform, publicly display, distribute, make and have made all content (in any form and any medium, whether now known or later developed) that you provide in connection with the Services. You acknowledge and agree that the technical processing and transmission of data associated with the Services, may require: (i) transmissions over various networks and across borders; and (ii) modifications to conform, connect, and adapt to technical requirements of networks or devices.
+(b) The Services provided to you hereunder or available to you through the Services are licensed, not sold, and Skimmer retains and reserves all rights not expressly granted in this TOS. You acknowledge and agree that, as between you and Skimmer, Skimmer and its licensors owns all rights, title and interest (including all intellectual property rights) in the Services and all data, content, and other materials within the Services. The Services are protected by U.S. and international copyright and other intellectual property laws and treaties. Skimmer reserves all rights not expressly granted to you in this TOS.
+(c) You may not share your account or password with anyone. You are fully responsible for all activities that occur under your account. You agree to notify Skimmer immediately of any unauthorized use of your account or password or any other similar breach of security. If your account remains inactive for three months or longer, Skimmer reserves the right to suspend or terminate your account, with or without notice to you, and delete your content all without liability.
+5. USER CONDUCT AND RESTRICTIONS
+‍
+(a) In your use of the Services, you will not:
+(i) use, reproduce, modify, adapt, create derivative works from, sublicense, publicly perform, publicly display, distribute, sell, lease, rent, make, have made, assign, pledge, transfer or otherwise grant rights to the Services, except as expressly permitted under this TOS;
+(ii) reverse engineer, disassemble, decompile, translate, or otherwise attempt to derive trade secrets, algorithms, or the source code, architectural framework, or data records, within or associated with the Services;
+(iii) interfere with or disrupt the integrity or performance of the Services, including by disrupting the ability of any other person to use or enjoy the Services;
+(iv) provide use of the Services on a service bureau, rental or managed services basis, provide or permit other individuals or entities to create Internet "links" to the Services or "frame" or "mirror" the Services on any other server, or wireless or Internet-based device;
+(v) access the Services for the purpose of developing, marketing, selling or distributing any product or service that competes with or includes features substantially similar to the Services;
+(vi) violate any applicable local, state, provincial, federal or international law or regulation, or use the Services for any illegal, unauthorized or otherwise improper purposes, including to store or transmit malicious code, or to store or transmit material in violation of third-party privacy rights;
+(vii) remove or obscure any proprietary notice that appears within the Services;
+(viii) impersonate any person or entity, including Skimmer personnel, or falsely state or otherwise misrepresent your affiliation with Skimmer, or any other entity or person;
+(ix) forge headers or otherwise manipulate identifiers in order to disguise the origin of any content transmitted through the Services;
+(x) take any action that imposes an unreasonable or disproportionately heavy load on the Services or its infrastructure;
+(xi) use spiders, crawlers, robots, scrapers, automated tools or any other similar means to access the Services; or download, reproduce, or archive any substantial portion of the Services;
+(xii) sign up for, negotiate a price for, use, or otherwise solicit a Professional Service with no intention of following through with your use of or payment for the Professional Service; or
+(xiii) attempt to indirectly undertake any of the foregoing.
+(b) You will not: upload, post, email, store, transmit, or otherwise make available any content that:
+(i) is illegal, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or otherwise objectionable;
+(ii) may not be made available under any law or under contractual or fiduciary relationships (such as confidential or proprietary information learned as part of an employment relationship or under a non-disclosure agreement);
+(iii) infringes any patent, trademark, trade secret, copyright, or other proprietary right of any party;
+(iv) consists of unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, commercial electronic messages, or any other form of solicitation;
+(v) contains software viruses or any other code, files or programs designed to interrupt, destroy or limit the functionality of any software or hardware;
+(vi) contains infringing, libelous, or otherwise unlawful or tortious material; or
+(vii) consists of information that you know or have reason to know is false or inaccurate.
+(c) Skimmer provides business-to-customer transactional communications as part of the Service. You are solely responsible for the content and legality of any communications you transmit, collect, or store through these features.
+(d) Skimmer’s failure to enforce any of these restrictions or guidelines shall not act as a waiver for any future enforcement, will not be considered a breach of this TOS by Skimmer, and does not create a private right of action for any other party.
+‍
+6. SUBSCRIPTION SERVICES; FEES
+‍
+Certain portions of the Services require a payment of fees for access and use (“
+Subscription Services
+”).  Subscription Fee means the monthly or annual fee for the Subscription Services published on our website from time to time or otherwise communicated to you at the time you register for Subscription Services which you will pay in accordance with this Section 6.  Skimmer may also offer “Optional Services” that are billed in addition to the Subscription Fee either via flat rate, usage, or combination thereof. Electing to enable “Optional Services” will appear as additional line items on monthly invoices after a subscriber has agreed to the terms and conditions. Skimmer may in its sole and absolute discretion change its Subscription Fees at any time. Skimmer may charge and/or retain Subscription Fees if you do not fulfill your contractual obligations under this TOS.  All payments will be made in United States dollars via (a) electric funds transfer, (b) credit card or (c) as otherwise required by Skimmer, as per the instructions of Skimmer. Skimmer may elect to use Stripe for payment, analytics and other business services.  In the event that Skimmer uses Stripe for payment, analytics or other business services, Stripe will collect identifying information about the devices that connect to its services.  Stripe uses this information to operate and improve the services it provides to Skimmer, including for fraud detection.  You can learn more about Stripe and read its privacy policy at
+https://stripe.com/privacy
+.
+7. FEEDBACK
+‍
+‍
+If you elect to provide or make available to Skimmer any suggestions, comments, ideas, improvements or other feedback relating to the Services (“
+Feedback
+”), Skimmer shall own and be free to use, reproduce, modify, adapt, create derivative works from, publicly perform, publicly display, distribute, make, have made, assign, pledge, transfer or otherwise grant rights in your Feedback in any form and any medium (whether now known or later developed), without credit or compensation to you.
+8. DEALINGS WITH ADVERTISERS AND OTHER THIRD PARTIES
+‍
+The Services may include or provide access to Professional Service Providers, third party products, services, content, or offerings, including advertising for such (“
+Third Party Services
+”).  You acknowledge that different terms of use and privacy policies may apply to your use of such Third Party Services and that terms and policies are solely between you and the advertiser or other third party. You agree that Skimmer does not endorse and is not responsible or liable for any issues related to Third Party Services.
+9. CREDIT CARD SURCHARGING
+‍
+You may have the option through your use of the Services to activate credit card surcharging. While Skimmer utilizes a third-party engine designed to support a merchant’s compliance with state regulations and payment network rules regarding surcharging, Skimmer is not responsible for ensuring that your use of any surcharging functionality offered as part of the Services complies with all applicable laws, regulations, and rules. If you choose to activate credit card surcharging, you remain solely responsible for ensuring that your use complies with all applicable laws, regulations and payment network requirements in the jurisdictions where you operate and Skimmer disclaims all responsibility and liability for your use of the surcharging feature. You acknowledge that each of Skimmer and the provider of the third-party engine is nota law firm and is not providing legal or other professional service or advice. You should consult with legal professionals for advice regarding your specific use of the surcharging feature and compliance with any applicable laws, regulations and payment network requirements in the jurisdictions where you operate.
+10. INDEMNIFICATION
+‍
+You shall indemnify and hold Skimmer and its affiliates, and each of their officers, directors, employees, agents, partners and licensors (collectively, “
+Skimmer Parties
+”) harmless from and against all losses, damages, costs, liabilities, and expenses, including reasonable attorneys’ fees, to extent resulting from or arising out of any third party claim, demand, or action due to (a) content you provide to Skimmer; (b) your violation of this TOS, any law, regulation or payment network rule (including, without limitation, any law, regulation or payment network rule governing surcharging or similar fees), or any rights (including intellectual property rights) of another party; (c) your use of the Services, except as expressly permitted in this TOS; (d) your interactions with any other user or (e) the request for, receipt of, offer for or provision of Professional Services by you, including but not limited to any injuries, losses, or damages (compensatory, direct, incidental, exemplary, punitive, consequential or otherwise) of any kind arising in connection with such Professional Services.
+11. DISCLAIMER OF WARRANTIES
+‍
+(a) YOUR USE OF THE SERVICES AND PROFESSIONAL SERVICES ARE AT YOUR SOLE RISK. THE SERVICES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITH ALL FAULTS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, SKIMMER PARTIES EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED OR ARISING FROM STATUTE, COURSE OF DEALING, USAGE OF TRADE OR OTHERWISE, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, QUALITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+(b) SKIMMER PARTIES MAKE NO WARRANTY, REPRESENTATION OR GUARANTESS THAT: (i) THE SERVICES OR PROFESSIONAL SERVICES WILL MEET YOUR REQUIREMENTS; (ii) ACCESS TO THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, VIRUS-FREE, OR ERROR-FREE; OR (iii) THE INFORMATION AND ANY RESULTS THAT MAY BE OBTAINED FROM ACCESS TO OR USE OF THE SERVICES WILL BE ACCURATE, RELIABLE, CURRENT, OR COMPLETE.
+(c) SKIMMER MAKES NOT WARRANTY, REPRESENTATION OR GUARANTEE WITH RESPECT TO SERVICES OFFERED BY THIRD-PARTY SERVICE PROVIDERS OR PROFESSIONAL SERVICE PROVIDERS AND SKIMMER SPECIFICALLY DISCLAIMS ANY WARRANTY, REPRESENTATION OR GUARANTEE WITH RESPECT TO THE QUALITY, SAFETY, LEGALITY OR OTHER CHARACTERISTICS OF SUCH SERVICES AND THE CONDUCT OF ANY THIRD-PARTY SERVICE PROVIDER OR PROFESSIONAL SERVICE PROVIDERS.
+(d) ALL CONTENT MADE AVAILABLE THROUGH THE SERVICES IS MADE AVAILABLE FOR INFORMATIONAL PURPOSES ONLY. YOU ARE SOLELY RESPONSIBLE FOR CONFIRMING THE ACCURACY OF ALL CONTENT BEFORE TAKING OR OMITTING ANY ACTION.
+(e) THIS DISCLAIMER OF WARRANTY MAY NOT BE VALID IN SOME JURISDICTIONS AND YOU MAY HAVE WARRANTY RIGHTS UNDER LAW WHICH MAY NOT BE WAIVED OR DISCLAIMED.  ANY SUCH WARRANTY EXTENDS ONLY FOR THIRTY (30) DAYS FROM THE EFFECTIVE DATE OF THIS AGREEMENT (UNLESS SUCH LAW PROVIDES OTHERWISE).
+12. LIMITATION OF LIABILITY
+‍
+(a) YOU ACKNOWLEDGE AND AGREE THAT, TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE ENTIRE RISK ARISING OUT OF YOUR ACCESS TO AND USE OF THE SERVICES AND CONTENT, YOUR OFFERING OR PROVIDING PROFESSIONAL SERVICES OR REQUESTING OR RECEIVING PROFESSIONAL SERVICES THROUGH THE SERVICEs, AND ANY CONTACT YOU HAVE WITH OTHER USERS OF SKIMMER OR THIRD PARTIES, WHETHER IN PERSON OR ONLINE, REMAINS WITH YOU.  SKIMMER PARTIES SHALL NOT BE LIABLE FOR ANY LOST PROFITS, LOSS OF DATA OR GOODWILL, OR COST OF COVER, OR FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES, INCLUDING DAMAGES ARISING FROM ANY TYPE OR MANNER OF COMMERCIAL, BUSINESS, OR FINANCIAL LOSS, EVEN IF SKIMMER PARTIES HAD ACTUAL OR CONSTRUCTIVE KNOWLEDGE OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF WHETHER SUCH DAMAGES WERE FORESEEABLE. IN NO EVENT SHALL SKIMMER PARTIES’ TOTAL LIABILITY TO YOU FOR ANY AND ALL CLAIMS ARISING FROM OR RELATING TO THIS TOS OR YOUR ACCESS TO OR USE OF (OR INABILITY TO ACCESS OR USE) THE SERVICES, PROFESSIONAL SERVICES OR CONTENT OR YOUR OFFERING OR PROVIDING PROFESSIONAL SERVICES OR REQUESTING OR RECEIVING PROFESSIONAL SERVICES THROUGH THE SERVICES EXCEED THE AMOUNT PAID BY YOU TO SKIMMER FOR ACCESS TO THE SERVICES WITHIN THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE DATE ON WHICH THE APPLICABLE CLAIM(S) AROSE.
+(b) THE FOREGOING LIMITATIONS, EXCLUSIONS AND DISCLAIMERS SHALL APPLY REGARDLESS OF WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, AND WHETHER OR NOT THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE.  INSOFAR AS APPLICABLE LAW PROHIBITS ANY LIMITATION ON LIABILITY HEREIN, THE PARTIES AGREE THAT SUCH LIMITATION WILL BE AUTOMATICALLY MODIFIED, BUT ONLY TO THE EXTENT SO AS TO MAKE THE LIMITATION COMPLIANT WITH APPLICABLE LAW.  THE PARTIES AGREE THAT THE LIMITATIONS ON LIABILITIES SET FORTH HEREIN ARE AGREED ALLOCATIONS OF RISK AND SUCH LIMITATIONS WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+13. SUSPENSION AND TERMINATION
+‍
+(a) Skimmer may terminate this TOS at any time.
+(b) If you violate this TOS, Skimmer may, with or without notice to you, immediately suspend or terminate your access and use of the Services.
+(c) Skimmer reserves the right at any time to modify, suspend, or discontinue the Services (or any portion thereof) with or without notice, and Skimmer shall not be liable to you or any third party for any such modification or discontinuance;
+(d) Upon termination of this TOS for any reason: (i) Skimmer, in its sole discretion, may remove and discard your content and information; (ii) you will immediate cease your use of the Services; and (iii) any provision that, by its terms, is intended to survive the expiration or termination of this TOS shall survive such expiration or termination.  Further, you agree that that Skimmer shall not be liable to you or any third party for any termination of your account or access to the Services.
+14. GOVERNING LAW
+‍
+This TOS shall be governed by and construed and enforced in accordance with the United States Federal Arbitration Act, other applicable federal laws and the laws of the State of Texas, without regard to conflict of laws principles. The parties agree that neither the United Nations Convention on Contracts for the International Sale of Goods, nor the Uniform Computer Information Transaction Act (UCITA) shall apply to this TOS, regardless of the states in which the parties do business or are incorporated.
+15. BINDING ARBITRATION AND CLASS ACTION WAIVER
+‍
+(a) ALL CLAIMS ARISING IN CONNECTION WITH THIS TOS SHALL BE RESOLVED BY FINAL AND BINDING ARBITRATION RATHER THAN IN COURT, EXCEPT THAT YOU MAY ASSERT CLAIMS IN SMALL CLAIMS COURT (DEFINED FOR THE PURPOSES OF THIS TOS AS A COURT OF LIMITED JURISDICTION THAT MAY ONLY HEAR CLAIMS NOT EXCEEDING $5,000) IF YOUR CLAIMS ARE WITHIN THE COURT’S JURISDICTION. THERE IS NO JUDGE OR JURY IN ARBITRATION, AND COURT REVIEW OF AN ARBITRATION AWARD IS LIMITED.
+(b) The arbitration shall be conducted by the American Arbitration Association (AAA) under its then-applicable Commercial Arbitration Rules or, as appropriate, its Consumer Arbitration Rules. The AAA’s rules are available at
+http://www.adr.org/
+. Payment of all filing, administration and arbitrator fees shall be governed by the AAA’s rules. The arbitration shall be conducted in the English language by a single independent and neutral arbitrator. For any hearing conducted in person as part of the arbitration, you agree that such hearing shall be conducted in Austin, Texas or, if the Consumer Arbitration Rules apply, another location reasonably convenient to both parties with due consideration of their ability to travel and other pertinent circumstances, as determined by the arbitrator. The decision of the arbitrator shall be final and binding. Judgment on the arbitral award may be entered in any court of competent jurisdiction.
+(c) WE EACH AGREE THAT ALL CLAIMS SHALL BE RESOLVED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS, CONSOLIDATED OR REPRESENTATIVE ACTION OR OTHER SIMILAR PROCESS (INCLUDING ARBITRATION). IF FOR ANY REASON A CLAIM PROCEEDS IN COURT RATHER THAN IN ARBITRATION, WE EACH WAIVE ANY RIGHT TO A JURY TRIAL AND AGREE THAT SUCH CLAIM SHALL BE BROUGHT ONLY IN A COURT OF COMPETENT JURISDICTION IN AUSTIN, TEXAS. YOU HEREBY SUBMIT TO THE PERSONAL JURISDICTION AND VENUE OF SUCH COURTS AND WAIVE ANY OBJECTION ON THE GROUNDS OF VENUE, FORUM NON-CONVENIENS OR ANY SIMILAR GROUNDS WITH RESPECT TO ANY SUCH CLAIM.
+(d) Notwithstanding anything to the contrary, you and Skimmer may seek injunctive relief and any other equitable remedies from any court of competent jurisdiction to protect its intellectual property rights, whether in aid of, pending, or independently of the resolution of any dispute pursuant to the arbitration procedures set forth in this Section 15.
+(e) If Skimmer implements any material change to this Section 15, such change shall not apply to any Claim for which you provided written notice to Skimmer before the implementation of the change.
+16. LEGAL COMPLIANCE
+‍
+You represent and warrant that you will comply with all applicable foreign, federal, state, and local laws, rules and regulations, as well as all rules and regulations of any payment networks, including without limitation, U.S. export laws and import and use laws of the country where the Services are accessed or used and you are not: (a) located in a country that is subject to a U.S. Government embargo, or designated by the U.S. Government as a “terrorist supporting” country; and (b) listed on any U.S. Government list of prohibited or restricted parties, including the Specially Designated Nationals List.
+17. U.S. GOVERNMENT ENTITIES
+‍
+This section applies to access to or use of the Services by a branch or agency of the United States Government. The Services includes “commercial computer software” and “commercial computer software documentation” as such terms are used in 48 C.F.R. 12.212 and qualifies as “commercial items” as defined in 48 C.F.R. 2.101. Such items are provided to the United States Government: (a) for acquisition by or on behalf of civilian agencies, consistent with the policy set forth in 48 C.F.R. 12.212; or (b) for acquisition by or on behalf of units of the Department of Defense, consistent with the policies set forth in 48 C.F.R. 227.7202-1 and 227.7202-3. The United States Government shall acquire only those rights set forth in this TOS with respect to the such items, and any access to or use of the Services by the United States Government constitutes: (i) agreement by the United States Government that that such items are “commercial computer software” and “commercial computer software documentation” as defined in this section; and (ii) acceptance of the rights and obligations herein.
+18. PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT
+‍
+If you believe that your work has been made available through the Services in a way that constitutes copyright infringement, please provide Skimmer’s Agent for Notice of Copyright Claims the following information: (a) a physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed; (b) a description of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works are covered by a single notification, a representative list of such works; (c) a description of the material that you claim is infringing and where that material may be accessed within the Services; (d) your address, telephone number and email address; (e) a statement by you that you have a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law; and (f) a statement from you that the information in the notification is accurate and, under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. If you believe in good faith that a notice of copyright infringement has been wrongly filed against you, please contact Skimmer’s Agent for Notice of Copyright Claims. Skimmer’s Agent for Notice of Copyright Claims can be reached as follows:
+Agent for Notice of Copyright Claims:
+The Law Office of Jack Nelson
+1410 Gaston Ave; Austin, TX 78703
+Email:
+copyright@getskimmer.com
+19. CALIFORNIA USERS & RESIDENTS
+‍
+In accordance with California Civil Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting such unit in writing at 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834, or by telephone at (800) 952-5210.
+20. GENERAL PROVISIONS
+‍
+This TOS constitutes the entire agreement between you and Skimmer concerning your access to and use of the Services. It supersedes all prior and contemporaneous oral or written negotiations and agreements between you and Skimmer with respect to such subject matter. In the event of any conflict between or among this TOS and any end user license agreement, privacy policy or usage guidelines to which this TOS refers, the terms and conditions of this TOS shall take precedence and govern.  This TOS may not be amended by you except in a writing executed by you and an authorized representative of Skimmer. Except as otherwise expressly provided in this TOS, there shall be no third-party beneficiaries to this TOS. For the purposes of this TOS, the words “such as,” “include,” “includes” and “including” shall be deemed to be followed by the words “without limitation.” You may not assign or delegate any right or obligation under this TOS without the prior written consent of Skimmer. The failure of Skimmer to exercise or enforce any right or provision of this TOS shall not constitute a waiver of such right or provision. If any provision of this TOS is held to be invalid or unenforceable under applicable law, then such provision shall be construed, limited, modified or, if necessary, severed to the extent necessary to eliminate its invalidity or unenforceability, without in any way affecting the remaining parts of this TOS. Any prevention of or delay in performance by Skimmer hereunder due to labor disputes, acts of god, failure of the Internet, governmental restrictions, enemy or hostile governmental action, fire or other casualty or other causes beyond its reasonable control shall excuse the performance of its obligations for a period equal to the duration of any such prevention or delay.
+Stripe Services Addendum | Skimmer
+Revised: October 26, 2022
+This Stripe Services Addendum (“Stripe Addendum”) is entered into between Skimmer, Inc. (“Skimmer”) and you (“you”). The Stripe Addendum supplements the Skimmer Terms of Service (“TOS”) and Privacy Policy (“Privacy Policy”) and is subject to the definitions, terms, and conditions set forth in the TOS. Should there be any conflict between the TOS and the Stripe Addendum, the Stripe Addendum will control with respect to the Stripe Services described below.
+1. Stripe Services; Account Set-Up
+By entering into this Stripe Addendum, you will be allowed to access through the Skimmer app the payment processing platform known as Stripe Connect provided by Stripe, Inc. (“Stripe”) so that you may accept payment cards and/or other electronic payments as may be supported by Stripe from time to time (“Stripe Services”). Before using Stripe’s Services, you must enter into a separate contract with Stripe, sometimes referred to as the Stripe Services Agreement and/or the Stripe Connected Account Agreement. The terms of that contract are available on
+Stripe’s website
+.
+2. Fees
+You agree to pay Skimmer the processing fees for facilitating access to the Stripe Services as set forth in your Skimmer account. These fees shall be subject to the same terms and conditions set forth in Section 6 of the TOS (including as it pertains to changes) and may be deducted from funds that would otherwise be settled to your account or added to your monthly invoices. None of the fees charged by Skimmer for facilitating your access to the Stripe Services excuse your payment of any other fees you have agreed to pay Skimmer. In addition, you must pay Skimmer directly for any liabilities associated with your payment processing activity (including, for example, chargebacks, refunds, or any assessments or fees imposed by Stripe or any applicable third party). However, should Stripe collect from Skimmer any liability associated with your processing activity—either at Stripe’s option, or because you failed or refused to pay Stripe—you agree unconditionally to indemnify and make Skimmer whole for any amounts Skimmer paid to Stripe arising out of or related to your payment processing activity, even if you contend that the amount is incorrect, disputed, or otherwise not due and payable to Stripe. If you have granted Skimmer or Stripe access to any of your bank accounts, you authorize Skimmer to debit the account(s) for any amounts Skimmer paid Stripe on your behalf or related to your processing activity. We reserve the right to change the processing fees at any time and will provide you with at least thirty (30) days’ notice via email or in your Skimmer account. If you continue to use Skimmer to process payments after such thirty (30) days, then you are deemed to have accepted the change in processing fees.
+3. Account Information
+You agree to provide Skimmer with accurate and complete information about you and your account. Further, and without limiting the authorizations contained in the Privacy Policy, you authorize Skimmer to (a) share your information with Stripe; and (b) access all information flowing through your account on Skimmer’s systems—including information flowing through your Stripe account that you will set up through Skimmer—for any legal purpose consistent with the parameters of the TOS and/or your use of the payment processing services provided by Stripe.
+4. Cardholder Data
+You agree to comply, and to cause any third-party having access to cardholder data to comply, with all applicable laws, regulations, and rules in connection with using Skimmer. Additionally, you agree to be compliant with the applicable Payment Card Industry Data Security Standards (“PCI-DSS”). You are solely responsible for any liability related to your use or handling of cardholder data.
+5. Disclaimer Of Warranties And Liability For Stripe Services
+Even though your access to Stripe Services is through Skimmer’s systems, Skimmer does not control Stripe’s technology or systems. Stripe is solely responsible for providing the Stripe Services through its own platform. WITHOUT LIMITING ANY OTHER DISCLAIMERS OR LIABILITY LIMITATIONS CONTAINED IN THE TOS, YOU AGREE THAT UNDER NO CIRCUMSTANCES WILL SKIMMER HAVE ANY LIABILITY TO YOU WHATSOEVER FOR ANY SERVICES OUTAGES, ERRORS, OMISSIONS, IRREGULARITIES, DISPUTES, CLAIMS, OR PROBLEMS OF ANY KIND OR NATURE THAT YOU MAY EXPERIENCE WITH THE STRIPE SERVICES. SKIMMER DOES NOT MAKE ANY WARRANTIES WHATSOEVER ABOUT STRIPE OR THE STRIPE SERVICES. Consequently, Skimmer’s promises in the TOS to provide Services will not extend to the Stripe Services. Likewise, Stripe does not control Skimmer’s service offerings, platform, or technology, and you agree that Stripe is not responsible for any issues solely arising out of or relating to your use of Skimmer’s systems or Services, separate and apart from the Stripe Services.
+6. Term; Account Migration
+This Stripe Addendum is subject to the provisions of Section 13 of the TOS regarding term and termination. In addition, you agree that if Skimmer ceases to do business with Stripe for any reason, you will cooperate with Skimmer in the transition of your merchant processing account to another processor of Skimmer’s reasonable election, and you authorize Skimmer to take the steps necessary to facilitate migration of your processing account to such processor. To the extent necessary to effect that migration, you appoint Skimmer as your agent and attorney in fact for the limited purpose of executing agreement(s) related to such migration on your behalf.
+Ready to simplify your pool business?
+Get Started for Free
+Book a Demo
+Sales
+(855) 452 - 1737
+sales@getskimmer.com
+Support
+(480) 718 - 2158
+support@getskimmer.com
+Solutions
+The Product
+Pricing
+Why Skimmer
+Resources
+By Value
+Get Organized
+Grow your Business
+Manage your Reputation
+Best Pool Service Software
+Business Stage
+Getting Started
+Scaling Up
+Enterprise
+Product
+Pool Service Software
+Back Office Features
+Technician Features
+Client Features
+Billing
+Company
+Community
+Contact Us
+Careers
+Pricing
+About Us
+Why Skimmer
+Partners
+Customer Reviews
+ROI Calculator
+Compare Skimmer
+Compare
+vs Pool Brain
+vs Paythepoolman
+vs Pool Office Manager
+vs ProValet
+vs Pool Service Software
+vs Jobber
+vs ServiceTitan
+Resources
+Blog
+Guides, Tools and Case Studies
+Webinars
+Tutorials
+Release Notes
+© 2026 Skimmer, LLC.  All Rights Reserved. | 728 Northwestern Avenue, B, Austin, Texas 78702, United States
+Terms Of Use
+Privacy Policy

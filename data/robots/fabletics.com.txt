@@ -1,0 +1,29 @@
+User-agent: Googlebot
+  Disallow: /dms*/
+  Disallow: /*?altoken=*
+  Disallow: /*?alkey=*
+  Disallow: /*?*&altoken=
+  Disallow: /*?*&alkey=
+
+  User-agent: Googlebot-image
+  Disallow:
+  
+  User-agent: MJ12bot
+  Crawl-delay: 5
+  
+  User-agent: Pinterestbot
+  Crawl-delay: 1
+  
+  User-Agent: SnapchatAdsBot
+  Crawl-delay: 5
+
+  User-agent: AhrefsBot
+  Crawl-delay: 5
+  Disallow: /api/gql
+
+  User-agent: AhrefsSiteAudit
+  Crawl-delay: 5
+  Disallow: /api/gql
+
+  User-agent: *
+  Sitemap: https://www.fabletics.com/sitemap.xml

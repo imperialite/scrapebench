@@ -1,0 +1,215 @@
+Use of this Web Site indicates that you accept its Terms of Use.
+Legal Information, Terms of Use and Conditions
+Privacy Policy
+Last Updated: June 19, 2024
+
+Introduction
+Books-A-Million, Inc., Booksamillion.com Inc., BAM Card Services, LLC, 2nd and Charles, American Wholesale Book Company, and Yogurt Mountain, LLC (collectively "The Company", "we", "us", and "our") are committed to protecting the privacy and security of the personal information we collect, use, share, and otherwise process from individuals who use, access or interact with our businesses. We also believe in transparency, and we are committed to informing you about how we treat your personal information. This Privacy Policy (the "Policy") will provide you with a comprehensive description of our online and offline practices regarding the collection, use, maintenance, protection, and/or disclosure of your personal information.
+
+PLEASE READ THIS POLICY CAREFULLY TO UNDERSTAND HOW WE TREAT YOUR PERSONAL INFORMATION AND WHAT CHOICES AND RIGHTS YOU HAVE IN THIS REGARD. IF YOU DO NOT AGREE WITH THE TERMS AND CONDITIONS OF THIS POLICY, YOU SHOULD NOT ACCESS OUR SITES OR ENGAGE IN COMMUNICATIONS WITH US CONCERNING OUR PRODUCTS OR SERVICES.
+
+BY DOWNLOADING, USING, ACCESSING, VISITING, OR REGISTERING WITH OUR SITES, BY SUBMITTING YOUR INFORMATION THROUGH THE SITES, OR BY ENGAGING IN ANY ONLINE OR OFFLINE COMMUNICATIONS WITH US CONCERNING OUR PRODUCTS OR SERVICES, YOU CONSENT TO THIS POLICY AND TO OUR COLLECTION AND SHARING OF YOUR INFORMATION IN ACCORDANCE WITH THE TERMS OF THIS POLICY.
+
+THE SITES ARE INTENDED FOR USERS LOCATED IN THE UNITED STATES AND THEY ARE NOT INTENDED FOR USERS LOCATED IN ANY OTHER COUNTRIES, INCLUDING THE EUROPEAN UNION AND THE EUROPEAN ECONOMIC AREA.
+
+What processing activities are covered?
+This Policy applies to personal information we collect when you:
+
+Visit our "Sites" which refers to our websites, mobile applications, platforms, online solutions, media, content, and/or other functionality made available by us with a link to this Policy. For the avoidance of doubt, the Sites include, without limitation:
+booksamillion.com
+2ndandcharles.com
+yogurtmountain.com
+autographedbooks.com
+Use our "Services" which includes electronic communications with The Company, including emails, telephone calls, social media messaging;
+Request information from The Company online via the Sites or make general inquiries to us including, without limitation, interactions with us offline at any of our physical locations and interactions with our email, social media, and/or marketing applications;
+Mobile Terms of Use - Click Here
+What personal information do we collect?
+Category	Types of Data and Purpose
+Contact Information	When you visit our Sites, register for programs or contests, or request our services, we may ask you for your name, address, telephone number, email address, or other contact details in order to respond or process your request or inquiry. This enables us to improve our relationship and communication with you and to offer you goods and services which may be of interest or benefit to you.
+Business Information	When you seek services from us in the course of contractual or customer relationships between you, your organization, and us, we collect business contact information, including your job title and company's name, and other personal information in order to provide you with the services you have requested. This information may also include transactional information such as purchase history, shipment history, electronic downloads, service selections, and information requests.
+User Account Information	When you create an account, we collect your contact information, other identity information (e.g. gender, date of birth, other demographic information), username, password, and other registration information. This information is necessary to provide you the account you have requested and to maintain the account and your profile. You may update your account information by editing the information associated with your account.
+Cookies and Similar Technologies	Please seek the Cookies and Similar Technologies section of this Policy below. If you choose to disable cookies and similar technologies, some areas of the Site may not work properly.
+Usage Data	When you visit our Sites, we automatically collect information from your browser or your mobile device, which includes the date and time of your visit, your Internet Protocol (IP) address or unique device identifier, domain server, your browser type, cookies and data about which pages you visit and how you use the Site in order to allow us to operate and provide the Site and our services. This information is used to understand how you interact with the Site and to provide you with advertising and a more personalized experience.
+Your Communications	When you communicate with us, including through information you provide through our online web forms when you contact us with questions, feedback, surveys, engage with us for customer support or customer service-related requests, or otherwise choose to provide to us when you correspond with us, we may retain your communications in order to process and respond to them, as well as to improve our services. We may use your email address to communicate with you about our products and services or send you periodic emails if you decide to opt-in to any of our mailing lists. If at any time you would like to unsubscribe from receiving future emails, you may unsubscribe using the link at the bottom of each email.
+Location Information	When you use the Sites, we may collect information about your location and use of the Sites, including your interaction with advertising and analytics services on the Sites, in order to (a) serve you the content and functionality you request, and (b) maintain the privacy and security of the Sites and services. Location information collected may include your Internet Protocol (IP) address and unique device identifier.
+Email Interconnectivity	If you receive email communications from us, we may use certain tools to capture data related to if/when you open our message and if/when you click on any links or banners it contains and make purchases. We use this information to enhance our marketing efforts.
+Sensitive Personal Information	We may collect information regarding your gender, driver's license or government identification number, and financial information. Any payment information for a product or service may be shared and/or stored by our payment processors. However, we do not store credit card numbers on any of our systems. We will collect this sensitive personal information with your express consent or as otherwise permitted or required by applicable law.
+Third Party Information	In addition to the information that we collect from you directly, we may also receive information about you from other sources, including third parties, business partners, our affiliates, or publicly available sources.
+Contact Us, Feedback, and Support Inquiries	If you choose to contact us via the Contact Us form on the Site, provide us with feedback, or ask us questions, we will collect your email address and the information that you choose to include in your message to us so that we can receive and respond to your request if needed. We may request that you provide additional information relevant to the support requested. This information helps us direct your request and respond more quickly to your needs.
+Employment Positions	If you apply for a job or become an employee, we may collect personal information necessary to process your application or employment. This may include, among other things, your contact information, your social security number, employment history, skills, and competencies. If you apply for employment through the Sites, we will not collect any employment information via the Site as any application information provided online is collected through one of our third-party service providers.
+Social Media Engagements	When you submit a survey, questionnaire, contest entry, or comment form by using the Sites or social media, or other online survey tools and platforms accessible via our Site, we or third parties who operate those tools, platforms, or social media websites may collect your social media handle or profile, or any other identifier that you use by which you may be contacted online or offline. Additionally, when you engage with any of the social media platforms under our management, or the management of our corporate subsidiaries and affiliates, we may collect and aggregate the personal information that is tied to your account (for example, your name, username, email address, and location) and your engagement with us, including all content, messages, and information that you provide to us. We aggregate and use the information collected to develop and improve our services and marketing efforts and to contact you about products and services that may be of interest to you.
+Order Placement	When you place an order with or purchase goods or services from us, we collect your name, shipping address, and contact details, shipping preferences, and phone number.
+Mailing List	When you sign up for one of our mailing lists, we collect your contact information, including your email address and postal address.
+Aggregated Data	We also collect, use, and share "Aggregated Data" such as statistical or demographic data for any purpose. Aggregated Data may be derived from your information, but once in aggregated form it will not constitute personal information for the purposes of applicable law as this data does not directly or indirectly reveal your identity. However, if we combine or connect Aggregated Data with your personal information so that it can directly or indirectly identify you, we treat the combined data as personal information which will be used in accordance with this Policy.
+Other Information	Other information that you voluntarily share with us to facilitate your use of our Sites and Services which is not specifically listed here. We will use such data in accordance with this Policy, as otherwise disclosed at the time of collection, in accordance with our agreement, or ot the extent necessary for performing the Services.
+How will we use your information?
+We collect and use the types of personal information listed above to improve your experiences on our Sites, to provide services to you, to inform you about products and services that you may find interesting, and to communicate with you about information you have requested. We may also use personal information to help target specific offers to you and help us develop and improve our Sites and services. Additionally, we may use your personal information in the following ways:
+
+To provide you with the services you have requested and to manage our relationship with you, including administering your account, processing payments, accounting, auditing, billing and collection, and taking other steps necessary to the performance of our business relationship with you;
+To present and improve the Sites' content and functionality;
+To personalize your experience (your information helps us to better respond to your individual needs);
+To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs);
+To respond to visitor, subscriber, and customer inquiries;
+To determine user interests, needs, and preferences;
+To provide notice of changes to the Websites or the services we offer to provide;
+To deliver services to you;
+To comply with your instructions;
+To conduct research and analysis;
+To manage and maintain the security of the Websites and our services;
+To administer a contest, promotion, survey or other feature;
+To market our products and services to you or to send you information about The Company, including our affiliates, or products or services that may be of interest to you, or to contact you when necessary. We will only provide you with marketing-related information after you have, where legally required to do so, opted in to receive those communications and having provided you with the opportunity to opt-out of such communications at any time;
+To comply with our legal compliance obligations, including maintaining records, performing compliance audits, etc.;/li>
+To exercise and defend our legal rights, or to comply with court orders;
+For any purpose related to and/or ancillary to any of the purposes and uses described in this Policy for which your personal information was provided to us;
+To send periodic email including information and updates. We may use your contact information to respond to your requests or inquiries. We may use your contact information to send you information about The Company, including our affiliates, our Websites, our products or services, and/or to contact you when necessary;
+In any other way we may describe when you provide the information;
+How we may share and disclose your personal information?
+When permitted by applicable law, we may share or disclose your information in the following contexts:
+
+Category	Disclosure Contexts
+Subsidiaries and Acquisitions	We may share your personal information with any corporate subsidiaries and affiliates, we have now or may have in the future, and with their respective officers, directors, employees, subcontractors, accountants, attorneys and agents. In addition, we may disclose your personal information in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our company assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by us about the Site's users is among the assets transferred. For example, if another company acquires us, we will share your personal information with that company.
+Public Areas	Some areas of our Sites or social media provide the opportunity to post comments, or reviews, in a public forum. If you decide to submit your personal information in these areas, you do so at your own risk and acknowledge that the information will be publicly available.
+Disclosures With Your Consent	We may ask if you would like us to share your personal information with other unaffiliated third parties who are not described elsewhere in this Policy. We will only disclose your personal information in this context with your consent.
+Legal Obligations and Rights	We may disclose your personal information in response to subpoenas, warrants, court orders or other legal process, or to comply with relevant laws. We may also share your personal information in order to establish or exercise our legal rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, or to protect the safety of The Company, our customers, or others.
+Third Parties	We may provide personal information about you to third parties that may offer products and services specifically requested by you.
+Service Providers	We may share your personal information with our service providers and other third parties that need access to your information to provide operational or other support services on our behalf. Among other things, service providers may help us to administer the Sites, support our provision of services; provide technical support; send marketing, promotions and communications to you about our services; and assist with other legitimate purposes permitted by law. Our service providers are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
+Aggregated Data	We may disclose aggregated information about our users, and information that does not identify any specific individual, such as groupings of demographic data and customer preferences, without restriction.
+Cookies and Similar Technologies
+Cookies
+A "cookie" is a small file created by a web server that can be stored on your device (if you allow) for use either during a particular browsing session (a "session" cookie) or a future browsing session (a "persistent" cookie). "Session" cookies are temporarily stored on your hard drive and only last until they expire at the end of your browsing session. "Permanent" cookies remain stored on your hard drive until they expire or are deleted by you. Local stored objects (or "flash" cookies) are used to collect and store information about your preferences and navigation to, from, and on a website. Our Sites use first-party cookies and third-party cookies. First-party cookies are set by the us. Third-party cookies are set by a party other than us, including advertisers, ad networks and servers, content providers, and application providers. Unless you set your browser to refuse cookies as described below, these third-parties may use cookies alone or including personal information about your online activities over time and across different websites and other online services. They may use this information to provide you with behavioral advertising or other targeted content. We do not control these third parties' tracking technologies or how they may be used. If you have any questions about targeted content, you should contact the responsible party directly or consult their privacy policies. Below is a list of the different types of cookies that we use on our Sites.
+
+Essential Cookies and Similar Technologies: Essential cookies and other similar technologies used by us enable you to navigate the Sites and use our services and features. Without these essential features, the Sites will not perform correctly, and we may not be able to provide the Sites to you or provide you with certain services or features of the Sites.
+
+Preference Cookies and Similar Technologies: Preference cookies collect information about your choices and preferences and allow us to remember language and other local settings and to customize our Sites accordingly.
+
+Social Media Cookies and Similar Technologies: Social Media cookies and other similar technologies used by us collect information about your use of social media websites and platforms.
+
+Analytics Cookies and Similar Technologies: Analytics cookies and similar technologies used by us collect information about your use of the Sites and enable us to improve the way they work and operate. Specifically, analytics cookies provide us with information regarding what the most frequently visited pages on the Sites are, help us record and debug any issues you may have with the Sites, and show us how effective our advertising is. These analytics cookies do not allow us to see the usage of a single user, but do allow us to see overall patterns of usages on the Sites.
+
+Advertising Cookies and Similar Technologies: Advertising cookies and similar technologies are used by us to display targeting promotions or advertisements based on your use of the Sites and interests and to manage our use of advertising resources. These cookies collect information about your activities on this and other Sites and help measure the effectiveness of our advertising campaigns. These cookies may also be used to deliver interest-based advertising. You can learn more about interest-based advertisements and your opt-out rights and options from members of the Network Advertising Initiative ("NAI") on its website (www.networkadvertising.org) and from members of the Digital Advertising Alliance on its website (www.aboutads.info). We do not control third parties' collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose to not have your information collected or used in this way. You can also opt-out of receiving targeted ads from members of the NAI on its website.
+
+Similar Technologies
+In addition to cookies, there are other automatic data collection technologies, such as Internet tags, web beacons (clear gifs, pixel tags, and single pixel gifs) and navigational data collection (log files, server logs, etc.) that we may use to collect data as users navigate through and interact with the Sites.:
+
+Web Beacons. These are tiny graphics (sometimes called "clear GIFs" or "web pixels") with unique identifiers that are used to understand browsing activity. In contrast to cookies, which are stored on a user's computer hard drive, web beacons are rendered invisible on web pages when you open a page.
+Social Widgets. These are buttons or icons provided by third-party social media providers that allow you to interact with social media services when you view a webpage or mobile app screen. These social widgets may collect browsing data, which may be received by the third party that provided the widget and are controlled by third parties.
+UTM Codes. These are strings that can appear in a URL (the "Uniform Resource Locator," which is typically the http or https address entered to go to a web page) when you move from one web page or website to another, where the string can represent information about browsing, such as which advertisement, page, or publisher sent the user to the receiving website.
+These technologies allow us to determine the effectiveness of our email, advertising, and marketing efforts. Particular third-party cookies or tracking technologies used on our Sites include, but are not limited to:
+
+Google Analytics: We may use Google Analytics to collect and process data about the number of people using the Sites and to better understand how they find and use the Sites. The data collected may include data related to your device/browser, your IP address, and on-site activities to measure and report statistics about user interactions on the Sites. The information stored is reduced to a random identifier and we have enabled restricted data processing for all Google services. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Any data collected is used in accordance with this Policy and Google's privacy policy. You may learn more about Google Analytics by visiting:
+
+https://www.google.com/policies/privacy/partners/ and https://support.google.com/analytics/answer/6004245
+
+You can learn more about Google's restrictions on data use by visiting the Google Privacy Policy at: https://www.google.com/policies/privacy. To opt-out of Google Analytics, visit https://tools.google.com/dlpage/gaoptout and install the opt-out browser add-on feature. For more details, visit the "Google Analytics opt-out browser add-on" page (located at https://support.google.com/analytics/answer/181881?hl=en).
+
+Facebook Pixel: We use Facebook Pixel to customize and display advertisements only to Facebook users who have shown an interest in our Sites or who have specific characteristics (e.g., certain demographics or interests in certain topics or products determined by websites visited) that we submit to Facebook. The use of Facebook Pixel helps ensure that our advertisements are in line with the potential interests of users and do not have a nuisance effect. Facebook Pixel also allows us to track the effectiveness of Facebook advertisements for statistical and market research purposes by seeing whether uses have been redirected to our Sites after clicking on a Facebook advertisement. The Facebook Pixel is directly integrated into our Sites by Facebook and can store a cookie on your device. The information collected about you is anonymous for us and Facebook's Limited Data Use settings have been enabled for applicable states. However, the information collected via the Facebook Pixel, on the Sites as well as other websites on which Facebook Pixel is installed, is also stored and processed by Facebook. Facebook may link this information to your Facebook account and also use it for its own promotional purposes in accordance with Facebook's Data Usage Policy.
+Choices About Cookies
+We provide you with choices regarding the personal information you provide to us, and we have created ways to give you control over our use of your information. Most web browsers are set by default to accept cookies. If you do not wish to receive cookies, you may set your browser to refuse all or some types of cookies or to alert you when cookies are being sent by website tracking technologies and advertising.
+
+If you decline the use of cookies, you may not have access to the full benefits of the Services. Further, your opt-out only applies to the web browser you use, so you must opt out of each web browser on each computer you use. Once you opt out, if you delete your browser's saved cookies, you will need to opt out again. In addition, adjusting the cookie settings on the services may not fully delete all of the cookies that have already been created. To delete them, visit your web browser settings after you have changed your cookie settings on the services.
+
+Additional information is provided below about how to disable cookies or manage the cookie settings for some of the leading web browsers (PLEASE NOTE: these third party links are provide for your convenience, and we may not actively monitor the content of these links):
+
+Google Chrome	https://support.google.com/chrome/answer/95647?hl=en
+Firefox	https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+Internet Explorer	http://windows.microsoft.com/en-GB/windows-vista/Block-or-allow-cookies
+Microsoft Edge	https://support.google.com/chrome/answer/95647?hl=en
+Safari; iOS	https://support.google.com/chrome/answer/95647?hl=en
+Adobe Flash Cookie	https://support.google.com/chrome/answer/95647?hl=en
+For more information on how to modify your browser settings to block or filter cookies, visit http://www.aboutcookies.org/ or http://www.cookiecentral.com/faq/
+
+Data Retention
+We will retain your personal information for an appropriate period of time as is necessary to fulfill the purposes for which it was collected, to comply with our business requirements and legal obligations, to resolve disputes, to protect our assets, to provide our services, to enforce our agreements, and other business or commercial purposes to the extent provided in this Policy.
+
+We take reasonable steps to delete the personal information we collect when (1) we have a legal obligation to do so; (2) we no longer have a purpose for retaining the information; or (3) if you ask us to delete your information, unless we determine that doing so would violate our existing, legitimate legal, regulatory, dispute resolution, contractual, or similar obligations. We may also decide to delete your personal information if we believe it is incomplete, inaccurate, or that our continued storage of your personal information is contrary to our legal obligations or business objectives. When we delete your personal information, it will be removed from our active servers and databases; but it may remain in our archives when it is not practical or possible to delete it. To the extent permitted by law, we may retain and use anonymous and aggregated information for performance reporting, benchmarking, and analytic purposes and for product and service improvement.
+
+Data Security
+We recognize the importance of safeguarding your personal information. We endeavor to maintain reasonable and appropriate security measures in place to protect the personal information that you share with us from being accidentally lost, used, altered, disclosed, or accessed in an unauthorized manner. From time to time, we review our security procedures to consider appropriate new technologies and methods.
+
+While our security measures seek to protect your personal information in our possession, no security system is perfect, and no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot guarantee or warrant the security of any information you transmit to or from our Sites, through social media, or by email communications, and you do so at your own risk. We cannot promise that your personal information will remain absolutely secure in all circumstances.
+
+The safety and security of your personal information also depends on you. Where you use a password for access to restricted parts of our Sites, you are responsible for keeping the password confidential. Do not share your password with anyone. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Sites.
+
+Your Choices to Control Your Information
+Please use the Contact Us details at the end of this Policy to exercise your rights and choices under this Policy. We honor such requests when we are required to do so under applicable law.
+
+Email Opt-Out. If you no longer wish to receive communications from us via email, you may opt-out by clicking the "unsubscribe" link available at the bottom of our communications or by contacting us at support@booksamillion.com and providing your full name, mailing address, phone number, and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action. Please note that registered users on the Sites cannot opt-out of receiving transaction emails related to their account.
+Updating Your Personal Information. Our goal is to keep your information accurate, current, and complete. If any of the personal information you have provided to us changes, please let us know. For instance, if your email address changes, you may wish to cancel any request you have made of us; or, if you become aware of inaccurate personal information about you, you may use the "Contact Us" details provided at the end of this Policy to update your information. You may also edit your account details if you have a user account through our Site. We are not responsible for any losses arising from any inaccurate, inauthentic, deficient, or incomplete personal data that you provide to us.
+Online Tracking
+We do not currently recognize browser settings or signals of tracking preferences, which may include "Do Not Track" instructions. "Do Not Track" is a web browser setting that seeks to disable the tracking of individual users' browsing activities. We adhere to the standards set out in this Policy and do not currently respond to "Do Not Track" signals on the Sites or on third-party websites or online services where we may collect information.
+
+California Residents
+If you are a California resident, California law may provide you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, visit the CCPA Privacy Notice for California residents here: California Privacy Policy
+
+Under California Civil Code Section 1798.83, California residents who provide personal information in obtaining products or services for personal, family, or household use may be entitled to request and obtain from us once a calendar year information about the information we shared, if any, with other businesses for direct marketing uses. At present, we do not share your personal information with third parties for those third parties' direct marketing purposes. Please be aware that not all information sharing is covered by the requirements and only information on covered sharing, if any, will be included in our response. As part of the California Online Privacy Protection Act, all users of the Site may make any changes to their information at any time by contacting us at support@booksamillion.com.
+
+Children's Online Privacy Protection Act Compliance
+The Children's Online Privacy Protection Act ("COPPA"), as well as other data privacy regulations, restrict the collection, use, or disclosure of personal information from and about children on the Internet. Our Site and services are not directed to children aged 18 or younger, nor is information knowingly collected from children under the age of 18. No one under the age of 18 may access, browse, or use the Sites or provide any information to or on the Sites without the consent of a parent or legal guardian. If you are under 18 years of age, please do not use or provide any information on the Sites (including, for example, your name, telephone number, email address, and username). If we learn that we have collected or received personal information from a child under the age of 18 without a parent's or legal guardian's consent, we will take steps to stop collecting that information and delete it. If you believe we might have any information from or about a child under the age of 18 without his/her parent's or legal guardian's consent, please contact us using the contact information provided below.
+
+For more information about COPPA, please visit the Federal Trade Commission's website at: https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule.
+
+Third-Party Sites
+This Policy is applicable only The Company and the specific processing activities defined in this Policy. It does not apply to any third-party websites.
+
+The Company's Sites may contain links to, and media and other content from, third-party websites. These links are to external websites and third parties with which we have no relationship. Because of the dynamic media capabilities of the Sites, it may not be clear to you which links are to the Sites and which are to external, third-party websites. If you click on an embedded third-party link, you will be redirected away from the Sites to the external third-party website. You can check the URL to confirm that you have left the Sites.
+
+We cannot and do not (i) guarantee the adequacy of the privacy and security practices employed by or the content and media provided by any third parties or their websites; (ii) control third parties' independent collection or use of your personal information; or (iii) endorse any third-party information, products, services, or websites that may be reached through embedded links on the Sites, social media, or email communications.
+
+Any personal information provided by you or automatically collected from you by a third-party will be governed by that third-party's privacy policy and terms of use. If you are unsure whether a website is controlled, affiliated, or managed by us, you should review the privacy policy and practices applicable to each linked website.
+
+Mobile Terms & Conditions
+Books-A-Million offers its customers marketing and promotional mobile alerts (e.g. cart reminders) by SMS message (the "Service") on 82609. Customers may also sign up to receive order and shipping notifications by SMS message (the "Service") on short code 47101. By participating in the Service, you are agreeing to these Terms and to the Privacy Policy.
+
+Signing Up and Opting-In to the Service
+Enrollment in the Service requires you to provide your mobile phone number and to agree to these terms and conditions. You may not enroll if you are under 18 years old. Before the Service will start, you will need to agree to these Terms. Books-A-Million reserves the right to stop offering the Service at any time with or without notice. Books-A-Million also reserves the right to change the short code or phone number from which messages are sent and we will notify you when we do so.
+
+By opting into the Service, you:
+
+Authorize Books-A-Million to use an automatic telephone dialing system to send recurring text messages, which may be automated, to the mobile phone number associated with your opt-in (i.e., the number listed on the opt-in form or, if none, the number from which you send the opt-in, or, if none, the number on file for the account associated with your opt-in).
+Acknowledge that you do not have to agree to receive messages as a condition of purchase.
+Confirm that you are the subscriber to the relevant phone number or that you are the customary user of that number on a family or business plan and that you are authorized to opt in.
+Consent to the use of an electronic record to document your opt-in. To request a free paper or email copy of the opt-in or to update our records with your contact information, email support@booksamillion.com or call 1-800-201-3550. To view and retain an electronic copy of these Terms or the rest of your opt-in, you will need (i) a device (such as a computer or mobile phone) with Internet access, and (ii) and either a printer or storage space on such device. For an email copy, you'll also need an email account you can access from the device, along with a browser or other software that can display the emails.
+Content You May Receive
+Once you affirm your choice to opt-in to the Service on 82609, your message frequency may vary based on your interactions and initiated texts. You may receive alerts about:
+
+Sale promotions
+Event information
+Product launch announcements
+Cart reminders
+Back in stock alerts
+Price drop alerts
+Low inventory alerts
+Once you affirm your choice to opt-in to the Service on short code 47101, your message frequency may vary. You may receive alerts about:
+
+An order has been placed
+An order has been shipped
+An order has been delivered
+Charges and Carriers
+Message and data rates may apply. Please consult your service agreement with your wireless carrier or contact your wireless carrier to determine your phone's pricing plan and the charges for sending and receiving text messages. You acknowledge that you are responsible for any message, data or other charges incurred (usage, subscription, etc.) as a result of using the Service.
+
+Supported carriers are AT&T, T-Mobile, Verizon Wireless, Sprint, Boost, Virgin Mobile, U.S. Cellular, Cricket, Alltel, Cincinnati Bell, Cellcom, C-Spire, nTelos, MetroPCS, and other smaller regional carriers. The Service may not be available on all wireless carriers. Books-A-Million may add or remove any wireless carrier from the Service at any time without notice. Books-A-Million and the mobile carriers are not responsible for any undue delays, failure of delivery, or errors in messages.
+
+To Stop the Service
+To stop receiving text messages from Books-A-Million, text the word STOP, QUIT, END, REVOKE, OPT OUT, CANCEL, or UNSUBSCRIBE to 82609 or 47101 any time or reply STOP, QUIT, END, REVOKE, OPT OUT, CANCEL, or UNSUBSCRIBE to any of the text messages you have received from Books-A-Million. You can also contact us at support@booksamillion.com. These are the exclusive methods for opting out. After opting out, you will receive one additional message confirming that your request has been processed.
+
+Questions
+You can text HELP for help at any time to 82609 or 47101. This will provide you with our customer support email address at support@booksamillion.com.
+
+Changes to Terms
+These Mobile Terms and Conditions are subject to change at any time without notice.
+
+Books-A-Million uses cookies to collect information around abandoned shopping carts. A cart is considered abandoned within one hour of inactivity/lack of purchase. Once the cart is considered abandoned, an SMS message will be sent as a reminder.
+
+Updates and Changes to this Policy
+We reserve the right, at any time and without notice, to add to, change, update, or modify this Policy to reflect any changes to the way in which we treat your personal information or in response to changes in law. Should this Policy change, we will post all changes we make to this Policy on this page. Any such changes, updates, or modifications shall be effective immediately upon posting on the Sites. The date on which this policy was last modified is identified at the beginning of this Policy.
+
+You are expected to, and you acknowledge and agree that it is your responsibility to, carefully review this Policy prior to using the Site, engaging with us on social media, or communicating with us, from time to time, so that you are aware of any changes. Your continued use of the Sites, engaging with us on social media, or communicating with us in any format after the "Last Updated" date will constitute your acceptance of and agreement to such changes and to our collection and sharing of your personal information according to the terms of the then-current Policy.
+
+Contact Us
+For more information, or if you have any questions regarding this Privacy Policy or wish to exercise your rights, you may contact us using the information below, and we will do our best to assist you. Please note, if your communication is sensitive, you may wish to contact us by postal mail or telephone.
+
+In Writing:	Attn: Books-A-Million Customer Service
+402 Industrial Lane
+Birmingham, AL 35211
+By Telephone:	(800) 201-3550
+By Email:	support@booksamillion.com

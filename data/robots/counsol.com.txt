@@ -1,0 +1,43 @@
+User-agent: bingbot
+Disallow: /manage/
+Disallow: /*?s=
+Disallow: /*&s=
+Disallow: /*?rule_id=
+Disallow: /*&rule_id=
+Allow: /
+
+User-Agent: AhrefsBot
+Disallow: /
+
+User-Agent: Barkrowler/
+Disallow: /
+
+User-Agent: ClaudeBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-Agent: PetalBot
+Disallow: /
+
+User-Agent: SemrushBot/
+Disallow: /
+
+User-Agent: SeekportBot
+Disallow: /
+
+User-Agent: http://yandex.com/bots
+Disallow: /
+
+User-Agent: *
+Disallow: /manage/
+Disallow: /manage.m/
+Disallow: /*?s=
+Disallow: /*&s=
+Disallow: /*?rule_id=
+Disallow: /*&rule_id=
+Allow: /

@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /VirtualMedia/
+Disallow: /system/
+Disallow: /sys/
+Disallow: /about-regions/welcome-portal
+Disallow: /about-regions/benefits
+Disallow: /*.rf
+Disallow: /*.html
+Disallow: /*.aspx
+Disallow: /searchresults
+Disallow: /rdcvalidation
+Disallow: /locator/results?
+Disallow: /directory/*/results?
+
+sitemap: https://www.regions.com/sitemap.xml

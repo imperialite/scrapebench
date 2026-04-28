@@ -1,0 +1,73 @@
+Terms and Conditions
+We have changed our Terms and Conditions as of September 3, 2025, as follows:
+
+Section 2.1 pointed out the accuracy of the age information.
+
+Section 8.2 has been added. It explains the different algorithms on gutefrage in more detail.
+
+Save or print the general terms and conditions as a PDF .
+
+Section 1 Scope
+The following General Terms and Conditions (hereinafter referred to as "GTC") of gutefrage.net GmbH, Erika-Mann-Str. 23, 80636 Munich (hereinafter referred to as " gutefrage " or "we") govern the legal relationship between gutefrage and the users who access the online platform www.gutefrage.net and the mobile applications of gutefrage (hereinafter collectively referred to as the "Platform"). Use of the Platform and its functions is free of charge and is only permitted if the user accepts these Terms of Use
+Furthermore, the following guidelines govern the use and interaction on the platform, and all users must adhere to them:  Guidelines – Netiquette – Moderation .
+Any terms and conditions that deviate from these general terms and conditions shall only apply if confirmed in writing by gutefrage .
+§ 2 Use, Registration
+Only users who are fully legally competent or who have reached the age of 12 and are acting with the consent of their legal guardians are authorized to use the service. Furthermore, users are required to provide their correct age during registration.
+gutefrage can only be used in its entirety after prior registration. Anyone who provides truthful, accurate, current, and complete personal information (hereinafter referred to as "registration data") according to the specifications of the registration form can register. Upon registration, gutefrage automatically creates a user account for them.
+Users are required to provide their actual year of birth during registration. gutefrage reserves the right to request proof of birth at any time. Users can individually adjust the visibility of their birthdate within the community.
+By registering or using our services, the user agrees to the validity of the terms and conditions.
+In the event of a change to the underlying data, particularly the email address, the user must update their registration data immediately. Should gutefrage determine that the email address provided by the user is incorrect, it reserves the right to temporarily suspend, permanently deactivate, or, depending on the severity of the violation, delete the user account.
+§ 3 Description of Services
+gutefrage provides its users with an advertising-financed platform that aims to answer questions and offers a rating system for posts (hereinafter referred to as "Services")
+The services are offered subject to availability. gutefrage strives to keep the services available, but assumes no responsibility for any delay, deletion, transmission error, or data loss.
+§ 4 User account, password and security
+During registration, the user can choose their own username and password.
+The user may not allow third parties to use their account and must keep their login details secret. As soon as the user becomes aware that their login details have been accessed by third parties or that their user account has been misused, they are obligated to change their password and inform gutefrage immediately.
+§ 5 Responsibilities and Obligations of Users
+The responsibility for all information, data, text, software, music, sounds, photos, graphics, videos, messages, or other materials ("Content") lies solely with the user who uploaded this Content. This means that the user bears full responsibility for all Content that they upload, publish, email, or otherwise forward.
+When using the services, including the video function, the user may not: store, publish, and/or transmit content that infringes the rights of third parties, in particular patents, trademarks, copyrights or related rights, trade secrets, personal rights, or property rights; store, publish, and/or transmit content that contains software viruses or other information, files, or programs designed or capable of interrupting, destroying, or restricting the function of computer software or hardware or telecommunications equipment; store, publish, and/or transmit content that the user is not authorized to distribute; falsify headers or otherwise manipulate identifying marks to conceal the origin of content transmitted through the services; store, publish, and/or transmit unsolicited advertising, promotional material, junk or mass emails ("spam"), chain letters, pyramid schemes, or other commercial offers; or violate national or international laws. Collecting, storing, or transmitting personal data about other users without their consent. Storing, publishing, or transmitting personal data, such as name, address, date of birth, etc., of oneself or other natural persons in one's own content.
+If gutefrage becomes aware of content described in section 2 that must be reported, gutefrage is entitled to delete this content immediately and without prior notification of the user. Depending on the severity of the violation, gutefrage is also entitled to block the corresponding user account.
+If gutefrage incurs costs due to a warning issued by a third party, the user shall indemnify gutefrage against these costs.
+gutefrage is not liable for user content, in particular for errors, inaccuracies or incompleteness in connection with content, nor for losses or damages resulting from the use of uploaded content.
+§ 6 Integration of advertising
+gutefrage itself or through external service providers places advertising banners or other forms of advertising.
+The user expressly agrees that advertising may occur, particularly in the context of the content they upload, and potentially before, within, and after it (e.g., in videos via pre- and/or post-credits ads). gutefrage also displays so-called in-text advertising; in this case, user-uploaded content (e.g., texts) is linked to advertising content.
+§ 7 Limitation of Liability and Warranty
+The use of gutefrage 's services is at the users' own risk. gutefrage assumes no liability for the uninterrupted, secure, and error-free operation of its services.
+gutefrage assumes no liability for the compatibility of the services with the user's individual hardware and software equipment.
+gutefrage protects user-entered data and uploaded content against loss using state-of-the-art technology. However, even with the best possible data and content backup, irreversible loss cannot be completely ruled out. Therefore, gutefrage is not liable for the loss of data or content. It is the user's responsibility to save and/or print important data or content on suitable media so that unrestricted access to it is possible even independently of gutefrage.
+The foregoing limitations of liability also apply mutatis mutandis in favor of gutefrage 's vicarious agents (e.g. data loss at the hosting provider).
+To the extent that users are given the option on the platform to be redirected to third-party databases, websites, services, etc., e.g., through the inclusion of links or hyperlinks, gutefrage is not liable for the accessibility, availability, or security of these databases or services, nor for their content. In particular, gutefrage is not liable for their legality, accuracy, completeness, or timeliness.
+gutefrage is only liable for damages: resulting from injury to life, body or health caused by an intentional or negligent breach of duty by gutefrage ; caused by an intentional or grossly negligent breach of duty by gutefrage ; caused by an intentional or negligent breach of a fundamental contractual obligation by gutefrage ; or which fall within the scope of protection of a guarantee (assurance) given by gutefrage .
+Unless otherwise agreed in these Terms and Conditions, all claims by the user for compensation for damages of any kind are excluded. In the event of a negligent breach of a fundamental contractual obligation, liability is limited to the amount of damages typically foreseeable, which gutefrage could reasonably have anticipated at the time of the user's registration based on the circumstances known at that time. This excludes damages resulting from injury to life, body, or health.
+
+Section 8 Data Protection
+gutefrage is aware of the sensitivity of personal data and the importance of protecting privacy. Personal data is collected, processed, and used in accordance with legal regulations. Details can be found in our  privacy policy .
+The algorithm on gutefrage works in different ways in the two areas “Your interests” and “Recommendations”:
+While suggestions are generated in the “Your Interests” section based on users’ tags/topics and thematic worlds, it is somewhat more complex in the “Recommendations” section.
+The recommendation algorithm of gutefrage generates suggestions based on several criteria. It particularly considers content with high overall view or interaction rates, topics the user has recently searched for, and posts that are of interest to a large number of other users. Location-specific topics and events are also included. Additionally, a selection of content is made that is highly likely to be relevant based on the user's previous browsing behavior.
+Logged-out users, as well as logged-in users who browse the "Read" section, are shown posts that are similar in content to the one they are currently viewing. Under "Help Others," users also receive unanswered posts from their subscribed topic areas. Furthermore, the personalized recommender considers posts that are thematically related to the user's previously asked, read, or answered questions, as well as current trending and discussion topics and posts from new users.
+§ 9 Copyrights
+The user warrants that he has the necessary rights to the content he uploads to the platform
+If a user believes their work is being used without authorization, they must notify gutefrage immediately. After becoming aware of and investigating the matter, gutefrage will no longer make this content available. gutefrage points out that it will only reactivate content once the user who uploaded it can prove that the unlawful situation has been rectified.
+By uploading their content to the platform, the user grants the necessary non-exclusive, sublicensable, perpetual, and geographically unrestricted rights of use and exploitation for the display and use of the content within the scope of the services. These rights of use and exploitation include, in particular: the right to store the content on the gutefrage platform ; the right to make the content publicly accessible, in whole or in part, edited or unedited; the right to reproduce the content at the request of website users; the right to further exploit the content in connection with the gutefrage websites in other media; and the right to place advertising of any kind in the vicinity of the content.
+gutefrage is also entitled to make the platform's content publicly accessible on websites under other domain names operated by gutefrage (e.g. www.helpster.de) and mobile applications, as well as in connection with gutefrage on third-party websites (e.g. by integrating widgets).
+§ 10 Text and Data Mining
+The use of all content published on gutefrage for text and data mining within the meaning of Section 44b of the German Copyright Act (UrhG) is prohibited .
+
+§ 11 Termination of the use of gutefrage 's services
+The agreement for the use of gutefrage 's services is concluded for an indefinite period. gutefrage may terminate the user agreement at any time with six (6) weeks' notice via email. Likewise, the user may terminate the user agreement at any time by deleting their user account.
+The right to extraordinary termination for good cause is not limited by the provision in section 1. In particular, goodfrage may be entitled to extraordinary termination if the user violates applicable law or these Terms and Conditions. Termination is effected by blocking the user account. More detailed information about sanctions for violations of terms of service can be found under:  Guidelines – Netiquette – Moderation .
+Any termination of the user agreement and/or cancellation of the use of gutefrage does not affect the usage rights granted under Section 9. User content will therefore remain on the platform even after termination, as it consists of interconnected content (questions/answers, etc.) and deleting this content would impair its functionality.
+Section 12 Amendment of the General Terms and Conditions
+gutefrage reserves the right to amend these Terms and Conditions at any time for the future, unless this is unreasonable for the user. gutefrage will notify users of changes to the Terms and Conditions in a timely manner, for example, on the gutefrage homepage or by email. If the user does not object to the validity of the new Terms and Conditions within six (6) weeks of notification and uses the service again after this period, the amended Terms and Conditions will be deemed accepted by the user. gutefrage will inform the user in the notification of their right to object and the significance of the objection period.
+Furthermore, gutefrage reserves the right to change the terms and conditions in the following cases:
+if the change is solely to the user's advantage;
+if the change is purely technical or procedural in nature, unless it has significant implications for the user;
+to the extent that gutefrage is obliged to ensure that the terms and conditions comply with applicable law, in particular if the applicable legal situation changes;
+insofar as gutefrage complies with a court ruling, a supreme court decision, or an official decision; or
+Insofar as gutefrage introduces additional, entirely new services or service elements that require a service description in the terms and conditions, unless the change is detrimental to the user.
+Section 13 Final Provisions
+If one or more provisions of these Terms and Conditions are or become wholly or partially invalid, or if a set deadline violates the legally permissible limits, this shall not affect the validity of the remaining provisions of these Terms and Conditions
+These terms and conditions and the use of the services are governed by German law.
+Last updated: September 3, 2025

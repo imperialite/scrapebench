@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /users/*?
+Disallow: /join/*?
+Disallow: /download/
+Disallow: /checkout/
+Disallow: /global/
+Disallow: /api/
+Disallow: /_nsfgfb/
+Crawl-delay: 1
+
+User-agent: Pinterestbot
+Disallow: /
+ 
+Sitemap: https://www.deviantart.com/sitemap-index.xml.gz

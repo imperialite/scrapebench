@@ -1,0 +1,17 @@
+User-Agent: * 
+Allow: / 
+Disallow: /Signin.aspx 
+Disallow: /Messaging 
+Disallow: /messaging 
+Disallow: /Intro 
+Disallow: /intro 
+Disallow: /Homepage 
+Disallow: /HomePage 
+Disallow: /homepage 
+Disallow: /Common 
+Disallow: /common 
+Disallow: /Judge 
+Disallow: /judge 
+Disallow: /rb 
+Disallow: /Help 
+Disallow: /help

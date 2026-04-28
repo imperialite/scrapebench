@@ -1,0 +1,34 @@
+# Modified 1.27.25
+User-agent:* 
+
+Disallow: /*currentPage=*
+Disallow: /*sort=*
+Disallow: /*bvstate=*
+Disallow: */foot-locker-inc/
+Disallow: /account/*
+Disallow: /cart
+Disallow: /wishlist/ 
+Disallow: /shoppingcart/ 
+Disallow: /checkout 
+Disallow: /checkout/*
+Disallow: /account/details
+Disallow: /account/orders
+Disallow: /account/preferences
+Disallow: /account/payment/new
+Disallow: /quickview/ 
+Disallow: */mostvaluablepicks/ 
+Disallow: /paygate/ccn
+Disallow: /content/flincfoundation/champssports/* 
+Disallow: /content/flincfoundation/eastbay/* 
+Disallow: /content/flincfoundation/finalscore/* 
+Disallow: /content/flincfoundation/footaction/* 
+Disallow: /content/flincfoundation/footlocker/* 
+Disallow: /content/flincfoundation/footlockerca/* 
+Disallow: /content/flincfoundation/kidsfootlocker/* 
+Disallow: /content/flincfoundation/ladyfootlocker/* 
+Disallow: /content/flincfoundation/six02/* 
+Disallow: /editor/*
+Disallow: /api/potential-points*
+
+Sitemap: https://www.footlocker.com/sitemap.xml
+Sitemap: https://www.footlocker.com/buy/sitemap.xml

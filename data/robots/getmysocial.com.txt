@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Allow: /terms/
+Allow: /privacy/
+Disallow: /dashboard/
+Disallow: /api/
+Disallow: /webhook/
+Disallow: /webhooks/
+Disallow: /preview-link
+Disallow: /debug-headers
+Disallow: /reset/
+Disallow: /verify-email
+Disallow: /unsubscribe/
+
+# Sitemap
+Sitemap: https://getmysocial.com/sitemap.xml

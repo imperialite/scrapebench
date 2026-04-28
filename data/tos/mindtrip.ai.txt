@@ -1,0 +1,270 @@
+Terms of Service | mindtrip
+for
+Creators
+for
+Business
+Get inspired
+Terms of Service
+Date of Last Revision: October 23, 2024
+Acceptance of These Terms of Service
+Mindtrip, Inc. (“
+Mindtrip
+,” “
+we
+,” “
+us
+,” or “
+our
+”) provides our services (described below) and related content to you through our website(s) located at mindtrip.ai (the “
+Site
+”) and our related technologies (collectively, the “
+Service
+”). All access and use of the Service is subject to the terms and conditions contained in these Terms of Service (as amended from time to time, these “
+Terms of Service
+”). By accessing, browsing, or otherwise using the Site, Mobile Apps, or any other aspect of the Service, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. If you do not accept the terms and conditions of these Terms of Service, you will not access, browse, or otherwise use the Service.
+We reserve the right, at our sole discretion, to change or modify portions of these Terms of Service at any time. If we do this, we will post the changes on this page and will indicate at the top of this page the date these Terms of Service were last revised. You may read a current, effective copy of these Terms of Service by visiting the “Terms of Service” link on the Site. We will also notify you of any material changes, either through the Service user interface, a pop-up notice, email, or through other reasonable means. Your continued use of the Service after the date any such changes become effective constitutes your acceptance of the new Terms of Service. You should periodically visit this page to review the current Terms of Service so you are aware of any revisions. If you do not agree to abide by these or any future Terms of Service, you will not access, browse, or use (or continue to access, browse, or use) the Service.
+PLEASE READ THESE TERMS OF SERVICE CAREFULLY, AS THEY CONTAIN AN AGREEMENT TO ARBITRATE AND OTHER IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS, REMEDIES, AND OBLIGATIONS. THE AGREEMENT TO ARBITRATE REQUIRES (WITH LIMITED EXCEPTION) THAT YOU SUBMIT CLAIMS YOU HAVE AGAINST US TO BINDING AND FINAL ARBITRATION, AND FURTHER (1) YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AGAINST MINDTRIP ON AN INDIVIDUAL BASIS, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING, (2) YOU WILL ONLY BE PERMITTED TO SEEK RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ON AN INDIVIDUAL BASIS, AND (3) YOU MAY NOT BE ABLE TO HAVE ANY CLAIMS YOU HAVE AGAINST US RESOLVED BY A JURY OR IN A COURT OF LAW.
+Your Privacy:
+At Mindtrip, we respect the privacy of our users. For more information please see our
+Privacy Policy
+(the “
+Privacy Policy
+”). By using the Service, you consent to our collection, use and disclosure of personal data and other data as outlined therein.
+Access and Use of the Service
+Service Description
+. The Service is designed to be an AI-powered platform for vacation and travel planning, recommendations, and booking. The Service may enable users to create and share travel itineraries and plans as well as browse and book flights, lodgings, vacation packages and other travel-related products and services.
+Your Registration Obligations
+. You may be required to register with Mindtrip or provide information about yourself (
+e.g.
+, name and email address) in order to access and use certain features of the Service. If you choose to register for the Service, you agree to provide and maintain true, accurate, current, and complete information about yourself as prompted by the Service’s registration form. Registration data and certain other information about you are governed by our Privacy Policy. If you are under 18 years of age, you are not authorized to use the Service, with or without registering. I
+Member Account, Password and Security
+. You are responsible for maintaining the confidentiality of your password and account details, if any, and are fully responsible for any and all activities that occur under your password or account. You agree to (a) immediately notify Mindtrip of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session when accessing the Service. Mindtrip will not be liable for any loss or damage arising from your failure to comply with this paragraph.
+Bookings.
+Mindtrip does not sell any products or services directly, and all reservations for flights, lodgings, vacation packages and other travel-related products and services are made with a third party service (each a “
+Third Party Partner
+”). In order to make a booking, Mindtrip will either (1) redirect from our Service to the Third Party Partner to make the travel booking or (2) collect the corresponding information from you and provide it to the Third Party Partner to facilitate the booking. Please bear in mind that any bookings are being made with the Third Party Partner and not with Mindtrip. We are not responsible for bookings made with any Third Party Partner and we have no liability to you in respect of such a booking. The terms and ’of Third Party Partner will set out what rights you have against them and will explain their liability to you.
+Cancellations or Changes.
+If you need to cancel or change any bookings, you should contact the Third Party Partner directly if the reservation was made through the website or application of the Third Party Partner. If the booking was made within the Service, we will use commercially reasonable efforts to cancel or change your booking through features made available through our Service. All cancellations and changes to your bookings are subject to any terms, limitations, or other conditions of the corresponding Third Party Partner. For example:
+If you book a stay at a property and you do not cancel or change your booking before the relevant cancellation policy period, you may be subject to the cancellation or change charges as shown in the relevant Rules and Restrictions;
+Some properties do not permit cancellations of, or changes to, bookings after they are made; and
+Where a cancellation affects more than one person on a booking (for example, two airline tickets booked on a single itinerary, etc.), any applicable cancellation charge will be applied in respect of each person on the cancelled booking.
+You do not have an automatic right to cancel or change a booking unless allowed by the Third Party Partner under their applicable terms and conditions. Third Party Partners may charge you fees for cancelling (in full or part) or changing a booking. Such fees will be set out in their applicable terms and conditions. You agree to pay any charges that you incur. Please be aware that for changes, the price of your new arrangements will be based on the applicable price at the time you ask us to make the change. This price may not be the same as when you originally booked the corresponding services.
+Pricing.
+The price of products and services made available through the Service are provided by Third Party Partner and are subject to change. While we use commercially efforts to ensure that the pricing information is up to date, we do not make any guarantees as to the specific fees or amounts, and we reserve the right to update the information that is made available. In addition, prices made available through the Service may or may not be the total amount payable by you after taxes and other fees are included.
+Payment Processing.
+In the event Mindtrip processes your payment information to make a booking on your behalf. We will do so using a third party payment processor and will not have direct access to your payment information. These payment processing services the applicable payment processor’s terms and conditions, privacy policy, and all other relevant agreements (collectively, the “
+Payment Processor Agreements
+”). By agreeing to these Terms of Service, users that use the payment functions of the Service also agree to be bound by the applicable Payment Processor Agreement for the payment function the user is using, as the same may be modified by the applicable payment processor from time to time. Mindtrip assumes no liability or responsibility for any payments you make through the Service. You represent and warrant to Mindtrip that such information is true and that you are authorized to use the payment instrument. You will promptly update your account information with Mindtrip or the corresponding payment processor, as applicable, of any changes (for example, a change in your billing address or credit card expiration date) that may occur.
+Modifications to Service
+. Mindtrip reserves the right to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice. You agree that Mindtrip will not be liable to you or to any third party for any modification, suspension or discontinuance of the Service.
+General Practices Regarding Use and Storage
+. You acknowledge that Mindtrip may establish general practices and limits concerning use of the Service, including the maximum period of time that data or other content will be retained by the Service and the maximum storage space that will be allotted on Mindtrip’s or its third-party service providers’ servers on your behalf. You agree that Mindtrip has no responsibility or liability for the deletion or failure to store any data or other content maintained or uploaded by the Service. You acknowledge that Mindtrip reserves the right to terminate accounts that are inactive for an extended period of time. You further acknowledge that Mindtrip reserves the right to change these general practices and limits at any time, in its sole discretion, with or without notice.
+Conditions of First-Time User Cash Back Promotion.
+Eligibility
+This promotion is only available to individuals who are at least eighteen (18) years old (or the age of majority as applicable where you reside, whichever is older), have a valid and legitimate email address, and are first-time users of Mindtrip, who book their initial hotel stay through our platform (each an “Eligible User”).
+You must enter all information accurately and completely, and not use false names or identities.
+Your participation in promotions is subject to your compliance with these terms and all applicable laws.
+Eligible Users may qualify hereunder for a one-time $30 cash back promotion in the form of a virtual gift card from a third-party vendor (the “Reward”).
+New Mindtrip Account Promotions.
+Unless expressly communicated otherwise, new Mindtrip account promotions, including this Reward, are available only to users who have never had a Mindtrip account before.
+It is a violation of these Terms of Service to sign up for a Mindtrip account and seek this Reward if you have created a Mindtrip account in the past.
+If we determine, at our sole discretion, that you are not eligible for a new Mindtrip account promotion, we may withdraw or deactivate the Reward.
+Cash Back Offer Details.
+Users will be eligible to receive the Reward based on their initial hotel booking.
+The Reward will be sent to the email address associated with the Eligible User’s account within thirty (30) days of the successful completion of their hotel stay.
+The Reward is only available for hotel bookings equal to or greater than $100 (excluding taxes and fees).
+If the hotel booking is canceled for any reason, the Reward will not be applied.
+Holding Period.
+If you cancel your initial booking, the Reward will be held in abeyance until you successfully book and complete a hotel stay on the Mindtrip platform.
+Booking Partnerships.
+Hotel bookings must be made only through Mindtrip’s booking partners, including but not limited to Priceline, Expedia, Agoda, VRBO, Hotels.com, Trip.com or Vio.com in order to qualify for the Reward through Mindtrip’s platform.
+If you book directly (not through Mindtrip’s platform) with any hotel, you will not be eligible for the Reward.
+Restrictions.
+This Reward is limited to one per user and cannot be combined with any other promotional offers or discounts. The gift card is non-transferable and cannot be redeemed for cash.
+Modifications and Termination.
+Mindtrip promotions have no fixed termination date. However, we reserve the right to modify or terminate promotions, including this Reward, at any time within our discretion without prior notice.
+Misuse of the promotion, including the Rewards, identified as potentially fraudulent, abusive or suspicious activities, or any violation of our Terms of Service, each as determined in our sole discretion, may result in (i) suspension or termination of your account; and (ii) the forfeiture of the Rewards.
+Acceptance of Terms.
+By participating in this Reward promotion, you agree to these Terms of Service and any additional terms that may be imposed by Mindtrip.
+Disputes.
+Rewards are typically sent via email. You are responsible for checking your email, including your SPAM folder if necessary, to obtain your Reward.
+If you didn’t receive a Reward you believe you are entitled to or have any questions regarding the terms of the Reward received, contact our third-party vendor directly at
+[email protected]
+.
+If the third-party vendor elects to send a replacement Reward, it may deactivate the old Reward.
+In case of any disputes regarding the promotion or the Reward, our decision and/or the the third-party vendor’s decision will be final.
+Taxes.
+You agree that you are solely responsible for all applicable taxes, including without limitation, international, federal, state, local, or provincial withholding, taxes, and government fees or costs associated with receiving and using the Rewards.
+Expiration.
+Please note all Rewards have an expiration date and you must use it before it expires.
+Third Party Vendor.
+The Rewards are issued and managed by a third-party vendor and may have additional terms and conditions, and charge monthly maintenance fees if not redeemed by you within a certain period of time. We are not responsible for any acts or omissions of such third-party vendor supplying the Rewards and/or disputes you might have with such party. We are not responsible for any acts or omissions of any hotel and/or disputes you might have with such party. We are not responsible for any factors outside our direct control.
+For any queries or further information, please contact our Customer Service Team at
+[email protected]
+.
+Conditions of Access and Use
+User Conduct
+. You are solely responsible for all code, video, images, information, data, text, software, music, sound, photographs, graphics, messages, and other materials (“
+content
+”) that you make available to Mindtrip, including by uploading, emailing or otherwise making available to other users of the Service (collectively, “
+User Content
+”). The following are examples of the kinds of content and/or uses that are illegal or prohibited by Mindtrip. Mindtrip reserves the right to investigate and take appropriate legal action against anyone who, in Mindtrip’s sole discretion, violates this provision, including removing the offending content from the Service, suspending or terminating the account of such violators, and reporting the violator to law enforcement authorities. You agree to not use the Service to:
+email or otherwise upload any content that (i) infringes any intellectual property or other proprietary rights of any party; (ii) you do not have a right to upload under any law or under contractual or fiduciary relationships; (iii) contains software viruses or any other computer code, files or programs designed to interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment; (iv) poses or creates a privacy or security risk to any person; (v) constitutes unsolicited or unauthorized advertising, promotional materials, commercial activities and/or sales, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” “contests,” “sweepstakes,” or any other form of solicitation; (vi) is unlawful, harmful, threatening, abusive, harassing, tortious, excessively violent, defamatory, vulgar, obscene, pornographic, libelous, invasive of another’s privacy, hateful, discriminatory, or otherwise objectionable; or (vii) in the sole judgment of Mindtrip, is objectionable or which restricts or inhibits any other person from using or enjoying the Service, or which may expose Mindtrip or its users to any harm or liability of any type;
+interfere with or disrupt the Service or servers or networks connected to the Service, or disobey any requirements, procedures, policies, or regulations of networks connected to the Service;
+violate any applicable local, state, national, or international law, or any regulations having the force of law;
+impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity;
+solicit personal information from anyone under the age of 18;
+harvest or collect email addresses or other contact information of other users from the Service by electronic or other means for the purposes of sending unsolicited emails or other unsolicited communications;
+advertise or offer to sell or buy any goods or services for any business purpose that is not specifically authorized;
+further or promote any criminal activity or enterprise or provide instructional information about illegal activities;
+obtain or attempt to access or otherwise obtain any content or information through any means not intentionally made available or provided for through the Service;
+circumvent, remove, alter, deactivate, degrade, or thwart any of the content protections in or geographic restrictions on any content (including Service Content (as defined below)) available on or through the Service, including through the use of virtual private networks;
+engage in or use any data mining, robots, scraping, or similar data gathering or extraction methods; or
+develop products or services that compete with Mindtrip.
+If you are blocked by Mindtrip from accessing the Service (including by blocking your IP address), you agree not to implement any measures to circumvent such blocking (e.g., by masking your IP address or using a proxy IP address or virtual private network).
+Intellectual Property Rights
+Service Content
+. You acknowledge and agree that the Service may contain content or features (“
+Service Content
+”) that are protected by copyright, patent, trademark, trade secret, or other proprietary rights and laws. Except as expressly authorized by Mindtrip, you agree not to modify, copy, frame, scrape, rent, lease, loan, sell, distribute, or create derivative works based on the Service or the Service Content, in whole or in part, except that the foregoing does not apply to your own User Content (as defined below) that you upload to or make available through the Service in accordance with these Terms of Service. Any use of the Service or the Service Content other than as specifically authorized herein is strictly prohibited.
+Trademarks
+. The Mindtrip name and logos are trademarks and service marks of Mindtrip (collectively the “
+Mindtrip Trademarks
+”). Other Mindtrip, product, and service names and logos used and displayed via the Service may be trademarks or service marks of their respective owners who may or may not endorse or be affiliated with or connected to Mindtrip. Nothing in these Terms of Service or the Service should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any of Mindtrip Trademarks displayed on the Service, without our prior written permission in each instance. All goodwill generated from the use of Mindtrip Trademarks will inure to our exclusive benefit.
+Third-Party Material
+. Under no circumstances will Mindtrip be liable in any way for any content or materials of any third parties (including users), including for any errors or omissions in any content, or for any loss or damage of any kind incurred as a result of the use of any such content. You acknowledge that Mindtrip does not pre-screen content, but that Mindtrip and its designees will have the right (but not the obligation) in their sole discretion to refuse or remove any content that is available via the Service. Without limiting the foregoing, Mindtrip and its designees will have the right to remove any content that violates these Terms of Service or is deemed by Mindtrip, in its sole discretion, to be otherwise objectionable. You agree that you must evaluate, and bear all risks associated with, the use of any content, including any reliance on the accuracy, completeness, or usefulness of such content.
+User Content
+. You represent and warrant that you own all right, title and interest in and to your User Content, including all copyrights and rights of publicity contained therein. You hereby grant Mindtrip, its affiliates, and its and their customers, agents, representatives, successors and assigns a non-exclusive, worldwide, royalty-free, fully paid-up, transferable, sublicensable (directly and indirectly through multiple tiers), perpetual, and irrevocable license to copy, display, upload, perform, distribute, store, modify, and and otherwise use User Content in connection with the operation of the Service and the promotion, advertising or marketing of the foregoing in any form, medium or technology now known or later developed, including in the operation, application and enhancement of Mindtrip’s Artificial Intelligence (as defined below). You assume all risk associated with your User Content and the transmission of your User Content, and you have sole responsibility for the accuracy, quality, legality and appropriateness of your User Content. As used herein, Mindtrip’s “Artificial Intelligence” means Mindtrip’s owned algorithms, machine learning models, retrieval-augmented generation (“RAG”) techniques, prompt engineering, creation and application of vector databases and/or other artificial intelligence or AI or similar technologies and expressly excludes other LLM’s such as ChatGPT. Mindtrip owns the rights to any enhancement and derivative data (including without limitation metadata) which it may use to enhance its Artificial Intelligence and improve and optimize its products, services and tools, and/or create new products or insights derived therefrom.
+You hereby authorize Mindtrip and its third-party service providers to derive statistical and usage data relating to your use of the Service (“
+Usage Data
+”). We may use Usage Data for any purpose in accordance with applicable law and our Privacy Policy.
+Any questions, comments, suggestions, ideas, feedback, reviews, or other information about the Service (“
+Submissions
+”), provided by you to Mindtrip are non-confidential and Mindtrip will be entitled to the unrestricted use and dissemination of these Submissions for any purpose, commercial or otherwise, without acknowledgment, attribution, or compensation to you.
+You acknowledge and agree that Mindtrip may preserve User Content and may also disclose User Content if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) comply with legal process, applicable laws, or government requests; (b) enforce these Terms of Service; (c) respond to claims that any content violates the rights of third parties; or (d) protect the rights, property, or personal safety of Mindtrip, its users, or the public. You understand that the technical processing and transmission of the Service, including your User Content, may involve (i) transmissions over various networks; and (ii) changes to conform and adapt to technical requirements of connecting networks or devices.
+Copyright Complaints
+. Mindtrip respects the intellectual property of others, and we ask our users to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated, you should notify Mindtrip of your infringement claim in accordance with the procedure set forth below.
+Mindtrip will process and investigate notices of alleged infringement and will take appropriate actions under the Digital Millennium Copyright Act (“DMCA”) and other applicable intellectual property laws with respect to any alleged or actual infringement. A notification of claimed copyright infringement should be emailed to Mindtrip’s Copyright Agent at
+[email protected]
+(Subject line: “DMCA Takedown Request”). You may also contact the Copyright Agent by mail at at 801 High Street, Palo Alto, CA 94301 (attention Legal Department).
+To be effective, the notification must be in writing and contain the following information:
+a physical or electronic signature of a person authorized to act on behalf of the owner of the copyright or other intellectual property interest that is allegedly infringed;
+identification of the copyrighted work or other intellectual property that you claim has been infringed, or, if multiple copyrighted works or other intellectual property are covered by a single notification, a representative list of such works or other intellectual property;
+identification of the content that is claimed to be infringing or to be the subject of infringing activity, and where the content that you claim is infringing is located on the Service, with enough detail that we may find it on the Service;
+your address, telephone number, and email address;
+a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright or intellectual property owner, its agent, or the law; and
+a statement by you that the information in your notice is accurate and, under penalty of perjury, that you are the copyright or intellectual property owner or are authorized to act on the behalf of the owner of the copyright or intellectual property that is allegedly infringed.
+Counter-Notice
+. If you believe that your User Content that was removed (or to which access was disabled) is not infringing, or that you have the authorization from the copyright owner, the copyright owner’s agent, or pursuant to the law, to upload and use the content in your User Content, you may send a written counter-notice containing the following information to the Copyright Agent:
+your physical or electronic signature;
+identification of the content that has been removed or to which access has been disabled and the location at which the content appeared before it was removed or disabled;
+a statement by you, made under penalty of perjury, that you have a good faith belief that the content was removed or disabled as a result of mistake or a misidentification of the content to be removed or disabled; and
+your name, address, telephone number, and email address, a statement that you consent to the jurisdiction of the federal court located within the Northern District of California and a statement that you will accept service of process from the person who provided notification of the alleged infringement.
+If a counter-notice is received by the Copyright Agent, Mindtrip will send a copy of the counter-notice to the original complaining party informing them that Mindtrip may replace the removed content or cease disabling it within ten (10) business days. Unless the owner of the applicable copyrighted work or other intellectual property files an action seeking a court order against Mindtrip or the user, the removed content may be replaced, or access to it restored, within ten (10) to fourteen (14) business days or more after receipt of the counter-notice, at our sole discretion.
+Repeat Infringer Policy
+. In accordance with the DMCA and other applicable law, Mindtrip has adopted a policy of terminating, in appropriate circumstances and at Mindtrip’s sole discretion, the accounts of users who are deemed to be repeat infringers. Mindtrip may also at its sole discretion limit access to the Service and/or terminate the accounts of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
+Third-Party Services and Websites
+The Service may provide links or other access to services, sites, technology, and resources that are provided or otherwise made available by third parties (the “
+Third-Party Services
+”). Additionally, you may enable or log in to the Service via various online Third-Party Services, such as social media and social networking services. Your access and use of the Third-Party Services may also be subject to additional terms and conditions, privacy policies, or other agreements with such third party, and you may be required to authenticate to or create separate accounts to use Third-Party Services on the websites or via the technology platforms of their respective providers. Some Third-Party Services will provide us with access to certain information that you have provided to third parties, including through such Third-Party Services, and we will use, store and disclose such information in accordance with our Privacy Policy. For more information about the implications of activating Third-Party Services and our use, storage and disclosure of information related to you and your use of such Third-Party Services within the Service, please see our Privacy Policy.
+Certain features within the Service are powered by Google’s Maps APIs. By using the Service, you agree to be bound by the Google’s Terms of Service available at
+https://policies.google.com/terms
+and the Google Maps/Google Earth Additional Terms of Service available at
+https://maps.google.com/help/terms_maps
+.
+Mindtrip has no control over and is not responsible for such Third-Party Services, including for the accuracy, availability, reliability, or completeness of information shared by or available through Third-Party Services, or on the privacy practices of Third-Party Services. We encourage you to review the privacy policies of the third parties providing Third-Party Services prior to using such services. You, and not Mindtrip, will be responsible for any and all costs and charges associated with your use of any Third-Party Services. Mindtrip enables these Third-Party Services merely as a convenience and the integration or inclusion of such Third-Party Services does not imply an endorsement or recommendation. Any dealings you have with third parties while using the Service are between you and the third party. Mindtrip will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any Third-Party Services.
+Indemnification
+To the extent permitted under applicable law, you agree to defend, indemnify, and hold harmless Mindtrip, its affiliates, and its and their respective officers, employees, directors, service providers, licensors, and agents (collectively, the “
+Mindtrip Parties
+”) from any and all losses, damages, expenses, including reasonable attorneys’ fees, rights, claims, actions of any kind, and injury (including death) arising out of or relating to your use of the Service, use of the Rewards, any User Content, your connection to the Service, your violation of these Terms of Service, or your violation of any rights of another. Mindtrip will provide notice to you of any such claim, suit, or proceeding. Mindtrip reserves the right to assume the exclusive defense and control of any matter which is subject to indemnification under this section, and you agree to cooperate with any reasonable requests assisting Mindtrip’s defense of such matter. You may not settle or compromise any claim against the Mindtrip Parties without Mindtrip’s written consent.
+Disclaimer of Warranties
+YOUR USE OF THE SERVICE AND/OR THE REWARDS ARE AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. THE MINDTRIP PARTIES EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+THE MINDTRIP PARTIES MAKE NO WARRANTY THAT (A) THE SERVICE WILL MEET YOUR REQUIREMENTS; (B) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE; (C) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE; OR (D) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR EXPECTATIONS.
+Limitation of Liability
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT THE MINDTRIP PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY DAMAGES, OR DAMAGES FOR LOSS OF PROFITS INCLUDING DAMAGES FOR LOSS OF GOODWILL, USE, OR DATA OR OTHER INTANGIBLE LOSSES (EVEN IF THE MINDTRIP PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), WHETHER BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE, RESULTING FROM: (A) THE USE OR THE INABILITY TO USE THE SERVICE AND/OR THE REWARDS; (B) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES RESULTING FROM ANY GOODS, DATA, INFORMATION, OR SERVICES PURCHASED OR OBTAINED OR MESSAGES RECEIVED OR TRANSACTIONS ENTERED INTO THROUGH OR FROM THE SERVICE; (C) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (D) PRODUCTS OR SERVICES MADE AVAILABLE BY THIRD PARTIES (INCLUDING OUR THIRD PARTY PARTNERS) OR STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SERVICE AND/OR REWARDS; OR (E) ANY OTHER MATTER RELATING TO THE SERVICE AND/OR REWARDS. IN NO EVENT WILL THE MINDTRIP PARTIES’ TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES, OR CAUSES OF ACTION EXCEED THE AMOUNT YOU HAVE PAID MINDTRIP IN THE LAST SIX (6) MONTHS, OR, IF GREATER, ONE HUNDRED DOLLARS ($100).
+SOME JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OR EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS SET FORTH ABOVE MAY NOT APPLY TO YOU OR BE ENFORCEABLE WITH RESPECT TO YOU. IF YOU ARE DISSATISFIED WITH ANY PORTION OF THE SERVICE OR WITH THESE TERMS OF SERVICE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USE OF THE SERVICE.
+IF YOU ARE A USER FROM NEW JERSEY, THE FOREGOING SECTIONS TITLED “INDEMNIFICATION”, “DISCLAIMER OF WARRANTIES” AND “LIMITATION OF LIABILITY” ARE INTENDED TO BE ONLY AS BROAD AS IS PERMITTED UNDER THE LAWS OF THE STATE OF NEW JERSEY. IF ANY PORTION OF THESE SECTIONS IS HELD TO BE INVALID UNDER THE LAWS OF THE STATE OF NEW JERSEY, THE INVALIDITY OF SUCH PORTION WILL NOT AFFECT THE VALIDITY OF THE REMAINING PORTIONS OF THE APPLICABLE SECTIONS.
+Dispute Resolution By Binding Arbitration
+PLEASE READ THIS SECTION CAREFULLY AS IT AFFECTS YOUR RIGHTS.
+Agreement to Arbitrate.
+This Dispute Resolution by Binding Arbitration section is referred to in these Terms of Service as the “Arbitration Agreement.” You agree that any and all disputes or claims that have arisen or may arise between you and Mindtrip, whether arising out of or relating to these Terms of Service (including any alleged breach thereof), the Service, any advertising, or any aspect of the relationship or transactions between us, will be resolved exclusively through final and binding arbitration, rather than a court, in accordance with the terms of this Arbitration Agreement, except that you may assert individual claims in small claims court, if your claims qualify. Further, this Arbitration Agreement does not preclude you from bringing issues to the attention of federal, state, or local agencies, and such agencies can, if the law allows, seek relief against us on your behalf. You agree that, by entering into these Terms of Service, you and Mindtrip are each waiving the right to a trial by jury or to participate in a class action. Your rights will be determined by a neutral arbitrator, not a judge or jury. The Federal Arbitration Act governs the interpretation and enforcement of this Arbitration Agreement.
+Prohibition of Class and Representative Actions and Non-Individualized Relief.
+YOU AND MINDTRIP AGREE THAT EACH OF US MAY BRING CLAIMS AGAINST THE OTHER ONLY ON AN INDIVIDUAL BASIS AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE ACTION OR PROCEEDING. UNLESS BOTH YOU AND MINDTRIP AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE OR JOIN MORE THAN ONE PERSON’S OR PARTY’S CLAIMS AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A CONSOLIDATED, REPRESENTATIVE, OR CLASS PROCEEDING. ALSO, THE ARBITRATOR MAY AWARD RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE RELIEF NECESSITATED BY THAT PARTY’S INDIVIDUAL CLAIM(S), EXCEPT THAT YOU MAY PURSUE A CLAIM FOR AND THE ARBITRATOR MAY AWARD PUBLIC INJUNCTIVE RELIEF UNDER APPLICABLE LAW TO THE EXTENT REQUIRED FOR THE ENFORCEABILITY OF THIS PROVISION.
+Pre-Arbitration Dispute Resolution
+. Mindtrip is always interested in resolving disputes amicably and efficiently, and most customer concerns can be resolved quickly and to the customer’s satisfaction by emailing customer support at
+[email protected]
+. If such efforts prove unsuccessful, a party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute (“
+Notice
+”). The Notice to Mindtrip should be sent to
+[email protected]
+(“
+Notice Address
+”). The Notice must (i) describe the nature and basis of the claim or dispute and (ii) set forth the specific relief sought. If Mindtrip and you do not resolve the claim within sixty (60) calendar days after the Notice is received, you or Mindtrip may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by Mindtrip or you will not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which you or Mindtrip is entitled.
+Arbitration Procedures
+. Arbitration will be conducted by a neutral arbitrator in accordance with the American Arbitration Association’s (“
+AAA
+”) rules and procedures, including the AAA’s Consumer Arbitration Rules (collectively, the “
+AAA Rules
+”), as modified by this Arbitration Agreement. For information on the AAA, please visit its website, https://www.adr.org. Information about the AAA Rules and fees for consumer disputes can be found at the AAA’s consumer arbitration page,
+https://www.adr.org/consumer
+. If there is any inconsistency between any term of the AAA Rules and any term of this Arbitration Agreement, the applicable terms of this Arbitration Agreement will control unless the arbitrator determines that the application of the inconsistent Arbitration Agreement terms would not result in a fundamentally fair arbitration. The arbitrator must also follow the provisions of these Terms of Service as a court would. All issues are for the arbitrator to decide, including issues relating to the scope, enforceability, and arbitrability of this Arbitration Agreement. Although arbitration proceedings are usually simpler and more streamlined than trials and other judicial proceedings, the arbitrator can award the same damages and relief on an individual basis that a court can award to an individual under these Terms of Service and applicable law. Decisions by the arbitrator are enforceable in court and may be overturned by a court only for very limited reasons.
+Unless Mindtrip and you agree otherwise, any arbitration hearings will take place in a reasonably convenient location for both parties with due consideration of their ability to travel and other pertinent circumstances. If the parties are unable to agree on a location, the determination will be made by AAA. If your claim is for $10,000 or less, Mindtrip agrees that you may choose whether the arbitration will be conducted solely on the basis of documents submitted to the arbitrator, through a telephonic hearing, or by an in-person hearing as established by the AAA Rules. If your claim exceeds $10,000, the right to a hearing will be determined by the AAA Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator will issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the award is based.
+Costs of Arbitration
+. Payment of all filing, administration, and arbitrator fees (collectively, the “
+Arbitration Fees
+”) will be governed by the AAA Rules, unless otherwise provided in this Arbitration Agreement. To the extent any Arbitration Fees are not specifically allocated to either Mindtrip or you under the AAA Rules, Mindtrip and you shall split them equally; provided that if you are able to demonstrate to the arbitrator that you are economically unable to pay your portion of such Arbitration Fees or if the arbitrator otherwise determines for any reason that you should not be required to pay your portion of any Arbitration Fees, Mindtrip will pay your portion of such fees. In addition, if you demonstrate to the arbitrator that the costs of arbitration will be prohibitive as compared to the costs of litigation, Mindtrip will pay as much of the Arbitration Fees as the arbitrator deems necessary to prevent the arbitration from being cost-prohibitive. Any payment of attorneys’ fees will be governed by the AAA Rules.
+Confidentiality
+. All aspects of the arbitration proceeding, and any ruling, decision, or award by the arbitrator, will be strictly confidential for the benefit of all parties.
+Severability
+. If a court or the arbitrator decides that any term or provision of this Arbitration Agreement (other than the subsection (b) above titled “Prohibition of Class and Representative Actions and Non-Individualized Relief” above) is invalid or unenforceable, the parties agree to replace such term or provision with a term or provision that is valid and enforceable and that comes closest to expressing the intention of the invalid or unenforceable term or provision, and this Arbitration Agreement will be enforceable as so modified. If a court or the arbitrator decides that any of the provisions of subsection (b) above titled “Prohibition of Class and Representative Actions and Non-Individualized Relief” are invalid or unenforceable, then the entirety of this Arbitration Agreement will be null and void, unless such provisions are deemed to be invalid or unenforceable solely with respect to claims for public injunctive relief. The remainder of these Terms of Service will continue to apply.
+Future Changes to Arbitration Agreement
+. Notwithstanding any provision in these Terms of Service to the contrary, Mindtrip agrees that if it makes any future change to this Arbitration Agreement (other than a change to the Notice Address) while you are a user of the Service, you may reject any such change by sending Mindtrip written notice within thirty (30) calendar days of the change to the Notice Address provided above. By rejecting any future change, you are agreeing that you will arbitrate any dispute between us in accordance with the language of this Arbitration Agreement as of the date you first accepted these Terms of Service (or accepted any subsequent changes to these Terms of Service).
+Termination
+You agree that Mindtrip, in its sole discretion, may suspend or terminate your account (or any part thereof) or use of the Service and remove and discard any content within the Service, for any reason, including for lack of use or if Mindtrip believes that you have violated or acted inconsistently with the letter or spirit of these Terms of Service. Any suspected fraudulent, abusive, or illegal activity that may be grounds for termination of your use of the Service, may be referred to appropriate law enforcement authorities. Mindtrip may also in its sole discretion and at any time discontinue providing the Service, or any part thereof, with or without notice. You agree that any termination of your access to the Service under any provision of these Terms of Service may be effected without prior notice, and acknowledge and agree that Mindtrip may immediately deactivate or delete your account and all related information and files in your account and/or bar any further access to such files or the Service. Further, you agree that Mindtrip will not be liable to you or any third party for any termination of your access to the Service.
+User Disputes
+You agree that you are solely responsible for your interactions with any other user (including users with whom you share access to your travel plans, itineraries and booking information) in connection with the Service, and Mindtrip will have no liability or responsibility with respect thereto. Mindtrip reserves the right, but has no obligation, to become involved in any way with disputes between you and any other user of the Service.
+General
+Entire Agreement
+. These Terms of Service (together with the terms incorporated by reference herein) constitute the entire agreement between you and Mindtrip governing your access and use of the Service, and supersede any prior agreements between you and Mindtrip with respect to the Service. You also may be subject to additional terms and conditions that may apply when you use Third-Party Services, third-party content or third-party software.
+Jurisdiction, Venue and Choice of Law
+. These Terms of Service will be governed by the laws of the State of California without regard to its conflict of law provisions. With respect to any disputes or claims not subject to arbitration, as set forth above, you and Mindtrip submit to the personal and exclusive jurisdiction of the state and federal courts located within Santa Clara County, California. The failure of Mindtrip to exercise or enforce any right or provision of these Terms of Service will not constitute a waiver of such right or provision. If any provision of these Terms of Service is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties’ intentions as reflected in the provision, and the other provisions of these Terms of Service remain in full force and effect. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Service or these Terms of Service must be filed within one (1) year after such claim or cause of action arose or be forever barred. A printed version of these Terms of Service and of any notice given in electronic form will be admissible in judicial or administrative proceedings based upon or relating to these Terms of Service to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
+Assignment
+. You may not assign these Terms of Service without the prior written consent of Mindtrip, but Mindtrip may assign or transfer these Terms of Service, in whole or in part, without restriction. The section titles in these Terms of Service are for convenience only and have no legal or contractual effect. As used in these Terms of Service, the words “include” and “including,” and variations thereof, will not be deemed to be terms of limitation, but rather will be deemed to be followed by the words “without limitation.”
+Notices
+. Notices to you may be made via either email or regular mail. The Service may also provide notices to you of changes to these Terms of Service or other matters by displaying notices or links to notices generally on the Service. Mindtrip will not be in default hereunder by reason of any failure or delay in the performance of its obligations where such failure or delay is due to civil disturbances, riot, epidemic, hostilities, war, terrorist attack, embargo, natural disaster, acts of God, flood, fire, sabotage, fluctuations or unavailability of electrical power, network access or equipment, or any other circumstances or causes beyond Mindtrip’s reasonable control.
+Notice for California Users
+. Under California Civil Code Section 1789.3, users of the Service from California are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted (a) via email at
+[email protected]
+; (b) in writing at: Department of Consumer Affairs, Consumer Information Division, 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834; or (c) by telephone at (800) 952-5210 or (800) 326-2297 (TDD). Sacramento-area consumers may call (916) 445-1254 or (916) 928-1227 (TDD). You may contact us at Mindtrip, Inc., 801 High Street, Palo Alto, CA 94301 (attention Legal Department) and 925-200-7757.
+U.S. Government Restricted Rights
+The Service is made available to the U.S. government with “RESTRICTED RIGHTS.” Use, duplication, or disclosure by the U.S. government is subject to the restrictions contained in 48 CFR 52.227-19 and 48 CFR 252.227-7013 et seq. or its successor. Access or use of the Service by the U.S. government constitutes acknowledgement of our proprietary rights in the Service.
+Questions? Concerns? Suggestions?
+Please contact us at
+[email protected]
+to report any violations of these Terms of Service or to pose any questions regarding these Terms of Service or the Service.
+Company
+About
+Team
+Press
+Media Kit
+Contact
+Help
+Get iOS app
+for
+Creators
+Become a Creator
+Take our travel quiz
+for
+Business
+Overview
+Destinations
+Hotels
+How It Works
+Packages
+Book a demo
+Get iOS app
+©
+2026
+Mindtrip, Inc.
+Privacy Policy
+Terms of Service

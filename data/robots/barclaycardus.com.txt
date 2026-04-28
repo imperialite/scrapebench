@@ -1,0 +1,5 @@
+user-agent: *
+disallow: /filenotfound.html
+disallow: /page-not-found.html
+disallow: /banking/offer-expired/
+sitemap: https://cards.barclaycardus.com/sitemap.xml

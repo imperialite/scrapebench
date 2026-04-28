@@ -1,0 +1,277 @@
+Privacy Policy
+Privacy Policy
+Last updated December 22nd, 2022
+Rent Group Inc. (“Rent Group”, or “we”, “our” or “us”) is the owner and operator of apartmentguide.com, rent.com and rentals.com (collectively, the “Websites”), as well as the Apartment Guide and Rent. mobile applications (collectively, the “Apps”), and other related sites, tools, applications, or services (collectively and including the Websites and the Apps, the “Sites”). This Privacy Policy describes how we handle your information collected via the Sites. By using the Sites, you expressly consent to our collection, storage, use and disclosure of your information as described in this Privacy Policy.
+Our Additional Notice for California Consumers can be found
+here
+.
+1. Collection.
+When using our Sites, we will collect and store your information. We may also collect information about you from other means and sources as described herein. Accordingly, our Privacy Policy may apply to you even if you do not submit information to us through the Sites. Depending on the Sites or services you use, we may collect the following information:
+a. Information you provide to us or others via the Sites.
+When you use the Sites, you can provide personal information about yourself to us, such as personal and contact information (including name, email address, and telephone number), properties you may be interested in, and any additional information you choose to provide about yourself and your search for a new home (such as move-in date, desired floor plans, and the like).
+If you create an account with us, some of our Apps may provide you with a functionality that allows you to store additional information that you may later elect to provide to a property in connection with making a rental application, such as self-reported employment, income and credit score information. If you store such information, you may delete it at any time, and you control whether you share it with any properties and/or landlords.
+If you use some of the Services offered through the Sites, your information may be collected and processed by third parties.
+For example, if you purchase a listing on Rentals.com, your payment information may be collected. This information will be collected and processed directly by our third-party payment processor.
+Similarly, some of our Sites may facilitate your ability to file an application with a landlord to evaluate your eligibility for a particular property. This functionality may facilitate the collection of your credit score information, self-reported income, and background checks. We use technology that passes the information necessary to obtain a credit score and background check directly to third parties who process such requests.
+If you make information public by your use of the Sites, such as by posting a review for a property, such information will be published on the appropriate Site(s).
+If you use features on our Sites to learn more about a property, like taking virtual tours or scheduling in-person tours, we collect information about your use of those features. For example, if you use our Site to schedule a tour with a property, we collect information about whether you scheduled the tour, when the tour is scheduled for, whether you attended the tour, and whether you decided to apply for a lease with the property.
+b. Data collected by automated means like cookies, web beacons, and similar technologies:
+We or third party providers may place cookies, web beacons, or similar technologies on your device when you visit our Sites. We use cookies to provide personalized features, such as automatically logging you into your personalized home page, and to deliver customized services, content, and advertising. We may use cookies to monitor, analyze, track activity on, and improve the functionality and usability of the Sites. Cookies may also be used to provide you with advertising or marketing relevant to your interests. You can block cookies by changing the settings on your browser, but doing so may prevent us from delivering certain services to you. Cookies and similar technologies may be used to collect information about your interactions with the Sites, or with emails that we send to you.
+c. Calls, text messages, and other communications.
+We make tools available that facilitate communications between you and properties by phone, email or text (such as when you call a property using the phone number displayed on one of the Sites). When these tools are used, we may collect certain information related to the communication, like email addresses, contact logs, calling number, call duration, date and time of the communication, and similar information.  We will also obtain the content of emails, calls, or text messages exchanged by you and properties to the extent they are exchanged through the Sites.  Please note that if you contact us or a property via the phone numbers provided on the Sites, we may record the phone conversation and store a recording and transcription of such call for quality assurance and customer service purposes; you will be notified at the beginning of a call if it may be recorded or monitored.
+d. Location data.
+If you use the Apps and authorize them to use your location, we may collect the location of your device.  You can deactivate our collection of location data at any time within your mobile device settings.
+e. Logs of your session on our Sites.
+When you visit our Sites, we collect information about how you use them.  This information may include information based on your interactions with the Sites and their advertising (such as search information, device sign-on data, statistics on page views, traffic to, from and within the Sites), IP address, standard web log information, information about the type of device through which you access the Sites (such as connection information such as the name of your mobile operator or ISP, browser type, language and time zone).
+f. Social network data.
+If you log on to our Sites using your social media account, we may receive information about your social media profile that you have authorized the social network to share with us as part of your sign-on.  Additionally, if you interact with any content we make available on social media – such as by “liking” our content or posting a response to our posts – we may be able to access information that the social media network makes publicly available in connection with that interaction.
+2. Use.
+We may use your personal information to:
+a.
+provide the services and customer support you request, including providing your information to properties as you request, helping you learn more about properties (such as with online content and functionalities enabling property tours), facilitating rental applications, and confirming emails related to the Sites’ services, reminders, and transactions;
+b.
+contact and communicate with properties, landlords, or us;
+d.
+personalize or customize your experience and otherwise measure and improve the Sites’ services, as well as modify and update existing services and develop new services;
+e.
+communicate with you about properties, products, services, offers, promotions, or events, including by sending you relevant residential real estate related listings, via email, phone, text messaging, push notification on your phone, or other means;
+f.
+deliver targeted and interest-based marketing, service updates, and promotional offers, on our Sites and elsewhere;
+g.
+connect you with third parties that provide products or services that may be relevant to you;
+h.
+facilitate your ability to make payments to third parties through the Sites, should you choose to do so;
+i.
+request your review of a property;
+j.
+compare information for accuracy and verify it with third parties;
+k.
+measure consumer or property interest in and/or satisfaction with our products and services, including by monitoring and analyzing trends, usage, and activities connected to the Sites;
+l.
+summarize, link, or combine your information with other information we hold or receive from others to help us perform any of the purposes listed here;
+m.
+help promote a safe service and detect and prevent error, fraud and other potentially prohibited or illegal activity;
+n.
+enforce our agreements, terms, conditions, and policies, and send you notices and alerts;
+o.
+provide services as otherwise described to you at the time of collection;
+p.
+prepare aggregated or deidentified data, including for general marketing and analytical purposes; and
+q.
+learn more about you or other individuals.
+3. Disclosure.
+We may share some or all of your personal information with third parties for any purpose described in Section 2 above (“Use”), or for any other purpose that has been notified to you or to which you have consented.  In addition, we may provide or share some or all of your personal information with:
+a. Persons to whom you direct us to share information –
+Our Sites enable you to communicate with properties by email, phone, or text.  When you submit a message to a property, or call or text a property, we will provide your information to that property.  When you contact a property, they will store information about you, such as your name, email address, phone number, etc. Similarly, if you schedule a tour with a property, you direct us to share your information with that property to facilitate the tour and manage whether it has occurred. We expect properties to use your information for the purpose of your interaction with them as a renter.  You can visit the privacy policies maintained by properties you contact to learn more about their privacy practices.
+b. Service providers to Rent Group –
+Service providers under contract who help with our business operations.
+c. Our other Business Partners –
+Third parties offering products or services that may be relevant to you, whose services you agree to use (
+e.g
+., the rental application product referenced above), you have expressed an interest in, or with whom you have authorized us to share your personal information.
+d. Information you make public –
+If you make information public, such as by posting a review on our Site(s), that information may be available to the general public.
+e. To comply with our Legal Obligations or in Connection with Legal Claims –
+We may share information with any third party to satisfy any requirement of laws, rules, regulations, legal process, or governmental requests.  Additionally, we may share information in connection with our establishment, exercise, or defense of legal claims.  This may include disclosures to law enforcement offices, third-party rights owners, or others in connection with enforcing our Terms of Service or Privacy Policy; responding to claims that an advertisement, posting or other content violates the rights of a third party; or protecting the rights, property or personal safety of our users or the general public.
+f. Sharing in Connection with Business Transfers –
+We may share personal information with another business entity should we plan to merge with, or sell substantially all our assets to that business entity.
+4. Communications and Communication Tools.
+We communicate with users, and facilitate communications between users, in a variety of ways, including but not limited to:
+Send-to-a-Friend. Our Send-to-a-Friend functionality lets you share listings with friends by providing your friend’s email address. If you use our Send-to-a-Friend or other email tools, we do not permanently store the email address you give us, or use that email address for any marketing purpose other than to send an email to your friend as directed by you.
+Email preferences. We provide all users with the opportunity to opt out of receiving marketing communications from us. To remove your contact information from our lists and newsletters, click on the “unsubscribe” link that is included at the bottom of any email you receive from us, and adjust your “preferences” accordingly.
+In addition, you may opt out of marketing communications by providing your email address and updating your “preferences” through the links below. Please note that we send emails through our different brands, so you will likely need to opt out through each one of the below links to ensure a complete opt out.
+Rent. Email Opt Out
+Apartment Guide Email Opt Out
+5. Interest-Based Advertising and Opting Out.
+Like many companies, Rent Group processes personal information for purposes of targeted advertising. As noted above, we may partner with third parties (e.g., data management platforms, ad servers, ad network providers, or third-party advertisers) to provide you with advertisements that you see on the Sites or other websites. These parties use data technologies to collect information about your online activities over time on this and other websites, to provide you targeted advertising based upon your interests, such as cookies, clear gifs, web beacons or similar technologies. This data collection may take place both on our Site and on third-party websites that participate in ad networks or use similar third party providers.
+One way to opt out of certain of these technologies is by visiting the
+Digital Advertising Alliance
+and
+the Network Advertising Initiative
+. You can also opt out of targeted advertising by visiting our
+Do Not Sell or Share my Personal Information
+page.
+Please note the above links do not opt you out of being served advertising; you will continue to receive generic ads that are not based on your specific interests.
+6. Privacy Rights Requests
+Under applicable law, you may have these rights (in each case under the conditions and to the extent set out in applicable law):
+Right of Access:
+A right to confirm whether we are processing personal information about you, and to request to access such personal information (including, if applicable, in a portable and readily usable format).
+Right of Deletion:
+A right to request that we delete personal information concerning you. Please note that if you have requested a service that requires the use of your personal information, we may not be able to provide that service if you choose to delete your personal information.
+Right of Correction:
+A right to request that we correct inaccurate personal information we may hold about you.
+If any of the above rights are available to you under applicable law, you can submit a request to exercise your rights as follows:
+For Rights of Access or Deletion please visit our
+Privacy Rights Form
+.
+For Rights of Correction please visit our
+Correction Rights Form.
+In certain circumstances, you may have a right to appeal the result of your request; if so, our response to your request will tell you how to initiate an appeal.
+7. Renters, Properties, External Websites and other Third Parties.
+Except as otherwise expressly included herein, this Privacy Policy addresses only the use and disclosure of information we collect from you via the Sites. If you disclose your information to others, whether they are landlords, other renters, properties or other websites, different rules may apply to their use or disclosure of the information you disclose to them. We do not control the privacy policies of third parties. We encourage you to review third parties’ privacy notices before you disclose your personal information to others.
+The Sites have links to other websites that may collect personal information about you if you access or use them. We are not responsible for the privacy practices or the content of those linked websites.
+8. Account Protection.
+To the extent one of our Sites provides for user accounts, your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your account password for such Site to anyone. If you do share your password or your personal information with others, remember that you may be responsible for actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify us and change your password.
+9. Security.
+We treat data as an asset that must be protected and have taken steps (encryption, passwords, physical security, etc.) to protect personal information against unauthorized access and disclosure. However, third parties may unlawfully intercept or access transmissions or private communications sent via the Internet. Therefore, although we work to protect your privacy, we cannot promise, and you should not expect, that personal information or private communications you transmit via the Internet are guaranteed to remain private.
+10. Minors.
+The Sites are intended solely for use by persons 13 years of age or older. If you are under the age of 13, you may not use the Sites or other services, or contribute any information to us.
+11. Retention
+We generally keep personal information for the length of time needed to carry out the purposes outlined in this Privacy Policy, and as permitted under our records retention policies, which are consistent with applicable laws. We retain and use personal information to the extent necessary to manage your relationship with us or properties, personalize and improve your experience, provide advertising to you about properties or other products and services, and to comply with our legal and contractual obligations, resolve disputes, enforce our agreements, and as otherwise described in this Privacy Policy.
+12. General.
+We may amend this Privacy Policy at any time by posting the amended terms here. Amended terms take effect upon being posted. Your continued use of the Sites constitutes acceptance of any new terms.
+13. Questions.
+Questions regarding this policy should be directed to the following address:
+Rent Group Inc.
+Attn: General Counsel
+271 17th Street NW, Suite 1850
+Atlanta, Georgia 30363
+or via email to
+privacy@rent.com
+.
+CaliforniaNotice
+Additional Notice for California Consumers
+This part of our Privacy Policy applies to consumers who reside in the State of California.
+Personal Information We Collect
+We describe the personal information we have collected in the 12 months preceding the effective date of this Privacy Policy above,
+in the section titled “Collection”
+. The information we have obtained includes the following categories of personal information:
+(A)
+Identifiers such as a real name, alias, postal address, unique personal identifier, online identifier, internet protocol address, email address, account name, or other similar identifiers (e.g., if you register an account with us).
+(B)
+Personal information described in Cal. Civ. Code Section 1798.80(e) (California Customer Records statute). This means any information that identifies, relates to, describes, or is capable of being associated with a particular individual, including, the “identifiers” listed in the preceding bullet point A, and the following: If you have created an account with us, you have the ability to store self-reported employment, income and/or credit score information under your account, in case you want to provide it to others in connection with making a rental application. You can delete such information at any time.
+(C)
+Commercial information, including records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+(D)
+Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with us or our affiliates’ websites, applications, or advertisements. This includes (1) logs of your session on our Sites; (2) data collected by automated means like cookies, web beacons, and similar technologies; and (3) connection information associated with calls, text messages, and other communications with you.
+(E)
+Geolocation data – If you authorize our Apps to use your location, we will receive location information. You can disable collection of location information by our Apps at any time in your mobile device settings.
+(F)
+Audio information from calls you place to properties, including recordings and transcriptions of such calls – you will be notified at the beginning of a call if it may be recorded or monitored. Electronic information in the form of Internet or other electronic network activity information as described above may also be collected.
+(G)
+Sensitive personal information, including (1) account login credentials; (2) government-issued identifiers that you provide in connection with rental applications; (3) precise geolocation data as described above; and (4) content of emails between consumers and properties, to the extent these may be received by us when we are not the intended recipient of such communications.
+(H)
+Inferences drawn from (1) the information we collect when you visit our websites, use our apps, or interact with Rent.-related tools, widgets or plug-ins or our official social media pages or Rent.-related social media apps, tools, widgets and plug-ins, (2) information we collect, including through affiliates and third-party suppliers, regarding content and other data posted on the Internet (such as public locations on the Internet), and (3) information about consumer preferences and behavior that we collect on our websites and mobile apps or purchase from third party affiliates in order to create a profile about a consumer reflecting the consumer’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+We obtain the above categories of personal information from a variety of sources. As outlined above in the section titled “Collection”, the sources from which we collect personal information include: (a) individuals with whom we or our service providers of business partners interact; (b) the devices used to access our Websites, Apps, or any content we make available; (c) emails, phone calls, text messages, or other communications between consumers and us or properties; and (d) third party partners such as marketing and analytics providers; and others consistent with this Privacy Policy.  For more information, please see the above section titled “
+Collection
+.”
+Use of Personal Information:
+We use the personal information we collect for our operational purposes, including all purposes notified to you
+Section 2 of this Privacy Policy above
+(“Use”). In addition to the purposes described above for which we use personal information, we use personal information for the following business purposes:
+(1)
+Auditing related to a current interaction with the consumer and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance with applicable laws and other standards.
+(2)
+Helping to ensure security and integrity while using personal information as may be reasonably necessary and proportionate, including detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity.
+(3)
+Debugging to identify and repair errors that impair existing intended functionality.
+(4)
+Short-term, transient use of personal information that is not disclosed to another third party and is not used to build a profile about you or otherwise alter your experience outside the current interaction, including, but not limited to, the contextual customization of ads shown as part of the same interaction.
+(5)
+Performing services on our own behalf for you or others, including by providing your information to properties as you request; facilitating contact and communication  between you, us, and relevant properties; maintaining or servicing accounts; providing customer service; processing or fulfilling transactions; verifying customer information; facilitating the processing of payments; providing advertising or marketing services; resolving disputes and troubleshooting problems; sending you relevant residential real estate related listings via email, phone, text messaging or push notification on your phone; or sending you notices and alerts.
+(6)
+Undertaking internal research for technological development and demonstration.
+(7)
+Undertaking activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for us, or controlled by us, and to improve, upgrade, or enhance the service or device that is owned, manufactured, manufactured for us, or controlled by is.
+For further information,
+please see the above “Use” section
+. We may also use the information we collect for our own or our service providers’ other operational purposes, purposes for which we provide additional notice, or for purposes compatible with the context in which the personal information was collected.
+Disclosure of Personal Information
+Rent Group does not disclose personal information for monetary consideration. As is common among businesses that operate internet websites, within the 12 months preceding the effective date of this Privacy Policy, we have disclosed personal information in categories (C), (D), and (G) listed above to other businesses or third parties for consideration that can constitute a “sale” and/or “sharing” of personal information for cross-context behavioral advertising as defined under California law.  These disclosures may have involved sharing certain identifiers, information about the use of our Sites, and inferences drawn about you to our social media, analytics, and advertising partners for valuable consideration and/or for cross-context behavioral advertising.
+We do not “sell” personal information of individuals we know to be under the age of 16, or share the personal information of individuals we know to be under the age of 16 for cross-context-behavioral advertising.  Within the last 12 months, we have disclosed personal information in all or substantially all of the categories identified above to other businesses, service providers, or third parties for various business purposes.  For more information about the categories of personal information we have disclosed for business purposes, the categories of entities to whom we have disclosed this information, and the purposes for which we have disclosed the information, please see
+Section 3 above (“Disclosure”)
+.
+We do not disclose personal information of individuals we know to be under the age of 16 to other businesses or third parties for consideration or for cross-context behavioral advertising.
+Your California Rights
+If you are a California resident, you may have certain rights related to your personal information. You may exercise these rights free of charge except as otherwise permitted under applicable law.
+Right to Know and Access Rights. You may request that we disclose to you:
+the categories of personal information we have collected about you;
+the categories of sources from which the personal information is collected;
+our business or commercial purpose for collecting or selling personal information;
+the categories of third parties with whom we share personal information;
+the specific pieces of information we have collected about you;
+the categories of personal information about you that we have disclosed to other businesses or third parties for monetary or other valuable consideration as a “sale” under the California Consumer Privacy Act and the categories of third parties to whom the personal information were so disclosed; and
+the categories of personal information about you that we disclosed for a business purpose.
+Deletion Rights. You have the right to request that we delete personal information about you which we have collected from you. Please note if you have requested a service that requires the use of your personal information (e.g., rental applications), we may not be able to provide that service if you choose to delete your personal information.
+Correction Rights. You may request that we correct inaccurate personal information we may hold about you.
+Right to Opt Out of Sales or Sharing.
+You have the right to opt-out of “sales” of personal information (as defined under California law) and out of sharing of personal information for cross-context behavioral advertising. To submit an opt-out request, go to our Do Not Sell or Share My Personal Information page
+here
+.
+We also process opt-out requests submitted by consumers’ opt-out preference signals as required by applicable law. The technical specifications of a consumer’s opt-out preference signal determine how we process such signals. For example, if an opt-out preference signal is associated solely with a user’s browser, the opt-out will be applied to the browser. As of the “Last Updated” date of this Privacy Policy, our processing of opt-out preference signals can be considered “frictionless” under California law. You can learn more about how you can use an opt-out preference by visiting the California Attorney General’s CCA page and consulting the section titled “Requests not to Sell Personal Information (Right to Opt-Out of Sale).” You can also consult information published by the California Privacy Protection Agency (CPPA) about how you can use opt-out preference signals.
+Right to Limit the Use of Sensitive Personal Information. We do not use or disclose sensitive personal information for purposes that, under applicable law, require us to offer consumers a “Right to Limit” the use or disclosure of sensitive personal information.
+Subject to applicable law, we may not discriminate against you because of your exercise of any of the above rights, or any other rights under the California Consumer Privacy Act, including by (a) denying you goods or services; (b) charging different prices or rates for goods or services, including through the use of discounts or other benefits or imposing penalties; or (c) providing you a different level or quality of goods or services.
+We may, however, charge different prices or rates, or provide a different level or quality of goods or services, if that difference is reasonably related to the value provided to us by your personal information.
+You may request to exercise these rights by either:
+1)
+completing our
+Correction Rights Form
+for Correction Rights;
+2)
+completing our
+Privacy Rights Form
+for all other rights; or
+3)
+emailing us at
+privacy@rent.com
+.
+As required or permitted under applicable law, please note that we may take steps to verify your identity before granting you access to information or acting on your request to exercise your rights. To verify your request, you will be required to provide information listed on our rights request forms, and to confirm you control email addresses or phone numbers you provide to us in connection with a request. We may limit our response to your exercise of the above rights as permitted under applicable law.
+Agent Authorization
+You may designate an authorized agent to request any of the above rights on your behalf. You may make such a designation by providing the agent with written permission, signed by you, to act on your behalf.  Your agent may contact us as set forth in this Privacy Policy.  Even if you choose to use an agent, as permitted by law, we may require verification of the agent’s authorization to act on your behalf, require you to confirm you have authorized the agent to act on your behalf, or require you to verify your own identity.
+Metrics Regarding Privacy Requests
+The following details the metrics for requests to Access specific pieces of personal information, requests to Know categories of personal information, requests to Delete, and requests to Opt-Out that we received from California residents during the period of January 1, 2024 until December 31, 2024.
+Request Type
+Total Received
+Number Granted
+Number Denied*
+Average Days to Substantive Response
+Request to Access
+66
+37
+29
+13
+Request to Know
+72
+43
+29
+16
+Request to Delete
+96
+71
+25
+13
+Request to Opt Out
+of Sales or Sharing
+189
+115
+74
+12
+*Requests were only denied for failure to verify.
+California Rights relating to Direct Marketing
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by us to third parties for the third parties’ direct marketing purposes. To make such a request, please send an email to
+privacy@rent.com
+.
+Disclosures relating to “Do Not Track”
+As of the effective date listed above, there is no commonly accepted response for Do Not Track signals initiated by browsers. Therefore, we do not respond to such signals or to other mechanisms that may provide the ability to exercise choice regarding the collection of personal information regarding your online activities over time and across third party Web sites or online services.
+Our Company
+Redfin.com
+Do Not Sell My Info
+Let Us Help
+Avoid Scams
+List Your Community
+Site Map
+Accessibility
+Download the App
+Google Play
+App Store
+If you are using a screen reader, or are having difficulty reading this website, please call
+1-844-759-7732
+.
+Rent Group, operator of ApartmentGuide, is committed to and abides by the Fair Housing Act and Equal Opportunity Act. Read our
+Fair Housing Policy
+and
+The New York State Fair Housing Notice.
+© 2026 Rent Group Inc. All rights reserved.
+Terms of Service
+Privacy Policy
+MLS Disclosures

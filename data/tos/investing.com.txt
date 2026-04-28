@@ -1,0 +1,902 @@
+Investing.com Terms and Conditions
+
+Table of Contents
+1. Changes to the Terms and Conditions
+2. Changes to the Platform
+3. Risk Disclaimer
+4. No Investment Advice
+5. Disclaimer of Warranties
+6. Use and Access
+7. Your Account
+8. Closing Your Account
+9. Newsletter and Third-Party Communications
+10. Limitations on Use
+11. User Content
+12. Legal Restrictions
+13. Links to Third Party Sites and Use of Third Party Software
+14. Market Information
+15. Artificial Intelligence (AI) Content and Tools
+16. Subscriptions
+17. Special Conditions Regarding Specific Products
+18. Force Majeure
+19. Technical Problems
+20.Trademarks and Copyrights
+21. Notice to Users of the Mobile Application through an iOS Device
+22.Breach
+23.Governing Law and Court Jurisdiction
+24.Disclosures
+25.Miscellaneous
+Last Modified: August 2025
+
+
+2
+These terms and conditions (the “Terms”) are a legal agreement between Fusion Media Limited
+(“Fusion Media”) and its affiliates (collectively, the “Group” or “We”) and you, the end-user
+(“you”), and they govern your access and use of the website www.investing.com (and all
+related sub-domains and sub-directories), the Investing.com mobile applications and all
+content, tools and products provided therein (respectively, the “Site”, the “Apps”, and
+collectively the “Platform”).
+BY ACCESSING OR USING THE , YOU SIGNIFY YOUR ACCEPTANCE OF THESE TERMS.
+PLEASE READ THE PRIVACY POLICY, COOKIE POLICY, RISK WARNING AND ALL OF THE
+FOLLOWING TERMS AND CONDITIONS INCLUDING THE SPECIAL CONDITIONS (DETAILED
+BELOW) (COLLECTIVELY, THE “POLICIES”) BEFORE ACCESSING OR USING OUR PLATFORM.
+If you do not agree to any of the Policies, you are requested to immediately cease any access
+and use of our Platform.
+You confirm that you are over the age of 18 (and above the minimum age required to enter into
+a legal agreement in your jurisdiction), as the Platform is not intended for minors under 18. If it
+comes to our attention that a registered user is under 18 years of age, we maintain the right to
+cancel such user's account.
+1. Changes to the Terms and Conditions
+We reserve the right to amend, remove, or add to these Terms at any time. Please check the
+“Last modified” heading at the bottom of this document to see when the Terms were last
+updated. Any changes to the Terms will become effective immediately after they are posted.
+Your continued use of the Platform following any changes to the Terms means that you accept
+the updated Terms.
+If, at any time, you decide that you do not accept these Terms, you are requested to
+immediately cease any further use of the Platform. Any terms and conditions proposed by you
+which are in addition to, or which conflict with these Terms are expressly rejected by the Group
+and will have no force or effect. For Special Conditions applicable to certain products offered
+and available as part of the Platform (Including, without limitation, InvestingPro, InvestingPro+
+or ProPicks AI), please see additional terms below.
+2. Changes to the Platform
+You understand and agree that We may discontinue or change all or any portion of the Platform
+at any time, without notice. Furthermore, we may decide, at our sole discretion, to impose
+certain fees or other conditions in order to access and use any portion of the Platform at any
+time. You also understand and agree that Fusion Media may discontinue or restrict your use of
+the Platform for any reason without notice.
+3. Risk Disclaimer
+Trading in financial instruments, including without limitation, stocks, bonds, cryptocurrencies,
+CFDs and Forex, involves high risks, including the risk of losing your investment amount, and
+may not be suitable for all investors. Trading on margin substantially increases the financial
+risks. Using a high level of leverage to conduct financial transactions (including, without
+limitation, foreign exchange transactions) involves the risk that borrowing costs will be higher
+than the income which is derived from the assets. The result of the above is that even a slight
+fluctuation of the market could mean substantial gains when these fluctuations are in your
+favor, but that could also mean substantial losses if the fluctuations are to your detriment. You
+3
+alone are responsible for any losses you may incur as a result of your reliance on the Platform
+and any information, data, article or other content (the “Content”) accessed by you through
+the Platform. Before making any investment, we strongly urge you to seek advice from a
+licensed financial advisor. For more information, please see our Risk Warning.
+4. No Investment Advice
+The Platform and the Content are provided to you solely for your general informational
+purposes, and should not be considered as legal, tax, accounting, financial or investment
+advice. Investing.com is not a licensed securities dealer, broker, investment adviser,
+investment bank and does not provide any financial services. Nothing in the Platform or
+Content therein represents a recommendation to buy or sell any financial instrument, nor does
+it reflect the views of the Group or its management, employees or consultants. You are solely
+responsible for determining whether any investment is suitable for you, considering your
+investment objectives, risk tolerance and personal financial situation. It is also your
+responsibility to evaluate the merits and risks of using the information provided on this site
+before making any decisions.
+5. Disclaimer of Warranties
+THE PLATFORM, THE CONTENT AND THE MARKET IFNORMATION ARE PROVIDED “AS IS”,
+WITHOUT ANY WARRANTIES WHATSOEVER. THE GROUP AND THEIR RESPECTIVE
+EMPLOYEES, OFFICERS, DIRECTORS, AGENTS, SHAREHOLDERS AND LICENSORS (THE
+“REPRESENTATIVES”) CANNOT AND DO NOT WARRANT THE ACCURACY, COMPLETENESS,
+CURRENTNESS, TIMELINESS, NONINFRINGEMENT, TITLE, MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, OR THAT THE PLATFORM OR CONTENT WILL BE ERROR FREE. THE
+PLATFORM AND THE CONTENT, AND THE GROUP HEREBY DISCLAIMS ANY SUCH EXPRESS
+OR IMPLIED WARRANTIES. THE GROUP MAY MODIFY, SUSPEND, OR DISCONTINUE THE
+PLATFORM OR ANY PART THEREOF WITH OR WITHOUT NOTICE, AND THE
+REPRESENTATIVES ASSUME NO LIABILITY IN CONNECTION THEREWITH. IN NO EVENT
+SHALL THE REPRESENTATIVESBE LIABLE TO YOU OR TO ANY THIRD PARTY OR TO ANYONE
+ELSE FOR ANY KIND OF FINANCIAL LOSS, LOST PROFITS, ANY SPECIAL, INCIDENTAL OR
+CONSEQUENTIAL DAMAGE OR ANY OTHER SIMILAR DAMAGE OR ANY OTHER LOSS OR
+INJURY, RESULTING DIRECTLY OR INDIRECTLY FROM USE OF THE PLATFORM, CAUSED IN
+WHOLE OR PART BY ITS NEGLIGENCE OR CONTINGENCIES BEYOND ITS CONTROL IN
+PROCURING, COMPILING, INTERPRETING, REPORTING OR DELIVERING THE PLATFORM AND
+ANY CONTENT ON THEREON.
+IN NO EVENT SHALL THE REPRESENTATIVES BE LIABLE TO YOU OR ANY THIRD PARTY OR
+ANYONE ELSE FOR ANY DECISION MADE OR ACTION TAKEN OR NOT TAKEN BY YOU IN
+RELIANCE ON THE PLATFORM OR THE CONTENT AND TOOLS THEREIN.
+FURTHERMORE, DUE TO THE NUMBER OF SOURCES FROM WHICH THE CONTENT
+PRESENTED ON OUR PLATFORM IS OBTAINED, AND THE INHERENT HAZARDS OF
+ELECTRONIC DISTRIBUTION, THERE MAY BE DELAYS, OMISSIONS OR INACCURACIES IN
+SUCH CONTENT AND THE PLATFORM. THE GROUP DOES NOT WARRANT THAT THE
+PLATFORM WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT THE SITE OR THE SERVERS
+THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+FURTHERMORE, THE GROUP DOES NOT GUARANTEE THAT YOU WILL BE ABLE TO ACCESS
+OR USE THE PLATFORM (INCLUDING ANY OF THE SUBSCRIPTIONS) AT ALL TIMES OR
+LOCATIONS OF YOUR CHOOSING, OR THAT THE GROUP WILL HAVE ADEQUATE CAPACITY
+FOR THE PLATFORM AS A WHOLE OR IN ANY GEOGRAPHIC LOCATION. THERE MAY BE
+4
+GEOGRAPHIC LOCATIONS IN WHICH THE PLATFORM (INCLUDING THE SUBSCRIPTIONS)
+MAY NOT BE AVAILABLE.
+THE GROUP WILL NOT BE LIABLE IN ANY WAY IN THE EVENT OF ANY FAILURE OF, OR
+DAMAGE OR DESTRUCTION TO YOUR COMPUTER SYSTEMS, DATA, RECORDS OR ANY PART
+THEREOF, OR FOR DELAYS, LOSSES, ERRORS OR OMISSIONS RESULTING FROM YOUR USE
+OF THE PLATFORM OR FROM THE FAILURE OR MISMANAGEMENT OF ANY
+TELECOMMUNICATIONS, COMPUTER EQUIPMENT OR SOFTWARE, OR FOR ANY OTHER
+TECHNICAL PROBLEMS, SYSTEM FAILURES AND MALFUNCTIONS, COMMUNICATION LINE
+FAILURES, EQUIPMENT OR SOFTWARE FAILURES OR MALFUNCTIONS, SYSTEM ACCESS
+ISSUES, SYSTEM CAPACITY ISSUES, HIGH INTERNET TRAFFIC DEMAND, SECURITY
+BREACHES AND UNAUTHORIZED ACCESS, AND OTHER SIMILAR COMPUTER PROBLEMS
+AND DEFECTS. THE GROUP WILL NOT BE RESPONSLE FOR ANY INABILITY TO ACESS THE
+PLATFORM OR ANY PORTION THEREOF, WHETHER RESULTING FROM ANY TECHNICAL
+MALFUNCTION, GEOGRAPHICAL LIMITATION OR SUCH OTHER REASON.
+6. Use and Access
+Your use of the Platform requires certain electronic equipment, such as a computer, mobile
+phone and internet connection. You shall be solely responsible for providing and maintaining
+the means by which you use the Platform. You shall be responsible for all access and service
+fees necessary to connect to the Platform and assume all charges incurred by your use of such
+connectivity services. You further assume all risks associated with the use and storage of
+information on your personal computer, mobile device or any other computer or device through
+which you will gain access to the Platform (hereinafter referred to as “Computer”).
+You represent and warrant that you have implemented and will continue to maintain
+appropriate protection in relation to the security and control of your Computer and any
+information and data included therein.
+You will not in any way, whether directly or indirectly, expose the Group or any of its online
+service providers to any computer virus or other similarly harmful or inappropriate material or
+device.
+7. Your Account
+Access to certain features of the Platform may require you to set up an account on the Platform
+(an “Account”). As part of the registration, you may be required to provide certain personal
+data, such as your full name, email address, password, and phone number (the “Registration
+Credentials”). Alternatively, for your convenience, you can register via your account with
+certain social media sites such as Facebook, Apple or Google (or such other social media sites
+available at the date of your registration) (the “Third Party Account(s)”). For the avoidance of
+doubt, we retain the right to remove the ability to register or login to the Platform through any
+of the aforementioned Third Party Account, and in such event you may be asked to reregister
+through a different method. You undertake that your Registration Credentials are accurate,
+truthful and updated. We reserve the right to block the creation of your Account based on our
+inability to confirm the authenticity of your Registration Credentials. Please see our Privacy
+Policy for more information about logging in to your Account either by providing your
+Registration Credentials or via a Third Party Account.
+You are solely responsible for maintaining the confidentiality of your email address and
+password and you must immediately notify us of any actual or suspected unauthorized use of
+your Account. You are solely responsible for all activity and usage of your Account, including,
+5
+but not limited to, use of the Account by any third party authorized by you to use your email
+address and password. We permit you to maintain only one Account to access the Platform at
+any time and you hereby represent that you currently have no other Account(s). We reserve
+the right to close your Account, in our sole discretion, at any time without notice.
+8. Closing Your Account
+You may close your Account at any time by unsubscribing in the manner described
+at https://www.investing.com/unsubscribe . You must complete the unsubscribing process in
+the manner described therein. Upon completion of the unsubscribing process, you will receive
+an automated confirmation via e-mail that the request was received, and your Account will be
+closed immediately.
+9. Newsletter and Third-Party Communications
+By registering to the Site and creating an Account, you agree to receive periodic email
+newsletter updates that will include content, news, and information which may be of interest
+to you. Additionally, you acknowledge that you may receive promotional emails from thirdparty advertisers with offers or products that we believe may be relevant to you. You can optout of these communications at any time by following the unsubscribe instructions provided in
+the emails, or through the “Email Settings” section of your Account profile on the Site.
+When you subscribe to our Subscription, you consent to being readded to our ongoing
+newsletter mailing list, even if you previously unsubscribed from such newsletter. Our ongoing
+newsletters provide valuable information tailored to enhance your subscription experience,
+ensuring you don't miss any pertinent updates or features related to your service. You can optout of these communications at any time by following the unsubscribe instructions provided in
+the emails, or through the “Email Settings” section of your Account profile on the Site.
+10. Limitations on Use
+Without limiting the generality of the foregoing or anything else set forth herein, your use of
+the Platform is subject to the following restrictions:
+a) Any use of the Platform shall be solely for your own personal use only. You are strictly
+prohibited from using any portion of the Platform for any commercial or business purposes.
+b) You may not sell, rent, lease, distribute, redistribute, license, publicly perform or display,
+publish, edit, create derivative works from, copy, modify, or otherwise make unauthorized
+use of the Platform, the Content or our trademarks, logos, brand names or any other similar
+identifying mark, or any copyright or proprietary notices incorporated into the Platform or
+the Market Information (collectively “Marks”), without the Fusion Media’s prior explicit
+written consent (which may be given or refused at its sole discretion on a case by case
+basis);
+c) You shall not access or use the Platform or the Content in order to build a similar or
+competitive service. You are expressly forbidden from employing any automated system
+or software to extract data for content from this website for any purpose. This includes, but
+is not limited to, scraping, data mining, robot or spider programs, and other automatic
+devices, tools, or processes to access, extract, download, or copy any data or information
+from the website. Without derogating from the above, you shall not otherwise violate other
+users' or third parties' rights to privacy, publicity and other rights, by collecting, harvesting,
+indexing or aggregating, data and information about other users or third parties without
+6
+their consent, whether manually or automatically, with the use of any means, or engage in
+testing, penetration testing, sniffing or monitoring of the Platform, or our systems, software
+or hardware in any way;
+d) You are prohibited from using the Platform or Content in any way which may promotes
+illegal activities, or the violation of any local, state, national, or international law or
+regulation, including, without limitation, laws governing intellectual property and other
+proprietary and data protection rights (including, but not limited to, patents, trademarks,
+trade secrets, copyrights, or any confidential, proprietary or trade secret information of any
+third party), information protection and privacy, including, but not limited to, content which
+disseminates another person's personal information without his or her permission;
+e) You shall not disassemble, decompile or reverse engineer any part of the Platform;
+f) You shall not impersonate any person or entity or otherwise misrepresent affiliation,
+connection or association with any person or entity, or use any fraudulent, misleading or
+inaccurate contact information;
+g) You may not remove, circumvent, disable, damage or otherwise interfere with any features
+of the Platform or the Content, or interfere with, corrupt, or disrupt the operation or
+performance of the Platform or the ability of any other person to use them (including,
+without limitation, by attempting to degrade the performance of the servers in any way);
+h) You must not circumvent any measures employed by the Group to prevent or restrict
+access to the site or any portion thereof, including, without limitation, any paywall or any
+features that enforce limitations on the use of the Platform or the Content.
+i) You may not use the Platform in connection with material, content or information which
+could deem to be offensive, inaccurate, incomplete, abusive, obscene, objectionable,
+defamatory, libelous, fraudulent or deceptive, indecent, pornographic, profane,
+threatening, advocating harassment or intimidation, distressing, vulgar, hateful, malicious,
+harmful for minors, racially or ethnically offensive, advocating racism, bigotry, hatred or
+physical harm of any kind against any group or individual, or disparaging the religious,
+political, or legal agenda of any person or entity, or is otherwise inconsistent with these
+Terms including any of our related policies.
+
+11. User Content
+Throughout your use of the Platform you may have several opportunities to publish or submit
+User Content (as defined below). By publishing any User Content you hereby irrevocably agree
+to the rules and instructions detailed below.
+“User Content” means any and all information and content that you or any other user submits
+to us, in connection with your or their use or the Platform, including, without limitation, forum
+comments, sentiments published and user articles.
+You are solely responsible for any User Content created by anyone using your Account (“Your
+User Content”), its accuracy and compliance with applicable laws, regulations and these
+Terms and Conditions. You assume all risks associated with the use of Your User Content,
+including, without limitation, any reliance on its accuracy, completeness or usefulness by
+others, or any disclosure of Your User Content that makes you or any third party personally
+identifiable.
+You hereby represent and warrant that: (a) You are the sole owner of Your User Content, or
+have sufficient rights and authority thereto; (b) Your User Content does not violate these Terms
+and Conditions and/or any applicable laws or regulations; (c) Your User Content does not
+contain any virus, adware, spyware, worms, or other harmful or malicious code; and (d) your
+7
+User Content is not offensive, inaccurate, incomplete, abusive, obscene, objectionable,
+defamatory, libelous, fraudulent or deceptive, indecent, pornographic, profane, threatening,
+advocating harassment or intimidation, distressing, vulgar, hateful, malicious, harmful for
+minors, racially or ethnically offensive, advocating racism, bigotry, hatred or physical harm of
+any kind against any group or individual, or disparaging the religious, political, or legal agenda
+of any person or entity, or is otherwise inconsistent with our policies.
+All User Content will be public and viewable by any other person through the Site. The User
+Content may be indexed by third party search engines, such as Google, and therefore may be
+available through such search engines or appear as a search result on such search engines.
+The Group is not obligated to backup any User Content and User Content may be deleted at
+any time. You are solely responsible for creating backup copies of Your User Content.
+By posting or uploading User Content to the Platform, you hereby grant, to the Group an
+irrevocable, nonexclusive, royalty-free and fully paid, worldwide license to reproduce,
+distribute, publicly display and perform, prepare derivative works of, incorporate into other
+works, and otherwise use Your User Content, and to grant sublicenses of the foregoing. You
+agree to irrevocably waive (and cause to be waived) any claims and assertions of moral rights
+or attribution with respect to User Content. You hereby represent and warrant that you have
+the right to grant to the Group the aforementioned license.
+If you provide the Group any feedback or suggestions regarding the Platform, including in
+connection with any Testimonial (as defined below) provided by you (“Feedback”), you hereby
+irrevocably assign to the Group all rights in the Feedback and agree that the Group (directly or
+through any other party) shall have the unlimited right to use such Feedback and related
+information in any manner it deems appropriate and that you will not be entitled to any
+consideration or compensation with respect to such use. Fusion Media will treat any Feedback
+you provide to Group as non-confidential and non-proprietary. You agree that you will not
+submit to the Group any information or ideas that you consider to be confidential or proprietary,
+or that are the confidential or proprietary information of any third party.
+The Group does not, and is not required to, review or screen any User Content uploaded,
+except as and to the extent required by applicable law. Notwithstanding the above, the Group
+reserves the right, at its sole discretion to review any User Content, investigate, and/or take
+appropriate action against you, in its sole discretion. Such action may include removing or
+modifying Your User Content, terminating your account, and/or reporting you to law
+enforcement authorities.
+The Group does not control User Content provided by other users which you may encounter
+throughout the Site, nor shall Group be responsible for any User Content. The Group makes no
+guarantees and no warranties regarding the accuracy, currency, suitability, non-infringement
+or quality of any User Content. Your interactions with other users of the Platform are solely
+between you and such users. You agree that Fusion Media will not be responsible for any loss
+or damage incurred as the result of or in connection with any such interactions. If there is a
+dispute between you and any user, The Group is under no obligation to become involved in its
+resolution or in any other manner whatsoever.
+Please view our Comment Guidelines and our Editorial Guidelines for additional information.
+Testimonial Program: The Group may, from time to time, invite you to participate in a product
+testimonial program. Participation in such program shall be your choice, at your sole discretion.
+If you choose to participate in such program, you will be asked to provide a testimonial in
+connection with your experience using any specific Subscription Product, as designated by
+the Group (the “Testimonial”). The Group may determine specific guidelines and criteria for
+such Testimonial program. For example, such guidelines can include the: 1) the specific
+8
+Subscription Product regarding which the Testimonial shall be provided; 2) the media through
+which your Testimonial will be provided, e.g., in writing, video, live interview with a Group
+representative, etc.; 3) the minimum/maximum length of the Testimonial; 4) additional
+instructions for the content of the Testimonial; 5) such other criteria determined by the Group.
+The Group may decide to grant participants of the testimonial program a gift card or other
+reward, to thank you for your participation in the program. If the Group decides to grant such
+reward, you will only be entitled to it if your Testimonial meets the Group’s criteria.
+Prior to the obtaining the Testimonial from you, the Group may review your usage of the
+Subscription Product or the Site in order to tailor the interview discussion and Testimonial to
+your specific experience. The Testimonial may be published on the Site and its affiliated
+platforms or on the Group’s marketing materials, alongside a photograph of Yourself, as
+provided by you. Notwithstanding the above, the Group will not be required to publish your
+Testimonial, and will have full discretion to decide whether to publish your Testimonial or not.
+Furthermore, the Group will be entitled to remove your Testimonial at any time, without
+providing you any prior notice (written or otherwise). You hereby understand that your
+Testimonial may be minorly edited by the Group, for length, grammar and clarity.
+12. Legal Restrictions
+Without limiting the foregoing, you understand that laws and regulations regarding financial
+contracts and services may vary throughout the world, and it is your sole obligation to ensure
+that you fully comply with any law, regulation or directive, applicable to your country of
+residence with regards to the use of the Platform. The ability to access our Platform does not
+necessarily mean that our Platform or your activities via the Platform, are legal under the laws,
+regulations or directives applicable to your country of residence.
+The Platform do not constitute, and may not be used for the purposes of, an offer or solicitation
+to anyone in any jurisdiction in which such an offer or solicitation is not authorized, or to any
+person to whom it is unlawful to make such an offer or solicitation. Access to the Platform, and
+the offering of financial contracts via our Platform, may be restricted in certain jurisdictions,
+and, accordingly, users accessing our Platform are required to inform themselves of, and to
+observe, such restrictions.
+
+13. Links to Third Party Sites and Use of Third Party Software
+The Platform contain advertisements to third party websites and services operated by third
+parties other than the Group (the “Third Party Advertisers”). Such advertisements may
+include, without limitation, ad banners, webinars, offers to register to third party services,
+“trade now” buttons, directories, sponsored articles, press releases, or such other hyperlinks
+throughout the Site, and may also include email communications including third party offers
+(the “Ads”). You acknowledge that the Group may be compensated by the Third Party
+Advertisers for such advertisements, including compensation which is based on your
+interaction or engagements with the advertisements or services.
+Such hyperlinks are provided for your reference and convenience. you agree not to hold the
+Group responsible for the content or operation of such websites. An advertisement on the Site
+for another website or third-party service provider does not imply that the Group endorses
+such third party or any content on that website or the operator or operations of that website.
+The Group is in no way involved in operating the third party websites and services offered
+therein, and they are subject to separate terms and conditions, privacy policy, copyright
+notices and license provisions. You are solely responsible for determining the extent to which
+you may use any content or such website. The Group does warrant that Third Party Advertisers
+9
+are licensed or regulated in you jurisdiction, and it is your obligation to ensure that any Third
+Party Advertiser you engage with is properly licensed.
+Furthermore, certain parts of the Platform contain third-party software, including but not limited
+to “open source” software. Use of third-party software or third party site may be governed by
+separate terms and conditions, privacy policy, copyright notices and license provisions, which
+shall be made available to you, as applicable, either by Group or by such third-party software
+provider. You shall not use, and shall indemnify and hold Group harmless for any such use by
+or on behalf of you, in a manner which infringes the rights of any third-party or which is in
+contravention to these Terms and Conditions and/or any specific license terms
+You agree not to hold Fusion Media, its officers, directors or employees and their affiliates,
+liable for any loss or damage of any sort incurred as a result of any such use of third party
+software or services by you or any of your affiliates.
+FUSION MEDIA, ITS OFFICERS, DIRECTORS OR EMPLOYEES AND THEIR AFFILIATES, HAVE
+NO LIABILITY TO YOU OR ANY THIRD PARTIES IN ANY CIRCUMSTANCE WITH RESPECT TO
+ANY ENGAGEMENT OR TRANSACTION BETWEEN YOU AND ANY THIRD PARTY ADVERTISER.
+14. Market Information
+The Group may make available to you through one or more of its Platform a broad range of
+financial information data and other products that are generated internally, or obtained from
+agents, vendors, stock exchange or partners, or using certain AI tools (“Third Party
+Providers”) such as MSCI LIMITED (“MSCI”). This includes, but is not limited to, financial
+market data, quotes, news, analyst opinions, research reports, graphs and data (“Market
+Information”).
+Market Information provided on the Platform is not intended as investment advice or a
+recommendation to make (or refrain from making) any kind of investment decision and may
+not be relied on as such. Credit ratings are statements of opinions and are not statements of
+fact. A reference to a particular investment or security, a rating or any observation concerning
+an investment that is part of the Market Information is not a recommendation to buy, sell or
+hold such investment or security, does not address the suitability of an investment or security
+and should not be relied on as investment advice. Group does not endorse or approve the
+Market Information, and we make it available to you only on an “AS IS” basis, only for your
+internal use and not for any commercial purpose. Neither Fusion Media nor any of its Third
+Party Providers (such as MSCI), any affiliates involved in or related to compiling, computing
+or creating the Market Information (i) make any express or implied warranties or
+representations with respect to the Market Information or the results to be obtained by the use
+thereof, (ii) guarantee the accuracy, adequacy, timeliness, completeness, timeliness,
+availability, non-infringement, merchantability and fitness for a particular purpose, or correct
+sequencing of the Market Information, or warrant any results from your use or reliance on the
+Market Information, and (iii) is responsible for any errors or omissions (negligent or otherwise),
+regardless of the cause, or for the results obtained from the use of such Market Information.
+Historical data and analysis should not be taken as an indication or guarantee of any future
+performance, analysis, forecast or prediction. You assume the entire risk of any use it may
+make or permit to be made of the Market Information. Without limiting any of the foregoing, in
+no event shall Fusion Media or any other Third Party Provider or any of its affiliates or any other
+person involved in or related to compiling, computing or creating the Market Information (i)
+have any liability for any direct, indirect, special, incidental, punitive, consequential or any other
+damages, costs, expenses or losses (including, without limitation, lost profits and opportunity
+10
+costs or lost income) in connection with any use of the Content, even if notified of, or if it might
+otherwise have anticipated, the possibility of such damages.
+Market Information may quickly become unreliable for various reasons including, for example,
+changes in market conditions or economic circumstances. Neither Fusion Media nor the Third
+Party Providers are obligated to update any information or opinions contained in any Market
+Information, and we may discontinue offering Market Information at any time without notice.
+You agree that neither Fusion Media nor the Third Party Providers are liable in any way for the
+termination, interruption, delay or inaccuracy of Market Information. You will not “deep-link”,
+redistribute or facilitate the redistribution of Market Information, nor will you provide access to
+Market Information to anyone who is not authorized by us to receive Market Information.
+With regard to any Market Information displayed on the Platform, you are prohibited from, and
+hereby represent and warrant that you shall not: (i) copy, store, sell, license, distribute,
+reproduce, transmit or duplicate to any third party or to any person any Market Information or
+any part thereof in any form or by any means, without obtaining prior written consent, on a
+case by case basis, from Fusion Media and/or any of the applicable Third Party Provider; (ii)
+make the Market Information available on any website or in an application, or available to the
+public via the internet or otherwise; (iii) use the Market Information for the purpose of creating
+and/or operating (directly or by any third party) any financial product, index or service, or in
+any other manner without Fusion Media or its applicable Third Party Providers' permission; (iv)
+use or remove any of the Marks and you hereby acknowledge that Fusion Media or its
+applicable Third Party Providers are the owners of the intellectual property rights in, and
+relating to, the Market Information any Marks; (v) use the Market Information in any way or for
+any purpose that would require a separate license from Fusion Media or its applicable Third
+Party Providers or any other person; and (vi) permit, or purport to permit, any third party to do
+any of the foregoing.
+15. Artificial Intelligence (AI) Content and Tools
+The Group may provide you with tools and content and any other Market Information generated
+by or with the assistance of using certain artificial intelligence tools ("AI Tools"). While we
+strive to ensure that AI generated content is accurate and relevant, we make no representations
+or warranties of any kind concerning its completeness, accuracy, reliability, or suitability for
+any specific purpose. All AI Tools are provided on an "as-is" basis for informational and
+educational purposes. You acknowledge that AI-generated content may not reflect current
+information or developments and should not be relied upon as the sole basis for making
+decisions. By using this platform, you agree that we shall not be held responsible or liable for
+any actions taken based on AI-generated content. We encourage users to verify any
+information independently and consider seeking professional advice where appropriate.
+Please note that any and all disclaimers regarding the Platform, the Content and any Market
+Information will also apply to any Content created by using any AI Tools.
+16. Subscriptions
+While some of the content, tools and products provided by us are provided free of charge, we
+also offer you a paid subscription which includes certain access to advanced features and
+tools (the “Subscription”). Such Subscription may include, among others, InvestingPro,
+InvestingPro+, ProPicks, Ad-free service, and other products that the Group may offer from
+time to time. Any Subscription purchased by you will be governed by these Terms.
+Your initial paid Subscription period will commence immediately after you finalize your
+Subscription (unless you are receiving a Free Trial (as defined below), in such case your
+11
+Subscription will commence immediately upon the expiration of your Free Trial period). You
+will be given access to the Subscription products immediately after your payment account is
+billed the applicable Subscription Fee (as defined below).
+ONCE YOU COMPLETE YOU SUBSCRIPTION TO THE PLATFORM, YOU WILL NOT BE
+ENTITLED TO ANY REFUND IN CONNECTION WITH THE SUBSCRIPTION FEE ALREADY PAID
+BY YOU. YOU CAN CANCEL YOUR AUTO-RENEWAL AT ANY TIME. SEE HERE FOR MORE
+INFORMATION. BY SUBSCRIBING, YOU CONSENT TO RECEIVING IMMEDIATE ACCESS TO
+THE SUBSCRIPTION, AND YOU HEREBY ACKNOWLEDGE THAT YOU WAIVE ANY RIGHT OF
+WITHDRAWAL YOU MAY HAVE.
+In order to subscribe, you must designate a payment method and provide accurate billing and
+payment information (which you must keep up to date as long as you use the Subscription)
+and you agree to pay the applicable subscription fees set forth on the Site and/or App (the
+“Subscription Fee”).
+If the Subscription includes a third-party product or service, you understand and agree that
+your purchase and use of such services is also subject to the policies and guidelines of such
+third party, including their terms of service and privacy policy, which you should read
+thoroughly before agreeing to them. The Group assumes no liability or responsibility on such
+products or services that are provided by a third party.
+a. Individual User.
+By purchasing a Subscription you hereby acknowledge that you are an individual, and not a
+business or corporation. The Subscriptions are available only for individuals, and the Group
+does not allow the purchase of any subscriptions by any businesses or corporations.
+Furthermore, as stated above, all use of Subscription is solely for personal use, and use of the
+Subscription for any commercial or business use shall be strictly prohibited.
+b. Auto-Renewal.
+When you subscribe to the Platform, you acknowledge and agree that your Subscription will
+automatically renew at the end of each billing cycle, unless you cancel your Subscription prior
+to the renewal date. The renewal will be for the same duration as the original Subscription
+period, and your chosen payment method will be automatically charged the Subscription fee
+at the beginning of the renewed billing cycle, unless otherwise specified at the time of
+purchase. You may cancel your auto-renewal at any time through your account settings or by
+contacting our customer support team at support@investing.com. However, no refunds will be
+provided for partial billing periods or unused Subscriptions. You will be charged so long as
+your Subscription remains active, even if you have not downloaded or used such Subscription
+or accessed your Account.
+Please ensure your account information is up to date to receive important updates and avoid
+disruptions to your Subscription.
+Unless otherwise stated herein or with respect to any specific terms that may apply to any
+specific Subscription product, your Subscription will be automatically renewed at the thencurrent price, excluding promotional and discount pricing, unless we notify you (including via
+email or through the Platform) of a rate change prior to your auto-renewal, in which case you
+will have the right to cancel the renewal of your subscription.
+We may, in our sole discretion, post charges to your payment method individually or aggregate
+charges for some or all of your Subscriptions with us. Every Subscription period to which you
+have subscribed and the charges for any renewed period are made automatically through the
+12
+payment service provider you have initially used to purchase the initial Subscription, or through
+another payment service provider used by us at such time, as shall be elected by us in our sole
+discretion.
+
+c. Payment.
+In order to purchase any Subscription, you will be required to make the payments specified in
+the dedicated offering page. Certain additional charges may also apply to you, for example,
+payment processing fees or other related charges. The Subscription Fee may include VAT,
+sales tax or other taxes and fees, if applicable. You are required to pay any applicable taxes
+relating to any purchases you make. In certain jurisdictions, you may be independently required
+to remit any VAT (or other tax) amounts resulting from your Subscription to the local tax
+authorities directly. Should such requirement apply to you, you are solely responsible for
+complying with such requirement, and the Group shall not be liable for such VAT (or other tax)
+payments.
+Payments will be processed through the payment method chosen by you from the options
+available to you at checkout. Such payment methods may include credit card, PayPal wallet
+and such other other methods we make available, such as Google Pay, Apple Pay, and if you
+purchase your subscription through the mobile application, payment will be processed by the
+relevant mobile app marketplace (e.g. Google Play, Apple App Store). You must provide
+accurate billing information, and promptly update any changes to it (such as card numbers and
+expiry dates). You undertake that you are the owner of the payment method used by you. We
+reserve the right to use other third-party payment processing services for such purposes in
+the future, and/or to migrate any required data to other providers as necessary in order to
+maintain the continuity of the Subscription and related payments.
+In order to process your payment, we my transfer your personal information with certain third
+parties, including without limitation, payment processors. This may include your contact
+information, (e.g., your name, email, billing address, and identity number), your financial
+information (e.g., credit card number, bank account and payment amount) and any other
+information necessary in order to complete the purchase of any Subscription.
+Furthermore, you acknowledge and agree that you are responsible for all charges incurred
+under your Account, including purchases made through your Account or any sub-or linked
+accounts (including, without limitation, any person with implied, actual, or apparent authority
+or anyone who gains access to your Account for any reason, including your failure to safeguard
+your authentication credentials ). You authorize and direct us to charge your designated
+payment method for these charges or, if it fails, to charge any other payment method you have
+on file with us, even if we received it in association with other products you are responsible for
+all charges even if your payment method fails or is denied. Without derogating from the
+generality of the foregoing, we may: (i) import payment information you entered during a prior
+purchase and provide you the option to use that payment information during purchase of a
+new product. You permit us to obtain and use updated information from the issuer of your
+payment method in accordance with the policies and procedures of any applicable card
+brands; and/or (ii) continue charging a payment method past its expiration date at our
+discretion and subject to the approval of payment processors or issuing bank. Surcharges may
+apply if you use certain payment methods, such as payment from your checking or savings
+account.
+13
+d. No Refunds.
+Notwithstanding anything to the contrary (but subject to any applicable law), all charges for
+the Subscriptions are non-refundable.
+You may cancel your auto-renewal at any time, up to 24 hours prior to the billing date, through
+your account settings or by contacting our customer support team at support@investing.com.
+If you cancel your auto-renewal, this means that after the subscription expires, your
+subscription will not be renewed, and you will not be charged for an additional subscription
+period. Your paid subscription will continue to be active until its expiration date, and you will
+not be entitled to any refund for the Subscription Fee already paid by you. More information
+on cancellation of the auto renewal can be found here.
+e. Free Trials.
+We may offer you, from time to time, free trials for certain products, so that you may try one
+or more of our Subscriptions without charge or obligation (“Free Trial”). Upon the completion
+of the Free Trial, your Subscription will be automatically renewed, and the periodic subscription
+fees will be charged at the then-applicable rate upon expiration of the Free Trial period, unless
+you cancel your subscription prior to the expiration of the Free Trial (or unless otherwise
+stated). Once the Free Trial expires, and the Subscription is renewed, it will be considered a
+Subscription for all intents and purposes, and all sections pertaining to such Subscription will
+apply.
+If you are not satisfied with a particular Subscription, you must cancel the subscription before
+the Free Trial ends to avoid charges. We reserve the right to limit you to a maximum number
+of Free Trials or promotions of a Subscription and to prohibit the combining of Free Trials and
+other promotional offers.
+f. Termination.
+We, in our sole discretion, may change, discontinue or terminate any or all aspects of a
+Subscription without notice, including access to support, content and/or other products
+ancillary to the Subscription.
+g. Change in Fees and Billing Method.
+We may change our fees and billing methods at any time. We will provide you with notice via
+email of any price increase at least thirty (30) days in advance. Subject to applicable law: (i) if
+you disagree with any proposed change, your sole remedy is to cancel your Subscription
+before the price change takes effect; and (ii) your continued use of you Subscription after the
+price change takes effect constitutes your agreement to pay the new price for the Subscription.
+h. Delinquency.
+After 30 days from the date of any unpaid charges, your Subscription will be deemed
+delinquent and we may terminate or suspend your Account and Subscription for nonpayment,
+without derogating from any other remedy that we may have. In such case, you will also be
+liable for any fees, including attorney and collection fees, incurred by us in our efforts to collect
+any remaining balances from you.
+14
+i. Notice Period.
+You must notify us in writing about any billing problems or discrepancies within 90 days after
+they first appear on your billing method statement. If you do not bring them to our attention in
+writing within 90 days and specifying the reason for such discrepancy or problem, you waive
+your right to dispute such problems or discrepancies.
+j. Fraud Protection.
+We may take steps to verify the validity of the credit card or other payment method information
+you provide to us, including debiting amounts of $1.00 or less from your credit card and then
+immediately crediting it back. You authorize us to do so for verification and anti-fraud
+purposes.
+
+17. Special Condition Regarding Specific Products
+These special conditions (the “Special Conditions”) set forth specific terms which apply to
+specific products offered through the Site. The Special Conditions constitute an integral part
+of the Terms and Conditions. In the event of a conflict between a provision of these Special
+Conditions and any provision of the Terms and Conditions, then the Special Conditions shall
+prevail.
+
+a. ProPicks AI Strategies
+Without detracting from the above, ProPicks AI Strategies is one of the various tools offered
+by us as part of your Subscription. Using our AI model or any other models, Fusion Media may
+make available to you, a tool that systematically analyzes historical stock data with the intent
+to identify stocks that may have the potential to be profitable in the future (“ProPicks
+Strategies”).
+The information that may be presented as part of ProPicks Strategies is provided for general
+informational purposes only, and should not be considered as investment, legal, tax,
+accounting, or other advice. Such information (i) will also be deemed as “Market Information”
+(as defined below) for the purposes of these Terms and Conditions; and (ii) does not represent
+a recommendation to buy or sell any stock or other financial instrument, nor does it reflect the
+views of the Group, its affiliates or anyone on their behalf. We take no responsibility for the
+results of any investment made by you based on the information provided by ProPicks
+Strategies, and you alone assume sole responsibility for any investment made by you. We are
+not a licensed securities dealer, broker, investment adviser, or investment bank and we urge
+you to consult your broker or investment advisor before making any investment.
+The ProPicks Strategies’ performance is derived from backtested historical data and does not
+represent actual investments or their results. Backtested and historical performance do not
+indicate or guarantee future outcomes. Therefore, you should not assume that future
+performance of any ProPicks Strategy will be profitable or similar to corresponding past
+performance levels and you should take into account that any investment, including any
+investment made based on any ProPicks Strategy, has a potential for loss. Backtested results
+are based on certain assumptions related to the market and our analysis of past results,
+including without limitation, that an investor would have been able to acquire the securities
+recommended by the model, and that there is consistent market liquidity. Deviations from these
+assumptions can substantially affect the backtested returns. We do not give any warranty
+regarding the assumptions taken in the model, including, without limitation, that such
+assumptions are reasonable, sufficient or correct. Our backtesting models are based on data
+15
+sourced from third party data providers, and we do not guarantee that this information is
+accurate or complete. Furthermore, these data points, formed in hindsight, do not account for
+actual trading influences or unforeseen economic and market events. Moreover, since these
+are not real trades, the results might not account for certain market factors, and may not reflect
+the potential impact of various economic conditions. Backtesting can be adjusted until past
+returns seem optimal, so real-world results may differ. Although the results include factors like
+reinvested dividends, they may not always reflect other aspects like potential transaction costs
+or other fees, which may affect the return. In addition, no cash balances or cash flows are
+included in these calculations. While actions have been taken to minimize biases, these biases
+cannot be eliminated and may affect real world results. In light of the above, users should take
+caution when considering making any investments based on the aforementioned strategies
+and results.
+It is prohibited to use, store, reproduce, display, modify, transmit or distribute any of the data,
+information, or Content made available as part of Propicks Strategies without our explicit prior
+written permission (on a case by case basis). All intellectual property rights are reserved by
+the providers and/or the exchange providing the data contained in our Website.
+For any further questions regarding Propicks Strategies, you can review frequency asked
+questions published here.
+b. WarrenAI Chatbot Disclaimer
+The following disclaimer is to inform you of the limitations and usage guidelines of the WarrenAI
+chatbot available on the Site. Please read this disclaimer carefully before using WarrenAI,
+together with all other Terms herein. By continuing to use WarrenAI you hereby agree to the
+disclaimer below or to General T&Cs. If you do not agree with any part of the disclaimer below
+or Terms, please refrain from using WarrenAI. For further assistance or questions, please
+contact Support at: support@investing.com.
+• Beta Product: WarrenAI is currently a beta version which is still undergoing final testing
+before official release. The primary purpose of this beta release, is to obtain your
+feedback on the product’s performance and identification of any defects. By providing
+any feedback or suggestions to Investing.com (“Feedback”), you hereby irrevocably
+assign to such Feedback to Investing.com, all as further detailed herein
+• General Information: WarrenAI is a chatbot, generated using AI. The responses and
+information provided by WarrenAI are not reviewed or vetted by any person in the
+Investing.com content or editorial teams. Investing.com cannot guarantee the accuracy,
+completeness, or up-to-date nature of the information provided through WarrenAI. We
+recommend that you use the responses as a starting point for your research, and that
+you verify and validate all information provided by WarrenAI through public sources.
+• No Advice or Recommendations: Information provided by WarrenAI is provided solely
+for general informational purposes, for your convenience. Information provided by
+WarrenAI is not financial advice or recommendations. We strongly urge you to seek
+advice from a licensed financial advisor before making any financials decisions.
+• User Responsibility: You bear sole responsibility for your interactions and reliance on
+the information provided by WarrenAI. Please exercise caution and use your discretion
+while interpreting and acting upon WarrenAI’s responses.
+• No Liability: WarrenAI is provided “AS IS” without warranty of any kind, including
+without limitation, any warranty as to performance, non-infringement of third party
+rights, merchantability, or fitness for a particular purpose. You bear the entire risk arising
+16
+out of the use or reliance on WarrenAI. In no event shall Investing.com be liable for any
+damage whatsoever arising out of the use of or inability to use WarrenAI, including
+without limitation, any direct, indirect, consequential, exemplary, special, incidental or
+punitive damages, or damages for lost data or lost profits, even if Investing.com has
+been advised of the possibility of such damages.
+• Data Privacy and Security: We prioritize the privacy and security of your information.
+Be aware that WarrenAI conversations may be reviewed by our content team to improve
+results. Do not share any sensitive or personal information in your conversations, as
+your WarrenAI conversations may be used to train AI models.
+c. Investing Challenges
+The Investing Challenges tool is not operated by the Group, but by Roundwave CY LTD, which
+is a third-party provider of the Group. Roundwave CY LTD is a Cypriote company, registration
+number 463387, address Kremastis Rodou 62, Limassol, Cyprus. Roundwave CY LTD is not a
+licensed broker. Investing Challenges is not a brokerage, and any purchases made through
+Investing Challenges should not be regarded as investments or deposits.
+Any information provided through Investing Challenges is provided for you general
+informational purposes only, and does not serve in any way as a specific investment
+recommendation, business recommendation, investment opportunity analysis or similar
+general recommendation regarding the trading of financial instruments. Simulated Trading is
+not fully regulated, and is not directed at residents in any country or jurisdiction where such
+products are contrary to local laws or regulations. For any further information regarding the
+Investing Challenges platform and tools, please contact support@investingchallenges.com.
+d. Webmaster Tools
+The Group makes certain trading and investment tools (the “Tools”) available to you on
+https://www.investing.com/webmaster-tools/. Such Tools can integrate within your website
+via the HTML code available (the “Code ”).
+ALL INFORMATION AND DATA MADE AVAILABLE VIA THE TOOLS ARE PROVIDED ON AN “ASIS” BASIS, FOR GENERAL INFORMATIONAL PURPOSES ONLY, AND ARE NOT INTENDED FOR
+ACTUAL TRADING PURPOSES OR MARKET ADVICE. Certain information and data made
+available via the Tools is obtained from Third Party Providers (as defined above), and the
+Group does not and cannot guarantee or represent that any of the information and data made
+available via the Tools is real-time, accurate, complete, current or appropriate for your needs.
+The Group is entitled to make any modifications to the Tools, or to any content or data
+incorporated therein, or to discontinue any of the foregoing, at any time, and without providing
+you with any prior notice. The Group may integrate advertisements and links third party
+websites within the Tools, or to links to other Investing.com Products. The Group does not
+endorse such advertisements, content or services which are provided on third party’s websites
+accessible via the Tools, and any use of the foregoing is subject to a separate engagement
+between you and such third party. You will not modify, remove, change, edit, amend, alter,
+cover, hide, block, obscure, bypass or reorder any aspect of the advertisements and links
+which are referred to above.
+You will not be entitled to any compensation in connection with the integration of the
+advertisement within the Tools or otherwise.
+the Group and its employees, officers, directors, affiliates, agents or licensors will not be liable
+to you or any third party for any financial loss, lost profits, any special, incidental or
+17
+consequential damage or any other similar damage or any other loss or injury, incurred as a
+result of delays, informational errors, inaccuracy or incompleteness of the information and data
+provided in the Tools or any actions taken in reliance thereon, or for the advertising or content
+and services which are provided on third party websites accessible via the Tools.
+Subject to the terms and conditions set forth herein, the Group grants you a non-exclusive,
+non-transferable, non-sublicensable, revocable and limited license to access and use the
+Tools solely for your personal, non-commercial use (the “Tools License”). However, if you
+wish to use the Tools for commercial purposes, you must obtain the Group’s prior written
+consent. For such consent, please contact us as: tools@investing.com. Such commercial use
+may be conditioned on you executing a separate agreement with Fusion Media, paying a use
+fee and agreeing to such other terms determined by the Group. The Group has sole discretion
+in deciding whether to allow your commercial use of the Tools.
+The Licenses are conditional on your full and continued compliance with these Terms and
+Conditions. You agree not to resell or permit access to the Tools to others, and not to copy any
+materials appearing on the Tools for resale to others or for any other purpose without the prior
+consent of the Group. You agree not to use the Tools for any unlawful purpose. The Licenses
+will terminate if you fail to comply with any term or condition of these Terms and Conditions.
+Upon such violation, you agree to cease making use of the Tools. You agree that the Group, at
+its sole discretion and with or without notice, may terminate your access to any or all Tools,
+and remove and discard any information or content within the Tools at any time, including
+during the Trial License.
+Notwithstanding the grant of the Licenses, you agree and acknowledge that all right, title and
+interest in and to the Tools, the Code and all information and data made available therein
+including (but not limited to) trademarks, links, signs, trade names, logos, domain names,
+images, pictures, graphics, photographs, animations, videos, music, audio and text belong to
+Fusion Media, its affiliates and/or the Third Party Providers (as applicable) and are protected
+by copyright and/or other intellectual property rights and/or other rights.
+You are not permitted to make any alterations whatsoever to the Code including but not limited
+to alterations which hide or obscure advertisements and links to Fusion Media or third party
+websites accessible via the Tools, or any other copyright notices of the Group, including any
+Investing.com logo, trade name or trademark. Without derogating the generality of the above,
+you may not circumvent any mechanism included in the Code and/or Tools which is intended
+to prevent unauthorized reproduction or distribution or otherwise misuse of the Tools. Without
+prejudice to any other right, the Group is entitled to immediately block use of the Tools by you
+in the event that you breach or we suspect that you breach any of the provisions of these
+Terms and Conditions.
+You will post to your website an appropriate privacy policy containing notice of the cookies
+used within the Tools, abide by the terms of such a privacy policy and comply with any and all
+applicable laws and regulations relating to the collection of information from visitors to your
+website on which Tools are being utilized.
+Nothing in these Terms and Condition will create any obligation on the Group to pursue or
+consummate any business or other relationship with you.
+18. Force Majeure
+The Group will not be liable in any way for any failure or delay in the Platform or fulfillment of
+obligations under these Terms and Conditions due to causes beyond Fusion Media's
+reasonable control ("Force Majure Event”), including, without limitation, any damage or
+destruction to your computer systems, data or records or any part thereof, or for delays, losses,
+18
+errors or omissions resulting from the failure or mismanagement of any telecommunications or
+computer equipment or software. Force Majure Events include, but are not limited to, acts of
+God, Cybersecurity breaches, labor disturbances, sabotage, supplier failures, acts of the public
+enemy, war, invasion, insurrection, riot, fire, storm, flood, ice, earthquake, explosion, epidemic,
+machinery or equipment breakage, accidents, orders, regulations, restrictions imposed by
+authorities, or emergency repairs on the Group property or equipment.
+19. Technical Problems
+You understand that while the Internet and the World Wide Web are generally reliable, technical
+problems or other conditions may delay or prevent you from accessing certain areas of the
+Platform or may prevent us from providing the Platform. Without derogating from anything else
+herein, neither the Group nor any their shareholders, officers, agents, employees and service
+providers will be responsible for an impossibility to access any of the Platform, execute orders
+and requirements due to failures in the operation of informational systems caused by technical
+faults, which are beyond its control.
+20.Trademarks and Copyrights
+All rights, titles and interests in and to the Platform, all products and tools provided thereunder,
+the Content, the Marks, Market Information, including but not limited to the “Investing.com”
+and “Fusion Media” trademarks, services marks, trade names, and logos are owned by Fusion
+Media, or its affiliates, or other licensors and are protected by copyright and trademark laws,
+and international treaties.
+You agree not to delete any copyright notices or other indications of protected intellectual
+property rights from materials, information, content or data that you print, download or
+otherwise export from the Platform. You will not obtain any intellectual property rights or any
+right or license to use such materials or the Platform, other than as expressly set out in these
+Terms and Conditions.
+Images displayed on the Platform are either the property of Fusion Media, its affiliates or its
+licensors. You agree not to upload, post, reproduce or distribute any information, software or
+other material protected by copyright or any other intellectual property right (as well as rights
+of publicity and privacy) without first obtaining the permission of the owner of such rights and
+the prior written consent of Fusion Media (on a case by case basis).
+Nothing contained on the Platform may be construed as granting, by implication, estoppels, or
+otherwise, any license or right to use any trademark without the written permission of Fusion
+Media and/or any third party that may own the trademarks. Your use of trademarks, or any
+other Content or Market Information of the Platform, except as provided herein, is strictly
+prohibited.
+If you believe that any element of the Platform, is unlawfully infringing the copyright(s) in a
+copyrighted material or other intellectual property rights, and wish to have the allegedly
+infringing material removed, the following information in the form of a written notification
+(pursuant to 17 U.S.C. § 512(c)) must be provided to our designated Copyright Agent:
+1. Your physical or electronic signature;
+2. Identification of the copyrighted or other work(s) that you claim to have been infringed;
+3. Identification of the material on the Platform that you claim is infringing and that you
+request us to remove;
+4. Sufficient information to permit us to locate such material;
+19
+5. Your address, telephone number, and e-mail address;
+6. A statement that you have a good faith belief that use of the objectionable material is
+not authorized by the copyright owner, its agent, or under the law; and
+7. a statement that the information in the notification is accurate, and under penalty of
+perjury, that you are either the owner of the copyright that has allegedly been infringed
+or that you are authorized to act on behalf of the copyright owner.
+Please note that pursuant to 17 U.S.C. § 512(f), any misrepresentation of material fact in a
+written notification automatically subjects the complaining party to liability for any damages,
+costs and attorney's fees incurred by us in connection with the written notification and
+allegation of copyright infringement.
+For any copyright related inquiries please contact us using the below details:
+Email: Legal@investing.com
+Address: Fusion Media Ltd., 3076 Sir Francis Drake's Highway, P.O. Box 3463, Road Town,
+Tortola, British Virgin Islands
+21. Notice to Users of the Mobile Application through an iOS Devide
+If you are using the Platform through our mobile application on an iOS device, you acknowledge
+that this agreement is between you and Fusion Media, not Apple Inc. (“Apple”). Apple is not
+responsible for the app, its content, or the products provided. Apple has no obligation to
+provide maintenance or support for the app. In the event of any failure of the app to conform
+to applicable warranties, you may notify Apple, and Apple may refund any applicable purchase
+price. To the maximum extent permitted by law, Apple has no further warranty obligations with
+respect to the app, and any other claims, losses, liabilities, damages, costs, or expenses
+attributable to any failure to conform to any warranty is the responsibility of Fusion Media.
+Apple is not responsible for addressing any claims from you or any third party relating to the
+app or your possession and/or use of the app, including but not limited to (a) product liability
+claims, (b) any claim that the app fails to conform to any applicable legal or regulatory
+requirement, or (c) claims arising under consumer protection, privacy, or similar legislation.
+Apple shall not be responsible for the investigation, defense, settlement, or discharge of any
+third-party claim that the app infringes on a third party's intellectual property right.
+By using the app, you agree to comply with any applicable third-party terms when using the
+app. Apple and its subsidiaries are third-party beneficiaries of this agreement, and upon your
+acceptance of the terms of this agreement, Apple will have the right to enforce this agreement
+against you as a third-party beneficiary.
+You represent and warrant that (i) you are not located in a country subject to a U.S. Government
+embargo or designated as a "terrorist supporting" country and (ii) you are not listed on any
+U.S. Government list of prohibited or restricted parties.
+In-App Purchases on iOS:
+• Payments for in-app purchases will be charged to your Apple account at the time of
+purchase.
+• Subscriptions and auto-renewable in-app purchases will renew automatically unless
+auto-renew is turned off at least 24 hours before the end of the current period. Your
+account will be charged within 24 hours prior to the end of the current subscription
+period.
+20
+• You may manage or cancel subscriptions by adjusting your Apple account settings after
+purchase.
+
+22.Breach
+You agree to fully indemnify, defend and hold harmless Fusion Media, its affiliates and their
+respective officers, directors, shareholders and employees immediately upon demand from
+and against all claims, demands, liabilities, damages, losses, costs and expenses, including
+legal fees and other charges whatsoever, howsoever caused, that may arise as a result of or
+in connection with: (i) any breach or suspected breach of these Terms and Conditions by you
+or (ii) violation by you of any law or the rights of any third party, or (iii) any action or omission
+taken by you in connection with the use of any of the Platform.
+Without prejudice to any other rights in these Terms and Conditions, if you breach in whole or
+in part any provision contained herein, Fusion Media or any of its affiliates which provide the
+Platform to you reserve the right to take such action as they see fit, including (but not limited
+to) terminating any agreement in place with you, terminating or blocking all or any portion of
+the Platform made available to you and/or taking legal action against you.
+23.Governing Law and Court Jurisdiction
+These Terms and Conditions shall be governed by the laws of England and Wales without
+regard to conflicts of law principles thereof. This is the case regardless of whether you reside
+or transact business with Fusion Media anywhere else in the world. In no event will you bring
+claims against us under the laws of another jurisdiction.
+YOU AGREE THAT YOU MAY BRING CLAIMS AGAINST FUSION MEDIA ONLY IN YOUR
+INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED
+CLASS OR REPRESENTATIVE PROCEEDING AS TO ALL DISPUTES.
+If any part of these Terms and Conditions are held unlawful, void or unenforceable, that part
+will be deemed severable and will not affect the validity and enforceability of any remaining
+provisions.
+Exclusive Court Jurisdiction: You agree to submit to the personal and exclusive jurisdiction of
+the courts located in London, England to settle any dispute, which may arise in relation thereto.
+24.Disclosures
+The Platform is offered by Fusion Media Limited (and its affiliates), under the following details:
+Fusion Media Ltd., registered in the British Virgin Islands, Registration Number: 1442989, 3076
+Sir Francis Drake's Highway, P.O. Box 3463, Road Town, Tortola, the British Virgin Islands
+25. Miscellaneous
+Fusion Media may assign its rights in the Platform to any third party at its sole discretion. You
+may not assign or delegate your rights according to this Agreement, without the Group's prior
+written consent.
+Failure to assert, at any time, any right, or require performance with regard to these Terms and
+Conditions by or on behalf of Fusion Media or any Third Party Provider shall not constitute
+concession, yield, waiver or relinquishment of any sort, and shall not limit any of their rights
+with respect to such breach or any subsequent or other breaches.
+21
+Fusion Media reserves the right, at its sole discretion, to periodically amend or revise these
+Terms and Conditions. Your continued use of the Platform, following such amendment,
+constitutes your acknowledgement and consent of such amendments. The last revision will be
+reflected in the “Last revised” heading below.

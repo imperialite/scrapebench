@@ -1,0 +1,10 @@
+User-Agent: Googlebot-News
+Allow: /amc-scene/
+Disallow: /
+
+User-Agent: *
+Disallow: /amc-stubs-wifi/
+Disallow: /associate-resources
+Disallow: /search?*
+
+Sitemap: https://www.amctheatres.com/sitemap.xml

@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /teacher-page-rons-copy
+Disallow: /parent-page
+Disallow: /teachers-page-3-0
+Disallow: /teacher-page
+Disallow: /changelog
+Disallow: /styleguide
+Disallow: /order-confirmation
+Disallow: /paypal-checkout
+Disallow: /checkout
+Disallow: /product
+Disallow: /category
+Disallow: /quicksmart-support-categories
+Disallow: /blog-category/tips-tricks
+Disallow: /blog-category/recipes
+Disallow: /blog-category/lifestyle
+Disallow: /youtube-video
+Disallow: /event
+
+Sitemap: https://www.boddlelearning.com/sitemap.xml

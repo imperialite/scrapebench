@@ -1,0 +1,20 @@
+Sitemap: https://distrokid.com/sitemap.xml
+Sitemap: https://distrokid.com/sitemap-main.xml
+Sitemap: https://distrokid.com/sitemap/public/xml/albums-index.xml
+Sitemap: https://distrokid.com/sitemap/public/xml/webflow/webflow-products.xml
+
+User-agent: *
+Disallow: /*?forward=*
+Disallow: /account
+Disallow: /api/
+Disallow: /bank
+Disallow: /contact 
+Disallow: /dashboard
+Disallow: /distropic
+Disallow: /fbdirect/me
+Disallow: /leave
+Disallow: /mymusic
+Disallow: /newUser
+Disallow: /plan
+Disallow: /signout
+Disallow: /socialphone/inbox

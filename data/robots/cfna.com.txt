@@ -1,0 +1,3 @@
+sitemap: https://www.cfna.com/sitemap.xml
+
+User-agent: *

@@ -1,0 +1,13 @@
+Sitemap: https://www.static.discovery-prod.axs.com/uploads/sitemaps/sitemap_index.xml
+  
+  User-agent: *
+  Disallow:
+  Disallow: /users
+  Disallow: /me
+  Disallow: /search
+  Disallow: /contributor
+  Disallow: /*referrer=*
+  Crawl-delay: 2
+  
+  User-agent: Twitterbot
+  Allow: /

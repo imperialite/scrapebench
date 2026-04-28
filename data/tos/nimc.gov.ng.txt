@@ -1,0 +1,205 @@
+The National Identity Management Commission (NIMC), was established under the National Identity Management Commission Act No. 23 of 2007 and charged with the function amongst others to create, manage, maintain and operate the National Identity Database which shall contain registered information or data relating to citizens of Nigeria and non-Nigerian citizens recognized as registerable persons within the meaning of Section 16 of the Act. NIMC has created this Information Security Policy and Privacy Statement in order to demonstrate our firm commitment to information security and privacy.
+
+NIMC has implemented best practice security controls and assure effectiveness of our controls through certification to ISO 27001, the global standard for managing information security.
+
+NIMC also identifies this policy as a necessary tool for ensuring that security and privacy rights are protected during the collection of registerable information; operation and management of the Database.
+
+To this end, NIMC is committed to safe-guarding the privacy of registered persons by:
+
+ensuring the security of information or data collected and held in the National Identity Database (NIDB)
+guarding against unauthorized disclosures
+ensuring that usage of such information or data is limited to only those purposes sanctioned by the Act
+and disclosure and or use, is preceded by consent of the individual before or during access and or use except for National Security Interests.
+The National Identity Management Commission (NIMC) respects your privacy and are committed to protecting it through our compliance with this policy. This policy describes the type of information the commission may collect from its citizens or legal residents when they enroll at any of our Enrolment/Registration Centers (ERC) and our practices for collecting, using, maintaining, protecting and disclosing that information.
+
+Our Privacy practices set forth here reflect NIMC’s activity as a Data Controller/Processor and Regulator. This Information Security Policy and Privacy Statement applies only to NIMC (our “Websites”, “ERCs”, and Card Collection centers) and does not apply to any other Corporate Affiliates that have published their own privacy and security statements or to any other third parties. We recommend that all and sundry review the Privacy Statements of the other parties with whom they interact.
+
+All NIMC staff across all cadres are cognizant with our Security Management Processes and to comply with All Information Security and Privacy Policies and the procedures that underpin them.
+
+In turn, NIMC commit to ensure that its Security Management Systems and Processes are efficient, effective and continuously improved to protect our data assets while avoiding the reputational, legal and financial harm that would result from a data breach.
+
+The Board fully support the Information Security Management System and require all our staff, whether permanent or temporary, partner organizations, suppliers and contractors to do the same.
+
+NIMC reserves the right to change this policy at any time by notifying users of the existence of a new privacy policy.
+
+Information Collected by the Commission
+NIMC collect personal information directly from you as you walk into our enrolment centers for registration or via our pre-enrolment portal (https://penrol.nimc.gov.ng). The commission also obtain your information indirectly via the Federal Government of Nigeria’s mandate of harmonizing databases in Nigeria. For more information about the types and sources of information we collect about you refer to: Information We Collect About You.
+
+How NIMC Uses and Shares Your Information
+NIMC may use your Personal Information to:
+
+establish and maintain a database of registered Nigerians and legal citizens
+assign a unique National Identification Number (NIN)
+issue General Multi-Purpose Cards (GMPC) to those who are citizens of Nigeria as well as others legally residing within the country
+send communications to you, such as your transaction status (for example, Card readiness status, NIN slip status etc.), information about products and services available from NIMC and its Affiliates, event announcements, important product notices including those announcing changes to our terms or policies and surveys
+Administer, customize, personalize, analyze and improve our products, services, technologies, communications and relationship with you
+Prevent fraud and other prohibited or illegal activities
+Perform other functions or serve other purposes, as disclosed to you at the point of collection or as required or permitted by law.
+If there are any changes to use of Personal Information, you will be notified via email and / or a prominent notice on our Website of any change in uses of your Personal Information, as well as any choices you may have regarding your Personal Information will be available.
+
+What Legal Basis does the Commission have for Processing Your Personal Data?
+NIMC relies on the following lawful bases for processing personal and sensitive/special category personal data:
+
+Legal obligation
+Consent
+For the performance of a contract (“Contractual”)
+Public task
+NIMC does not envisage relying on the lawful basis of vital interests.
+
+For Sensitive/Special Category data, NIMC relies on the conditions for data processing under Nigeria’s Data Protection and Privacy Bill, 2018 PART IV – Processing of Sensitive Data:
+
+necessary for identification of the data subject in the National Identity Database
+
+explicit consent of the data subject
+
+The following table shows the category of lawful basis under which NIMC processes personal data and the relevant condition for processing sensitive personal data:
+
+CATEGORY OF PERSONAL DATA	CONTRACTUAL	LEGAL OBLIGATION	CONSENT	PUBLIC INTEREST	SPECIAL CATEGORY DATA CONDITION ARTICLE
+Employee data	X	X			N/A
+Vendors/Contractors/Ecosystem partners/Sub-guarantees/Services	X	X			14(6)a
+Citizens and Legal residents			X		14(6)a
+Children under the age of 16 are considered able to give consent with age appropriate information, if a parent or guardian also gives their consent and National Identification Number Data collected on children will only be permitted with parent/guardian consent and if a risk assessment has been carried out in the context of a data management plan				X	14(6)a
+Contractual
+Article 4(2)(a) provides that 'processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract.'
+
+NIMC processes personal data for the administration and performance of a contract.
+Where NIMC has a contract in place, NIMC will rely on the contractual legal basis to process the personal data of the parties to the contract.
+All employment contracts and third-party agreements contain data protection clauses that ensure the third party conforms to data protection and privacy standards in processing data.
+Where applicable, contracts give explicit authorization for NIMC to process data for the purposes of performing the contract.
+In cases where NIMC is a Joint Controller/Regulator of personal data, roles and responsibilities will be clearly laid out in a collaboration agreement.
+Legal Obligation
+Article 4(2)(b) allows for the processing of personal data that is 'necessary for compliance with a legal obligation to which the controller is subject.'
+
+Where processing is necessary to comply with the law (not including contractual obligations), NIMC will rely on the 'Legal obligation' basis.
+The 'Legal obligation' will therefore only be used where NIMC is compelled to process personal data under the law.
+Consent
+Article 4(1) states that 'the processing of personal data shall be carried out on the basis of the free, specific, informed, and unambiguous consent of the data subject or on some other legitimate basis laid down by law.'
+
+NIMC will obtain legal consent for processing the personal data of citizens and legal residents.
+Public Interest
+Article 4(2)(d) allows for processing that 'is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.'
+
+This applies to any organization that exercises official authority or carries out tasks in the public interest that is laid down by law.
+NIMC’s mandate, as specified in Act No. 23 of 2007, provides the public interest legal basis.
+Sensitive / Special Category Personal Data
+Personal data is classified as belonging to 'special categories' under current data protection legislation if it includes any of the following types of information about an identifiable, living individual:
+
+Racial or ethnic origin
+Political opinions
+Religious beliefs
+Trade union membership
+Physical or mental health
+Sexual life or sexual orientation
+Commission of offences or alleged offences
+Genetic data
+Biometric data
+Processing Special Category Personal Data requires a lawful basis plus a condition for processing.
+
+At NIMC, we process biometric data to uniquely identify individuals. This processing is necessary for the identification of the data subject in the National Identity Database.
+
+When does the Commission share personal data?
+NIMC shall, in some circumstances and where the law allows, share your data with third-parties including:
+
+third-party service providers
+other government Ministries, Departments, And Agencies (MDAs)
+security and law enforcement agencies in Nigeria
+NIMC Shall also share your data with other persons with your consent when you authorize us to do so. We require third parties to respect the security of your data and to treat it in accordance with the law.
+
+When the Commission may share your personal information with third parties
+NIMC will share your personal information with third parties where:
+
+required or allowed by law
+in the interest of national security
+you authorize us to do so
+it is necessary for the performance of our functions as a Government Agency or another Government Ministry Department or Agency.
+Personal data shared with third parties may be inwardly disclosed to other third parties for specific purposes where there is a lawful basis. For example, disclosing certain information for tax purposes.
+
+The Commission will also share your Personal Information with the police and other law enforcement agencies where it’s necessary to do so for the prevention, investigation, detection or prosecution of criminal offences, and trading standards and other regulatory authorities when it is necessary for the purposes of their regulatory functions.
+
+Kindly note that the information shared is not provided for marketing purposes and is shared on the condition/agreement that all third parties employ standard security safeguards in processing the information shared.
+
+Where does NIMC store and process personal data?
+Your personal information is collected and stored electronically on computer systems in secure storage areas certified to the ISO/IEC 27001:2013 Information Security Standard, that are accessible only to employees who require the information to perform their official duties.
+
+All data is stored and processed in the country (Nigeria) with the industry best security certifications and practices and according to International Privacy Standards and Regulations. Contractual clauses for appropriate level of Data Privacy Protection are in place for data transfer from our diaspora collection centres.
+
+How does NIMC secure personal data?
+Security measures employed includes Technical, Management and Operational Controls that permit access to personal information only to persons with an official “need to know” That is those persons, or agents who have a business or legal need to do so. We have put in place measures to safeguard and secure the information NIMC collect about you.
+
+Audit mechanisms are in place to record sensitive transactions as an additional measure to protect information from unauthorized disclosure or modification.
+
+The Commission’s third-party service providers will only process your personal information on NIMC’s instructions or agreement, and where they have agreed to treat the information confidentially and to keep it secure.
+
+NIMC treats the security of your data very seriously. The Commission have strict Security Standards, and annually provide appropriate Security Awareness Training to all our employees and vendors. The training includes reminders about the need to protect Personally Identifiable Information (PII) and the criminal penalties that apply to unauthorized access to, or disclosure of, PII. Furthermore, employees and vendors with access to databases who maintain PII must annually sign a sanction document that acknowledges their accountability for inappropriately accessing or disclosing such information.
+
+NIMC has put in place procedures to deal with any suspected Data Security Breach and will notify you and the regulator of a suspected breach where we are legally required to do so.
+
+How long does NIMC keep your personal data for?
+NIMC aim to retain your personal information for only as long as it is necessary for us to do so for the purposes for which we are using it and in line with our published Records Management and Retention and Disposal Policy.
+
+Your Rights in Relation to Personal Data
+Rights of access, correction, erasure, and restriction
+You have a number of rights in relation to the processing of your personal information by NIMC. These are outlined below.
+
+Your responsibility to inform us of changes
+It is important that the personal information we hold about you is accurate and current. You need to keep NIMC informed if your personal contact information changes.
+
+Your rights in connection with personal information
+Under certain circumstances, by law you have the right to:
+
+request access to your personal information (commonly known as a Subject Access Request (SAR)) – this enables you to know what personal information we hold about you and to check that NIMC are lawfully processing it. If you wish to do so you should follow NIMC’s Subject Access Request Guidance
+Request correction of the Personal Information that NIMC hold about you – this enables you to have any incomplete or inaccurate information NIMC hold about you corrected
+request erasure of your Personal Information – This enables you to ask us to delete or remove personal information where there is no good reason for us continuing to process it. This does not apply where we are legally obliged to process your personal information or where the processing is necessary for performing our functions
+Object to processing of your personal information where you have grounds to object which relate to your particular situation, in which case NIMC will stop processing the personal data unless the Commission can demonstrate compelling legitimate grounds for the processing, which override your interests, rights and freedoms
+request the restriction of processing of your personal information – this enables you to ask NIMC to suspend the processing of Personal Information about you, for example if you want to establish its accuracy or the reason for processing it.
+NIMC does not have to comply with your requests to the extent that they are likely to prejudice the prevention or detection of crime, the apprehension or prosecution of offenders, or the assessment or collection of a tax or duty or an imposition of a similar nature.
+
+NIMC can also restrict those rights when we are conducting a criminal investigation and it is a necessary and proportionate measure to avoid obstructing an official or legal inquiry, investigation or procedure, or avoid prejudicing the prevention, detection, investigation or prosecution of criminal offences or the execution of criminal penalties.
+
+Fee Implication
+The Commission is allowed under the law to charge a reasonable fee for your Subject Access Rights if access is manifestly unfounded or excessive. Alternatively, we can refuse to comply with the request in such circumstances.
+
+What NIMC Needs from You
+NIMC sometimes need to request specific information from you to help us confirm your identity and ensure your right to access the information (or to exercise any of your other rights).
+
+This is another appropriate security measure to ensure that your personal information is not disclosed to any person who has no right to receive it.
+
+When NIMC will respond to a request
+NIMC shall act upon the request without undue delay and at the latest within one month of receipt. The Commission may extend the time to respond by a further 2 months if the request is complex or have received a number of requests from the same person.
+
+However, in those circumstances NIMC will let you know without undue delay and within one month of receiving your request and explain why the extension is necessary.
+
+If you wish to exercise your rights in connection with Personal Information, other than to make a Subject Access Request, you should contact NIMC’s Data Protection Officer.
+
+Right to withdraw consent
+The Commission usually process personal data because we are required to do so by law and necessary for the purposes of our functions as a Government Agency.
+
+In the limited circumstances where you have provided your consent to the collection, processing and transfer of your personal information for a specific purpose, you have the right to withdraw your consent for that specific processing at any time.
+
+The Commission will have informed you how to withdraw your consent when you provided it and you should follow that process. If not, contact NIMC’s Data Protection Officer specifying how and when you provided your consent, and for what purpose.
+
+Once NIMC receives notification that you have withdrawn your consent, the Commission no longer processes your information for the purpose or purposes you originally agreed to unless NIMC has another legal basis for doing so.
+
+How to Contact Us?
+NIMC has appointed a Data Protection Officer, Aisha Abubakar Sahabo, to oversee compliance with its Data Protection Obligations.
+
+If you have any questions about this privacy notice or how NIMC handles your personal information, email the Data Protection Officer at: dpo@nimc.gov.ng or write to:
+
+If you want to request a copy of your personal data follow NIMC’s subject access request guidance.
+
+The Data Protection Officer
+
+National Identity Management Commission (NIMC)
+
+11 Sokode Crescent,
+
+off Dalaba Street
+
+Wuse Zone 5 Abuja 900285
+
+Changes to the Privacy Notice
+NIMC keeps its privacy notices under regular review. If there are any changes, NIMC will update this page to tell you. Check this page to make sure you are aware of what information we collect, how we use it and the circumstances we may share it with third party.
+
+From time to time, the Commission will also communicate with you in other ways about the processing of your personal data.
+
+This Information Security and Privacy notice was last updated on 25th April 2024.

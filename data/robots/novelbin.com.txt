@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /ajax
+Allow: /ajax/chapter-archive
+Allow: /ajax/hot-novels
+Allow: /ajax/latest-novels
+User-agent: Mediapartners-Google 
+Allow: /

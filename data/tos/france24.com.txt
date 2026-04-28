@@ -1,0 +1,245 @@
+
+Legal notice
+I – Legal information
+1. Publisher
+France Médias Monde
+Société anonyme (French public limited company) with capital of 6,947,560 euros
+Nanterre Trade and Companies Register: 501 524 029
+Registered office: 80, rue Camille Desmoulins
+92130 Issy Les Moulineaux
+France
+
+Director of the Publication: Marie-Christine SARAGOSSE
+
+Contact form: Contact
+Switchboard of France Médias Monde: +33 1 84 22 84 84
+
+2. Web hosts
+Claranet
+19 Rue Michel le Comte
+75003 Paris
+France
+Telephone: +33 1 70 13 70 00
+
+Akamai
+12 rue Oradour-sur-Glane
+75015 Paris
+France
+
+For francemediasmonde.com and academie.francemm.com:
+
+Scaleway
+8 rue de la Ville l’Evêque
+75008 Paris
+France
+
+For rfiadvertising.com:
+
+Digitalocean
+67 rue Saint Jacques
+75005 Paris
+France
+
+II – General Terms of Use
+1. Purpose
+The purpose of these General Terms of Use (hereinafter “GTU”) is to specify and determine the terms and conditions under which France Médias Monde makes all of the websites it produces (hereinafter the “Websites”) available to users, and the terms governing users' access and visits to these Websites. The Websites can be accessed at the following addresses:
+
+https://www.francemediasmonde.com
+https://www.francemm.com
+https://www.rfi.fr
+https://gastronomie.rfi.ro
+https://muzica.rfi.ro
+https://europaplus.rfi.ro
+https://generatia30.rfi.ro
+https://rural.rfi.ro
+https://webdoc.rfi.ro
+https://www.france24.com
+https://observers.france24.com
+https://observers.rfi.fr
+https://howtowatch.france24.com
+https://www.mc-doualiya.com
+https://www.infomigrants.net
+https://zoa.media
+https://francaisfacile.rfi.fr
+https://mondoblog.org
+https://appafrique.rfi.fr
+https://www.rfi-instrumental.com
+https://www.rfiadvertising.com
+https://www.ecouterlemonde.net
+https://academie.francemm.com
+https://www.cfi.fr
+https://www.ac.cfi.fr
+https://www.24hdansuneredaction.com
+2. Definitions
+For the purposes of these GTU:
+
+“General Terms of Use” or “GTU” refers to the provisions provided herein, accepted by the Users and governing access to and use of the Websites.
+
+“Comment(s)” refers to the text(s) written by the User to comment on the Content (cf. definition below). User Comments can be seen by any Internet user visiting the Websites.
+
+“User Account” refers to the spaces on the Website reserved for the User by means of a personal login and password, which can, in particular, enable him/her to receive newsletters.
+
+“Content” broadly refers to the content and elements contained on the Websites, in particular photographs, images, texts, articles, illustrations, sounds, videos and the Video-Player and Audio-Player (cf. definitions below).
+
+“User Content” refers to the texts, illustrations, photos, images, sounds and videos of any kind made available by the Users in the Contributions Spaces.
+
+“Contributions Spaces” refers to all the pages provided for Users on the Websites where they can comment on the Content.
+
+“Video-Player” refers to the software programme enabling the playback of video Content. The Video-Player is exportable and allows third parties previously authorised by an agreement to post said Content on their websites under the conditions laid down in these GTU. In order to offer you an optimal viewing experience, the Video Player used by France Médias Monde is the unbranded version of the YouTube video player to which the YouTube Terms of Use apply. As part of this service and with your consent, YouTube may collect personal data for the purposes of audience measurement, content recommendations and targeted advertising, under the terms of Google's Privacy Policy.
+
+“Audio-Player” refers to the software programme enabling the playback of audio Content. The Audio-Player is exportable and allows third parties previously authorised by an agreement to post said Content on their websites under the conditions laid down in these GTU.
+
+“Services” refers to the services accessible on and/or from the Websites and produced by France Médias Monde.
+
+“Partner Services” refers to the services produced by third party partners accessible on and/or from the Websites, in particular via hyperlinks placed in different sections.
+
+“Websites” refers to the websites produced by France Médias Monde, as they are listed in Article 1 of these terms, as well as all of their versions regardless of how they are accessed (mobile websites, mobile and/or tablet apps in particular).
+
+“User(s)”: means any person visiting the Websites.
+
+3. Acceptance of GTU
+Any use of the Websites is carried out within the scope of these GTU, which intend to establish the terms and conditions for using the Services and Contents offered on the Websites.
+
+Accessing the Websites implies the application and acceptance of these GTU. The GTU applicable are those in force on the date each time the User logs onto the Websites.
+
+It is specified that France Médias Monde may amend the GTU at any time in order to adapt them to the developments of the Services and current legislation. Users are made aware of these modifications simply through their publication online. From then on, they are deemed as accepted without reservation by any User accessing the Websites after they have been published online. Consequently, the User is advised to check them on each visit to become aware of the latest version available on the Websites.
+
+4. Partner Services
+The Websites also allow access to Partner Services via links embedded in different sections of the Websites to websites, content and services produced by said partners. The Partner Services can be accessed in particular by clicking on promotional features (banners, videos, etc.).
+
+The User acknowledges that such Partner Services are entirely independent from France Médias Monde. Therefore, any use of the Partner Services via the Websites shall be exclusively subject to the terms of use and/or sale specific to each Partner Service and their personal data protection policy.
+
+France Médias Monde shall not be held liable for the accessible content, all offers, information consulted or transactions performed on the Partner Services. Likewise, France Médias Monde offers no guarantees as regards the terms and conditions of the application of current regulations by the publishers of the Partner Services, which are solely responsible.
+
+5. Users
+5.1 User Accounts
+Access to the Websites is free and not subject to prior registration.
+
+Nevertheless, some services provided on the Websites (such as the sending of newsletters) may be subject to prior registration by the User, his/her identification and the use of a User Account.
+
+When creating his/her User Account, the User will be asked to select a user ID and associated password, which are strictly personal and confidential. The User shall be presented with a registration form for providing France Médias Monde with certain personal information which is compulsory or optional according to the notes on the form. If the User does not provide the information identified as compulsory, the creation of the User Account cannot be validated.
+
+This personal data is collected directly from the User in order to allow them to be easily identified during the next connections and to have additional services and/or access. This personal data is stored with the User’s consent and shall be subject to processing as defined in Article 10 of these GTU. They are stored from the date on which the User Account is created and for the entire duration that the Services are used. After the date of unsubscription by France Médias Monde due to the User's inactivity or at the User's request to delete the Account, data is kept for a period of 13 months maximum.
+
+5.1.1 Protection of Minors
+In the event that the User is a minor private individual, he or she hereby declares and acknowledges having obtained the prior authorisation of their parents or of the person or persons with parental authority over him or her to browse the Websites. The person or persons with parental authority act as guarantor(s) of compliance with all of the provisions in these GTU when the minor User is using the Websites.
+
+Parents (or those with parental authority) are invited to supervise the use made of the Services by their children (those in their charge) and to keep in mind that the Services are intended to appeal to a wide audience and that in their capacity of legal guardian, it is the parents’ responsibility to determine what Website is or is not suitable for their child(ren) and to supervise their use thereof. For further information on filtering, particularly in order to protect minors, France Médias Monde advises parents to contact their Internet service provider and refer to the following page: https://www.education.gouv.fr/cid141/la-protection-des-mineurs-sur-internet.html
+
+It is specified that minors are not allowed to create a User Account.
+
+5.1.2 User IDs for Third-party Services
+User IDs for third-party services such as Facebook, X, YouTube and LinkedIn may have to be used in order to access some functions and services.
+
+The User must log on with user IDs specific to these different third-party services for all social network functions involving interaction with said third-party services.
+
+The creation and use of these accounts and the personal data provided by the User to these third-party services are governed by the terms of use and the personal data protection policy specific to each third-party service, releasing France Médias Monde from any liability in this respect.
+
+5.2 Contribution Spaces
+5.2.1
+Users have the opportunity to comment on the Content posted on the Websites (hereinafter “the Comments”) and/or to post texts, videos, sounds, images and/or photographs (hereinafter the “User Content”). These Comments and User Comments can be seen by any Internet user visiting the Websites.
+
+France Médias Monde does not carry out any checks a priori of the User Content and/or Comments posted by the Users, who remain liable for the content of the Comments and/or User Content they have produced.
+
+Under no circumstances may France Médias Monde be held liable for the basis of Comments and/or User Content posted online by a User who does not hold the rights required for such a posting.
+
+Any User who posts Comments and/or User Content on the Websites expressly authorises France Médias Monde to store, reproduce and represent said Comments and/or User Content free of charge and on a non-exclusive basis, for the entire duration of the intellectual property rights upon their publication.
+
+It is specified that for technical reasons, certain User Content may be reformatted in accordance with the provisions of Article 7.3 of these GTU (especially the font, size and spelling). No substantive changes shall be made to the Comments and/or User Content without the express prior written consent of the User who is the author of said User Content.
+
+5.2.2
+The User undertakes not to post User Content and Comments on the Websites which do not comply with current legislation in France, and in particular which:
+
+are contrary to public order and common decency
+violate another person’s privacy
+constitute an infringement of the confidentiality of journalists' sources
+violate professional confidentiality
+allude to racial, religious and ethnic origin, physical features or a person’s disability, unless these references are relevant to the understanding of the information
+contribute to the dissemination of a work protected by the Intellectual Property Code without having the required prior authorisations
+constitute an insult, a vilification, a denigration, a violation of a person’s honour, reputation and dignity, an incitement to racial hatred or an act of unfair competition
+constitute a violation of a victim's dignity
+compromise the identity of victims of assault or sexual assault, unless the person has given his/her written consent
+enable the dissemination of information concerning the identity or enabling the identification of a minor
+encourage the committing of crimes and/or offences inciting the use of banned substances or inciting suicide
+defend certain crimes, particularly murder, rape, war crimes and crimes against humanity
+are of a racist, anti-Semitic, xenophobic, revisionist, obscene or pornographic, or paedophilic nature
+Furthermore, the Users undertake to write Comments and/or User Content which:
+
+are relevant to and connected with the topic being commented on or concerned
+are easy for everyone to read and understand, avoiding overuse of abbreviations and “SMS language”
+avoid the overuse of capital letters which may be perceived as aggressive
+are not spam or floods (repeatedly posting the same message).
+5.3 Moderation of Contribution Spaces
+France Médias Monde may, at its sole discretion, decide to delete any Comment and/or User Content after it is posted on the Websites should said Comment and/or User Content fail to comply with the provisions in Article 5.2.2 and, more generally, contravene the provisions of current French legislation.
+
+6. Intellectual Property
+6.1 Website Elements and Content
+The elements contained on the Websites, such as text, sounds, images, videos, music, software programmes, databases, logos, trademarks and other reproduced elements are reserved and protected under intellectual property law (in particular copyright, related rights and trademark law). These protected elements are the property of France Médias Monde and/or its partners.
+
+Under the rules related to intellectual property, any reproduction (including downloading, printing, etc.) or partial or complete representation, adaptation, translation, transformation, and/or transfer to another site of one or more of the aforementioned elements is prohibited. It is also strictly forbidden to collect, store, use, extract, reproduce, directly or indirectly, permanently or temporarily, all or part of the content without authorization, by any means and for any purpose, automatically or manually, particularly for training, development, and operation of any software, system, and artificial intelligence device. This clause includes, without limitation, opposition as provided for in the context of the Text and Data Mining exception in accordance with the provisions of Article L122-5-3 of the Intellectual Property Code. This opposition is also expressed by a technical process accessible to any automated collection device in the form of "tdm-reservation": 1 in the file /.well-known/tdmrep.json on the Sites. France Médias Monde may use any technical means to restrict access to its content available on its Sites by robots and/or any other technology reproducing and/or using its content, particularly for training or developing machine learning systems or artificial intelligence. In the event of a violation of these terms and conditions, France Médias Monde may hold individuals or entities operating these devices liable.
+
+France Médias Monde grants the User non-transferable, free, non-exclusive, personal and private authorisation to use the Services and the Websites solely for personal and private use, in strict accordance with the terms of use laid down in these GTU.
+
+6.2 Trademarks
+The trademarks of France Médias Monde and of its partners, including the logos on the Websites, are registered trademarks and as such protected by industrial property law (Article L 713-2 et seq. of the French Intellectual Property Code). The use of these trademarks or logos is prohibited, unless prior, express authorisation has been given by their owners. Any unauthorised use of a protected trademark or logo constitutes a copyright infringement and may be subject to prosecution before the competent courts.
+
+6.3 User Contributions
+Each User guarantees to France Médias Monde that he/she has the necessary user rights for posting Comments and/or User Content on the Websites.
+
+As a result, all Users transfer to France Médias Monde the right to reproduce, represent, copy, modify, reformat, re-publish, communicate, distribute, adapt and generally use all or part of the Comments and/or User Content on the Websites and/or on pages of France Médias Monde's social networks, as well as on its versions regardless of how they are accessed, free of charge and on a non-exclusive basis, for the entire period during which the intellectual property rights possibly relating to his/her Comments and/or User Content are legally protected.
+
+These rights are transferred throughout the world for all uses on all media and by any dissemination processes currently known or unknown.
+
+The User expressly acknowledges and accepts that some Comments and/or User Content may be reformatted for technical reasons only; the User hereby assigns the necessary adaptation rights. Subject to compliance with the terms of Article 5.2, no substantive changes shall be made to the Comments and/or User Content without the User’s express prior consent.
+
+The User expressly acknowledges and accepts that no use of Comments and/or User Content by France Médias Monde under these Terms of Use shall give rise to any financial compensation.
+
+7. Hyperlinks
+7.1 Simple hyperlinks and deep hyperlinks
+A simple hyperlink is defined as a link which only gives access to the homepage of one of the Websites.
+
+A deep hyperlink is defined as a link which gives access to a specific page on one of the Websites without going through its homepage.
+
+Any creation by a User of hyperlinks to one of the Websites implies that the User has obtained the necessary authorisations from the rights holders for public communication of the Content concerned and, where applicable, has paid any related remuneration.
+
+It is stated that France Médias Monde is completely independent of the websites that have a hyperlink created on them and is not responsible for the editorial line or content published on those websites.
+
+7.2 Player
+The Video-Player and/or Audio-Player embedded in a third-party website provide access to the video and/or audio Content of one of the Websites by making it appear in a frame on the said third-party website or by providing direct access to one or more items of Content.
+
+Any embedded Video-Player and/or Audio-Player is prohibited without the prior written authorization of France Médias Monde.
+
+7.3 Hyperlinks from the Websites
+Hyperlinks contained on the Websites may lead to other third-party websites. Users are solely responsible for their visits to such third-party websites. France Médias Monde cannot be held liable for having provided the User with this hyperlink and the content on such third-party websites. Under no circumstances may the User hold France Médias Monde liable for direct or indirect damage suffered as a result of using a third-party website accessible from the Websites.
+
+8. Special Recommendations for International Users
+France Médias Monde allows the Websites to be accessed from any country, subject to current local legislation and any applicable restrictions imposed by it. Any User accessing the Websites from a computer located outside French territory expressly acknowledges that he or she has read, understood and unreservedly accepted the terms of these GTU and undertakes to comply with local legislation and any applicable restrictions in the country concerned.
+
+Some Content on the Websites cannot be accessed from certain countries, owing in particular to territorial restrictions imposed by rights-holders or limited dissemination rights. Consequently, Users who access the Websites from computers located in these excluded territories are prohibited from using any system for circumventing tracking measures designed to enable access to such content from these territories.
+
+9. Liability
+9.1 Accessibility of the Websites and Services
+The Websites and the Services are accessible 24 hours a day and 7 days a week. France Médias Monde shall do its utmost to guarantee the accessibility of the Websites and Services. However, France Médias Monde shall not be held liable for the risk of disruption or malfunctioning related to the connection, maintenance operations, editorial updating, network and/or information system congestion, intrusion by unauthorised third parties and contamination by any viruses circulating on said networks and services, internal or external strikes, improper configuration or use of the computer by the User or any other cause within or beyond its control.
+
+France Médias Monde may not be held liable if the disruption or deterioration of the quality of the Websites and Services is due to the occurrence of a case of force majeure. A case of force majeure is considered to be any force majeure event or fortuitous event as defined by current French legislation and the case law of the French Court of Cassation.
+
+9.2 Editorial Content
+France Médias Monde undertakes to do everything possible to guarantee the truthfulness and accuracy of the information available on all of the Websites, but may not be held liable for its inaccuracy, nor for the use and interpretation made of it by the User.
+
+Therefore, France Médias Monde shall not be held liable for any direct or indirect damage, ancillary or incidental, resulting from the use of the Websites or any information obtained from the Websites.
+
+France Médias Monde reserves the right to make improvements and/or modifications to the Websites and its Services at any time without prior notice.
+
+In general, the User holds France Médias Monde harmless against any appeals or actions by any person and their possible financial consequences, based on or resulting directly or indirectly from his or her actions, or arising from the use of the Websites by the User as well as any alleged breach of the GTU or current regulatory provisions and indemnifies France Médias Monde in respect of any appeals including litigation that may result.
+
+10. Data Confidentiality
+France Médias Monde invites the User to review its Protection Policy for personal data and respect for privacy, accessible via the following link:  Privacy policy  as well as its policy regarding cookies via the following link:  Cookies.
+
+These policies explain the origin and nature of the data collected by France Médias Monde during the User's browsing and/or use of the services offered on the Websites and apps of France Médias Monde, the purposes of their collection and the User's rights to such data in accordance with the regulations on the Protection of personal data applicable in France and Europe.
+
+11. Final Provisions
+These GTU are subject to and interpreted in accordance with French law. Any ongoing dispute relating to the interpretation, application or execution of these GTU which is not resolved by compromise within 30 (thirty) days following notification of the dispute by registered letter with acknowledgement of receipt, shall be submitted to the exclusive jurisdiction of the Nanterre courts (France).
+
+Should any part of the provisions of these GTU prove to be illegal, invalid or inapplicable for whatever reason, the term or terms in question will be declared invalid and the remaining terms shall retain their full force and effect and continue to apply.
+
+In no case shall the non-application or the absence of a claim for application of any of the provisions whatsoever in these GTU or of any right whatsoever, by France Médias Monde be interpreted as a waiver by the same of such a provision or right, unless France Médias Monde agrees otherwise in writing.

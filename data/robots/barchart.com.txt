@@ -1,0 +1,11 @@
+Sitemap: https://www.barchart.com/sitemap.xml
+Sitemap: https://www.barchart.com/news/google-sitemap.xml
+User-agent: *
+Disallow: /proxies/
+Disallow: /search?*
+
+User-agent: proximic
+Disallow: /
+
+User-agent: msnbot
+Crawl-delay: 3

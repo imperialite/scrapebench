@@ -1,0 +1,10 @@
+# Added by SEO Ultimate Pro Link Mask Generator module
+User-agent: *
+Disallow: /go/
+# End Link Mask Generator output
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.jmbullion.com/sitemap.xml

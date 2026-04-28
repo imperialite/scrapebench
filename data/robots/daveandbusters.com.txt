@@ -1,0 +1,42 @@
+User-agent: GoogleBot
+User-agent: Googlebot-Mobile
+User-agent: AdsBot-Google
+Disallow: /siteMap
+Disallow: /.do
+Disallow: /.ajax
+Disallow: /.js
+Disallow: /.css
+Disallow: /f_*
+
+User-agent: Bingbot
+User-agent: Applebot
+User-agent: MSNBot
+User-agent: AdIdxBot
+User-agent: MotoMinerBot
+User-agent: MJ12bot
+User-agent: rogerbot
+User-agent: RavenCrawler
+User-agent: Twitterbot
+User-agent: Slurp
+User-agent: DuckDuckBot
+User-agent: SemrushBot
+User-agent: Teoma
+User-agent: archive.org_bot
+Disallow: /siteMap
+Disallow: /.do
+Disallow: /.ajax
+Disallow: /.js
+Disallow: /.css
+Disallow: /f_*
+Disallow: /bin/
+Disallow: /config/
+Disallow: /data/
+Disallow: /macroScripts/
+Disallow: /umbraco/
+Disallow: /umbraco_client/
+Disallow: /usercontrols/
+Disallow: /xslt/
+Disallow: /*widgets/
+Crawl-delay:20
+
+Sitemap: https://www.daveandbusters.com/us/en/sitemap.xml

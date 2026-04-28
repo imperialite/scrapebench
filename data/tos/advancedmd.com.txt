@@ -1,0 +1,242 @@
+Privacy Notice & Data Protection Policy | AdvancedMD
+Skip to main content
+Skip to footer
+Privacy Notice l
+ast updated:
+March 7, 2024
+AdvancedMD, Inc. (“AdvancedMD,” “us”, “we” or “our”) values your privacy. We provide cloud-based medical office software (our “Services”) to ambulatory medical practices and medical billing service companies (our “Clients”) to enable those Clients to manage the services they offer to their patients or clients (“End Users”).
+In this Privacy Notice (“Notice”), we describe how we collect, use, and disclose personal information about our Clients and their End Users through our websites (“Sites”), mobile applications (“Apps”), and any other online or mobile services that link to or expressly reference this Notice. Our Clients may also provide their own privacy notices on the Sites and Apps, as appropriate.
+Please note that this Notice does not apply when AdvancedMD acts as a business associate to our Clients under the US health privacy law, the Health Insurance Portability and Accountability Act (HIPAA). Accordingly, this Notice does not apply to the Patient Portal, patient intake and consent forms, or to the protected health information we receive from our Clients through Patient Portal or elsewhere for medical records processing or other purposes regulated by HIPAA. Such information is governed by the AdvancedMD HIPAA Privacy Statement available online at:
+http://info.advancedmd.com/rs/332-PCG-555/images/AdvancedMD-HIPAA-Privacy-Statement.pdf
+.
+This Notice provides an overview of the possible circumstances in which we interact with personal information through our Sites and Apps as a service provider and processor on behalf of our Clients. If you have any questions about our processing of personal information about you, please contact us at
+[email protected]
+.
+In this Notice, we provide information about:
+PERSONAL INFORMATION WE COLLECT AND HOW WE USE IT
+HOW WE DISCLOSE PERSONAL INFORMATION
+TRANSFERRING PERSONAL INFORMATION GLOBALLY
+DATA SECURITY AND DATA RETENTION
+COOKIES AND OTHER TRACKING TECHNOLOGIES
+EXTERNAL LINKS
+CHILDREN
+YOUR LEGAL RIGHTS
+OTHER INFORMATION
+CONTACT US
+REGION-SPECIFIC INFORMATION
+PERSONAL INFORMATION WE COLLECT AND HOW WE USE IT
+“Personal information” is information that identifies you as an individual or relates to an identifiable individual. AdvancedMD collects two different categories of personal information:
+The personal information of our Clients or potential Clients (“Client Information”), and
+The personal information of End Users who use Services provided at the direction of our Clients (“End User Information”).
+AdvancedMD uses these categories of personal information differently because while we have a direct relationship with our Clients and therefore may determine why and how to handle Client Information, our relationship with End Users is indirect and based on our relationship with our Client. We only handle End User Information in accordance with our Client’s instructions.
+If you are an End User who has a relationship with one of our Clients, such as a doctor’s office or other healthcare provider, and have a question about how your personal information is collected, used, or disclosed, or would like to exercise any rights you may have with respect to personal information about you, please contact the Client directly.
+Subject to consent if required by law, we may collect the following categories and types of Client Information as relevant to the Services:
+Basic Identifying Information
+, including your full name, postal address, e-mail address, phone number, username, or other similar identifiers.
+Device Information and Other Unique Identifiers
+, including device identifier, internet protocol (IP) address, cookies, beacons, pixel tags, or similar unique identifiers.
+Internet or Other Network Activity
+, including browsing or search history and information regarding your interactions with our marketing materials, Sites and Apps.
+Payment Information
+, including credit or debit card numbers or other financial account numbers.
+Commercial Information
+, including information about your business, your access and purchase history with us, the products and Services we provide to you, and your preferences regarding products and related Services which are of interest to you.
+Professional and Employment-Related Information
+, including your role or status with the organization with which you are affiliated.
+Information You Provide
+, including your communications with us and any other content you provide (such as if you report a problem with our Sites and Apps or when you participate in any blog, community, or forum on our Sites).
+Audio and Visual Information
+, including photographs, images, videos, and recordings of your voice (such as when we record calls or videos for quality assurance or other business activities).
+Inferences
+drawn from or created based on any of the information identified above, including your preferences, characteristics, or predispositions.
+We may also collect the following categories of End User Information on behalf of and as directed by our Clients:
+Basic Identifying Information
+, including your full name, postal address, e-mail address, phone number, username, or other similar identifiers.
+Device Information and Other Unique Identifiers
+, including device identifier, internet protocol (IP) address, cookies, beacons, pixel tags, or similar unique identifiers.
+Internet or Other Network Activity
+, including browsing or search history and information regarding your interactions with our Sites and Apps.
+Payment Information
+, including credit or debit card numbers or other financial account numbers.
+Commercial Information
+, including records of activity and products or Services purchased.
+Health/Medical Information
+.
+Information You Provide
+, including your communications with us and any other content you provide (such as if you report a problem with our Sites and Apps).
+Audio and Visual Information
+, including photographs, images, videos, and recordings of your voice (such as when we record calls or videos for quality assurance or other business activities).
+How we use personal information
+.
+Subject to your consent where required by law, we may use personal information about you for the following business purposes:
+Provide our Services,
+Create, maintain or provide service for your account,
+Process or fulfill requests from you,
+Respond to customer service requests from you,
+Verify your information,
+Process payments,
+Undertake activities to maintain the quality, safety or integrity of the Services, including to repair, improve, upgrade, or enhance the Sites, Apps, or our Services,
+To conduct our operations and for other general business purposes,
+To conduct audits and enable internal record keeping and administration of records,
+Market to our Clients, subject to their consent if required by applicable law, and to monitor Clients’ interactions with any print, audio or video marketing materials that we may make available to them,
+Maintain data security including detecting and responding to security incidents, protecting you, and us, from fraud or other illegal activity, and prosecute individuals responsible for that activity,
+Monitor our Sites including gathering usage data and other analytic information that enables us to maintain and improve the Services,
+Other uses that are required for us to meet our legal, contractual or regulatory requirements, and
+Other uses as directed by Clients and subject to their privacy notices.
+The business purpose for our processing of personal information.
+Our primary business purpose for processing personal information about you is to perform the Services outlined in our contracts with our Clients or as otherwise necessary to provide you with a product or service requested by you. As outlined above, we may also use personal information about you to enable the following additional business purposes: (1) detecting and managing security incidents or fraudulent activity, (2) providing customer service, fulfilling requests, and other functions directly related to the Services, (3) maintaining our software including debugging and repairing errors, and (4) maintaining the quality of the Services and developing enhancements and improvements to meet our Client needs.
+Sources of personal information.
+We collect personal information from the following sources:
+Information that you provide:
+We collect personal information that you provide when you set up an account, use the Services, or communicate with us. For example, if you create an online account, then we may request your name, contact information and payment information.
+Information collected from third parties:
+We may collect information about you from third parties in the course of providing our Services to you. For example, we may collect personal information like your name, contact information from the Client with whom you are interacting directly.
+Information collected through technology:
+When you visit our Sites or Apps (or when you use any of our Services) we may collect certain information about your location, usage, computer or device through technology such as cookies (see “
+Cookies and Other Tracking Technologies
+” for more information).
+Data anonymization and aggregation.
+Subject to your consent if required by law, we may anonymize or aggregate your personal information so that you are not identified or identifiable from it, in order to use the anonymized or aggregated data. For example, we may use anonymized or aggregated data for statistical analysis including to analyze trends, for product development, and for risk assessments and cost analysis. We may disclose anonymized or aggregated data to our parents, subsidiaries, affiliates or with other third parties. This Notice does not restrict our use or sharing of any anonymized or aggregated information.
+HOW WE DISCLOSE PERSONAL INFORMATION
+Except as otherwise specified, we may disclose any of the categories of personal information about you with your consent or as described in the manner and for the purposes below:
+With third-party service providers. For example, we disclose personal information to information technology (IT) service providers who help manage our back-office systems or administer our Sites and Apps. Third-party service providers may also include (without limitation) legal, accounting, auditing, consulting, or other professional service providers.
+With banks and payment providers to authorize and complete card payments.
+With our Client with whom you are also engaging when you use the Services. For example, you may be using an AdvancedMD Service provided to you through one of our Client’s (for example, a doctor’s office) websites to schedule an appointment. AdvancedMD may disclose the personal information you provide to the doctor’s office in order to fulfill your request. You may also receive communications from the doctor’s office. Each such Client operates independently from AdvancedMD and their collection and use of personal information about you is not subject to this Notice but to their own privacy notices.
+With logistics service providers to enable the delivery of packages to individuals.
+With Marketplace partners when you request more information about, or integrations with, their products and services.
+On Client-facing Sites only, we may disclose internet/electronic activity to advertising or social media networks for personalized marketing purposes (See “
+Cookies and Other Tracking Technologies
+” for additional information”).
+With regulators including state and federal agencies, and other parties required to enable compliance with laws, regulations and industry standards related to our Services.
+In response to a court order or a request for cooperation from a regulatory, law enforcement, or other government agency; to establish or exercise our legal rights; to defend legal claims; or as otherwise required or permitted by applicable laws and/or regulations.
+When we believe that disclosure is appropriate in connection with efforts to investigate, prevent, or take action regarding actual or suspected illegal activity, fraud, or other wrongdoing; to protect and defend the rights, property or safety of AdvancedMD, its Clients, staff, suppliers or others.
+To third parties in connection with any proposed or actual reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our assets or stock (including in connection with any bankruptcy or similar proceedings).
+TRANSFERRING PERSONAL INFORMATION GLOBALLY
+Personal information about you may be transferred to and stored in the United States or in another country outside of the country in which you reside, which may be subject to different standards of data protection than your country of residence.
+Consistent with the instruction provided to us from our Client, we will take appropriate steps to transfer personal information in accordance with applicable law, such as transferring personal information to countries that are recognized as providing an adequate level of legal protection or where alternative adequate arrangements are in place to protect your privacy rights.
+DATA SECURITY AND DATA RETENTION
+We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+We retain the personal information we collect for different periods of time depending on what it is and how we use it. In some contexts, we will provide additional information about retention as you use the Services. When we collect personal information, we will retain it only for as long as is necessary to complete the legitimate business or legal purposes for which we collected it. The criteria used to determine our retention periods include:
+The length of time we have an ongoing relationship with you and provide Services to you, for example, for as long as you have an account with us or continue to use our Services, and the length of time thereafter during which we may have a legitimate need to reference personal information to address issues that may arise;
+Whether there is a contractual obligation to which we are subject, for example, our contracts with our Clients may specify a certain period of time during which we are required to maintain the information on behalf of our Clients;
+Whether there is a legal obligation to which we are subject, for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them; and
+Whether retention is advisable in light of our legal position, such as in regard to applicable statutes of limitations, litigation or regulatory investigations.
+COOKIES AND OTHER TRACKING TECHNOLOGIES
+A “cookie” is a text file that is stored to your browser when you visit a website. Unique device identifiers like IP address or UDID recognize a visitor’s computer or other device used to access the internet. Unique device identifiers are used alone and in conjunction with cookies and other tracking technologies for the purpose of “remembering” computers or other devices used to access the Sites and Apps.
+Cookies and similar tracking technologies are used to help us retain information about your use of our Sites and Services. Using cookies, we collect information like country location, language preference and other settings. Cookies can also help us to operate our Services more efficiently and securely, remember you for future visits and enhance your user experience by providing real-time tools including user guides and chatbots. We also gather statistical information about the use of our services in order to continually improve their design and functionality, understand how they are used, and assist us with resolving questions regarding them.
+Cookies can be classified by duration and by source:
+Duration.
+The Sites use both “session” and “persistent” cookies. Session cookies are temporary – they terminate when you close your browser or otherwise end your “active” browsing session. Persistent cookies remember you on subsequent visits.Persistent cookies remember you on subsequent visits. Persistent cookies are not deleted when you close your browser, and they will remain on your computer or other device unless you choose to delete them (see below for “
+How to Delete or Block Cookies
+”).
+Source.
+Cookies can be “first-party” or “third-party” cookies, which means that they are either issued by or on behalf of us or by a third-party operator of another website. The Sites may use both first-party and third-party cookies.
+The cookies that we may use fall into the following categories:
+Strictly Necessary Cookies.
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions taken by you such as logging in or filling in forms. You can set your browser to block or alert you about these cookies, but blocking them may impede the functionality of the Sites.
+Performance Cookies.
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our Sites. They help us to know which pages are the most and least popular and see how visitors move around the Sites. All information these cookies collect is aggregated. If you do not allow these cookies we will not know when you have visited our Site, and will not be able to monitor its performance.
+Functionality Cookies.
+These cookies enable the Sites to provide enhanced functionality and personalization. They may be set by us or by third-party providers whose services we have added to our pages. If you do not allow these cookies then some of these services may not function properly.
+Targeting Cookies.
+We do not set targeting cookies on our End User facing Sites where this Notice is posted. However, our Clients may set these cookies on End User facing Sites for their own purposes and subject to their own privacy notices. On our Client-facing Sites only, we may set targeting cookies. These cookies may be set through our Sites by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant advertisements on other sites, including social media platforms. They are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+How to Delete or Block Cookies.
+We do not currently respond to browser Do-Not-Track signals. If you do not want information collected through the use of cookies, you can use the Cookie Settings banner or icon on the Site to make selections about the use of cookies. Additionally, most browsers allow you to automatically decline cookies or be given the choice of declining or accepting a particular cookie (or cookies) from a particular website. You may also refer to http://www.allaboutcookies.org/manage-cookies/index.html. If, however, you do not accept cookies, you may experience some inconvenience in your use of our Services. You also may not receive advertising from us that are relevant to your interests and needs.
+EXTERNAL LINKS
+AdvancedMD may provide links on our Sites and Apps to third-party websites or services that are not under our control. We do not endorse or make any warranty of any type regarding the content contained on such third-party websites or services or regarding the products and services they offer. We make no representation regarding your use of such websites or services. Please be aware that we are not responsible for the privacy practices of the operators of other websites or services. We encourage our users to be aware when they leave our Sites and Apps. You should read any other applicable privacy and cookies notices carefully before accessing and using third-party websites and services.
+CHILDREN
+The Sites and Apps are not directed to children or intended to be used by children. We do not knowingly solicit business from Clients under the age of 18. Any Client use of the Service to collect personal information from persons under the age of 18 is subject to such Client’s own privacy notice.
+YOUR LEGAL RIGHTS
+If you are an End User who uses AdvancedMD for the purpose of engaging with our Clients and have questions about legal rights you may have with respect to your personal information collected by our Client, please consult the Client with which you have a relationship. For example, if you are a patient of a doctor’s office that uses AdvancedMD, you should consult your doctor’s office.
+If you interact with our Sites and Apps for the purpose of engagement in a direct relationship with us, subject to certain exception, and in some cases dependent upon the processing activity we are undertaking, you may have the right to:
+Know whether we process personal information about you;
+Know how the personal information is used;
+Access, request and receive the personal information we have collected in a portable manner;
+Opt out of having personal information sold, or “shared,” or used for certain profiling activities;
+Request that we correct inaccuracies in personal information about you; and
+Request that we delete personal information about you.
+You may contact us using the information in the “
+Contact Us
+” section of this Notice for additional information about how to exercise your rights. If you are a resident of California or other jurisdiction with similar laws, please see the “
+Region-Specific Information
+” section below for further details on how to exercise your privacy rights.
+OTHER INFORMATION
+Changes and Updates.
+We reserve the right, in our sole discretion, to modify, update, or otherwise change this Notice. The “Last Updated” legend at the top of this Notice indicates when this Notice was last revised. Any changes will become effective when we post the revised Notice on our Services, including our Sites and Apps.
+CONTACT US
+If you are an End User who has a relationship with one of our Clients and have a question about how your personal information is collected, used, or disclosed, or would like to exercise any rights you may have with respect to personal information, please contact the Client directly. For other questions about this Notice, or if you are a Client and want to exercise your rights as described in this Notice, you may contact us as follows:
+AdvancedMD, Inc.
+698 West 10000 South
+South Jordan, Utah 84095
+(801) 984-9500
+[email protected]
+If you make a request to exercise a privacy right, we will verify and respond to your request consistent with applicable law, taking into account the type and sensitivity of the personal information subject to the request. We may decline to honor your request where an exception applies. In order to honor any access, deletion, or similar request, we will require you to provide enough information for us to verify your identity. For example, we may ask you for information associated with your account, including your contact information or other identifying information. If you would like your agent to make a request on your behalf, if permitted under applicable law, the agent may exercise those rights as noted above. We will process the agent’s request consistent with applicable law. As part of our verification process, we may request that the agent provide, as applicable, proof concerning their status as an authorized agent. In addition, we may require that you verify your identity as described in this section or confirm that you provided the agent permission to submit the request.
+REGION-SPECIFIC INFORMATION
+Information for Residents of California and Other Similar Jurisdictions
+.
+This section supplements the above Notice and further describes how we collect, use, and disclose the personal information we collect about residents of California and other similar jurisdictions.
+Categories of Personal Information We Collect and Our Purposes for Collection, and Use, and Disclosure
+The following chart details which categories of personal information we collect and process, as well as which categories of personal information we disclose to third parties for our operational business purposes, including within the preceding 12 months.
+Categories of Personal Information
+(See the “
+Personal Information We Collect and How We Use It
+” section for a description of each category of Personal Information)
+Disclosed to Which Categories of Third Parties for Operational Business Purposes
+Processing Purposes
+Basic Identifying Information; Device Information and Other Unique Identifiers; Internet or Other Network Activity; Commercial Information; Professional and Employment-Related Information; Information You Provide; Inferences
+Please see the “How We Disclose Personal Information” section for a list of the categories of third parties to whom we may disclose these categories of personal information.
+Please see the “Personal Information We Collect and How We Use It” section for a list and description of the applicable processing purposes for these categories of personal information.
+Payment Information
+Affiliates; third parties with whom you have a relationship (i.e. our Clients); service providers; legal authorities and other third parties in order to comply with laws, regulations, and standards; other parties in litigation
+Provide our Services and customer support
+Operations and general business purposes
+Fraud prevention and security
+Legal and compliance
+Health/Medical Information
+Affiliates; third parties with whom you have a relationship (i.e. our Clients); service providers; legal authorities and other third parties in order to comply with laws, regulations, and standards; other parties in litigation
+Provide our Services and customer support
+Operations and general business purposes
+Improve and develop new products and services
+Fraud prevention and security
+Legal and compliance
+Audio and Visual Information
+Affiliates; distributors of our products and Services; service providers; regulators; legal authorities and other third parties in order to comply with laws, regulations, and standards; other parties in litigation
+Provide our Services and customer support
+Operations and general business purposes
+Improve and develop new products and services
+Fraud prevention and security
+Legal and compliance
+Do Not Sell or Share My Personal Information
+We do not sell your personal information to third parties for monetary compensation. We do not knowingly sell or “share” (for purposes of cross-context behavioral advertising) the personal information, including the sensitive personal information, of minors under 16 years of age.
+Some of the Sites and Apps use cookies, including some cookies that are created by other companies and placed on your browser when you visit our website. We use those cookies to improve your experience and to gather information about our customers and the performance of our website. However, the companies who provide those cookies to us also have access to the data collected through them, and they may use that data for targeted advertising purposes. Our use of those third-party cookies could therefore be considered a “share” of your personal information under California law. If you are a resident of California or another jurisdiction with similar laws, that means you have the right to opt out. If you have not done so already, you can opt out of the placement of all non-necessary cookies by adjusting your Cookie Settings.
+Collection, Use, and Disclosure of Sensitive Personal Information
+Subject to your consent where required by applicable law, we collect, process, and disclose sensitive personal information for purposes of: providing goods or services as requested; ensuring safety, security, and integrity; countering wrongful or unlawful actions; short term transient use such as displaying first party, non-personalized advertising; performing services for our business, including maintaining and servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing financing, providing analytic services, providing storage, or providing similar services on behalf of our business; activities relating to quality and safety control or product improvement; and other collection and processing that is not for the purpose of inferring characteristics about an individual. We do not use sensitive personal information beyond these purposes.
+Rights and Requests
+Do my own billing with in-house staff
+Right to know about personal information collected, used, disclosed, “shared,” and sold
+You have the right to know whether we process personal information about you, and to access such personal information. If you are a California resident, you may also request that we disclose to you:
+the categories of personal information we have collected about you and the categories of sources from which we collected such personal information;
+the business or commercial purpose for which we collected, “shared,” or sold the personal information about you;
+the categories of personal information about you that we “shared” or sold and the categories of third parties with whom we “shared” or to whom we sold the personal information about you; and
+the categories of personal information about you that we disclosed for a business purpose, and the categories of third parties to whom we disclosed that information for a business purpose.
+Right to receive a copy of personal information
+You have the right to request that we provide the specific pieces of personal information, including a copy of such personal information in a portable format.
+Right to opt-out of the sale of personal information
+You may request that we do not sell personal information about you to third parties.
+Right to opt out of “sharing” personal information for cross-context behavioral advertising
+You may request that we stop “sharing” personal information about you for purposes of cross-context behavioral advertising. See the “Do Not Sell or Share My Personal Information” section for more information on opting out of certain cookies on the Sites and Apps.
+Right to request deletion
+In some circumstances, you have the right to have personal information about you deleted.
+Right to equal service and prices (“non-discrimination”)
+Your choice to exercise your privacy rights will not be used as a basis to discriminate against you in services offered or pricing.
+Right to request correction
+You have the right to request that we correct inaccuracies in personal information about you.
+Right to limit the use and disclosure of sensitive personal information
+In some circumstances, you may request that we limit the use and disclosure of your sensitive personal information.
+You can submit a request for any of the above rights by using the contact information in the “
+Contact Us
+” section of this Notice.
+California Shine the Light
+If you are a resident of California, you may request information concerning the categories of personal information (if any) we share with third parties or affiliates for their direct marketing purposes. If you would like more information, please submit a written request to us using the information provided in the above “
+Contact Us
+” section of this Notice.

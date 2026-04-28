@@ -1,0 +1,16 @@
+# DofuStream - Sports Live Streaming
+# https://dofustream.com
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+Disallow: /iframe
+Disallow: /player
+Disallow: /player2
+Disallow: /youtube
+
+# Sitemap
+Sitemap: https://dofustream.com/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /cache/
+Disallow: /admin/
+Disallow: /service/
+
+User-agent: AmazonAdBot
+Allow: /

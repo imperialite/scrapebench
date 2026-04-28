@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /quickinfo.html
+Disallow: /itemshipinfo.html
+Disallow: /maregistersuccess.html
+Disallow: /assets/
+Disallow: /service_contact-us.html
+Disallow: /signin.html
+Disallow: /service/customer-support-and-faqs.html
+Disallow: https://www.bradfordexchange.com/store.html?cid=6210&epm=customLanding_checksSearch
+Disallow: https://www.bradfordexchange.com/basket.html
+Disallow: https://www.bradfordexchange.com/specials/custom-landing-page.html?epm=usetax
+Disallow: /ssearch/
+Sitemap: https://www.bradfordexchange.com/bradfordcategories.xml
+Sitemap: https://www.bradfordexchange.com/sitemapindex.xml

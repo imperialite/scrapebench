@@ -1,0 +1,285 @@
+﻿TERMS OF USE
+
+Effective Date: February 17, 2024 (Previous Version)
+
+Welcome to the website of Garmin Ltd. and its subsidiaries (collectively, "Garmin," “we,” “us,” or, “our”).
+
+ACCEPTANCE OF TERMS
+
+These Terms of Use apply to any Garmin website or online service on which these Terms of Use are posted (collectively, the “Site”). By using the Site, you signify your agreement to these Terms of Use.
+
+If you are a minor under the age of majority in your country of residence, you should review these Terms of Use with a parent or guardian.
+
+We may modify these Terms of Use at any time by updating this posting. If we make a material change to these Terms of Use, we will notify registered users by email. Your continued use of the Site following the posting of revised Terms of Use means that you accept and agree to the changes. You should visit this page periodically to review these Terms of Use.
+
+Note that different or additional terms might apply to some services or features offered on the Site. Those terms are posted in connection with the applicable service or feature. Any such terms are in addition to these Terms of Use, and in the event of a conflict, prevail over these Terms of Use.
+
+If you use our generative AI services, please see our AI Transparency Statement.
+
+In Korea, the Garmin Korea Location Information Terms of Use apply to your use of the Site.
+
+To jump to a specific section of these Terms of Use, please click on a link below:
+
+Your Use of the Site
+  Rules of Conduct
+  Your Account
+  Enforcement of these Terms of Use
+Limitation of Liability and Indemnity
+  Disclaimer of Warranties
+  Disclaimer of Certain Damages
+  Third-Party Content; Links to Other Sites
+  Indemnity
+Intellectual Property Rights
+  Ownership of Content
+  Your License to Access the Site
+  User Submissions
+  Feedback
+  Trademarks
+  Downloaded Software License
+  Copyright Policy
+General
+  Export Control
+  Choice of Law; Dispute Resolution
+  Consent to Electronic Communications
+Contact
+EU Digital Services Act
+
+YOUR USE OF THE SITE
+
+RULES OF CONDUCT
+
+You are responsible for your conduct on the Site. By using the Site, you agree to abide by our Rules of Conduct.
+
+No Harm or Abuse of Others. You must not abuse, harass, or threaten anyone on the Site. You must not promote violence, terrorism, sexual assault, etc.
+
+Examples of Violations:
+
+Engaging in bullying, stalking, or sexual harassment
+Posting a threatening message, whether the threatened harm is physical, financial, or otherwise
+Posting photos that depict animal torture
+No Violation of Laws or Rights. You must abide by the law in your use of the Site. You must not defame another person, infringe their intellectual property rights, or violate their right to privacy.
+
+Examples of Violations:
+
+Posting copyrighted content without permission of the copyright holder
+Using the Site to collect personal information to sell or otherwise exploit for commercial purposes
+Sharing another person’s private information (such as their location) without their knowledge or consent or for the purpose of harassment (i.e., “doxxing”)
+Engaging in human trafficking, terrorism, disseminating child sexual abuse materials, trafficking in obscene or stolen material, drug dealing or drug abuse, harassment, theft, or conspiracy to commit any criminal activity
+No Obscene, Profane, or Inappropriate Content. You must not post pornography, obscenity, profanity, or explicit descriptions or displays of nudity or activities.
+
+Examples of Violations:
+
+Photos that depict genitalia
+Photos that are intended to be sexually gratifying, even if containing no nudity
+Content relating to bestiality
+No Hate Speech. You must not post hate speech. “Hate speech” is content that attacks another person based on race, ethnicity, national origin, immigration status, caste, sexual orientation, sex, gender identity and expression, religion or faith, age, disability, serious disease, weight or size, pregnancy, or veteran status.
+
+Examples of Violations:
+
+Using slurs, negative stereotypes, caricatures, or generalizations
+Attacking another user based on their citizenship or country of origin
+Calling for, or celebrating, violence against an ethnic group
+Posting images or symbols associated with hate groups, such as swastikas
+No Advertising. Except with Garmin’s prior written authorization, you must not use the Site for commercial activities or advertising, whether or not for a profit.
+
+Examples of Violations:
+
+Sending or posting any advertising or promotional material, including any "junk mail," "chain letter," "spam," or any other similar solicitation, regardless of whether or not the recipient has consented to receive such messages
+Running a giveaway or contest, without Garmin’s prior written authorization, for a prize with monetary value
+Creating a profile on the Site that promotes a business
+No Fraudulent or Deceptive Activity. You may not use the Site in a manner that constitutes fraudulent or deceptive activity.
+
+Examples of Violations:
+
+Using multiple accounts to boost a rating of content on the Site
+Participating in or organizing “review bombs” on the Site
+Engaging in schemes to pay people to follow you or to post positive reviews
+Faking activity results to win a reward or prize in a promotional contest
+No Spam, Malicious Software, or Other Damaging or Disruptive Activity. You may not use the Site in any manner that could overburden, damage, impair, disable, or breach the security of any Garmin server or network, or interfere with anyone else’s use and enjoyment of the Site.
+
+Examples of Violations:
+
+Uploading content that contains a virus or other harmful component
+Attempting to gain unauthorized access to the Site, other accounts, or any systems or networks connected to the Site, whether through hacking or any other means
+Using any process, whether automated or manual, that accesses, copies, or scrapes content from the Site through any means not purposely made available through the Site
+Probing, scanning, or testing the vulnerability of the Site or any related system or network
+Taking any action that imposes an unreasonable or disproportionately large load on the infrastructure of the Site, related systems or networks, or Garmin personnel
+Making repetitive posts or posting off-topic content on a portion of the Site with a designated topic or theme
+Creating, then deleting, then re-creating an account an excessive number of times
+Do Not Impersonate Others. You must not impersonate anyone else on the Site or pretend to represent a person or organization that has not authorized you to act on their behalf.
+
+Examples of Violations:
+
+Creating an account pretending to be someone else
+Forging headers or otherwise manipulating identifiers to disguise the origin of any message you send to Garmin on or through the Site
+If you violate these Rules of Conduct or otherwise breach these Terms of Use, we reserve the right to take the actions described below in Enforcement of these Terms of Use.
+
+Back to Menu
+
+YOUR ACCOUNT
+
+Some services on the Site permit or require you to create an account to participate or to secure additional benefits. You agree to provide, maintain, and update accurate, current, and complete information about yourself as prompted by our registration processes. You must not share your account credentials with any third party.
+
+You also agree to notify us promptly at garminsecurity@garmin.com of any unauthorized use of your username, password, other account information, or any other breach of security that you become aware of involving or relating to the Site.
+
+If your account becomes inactive, we may delete your account and related data.
+
+Back to Menu
+
+ENFORCEMENT OF THESE TERMS OF USE
+
+We may take any of the following actions to enforce the Terms of Use:
+
+Removing or refusing to post user-submitted content that violates the Rules of Conduct;
+Limiting the dissemination or visibility of certain user-submitted content;
+Taking the actions described in our Copyright Policy below;
+Suspending or terminating a user account, which may result in loss of access, without a refund, to subscription services associated with the account; and
+Asserting our rights in court based on a breach of the Terms of Use or other cause of action.
+Although we endeavor to enforce these Terms of Use consistently to maintain a safe and respectful user environment, we disclaim, to the fullest extent permitted by applicable law, any obligation or responsibility to moderate User Submissions.
+
+Back to Menu
+
+LIMITATION OF LIABILITY AND INDEMNITY
+
+DISCLAIMER OF WARRANTIES
+
+Garmin makes no representations or warranties about the accuracy, reliability, completeness, or timeliness of the Content or about the results to be obtained from using the Site and the Content. Any use of the Site and the Content is at your own risk.
+
+GARMIN DOES NOT WARRANT THAT THE SITE WILL OPERATE ERROR-FREE OR THAT THE SITE OR THEIR SERVERS ARE FREE OF COMPUTER VIRUSES OR OTHER HARMFUL GOODS. IF YOUR USE OF THE SITE OR THE CONTENT RESULTS IN THE NEED FOR SERVICING OR REPLACING EQUIPMENT OR LOSS OF PROFITS OR DATA, GARMIN WILL NOT BE RESPONSIBLE FOR THOSE COSTS.
+
+THE SITE AND CONTENT ARE PROVIDED ON AN 'AS IS' BASIS WITHOUT ANY WARRANTIES OF ANY KIND. GARMIN, TO THE FULLEST EXTENT PERMITTED BY LAW, DISCLAIMS ALL WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE WARRANTY OF MERCHANTABILITY, NONINFRINGEMENT OF PROPRIETARY OR THIRD-PARTY RIGHTS, AND THE WARRANTY OF FITNESS FOR PARTICULAR PURPOSE.
+
+GARMIN SHALL USE REASONABLE EFFORTS TO PROTECT INFORMATION OR DATA SUBMITTED BY YOU TO THE SITE IN CONNECTION WITH ANY SERVICE ON OR FEATURE OF THE SITE, BUT YOU ACKNOWLEDGE THAT TRANSMISSIONS USING THE INTERNET ARE NEVER COMPLETELY SECURE OR PRIVATE. YOU UNDERSTAND THAT ANY MESSAGE OR INFORMATION YOU SEND TO THE SITE, EVEN IF ENCRYPTED, MAY BE READ OR INTERCEPTED BY OTHERS. THEREFORE, YOUR SUBMISSION OF SUCH INFORMATION OR DATA IS AT YOUR SOLE RISK, AND YOU HEREBY RELEASE GARMIN FROM ANY AND ALL LIABILITY TO YOU FOR ANY LOSS OR LIABILITY RELATING TO SUCH INFORMATION IN ANY WAY.
+
+GARMIN IS NOT RESPONSIBLE FOR ANY DATA CHARGES YOU MAY INCUR IN CONNECTION WITH YOUR USE OF ANY SERVICE ON OR FEATURE OF THE SITE.
+
+Back to Menu
+
+DISCLAIMER OF CERTAIN DAMAGES
+
+Your use of the Site is at your own risk. If you are dissatisfied with any of the Site, its contents, any service on, or feature of the Site or with these Terms of Use, your sole remedy is to discontinue use of the Site. IN NO EVENT WILL GARMIN, ITS LICENSORS, OR ANY THIRD PARTIES MENTIONED AT THE SITE BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, INCIDENTAL, EXEMPLARY, AND CONSEQUENTIAL DAMAGES, LOST PROFITS, OR DAMAGES RESULTING FROM LOST DATA OR BUSINESS INTERRUPTION) RESULTING FROM THE USE OR INABILITY TO USE THE GARMIN SITES AND THE CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT GARMIN IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME COUNTRIES, STATES, OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR LOSS OR DAMAGE CAUSED BY GROSS NEGLIGENCE, PERSONAL INJURY OR DEATH, OR OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU, IN WHICH CASE GARMIN’S LIABILITY SHALL BE LIMITED TO THE FULLEST EXTENT SUCH EXCLUSION OR LIMITATION IS ALLOWABLE UNDER THE APPLICABLE LAW. In no event shall the total liability of Garmin to you for all losses and damages, including for any implied warranties, exceed the greater of fifty U.S. dollars (US $50.00) or the total amount you paid Garmin to use any service on or feature of the Garmin Sites in the twelve months prior to the date of an initial claim made against Garmin.
+
+Back to Menu
+
+THIRD-PARTY CONTENT; LINKS TO OTHER SITES
+
+The Site may contain links to third-party websites, give you the opportunity to download applications that are maintained by others, or enable you to view User Submissions posted by other users (collectively, “Third-Party Content”). Any such Third-Party Content is provided solely as a convenience to you and not as an endorsement by Garmin of such Third-Party Content. Garmin is not responsible for Third-Party Content and does not make any representations or warranties regarding the content or accuracy of materials on such third-party websites or applications or the privacy practices of such third parties. If you decide to access, download, or use Third-Party Content, you do so at your own risk.
+
+Back to Menu
+
+INDEMNITY
+
+By using the Site, you agree, to the extent permitted by law, to defend, indemnify, and hold harmless Garmin, its officers, directors, employees, and agents, from and against any claims, actions, or demands, including without limitation reasonable legal and accounting fees, alleging or resulting from your breach of these Terms of Use or your violation of any law or rights of a third party.
+
+Back to Menu
+
+INTELLECTUAL PROPERTY RIGHTS
+
+OWNERSHIP OF CONTENT
+
+The Content is protected by copyright, trademark, and other such laws in the United States and foreign countries and is owned or controlled by Garmin or by third parties that have licensed their Content to Garmin. Unauthorized use of the Content may violate copyright, trademark, and other laws.
+
+Back to Menu
+
+YOUR LICENSE TO ACCESS THE SITE
+
+Your access to this Site is provided on a temporary basis with no guarantee for future availability. Except as otherwise provided, you may use the Site and related “Content” (e.g., text, graphics, images, audio, video, domain names, hypertext, and related designs) solely for your personal and non-commercial use. No part of the Site and no Content may be copied, reproduced, uploaded, posted, publicly displayed, transmitted, or distributed in any way to any other computer, server, website, or other medium for publication or distribution or for any commercial use without Garmin’s prior express written authorization.
+
+Back to Menu
+
+USER SUBMISSIONS
+
+The Site may provide the opportunity for users to submit content (“User Submissions”) for viewing by one or more Site users, such as a message board, chat or comment feature, or forum.
+
+By submitting User Submissions to the Site, you grant, or warrant that the owner of such material has expressly granted, Garmin the royalty-free, perpetual, irrevocable, non-exclusive right and license to use, reproduce, modify, adapt, publish, translate, and distribute such material (in whole or in part) worldwide and/or to incorporate it in other works in any form, media, or technology now known or hereafter developed for the full term of any copyright or other rights that may exist in such material. You will be solely liable for any damage resulting from any defamation, infringement of copyrights, proprietary rights, or any other harm or claim resulting from a User Submission.
+
+Back to Menu
+
+FEEDBACK
+
+Any feedback you provide at the Site will be deemed to be non-confidential. Garmin will be free to use such information on an unrestricted basis.
+
+Back to Menu
+
+TRADEMARKS
+
+The trademarks, logos, and service marks (collectively, the "Marks") displayed on the Site are owned by Garmin or third parties. You are prohibited from use of the Marks without the express, written authorization of Garmin or such third party. If you would like information about obtaining Garmin's authorization to use the Content on your website, email terms@garmin.com.
+
+Back to Menu
+
+DOWNLOADED SOFTWARE LICENSE
+
+In the event that we offer downloads of software on the Site and you download such software, the software, including without limitation any files, images incorporated in or generated by the software, and data accompanying the software (collectively, the “Software”), is licensed to you by us or third-party licensors for your personal, non-commercial home use only. We do not transfer title to the Software to you. You may not distribute or otherwise exploit the Software or decompile, reverse engineer, disassemble, or otherwise reduce the Software to a human-readable form. UNLESS OTHERWISE SPECIFICALLY AND EXPRESSLY STATED ELSEWHERE, GARMIN HEREBY DISCLAIMS ALL WARRANTIES WITH REGARD TO THE SOFTWARE, INCLUDING WITHOUT LIMITATION ALL WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT, WHETHER SUCH WARRANTIES ARE EXPRESS, IMPLIED, OR STATUTORY.
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, GARMIN SHALL NOT BE LIABLE FOR (1) ANY INACCURACY, ERROR IN, OR FAILURE OF THE SOFTWARE; (2) ANY LOSS OR DAMAGE (INCLUDING WITHOUT LIMITATION ANY CONSEQUENTIAL, INDIRECT, INCIDENTAL, SPECIAL, OR EXEMPLARY DAMAGES) ARISING FROM ANY DOWNLOAD OR USE MADE OF THE SOFTWARE OR OCCASIONED BY ANY SUCH INACCURACY, ERROR IN, OR FAILURE OF THE SOFTWARE.
+
+Back to Menu
+
+COPYRIGHT POLICY
+
+Garmin respects the intellectual property rights of others. It is Garmin's policy, at its discretion and when appropriate, to terminate the accounts of users who may infringe or repeatedly infringe the copyrights of third parties.
+
+To submit a copyright infringement notification to Garmin relating to a Garmin Site, including but not limited to User Submissions or Content, please submit a notification pursuant to the Digital Millennium Copyright Act (“DMCA”) or, as applicable, other laws, by providing the below-specified Copyright Agent with the following information in writing:
+
+A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site.
+Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material.
+Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address.
+A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+A statement that the information in the notification is accurate, and, under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+You acknowledge that, if you fail to comply with all of the requirements of the preceding paragraph, your notification may not be valid. Please see 17 U.S.C. § 512 for more information regarding the DMCA and DMCA notifications.
+
+Our Agent to receive notification of claimed copyright infringement can be reached as follows:
+
+By submitting a form: Notice of Infringement
+
+By email: copyright@garmin.com
+
+By mail:
+DMCA Designated Agent
+Attn: Legal Department
+Garmin International, Inc.
+1200 East 151st Street
+Olathe, Kansas 66062
+
+Back to Menu
+
+GENERAL
+
+EXPORT CONTROL
+
+The United States and certain other countries control the export of products and information. You agree to comply with such restrictions and not to export or re-export the Content to countries or persons prohibited under export control laws. By downloading the Content, you are agreeing that you are not in a country where such export is prohibited and that you are not on the U.S. Commerce Department's Table of Denial Orders or the U.S. Treasury Department's list of Specially Designated Nationals. You are responsible for compliance with the laws of your local jurisdiction regarding the import, export, or re-export of the Content.
+
+Back to Menu
+
+CHOICE OF LAW; DISPUTE RESOLUTION
+
+If you are a resident of any European Economic Area country, the United Kingdom, Switzerland, Australia, or New Zealand the governing law and forum shall be the laws and courts of your usual place of residence.
+
+Except as provided in the previous paragraph, all legal issues arising from or related to your use of the Site and these Terms of Use shall be construed in accordance with and governed by the laws of the State of Kansas applicable to contracts entered into and performed within the State of Kansas without respect to its conflict of laws principles. By using the Site, you agree to submit to the personal and exclusive jurisdiction of the United States District Court for the District of Kansas, or any Kansas State court sitting in Johnson County, to resolve any dispute, claim or cause of action arising out of these Terms of Use or your use of the Site. You hereby irrevocably waive, to the fullest extent permitted by law, any objection which you may now or hereafter have to the laying of the venue of any such proceeding brought in such a court and any claim that any such proceeding brought in such a court has been brought in an inconvenient forum.
+
+Specifically excluded from application to these Terms of Use is the United Nations Convention on Contracts for the International Sale of Goods.
+
+Back to Menu
+
+CONSENT TO ELECTRONIC COMMUNICATIONS
+
+You agree to receive all communications from us electronically, either by e-mail or messages or postings on the Site. You agree that all communications that we send to you electronically satisfy any legal requirement that a communication be in writing.
+
+Back to Menu
+
+CONTACT
+
+In the event of a complaint, or to request further information, you may contact Garmin in writing at Garmin International, Inc., 1200 East 151st Street, Olathe, Kansas 66062, USA or by email at terms@garmin.com.
+
+Back to Menu
+
+EU DIGITAL SERVICES ACT
+
+If you see content on the Site that you believe is illegal, please report it using this Report Illegal Content form. In addition to human review of content on a case-by-case basis, we deploy technologies to automatically screen and block content for potential violations.
+
+When we remove content or suspend or terminate an account, we will inform you via email of the reason for our action and provide you with information on any available redress options, such as how to use our internal complaint-handling system to appeal the action.
+
+Garmin’s single point of contact for direct communication with EU Member States’ authorities, the European Commission, and the European Board for Digital Services is Garmin Nederland B.V., Bramenberg 9, 3755 BT Eemnes, Netherlands, digitalservicesact@garmin.com. We can receive communications to this contact in English or Dutch.
+
+We have fewer than 45 million active monthly users in the European Economic Area.

@@ -1,0 +1,156 @@
+# Modified 20260211
+
+# — OPENAI —
+User-agent: ChatGPT-User
+Allow: /
+ 
+User-agent: OAI-SearchBot
+Allow: /
+ 
+# — GOOGLE —
+User-agent: Googlebot
+Allow: /
+ 
+User-agent: Google-Extended
+Allow: /
+ 
+# — PERPLEXITY —
+User-agent: Perplexity-User
+Allow: /
+ 
+User-agent: PerplexityBot
+Allow: /
+ 
+# — ANTHROPIC —
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: *	
+Allow: /a/login/	
+Disallow: /a/*	
+Disallow: /*cgid*
+Disallow: /*dwvar*	
+Disallow: /*original=*	
+Disallow: /*pmax*	
+Disallow: /*pmin*	
+Disallow: /*prefn*	
+Disallow: /*?prefn1*
+Disallow: /*?prefn2*
+Disallow: /*prefv*
+Disallow: /*prefv1*
+Disallow: /*prefv2*
+Disallow: /*search?q*	
+Disallow: /*?*srule*	
+Disallow: /*?*sz*	
+Disallow: /*access-my-information*	
+Disallow: /Account-AccountGuard	
+Disallow: /Account-AccountGuardEnroll	
+Disallow: /Account-AccountGuardRedirect	
+Disallow: /Account-Email	
+Disallow: /Account-ManagePassword	
+Disallow: /Account-ManagePasswordForm	
+Disallow: /Account-Overview	
+Disallow: /Account-PasswordReset	
+Disallow: /Account-PasswordResetDialog	
+Disallow: /Account-PasswordResetDialogForm	
+Disallow: /Account-RegistrationForm	
+Disallow: /Account-SetNewPassword	
+Disallow: /Account-SetNewPasswordForm	
+Disallow: /Account-Show	
+Disallow: /Account-StartRegister	
+Disallow: /Address-Billing	
+Disallow: /Address-List	
+Disallow: /Bazaarvoice-Container	
+Disallow: /bday-email-submitted/	
+Disallow: /Cart-AddProduct	
+Disallow: /Cart-AddToWishlist	
+Disallow: /Cart-Show	
+Disallow: /Cart-SubmitForm	
+Disallow: /catalog-confirmation/	
+Disallow: /Catalog-Request	
+Disallow: /Catalog-Submit	
+Disallow: /co/*	
+Disallow: /COBilling-Address	
+Disallow: /COBilling-Billing	
+Disallow: /COBilling-Start	
+Disallow: /COCustomer-LoginForm	
+Disallow: /COCustomer-Start	
+Disallow: /COShippingMultiple-MultiShippingAddresses	
+Disallow: /COShippingMultiple-MultiShippingMethods	
+Disallow: /COShipping-SingleShipping	
+Disallow: /COShipping-Start	
+Disallow: /COSummary-Start	
+Disallow: /COSummary-Submit	
+Disallow: /CreditCheck-Error	
+Disallow: /CreditCheck-Start	
+Disallow: /CreditCheck-Update	
+Disallow: /CustomerService-BuyNowPayLater	
+Disallow: /CustomerService-ContactUs	
+Disallow: /CustomerService-Coupons	
+Disallow: /CustomerService-EmailUs	
+Disallow: /CustomerService-Show	
+Disallow: /CustomerService-Submit	
+Disallow: /CustomerService-SubmitEmailUs	
+Disallow: /*delete-my-information*	
+Disallow: /DownPayment-Show	
+Disallow: /DownPayment-Start	
+Disallow: /DownPayment-SubmitForm	
+Disallow: /email-submitted/	
+Disallow: /EmailSignup-Birthday	
+Disallow: /EmailSignup-Form	
+Disallow: /EmailSignup-Submit	
+Disallow: /EmailSignup-SubmitBirthday	
+Disallow: /empsale/	
+Disallow: /GiftRegistry-Start	
+Disallow: /Home-ErrorNotFound	
+Disallow: /Login-LoginForm	
+Disallow: /Login-Logout	
+Disallow: /Login-Show	
+Disallow: /netstorage/	
+Disallow: /Order-Detail	
+Disallow: /Order-History	
+Disallow: /Order-Overview	
+Disallow: /Order-Status	
+Disallow: /Order-StatusForm	
+Disallow: /page-not-found	
+Disallow: /Page-Show	
+Disallow: /Payment-AddAccount	
+Disallow: /Payment-AddAccountForm	
+Disallow: /Payment-Autopay	
+Disallow: /Payment-AutopayEnrollment	
+Disallow: /Payment-Guest	
+Disallow: /Payment-GuestPayment	
+Disallow: /Payment-GuestPaymentForm	
+Disallow: /PaymentInstruments-List	
+Disallow: /Payment-MakePayment	
+Disallow: /Payment-MakePaymentForm	
+Disallow: /Payment-ManageDate	
+Disallow: /Payment-ManageDateForm	
+Disallow: /Payment-Overview	
+Disallow: /Prequalification-Form	
+Disallow: /Prequalification-Result	
+Disallow: /Product-contentTileDialog2		
+Disallow: /Product-shippingRestrictionsDialog	
+Disallow: /Product-Show	
+Disallow: /Product-ShowInCategory	
+Disallow: /Product-Variation	
+Disallow: /profile
+Disallow: /proofing/	
+Disallow: /QAS-VerifyAddress	
+Disallow: /search/*	
+Disallow: /Search-GetSuggestions	
+Disallow: /Search-Show
+Disallow: /shipping-restrictions/	
+Disallow: /SiteMap-Start	
+Disallow: /Statements-Last	
+Disallow: /Statements-Overview	
+Disallow: /Wishlist-Add	
+Disallow: /Wishlist-Search	
+Disallow: /Wishlist-Show	
+Disallow: /Wishlist-ShowOther
+	
+Sitemap: https://www.countrydoor.com/sitemap_index.xml
+Sitemap: https://www.countrydoor.com/blog/sitemap_index.xml

@@ -1,0 +1,38 @@
+Terms & Conditions | PointClickCare
+Skip to main content
+Terms & Conditions
+The terms on this webpage govern the access and use of PointClickCare electronic health record and related cloud‐based services and are incorporated by reference into any order form signed by the customer. By signing an order form, the customer acknowledges and agrees to these terms, which may include the Master Subscription Agreement (MSA), the Business Associate Agreement (BAA), relevant product-specific addenda, and any applicable amendments. These terms may be updated periodically, and customers are encouraged to review this page from time to time to stay informed of any changes. Customer continued access to, or use of, PointClickCare services following any updates to the applicable terms shall constitute acceptance of the revised terms.
+Master Subscription Agreement
+The MSA governs the terms under which customers access and use of PointClickCare electronic health record and related cloud‐based services. It outlines key provisions, including but not limited to the scope of subscription services, payment terms, intellectual property rights, service levels, data security, confidentiality, indemnification, and liability limitations. The MSA provides a standardized framework of terms for ongoing engagements, ensuring clarity and consistency while allowing for flexibility through separate orders forms and/or statements of work. The applicable MSA will be specified in your order form. By accepting the MSA, customers agree to the rights and responsibilities that enable seamless and secure use of PointClickCare software solutions.
+Addenda and Amendments to the MSA
+Product-specific addenda and amendments supplement the MSA by establishing terms specific to certain products, services, or regulatory requirements. These documents modify or expand the MSA to address product-specific features, pricing adjustments, compliance obligations, and additional service commitments. They ensure that customers receive tailored terms relevant to their selected products while maintaining the overarching framework of the MSA. The applicable addenda or amendments will be specified in your order form. By accepting these provisions, customers agree to the customized terms applicable to their selected products or services.
+Business Associate Agreement
+The BAA governs the handling of Protected Health Information (PHI) by PointClickCare in its role as a Business Associate when providing services to customers classified as Covered Entities under the Health Insurance Portability and Accountability Act (HIPAA). It ensures compliance with HIPAA regulations by defining permissible uses and disclosures of PHI, establishing security requirements, and outlining breach notification obligations. The BAA serves to protect patient privacy and address regulatory obligations associated with the exchange of PHI between organizations. This agreement applies exclusively to U.S.-based customers that meet HIPAA’s definition of a Covered Entity.
+Master Subscription Agreements
+PointClickCare Master Subscription Agreement v1.0 2025
+PointClickCare Master Subscription Agreement for EHR for Practice Groups v1.0 2025
+Business Associate Agreement
+PointClickCare Business Associate Agreement (BAA) v1.0 2025
+Acute and Payer Agreement
+Collective Master Subscription Agreement and Business Associate Agreement – December 2025
+Addenda and Amendments
+Carequality MSA Addendum – v.2022.1
+PointClickCare Addendum to MSA – Voice Dictation Services
+PointClickCare Addendum to MSA for Apploi Services
+PointClickCare Addendum to MSA for Cliniconex Services
+PointClickCare Addendum to MSA for eConnect Services (for Ontario Customers)
+PointClickCare Addendum to MSA for ePrescribing (EPCS) Services
+PointClickCare Addendum to MSA for HISP Services
+PointClickCare Addendum to MSA for Interoperability and Population Health Services
+PointClickCare Addendum to MSA for Mealtime Solutions
+PointClickCare Addendum to MSA for Practitioner Engagement Services
+PointClickCare Addendum to MSA for Secure Conversations – for U.S. Based Government Customers Only
+PointClickCare Addendum to MSA for Secure Conversations Services
+PointClickCare Addendum to MSA for Senior Sign Services
+PointClickCare Addendum to MSA for ServiceFlex Services
+PointClickCare Addendum to MSA for Single Sign On Services
+PointClickCare Addendum to MSA for Surescripts Services for New York State Customers
+PointClickCare Addendum to MSA for Virtual Health Services – ACO MSSP Participation
+PointClickCare Addendum to MSA for Virtual Health Services
+PointClickCare Network Amendment to MSA [Acute Customer]
+PointClickCare Network Amendment to MSA [LTPAC Customer]

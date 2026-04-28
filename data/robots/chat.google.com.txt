@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /$
+Allow: /.well-known/*
+Allow: /apple-app-site-association
+Disallow: /
+
+Sitemap: https://chat.google.com/sitemap.xml

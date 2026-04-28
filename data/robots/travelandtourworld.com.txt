@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-json/
+Allow: /ads.txt
+
+User-agent: Bingbot
+Allow: /sitemap.xml
+
+User-agent: Googlebot
+Allow: /images/logo.png
+
+User-agent: SiteAuditBot
+Allow: /
+
+Sitemap: https://www.travelandtourworld.com/news-sitemap.xml
+Sitemap: https://www.travelandtourworld.com/sitemap.xml
+Sitemap: https://www.travelandtourworld.com/sitemap.rss
