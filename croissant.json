@@ -77,8 +77,8 @@
       "description": "1,626 domains explicitly prohibiting scraping (rows = domains).",
       "contentUrl": "https://raw.githubusercontent.com/imperialite/scrapebench/main/data/prohibited.csv",
       "encodingFormat": "text/csv",
-      "sha256": "ce3480440e1283a5efe7eaa9dd1712d1745a4edadfb528ca16ee1bf367540857",
-      "contentSize": "1134774 B"
+      "sha256": "5bf80942972c599a83502bc5c4314908e89ee53f1d91ad4a9328f3c63480ac69",
+      "contentSize": "1133147 B"
     },
     {
       "@type": "cr:FileObject",
@@ -87,8 +87,8 @@
       "description": "269 domains not explicitly prohibiting scraping (rows = domains).",
       "contentUrl": "https://raw.githubusercontent.com/imperialite/scrapebench/main/data/permissible.csv",
       "encodingFormat": "text/csv",
-      "sha256": "99bfe16eca98c161d27c8020740d769f1641c60d1ee555c5647b9b39a90bb3f3",
-      "contentSize": "38688 B"
+      "sha256": "a5d342105417741da93c614976742f86465a001de302c4022aa2287ce2628e21",
+      "contentSize": "38418 B"
     },
     {
       "@type": "cr:FileObject",
