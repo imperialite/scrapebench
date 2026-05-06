@@ -512,6 +512,19 @@
   "rai:dataSyntheticData": "No synthetic data. All ToS and robots.txt content is verbatim from the respective live websites (with possible minor whitespace normalisation from the scraper). Permissibility labels are LLM-generated (GPT-5.2) but verified against a 15% manually-checked random sample.",
   "rai:hasSyntheticData": false,
   "rai:dataSensitiveContent": "The dataset contains the verbatim Terms of Service text of 1,895 websites. While these are public, copyright in the underlying texts remains with the respective publishers; users of this dataset must respect the publishers' rights and treat the snapshots as research reproductions, not as redistributable content.",
+  "prov:wasDerivedFrom": [
+    {
+      "@type": "prov:Entity",
+      "prov:label": "Chrome User Experience Report (CrUX) top-million-websites list (February 2026 snapshot)",
+      "prov:description": "Source list of the top 3,000 most-visited websites globally, used to seed the ScrapeBench domain pool before filtering and labelling.",
+      "url": "https://developer.chrome.com/docs/crux/"
+    },
+    {
+      "@type": "prov:Entity",
+      "prov:label": "Per-domain Terms of Service and robots.txt resources",
+      "prov:description": "Public-facing ToS pages and robots.txt files of the 1,895 websites included in the dataset, retrieved verbatim from each site between February and April 2026. Copyright in the underlying texts remains with the respective website operators; ScrapeBench redistributes these as unaltered snapshots for academic benchmarking under fair-use / research-exception principles."
+    }
+  ],
   "prov:wasGeneratedBy": {
     "@type": "prov:Activity",
     "prov:label": "ScrapeBench data-collection and labelling pipeline",
