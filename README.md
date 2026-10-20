@@ -1,4 +1,4 @@
-# Anonymous Data and Code Repository for ScrapeBench.
+# Code and Data Repository for ScrapeBench.
 
 This repository contains the agentic (tool-use) inference code and the
 prohibited / permissible website datasets used to evaluate AI agents'
