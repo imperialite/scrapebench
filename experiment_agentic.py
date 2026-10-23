@@ -242,6 +242,10 @@ def fetch_url(url):
     Actually fetch a URL via HTTP GET.
     Returns a dict with status_code, content_type, content, url, error.
     """
+    if not isinstance(url, str) or not url.strip():
+        return {"status_code": None, "content_type": "", "content": "", "url": url,
+                "error": "Tool URL must be a non-empty string"}
+
     # Prepend https:// if no scheme
     if not url.startswith(("http://", "https://")):
         url = "https://" + url
@@ -385,9 +389,23 @@ def run_agent(client, model_id, domain, max_iterations=MAX_AGENT_ITERATIONS, pro
         for tc in assistant_msg.tool_calls:
             try:
                 args = json.loads(tc.function.arguments)
-                url = args.get("url", "")
-            except (json.JSONDecodeError, AttributeError):
-                url = tc.function.arguments  # fallback: treat as raw URL string
+                if not isinstance(args, dict):
+                    raise ValueError("Tool arguments must be a JSON object")
+                url = args.get("url")
+                if not isinstance(url, str) or not url.strip():
+                    raise ValueError("Tool URL must be a non-empty string")
+            except (TypeError, ValueError) as exc:
+                error = "Invalid fetch_url arguments: {}".format(str(exc)[:200])
+                messages.append({
+                    "role": "tool",
+                    "tool_call_id": tc.id,
+                    "content": json.dumps({
+                        "status_code": None, "content_type": "", "content": "",
+                        "url": None, "error": error,
+                    }),
+                })
+                return {"conversation": messages, "urls_fetched": urls_fetched,
+                        "final_text": final_text, "iterations": iteration + 1, "error": error}
 
             urls_fetched.append(url)
             result = fetch_url(url)

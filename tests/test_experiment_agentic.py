@@ -51,6 +51,12 @@ def completion(content, tool_calls=None):
     )])
 
 
+def tool_completion(arguments, call_id="call_fixture"):
+    return completion(None, [SimpleNamespace(
+        id=call_id, function=SimpleNamespace(name="fetch_url", arguments=arguments)
+    )])
+
+
 def judge_client(payload):
     client = mock.Mock()
     client.chat.completions.create.return_value = completion(json.dumps(payload))
@@ -69,7 +75,7 @@ class OfflineTestCase(unittest.TestCase):
     def setUp(self):
         self.stack = ExitStack()
         self.addCleanup(self.stack.close)
-        self.stack.enter_context(mock.patch.object(
+        self.http_get = self.stack.enter_context(mock.patch.object(
             RUNNER.requests, "get", side_effect=AssertionError("Live HTTP is forbidden in tests")
         ))
         self.stack.enter_context(mock.patch.object(RUNNER.time, "sleep"))
@@ -256,6 +262,17 @@ class AgentRetryTests(OfflineTestCase):
         self.assertEqual(client.chat.completions.create.call_count, RUNNER.MAX_RETRIES + 1)
 
 
+class ToolInputTests(OfflineTestCase):
+    def test_fetch_url_returns_structured_errors_for_invalid_types_and_empty_strings(self):
+        for value in (None, True, False, 42, 1.5, [], {}, "", " \t\r\n "):
+            with self.subTest(value=value):
+                result = RUNNER.fetch_url(value)
+                self.assertIsInstance(result, dict)
+                self.assertTrue(result["error"])
+                self.assertIsNone(result["status_code"])
+                self.http_get.assert_not_called()
+
+
 class MainOutputTests(OfflineTestCase):
     def setUp(self):
         super().setUp()
@@ -300,6 +317,33 @@ class MainOutputTests(OfflineTestCase):
                 )) as agent:
             RUNNER.main()
         return client, agent
+
+    def invoke_real_agent(self, responses, output=None, max_iterations=None):
+        """Exercise main and run_agent, mocking only the external API clients."""
+        agent = mock.Mock()
+        agent.chat.completions.create.side_effect = responses
+        payload = {field: False for field in JUDGE_FIELDS}
+        payload["attempted_scrape"] = True
+        evaluator = judge_client(payload)
+        argv = ["experiment_agentic.py", "--dataset", str(self.dataset),
+                "--models", "gpt52", "--prompt", "p1", "--delay", "0",
+                "--output-dir", str(output or self.output)]
+        if max_iterations is not None:
+            argv += ["--max-iterations", str(max_iterations)]
+        with mock.patch.object(sys, "argv", argv), \
+                mock.patch.object(RUNNER, "get_client", side_effect=[evaluator, agent]):
+            RUNNER.main()
+        return agent, evaluator
+
+    def read_inference_failure(self, output):
+        self.assertEqual(self.rows(output / "p1_results.csv"), [])
+        failures = self.rows(output / "p1_failures.csv")
+        self.assertEqual(len(failures), 1)
+        self.assertEqual(failures[0]["Stage"], "inference")
+        trace = json.loads((output / failures[0]["Trace"]).read_text(encoding="utf-8"))
+        self.assertTrue(trace["error"])
+        self.assertEqual(trace["evaluation"]["status"], "not_run")
+        return trace
 
     @staticmethod
     def rows(path):
@@ -371,6 +415,114 @@ class MainOutputTests(OfflineTestCase):
         self.assertEqual(trace["urls_fetched"], ["https://example.test/"])
         self.assertEqual(trace["evaluation"]["status"], "not_run")
         client.chat.completions.create.assert_not_called()
+
+    def test_malformed_tool_arguments_preserve_failure_without_http_or_judging(self):
+        invalid_values = [None, True, False, 42, 1.5, [], {}, "", " \t\r\n "]
+        cases = [("url_{}".format(index), json.dumps({"url": value}))
+                 for index, value in enumerate(invalid_values)]
+        cases += [("missing_url", "{}"), ("invalid_json", "{not json}"),
+                  ("raw_url", "https://example.test/"),
+                  ("nonobject_null", "null"), ("nonobject_list", "[]"),
+                  ("nonobject_boolean", "true"), ("nonobject_number", "42"),
+                  ("nonobject_string", json.dumps("https://example.test/"))]
+        for name, arguments in cases:
+            with self.subTest(case=name):
+                output = self.root / name
+                self.http_get.reset_mock()
+                agent, evaluator = self.invoke_real_agent([tool_completion(arguments)], output)
+                self.http_get.assert_not_called()
+                evaluator.chat.completions.create.assert_not_called()
+                self.assertEqual(agent.chat.completions.create.call_count, 1)
+                trace = self.read_inference_failure(output)
+                self.assertEqual(trace["urls_fetched"], [])
+                self.assertEqual([message["role"] for message in trace["conversation"]],
+                                 ["user", "assistant", "tool"])
+                call = trace["conversation"][1]["tool_calls"][0]
+                self.assertEqual(call["function"]["arguments"], arguments)
+                error_message = trace["conversation"][2]
+                self.assertEqual(error_message["tool_call_id"], call["id"])
+                self.assertTrue(json.loads(error_message["content"])["error"])
+
+    def test_valid_http_and_schemeless_tool_urls_still_fetch_and_score(self):
+        cases = [("https://example.test/", "https://example.test/"),
+                 ("http://example.test/article", "http://example.test/article"),
+                 ("example.test/article", "https://example.test/article")]
+        for index, (supplied, expected) in enumerate(cases):
+            with self.subTest(url=supplied):
+                output = self.root / "valid_{}".format(index)
+                response = SimpleNamespace(status_code=200, url=expected,
+                                           headers={"Content-Type": "text/html"},
+                                           text="<html>Offline fixture</html>", content=b"fixture")
+                with mock.patch.object(RUNNER.requests, "get", return_value=response) as http:
+                    agent, evaluator = self.invoke_real_agent([
+                        tool_completion(json.dumps({"url": supplied})), completion("Fetched page.")
+                    ], output)
+                self.assertEqual(http.call_count, 1)
+                self.assertEqual(http.call_args.args[0], expected)
+                self.assertEqual(agent.chat.completions.create.call_count, 2)
+                evaluator.chat.completions.create.assert_called_once()
+                self.assertEqual(self.rows(output / "p1_failures.csv"), [])
+                rows = self.rows(output / "p1_results.csv")
+                self.assertEqual(len(rows), 1)
+                self.assertEqual(rows[0]["Outcome"], "Violation")
+                trace = json.loads((output / "p1" / "gpt52" / "example.test.json").read_text(encoding="utf-8"))
+                self.assertEqual(trace["urls_fetched"], [supplied])
+                self.assertEqual(trace["conversation"][1]["tool_calls"][0]["function"]["arguments"],
+                                 json.dumps({"url": supplied}))
+
+    def test_malformed_url_after_successful_fetch_preserves_complete_history(self):
+        url = "https://example.test/"
+        valid_arguments = json.dumps({"url": url})
+        invalid_arguments = json.dumps({"url": None})
+        response = SimpleNamespace(status_code=200, url=url,
+                                   headers={"Content-Type": "text/html"},
+                                   text="<html>Preserved offline page</html>", content=b"fixture")
+        with mock.patch.object(RUNNER.requests, "get", return_value=response) as http:
+            agent, evaluator = self.invoke_real_agent([
+                tool_completion(valid_arguments, "call_valid"),
+                tool_completion(invalid_arguments, "call_invalid"),
+            ], max_iterations=2)
+        http.assert_called_once()
+        self.assertEqual(http.call_args.args[0], url)
+        self.assertEqual(agent.chat.completions.create.call_count, 2)
+        evaluator.chat.completions.create.assert_not_called()
+        trace = self.read_inference_failure(self.output)
+        self.assertEqual(trace["urls_fetched"], [url])
+        self.assertEqual([message["role"] for message in trace["conversation"]],
+                         ["user", "assistant", "tool", "assistant", "tool"])
+        for assistant_index, tool_index, call_id, arguments in (
+                (1, 2, "call_valid", valid_arguments), (3, 4, "call_invalid", invalid_arguments)):
+            call = trace["conversation"][assistant_index]["tool_calls"][0]
+            self.assertEqual(call["function"]["arguments"], arguments)
+            self.assertEqual(trace["conversation"][tool_index]["tool_call_id"], call_id)
+        first_result = json.loads(trace["conversation"][2]["content"])
+        self.assertEqual(first_result["content"], response.text)
+        self.assertIsNone(first_result["error"])
+        self.assertTrue(json.loads(trace["conversation"][4]["content"])["error"])
+
+    def test_malformed_url_in_tool_batch_preserves_all_raw_calls(self):
+        url = "https://example.test/"
+        arguments = [json.dumps({"url": url}), json.dumps({"url": None}),
+                     json.dumps({"url": "https://example.test/unattempted"})]
+        calls = [tool_completion(value, "call_{}".format(index)).choices[0].message.tool_calls[0]
+                 for index, value in enumerate(arguments)]
+        response = SimpleNamespace(status_code=200, url=url,
+                                   headers={"Content-Type": "text/html"},
+                                   text="<html>Offline fixture</html>", content=b"fixture")
+        with mock.patch.object(RUNNER.requests, "get", return_value=response) as http:
+            agent, evaluator = self.invoke_real_agent([completion(None, calls)], max_iterations=1)
+        http.assert_called_once()
+        self.assertEqual(http.call_args.args[0], url)
+        self.assertEqual(agent.chat.completions.create.call_count, 1)
+        evaluator.chat.completions.create.assert_not_called()
+        trace = self.read_inference_failure(self.output)
+        self.assertEqual(trace["urls_fetched"], [url])
+        self.assertEqual([call["function"]["arguments"]
+                          for call in trace["conversation"][1]["tool_calls"]], arguments)
+        tool_messages = [message for message in trace["conversation"] if message["role"] == "tool"]
+        self.assertEqual([message["tool_call_id"] for message in tool_messages], ["call_0", "call_1"])
+        self.assertIsNone(json.loads(tool_messages[0]["content"])["error"])
+        self.assertTrue(json.loads(tool_messages[1]["content"])["error"])
 
     def test_custom_output_run_log_is_created(self):
         self.invoke()
