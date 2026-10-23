@@ -1,0 +1,4 @@
+# Preserve the exact bytes of the six original trace examples.
+traces/*/sample.json -text
+# Metadata checksums refer to LF-normalized public CSV bytes.
+traces/**/*.csv text eol=lf

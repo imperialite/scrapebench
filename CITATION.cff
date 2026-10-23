@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use ScrapeBench code, data, or agent traces, please cite the paper below."
+type: software
+title: "ScrapeBench: Code and Data"
+authors:
+  - family-names: Imperial
+    given-names: Joseph Marvin
+    affiliation: "Pivotal Research; University of Bath; National University Philippines"
+    website: "https://www.josephimperial.com/"
+  - family-names: Slate
+    given-names: Daniel
+    affiliation: "University of Notre Dame"
+    website: "https://law.nd.edu/directory/daniel-slate/"
+  - family-names: Kolt
+    given-names: Noam
+    affiliation: "Hebrew University of Jerusalem"
+    website: "https://www.noamkolt.com/"
+repository-code: "https://github.com/imperialite/scrapebench"
+url: "https://scrapebench.github.io/"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "ScrapeBench: Evaluating Legal Compliance of AI Agents in Website Scraping"
+  authors:
+    - family-names: Imperial
+      given-names: Joseph Marvin
+    - family-names: Slate
+      given-names: Daniel
+    - family-names: Kolt
+      given-names: Noam
+  conference:
+    name: "NeurIPS 2026 (Evaluations and Datasets Track)"
+  notes: "To be presented at NeurIPS 2026, Evaluations and Datasets Track."
+  year: 2026
+  url: "https://scrapebench.github.io/"
